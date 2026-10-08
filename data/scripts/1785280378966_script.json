@@ -1,0 +1,132 @@
+{
+  "title": "Top 1 Gadget Increíble que No Creerás Existe",
+  "hook": {
+    "type": "statement",
+    "text": "",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "25s-35s"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "GoSun Solar Water Purifier",
+        "productId": "B0D8J8PY27",
+        "productName": "GoSun Solar Water Purifier",
+        "filename": "B0D8J8PY27.mp4",
+        "asin": "B0D8J8PY27",
+        "videoDuration": 60.962167,
+        "estimatedAudioSeconds": 33,
+        "framework": "experiencia_sensorial",
+        "narracionSegments": null,
+        "content": [
+          "¿Cansado del agua sucia al acampar? GoSun Solar Water Purifier. Purifica con tan solo un botón. Usa filtración médica de cero punto cero uno micrones. Presiona un botón; fluye rápido, hasta setecientos mililitros por minuto. Convierte ríos en agua segura. Cárgalo solar, a manivela o con USB Tipo C. Integra linterna LED y banco de energía tres mil miliamperios hora. Nunca te quedes sin energía ni agua... Empaca inteligente.",
+          "Su precio actual ronda los... sesenta y ocho dólares. Link en comentarios."
+        ],
+        "visuals": [
+          "Product image: GoSun Solar Water Purifier"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0D8J8PY27.mp4",
+        "precio": "$68",
+        "productPhoto": "https://m.media-amazon.com/images/I/71+ROx07SzL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "✅ OLVIDA LA BOMBA MANUAL: Di adiós a las agotadoras bombas de mano o a los apretones. Nuestro purificador de agua eléctrico totalmente automático ofrece un chorro instantáneo y de alto flujo de hasta 23.7 fl oz (700ml) por minuto con solo presionar un botón. Ahorra tu energía para el sendero y obtén hidratación rápida cuando más la necesites.",
+          "✅ FILTRACIÓN DE GRADO MÉDICO DE 0.01 MICRONS: Convierte ríos y lagos cuestionables en agua potable segura. Con un avanzado sistema de 5 etapas y una membrana de fibra hueca UF de 0.01 micrones, este filtro proporciona una barrera física contra impurezas microscópicas. Probado de forma independiente por SGS y cumpliendo con rigurosos estándares NSF/ANSI para tu máxima tranquilidad.",
+          "✅ NUNCA TE QUEDES SIN ENERGÍA (CARGA EN 3 MANERAS): Mantente alimentado fuera de la red. Este filtro de agua a batería ofrece tres opciones de carga versátiles: un panel solar integrado para días soleados, una manivela de emergencia para situaciones críticas y un puerto USB-C de carga rápida para preparativos antes del viaje. Un verdadero imprescindible para cualquier bolsa de evacuación.",
+          "✅ HERRAMIENTA DE SUPERVIVENCIA 3 EN 1 ULTIMATE: Empaca más ligero y de manera más inteligente. Además de purificar agua, este dispositivo cuenta con un banco de energía integrado de 3000mAh para revivir tu teléfono muerto en emergencias, además de una brillante linterna LED con un modo estroboscópico SOS para señalización. No es solo un filtro de agua para acampar; es un kit completo de supervivencia de emergencia.",
+          "✅ 264-GALLON LIFESPAN & EASY BACKWASH: Diseñado para durar, un solo cartucho de filtro produce hasta 264 gallons (1,000L) de agua limpia, equivalente a 2,000 botellas de plástico. La función inteligente de retro lavado eléctrico elimina sin esfuerzo los desechos, manteniendo la tasa de flujo máxima y extendiendo la vida del filtro. (¿Necesitas reemplazos? Busca en Amazon: Pre-filter B0DDSYD9CM, Internal Filter B09Y5W1VVZ, o Combo B0DDT686CR)."
+        ]
+      }
+    ],
+    "totalDuration": 40
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      ""
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:10",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadget",
+    "increble",
+    "creers",
+    "existe"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 1 Gadget Increíble que No Creerás Existe",
+      "angle": "Top 1 Gadget Increíble que No Creerás Existe",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 1,
+      "introScript": "¿Alguna vez imaginaste tener un dispositivo que convierte el vapor en agua potable mientras acampas en medio de la naturaleza? Este gadget innovador no solo hace eso, sino que además es portátil y se carga con energía solar, permitiendo que te mantengas hidratado sin importar dónde estés. Quédate para descubrir cómo este invento puede cambiar la forma en que exploras el mundo.",
+      "keywords": [
+        "gadget",
+        "increble",
+        "creers",
+        "existe"
+      ],
+      "estimatedViews": 4523,
+      "bestPublishTime": "2026-07-31T20:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "GoSun Solar Water Purifier",
+          "searchTermEn": "solar water purifier portable",
+          "id": "B0D8J8PY27",
+          "filename": "B0D8J8PY27.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-07-28T23:08:54.441Z",
+      "_requestedCount": 1,
+      "_adaptedCount": 1,
+      "introProductsOrder": [
+        {
+          "nombre": "GoSun Solar Water Purifier",
+          "id": "B0D8J8PY27",
+          "filename": "B0D8J8PY27.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0D8J8PY27.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1785280357043_lgnad4"
+    },
+    "generatedAt": "2026-07-28T23:12:46.612Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "GoSun Solar Water Purifier",
+        "searchTermEn": "solar water purifier portable",
+        "id": "B0D8J8PY27",
+        "filename": "B0D8J8PY27.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 1 Gadget Increíble que No Creerás Existe\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\n\n\n[25s-35s] INTRODUCTION\n\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] GOSUN SOLAR WATER PURIFIER\n¿Cansado del agua sucia al acampar? GoSun Solar Water Purifier. Purifica con tan solo un botón. Usa filtración médica de cero punto cero uno micrones. Presiona un botón; fluye rápido, hasta setecientos mililitros por minuto. Convierte ríos en agua segura. Cárgalo solar, a manivela o con USB Tipo C. Integra linterna LED y banco de energía tres mil miliamperios hora. Nunca te quedes sin energía ni agua... Empaca inteligente.\nSu precio actual ronda los... sesenta y ocho dólares. Link en comentarios.\n\n[VISUALS: Product image: GoSun Solar Water Purifier]\n\n[10 seconds] CONCLUSION\n\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:10\nTONE: engaging\nPACING: quick\nKEYWORDS: gadget, increble, creers, existe\n"
+}

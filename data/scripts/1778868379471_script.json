@@ -1,0 +1,479 @@
+{
+  "title": "Top 3 Laptops Imprescindibles para tu Oficina",
+  "hook": {
+    "type": "statement",
+    "text": "Extiende tu espacio de trabajo y multiplica tareas. Diseña con precisión mientras rotas la pantalla.",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "¿Cuál querrías tú? Los links están en el primer comentario.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0:10-0:15"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Framework Laptop 13",
+        "productId": "B0872K4XCJ",
+        "productName": "Framework Laptop 13",
+        "filename": "B0872K4XCJ.mp4",
+        "asin": "B0872K4XCJ",
+        "clipDuration": 60.06,
+        "estimatedAudioSeconds": 71,
+        "framework": "problema_solucion",
+        "narracionSegments": null,
+        "content": [
+          "¿Harto de no poder actualizar tu laptop a medida que las demandas cambian? La Framework Laptop 13 te ofrece una solución modular, permitiéndote cambiar componentes fácilmente. Disfruta de un futuro informático donde la obsolescencia programada no tiene cabida, ampliando tu memoria RAM o aumentando el almacenamiento según tus necesidades.",
+          "Su precio actual en Amazon ronda los... 279 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Framework Laptop 13"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0872K4XCJ_combined.mp4",
+        "precio": "$279",
+        "productPhoto": "https://m.media-amazon.com/images/I/71arQOG5qPL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": []
+      },
+      {
+        "type": "content",
+        "title": "Microsoft Surface Laptop Studio",
+        "productId": "B0D7TR2R2T",
+        "productName": "Microsoft Surface Laptop Studio",
+        "filename": "B0D7TR2R2T.mp4",
+        "asin": "B0D7TR2R2T",
+        "clipDuration": 60.06,
+        "estimatedAudioSeconds": 71,
+        "framework": "enfoque_caracteristica",
+        "narracionSegments": null,
+        "content": [
+          "Con un increíble procesador Intel Core i7 de undécima generación, el Microsoft Surface Laptop Studio redefine el rendimiento portátil. Su pantalla táctil de 14.4 pulgadas con resolución de 2400 x 1600 te permite interactuar sin esfuerzo con gráficos impactantes alimentados por la GPU NVIDIA GeForce RTX™ 3050 Ti. Deja que este diseño limpio y elegante mejore tanto tu espacio como tu creatividad.",
+          "Su precio actual en Amazon ronda los... 1126 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Microsoft Surface Laptop Studio"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0D7TR2R2T_combined.mp4",
+        "precio": "$1126",
+        "productPhoto": "https://m.media-amazon.com/images/I/61LMopCIyTL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "Microsoft Surface Laptop Studio Intel Core i7 11th Gen 11370H (3.30GHz) Quad-core Processor, 14.4\" Touchscreen 2400 x 1600 Display",
+          "1TB Solid State Drive, 32GB RAM",
+          "Clean, elegant design thin and light, starting at just 4.0 pounds,, NVIDIA GeForce RTX 3050 Ti Laptop GPU",
+          "Bluetooth 4.0, Wi-Fi: 802.11ac Wireless LAN, Surface Pen NOT Included",
+          "USB 3.0, Mini DisplayPort, SD Card Slot., Windows 11 Home"
+        ]
+      },
+      {
+        "type": "content",
+        "title": "ASUS ZenBook Pro Duo",
+        "productId": "B086P6THG6",
+        "productName": "ASUS ZenBook Pro Duo",
+        "filename": "B086P6THG6.mp4",
+        "asin": "B086P6THG6",
+        "clipDuration": 262.13,
+        "estimatedAudioSeconds": null,
+        "framework": "beneficio_oculto",
+        "narracionSegments": null,
+        "content": [
+          "\"Descubre la funcionalidad secreta del ASUS ZenBook Pro Duo: su ScreenPad Plus. Con un panel táctil secundario de 12.6 pulgadas, esta laptop te permite gestionar múltiples tareas simultáneamente creando flujos de trabajo inigualables. Potenciada por un Intel i7 de décima generación y un SSD ultrarrápido de 512GB, redefine la productividad sin comprometer estilo ni portabilidad.\"",
+          ""
+        ],
+        "visuals": [
+          "Product image: ASUS ZenBook Pro Duo"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B086P6THG6_combined.mp4",
+        "precio": "$2110",
+        "productPhoto": "https://m.media-amazon.com/images/I/81PGX7kO4kL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B086P6THG6\\scenes_v1\\B086P6THG6_scene_02.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "pantalla encendida",
+            "raw": "9|pantalla encendida"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B086P6THG6\\scenes_v1\\B086P6THG6_scene_01.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "pantallas encendidas",
+            "raw": "9|pantallas encendidas"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B086P6THG6\\scenes_v2\\B086P6THG6_v2_scene_09.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "pantalla encendida",
+            "raw": "9|pantalla encendida"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B086P6THG6\\scenes_v2\\B086P6THG6_v2_scene_14.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "pantallas interactivas",
+            "raw": "9|pantallas interactivas"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B086P6THG6\\scenes_v3\\B086P6THG6_v3_scene_01.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "pantallas encendidas",
+            "raw": "9|pantallas encendidas"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B086P6THG6\\scenes_v3\\B086P6THG6_v3_scene_02.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "pantallas encendidas",
+            "raw": "9|pantallas encendidas"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B086P6THG6\\scenes_v3\\B086P6THG6_v3_scene_03.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B086P6THG6\\scenes_v3\\B086P6THG6_v3_scene_04.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Interacción multitarea",
+            "raw": "9|Interacción multitarea"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B086P6THG6\\scenes_v3\\B086P6THG6_v3_scene_05.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Interacción pantalla",
+            "raw": "9|Interacción pantalla"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B086P6THG6\\scenes_v3\\B086P6THG6_v3_scene_06.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "pantallas encendidas",
+            "raw": "9|pantallas encendidas"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B086P6THG6\\scenes_v3\\B086P6THG6_v3_scene_07.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "pantallas encendidas",
+            "raw": "9|pantallas encendidas"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B086P6THG6\\scenes_v3\\B086P6THG6_v3_scene_08.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B086P6THG6\\scenes_v3\\B086P6THG6_v3_scene_09.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "pantallas encendidas",
+            "raw": "9|pantallas encendidas"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B086P6THG6\\scenes_v3\\B086P6THG6_v3_scene_10.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "pantallas encendidas",
+            "raw": "9|pantallas encendidas"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B086P6THG6\\scenes_v3\\B086P6THG6_v3_scene_11.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "pantallas encendidas",
+            "raw": "9|pantallas encendidas"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B086P6THG6\\scenes_v3\\B086P6THG6_v3_scene_13.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "pantallas encendidas",
+            "raw": "9|pantallas encendidas"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B086P6THG6\\scenes_v3\\B086P6THG6_v3_scene_14.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B086P6THG6\\scenes_v3\\B086P6THG6_v3_scene_15.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Multitasking pantalla",
+            "raw": "9|Multitasking pantalla"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B086P6THG6\\scenes_v3\\B086P6THG6_v3_scene_16.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "pantallas interactivas",
+            "raw": "9|pantallas interactivas"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B086P6THG6\\scenes_v3\\B086P6THG6_v3_scene_17.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "pantallas interactivas",
+            "raw": "9|pantallas interactivas"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B086P6THG6\\scenes_v3\\B086P6THG6_v3_scene_18.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "pantallas interactivas",
+            "raw": "9|pantallas interactivas"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B086P6THG6\\scenes_v3\\B086P6THG6_v3_scene_19.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "pantallas interactivas",
+            "raw": "9|pantallas interactivas"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B086P6THG6\\scenes_v3\\B086P6THG6_v3_scene_21.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "pantallas encendidas",
+            "raw": "9|pantallas encendidas"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B086P6THG6\\scenes_v3\\B086P6THG6_v3_scene_20.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "pantallas encendidas",
+            "raw": "9|pantallas encendidas"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B086P6THG6\\scenes_v3\\B086P6THG6_v3_scene_22.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "pantallas interactivas",
+            "raw": "9|pantallas interactivas"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B086P6THG6\\scenes_v3\\B086P6THG6_v3_scene_23.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Interacción pantalla",
+            "raw": "9|Interacción pantalla"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B086P6THG6\\scenes_v3\\B086P6THG6_v3_scene_24.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "pantallas encendidas",
+            "raw": "9|pantallas encendidas"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B086P6THG6\\scenes_v3\\B086P6THG6_v3_scene_25.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "pantallas encendidas",
+            "raw": "9|pantallas encendidas"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B086P6THG6\\scenes_v3\\B086P6THG6_v3_scene_27.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B086P6THG6\\scenes_v3\\B086P6THG6_v3_scene_26.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Interacción pantalla",
+            "raw": "9|Interacción pantalla"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B086P6THG6\\scenes_v3\\B086P6THG6_v3_scene_28.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "ScreenPad Plus",
+            "raw": "9|ScreenPad Plus"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B086P6THG6\\scenes_v2\\B086P6THG6_v2_scene_08.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "ZenBook Duo",
+            "raw": "8|ZenBook Duo"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B086P6THG6\\scenes_v2\\B086P6THG6_v2_scene_16.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "pantalla encendida",
+            "raw": "8|pantalla encendida"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B086P6THG6\\scenes_v3\\B086P6THG6_v3_scene_12.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "ZenBook Duo",
+            "raw": "8|ZenBook Duo"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B086P6THG6\\scenes_v2\\B086P6THG6_v2_scene_05.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "pantalla secundaria",
+            "raw": "5|pantalla secundaria"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B086P6THG6\\scenes_v2\\B086P6THG6_v2_scene_15.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "producto pequeño",
+            "raw": "5|producto pequeño"
+          }
+        ],
+        "features": [
+          "ScreenPad Plus: 12.6 inches matte touchscreen, giving your endless way to optimize your multitasking experience by extending the screen or split windows and apps on both displays",
+          "14 inches Full HD NanoEdge touchscreen glossy main display",
+          "Latest 10th generation Intel Core i7 10510U Processor (8M Cache, up to 4.9 GHz)",
+          "Fast storage and memory featuring 512GB PCIe NVMe M.2 SSD with 8GB LPDDR3 RAM",
+          "Built in IR camera for facial recognition sign in with Windows Hello"
+        ]
+      }
+    ],
+    "totalDuration": 75
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      null
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:45",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "laptops",
+    "imprescindibles",
+    "para",
+    "oficina"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 3 Laptops Imprescindibles para tu Oficina",
+      "angle": "Top 3 Laptops Imprescindibles para tu Oficina",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 3,
+      "introScript": "¿Una laptop que se carga en 30 minutos para toda la jornada? ¿Otra que se transforma en una tableta gigante con un simple giro? Hoy exploramos tres portátiles que no solo aumentarán tu productividad, sino que también transformarán tu espacio de trabajo en algo futurista y eficiente.",
+      "keywords": [
+        "laptops",
+        "imprescindibles",
+        "para",
+        "oficina"
+      ],
+      "estimatedViews": 3933,
+      "bestPublishTime": "2026-05-21T19:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Framework Laptop 13",
+          "searchTermEn": "Framework Laptop 13 modular",
+          "id": "B0872K4XCJ",
+          "filename": "B0872K4XCJ.mp4"
+        },
+        {
+          "nombre": "Microsoft Surface Laptop Studio",
+          "searchTermEn": "Microsoft Surface Laptop Studio",
+          "id": "B0D7TR2R2T",
+          "filename": "B0D7TR2R2T.mp4"
+        },
+        {
+          "nombre": "ASUS ZenBook Pro Duo",
+          "searchTermEn": "ASUS ZenBook Pro Duo 14",
+          "id": "B086P6THG6",
+          "filename": "B086P6THG6.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-05-15T17:53:29.666Z",
+      "_requestedCount": 3,
+      "_adaptedCount": 3,
+      "introProductsOrder": [
+        {
+          "nombre": "ASUS ZenBook Pro Duo",
+          "id": "B086P6THG6",
+          "filename": "B086P6THG6_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B086P6THG6_combined.mp4"
+        },
+        {
+          "nombre": "Microsoft Surface Laptop Studio",
+          "id": "B0D7TR2R2T",
+          "filename": "B0D7TR2R2T_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0D7TR2R2T_combined.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1778868317929_vfo16x"
+    },
+    "generatedAt": "2026-05-15T18:05:43.083Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Framework Laptop 13",
+        "searchTermEn": "Framework Laptop 13 modular",
+        "id": "B0872K4XCJ",
+        "filename": "B0872K4XCJ.mp4"
+      },
+      {
+        "nombre": "Microsoft Surface Laptop Studio",
+        "searchTermEn": "Microsoft Surface Laptop Studio",
+        "id": "B0D7TR2R2T",
+        "filename": "B0D7TR2R2T.mp4"
+      },
+      {
+        "nombre": "ASUS ZenBook Pro Duo",
+        "searchTermEn": "ASUS ZenBook Pro Duo 14",
+        "id": "B086P6THG6",
+        "filename": "B086P6THG6.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 3 Laptops Imprescindibles para tu Oficina\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\nExtiende tu espacio de trabajo y multiplica tareas. Diseña con precisión mientras rotas la pantalla.\n\n[0:10-0:15] INTRODUCTION\n¿Cuál querrías tú? Los links están en el primer comentario.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] FRAMEWORK LAPTOP 13\n¿Harto de no poder actualizar tu laptop a medida que las demandas cambian? La Framework Laptop 13 te ofrece una solución modular, permitiéndote cambiar componentes fácilmente. Disfruta de un futuro informático donde la obsolescencia programada no tiene cabida, ampliando tu memoria RAM o aumentando el almacenamiento según tus necesidades.\nSu precio actual en Amazon ronda los... 279 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Framework Laptop 13]\n\n[0:25] MICROSOFT SURFACE LAPTOP STUDIO\nCon un increíble procesador Intel Core i7 de undécima generación, el Microsoft Surface Laptop Studio redefine el rendimiento portátil. Su pantalla táctil de 14.4 pulgadas con resolución de 2400 x 1600 te permite interactuar sin esfuerzo con gráficos impactantes alimentados por la GPU NVIDIA GeForce RTX™ 3050 Ti. Deja que este diseño limpio y elegante mejore tanto tu espacio como tu creatividad.\nSu precio actual en Amazon ronda los... 1126 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Microsoft Surface Laptop Studio]\n\n[0:25] ASUS ZENBOOK PRO DUO\n\"Descubre la funcionalidad secreta del ASUS ZenBook Pro Duo: su ScreenPad Plus. Con un panel táctil secundario de 12.6 pulgadas, esta laptop te permite gestionar múltiples tareas simultáneamente creando flujos de trabajo inigualables. Potenciada por un Intel i7 de décima generación y un SSD ultrarrápido de 512GB, redefine la productividad sin comprometer estilo ni portabilidad.\"\n\n\n[VISUALS: Product image: ASUS ZenBook Pro Duo]\n\n[10 seconds] CONCLUSION\nundefined\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:45\nTONE: engaging\nPACING: quick\nKEYWORDS: laptops, imprescindibles, para, oficina\n"
+}

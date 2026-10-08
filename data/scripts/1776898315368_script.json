@@ -1,0 +1,167 @@
+{
+  "title": "Top 3 Gadgets Virales para tu Alcoba",
+  "hook": {
+    "type": "statement",
+    "text": "Esta lámpara levita y deslumbra. Este difusor transforma el aire. Esta lámpara inteligente cambia de color con un toque.",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "Suscríbete, los links están en el primer comentario. Empecemos.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0:10-0:15"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Lámpara Leviosa Levitating",
+        "productId": "B0CZHY8RV8",
+        "productName": "Lámpara Leviosa Levitating",
+        "filename": "B0CZHY8RV8.mp4",
+        "content": [
+          "Las lámparas tradicionales ocupan espacio y son aburridas. La Lámpara Leviosa Levitating flota mágicamente sobre su base, creando un espectáculo de luces impresionante. Funciona con tecnología de levitación magnética, perfecta para un ambiente futurista.",
+          "Su precio actual en Amazon ronda los... 25 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Lámpara Leviosa Levitating"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0CZHY8RV8.mp4",
+        "precio": "$25",
+        "productPhoto": "https://m.media-amazon.com/images/I/61x3aoh6PXL.jpg"
+      },
+      {
+        "type": "content",
+        "title": "Difusor de Aromas Asakuki",
+        "productId": "B07LBQR3QY",
+        "productName": "Difusor de Aromas Asakuki",
+        "filename": "B07LBQR3QY.mp4",
+        "content": [
+          "El aire seco puede arruinar el ambiente de tu alcoba. El Difusor de Aromas Asakuki libera niebla aromática que hidrata y perfuma el aire al instante. Además, cuenta con luces LED que crean un ambiente relajante y colorido.",
+          "Su precio actual en Amazon ronda los... 18 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Difusor de Aromas Asakuki"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07LBQR3QY.mp4",
+        "precio": "$18",
+        "productPhoto": "https://m.media-amazon.com/images/I/61CwwbP6VCL.jpg"
+      },
+      {
+        "type": "content",
+        "title": "Echo Glow Smart Lamp",
+        "productId": "B07KRY43KN",
+        "productName": "Echo Glow Smart Lamp",
+        "filename": "B07KRY43KN.mp4",
+        "content": [
+          "Cambiar el ambiente de tu habitación puede ser complicado. La Echo Glow Smart Lamp lo hace fácil con un simple toque para cambiar de color. Es compatible con Alexa para control por voz, ideal para cualquier ocasión.",
+          "Su precio actual en Amazon ronda los... 30 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Echo Glow Smart Lamp"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07KRY43KN.mp4",
+        "precio": "$30",
+        "productPhoto": "https://m.media-amazon.com/images/I/61Lu0Z9K5yL.jpg"
+      }
+    ],
+    "totalDuration": 75
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "Dale like y recuerda que los links están en el primer comentario."
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:45",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "virales",
+    "para",
+    "alcoba"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 3 Gadgets Virales para tu Alcoba",
+      "angle": "Top 3 Gadgets Virales para tu Alcoba",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 3,
+      "introScript": "¿Una lámpara que flota como por arte de magia? ¿Un difusor que purifica el aire y cambia de color? Hoy te muestro los gadgets más sorprendentes y virales para transformar tu alcoba en un oasis tecnológico.",
+      "keywords": [
+        "gadgets",
+        "virales",
+        "para",
+        "alcoba"
+      ],
+      "estimatedViews": 6072,
+      "bestPublishTime": "2026-04-29T19:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Lámpara Leviosa Levitating",
+          "searchTermEn": "levitating desk lamp",
+          "id": "B0CZHY8RV8",
+          "filename": "B0CZHY8RV8.mp4"
+        },
+        {
+          "nombre": "Difusor de Aromas Asakuki",
+          "searchTermEn": "asakuki essential oil diffuser",
+          "id": "B07LBQR3QY",
+          "filename": "B07LBQR3QY.mp4"
+        },
+        {
+          "nombre": "Echo Glow Smart Lamp",
+          "searchTermEn": "echo glow smart lamp",
+          "id": "B07KRY43KN",
+          "filename": "B07KRY43KN.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-04-22T22:49:53.402Z",
+      "_requestedCount": 3,
+      "_adaptedCount": 3,
+      "_scriptNonce": "nonce_1776898307217_ge5g9o"
+    },
+    "generatedAt": "2026-04-22T22:51:52.955Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Lámpara Leviosa Levitating",
+        "searchTermEn": "levitating desk lamp",
+        "id": "B0CZHY8RV8",
+        "filename": "B0CZHY8RV8.mp4"
+      },
+      {
+        "nombre": "Difusor de Aromas Asakuki",
+        "searchTermEn": "asakuki essential oil diffuser",
+        "id": "B07LBQR3QY",
+        "filename": "B07LBQR3QY.mp4"
+      },
+      {
+        "nombre": "Echo Glow Smart Lamp",
+        "searchTermEn": "echo glow smart lamp",
+        "id": "B07KRY43KN",
+        "filename": "B07KRY43KN.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 3 Gadgets Virales para tu Alcoba\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\nEsta lámpara levita y deslumbra. Este difusor transforma el aire. Esta lámpara inteligente cambia de color con un toque.\n\n[0:10-0:15] INTRODUCTION\nSuscríbete, los links están en el primer comentario. Empecemos.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] LÁMPARA LEVIOSA LEVITATING\nLas lámparas tradicionales ocupan espacio y son aburridas. La Lámpara Leviosa Levitating flota mágicamente sobre su base, creando un espectáculo de luces impresionante. Funciona con tecnología de levitación magnética, perfecta para un ambiente futurista.\nSu precio actual en Amazon ronda los... 25 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Lámpara Leviosa Levitating]\n\n[0:25] DIFUSOR DE AROMAS ASAKUKI\nEl aire seco puede arruinar el ambiente de tu alcoba. El Difusor de Aromas Asakuki libera niebla aromática que hidrata y perfuma el aire al instante. Además, cuenta con luces LED que crean un ambiente relajante y colorido.\nSu precio actual en Amazon ronda los... 18 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Difusor de Aromas Asakuki]\n\n[0:25] ECHO GLOW SMART LAMP\nCambiar el ambiente de tu habitación puede ser complicado. La Echo Glow Smart Lamp lo hace fácil con un simple toque para cambiar de color. Es compatible con Alexa para control por voz, ideal para cualquier ocasión.\nSu precio actual en Amazon ronda los... 30 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Echo Glow Smart Lamp]\n\n[10 seconds] CONCLUSION\nDale like y recuerda que los links están en el primer comentario.\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:45\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, virales, para, alcoba\n"
+}

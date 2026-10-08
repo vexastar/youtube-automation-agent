@@ -1,0 +1,193 @@
+{
+  "title": "Top 6 Gadgets para Mejorar Tu Tiempo de Relajación",
+  "hook": {
+    "type": "statement",
+    "text": "¿Buscas la manera perfecta de relajarte en casa? ¡Descubre los gadgets que transformarán tu tiempo de descanso!",
+    "duration": "0:00-0:05"
+  },
+  "introduction": {
+    "greeting": "La vida puede ser estresante, pero tu tiempo de relajación no tiene por qué serlo. Hoy te presentamos seis gadgets que prometen llevar tu relax a otro nivel. ¡No te los pierdas!",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0:05-0:15"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Fuente de Agua Zen",
+        "content": [
+          "Comenzamos con la fuente de agua zen, un gadget que transforma cualquier espacio en un remanso de paz. Su suave sonido de agua corriendo es perfecto para meditar o simplemente desconectar del mundo. Ideal para aquellos que buscan un ambiente tranquilo y armonioso en casa.",
+          "Consíguela por $39.99 en el enlace de la descripción."
+        ],
+        "visuals": [
+          "Product image: Fuente de Agua Zen"
+        ],
+        "duration": 25
+      },
+      {
+        "type": "content",
+        "title": "Almohadilla Térmica Automática",
+        "content": [
+          "Nada alivia mejor la tensión que una almohadilla térmica. Esta versión automática ofrece calor constante y relajante, perfecta para esas noches frías o para aliviar dolores musculares. Es el complemento ideal para cualquier sesión de mimos y autocuidado.",
+          "Encuéntrala por $34.99 en el enlace de la descripción."
+        ],
+        "visuals": [
+          "Product image: Almohadilla Térmica Automática"
+        ],
+        "duration": 25
+      },
+      {
+        "type": "content",
+        "title": "Manta de Gravedad",
+        "content": [
+          "La manta de gravedad es más que una simple manta. Su peso calmante ayuda a reducir el estrés y la ansiedad, proporcionando una experiencia de descanso profundo. Ideal para quienes tienen problemas de sueño o simplemente desean una noche de descanso reparador.",
+          "Disponible por $29.99 en el enlace de la descripción."
+        ],
+        "visuals": [
+          "Product image: Manta de Gravedad"
+        ],
+        "duration": 25
+      },
+      {
+        "type": "content",
+        "title": "Luz de Terapia SAD",
+        "content": [
+          "Para aquellos que sufren de Trastorno Afectivo Estacional, esta luz de terapia es un salvavidas. Simula la luz solar y ayuda a regular el estado de ánimo y los ritmos circadianos. Es fantástica para quienes buscan combatir los días grises con una dosis diaria de luz.",
+          "Revisa su precio actualizado de $24.99 en el primer comentario."
+        ],
+        "visuals": [
+          "Product image: Luz de Terapia SAD"
+        ],
+        "duration": 25
+      },
+      {
+        "type": "content",
+        "title": "Difusor de Aceites Esenciales",
+        "content": [
+          "Transforma tu hogar en un spa con este difusor de aceites esenciales. Además de su diseño elegante, ofrece aromaterapia que puede ayudarte a reducir el estrés y mejorar tu bienestar general. Es perfecto para quienes desean un ambiente relajante con aromas naturales.",
+          "Lo puedes adquirir por $19.99 en el enlace de la descripción."
+        ],
+        "visuals": [
+          "Product image: Difusor de Aceites Esenciales"
+        ],
+        "duration": 25
+      },
+      {
+        "type": "content",
+        "title": "Masajeador de Cabezal",
+        "content": [
+          "Finalmente, el masajeador de cabezal es el gadget esencial para liberar la tensión del día. Con su diseño ergonómico, proporciona un masaje relajante en el cuero cabelludo, ideal después de un día largo o simplemente para un momento de placer personal.",
+          "Disponible por solo $14.99 en el enlace de la descripción."
+        ],
+        "visuals": [
+          "Product image: Masajeador de Cabezal"
+        ],
+        "duration": 25
+      }
+    ],
+    "totalDuration": 150
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "Y ahí los tienen, los seis gadgets que pueden convertir tu hogar en un santuario de relajación. Si te gustaron estas ideas, no olvides darle like, suscribirte y contarnos en los comentarios cuál es tu favorito. ¡Hasta la próxima!"
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "3:00",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "para",
+    "mejorar",
+    "tiempo",
+    "relajacin"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 6 Gadgets para Mejorar Tu Tiempo de Relajación",
+      "angle": "Top 6 Gadgets para Mejorar Tu Tiempo de Relajación",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "keywords": [
+        "gadgets",
+        "para",
+        "mejorar",
+        "tiempo",
+        "relajacin"
+      ],
+      "estimatedViews": 4590,
+      "bestPublishTime": "2026-04-04T15:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Masajeador de cabezal",
+          "searchTermEn": "head massager"
+        },
+        {
+          "nombre": "Difusor de aceites esenciales",
+          "searchTermEn": "essential oil diffuser"
+        },
+        {
+          "nombre": "Luz de terapia SAD",
+          "searchTermEn": "sad therapy light"
+        },
+        {
+          "nombre": "Manta de gravedad",
+          "searchTermEn": "weighted blanket"
+        },
+        {
+          "nombre": "Almohadilla térmica automática",
+          "searchTermEn": "automatic heating pad"
+        },
+        {
+          "nombre": "Fuente de agua zen",
+          "searchTermEn": "zen water fountain"
+        }
+      ],
+      "createdAt": "2026-04-01T17:19:19.616Z"
+    },
+    "generatedAt": "2026-04-01T17:19:29.303Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Masajeador de cabezal",
+        "searchTermEn": "head massager"
+      },
+      {
+        "nombre": "Difusor de aceites esenciales",
+        "searchTermEn": "essential oil diffuser"
+      },
+      {
+        "nombre": "Luz de terapia SAD",
+        "searchTermEn": "sad therapy light"
+      },
+      {
+        "nombre": "Manta de gravedad",
+        "searchTermEn": "weighted blanket"
+      },
+      {
+        "nombre": "Almohadilla térmica automática",
+        "searchTermEn": "automatic heating pad"
+      },
+      {
+        "nombre": "Fuente de agua zen",
+        "searchTermEn": "zen water fountain"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 6 Gadgets para Mejorar Tu Tiempo de Relajación\n\n══════════════════════════════════════════════════\n\n[0:00-0:05] HOOK\n¿Buscas la manera perfecta de relajarte en casa? ¡Descubre los gadgets que transformarán tu tiempo de descanso!\n\n[0:05-0:15] INTRODUCTION\nLa vida puede ser estresante, pero tu tiempo de relajación no tiene por qué serlo. Hoy te presentamos seis gadgets que prometen llevar tu relax a otro nivel. ¡No te los pierdas!\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] FUENTE DE AGUA ZEN\nComenzamos con la fuente de agua zen, un gadget que transforma cualquier espacio en un remanso de paz. Su suave sonido de agua corriendo es perfecto para meditar o simplemente desconectar del mundo. Ideal para aquellos que buscan un ambiente tranquilo y armonioso en casa.\nConsíguela por $39.99 en el enlace de la descripción.\n\n[VISUALS: Product image: Fuente de Agua Zen]\n\n[0:25] ALMOHADILLA TÉRMICA AUTOMÁTICA\nNada alivia mejor la tensión que una almohadilla térmica. Esta versión automática ofrece calor constante y relajante, perfecta para esas noches frías o para aliviar dolores musculares. Es el complemento ideal para cualquier sesión de mimos y autocuidado.\nEncuéntrala por $34.99 en el enlace de la descripción.\n\n[VISUALS: Product image: Almohadilla Térmica Automática]\n\n[0:25] MANTA DE GRAVEDAD\nLa manta de gravedad es más que una simple manta. Su peso calmante ayuda a reducir el estrés y la ansiedad, proporcionando una experiencia de descanso profundo. Ideal para quienes tienen problemas de sueño o simplemente desean una noche de descanso reparador.\nDisponible por $29.99 en el enlace de la descripción.\n\n[VISUALS: Product image: Manta de Gravedad]\n\n[0:25] LUZ DE TERAPIA SAD\nPara aquellos que sufren de Trastorno Afectivo Estacional, esta luz de terapia es un salvavidas. Simula la luz solar y ayuda a regular el estado de ánimo y los ritmos circadianos. Es fantástica para quienes buscan combatir los días grises con una dosis diaria de luz.\nRevisa su precio actualizado de $24.99 en el primer comentario.\n\n[VISUALS: Product image: Luz de Terapia SAD]\n\n[0:25] DIFUSOR DE ACEITES ESENCIALES\nTransforma tu hogar en un spa con este difusor de aceites esenciales. Además de su diseño elegante, ofrece aromaterapia que puede ayudarte a reducir el estrés y mejorar tu bienestar general. Es perfecto para quienes desean un ambiente relajante con aromas naturales.\nLo puedes adquirir por $19.99 en el enlace de la descripción.\n\n[VISUALS: Product image: Difusor de Aceites Esenciales]\n\n[0:25] MASAJEADOR DE CABEZAL\nFinalmente, el masajeador de cabezal es el gadget esencial para liberar la tensión del día. Con su diseño ergonómico, proporciona un masaje relajante en el cuero cabelludo, ideal después de un día largo o simplemente para un momento de placer personal.\nDisponible por solo $14.99 en el enlace de la descripción.\n\n[VISUALS: Product image: Masajeador de Cabezal]\n\n[10 seconds] CONCLUSION\nY ahí los tienen, los seis gadgets que pueden convertir tu hogar en un santuario de relajación. Si te gustaron estas ideas, no olvides darle like, suscribirte y contarnos en los comentarios cuál es tu favorito. ¡Hasta la próxima!\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 3:00\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, para, mejorar, tiempo, relajacin\n"
+}

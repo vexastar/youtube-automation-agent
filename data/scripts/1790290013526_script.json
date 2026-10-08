@@ -1,0 +1,135 @@
+{
+  "title": "Top 1 Gadgets Inesperados que No Sabías que Existían",
+  "hook": {
+    "type": "statement",
+    "text": "Imagina un altavoz portátil que convierte cualquier lugar en una pista de baile vibrante. ¿Qué otros prodigios solucionarán retos cotidianos con estilo? Descúbrelos, enlaces en el primer comentario. Suscríbete, empecemos.",
+    "duration": "0:00-0:15"
+  },
+  "introduction": {
+    "greeting": "",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0s"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Ultimate Ears EVERBOOM Altavoz Portátil Inalámbrico",
+        "productId": "B0BYC52LYP",
+        "productName": "Ultimate Ears EVERBOOM Altavoz Portátil Inalámbrico",
+        "filename": "B0BYC52LYP.mp4",
+        "asin": "B0BYC52LYP",
+        "videoDuration": 45.380933,
+        "estimatedAudioSeconds": 29,
+        "framework": "comparacion_precio",
+        "narracionSegments": null,
+        "content": [
+          "Sonido envolvente. A prueba de agua. Carga duradera. Ultimate Ears EVERBOOM ofrece audio de trescientos sesenta grados y un bajo impresionante. Personaliza el EQ fácilmente desde su aplicación dedicada para ajustar cada fiesta a tus preferencias exactas. Su batería aguanta hasta veinte horas, un éxito garantizado en tus aventuras al aire libre.",
+          "Adquiérelo en Amazon por trescientos treinta y ocho dólares. Enlace disponible en comentarios; revisa antes de que se agote."
+        ],
+        "visuals": [
+          "Product image: Ultimate Ears EVERBOOM Altavoz Portátil Inalámbrico"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0BYC52LYP.mp4",
+        "precio": "$338",
+        "productPhoto": "https://m.media-amazon.com/images/I/81RxLjRCh4L.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "360 Grados de Gran Bajo y EQ Personalizable: El altavoz Bluetooth a prueba de agua EVERBOOM ofrece un sonido equilibrado y audio envolvente; selecciona o personaliza el modo EQ con la app UE | BOOM de Ultimate Ears.",
+          "20 Horas de BOOM: Con hasta 20 horas de duración de batería, es el altavoz perfecto para animar tu próxima gran aventura.",
+          "Fiesta hasta el máximo: Empareja tu altavoz Bluetooth portátil EVERBOOM con todos los modelos de BOOM, MEGABOOM, EPICBOOM y HYPERBOOM para un sonido aún más grande, totalmente colosal.",
+          "Outdoor Boost: Toca la configuración Outdoor Boost en este altavoz Bluetooth para exteriores para experimentar un audio más fuerte y potente.",
+          "Hecho para el aire libre: Con el diseño IP67 a prueba de agua, a prueba de polvo y flotante, el altavoz Bluetooth para exteriores EVERBOOM fue prácticamente hecho para el aire libre."
+        ],
+        "originalVideoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0BYC52LYP.mp4"
+      }
+    ],
+    "totalDuration": 40
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "¿Conoces algo superior a estos reinventa-problemas? Suscríbete, y explora los links en el primer comentario."
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "",
+    "like": "",
+    "comment": "",
+    "nextVideo": "",
+    "duration": "0 seconds"
+  },
+  "duration": "1:10",
+  "tone": "engaging",
+  "tone_variant": "entusiasta y acelerado, como un presentador de teletienda pero sin relleno ni repetición",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "inesperados",
+    "sabas",
+    "existan"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 1 Gadgets Inesperados que No Sabías que Existían",
+      "angle": "Top 2 Gadgets Inesperados que No Sabías que Existían",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 1,
+      "introScript": "Prepárate para descubrir dos gadgets que parecen sacados de una película de ciencia ficción. Primero, un dispositivo que convierte cualquier superficie plana en un altavoz, transformando la manera en que escuchas música. Y además, un teclado holográfico portátil que puede proyectarse en cualquier lugar, ideal para trabajar o incluso jugar en movimiento. No creerás lo útiles y sorprendentes que pueden ser estos gadgets futuristas. ¡Quédate para conocer cada detalle de estos inventos revolucionarios!",
+      "keywords": [
+        "gadgets",
+        "inesperados",
+        "sabas",
+        "existan"
+      ],
+      "estimatedViews": 6411,
+      "bestPublishTime": "2026-09-25T18:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Ultimate Ears EVERBOOM Altavoz Portátil Inalámbrico",
+          "searchTermEn": "HYPERBOOM Portable Speaker",
+          "id": "B0BYC52LYP",
+          "filename": "B0BYC52LYP.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-09-24T22:43:14.095Z",
+      "_requestedCount": 2,
+      "_adaptedCount": 1,
+      "_adaptationNote": "ATENCIÓN: El usuario pidió 2 productos pero solo hay 1 clips de video disponibles. El guion, título y narrativa deben referirse EXCLUSIVAMENTE a 1 productos.",
+      "introProductsOrder": [
+        {
+          "nombre": "Ultimate Ears EVERBOOM Altavoz Portátil Inalámbrico",
+          "id": "B0BYC52LYP",
+          "filename": "B0BYC52LYP.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0BYC52LYP.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1790289995670_ssx1di"
+    },
+    "generatedAt": "2026-09-24T22:46:41.636Z",
+    "version": "4.0-dynamic-rotator",
+    "productos": [
+      {
+        "nombre": "Ultimate Ears EVERBOOM Altavoz Portátil Inalámbrico",
+        "searchTermEn": "HYPERBOOM Portable Speaker",
+        "id": "B0BYC52LYP",
+        "filename": "B0BYC52LYP.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 1 Gadgets Inesperados que No Sabías que Existían\n\n══════════════════════════════════════════════════\n\n[0:00-0:15] HOOK\nImagina un altavoz portátil que convierte cualquier lugar en una pista de baile vibrante. ¿Qué otros prodigios solucionarán retos cotidianos con estilo? Descúbrelos, enlaces en el primer comentario. Suscríbete, empecemos.\n\n[0s] INTRODUCTION\n\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] ULTIMATE EARS EVERBOOM ALTAVOZ PORTÁTIL INALÁMBRICO\nSonido envolvente. A prueba de agua. Carga duradera. Ultimate Ears EVERBOOM ofrece audio de trescientos sesenta grados y un bajo impresionante. Personaliza el EQ fácilmente desde su aplicación dedicada para ajustar cada fiesta a tus preferencias exactas. Su batería aguanta hasta veinte horas, un éxito garantizado en tus aventuras al aire libre.\nAdquiérelo en Amazon por trescientos treinta y ocho dólares. Enlace disponible en comentarios; revisa antes de que se agote.\n\n[VISUALS: Product image: Ultimate Ears EVERBOOM Altavoz Portátil Inalámbrico]\n\n[10 seconds] CONCLUSION\n¿Conoces algo superior a estos reinventa-problemas? Suscríbete, y explora los links en el primer comentario.\n\n\n\n[0 seconds] CALL TO ACTION\n\n\n\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:10\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, inesperados, sabas, existan\n"
+}

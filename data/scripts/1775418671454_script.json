@@ -1,0 +1,133 @@
+{
+  "title": "Top 3 Gadgets de Cocina que No Sabías que Necesitabas",
+  "hook": {
+    "type": "statement",
+    "text": "¿Crees que lo tienes todo en tu cocina? Te presentamos 3 gadgets que transformarán tu experiencia culinaria.",
+    "duration": "0:00-0:05"
+  },
+  "introduction": {
+    "greeting": "La cocina es un lugar donde la innovación nunca se detiene. Hoy te mostraremos los tres gadgets más sorprendentes que necesitas tener en tu cocina. Desde la organización hasta la preparación, estos productos te facilitarán la vida de maneras que no te imaginabas.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0:05-0:15"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Prepara café en frío",
+        "content": [
+          "¿Eres amante del café? Este gadget es perfecto para ti. Con el prepara café en frío, puedes disfrutar de una deliciosa taza de café suave y refrescante en casa. Ideal para los días calurosos, este dispositivo saca lo mejor de los granos sin amargar el sabor. Es simplemente imprescindible para cualquier cafetero.",
+          "Consigue el tuyo por solo 19.99 dólares, enlace en la descripción."
+        ],
+        "visuals": [
+          "Product image: Prepara café en frío"
+        ],
+        "duration": 25
+      },
+      {
+        "type": "content",
+        "title": "Organizador de tapas",
+        "content": [
+          "Si tu cocina parece un caos cada vez que buscas una tapa, este organizador es tu solución. Maximiza tu espacio y evita el desorden con este práctico organizador que mantiene las tapas ordenadas y accesibles. Perfecto para cocinas pequeñas o para cualquiera que busque un poco más de orden.",
+          "Disponible por solo 7.99 dólares, enlace en la descripción."
+        ],
+        "visuals": [
+          "Product image: Organizador de tapas"
+        ],
+        "duration": 25
+      },
+      {
+        "type": "content",
+        "title": "Cortador en espiral",
+        "content": [
+          "Transforma tus verduras en espaguetis saludables con el cortador en espiral. Este gadget es perfecto para quienes buscan opciones más sanas y creativas para sus platos. Ideal para los amantes de las ensaladas y las pastas vegetales, este cortador es rápido, fácil de usar y de limpiar.",
+          "Encuéntralo por apenas 9.99 dólares en el enlace de la descripción."
+        ],
+        "visuals": [
+          "Product image: Cortador en espiral"
+        ],
+        "duration": 25
+      }
+    ],
+    "totalDuration": 75
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "Si te gustaron estos increíbles gadgets de cocina, no olvides darle like al video y suscribirte para más contenido como este. Cuéntanos en los comentarios cuál fue tu favorito y si ya los conocías. ¡Hasta la próxima!"
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:45",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "cocina",
+    "sabas",
+    "necesitabas"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 3 Gadgets de Cocina que No Sabías que Necesitabas",
+      "angle": "Top 3 Gadgets de Cocina que No Sabías que Necesitabas",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 3,
+      "introScript": "¿Un utensilio que convierte frutas en espaguetis en segundos? ¿O un gadget que mantiene tus sartenes perfectamente organizadas? Descubre ahora los gadgets de cocina que revolucionarán tu tiempo en la cocina.",
+      "keywords": [
+        "gadgets",
+        "cocina",
+        "sabas",
+        "necesitabas"
+      ],
+      "estimatedViews": 3696,
+      "bestPublishTime": "2026-04-09T19:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Cortador en espiral",
+          "searchTermEn": "vegetable spiralizer slicer"
+        },
+        {
+          "nombre": "Organizador de tapas",
+          "searchTermEn": "pot lid organizer rack"
+        },
+        {
+          "nombre": "Prepara café en frío",
+          "searchTermEn": "cold brew coffee maker"
+        }
+      ],
+      "createdAt": "2026-04-05T19:48:55.264Z"
+    },
+    "generatedAt": "2026-04-05T19:51:11.228Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Cortador en espiral",
+        "searchTermEn": "vegetable spiralizer slicer"
+      },
+      {
+        "nombre": "Organizador de tapas",
+        "searchTermEn": "pot lid organizer rack"
+      },
+      {
+        "nombre": "Prepara café en frío",
+        "searchTermEn": "cold brew coffee maker"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 3 Gadgets de Cocina que No Sabías que Necesitabas\n\n══════════════════════════════════════════════════\n\n[0:00-0:05] HOOK\n¿Crees que lo tienes todo en tu cocina? Te presentamos 3 gadgets que transformarán tu experiencia culinaria.\n\n[0:05-0:15] INTRODUCTION\nLa cocina es un lugar donde la innovación nunca se detiene. Hoy te mostraremos los tres gadgets más sorprendentes que necesitas tener en tu cocina. Desde la organización hasta la preparación, estos productos te facilitarán la vida de maneras que no te imaginabas.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] PREPARA CAFÉ EN FRÍO\n¿Eres amante del café? Este gadget es perfecto para ti. Con el prepara café en frío, puedes disfrutar de una deliciosa taza de café suave y refrescante en casa. Ideal para los días calurosos, este dispositivo saca lo mejor de los granos sin amargar el sabor. Es simplemente imprescindible para cualquier cafetero.\nConsigue el tuyo por solo 19.99 dólares, enlace en la descripción.\n\n[VISUALS: Product image: Prepara café en frío]\n\n[0:25] ORGANIZADOR DE TAPAS\nSi tu cocina parece un caos cada vez que buscas una tapa, este organizador es tu solución. Maximiza tu espacio y evita el desorden con este práctico organizador que mantiene las tapas ordenadas y accesibles. Perfecto para cocinas pequeñas o para cualquiera que busque un poco más de orden.\nDisponible por solo 7.99 dólares, enlace en la descripción.\n\n[VISUALS: Product image: Organizador de tapas]\n\n[0:25] CORTADOR EN ESPIRAL\nTransforma tus verduras en espaguetis saludables con el cortador en espiral. Este gadget es perfecto para quienes buscan opciones más sanas y creativas para sus platos. Ideal para los amantes de las ensaladas y las pastas vegetales, este cortador es rápido, fácil de usar y de limpiar.\nEncuéntralo por apenas 9.99 dólares en el enlace de la descripción.\n\n[VISUALS: Product image: Cortador en espiral]\n\n[10 seconds] CONCLUSION\nSi te gustaron estos increíbles gadgets de cocina, no olvides darle like al video y suscribirte para más contenido como este. Cuéntanos en los comentarios cuál fue tu favorito y si ya los conocías. ¡Hasta la próxima!\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:45\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, cocina, sabas, necesitabas\n"
+}

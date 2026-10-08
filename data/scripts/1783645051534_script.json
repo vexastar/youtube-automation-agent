@@ -1,0 +1,187 @@
+{
+  "title": "Top 2 Gadgets Increíbles para Mejorar tu Jardín",
+  "hook": {
+    "type": "statement",
+    "text": "",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "25s-35s"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Rachio 3 Smart Sprinkler",
+        "productId": "B0BWXZWJ1C",
+        "productName": "Rachio 3 Smart Sprinkler",
+        "filename": "B0BWXZWJ1C.mp4",
+        "asin": "B0BWXZWJ1C",
+        "videoDuration": 84.6735,
+        "estimatedAudioSeconds": 34,
+        "framework": "experiencia_sensorial",
+        "narracionSegments": null,
+        "content": [
+          "¿Cansado de regar? El Rachio Tres Smart Sprinkler transforma tu jardín con control total desde su app. Instala rápido. Programas las válvulas en minutos. Automatiza ocho válvulas, optimizando el agua; ahorra tiempo y reduce preocupaciones. Presiona en la app... Activa el riego inteligente; si predice lluvia, Rain Skips pausa el riego; tu jardín siempre verde, sin esfuerzo. Recibe alertas cuando hay problemas de flujo o las baterías están bajas... Siempre en control.",
+          "Su precio actual ronda los ciento noventa y nueve dólares. Link en comentarios."
+        ],
+        "visuals": [
+          "Product image: Rachio 3 Smart Sprinkler"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0BWXZWJ1C.mp4",
+        "precio": "$199",
+        "productPhoto": "https://m.media-amazon.com/images/I/71Lr-XOaZhL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "\"DEJA EL DIAL – Mejora el riego con manguera de manera más inteligente con control total en la app de Rachio.\"",
+          "RÁPIDO, FÁCIL DE INSTALAR – Comienza a funcionar en minutos.",
+          "AUTOMATIZA TU JARDÍN – Programa hasta 8 válvulas de manguera por WiFi Hub para un riego inteligente.",
+          "ALERTAS INTELIGENTES – El monitoreo de flujo te notifica sobre problemas; las alertas de batería baja te mantienen en control.",
+          "AHORRA AGUA CON RAIN SKIPS – Salta automáticamente el riego cuando se prevé lluvia."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Thermacell Patio Shield",
+        "productId": "B0DD2NXS4M",
+        "productName": "Thermacell Patio Shield",
+        "filename": "B0DD2NXS4M.mp4",
+        "asin": "B0DD2NXS4M",
+        "videoDuration": 38.5064,
+        "estimatedAudioSeconds": 34,
+        "framework": "problema_solucion",
+        "narracionSegments": null,
+        "content": [
+          "¿Cansado de los mosquitos arruinando tus noches? La invasión es imparable... Hasta ahora. Thermacell Patio Shield es tu barrera impenetrable. Proporciona una protección científicamente probada en un área de seis metros. Encendida, la zona queda libre de mosquitos al instante. Conectas el dispositivo; presionas un botón. En quince minutos, transforma tu patio en un oasis libre de insectos. Sin aerosoles ni fragancias molestas; ideal para reuniones al aire libre o noches tranquilas.",
+          "Su precio actual ronda los cuarenta y cuatro dólares. Link en comentarios."
+        ],
+        "visuals": [
+          "Product image: Thermacell Patio Shield"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0DD2NXS4M.mp4",
+        "precio": "$44",
+        "productPhoto": "https://m.media-amazon.com/images/I/71JoKFr359L.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "\"\"\"PROTECCIÓN CONTRA MOSQUITOS CIENTÍFICAMENTE PROBADA: Thermacell ha sido probado y demostrado que repele mosquitos en una zona de 20FT. Confiado por expertos en actividades al aire libre como una solución de Repelente de Mosquitos para Patios, en el campamento y más allá durante más de 25 años. Como selección destacada de New York Times Wirecutter para el Mejor Equipo de Control de Mosquitos 2026, este conveniente paquete inicial viene completo con un repelente, un dock de carga rápida y 36 horas de recarga sin DEET. El empaque puede variar.\"\"\"",
+          "\"\"\"ZONA DE PROTECCIÓN CONTRA MOSQUITOS DE 20FT: La fórmula patentada proporciona la mayor zona de protección de todos los repelentes de mosquitos registrados por la EPA. El avanzado E-ZoneGuard Patio Max ofrece protección continua impulsada por una batería de iones de litio recargable con hasta 12 horas de tiempo de funcionamiento. Cumple con las normativas de la TSA (solo para equipaje de mano).\"\"\"",
+          "FÁCIL DE USAR, SIN NECESIDAD DE AEROSOL: Esta solución repelente de mosquitos para patios al aire libre se activa con solo presionar un botón, alcanzando la máxima protección en 15 minutos. No es necesario aplicar aerosoles o lociones pegajosas con DEET, limpiar insectos muertos o reaplicar en su jardín a lo largo de la temporada. Sin fragancia, sin humo y sin llamas.",
+          "AMIGABLE CON PERSONAS Y MASCOTAS: Probado de manera independiente y revisado por la EPA para seguridad y efectividad. Repele mosquitos resistentes, incluidos aquellos que pueden transmitir EEE, Chikungunya, Virus del Nilo Occidental, Dengue y Virus del Zika. Solo para uso en exteriores.",
+          "\"\"\"GARANTÍA DE SATISFACCIÓN DEL 100%: En Thermacell, respaldamos el rendimiento y la calidad de nuestros productos. Si no estás satisfecho con tu compra, puedes devolverla para reparación, reemplazo o reembolso. Por favor, contacta a service@thermacell.com.\"\"\""
+        ]
+      }
+    ],
+    "totalDuration": 80
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      ""
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:50",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "increbles",
+    "para",
+    "mejorar",
+    "jardn"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 2 Gadgets Increíbles para Mejorar tu Jardín",
+      "angle": "Top 2 Gadgets Increíbles para Mejorar tu Jardín",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 2,
+      "introScript": "¿Te imaginas un dispositivo que riegue tus plantas de manera inteligente, sin que tú muevas un dedo? ¿O un sistema que mantenga a los molestos insectos lejos de tus flores con solo presionar un botón? Prepárate para descubrir dos gadgets que harán de tu jardín el espacio más avanzado y atractivo del barrio. Son innovaciones que no solo te facilitarán el cuidado de tus plantas, sino que también trasformarán el entorno de manera sorprendente.",
+      "keywords": [
+        "gadgets",
+        "increbles",
+        "para",
+        "mejorar",
+        "jardn"
+      ],
+      "estimatedViews": 4895,
+      "bestPublishTime": "2026-07-16T19:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Rachio 3 Smart Sprinkler",
+          "searchTermEn": "Rachio 3 Smart Sprinkler",
+          "id": "B0BWXZWJ1C",
+          "filename": "B0BWXZWJ1C.mp4"
+        },
+        {
+          "nombre": "Thermacell Patio Shield",
+          "searchTermEn": "Thermacell Patio Shield",
+          "id": "B0DD2NXS4M",
+          "filename": "B0DD2NXS4M.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-07-10T00:51:57.376Z",
+      "_requestedCount": 2,
+      "_adaptedCount": 2,
+      "introProductsOrder": [
+        {
+          "nombre": "Thermacell Patio Shield",
+          "id": "B0DD2NXS4M",
+          "filename": "B0DD2NXS4M.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0DD2NXS4M.mp4"
+        },
+        {
+          "nombre": "Rachio 3 Smart Sprinkler",
+          "id": "B0BWXZWJ1C",
+          "filename": "B0BWXZWJ1C.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0BWXZWJ1C.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1783645010707_od3w8v"
+    },
+    "generatedAt": "2026-07-10T00:57:05.094Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Rachio 3 Smart Sprinkler",
+        "searchTermEn": "Rachio 3 Smart Sprinkler",
+        "id": "B0BWXZWJ1C",
+        "filename": "B0BWXZWJ1C.mp4"
+      },
+      {
+        "nombre": "Thermacell Patio Shield",
+        "searchTermEn": "Thermacell Patio Shield",
+        "id": "B0DD2NXS4M",
+        "filename": "B0DD2NXS4M.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 2 Gadgets Increíbles para Mejorar tu Jardín\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\n\n\n[25s-35s] INTRODUCTION\n\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] RACHIO 3 SMART SPRINKLER\n¿Cansado de regar? El Rachio Tres Smart Sprinkler transforma tu jardín con control total desde su app. Instala rápido. Programas las válvulas en minutos. Automatiza ocho válvulas, optimizando el agua; ahorra tiempo y reduce preocupaciones. Presiona en la app... Activa el riego inteligente; si predice lluvia, Rain Skips pausa el riego; tu jardín siempre verde, sin esfuerzo. Recibe alertas cuando hay problemas de flujo o las baterías están bajas... Siempre en control.\nSu precio actual ronda los ciento noventa y nueve dólares. Link en comentarios.\n\n[VISUALS: Product image: Rachio 3 Smart Sprinkler]\n\n[0:25] THERMACELL PATIO SHIELD\n¿Cansado de los mosquitos arruinando tus noches? La invasión es imparable... Hasta ahora. Thermacell Patio Shield es tu barrera impenetrable. Proporciona una protección científicamente probada en un área de seis metros. Encendida, la zona queda libre de mosquitos al instante. Conectas el dispositivo; presionas un botón. En quince minutos, transforma tu patio en un oasis libre de insectos. Sin aerosoles ni fragancias molestas; ideal para reuniones al aire libre o noches tranquilas.\nSu precio actual ronda los cuarenta y cuatro dólares. Link en comentarios.\n\n[VISUALS: Product image: Thermacell Patio Shield]\n\n[10 seconds] CONCLUSION\n\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:50\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, increbles, para, mejorar, jardn\n"
+}

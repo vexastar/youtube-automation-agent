@@ -1,0 +1,165 @@
+{
+  "title": "Top 3 Gadgets De Cocina Que Te Sorprenderán",
+  "hook": {
+    "type": "statement",
+    "text": "Cocina huevos perfectamente en minutos. Cocina a la perfección con precisión. Corta verduras en espiral rápidamente.",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "Suscríbete, los links están en el primer comentario. Empecemos.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0:10-0:15"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Dash Rapid Egg Cooker",
+        "productId": "B0D3W6XGLR",
+        "productName": "Dash Rapid Egg Cooker",
+        "filename": "B0D3W6XGLR.mp4",
+        "content": [
+          "¿Tus huevos duros nunca quedan perfectos? El Dash Rapid Egg Cooker te permite cocinarlos a la perfección sin esfuerzo. Compacto y fácil de usar, ideal para cualquier cocina.",
+          "Su precio actual en Amazon ronda los... 17 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Dash Rapid Egg Cooker"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0D3W6XGLR.mp4",
+        "precio": "$17",
+        "productPhoto": "https://m.media-amazon.com/images/I/51lILkbQ4zL.jpg"
+      },
+      {
+        "type": "content",
+        "title": "Anova Precision Cooker Nano",
+        "productId": "B07QFC6LN6",
+        "productName": "Anova Precision Cooker Nano",
+        "filename": "B07QFC6LN6.mp4",
+        "content": [
+          "¿Te cuesta cocinar carne exactamente como la quieres? El Anova Precision Cooker Nano cocina tus alimentos con precisión sous-vide. Controla la cocción desde tu smartphone para resultados siempre tiernos.",
+          "Su precio actual en Amazon ronda los... 199 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Anova Precision Cooker Nano"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07QFC6LN6.mp4",
+        "precio": "$199",
+        "productPhoto": "https://m.media-amazon.com/images/I/610T4cGirhL.jpg"
+      },
+      {
+        "type": "content",
+        "title": "Hamilton Beach Electric Spiralizer",
+        "productId": "B06Y2GJ2WV",
+        "productName": "Hamilton Beach Electric Spiralizer",
+        "filename": "B06Y2GJ2WV.mp4",
+        "content": [
+          "¿Aburrido de las ensaladas tradicionales? El Hamilton Beach Electric Spiralizer convierte tus verduras en espirales en segundos. Perfecto para hacer comidas saludables y divertidas.",
+          "Su precio actual en Amazon ronda los... 57 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Hamilton Beach Electric Spiralizer"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B06Y2GJ2WV.mp4",
+        "precio": "$57",
+        "productPhoto": "https://m.media-amazon.com/images/I/61EqxQkySxS.jpg"
+      }
+    ],
+    "totalDuration": 75
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "Dale like y recuerda que los links están en el primer comentario."
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:45",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "cocina",
+    "sorprendern"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 3 Gadgets De Cocina Que Te Sorprenderán",
+      "angle": "Top 3 Gadgets De Cocina Que Te Sorprenderán",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 3,
+      "introScript": "¿Un dispositivo que pela tus frutas en un abrir y cerrar de ojos? ¿Otro que convierte tu desayuno en un espectáculo visual? Descubre los gadgets de cocina más sorprendentes y accesibles que revolucionarán tu manera de cocinar. Veamos estas maravillas de la tecnología.",
+      "keywords": [
+        "gadgets",
+        "cocina",
+        "sorprendern"
+      ],
+      "estimatedViews": 4215,
+      "bestPublishTime": "2026-05-03T15:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Dash Rapid Egg Cooker",
+          "searchTermEn": "Dash rapid egg cooker kitchen",
+          "id": "B0D3W6XGLR",
+          "filename": "B0D3W6XGLR.mp4"
+        },
+        {
+          "nombre": "Anova Precision Cooker Nano",
+          "searchTermEn": "Anova precision sous vide cooker",
+          "id": "B07QFC6LN6",
+          "filename": "B07QFC6LN6.mp4"
+        },
+        {
+          "nombre": "Hamilton Beach Electric Spiralizer",
+          "searchTermEn": "Hamilton Beach electric spiralizer",
+          "id": "B06Y2GJ2WV",
+          "filename": "B06Y2GJ2WV.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-04-29T18:50:51.917Z",
+      "_requestedCount": 3,
+      "_adaptedCount": 3,
+      "_scriptNonce": "nonce_1777488859182_3lfq5v"
+    },
+    "generatedAt": "2026-04-29T18:54:25.526Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Dash Rapid Egg Cooker",
+        "searchTermEn": "Dash rapid egg cooker kitchen",
+        "id": "B0D3W6XGLR",
+        "filename": "B0D3W6XGLR.mp4"
+      },
+      {
+        "nombre": "Anova Precision Cooker Nano",
+        "searchTermEn": "Anova precision sous vide cooker",
+        "id": "B07QFC6LN6",
+        "filename": "B07QFC6LN6.mp4"
+      },
+      {
+        "nombre": "Hamilton Beach Electric Spiralizer",
+        "searchTermEn": "Hamilton Beach electric spiralizer",
+        "id": "B06Y2GJ2WV",
+        "filename": "B06Y2GJ2WV.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 3 Gadgets De Cocina Que Te Sorprenderán\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\nCocina huevos perfectamente en minutos. Cocina a la perfección con precisión. Corta verduras en espiral rápidamente.\n\n[0:10-0:15] INTRODUCTION\nSuscríbete, los links están en el primer comentario. Empecemos.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] DASH RAPID EGG COOKER\n¿Tus huevos duros nunca quedan perfectos? El Dash Rapid Egg Cooker te permite cocinarlos a la perfección sin esfuerzo. Compacto y fácil de usar, ideal para cualquier cocina.\nSu precio actual en Amazon ronda los... 17 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Dash Rapid Egg Cooker]\n\n[0:25] ANOVA PRECISION COOKER NANO\n¿Te cuesta cocinar carne exactamente como la quieres? El Anova Precision Cooker Nano cocina tus alimentos con precisión sous-vide. Controla la cocción desde tu smartphone para resultados siempre tiernos.\nSu precio actual en Amazon ronda los... 199 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Anova Precision Cooker Nano]\n\n[0:25] HAMILTON BEACH ELECTRIC SPIRALIZER\n¿Aburrido de las ensaladas tradicionales? El Hamilton Beach Electric Spiralizer convierte tus verduras en espirales en segundos. Perfecto para hacer comidas saludables y divertidas.\nSu precio actual en Amazon ronda los... 57 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Hamilton Beach Electric Spiralizer]\n\n[10 seconds] CONCLUSION\nDale like y recuerda que los links están en el primer comentario.\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:45\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, cocina, sorprendern\n"
+}

@@ -1,0 +1,135 @@
+{
+  "title": "Top 1 Gadgets Esenciales para tu Motocicleta",
+  "hook": {
+    "type": "statement",
+    "text": "Atento a los detalles de: Sena OUTRUSH 2 Casco Modular Inteligente.",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "Suscríbete. Los links están en el primer comentario.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "25s-35s"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Sena OUTRUSH 2 Casco Modular Inteligente",
+        "productId": "B0FS8XYX1Q",
+        "productName": "Sena OUTRUSH 2 Casco Modular Inteligente",
+        "filename": "B0FS8XYX1Q.mp4",
+        "asin": "B0FS8XYX1Q",
+        "videoDuration": 21.5895,
+        "estimatedAudioSeconds": 34,
+        "framework": "comparacion_precio",
+        "narracionSegments": null,
+        "content": [
+          "Conduce conectado. Habla por Bluetooth mientras aceleras; la Sena OUTRUSH 2. Comunica con auriculares de cualquier marca gracias a la tecnología WAVE Intercom y disfruta de sonido envolvente con sus altavoces de alta definición. Olvídate del apagado; su gestión inteligente apaga el casco si no detecta movimiento. Te protege homologado P/J, incluso con la barra levantada; rendimiento sin igual en seguridad y comunicación. Compara a otros precios y descubre... una nueva experiencia de conducción.",
+          "Su precio actual ronda los... trescientos ochenta dólares. Link en comentarios."
+        ],
+        "visuals": [
+          "Product image: Sena OUTRUSH 2 Casco Modular Inteligente"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0FS8XYX1Q.mp4",
+        "precio": "$380",
+        "productPhoto": "https://m.media-amazon.com/images/I/61NxqkBg71L.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "Conéctate mientras conduces: Mantente en contacto con el mundo exterior a través de la conectividad Bluetooth de tu smartphone, o con otros motociclistas en tu grupo a través de Mesh Intercom 3.0.",
+          "No Limits: El Outrush 2 es compatible con WAVE Intercom, lo que te permite comunicarte con cualquier marca de auriculares para motocicleta, a través de prácticamente cualquier distancia dentro de la cobertura de la red celular.",
+          "Música que se mueve contigo: Añade una banda sonora a tu viaje con los altavoces de Alta Definición de 2ª Generación de Sena que convierten tu casco en un estudio de sonido.",
+          "\"\"\"Viaja más lejos entre cargas: Si olvidas apagar tu casco después de un paseo, la Gestión Inteligente de Energía apagará automáticamente el Outrush 2 cuando sus acelerómetros no detecten movimiento después de varias horas.\"\"\"",
+          "Consigue lo mejor de ambos mundos: siente el viento en tu cara con la barra de mentón levantada y monta con la seguridad de que la homologación dual P/J del Outrush 2 te mantiene protegido con la barra de mentón arriba o abajo. Cumple con el Estándar de Seguridad de Vehículos Motorizados Federales 218 (FMVSS 218)."
+        ],
+        "originalVideoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0FS8XYX1Q.mp4"
+      }
+    ],
+    "totalDuration": 40
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      ""
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:10",
+  "tone": "engaging",
+  "tone_variant": "conversacional y cercano, como si le contaras a un amigo algo increíble que descubriste",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "esenciales",
+    "para",
+    "motocicleta"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 1 Gadgets Esenciales para tu Motocicleta",
+      "angle": "Top 2 Gadgets Esenciales para tu Motocicleta",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 1,
+      "introScript": "¿Qué tal si puedes convertir tu casco de moto en un centro de comandos con solo un toque? Y si te dijera que hay una herramienta que te permite ajustar tu motocicleta en cualquier lugar? En el video de hoy, exploramos dos gadgets revolucionarios que transformarán tu experiencia sobre dos ruedas, aumentando la seguridad y mejorando el rendimiento de tu motocicleta. Nunca ha sido tan fácil personalizar tu viaje. No te pierdas estos productos innovadores que ya puedes adquirir.",
+      "keywords": [
+        "gadgets",
+        "esenciales",
+        "para",
+        "motocicleta"
+      ],
+      "estimatedViews": 6376,
+      "bestPublishTime": "2026-09-16T19:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Sena OUTRUSH 2 Casco Modular Inteligente",
+          "searchTermEn": "Sena Smart Motorcycle Helmet",
+          "id": "B0FS8XYX1Q",
+          "filename": "B0FS8XYX1Q.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-09-12T01:23:28.246Z",
+      "_requestedCount": 2,
+      "_adaptedCount": 1,
+      "_adaptationNote": "ATENCIÓN: El usuario pidió 2 productos pero solo hay 1 clips de video disponibles. El guion, título y narrativa deben referirse EXCLUSIVAMENTE a 1 productos.",
+      "introProductsOrder": [
+        {
+          "nombre": "Sena OUTRUSH 2 Casco Modular Inteligente",
+          "id": "B0FS8XYX1Q",
+          "filename": "B0FS8XYX1Q.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0FS8XYX1Q.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1789177946691_ztox04"
+    },
+    "generatedAt": "2026-09-12T01:52:37.130Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Sena OUTRUSH 2 Casco Modular Inteligente",
+        "searchTermEn": "Sena Smart Motorcycle Helmet",
+        "id": "B0FS8XYX1Q",
+        "filename": "B0FS8XYX1Q.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 1 Gadgets Esenciales para tu Motocicleta\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\nAtento a los detalles de: Sena OUTRUSH 2 Casco Modular Inteligente.\n\n[25s-35s] INTRODUCTION\nSuscríbete. Los links están en el primer comentario.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] SENA OUTRUSH 2 CASCO MODULAR INTELIGENTE\nConduce conectado. Habla por Bluetooth mientras aceleras; la Sena OUTRUSH 2. Comunica con auriculares de cualquier marca gracias a la tecnología WAVE Intercom y disfruta de sonido envolvente con sus altavoces de alta definición. Olvídate del apagado; su gestión inteligente apaga el casco si no detecta movimiento. Te protege homologado P/J, incluso con la barra levantada; rendimiento sin igual en seguridad y comunicación. Compara a otros precios y descubre... una nueva experiencia de conducción.\nSu precio actual ronda los... trescientos ochenta dólares. Link en comentarios.\n\n[VISUALS: Product image: Sena OUTRUSH 2 Casco Modular Inteligente]\n\n[10 seconds] CONCLUSION\n\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:10\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, esenciales, para, motocicleta\n"
+}

@@ -1,0 +1,128 @@
+{
+  "title": "Top 3 Gadgets Imprescindibles para tu Alcoba",
+  "hook": {
+    "type": "statement",
+    "text": "¡Transforma tu espacio personal con estos gadgets que no sabías que necesitabas!",
+    "duration": "0:00-0:05"
+  },
+  "introduction": {
+    "greeting": "Tu alcoba no solo es un lugar para descansar, sino un refugio que debería hacerte la vida más fácil y placentera. Hoy te presentamos tres gadgets que transformarán tu rutina diaria y te harán preguntarte cómo viviste sin ellos.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0:05-0:15"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Difusor de Aromas Inteligente",
+        "content": [
+          "Comenzamos con el difusor de aromas inteligente que convierte tu alcoba en un oasis de relajación. Con su capacidad para conectarse a tu smartphone, puedes programar tus fragancias favoritas para que te reciban al llegar a casa, o para ayudarte a dormir mejor cada noche. Es el compañero ideal para aquellos que buscan un ambiente más sereno y acogedor.",
+          "Revisa su precio actualizado en el primer comentario"
+        ],
+        "visuals": [
+          "Product image: Difusor de Aromas Inteligente"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B081CHLF46.mp4"
+      },
+      {
+        "type": "content",
+        "title": "Calentador de Tazas USB",
+        "content": [
+          "En el puesto número dos, tenemos el calentador de tazas USB, perfecto para esos días de trabajo desde casa o para disfrutar de tu bebida caliente sin prisas. Conéctalo a cualquier puerto USB y mantén tu café o té a la temperatura perfecta durante horas. Ideal para los amantes de las bebidas calientes que odian que se enfríen.",
+          "Disponible por solo 9.99 dólares en el enlace de la descripción"
+        ],
+        "visuals": [
+          "Product image: Calentador de Tazas USB"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0B3DRM987.mp4"
+      },
+      {
+        "type": "content",
+        "title": "Despertador Luz Amanecer",
+        "content": [
+          "En el puesto número uno, presentamos el despertador luz amanecer, una revolución en la forma de comenzar tus mañanas. Este gadget simula un amanecer natural, ayudándote a despertar de manera gradual y placentera. Perfecto para quienes sufren de despertarse bruscamente con las alarmas tradicionales.",
+          "Encuéntralo por 32.88 dólares directamente en la descripción"
+        ],
+        "visuals": [
+          "Product image: Despertador Luz Amanecer"
+        ],
+        "duration": 25,
+        "videoPath": null
+      }
+    ],
+    "totalDuration": 75
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "Esperamos que estos gadgets te hayan inspirado a mejorar tu espacio personal. No olvides darle like a este video, suscribirte para más contenido y dejarnos en los comentarios cuál es tu favorito."
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:45",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "imprescindibles",
+    "para",
+    "alcoba"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 3 Gadgets Imprescindibles para tu Alcoba",
+      "angle": "Top 3 Gadgets Imprescindibles para tu Alcoba",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 3,
+      "introScript": "¿Quieres mejorar tus noches de sueño con una lámpara que simula el amanecer? ¿Y qué tal un dispositivo que mantiene tus bebidas a la temperatura perfecta al lado de tu cama? Prepárate para descubrir los gadgets más innovadores para transformar tu alcoba en un oasis de confort.",
+      "keywords": [
+        "gadgets",
+        "imprescindibles",
+        "para",
+        "alcoba"
+      ],
+      "estimatedViews": 5256,
+      "bestPublishTime": "2026-04-09T19:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Despertador luz amanecer",
+          "searchTermEn": "sunrise wake up light"
+        },
+        {
+          "nombre": "Calentador de tazas USB",
+          "searchTermEn": "usb mug warmer bedroom"
+        }
+      ],
+      "createdAt": "2026-04-05T21:32:16.054Z"
+    },
+    "generatedAt": "2026-04-05T21:33:47.788Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Despertador luz amanecer",
+        "searchTermEn": "sunrise wake up light"
+      },
+      {
+        "nombre": "Calentador de tazas USB",
+        "searchTermEn": "usb mug warmer bedroom"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 3 Gadgets Imprescindibles para tu Alcoba\n\n══════════════════════════════════════════════════\n\n[0:00-0:05] HOOK\n¡Transforma tu espacio personal con estos gadgets que no sabías que necesitabas!\n\n[0:05-0:15] INTRODUCTION\nTu alcoba no solo es un lugar para descansar, sino un refugio que debería hacerte la vida más fácil y placentera. Hoy te presentamos tres gadgets que transformarán tu rutina diaria y te harán preguntarte cómo viviste sin ellos.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] DIFUSOR DE AROMAS INTELIGENTE\nComenzamos con el difusor de aromas inteligente que convierte tu alcoba en un oasis de relajación. Con su capacidad para conectarse a tu smartphone, puedes programar tus fragancias favoritas para que te reciban al llegar a casa, o para ayudarte a dormir mejor cada noche. Es el compañero ideal para aquellos que buscan un ambiente más sereno y acogedor.\nRevisa su precio actualizado en el primer comentario\n\n[VISUALS: Product image: Difusor de Aromas Inteligente]\n\n[0:25] CALENTADOR DE TAZAS USB\nEn el puesto número dos, tenemos el calentador de tazas USB, perfecto para esos días de trabajo desde casa o para disfrutar de tu bebida caliente sin prisas. Conéctalo a cualquier puerto USB y mantén tu café o té a la temperatura perfecta durante horas. Ideal para los amantes de las bebidas calientes que odian que se enfríen.\nDisponible por solo 9.99 dólares en el enlace de la descripción\n\n[VISUALS: Product image: Calentador de Tazas USB]\n\n[0:25] DESPERTADOR LUZ AMANECER\nEn el puesto número uno, presentamos el despertador luz amanecer, una revolución en la forma de comenzar tus mañanas. Este gadget simula un amanecer natural, ayudándote a despertar de manera gradual y placentera. Perfecto para quienes sufren de despertarse bruscamente con las alarmas tradicionales.\nEncuéntralo por 32.88 dólares directamente en la descripción\n\n[VISUALS: Product image: Despertador Luz Amanecer]\n\n[10 seconds] CONCLUSION\nEsperamos que estos gadgets te hayan inspirado a mejorar tu espacio personal. No olvides darle like a este video, suscribirte para más contenido y dejarnos en los comentarios cuál es tu favorito.\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:45\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, imprescindibles, para, alcoba\n"
+}

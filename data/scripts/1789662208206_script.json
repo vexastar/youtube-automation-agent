@@ -1,0 +1,228 @@
+{
+  "title": "Los 3 gadgets que transformarán tu hogar",
+  "hook": {
+    "type": "statement",
+    "text": "Imagina una billetera que jamás pierdes u olvidar un cuaderno que puedes usar infinitamente: la Ekster Parliament y el Rocketbook Smart Notebook lo hacen posible. En este video vas a descubrir inventos increíbles que transforman tu rutina. Los enlaces están en el primer comentario. No olvides suscribirte, ¡empecemos!",
+    "duration": "0:00-0:15"
+  },
+  "introduction": {
+    "greeting": "",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0s"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Ekster Parliament Wallet",
+        "productId": "prod_1",
+        "productName": "Ekster Parliament Wallet",
+        "filename": "B07PVMK5NJ.mp4",
+        "asin": "B07PVMK5NJ",
+        "videoDuration": 47.5475,
+        "estimatedAudioSeconds": 24,
+        "framework": "beneficio_oculto",
+        "narracionSegments": null,
+        "content": [
+          "Sorprendentemente elegante. Increíblemente funcional. El Ekster Parliament Wallet carga con un botón deslizable que expone tus tarjetas al instante. Su diseño inteligente acomoda hasta 10 tarjetas y billetes sin abultar el bolsillo. Simplifica tu vida pulsando suavemente y descubre una tarjeta al toque",
+          "Inviértelo ya por 89 dólares en Amazon, ¡una joya indispensable! Encuentra el enlace en los comentarios."
+        ],
+        "visuals": [
+          "Product image: Ekster Parliament Wallet"
+        ],
+        "duration": 25,
+        "precio": "$89",
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07PVMK5NJ.mp4",
+        "productPhoto": null,
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [],
+        "originalVideoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07PVMK5NJ.mp4"
+      },
+      {
+        "type": "content",
+        "title": "Rocketbook Smart Notebook",
+        "productId": "prod_2",
+        "productName": "Rocketbook Smart Notebook",
+        "filename": "B0DP3HRDC2.mp4",
+        "asin": "B0DP3HRDC2",
+        "videoDuration": 114.906458,
+        "estimatedAudioSeconds": 24,
+        "framework": "comparacion_precio",
+        "narracionSegments": null,
+        "content": [
+          "Sorprendentemente innovador. Extraordinariamente reutilizable. Increíblemente ecológico. Rocketbook Smart Notebook te permite escribir, escanear y borrar con facilidad. Sin más papel desperdiciado, captura tus notas con la aplicación Rocketbook, guárdalas en la nube y límpialo con un paño húmedo para que quede como nuevo.",
+          "Adquiérelo por solo 35 dólares en Amazon. Encuentra el enlace anclado al final de los comentarios."
+        ],
+        "visuals": [
+          "Product image: Rocketbook Smart Notebook"
+        ],
+        "duration": 25,
+        "precio": "$35",
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0DP3HRDC2.mp4",
+        "productPhoto": null,
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [],
+        "originalVideoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0DP3HRDC2.mp4"
+      },
+      {
+        "type": "content",
+        "title": "Snapods Auriculares Magnéticos",
+        "productId": "prod_3",
+        "productName": "Snapods Auriculares Magnéticos",
+        "filename": "B0FZT9D21Y.mp4",
+        "asin": "B0FZT9D21Y",
+        "videoDuration": 15.2,
+        "estimatedAudioSeconds": 28,
+        "framework": "dato_numerico",
+        "narracionSegments": null,
+        "content": [
+          "Asombrosamente innovador. Fascinantemente conveniente. Los Snapods son auriculares magnéticos que ofrecen la solución perfecta para mantener orden y estilo sin enredos. Imagina fijarlos mágicamente a cualquier superficie metálica, así siempre estarán listos para usarse. Los Snapods no solo destacan en portabilidad sino que su calidad de sonido te sorprenderá con cada nota clara y potente.",
+          "Consíguelos por solo 80 dólares en Amazon. El enlace directo te espera comentado abajo."
+        ],
+        "visuals": [
+          "Product image: Snapods Auriculares Magnéticos"
+        ],
+        "duration": 25,
+        "precio": "$80",
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0FZT9D21Y.mp4",
+        "productPhoto": null,
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [],
+        "originalVideoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0FZT9D21Y.mp4"
+      }
+    ],
+    "totalDuration": 120
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "Comenta cuál fue tu favorito, dale like, suscríbete y no olvides: los links te esperan abajo."
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "",
+    "like": "",
+    "comment": "",
+    "nextVideo": "",
+    "duration": "0 seconds"
+  },
+  "duration": "2:30",
+  "tone": "engaging",
+  "tone_variant": "conversacional y cercano, como si le contaras a un amigo algo increíble que descubriste",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "transformarn",
+    "hogar"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Los 3 gadgets que transformarán tu hogar",
+      "angle": "Los 3 gadgets que transformarán tu hogar",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 3,
+      "introScript": "¿Buscas añadir un toque moderno y funcional a tu hogar? Descubre cómo la Ekster Parliament Wallet, el Rocketbook Smart Notebook y los Snapods Auriculares Magnéticos pueden revolucionar tu día a día. Desde organización inteligente hasta tecnología portátil, estos gadgets te sorprenderán. ¿Listo para explorar sus secretos?",
+      "keywords": [
+        "gadgets",
+        "transformarn",
+        "hogar"
+      ],
+      "estimatedViews": 4882,
+      "bestPublishTime": "2026-09-23T19:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "id": "B07PVMK5NJ",
+          "nombre": "La traducción del texto \"Ekster Parliament",
+          "filename": "B07PVMK5NJ.mp4",
+          "precio": 89,
+          "searchTermEn": "Ekster Parliament Wallet"
+        },
+        {
+          "id": "B0DP3HRDC2",
+          "nombre": "El texto traducido sería: \"\"\"Cuaderno Inteligente",
+          "filename": "B0DP3HRDC2.mp4",
+          "precio": 35,
+          "searchTermEn": "Rocketbook Smart Notebook"
+        },
+        {
+          "id": "B0FZT9D21Y",
+          "nombre": "Snapods Magnetic Earbuds",
+          "filename": "B0FZT9D21Y.mp4",
+          "precio": 80,
+          "searchTermEn": "Snapods Auriculares Magnéticos"
+        }
+      ],
+      "_sourceFile": "productos_locales.json",
+      "createdAt": "2026-09-17T16:22:54.599Z",
+      "_requestedCount": 3,
+      "_adaptedCount": 3,
+      "introProductsOrder": [
+        {
+          "nombre": "Snapods Magnetic Earbuds",
+          "id": "B0FZT9D21Y",
+          "filename": "B0FZT9D21Y.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0FZT9D21Y.mp4"
+        },
+        {
+          "nombre": "La traducción del texto \"Ekster Parliament",
+          "id": "B07PVMK5NJ",
+          "filename": "B07PVMK5NJ.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07PVMK5NJ.mp4"
+        },
+        {
+          "nombre": "El texto traducido sería: \"\"\"Cuaderno Inteligente",
+          "id": "B0DP3HRDC2",
+          "filename": "B0DP3HRDC2.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0DP3HRDC2.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1789662177398_rgacle"
+    },
+    "generatedAt": "2026-09-17T16:23:20.037Z",
+    "version": "3.0-ezetech",
+    "productos": [
+      {
+        "id": "B07PVMK5NJ",
+        "nombre": "La traducción del texto \"Ekster Parliament",
+        "filename": "B07PVMK5NJ.mp4",
+        "precio": 89,
+        "searchTermEn": "Ekster Parliament Wallet"
+      },
+      {
+        "id": "B0DP3HRDC2",
+        "nombre": "El texto traducido sería: \"\"\"Cuaderno Inteligente",
+        "filename": "B0DP3HRDC2.mp4",
+        "precio": 35,
+        "searchTermEn": "Rocketbook Smart Notebook"
+      },
+      {
+        "id": "B0FZT9D21Y",
+        "nombre": "Snapods Magnetic Earbuds",
+        "filename": "B0FZT9D21Y.mp4",
+        "precio": 80,
+        "searchTermEn": "Snapods Auriculares Magnéticos"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Los 3 gadgets que transformarán tu hogar\n\n══════════════════════════════════════════════════\n\n[0:00-0:15] HOOK\nImagina una billetera que jamás pierdes u olvidar un cuaderno que puedes usar infinitamente: la Ekster Parliament y el Rocketbook Smart Notebook lo hacen posible. En este video vas a descubrir inventos increíbles que transforman tu rutina. Los enlaces están en el primer comentario. No olvides suscribirte, ¡empecemos!\n\n[0s] INTRODUCTION\n\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] EKSTER PARLIAMENT WALLET\nSorprendentemente elegante. Increíblemente funcional. El Ekster Parliament Wallet carga con un botón deslizable que expone tus tarjetas al instante. Su diseño inteligente acomoda hasta 10 tarjetas y billetes sin abultar el bolsillo. Simplifica tu vida pulsando suavemente y descubre una tarjeta al toque\nInviértelo ya por 89 dólares en Amazon, ¡una joya indispensable! Encuentra el enlace en los comentarios.\n\n[VISUALS: Product image: Ekster Parliament Wallet]\n\n[0:25] ROCKETBOOK SMART NOTEBOOK\nSorprendentemente innovador. Extraordinariamente reutilizable. Increíblemente ecológico. Rocketbook Smart Notebook te permite escribir, escanear y borrar con facilidad. Sin más papel desperdiciado, captura tus notas con la aplicación Rocketbook, guárdalas en la nube y límpialo con un paño húmedo para que quede como nuevo.\nAdquiérelo por solo 35 dólares en Amazon. Encuentra el enlace anclado al final de los comentarios.\n\n[VISUALS: Product image: Rocketbook Smart Notebook]\n\n[0:25] SNAPODS AURICULARES MAGNÉTICOS\nAsombrosamente innovador. Fascinantemente conveniente. Los Snapods son auriculares magnéticos que ofrecen la solución perfecta para mantener orden y estilo sin enredos. Imagina fijarlos mágicamente a cualquier superficie metálica, así siempre estarán listos para usarse. Los Snapods no solo destacan en portabilidad sino que su calidad de sonido te sorprenderá con cada nota clara y potente.\nConsíguelos por solo 80 dólares en Amazon. El enlace directo te espera comentado abajo.\n\n[VISUALS: Product image: Snapods Auriculares Magnéticos]\n\n[10 seconds] CONCLUSION\nComenta cuál fue tu favorito, dale like, suscríbete y no olvides: los links te esperan abajo.\n\n\n\n[0 seconds] CALL TO ACTION\n\n\n\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 2:30\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, transformarn, hogar\n"
+}

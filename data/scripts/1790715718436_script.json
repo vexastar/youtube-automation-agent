@@ -1,0 +1,135 @@
+{
+  "title": "Top 1 Gadgets Increíbles para tu Coche",
+  "hook": {
+    "type": "statement",
+    "text": "No compres nada en Amazon hasta ver esto. Este dispositivo mantiene tu vehículo personal siempre listo para funcionar y otro que recarga gadgets de vanguardia imperdibles. Recuerda que los verdaderos links están en el primer comentario. Vamos.",
+    "duration": "0:00-0:15"
+  },
+  "introduction": {
+    "greeting": "",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0s"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Cargador de Scooter Eléctrico 54.6V 3A",
+        "productId": "B0FL11X7BX",
+        "productName": "Cargador de Scooter Eléctrico 54.6V 3A",
+        "filename": "B0FL11X7BX.mp4",
+        "asin": "B0FL11X7BX",
+        "videoDuration": 10.078,
+        "estimatedAudioSeconds": 40,
+        "framework": "dato_numerico",
+        "narracionSegments": null,
+        "content": [
+          "Esperar horas para cargar tu scooter eléctrico puede ser desesperante especialmente con los cargadores estándar que dominan el mercado. El Cargador de Scooter Eléctrico 54.6V 3A acelera notablemente este proceso permitiéndote disfrutar de la carretera en menor tiempo. Ofrece un cincuenta por ciento más de corriente asegurando cargas rápidas para baterías de litio de cuarenta y ocho voltios mientras proporciona hasta tres opciones de voltaje con pantalla inteligente para control total del proceso. Construido con aleación de aluminio y ventilador silencioso también cuenta con doble protección incluyendo sensor térmico.",
+          "Actualmente, lo consigues por unos treinta y tres dólares en Amazon."
+        ],
+        "visuals": [
+          "Product image: Cargador de Scooter Eléctrico 54.6V 3A"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0FL11X7BX.mp4",
+        "precio": "$33",
+        "productPhoto": "https://m.media-amazon.com/images/I/61B6zNU-PfL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "*50% Velocidad de Carga Más Rápida*: Mejora a nuestro Cargador Rápido de 54.6V 3A y reduce significativamente tu tiempo de espera. Entregando un 50% más de corriente que los modelos estándar de 2A, te permite volver a la carretera mucho más pronto. Ideal para baterías de Litio de 48V, este adaptador de alta eficiencia asegura una carga segura, rápida y confiable, minimizando el tiempo de inactividad y maximizando tu aventura en bicicleta.",
+          "Tecnología de Carga Avanzada Nuestro cargador de scooter eléctrico ofrece carga rápida y eficiente con tres opciones de voltaje (42V 2A y 54.6V 2A, 54.6V 3A). La pantalla inteligente del cargador proporciona actualizaciones en tiempo real sobre el voltaje, el tiempo de carga restante y el porcentaje de batería, dándote el control total sobre el proceso de carga de tu scooter.",
+          "Diseño Elegante y Duradero Este cargador está construido con un acabado electrochapado mate único y elegante, lo que lo hace no solo visualmente atractivo, sino también altamente duradero. La carcasa de aleación de aluminio combinada con un ventilador silencioso de alta velocidad garantiza una superior disipación del calor, manteniendo el cargador silencioso y fresco durante su uso.",
+          "Características de Multi-Protectión Su seguridad es nuestra prioridad. Este cargador viene con un sistema de doble protección: apagado automático cuando está completamente cargado y un sensor de temperatura incorporado para prevenir el sobrecalentamiento. Además, el software avanzado del cargador controla la detección de voltaje, previniendo cualquier riesgo de retroceso de corriente.",
+          "Compatibilidad Versátil Este cargador viene equipado con 6 adaptadores de carga diferentes, lo que permite la compatibilidad con una amplia gama de scooters eléctricos y bicicletas. Ya sea que tengas un scooter o una e-bike con sistemas de batería de 42V o 54.6V, este cargador es una opción perfecta, ofreciendo carga sin complicaciones para múltiples modelos de vehículos."
+        ],
+        "originalVideoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0FL11X7BX.mp4"
+      }
+    ],
+    "totalDuration": 40
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "Reto lanzado: Encuentra algo mejor que estos indispensables. Suscríbete y revisa los links abajo."
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "",
+    "like": "",
+    "comment": "",
+    "nextVideo": "",
+    "duration": "0 seconds"
+  },
+  "duration": "1:10",
+  "tone": "engaging",
+  "tone_variant": "directo y urgente, como si el producto se agotara mañana",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "increbles",
+    "para",
+    "coche"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 1 Gadgets Increíbles para tu Coche",
+      "angle": "Top 2 Gadgets Increíbles para tu Coche",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 1,
+      "introScript": "¿Estás listo para transformar tu experiencia al volante? Hoy te mostraremos dos gadgets revolucionarios que no podrás creer. Imagina un dispositivo que convierte tu coche en un espacio de entretenimiento inmersivo, proyectando una pantalla de cine completa en el interior. Pero eso no es todo, también descubrirás un cargador un tanto mágico que no solo carga más rápido que los demás, sino que además puede diagnosticar problemas del vehículo en tiempo real. Prepárate para ir más allá de lo imaginable en el mundo del automóvil.",
+      "keywords": [
+        "gadgets",
+        "increbles",
+        "para",
+        "coche"
+      ],
+      "estimatedViews": 5858,
+      "bestPublishTime": "2026-09-30T19:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Cargador de Scooter Eléctrico 54.6V 3A",
+          "searchTermEn": "Nonda ZUS Smart Charger",
+          "id": "B0FL11X7BX",
+          "filename": "B0FL11X7BX.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-09-29T20:59:25.446Z",
+      "_requestedCount": 2,
+      "_adaptedCount": 1,
+      "_adaptationNote": "ATENCIÓN: El usuario pidió 2 productos pero solo hay 1 clips de video disponibles. El guion, título y narrativa deben referirse EXCLUSIVAMENTE a 1 productos.",
+      "introProductsOrder": [
+        {
+          "nombre": "Cargador de Scooter Eléctrico 54.6V 3A",
+          "id": "B0FL11X7BX",
+          "filename": "B0FL11X7BX.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0FL11X7BX.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1790715693205_0lv1wo"
+    },
+    "generatedAt": "2026-09-29T21:01:46.138Z",
+    "version": "4.0-dynamic-rotator",
+    "productos": [
+      {
+        "nombre": "Cargador de Scooter Eléctrico 54.6V 3A",
+        "searchTermEn": "Nonda ZUS Smart Charger",
+        "id": "B0FL11X7BX",
+        "filename": "B0FL11X7BX.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 1 Gadgets Increíbles para tu Coche\n\n══════════════════════════════════════════════════\n\n[0:00-0:15] HOOK\nNo compres nada en Amazon hasta ver esto. Este dispositivo mantiene tu vehículo personal siempre listo para funcionar y otro que recarga gadgets de vanguardia imperdibles. Recuerda que los verdaderos links están en el primer comentario. Vamos.\n\n[0s] INTRODUCTION\n\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] CARGADOR DE SCOOTER ELÉCTRICO 54.6V 3A\nEsperar horas para cargar tu scooter eléctrico puede ser desesperante especialmente con los cargadores estándar que dominan el mercado. El Cargador de Scooter Eléctrico 54.6V 3A acelera notablemente este proceso permitiéndote disfrutar de la carretera en menor tiempo. Ofrece un cincuenta por ciento más de corriente asegurando cargas rápidas para baterías de litio de cuarenta y ocho voltios mientras proporciona hasta tres opciones de voltaje con pantalla inteligente para control total del proceso. Construido con aleación de aluminio y ventilador silencioso también cuenta con doble protección incluyendo sensor térmico.\nActualmente, lo consigues por unos treinta y tres dólares en Amazon.\n\n[VISUALS: Product image: Cargador de Scooter Eléctrico 54.6V 3A]\n\n[10 seconds] CONCLUSION\nReto lanzado: Encuentra algo mejor que estos indispensables. Suscríbete y revisa los links abajo.\n\n\n\n[0 seconds] CALL TO ACTION\n\n\n\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:10\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, increbles, para, coche\n"
+}

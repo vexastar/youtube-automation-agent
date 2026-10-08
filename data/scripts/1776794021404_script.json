@@ -1,0 +1,136 @@
+{
+  "title": "Top 2 Gadgets Futuristas para Gamers",
+  "hook": {
+    "type": "statement",
+    "text": "Estos auriculares cancelan el ruido a la perfección. Esta silla transforma tu experiencia de juego en un viaje inmersivo.",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "Suscríbete, los links están en el primer comentario. Empecemos.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0:10-0:15"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Auriculares silenciosos Mu6",
+        "productId": "B0899GP79M",
+        "productName": "Auriculares silenciosos Mu6",
+        "filename": "B0899GP79M.mp4",
+        "content": [
+          "Jugar en entornos ruidosos puede arruinar tus partidas más intensas. Los Auriculares silenciosos Mu6 eliminan el ruido externo mientras disfrutas de tu juego favorito. Su tecnología avanzada asegura una experiencia auditiva envolvente y libre de distracciones.",
+          "Su precio actual en Amazon ronda los... 10 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Auriculares silenciosos Mu6"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0899GP79M.mp4",
+        "precio": "$10"
+      },
+      {
+        "type": "content",
+        "title": "Silla de juego X Rocker",
+        "productId": "B089B17Z21",
+        "productName": "Silla de juego X Rocker",
+        "filename": "B089B17Z21.mp4",
+        "content": [
+          "Las largas sesiones de juego pueden ser incómodas y cansadas sin el equipo adecuado. La Silla de juego X Rocker ofrece soporte ergonómico y vibración sincronizada con el audio del juego. Con altavoces integrados, te sumergirás por completo en cada partida.",
+          "Su precio actual en Amazon ronda los... 115 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Silla de juego X Rocker"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B089B17Z21.mp4",
+        "precio": "$115"
+      }
+    ],
+    "totalDuration": 50
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "Dale like y recuerda que los links están en el primer comentario."
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:20",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "futuristas",
+    "para",
+    "gamers"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 2 Gadgets Futuristas para Gamers",
+      "angle": "Top 3 Gadgets Futuristas para Gamers",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 2,
+      "introScript": "¿Un teclado que proyecta láseres sobre tu escritorio? ¿Auriculares que cancelan todo el ruido externo con un simple gesto? Sumérgete en el mundo gamer del futuro con estos gadgets innovadores que transformarán tu experiencia de juego.",
+      "keywords": [
+        "gadgets",
+        "futuristas",
+        "para",
+        "gamers"
+      ],
+      "estimatedViews": 4015,
+      "bestPublishTime": "2026-04-28T19:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Auriculares silenciosos Mu6",
+          "searchTermEn": "Mu6 noise cancelling headphones",
+          "id": "B0899GP79M",
+          "filename": "B0899GP79M.mp4"
+        },
+        {
+          "nombre": "Silla de juego X Rocker",
+          "searchTermEn": "X Rocker gaming chair",
+          "id": "B089B17Z21",
+          "filename": "B089B17Z21.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-04-21T17:51:29.982Z",
+      "_requestedCount": 3,
+      "_adaptedCount": 2,
+      "_adaptationNote": "ATENCIÓN: El usuario pidió 3 productos pero solo hay 2 clips de video disponibles. El guion, título y narrativa deben referirse EXCLUSIVAMENTE a 2 productos.",
+      "_scriptNonce": "nonce_1776794012929_1ei3nt"
+    },
+    "generatedAt": "2026-04-21T17:53:41.245Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Auriculares silenciosos Mu6",
+        "searchTermEn": "Mu6 noise cancelling headphones",
+        "id": "B0899GP79M",
+        "filename": "B0899GP79M.mp4"
+      },
+      {
+        "nombre": "Silla de juego X Rocker",
+        "searchTermEn": "X Rocker gaming chair",
+        "id": "B089B17Z21",
+        "filename": "B089B17Z21.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 2 Gadgets Futuristas para Gamers\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\nEstos auriculares cancelan el ruido a la perfección. Esta silla transforma tu experiencia de juego en un viaje inmersivo.\n\n[0:10-0:15] INTRODUCTION\nSuscríbete, los links están en el primer comentario. Empecemos.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] AURICULARES SILENCIOSOS MU6\nJugar en entornos ruidosos puede arruinar tus partidas más intensas. Los Auriculares silenciosos Mu6 eliminan el ruido externo mientras disfrutas de tu juego favorito. Su tecnología avanzada asegura una experiencia auditiva envolvente y libre de distracciones.\nSu precio actual en Amazon ronda los... 10 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Auriculares silenciosos Mu6]\n\n[0:25] SILLA DE JUEGO X ROCKER\nLas largas sesiones de juego pueden ser incómodas y cansadas sin el equipo adecuado. La Silla de juego X Rocker ofrece soporte ergonómico y vibración sincronizada con el audio del juego. Con altavoces integrados, te sumergirás por completo en cada partida.\nSu precio actual en Amazon ronda los... 115 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Silla de juego X Rocker]\n\n[10 seconds] CONCLUSION\nDale like y recuerda que los links están en el primer comentario.\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:20\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, futuristas, para, gamers\n"
+}

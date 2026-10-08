@@ -45,37 +45,69 @@ class Logger {
     });
   }
 
+  _redact(text) {
+    try {
+      if (typeof text !== 'string') return text;
+      const patterns = [
+        /sk_[A-Za-z0-9_\-]{8,}/g,            // OpenAI/elevenlabs-like keys
+        /act\.[A-Za-z0-9_\-\.]{8,}/g,       // TikTok tokens
+        /ya29\.[A-Za-z0-9_\-]{8,}/g,        // Google tokens
+        /eyJ[A-Za-z0-9_\-]{10,}\.[A-Za-z0-9_\-]{10,}\.[A-Za-z0-9_\-]{10,}/g, // JWT-ish
+        /\b[A-Za-z0-9_\-]{40,}\b/g         // generic long token-like strings
+      ];
+      const mask = (m) => (m.length > 8 ? m.slice(0, 4) + '...[REDACTED]' : '...[REDACTED]');
+      let out = text;
+      for (const p of patterns) {
+        out = out.replace(p, mask);
+      }
+      return out;
+    } catch (e) {
+      return text;
+    }
+  }
+
   info(message, ...args) {
-    this.winston.info(message, ...args);
-    console.log(this.formatConsoleMessage('INFO', message, chalk.blue));
+    const safeMessage = this._redact(String(message));
+    const safeArgs = args.map(a => (typeof a === 'string' ? this._redact(a) : a));
+    this.winston.info(safeMessage, ...safeArgs);
+    console.log(this.formatConsoleMessage('INFO', safeMessage, chalk.blue));
   }
 
   success(message, ...args) {
-    this.winston.info(message, ...args);
-    console.log(this.formatConsoleMessage('SUCCESS', message, chalk.green));
+    const safeMessage = this._redact(String(message));
+    const safeArgs = args.map(a => (typeof a === 'string' ? this._redact(a) : a));
+    this.winston.info(safeMessage, ...safeArgs);
+    console.log(this.formatConsoleMessage('SUCCESS', safeMessage, chalk.green));
   }
 
   warn(message, ...args) {
-    this.winston.warn(message, ...args);
-    console.log(this.formatConsoleMessage('WARN', message, chalk.yellow));
+    const safeMessage = this._redact(String(message));
+    const safeArgs = args.map(a => (typeof a === 'string' ? this._redact(a) : a));
+    this.winston.warn(safeMessage, ...safeArgs);
+    console.log(this.formatConsoleMessage('WARN', safeMessage, chalk.yellow));
   }
 
   error(message, error = null, ...args) {
+    const safeMessage = this._redact(String(message));
+    const safeArgs = args.map(a => (typeof a === 'string' ? this._redact(a) : a));
     if (error) {
-      this.winston.error(message, { error: error.message, stack: error.stack, ...args });
+      const safeError = { message: this._redact(error.message || ''), stack: error.stack };
+      this.winston.error(safeMessage, { error: safeError, ...safeArgs });
     } else {
-      this.winston.error(message, ...args);
+      this.winston.error(safeMessage, ...safeArgs);
     }
-    console.log(this.formatConsoleMessage('ERROR', message, chalk.red));
+    console.log(this.formatConsoleMessage('ERROR', safeMessage, chalk.red));
     if (error && process.env.NODE_ENV !== 'production') {
-      console.error(chalk.red(error.stack));
+      try { console.error(chalk.red(error.stack)); } catch (_) {}
     }
   }
 
   debug(message, ...args) {
-    this.winston.debug(message, ...args);
+    const safeMessage = this._redact(String(message));
+    const safeArgs = args.map(a => (typeof a === 'string' ? this._redact(a) : a));
+    this.winston.debug(safeMessage, ...safeArgs);
     if (process.env.NODE_ENV !== 'production') {
-      console.log(this.formatConsoleMessage('DEBUG', message, chalk.gray));
+      console.log(this.formatConsoleMessage('DEBUG', safeMessage, chalk.gray));
     }
   }
 

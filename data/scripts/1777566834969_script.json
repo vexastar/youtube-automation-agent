@@ -1,0 +1,386 @@
+{
+  "title": "Top 8 Gadgets Asombrosos Nuevos en Amazon que No Debes Perderte",
+  "hook": {
+    "type": "statement",
+    "text": "Un controlador que cabe en tu mano. Un jardín acuático en casa. Carga todo sin cables. Organiza tu escritorio con estilo. Proyecta en cualquier lugar.",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "Suscríbete, los links están en el primer comentario. Empecemos.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0:10-0:15"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Tap Strap 2",
+        "productId": "B09C2K7L73",
+        "productName": "Tap Strap 2",
+        "filename": "B09C2K7L73.mp4",
+        "asin": "B09C2K7L73",
+        "clipDuration": 71.63,
+        "estimatedAudioSeconds": 82,
+        "framework": "problema_solucion",
+        "content": [
+          "¿Cansado de los teclados tradicionales? Tap Strap 2 es la solución: un teclado portátil que funciona en todas partes, desde realidad virtual hasta smart TVs. Olvídate de los cables y escribe con gestos aéreos. Además, es ambidiestro y soporta cualquier idioma.",
+          "Su precio actual en Amazon ronda los... 99 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Tap Strap 2"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B09C2K7L73.mp4",
+        "precio": "$99",
+        "productPhoto": "https://m.media-amazon.com/images/I/61yNjsCP9KL.jpg"
+      },
+      {
+        "type": "content",
+        "title": "Woodies Wireless Charging Station",
+        "productId": "B0DH2DHLZX",
+        "productName": "Woodies Wireless Charging Station",
+        "filename": "B0DH2DHLZX.mp4",
+        "asin": "B0DH2DHLZX",
+        "clipDuration": 59.26,
+        "estimatedAudioSeconds": 71,
+        "framework": "enfoque_caracteristica",
+        "content": [
+          "La estación de carga inalámbrica integra un reloj y luz de noche ajustable. Carga rápido múltiples dispositivos sin cables desordenados. Compatible con iPhone y Samsung, además de AirPods.",
+          "Su precio actual en Amazon ronda los... 40 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Woodies Wireless Charging Station"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0DH2DHLZX.mp4",
+        "precio": "$40",
+        "productPhoto": "https://m.media-amazon.com/images/I/71sv+BG5wmL.jpg"
+      },
+      {
+        "type": "content",
+        "title": "Ember Temperature Control Smart Mug",
+        "productId": "B0CMJQZ5PL",
+        "productName": "Ember Temperature Control Smart Mug",
+        "filename": "B0CMJQZ5PL.mp4",
+        "asin": "B0CMJQZ5PL",
+        "clipDuration": 58.01,
+        "estimatedAudioSeconds": 77,
+        "framework": "beneficio_oculto",
+        "content": [
+          "La taza Ember no solo mantiene tu bebida caliente, también recuerda tu temperatura favorita. Con un diseño innovador y control desde una app, disfrutarás cada sorbo a la perfección.",
+          "Su precio actual en Amazon ronda los... 97 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Ember Temperature Control Smart Mug"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0CMJQZ5PL.mp4",
+        "precio": "$97",
+        "productPhoto": "https://m.media-amazon.com/images/I/61vMR6lqOqL.jpg"
+      },
+      {
+        "type": "content",
+        "title": "Roxant Pro Mini LED Projector",
+        "productId": "B0CD2BS3QX",
+        "productName": "Roxant Pro Mini LED Projector",
+        "filename": "B0CD2BS3QX.mp4",
+        "asin": "B0CD2BS3QX",
+        "clipDuration": 21.91,
+        "estimatedAudioSeconds": 26,
+        "framework": "problema_solucion",
+        "content": [
+          "¿Quieres entretenimiento portátil en cualquier lugar? Este mini proyector, del tamaño de dos latas de refresco, ofrece calidad Full HD y protección ocular.",
+          "Su precio actual en Amazon ronda los... 50 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Roxant Pro Mini LED Projector"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0CD2BS3QX.mp4",
+        "precio": "$50",
+        "productPhoto": "https://m.media-amazon.com/images/I/61kRNDZh8UL.jpg"
+      },
+      {
+        "type": "content",
+        "title": "Grove Made Desk Shelf",
+        "productId": "B0BCFD8D2H",
+        "productName": "Grove Made Desk Shelf",
+        "filename": "B0BCFD8D2H.mp4",
+        "asin": "B0BCFD8D2H",
+        "clipDuration": 22.04,
+        "estimatedAudioSeconds": 27,
+        "framework": "enfoque_caracteristica",
+        "content": [
+          "Optimiza tu espacio con el Grove Made Desk Shelf. Su estructura de madera y metal soporta hasta 50 libras, ideal para cualquier rincón de tu escritorio.",
+          "Su precio actual en Amazon ronda los... 24 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Grove Made Desk Shelf"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0BCFD8D2H.mp4",
+        "precio": "$24",
+        "productPhoto": "https://m.media-amazon.com/images/I/71y1D6T1GfL.jpg"
+      },
+      {
+        "type": "content",
+        "title": "Litra Glow Premium Streaming Light",
+        "productId": "B09KGSRY5V",
+        "productName": "Litra Glow Premium Streaming Light",
+        "filename": "B09KGSRY5V.mp4",
+        "asin": "B09KGSRY5V",
+        "clipDuration": 40.7,
+        "estimatedAudioSeconds": 56,
+        "framework": "beneficio_oculto",
+        "content": [
+          "Descubre la versatilidad con la Litra Glow. Más que una simple luz, transforma tu espacio con brillo cinematográfico y ajuste continuo.",
+          "Su precio actual en Amazon ronda los... 50 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Litra Glow Premium Streaming Light"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B09KGSRY5V.mp4",
+        "precio": "$50",
+        "productPhoto": "https://m.media-amazon.com/images/I/51geLw91l-L.jpg"
+      },
+      {
+        "type": "content",
+        "title": "Snapods Magnetic Earbuds",
+        "productId": "B0F145ZPNT",
+        "productName": "Snapods Magnetic Earbuds",
+        "filename": "B0F145ZPNT.mp4",
+        "asin": "B0F145ZPNT",
+        "clipDuration": 28.9,
+        "estimatedAudioSeconds": 39,
+        "framework": "problema_solucion",
+        "content": [
+          "¿Auriculares siempre enredados? Snapods ofrece un diseño magnético que evita el desorden, proporcionando un sonido claro y conexión sencilla.",
+          "Su precio actual en Amazon ronda los... 33 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Snapods Magnetic Earbuds"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0F145ZPNT.mp4",
+        "precio": "$33",
+        "productPhoto": "https://m.media-amazon.com/images/I/61GL9gJazyL.jpg"
+      },
+      {
+        "type": "content",
+        "title": "AquaSprouts Garden",
+        "productId": "B0F2M5QCZ9",
+        "productName": "AquaSprouts Garden",
+        "filename": "B0F2M5QCZ9.mp4",
+        "asin": "B0F2M5QCZ9",
+        "clipDuration": 28.9,
+        "estimatedAudioSeconds": 36,
+        "framework": "enfoque_caracteristica",
+        "content": [
+          "Convierte tu acuario en un jardín. Este sistema aquapónico nutre plantas con residuos de peces, transformando tu hogar con un toque ecológico.",
+          "Su precio actual en Amazon ronda los... 12 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: AquaSprouts Garden"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0F2M5QCZ9.mp4",
+        "precio": "$12",
+        "productPhoto": "https://m.media-amazon.com/images/I/91lwYR7vCdL.jpg"
+      }
+    ],
+    "totalDuration": 200
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "Dale like y recuerda, los links están en el primer comentario."
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "3:50",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "asombrosos",
+    "nuevos",
+    "amazon",
+    "debes",
+    "perderte"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 8 Gadgets Asombrosos Nuevos en Amazon que No Debes Perderte",
+      "angle": "Top 10 Gadgets Asombrosos Nuevos en Amazon que No Debes Perderte",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 8,
+      "introScript": "¿Un gadget que convierte cualquier superficie en teclado? ¿Un organizador que carga tus dispositivos sin cables? Prepárate para descubrir los gadgets más sorprendentes que revolucionan el mercado. Estos productos están listos para asombrarte.",
+      "keywords": [
+        "gadgets",
+        "asombrosos",
+        "nuevos",
+        "amazon",
+        "debes",
+        "perderte"
+      ],
+      "estimatedViews": 6194,
+      "bestPublishTime": "2026-05-05T19:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Tap Strap 2",
+          "searchTermEn": "Tap Strap 2 wearable keyboard",
+          "id": "B09C2K7L73",
+          "filename": "B09C2K7L73.mp4"
+        },
+        {
+          "nombre": "Woodies Wireless Charging Station",
+          "searchTermEn": "Woodies wireless charging station",
+          "id": "B0DH2DHLZX",
+          "filename": "B0DH2DHLZX.mp4"
+        },
+        {
+          "nombre": "Ember Temperature Control Smart Mug",
+          "searchTermEn": "Ember smart mug temperature control",
+          "id": "B0CMJQZ5PL",
+          "filename": "B0CMJQZ5PL.mp4"
+        },
+        {
+          "nombre": "Roxant Pro Mini LED Projector",
+          "searchTermEn": "Roxant pro mini led projector",
+          "id": "B0CD2BS3QX",
+          "filename": "B0CD2BS3QX.mp4"
+        },
+        {
+          "nombre": "Grove Made Desk Shelf",
+          "searchTermEn": "Grove Made desk shelf organizer",
+          "id": "B0BCFD8D2H",
+          "filename": "B0BCFD8D2H.mp4"
+        },
+        {
+          "nombre": "Litra Glow Premium Streaming Light",
+          "searchTermEn": "Litra glow premium streaming light",
+          "id": "B09KGSRY5V",
+          "filename": "B09KGSRY5V.mp4"
+        },
+        {
+          "nombre": "Snapods Magnetic Earbuds",
+          "searchTermEn": "Snapods magnetic earbuds",
+          "id": "B0F145ZPNT",
+          "filename": "B0F145ZPNT.mp4"
+        },
+        {
+          "nombre": "AquaSprouts Garden",
+          "searchTermEn": "AquaSprouts aquaponic garden",
+          "id": "B0F2M5QCZ9",
+          "filename": "B0F2M5QCZ9.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-04-30T16:18:05.699Z",
+      "_requestedCount": 10,
+      "_adaptedCount": 8,
+      "_adaptationNote": "ATENCIÓN: El usuario pidió 10 productos pero solo hay 8 clips de video disponibles. El guion, título y narrativa deben referirse EXCLUSIVAMENTE a 8 productos.",
+      "introProductsOrder": [
+        {
+          "nombre": "Tap Strap 2",
+          "id": "B09C2K7L73",
+          "filename": "B09C2K7L73.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B09C2K7L73.mp4"
+        },
+        {
+          "nombre": "AquaSprouts Garden",
+          "id": "B0F2M5QCZ9",
+          "filename": "B0F2M5QCZ9.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0F2M5QCZ9.mp4"
+        },
+        {
+          "nombre": "Woodies Wireless Charging Station",
+          "id": "B0DH2DHLZX",
+          "filename": "B0DH2DHLZX.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0DH2DHLZX.mp4"
+        },
+        {
+          "nombre": "Grove Made Desk Shelf",
+          "id": "B0BCFD8D2H",
+          "filename": "B0BCFD8D2H.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0BCFD8D2H.mp4"
+        },
+        {
+          "nombre": "Roxant Pro Mini LED Projector",
+          "id": "B0CD2BS3QX",
+          "filename": "B0CD2BS3QX.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0CD2BS3QX.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1777566793355_wtzg74"
+    },
+    "generatedAt": "2026-04-30T16:33:34.233Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Tap Strap 2",
+        "searchTermEn": "Tap Strap 2 wearable keyboard",
+        "id": "B09C2K7L73",
+        "filename": "B09C2K7L73.mp4"
+      },
+      {
+        "nombre": "Woodies Wireless Charging Station",
+        "searchTermEn": "Woodies wireless charging station",
+        "id": "B0DH2DHLZX",
+        "filename": "B0DH2DHLZX.mp4"
+      },
+      {
+        "nombre": "Ember Temperature Control Smart Mug",
+        "searchTermEn": "Ember smart mug temperature control",
+        "id": "B0CMJQZ5PL",
+        "filename": "B0CMJQZ5PL.mp4"
+      },
+      {
+        "nombre": "Roxant Pro Mini LED Projector",
+        "searchTermEn": "Roxant pro mini led projector",
+        "id": "B0CD2BS3QX",
+        "filename": "B0CD2BS3QX.mp4"
+      },
+      {
+        "nombre": "Grove Made Desk Shelf",
+        "searchTermEn": "Grove Made desk shelf organizer",
+        "id": "B0BCFD8D2H",
+        "filename": "B0BCFD8D2H.mp4"
+      },
+      {
+        "nombre": "Litra Glow Premium Streaming Light",
+        "searchTermEn": "Litra glow premium streaming light",
+        "id": "B09KGSRY5V",
+        "filename": "B09KGSRY5V.mp4"
+      },
+      {
+        "nombre": "Snapods Magnetic Earbuds",
+        "searchTermEn": "Snapods magnetic earbuds",
+        "id": "B0F145ZPNT",
+        "filename": "B0F145ZPNT.mp4"
+      },
+      {
+        "nombre": "AquaSprouts Garden",
+        "searchTermEn": "AquaSprouts aquaponic garden",
+        "id": "B0F2M5QCZ9",
+        "filename": "B0F2M5QCZ9.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 8 Gadgets Asombrosos Nuevos en Amazon que No Debes Perderte\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\nUn controlador que cabe en tu mano. Un jardín acuático en casa. Carga todo sin cables. Organiza tu escritorio con estilo. Proyecta en cualquier lugar.\n\n[0:10-0:15] INTRODUCTION\nSuscríbete, los links están en el primer comentario. Empecemos.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] TAP STRAP 2\n¿Cansado de los teclados tradicionales? Tap Strap 2 es la solución: un teclado portátil que funciona en todas partes, desde realidad virtual hasta smart TVs. Olvídate de los cables y escribe con gestos aéreos. Además, es ambidiestro y soporta cualquier idioma.\nSu precio actual en Amazon ronda los... 99 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Tap Strap 2]\n\n[0:25] WOODIES WIRELESS CHARGING STATION\nLa estación de carga inalámbrica integra un reloj y luz de noche ajustable. Carga rápido múltiples dispositivos sin cables desordenados. Compatible con iPhone y Samsung, además de AirPods.\nSu precio actual en Amazon ronda los... 40 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Woodies Wireless Charging Station]\n\n[0:25] EMBER TEMPERATURE CONTROL SMART MUG\nLa taza Ember no solo mantiene tu bebida caliente, también recuerda tu temperatura favorita. Con un diseño innovador y control desde una app, disfrutarás cada sorbo a la perfección.\nSu precio actual en Amazon ronda los... 97 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Ember Temperature Control Smart Mug]\n\n[0:25] ROXANT PRO MINI LED PROJECTOR\n¿Quieres entretenimiento portátil en cualquier lugar? Este mini proyector, del tamaño de dos latas de refresco, ofrece calidad Full HD y protección ocular.\nSu precio actual en Amazon ronda los... 50 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Roxant Pro Mini LED Projector]\n\n[0:25] GROVE MADE DESK SHELF\nOptimiza tu espacio con el Grove Made Desk Shelf. Su estructura de madera y metal soporta hasta 50 libras, ideal para cualquier rincón de tu escritorio.\nSu precio actual en Amazon ronda los... 24 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Grove Made Desk Shelf]\n\n[0:25] LITRA GLOW PREMIUM STREAMING LIGHT\nDescubre la versatilidad con la Litra Glow. Más que una simple luz, transforma tu espacio con brillo cinematográfico y ajuste continuo.\nSu precio actual en Amazon ronda los... 50 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Litra Glow Premium Streaming Light]\n\n[0:25] SNAPODS MAGNETIC EARBUDS\n¿Auriculares siempre enredados? Snapods ofrece un diseño magnético que evita el desorden, proporcionando un sonido claro y conexión sencilla.\nSu precio actual en Amazon ronda los... 33 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Snapods Magnetic Earbuds]\n\n[0:25] AQUASPROUTS GARDEN\nConvierte tu acuario en un jardín. Este sistema aquapónico nutre plantas con residuos de peces, transformando tu hogar con un toque ecológico.\nSu precio actual en Amazon ronda los... 12 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: AquaSprouts Garden]\n\n[10 seconds] CONCLUSION\nDale like y recuerda, los links están en el primer comentario.\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 3:50\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, asombrosos, nuevos, amazon, debes, perderte\n"
+}

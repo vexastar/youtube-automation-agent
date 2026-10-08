@@ -1,0 +1,139 @@
+{
+  "title": "Top 3 Gadgets Asombrosos para tu Cocina",
+  "hook": {
+    "type": "statement",
+    "text": "Un cortador que transforma verduras en segundos... una balanza que te dice las calorías al instante... y una cafetera tan pequeña que cabe en tu bolsillo.",
+    "duration": "0:00-0:05"
+  },
+  "introduction": {
+    "greeting": "Dale a suscribirse para más hallazgos como estos, y tranquilo, todos los links están en el primer comentario fijado.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0:05-0:10"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Cortador de verduras automático",
+        "content": [
+          "Cortar verduras a mano puede ser una tarea tediosa y lenta. El cortador de verduras automático lo hace por ti en solo segundos, ahorrando tiempo y esfuerzo. Ideal para preparar grandes cantidades en un abrir y cerrar de ojos.",
+          "Su precio actual en Amazon ronda los... 15 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Cortador de verduras automático"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B09XLG3YQB.mp4",
+        "precio": "$15"
+      },
+      {
+        "type": "content",
+        "title": "Balanza nutricional inteligente",
+        "content": [
+          "Contar calorías y nutrientes de cada ingrediente es complicado y requiere tiempo. La balanza nutricional inteligente calcula al instante la información nutricional de tus comidas. Compatible con una app que te da detalles adicionales para una dieta precisa.",
+          "Su precio actual en Amazon ronda los... 20 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Balanza nutricional inteligente"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0CHZ69ZFN.mp4",
+        "precio": "$20"
+      },
+      {
+        "type": "content",
+        "title": "Cafetera de cápsulas portátil",
+        "content": [
+          "Disfrutar de un buen café en cualquier lugar es casi imposible sin un equipo adecuado. La cafetera de cápsulas portátil te permite preparar tu café favorito dondequiera que estés. Compacta y ligera, perfecta para llevar en tus viajes.",
+          "Su precio actual en Amazon ronda los... 25 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Cafetera de cápsulas portátil"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0FBR9XKHX.mp4",
+        "precio": "$25"
+      }
+    ],
+    "totalDuration": 75
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "No olvides dar like al video y recuerda que los links están en el primer comentario."
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:45",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "asombrosos",
+    "para",
+    "cocina"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 3 Gadgets Asombrosos para tu Cocina",
+      "angle": "Top 3 Gadgets Asombrosos para tu Cocina",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 3,
+      "introScript": "¿Te imaginas un dispositivo que corta verduras en segundos? ¿O una balanza que mide calorías mientras pesas? Prepárate para descubrir los gadgets más sorprendentes que transformarán tu cocina en un santuario tecnológico.",
+      "keywords": [
+        "gadgets",
+        "asombrosos",
+        "para",
+        "cocina"
+      ],
+      "estimatedViews": 3925,
+      "bestPublishTime": "2026-04-10T20:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Cortador de verduras automático",
+          "searchTermEn": "automatic vegetable slicer"
+        },
+        {
+          "nombre": "Balanza nutricional inteligente",
+          "searchTermEn": "smart nutritional scale"
+        },
+        {
+          "nombre": "Cafetera de cápsulas portátil",
+          "searchTermEn": "portable capsule coffee maker"
+        }
+      ],
+      "createdAt": "2026-04-07T22:57:43.722Z"
+    },
+    "generatedAt": "2026-04-07T22:57:49.316Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Cortador de verduras automático",
+        "searchTermEn": "automatic vegetable slicer"
+      },
+      {
+        "nombre": "Balanza nutricional inteligente",
+        "searchTermEn": "smart nutritional scale"
+      },
+      {
+        "nombre": "Cafetera de cápsulas portátil",
+        "searchTermEn": "portable capsule coffee maker"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 3 Gadgets Asombrosos para tu Cocina\n\n══════════════════════════════════════════════════\n\n[0:00-0:05] HOOK\nUn cortador que transforma verduras en segundos... una balanza que te dice las calorías al instante... y una cafetera tan pequeña que cabe en tu bolsillo.\n\n[0:05-0:10] INTRODUCTION\nDale a suscribirse para más hallazgos como estos, y tranquilo, todos los links están en el primer comentario fijado.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] CORTADOR DE VERDURAS AUTOMÁTICO\nCortar verduras a mano puede ser una tarea tediosa y lenta. El cortador de verduras automático lo hace por ti en solo segundos, ahorrando tiempo y esfuerzo. Ideal para preparar grandes cantidades en un abrir y cerrar de ojos.\nSu precio actual en Amazon ronda los... 15 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Cortador de verduras automático]\n\n[0:25] BALANZA NUTRICIONAL INTELIGENTE\nContar calorías y nutrientes de cada ingrediente es complicado y requiere tiempo. La balanza nutricional inteligente calcula al instante la información nutricional de tus comidas. Compatible con una app que te da detalles adicionales para una dieta precisa.\nSu precio actual en Amazon ronda los... 20 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Balanza nutricional inteligente]\n\n[0:25] CAFETERA DE CÁPSULAS PORTÁTIL\nDisfrutar de un buen café en cualquier lugar es casi imposible sin un equipo adecuado. La cafetera de cápsulas portátil te permite preparar tu café favorito dondequiera que estés. Compacta y ligera, perfecta para llevar en tus viajes.\nSu precio actual en Amazon ronda los... 25 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Cafetera de cápsulas portátil]\n\n[10 seconds] CONCLUSION\nNo olvides dar like al video y recuerda que los links están en el primer comentario.\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:45\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, asombrosos, para, cocina\n"
+}

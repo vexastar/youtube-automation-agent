@@ -1,0 +1,1388 @@
+{
+  "title": "Top 10 Gadgets Imprescindibles para Tu Hogar en Amazon",
+  "hook": {
+    "type": "statement",
+    "text": "Rastreador siempre localiza objetos. Luz inteligente ajusta ambiente. Luces TV sumergen en color. Robot aspira y friega solo. Basura se sella por sí sola.",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "¿Cuál querrías tú? Los links están en el primer comentario.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0:10-0:15"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Townew T1 Smart Bin",
+        "productId": "B09K94DFM1",
+        "productName": "Townew T1 Smart Bin",
+        "filename": "B09K94DFM1.mp4",
+        "asin": "B09K94DFM1",
+        "clipDuration": 59.93,
+        "estimatedAudioSeconds": 59,
+        "framework": "enfoque_caracteristica",
+        "narracionSegments": null,
+        "content": [
+          "Este cubo de basura revolucionario se abre sin tocarlo gracias a su sensor de movimiento. Dentro, su sistema automático sella y cambia las bolsas con un solo botón, eliminando olores y suciedad agradablemente. Su batería recargable asegura hasta 50 días de uso sin cables.",
+          "Su precio actual en Amazon ronda los... 147 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Townew T1 Smart Bin"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B09K94DFM1_combined.mp4",
+        "precio": "$147",
+        "productPhoto": "https://m.media-amazon.com/images/I/51j+wOmAXML.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B09K94DFM1.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "tacho de basura",
+            "raw": "8|tacho de basura"
+          }
+        ],
+        "features": [
+          "SELF-SEALING SELF-CHANGING: When trash can is full, the built-in thermoplastic sealing technology will automatically seal the bag and replace it with a new one with a touch of a button",
+          "MOTION SENSOR LID: Motion sensor allows for sanitary hands-free opening and closing of lid for easy access and odor containment",
+          "CORDLESS RECHARGEABLE BATTERY: Cordless operation with built-in rechargeable battery that lasts up to 50 days and takes only five hours to charge",
+          "AUTOMATIC OVERLOAD: Trash can will detect when bag is too full and will automatically lift the top compartment to seal the bag to ensure no spillage",
+          "OPEN LID MODE: Hold the touch button until you hear a beep sound, the lid will keep opening until you tap the Touch button again, the lid closes and the appliance switches to Auto mode"
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Airmega 300S Air Purifier",
+        "productId": "B01C9RIARQ",
+        "productName": "Airmega 300S Air Purifier",
+        "filename": "B01C9RIARQ.mp4",
+        "asin": "B01C9RIARQ",
+        "clipDuration": 60.03,
+        "estimatedAudioSeconds": 75,
+        "framework": "beneficio_oculto",
+        "narracionSegments": null,
+        "content": [
+          "-Sorprendente- en su capacidad, purifica hasta 2,512 pies cuadrados en una hora, atrapando partículas microscópicas alérgicas con eficiencia HEPA. Controla calidad del aire y ajusta energía al instante para evitar consumos innecesarios mediante su aplicación móvil.",
+          "Su precio actual en Amazon ronda los... 550 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Airmega 300S Air Purifier"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B01C9RIARQ_combined.mp4",
+        "precio": "$550",
+        "productPhoto": "https://m.media-amazon.com/images/I/71BMD3-AgsL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01C9RIARQ\\scenes_v1\\B01C9RIARQ_scene_02.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción filtro",
+            "raw": "9|interacción filtro"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01C9RIARQ\\scenes_v1\\B01C9RIARQ_scene_03.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Purificador aire",
+            "raw": "9|Purificador aire"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01C9RIARQ\\scenes_v2\\B01C9RIARQ_v2_scene_02.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Purificador inteligente",
+            "raw": "9|Purificador inteligente"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01C9RIARQ\\scenes_v2\\B01C9RIARQ_v2_scene_03.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01C9RIARQ\\scenes_v2\\B01C9RIARQ_v2_scene_04.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01C9RIARQ\\scenes_v2\\B01C9RIARQ_v2_scene_06.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Purificador aire",
+            "raw": "9|Purificador aire"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01C9RIARQ\\scenes_v2\\B01C9RIARQ_v2_scene_11.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Purificador inteligente",
+            "raw": "9|Purificador inteligente"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01C9RIARQ\\scenes_v2\\B01C9RIARQ_v2_scene_16.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Purificador inteligente",
+            "raw": "9|Purificador inteligente"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01C9RIARQ\\scenes_v2\\B01C9RIARQ_v2_scene_15.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Purificador aire",
+            "raw": "9|Purificador aire"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01C9RIARQ\\scenes_v2\\B01C9RIARQ_v2_scene_05.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Purificador aire",
+            "raw": "8|Purificador aire"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01C9RIARQ\\scenes_v2\\B01C9RIARQ_v2_scene_12.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Purificador visible",
+            "raw": "8|Purificador visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01C9RIARQ\\scenes_v2\\B01C9RIARQ_v2_scene_17.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Purificador aire",
+            "raw": "8|Purificador aire"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01C9RIARQ\\scenes_v2\\B01C9RIARQ_v2_scene_01.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "purificador aire",
+            "raw": "5|purificador aire"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01C9RIARQ\\scenes_v2\\B01C9RIARQ_v2_scene_10.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "purificador aire",
+            "raw": "5|purificador aire"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01C9RIARQ\\scenes_v2\\B01C9RIARQ_v2_scene_14.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "Purificador aire",
+            "raw": "5|Purificador aire"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01C9RIARQ\\scenes_v3\\B01C9RIARQ_v3_scene_06.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01C9RIARQ\\scenes_v3\\B01C9RIARQ_v3_scene_07.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01C9RIARQ\\scenes_v3\\B01C9RIARQ_v3_scene_11.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01C9RIARQ\\scenes_v3\\B01C9RIARQ_v3_scene_13.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01C9RIARQ\\scenes_v3\\B01C9RIARQ_v3_scene_14.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01C9RIARQ\\scenes_v3\\B01C9RIARQ_v3_scene_15.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción app",
+            "raw": "9|interacción app"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01C9RIARQ\\scenes_v3\\B01C9RIARQ_v3_scene_16.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción app",
+            "raw": "9|interacción app"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01C9RIARQ\\scenes_v3\\B01C9RIARQ_v3_scene_17.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01C9RIARQ\\scenes_v3\\B01C9RIARQ_v3_scene_18.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funciones visibles",
+            "raw": "9|funciones visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01C9RIARQ\\scenes_v3\\B01C9RIARQ_v3_scene_09.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Purificador aire",
+            "raw": "8|Purificador aire"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01C9RIARQ\\scenes_v3\\B01C9RIARQ_v3_scene_08.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Purificador aire",
+            "raw": "8|Purificador aire"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01C9RIARQ\\scenes_v3\\B01C9RIARQ_v3_scene_10.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Purificador aire",
+            "raw": "8|Purificador aire"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01C9RIARQ\\scenes_v3\\B01C9RIARQ_v3_scene_12.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Purificador aire",
+            "raw": "8|Purificador aire"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01C9RIARQ\\scenes_v3\\B01C9RIARQ_v3_scene_20.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Purificador aire",
+            "raw": "8|Purificador aire"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01C9RIARQ\\scenes_v3\\B01C9RIARQ_v3_scene_05.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "producto cubierto",
+            "raw": "5|producto cubierto"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01C9RIARQ\\scenes_v3\\B01C9RIARQ_v3_scene_23.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "purificador visible",
+            "raw": "5|purificador visible"
+          }
+        ],
+        "features": [
+          "[Coverage] Designed to clean spaces up to 2,512 sq. ft. in 60 minutes",
+          "[HyperCaptive Filtration System] Combination of a pre-filter, active carbon filter, and HEPA Filter reduces 99.97% of 0.3 micron particles, including pollen and other allergens. It also reduces volatile organic compounds and odor",
+          "[APP and Voice Control] IoCare mobile app includes indoor and outdoor air quality monitoring, filter notification, scheduling, and speed and smart mode control. Coway Airmega also works with Amazon Alexa and Dash Replenishment",
+          "[Air Quality Indicator] 24/7 pollution monitor air quality throughout the day, adjusting purification to the necessary level, and saving energy when it's not needed",
+          "[Smart Mode] With its Smart Mode feature, the Airmega automatically adapts to its surroundings by adjusting fan speeds based on the room's air quality. That means your unit in energy efficient without compromising effectiveness"
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Govee Immersion TV Backlights",
+        "productId": "B0FJRJ8RG2",
+        "productName": "Govee Immersion TV Backlights",
+        "filename": "B0FJRJ8RG2.mp4",
+        "asin": "B0FJRJ8RG2",
+        "clipDuration": 60.06,
+        "estimatedAudioSeconds": 27,
+        "framework": "comparacion_precio",
+        "narracionSegments": null,
+        "content": [
+          "Las Govee Immersion TV Backlights ofrecen una experiencia visual inmersiva única. Sus luces LED se sincronizan con el contenido de tu pantalla para realzar los colores y mejorar la atmósfera de visualización.",
+          "Su precio actual en Amazon ronda los 110 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Govee Immersion TV Backlights"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0FJRJ8RG2_combined.mp4",
+        "precio": "$110",
+        "productPhoto": "https://m.media-amazon.com/images/I/71nCMBZSXsL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": []
+      },
+      {
+        "type": "content",
+        "title": "August Smart Lock Pro",
+        "productId": "B082VXK9CK",
+        "productName": "August Smart Lock Pro",
+        "filename": "B082VXK9CK.mp4",
+        "asin": "B082VXK9CK",
+        "clipDuration": 60.03,
+        "estimatedAudioSeconds": 30,
+        "framework": "dato_numerico",
+        "narracionSegments": null,
+        "content": [
+          "El August Smart Lock Pro convierte tu cerradura tradicional en una inteligente, permitiéndote controlar el acceso a tu hogar desde cualquier lugar con la app dedicada.",
+          "Su precio actual en Amazon ronda los 265 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: August Smart Lock Pro"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B082VXK9CK_combined.mp4",
+        "precio": "$265",
+        "productPhoto": "https://m.media-amazon.com/images/I/61e592E6PqL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B082VXK9CK\\scenes_v1\\B082VXK9CK_scene_34.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "cerradura inteligente",
+            "raw": "9|cerradura inteligente"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B082VXK9CK\\scenes_v1\\B082VXK9CK_scene_32.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "app actividad",
+            "raw": "5|app actividad"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B082VXK9CK\\scenes_v2\\B082VXK9CK_v2_scene_02.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "instalación cerradura",
+            "raw": "9|instalación cerradura"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B082VXK9CK\\scenes_v2\\B082VXK9CK_v2_scene_04.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B082VXK9CK\\scenes_v2\\B082VXK9CK_v2_scene_03.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "instalación cerradura",
+            "raw": "8|instalación cerradura"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B082VXK9CK\\scenes_v2\\B082VXK9CK_v2_scene_05.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "cerradura inteligente",
+            "raw": "8|cerradura inteligente"
+          }
+        ],
+        "features": [
+          "UPGRADE YOUR EXISTING DEADBOLT: August smart locks fit on the inside of your door, making your regular deadbolt smarter, more secure and way more convenient. Keep your keys just in case (but you won’t need them).",
+          "GRANT ACCESS WITH THE AUGUST APP: Forget key copying. Quickly and easily share permanent, scheduled or temporary access to your home with friends, family and other people you trust, and never put a key under the doormat again.",
+          "EASY TO INSTALL ON ANY DOOR: Even if you’re not so handy, installation only takes about 10 minutes. August locks fit perfectly over most single cylinder deadbolts and aren't much bigger than your original thumbturn.",
+          "AUTO-LOCKS AND UNLOCKS: August Wi-Fi Smart Lock is able to Auto-Unlock as you get home for totally hands-free unlocking (optional). With Auto-Lock and DoorSense, your home automatically secures once your door is closed, or after a set amount of time.",
+          "WORKS SEAMLESSLY WITH YOUR SMART HOME: Built-in Wi-Fi allows your lock to work with your favorite voice assistant, including Amazon Alexa, Google Assistant, Apple HomeKit, Samsung SmartThings and more."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Ecovacs Deebot N79S",
+        "productId": "B08CSVDHTR",
+        "productName": "Ecovacs Deebot N79S",
+        "filename": "B08CSVDHTR.mp4",
+        "asin": "B08CSVDHTR",
+        "clipDuration": 60.03,
+        "estimatedAudioSeconds": 36,
+        "framework": "experiencia_sensorial",
+        "narracionSegments": null,
+        "content": [
+          "Ecovacs Deebot N79S es un robot aspirador que no solo aspira sino que también friega, cubriendo grandes áreas con su tanque de agua de 240 ml y tecnología TrueMapping para una navegación precisa.",
+          "Su precio actual en Amazon ronda los 258 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Ecovacs Deebot N79S"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B08CSVDHTR_combined.mp4",
+        "precio": "$258",
+        "productPhoto": "https://m.media-amazon.com/images/I/61JJeUZE3kL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B08CSVDHTR\\scenes_v1\\B08CSVDHTR_scene_04.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Robot aspirador",
+            "raw": "9|Robot aspirador"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B08CSVDHTR\\scenes_v1\\B08CSVDHTR_scene_06.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Robot aspirador",
+            "raw": "9|Robot aspirador"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B08CSVDHTR\\scenes_v1\\B08CSVDHTR_scene_08.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "robot aspirador",
+            "raw": "9|robot aspirador"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B08CSVDHTR\\scenes_v1\\B08CSVDHTR_scene_09.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Robot aspirador",
+            "raw": "9|Robot aspirador"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B08CSVDHTR\\scenes_v1\\B08CSVDHTR_scene_12.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "navegación láser",
+            "raw": "9|navegación láser"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B08CSVDHTR\\scenes_v1\\B08CSVDHTR_scene_11.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B08CSVDHTR\\scenes_v1\\B08CSVDHTR_scene_13.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "navegación láser",
+            "raw": "9|navegación láser"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B08CSVDHTR\\scenes_v1\\B08CSVDHTR_scene_15.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Robot aspirador",
+            "raw": "9|Robot aspirador"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B08CSVDHTR\\scenes_v1\\B08CSVDHTR_scene_16.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "navegación láser",
+            "raw": "9|navegación láser"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B08CSVDHTR\\scenes_v1\\B08CSVDHTR_scene_19.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Robot aspirador",
+            "raw": "9|Robot aspirador"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B08CSVDHTR\\scenes_v1\\B08CSVDHTR_scene_17.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Robot aspirador",
+            "raw": "9|Robot aspirador"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B08CSVDHTR\\scenes_v1\\B08CSVDHTR_scene_21.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "robot aspirador",
+            "raw": "9|robot aspirador"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B08CSVDHTR\\scenes_v1\\B08CSVDHTR_scene_25.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "robot aspirador",
+            "raw": "9|robot aspirador"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B08CSVDHTR\\scenes_v1\\B08CSVDHTR_scene_30.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B08CSVDHTR\\scenes_v1\\B08CSVDHTR_scene_07.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "robot aspirador",
+            "raw": "8|robot aspirador"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B08CSVDHTR\\scenes_v1\\B08CSVDHTR_scene_14.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "app mapeo",
+            "raw": "8|app mapeo"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B08CSVDHTR\\scenes_v1\\B08CSVDHTR_scene_22.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "producto en acción",
+            "raw": "8|producto en acción"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B08CSVDHTR\\scenes_v1\\B08CSVDHTR_scene_23.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "robot aspirador",
+            "raw": "8|robot aspirador"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B08CSVDHTR\\scenes_v1\\B08CSVDHTR_scene_26.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Robot aspirador",
+            "raw": "8|Robot aspirador"
+          }
+        ],
+        "features": [
+          "Simultaneous vacuuming and mopping: Integrated suction, sweeping and mopping in one go. The large 240ml water tank can cover over 2,000 sq. ft. of mopping. Intergraded OZMO mopping system supports 4 levels of precise water control for your varying mopping need.",
+          "Precision laser mapping and navigation: With advanced TrueMapping technology, T8 maps your home 2X coverage and 4x precision than previous models. It can save maps of your multi-floor home 30% faster, providing enhanced and powerful deep cleaning.",
+          "Intelligent object detection: With TrueDetect 3D environment perception technology, T8 can detect objects such as cables, slippers, and furniture down to the millimeter level, avoiding collision and giving you uninterrupted cleaning.",
+          "Powerful custom cleaning: With ECOVACS App, you can divide or merge areas, label rooms, set cleaning squence, choose different cleaning times, vacuum power, water flow level for different areas. You can also set no-go zones and no-mop zones so that certain areas will not be cleaned or mopped.",
+          "Compatible with OZMO Pro and Auto-empty station: T8 is upgradable to OZMO Pro, a powerful oscillating scrubbing mop, and 2.5L Auto-Empty Station which automatically collects dirt and debris from your T8, providing you with a truly hands-free experience for at least 30 days. (Both can be purchased separately.)"
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Nest Learning Thermostat",
+        "productId": "B0D5BGST5N",
+        "productName": "Nest Learning Thermostat",
+        "filename": "B0D5BGST5N.mp4",
+        "asin": "B0D5BGST5N",
+        "clipDuration": 60.03,
+        "estimatedAudioSeconds": null,
+        "framework": "problema_solucion",
+        "narracionSegments": null,
+        "content": [
+          "El Nest Learning Thermostat ofrece un control eficiente del clima de tu hogar, adaptándose automáticamente a tus preferencias y horarios para ahorrar energía sin comprometer el confort.",
+          "'Su precio actual en Amazon ronda los 230 dólares. ¡Link en el primer comentario!\""
+        ],
+        "visuals": [
+          "Product image: Nest Learning Thermostat"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0D5BGST5N_combined.mp4",
+        "precio": "$230",
+        "productPhoto": "https://m.media-amazon.com/images/I/61NKDb2TthL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D5BGST5N\\scenes_v1\\B0D5BGST5N_scene_01.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "termostato inteligente",
+            "raw": "8|termostato inteligente"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D5BGST5N\\scenes_v1\\B0D5BGST5N_scene_05.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "termostato visible",
+            "raw": "8|termostato visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D5BGST5N\\scenes_v1\\B0D5BGST5N_scene_03.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "termostato visible",
+            "raw": "5|termostato visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D5BGST5N\\scenes_v1\\B0D5BGST5N_scene_04.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "instalación termostato",
+            "raw": "5|instalación termostato"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D5BGST5N\\scenes_v1\\B0D5BGST5N_scene_06.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "producto instalación",
+            "raw": "5|producto instalación"
+          }
+        ],
+        "features": [
+          "Nest’s smartest, most advanced thermostat yet, the Google Nest Learning Thermostat (4th gen) is a beautiful, brilliant way to save energy, keep your home comfortable, and help make sure your heating and cooling systems are running smoothly[4]",
+          "Improved compatibility: It works with most 24V systems, including gas, electric, oil, forced air, heat pump, and radiant, and no C wire is required for installation in most homes; visit the Nest Compatibility Checker for more info[5]",
+          "Easy control in the Google Home app: Adjust on your phone from anywhere[1] or by using your voice with Alexa, Siri, or Google Assistant smart speaker[3], it’s easy to install yourself and it’s Matter compatible for simple integration into your smart home[5]",
+          "Beautiful design: With a 60% larger display[11] and Dynamic Farsight, you can see info from across the room[1]; choose the design, like a clock or the weather; it automatically adjusts brightness for the best readability or you can adjust manually",
+          "Better visibility into adjustments: Asks for permission to make schedule changes to help you save energy; you'll receive notifications in the Google Home app, and you can view and accept changes with a tap[1]"
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Philips Hue Smart Bulb",
+        "productId": "B095KTKDSY",
+        "productName": "Philips Hue Smart Bulb",
+        "filename": "B095KTKDSY.mp4",
+        "asin": "B095KTKDSY",
+        "clipDuration": 60.03,
+        "estimatedAudioSeconds": null,
+        "framework": "enfoque_caracteristica",
+        "narracionSegments": null,
+        "content": [
+          "WHAT’S IN THE BOX - Includes one soft warm white smart 75W-equivalent A19 light bulb; Perfect for general lighting anywhere in your home",
+          "Su precio actual en Amazon ronda los... 53 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Philips Hue Smart Bulb"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B095KTKDSY_combined.mp4",
+        "precio": "$53",
+        "productPhoto": "https://m.media-amazon.com/images/I/61ZYD5DAsbL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B095KTKDSY\\scenes_v1\\B095KTKDSY_scene_06.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "control aplicación",
+            "raw": "9|control aplicación"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B095KTKDSY\\scenes_v2\\B095KTKDSY_v2_scene_02.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "luz inteligente",
+            "raw": "5|luz inteligente"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B095KTKDSY\\scenes_v3\\B095KTKDSY_v3_scene_02.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B095KTKDSY\\scenes_v3\\B095KTKDSY_v3_scene_03.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B095KTKDSY\\scenes_v3\\B095KTKDSY_v3_scene_01.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "producto pequeño",
+            "raw": "5|producto pequeño"
+          }
+        ],
+        "features": [
+          "WHAT’S IN THE BOX - Includes one soft warm white smart 75W-equivalent A19 light bulb; Perfect for general lighting anywhere in your home",
+          "UNLOCK THE FULL POWER OF HUE - Add a Hue Bridge to enjoy automations, control from anywhere in the world, and a secure, stable connection that won’t drain your Wi-Fi. Use Matter to connect your smart home devices to your Hue smart lighting system.",
+          "SOFT WHITE LIGHT – Enjoy dimmable, soft white light in your home that allows you to easily set the right mood for any occasion.",
+          "VOICE CONTROL - Convenient smart control; Set up voice control in the Hue app and use simple voice commands to control your lights with Alexa or Google Assistant",
+          "CREATE THE PERFECT ATMOSPHERE - Find the perfect light to gather, share, and enjoy moments together; Make the dinner table a destination with the perfect amber glow; Set the light to bright and bold or low and soothing"
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Ring Video Doorbell Pro",
+        "productId": "B0FN67L15S",
+        "productName": "Ring Video Doorbell Pro",
+        "filename": "B0FN67L15S.mp4",
+        "asin": "B0FN67L15S",
+        "clipDuration": 60.06,
+        "estimatedAudioSeconds": null,
+        "framework": "beneficio_oculto",
+        "narracionSegments": null,
+        "content": [
+          "Capture it all with Retinal 4K video — See your home or business in the ultimate clarity with Retinal 4K.",
+          "Su precio actual en Amazon ronda los... 200 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Ring Video Doorbell Pro"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0FN67L15S_combined.mp4",
+        "precio": "$200",
+        "productPhoto": "https://m.media-amazon.com/images/I/819MRg02R2L.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "Capture it all with Retinal 4K video — See your home or business in the ultimate clarity with Retinal 4K.",
+          "Zoom in up to 10x — Catch details at a distance with up to 10x Enhanced Zoom.",
+          "See, hear and speak to visitors on camera — With Live View & Two-Way Talk with Audio+, you’ll be able to interact with who’s there in real time, right from your phone.",
+          "Tailored detection for more exact alerts — 3D Motion Detection pinpoints motion on your property so you’ll receive more precise alerts and fewer interruptions.",
+          "True color, even in low light — With Low-Light Sight, just a little ambient light gives you true color video. In total darkness, your camera switches to crisp black-and-white to keep details sharp."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Tile Pro",
+        "productId": "B0D636MDW7",
+        "productName": "Tile Pro",
+        "filename": "B0D636MDW7.mp4",
+        "asin": "B0D636MDW7",
+        "clipDuration": 59.99,
+        "estimatedAudioSeconds": 60,
+        "framework": "comparacion_precio",
+        "narracionSegments": null,
+        "content": [
+          "El Tile Pro es nuestro rastreador más potente, ideal para proteger tus pertenencias perdidas o robadas. Colócalo en llaves o bolsas de golf y localiza tus objetos con facilidad desde la app gratuita.",
+          "Su precio actual en Amazon ronda los 35 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Tile Pro"
+        ],
+        "duration": 25,
+        "precio": "$43",
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0D636MDW7_combined.mp4",
+        "productPhoto": "https://m.media-amazon.com/images/I/7135NhJXdYL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D636MDW7\\scenes_v1\\B0D636MDW7_scene_09.mp4",
+            "type": "video",
+            "score": 10,
+            "tag": "interacción real",
+            "raw": "10|interacción real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D636MDW7\\scenes_v1\\B0D636MDW7_scene_01.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D636MDW7\\scenes_v1\\B0D636MDW7_scene_03.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D636MDW7\\scenes_v1\\B0D636MDW7_scene_02.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D636MDW7\\scenes_v1\\B0D636MDW7_scene_04.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D636MDW7\\scenes_v1\\B0D636MDW7_scene_05.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D636MDW7\\scenes_v1\\B0D636MDW7_scene_07.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D636MDW7\\scenes_v1\\B0D636MDW7_scene_08.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D636MDW7\\scenes_v2\\B0D636MDW7_v2_scene_01.mp4",
+            "type": "video",
+            "score": 10,
+            "tag": "interacción real",
+            "raw": "10|interacción real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D636MDW7\\scenes_v2\\B0D636MDW7_v2_scene_05.mp4",
+            "type": "video",
+            "score": 10,
+            "tag": "interacción real",
+            "raw": "10|interacción real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D636MDW7\\scenes_v2\\B0D636MDW7_v2_scene_06.mp4",
+            "type": "video",
+            "score": 10,
+            "tag": "interacción real",
+            "raw": "10|interacción real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D636MDW7\\scenes_v2\\B0D636MDW7_v2_scene_07.mp4",
+            "type": "video",
+            "score": 10,
+            "tag": "interacción real",
+            "raw": "10|interacción real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D636MDW7\\scenes_v2\\B0D636MDW7_v2_scene_03.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D636MDW7\\scenes_v2\\B0D636MDW7_v2_scene_02.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D636MDW7\\scenes_v3\\B0D636MDW7_v3_scene_01.mp4",
+            "type": "video",
+            "score": 10,
+            "tag": "Llave localizadora",
+            "raw": "10|Llave localizadora"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D636MDW7\\scenes_v3\\B0D636MDW7_v3_scene_02.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D636MDW7\\scenes_v3\\B0D636MDW7_v3_scene_03.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Llaves y Tile",
+            "raw": "9|Llaves y Tile"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D636MDW7\\scenes_v3\\B0D636MDW7_v3_scene_06.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "localizador Bluetooth",
+            "raw": "9|localizador Bluetooth"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D636MDW7\\scenes_v3\\B0D636MDW7_v3_scene_07.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D636MDW7\\scenes_v3\\B0D636MDW7_v3_scene_05.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Localizador Bluetooth",
+            "raw": "8|Localizador Bluetooth"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D636MDW7\\scenes_v3\\B0D636MDW7_v3_scene_04.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Teddy Bear",
+            "raw": "8|Teddy Bear"
+          }
+        ],
+        "features": [
+          "OUR MOST POWERFUL TRACKER: What you love, located. Pro protects lost or stolen stuff—all from the same app you use to keep your people and pets safe. Attach Tile Pro to keys, golf bags, and more",
+          "STAY SAFE WITH SOS: Keep stuff safe, and people and pets protected. Discreetly trigger an SOS to keep your loved ones safe in any situation",
+          "FIND YOUR THINGS: Ring your misplaced Tile, or track it down in the free app",
+          "FIND YOUR PHONE: Phone hiding under a cushion? Use your Tile to make it ring — even when silenced",
+          "USE WITH LIFE360: Track everything—and everyone you love—a top family connection and safety app. Add your Tiles to see all you love on one map"
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Anova Culinary Sous Vide",
+        "productId": "B0BQ9F56WV",
+        "productName": "Anova Culinary Sous Vide",
+        "filename": "B0BQ9F56WV.mp4",
+        "asin": "B0BQ9F56WV",
+        "clipDuration": 60.03,
+        "estimatedAudioSeconds": 60,
+        "framework": "dato_numerico",
+        "narracionSegments": null,
+        "content": [
+          "El Anova Culinary Sous Vide utiliza control de temperatura de alta precisión para cocinar al vacío, garantizando resultados perfectos. Con WiFi de doble banda y pantalla táctil, es más fácil que nunca conseguir resultados impecables.",
+          "Su precio actual en Amazon ronda los 169 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Anova Culinary Sous Vide"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0BQ9F56WV_combined.mp4",
+        "precio": "$169",
+        "productPhoto": "https://m.media-amazon.com/images/I/61ufN4G1TeL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BQ9F56WV\\scenes_v1\\B0BQ9F56WV_scene_05.mp4",
+            "type": "video",
+            "score": 10,
+            "tag": "interacción real",
+            "raw": "10|interacción real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BQ9F56WV\\scenes_v1\\B0BQ9F56WV_scene_22.mp4",
+            "type": "video",
+            "score": 10,
+            "tag": "interacción real",
+            "raw": "10|interacción real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BQ9F56WV\\scenes_v1\\B0BQ9F56WV_scene_02.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BQ9F56WV\\scenes_v1\\B0BQ9F56WV_scene_03.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BQ9F56WV\\scenes_v1\\B0BQ9F56WV_scene_08.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BQ9F56WV\\scenes_v1\\B0BQ9F56WV_scene_09.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "cocina sous vide",
+            "raw": "9|cocina sous vide"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BQ9F56WV\\scenes_v1\\B0BQ9F56WV_scene_10.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "cocedor sous vide",
+            "raw": "9|cocedor sous vide"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BQ9F56WV\\scenes_v1\\B0BQ9F56WV_scene_11.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BQ9F56WV\\scenes_v1\\B0BQ9F56WV_scene_12.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BQ9F56WV\\scenes_v1\\B0BQ9F56WV_scene_13.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "pantalla encendida",
+            "raw": "9|pantalla encendida"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BQ9F56WV\\scenes_v1\\B0BQ9F56WV_scene_14.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BQ9F56WV\\scenes_v1\\B0BQ9F56WV_scene_15.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BQ9F56WV\\scenes_v1\\B0BQ9F56WV_scene_21.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "producto visible",
+            "raw": "9|producto visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BQ9F56WV\\scenes_v1\\B0BQ9F56WV_scene_23.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "producto en uso",
+            "raw": "9|producto en uso"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BQ9F56WV\\scenes_v1\\B0BQ9F56WV_scene_25.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "cocina sous vide",
+            "raw": "9|cocina sous vide"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BQ9F56WV\\scenes_v1\\B0BQ9F56WV_scene_26.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BQ9F56WV\\scenes_v1\\B0BQ9F56WV_scene_29.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BQ9F56WV\\scenes_v1\\B0BQ9F56WV_scene_24.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BQ9F56WV\\scenes_v1\\B0BQ9F56WV_scene_30.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "producto visible",
+            "raw": "9|producto visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BQ9F56WV\\scenes_v1\\B0BQ9F56WV_scene_06.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "cocción sous vide",
+            "raw": "8|cocción sous vide"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BQ9F56WV\\scenes_v1\\B0BQ9F56WV_scene_16.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "producto borroso",
+            "raw": "5|producto borroso"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BQ9F56WV\\scenes_v1\\B0BQ9F56WV_scene_18.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "producto en agua",
+            "raw": "5|producto en agua"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BQ9F56WV\\scenes_v1\\B0BQ9F56WV_scene_20.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "carne cocinándose",
+            "raw": "5|carne cocinándose"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BQ9F56WV\\scenes_v2\\B0BQ9F56WV_v2_scene_01.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BQ9F56WV\\scenes_v2\\B0BQ9F56WV_v2_scene_04.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BQ9F56WV\\scenes_v2\\B0BQ9F56WV_v2_scene_03.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "producto visible",
+            "raw": "8|producto visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BQ9F56WV\\scenes_v2\\B0BQ9F56WV_v2_scene_02.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "producto visible",
+            "raw": "8|producto visible"
+          }
+        ],
+        "features": [
+          "Pros have been doing it for years, and now you can too. Sous vide (pronounced sue-veed) is a cooking technique that utilizes highly precise temperature control in a circulating bath of water to deliver consistent, edge-to-edge perfect results, with virtually no risk of overcooking your food.",
+          "Our best-seller, only better. The first Anova Precision Cooker launched in 2014 and started a home-cooking revolution — bringing sous vide to the masses and making Anova a household name in the process. This third generation of our flagship sous vide circulator adds key improvements, making perfect results easier to achieve than ever before. What’s different: 1) We upgraded to use dual band WiFi for improved connectivity. 2) A two-line touch screen display allows you to quickly view time and temperature.",
+          "The adjustable clamp makes it an ideal fit on nearly any pot that is deep enough to meet the minimum water depth requirements. A removable stainless steel skirt on the cooker’s lower half makes it easy as a twist of the wrist to detach and clean the skirt either by hand or in the dishwasher.",
+          "Anova App (free): Control your time and temp directly on the Anova app or directly on the cooker itself.",
+          "Anova App (subscription): For $1.99 a month or $9.99 a year (cancel subscription at anytime), get access to the ultimate sous vide educational content and cooking guides. Recipes from professional chefs and the food nerd community feed directly to your Precision Cooker at the touch of a button. Continuous access to your personal recipes and cook history, ready to revisit or share with your friends and family. Two week free trial included."
+        ]
+      }
+    ],
+    "totalDuration": 250
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      null
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "4:40",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "imprescindibles",
+    "para",
+    "hogar",
+    "amazon"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 10 Gadgets Imprescindibles para Tu Hogar en Amazon",
+      "angle": "Top 10 Gadgets Imprescindibles para Tu Hogar en Amazon",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 10,
+      "introScript": "¿Un cubo de basura que se vacía solo? ¿Un reloj que purifica el aire? Hoy te sorprenderás con los gadgets más innovadores y prácticos que harán la vida en casa mucho más fácil. Estos productos no solo son ingeniosos, sino que además están al alcance de tu mano para hacer de tu hogar un lugar más inteligente.",
+      "keywords": [
+        "gadgets",
+        "imprescindibles",
+        "para",
+        "hogar",
+        "amazon"
+      ],
+      "estimatedViews": 3856,
+      "bestPublishTime": "2026-05-31T15:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Townew T1 Smart Bin",
+          "searchTermEn": "townew t1 smart trash can",
+          "id": "B09K94DFM1",
+          "filename": "B09K94DFM1.mp4"
+        },
+        {
+          "nombre": "Airmega 300S Air Purifier",
+          "searchTermEn": "airmega 300s air purifier",
+          "id": "B01C9RIARQ",
+          "filename": "B01C9RIARQ.mp4"
+        },
+        {
+          "nombre": "Govee Immersion TV Backlights",
+          "searchTermEn": "govee immersion tv backlights",
+          "id": "B0FJRJ8RG2",
+          "filename": "B0FJRJ8RG2.mp4"
+        },
+        {
+          "nombre": "August Smart Lock Pro",
+          "searchTermEn": "august smart lock pro",
+          "id": "B082VXK9CK",
+          "filename": "B082VXK9CK.mp4"
+        },
+        {
+          "nombre": "Ecovacs Deebot N79S",
+          "searchTermEn": "ecovacs deebot n79s robot vacuum",
+          "id": "B08CSVDHTR",
+          "filename": "B08CSVDHTR.mp4"
+        },
+        {
+          "nombre": "Nest Learning Thermostat",
+          "searchTermEn": "nest learning thermostat",
+          "id": "B0D5BGST5N",
+          "filename": "B0D5BGST5N.mp4"
+        },
+        {
+          "nombre": "Philips Hue Smart Bulb",
+          "searchTermEn": "philips hue smart bulb",
+          "id": "B095KTKDSY",
+          "filename": "B095KTKDSY.mp4"
+        },
+        {
+          "nombre": "Ring Video Doorbell Pro",
+          "searchTermEn": "ring video doorbell pro",
+          "id": "B0FN67L15S",
+          "filename": "B0FN67L15S.mp4"
+        },
+        {
+          "nombre": "Tile Pro Tracker",
+          "searchTermEn": "tile pro tracker",
+          "id": "B0D636MDW7",
+          "filename": "B0D636MDW7.mp4"
+        },
+        {
+          "nombre": "Anova Culinary Sous Vide",
+          "searchTermEn": "anova culinary sous vide precision cooker",
+          "id": "B0BQ9F56WV",
+          "filename": "B0BQ9F56WV.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-05-26T22:17:40.279Z",
+      "_requestedCount": 10,
+      "_adaptedCount": 10,
+      "introProductsOrder": [
+        {
+          "nombre": "Tile Pro Tracker",
+          "id": "B0D636MDW7",
+          "filename": "B0D636MDW7_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0D636MDW7_combined.mp4"
+        },
+        {
+          "nombre": "Philips Hue Smart Bulb",
+          "id": "B095KTKDSY",
+          "filename": "B095KTKDSY_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B095KTKDSY_combined.mp4"
+        },
+        {
+          "nombre": "Govee Immersion TV Backlights",
+          "id": "B0FJRJ8RG2",
+          "filename": "B0FJRJ8RG2_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0FJRJ8RG2_combined.mp4"
+        },
+        {
+          "nombre": "Ecovacs Deebot N79S",
+          "id": "B08CSVDHTR",
+          "filename": "B08CSVDHTR_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B08CSVDHTR_combined.mp4"
+        },
+        {
+          "nombre": "Townew T1 Smart Bin",
+          "id": "B09K94DFM1",
+          "filename": "B09K94DFM1_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B09K94DFM1_combined.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1779835783399_az1gwo"
+    },
+    "generatedAt": "2026-05-26T22:51:16.941Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Townew T1 Smart Bin",
+        "searchTermEn": "townew t1 smart trash can",
+        "id": "B09K94DFM1",
+        "filename": "B09K94DFM1.mp4"
+      },
+      {
+        "nombre": "Airmega 300S Air Purifier",
+        "searchTermEn": "airmega 300s air purifier",
+        "id": "B01C9RIARQ",
+        "filename": "B01C9RIARQ.mp4"
+      },
+      {
+        "nombre": "Govee Immersion TV Backlights",
+        "searchTermEn": "govee immersion tv backlights",
+        "id": "B0FJRJ8RG2",
+        "filename": "B0FJRJ8RG2.mp4"
+      },
+      {
+        "nombre": "August Smart Lock Pro",
+        "searchTermEn": "august smart lock pro",
+        "id": "B082VXK9CK",
+        "filename": "B082VXK9CK.mp4"
+      },
+      {
+        "nombre": "Ecovacs Deebot N79S",
+        "searchTermEn": "ecovacs deebot n79s robot vacuum",
+        "id": "B08CSVDHTR",
+        "filename": "B08CSVDHTR.mp4"
+      },
+      {
+        "nombre": "Nest Learning Thermostat",
+        "searchTermEn": "nest learning thermostat",
+        "id": "B0D5BGST5N",
+        "filename": "B0D5BGST5N.mp4"
+      },
+      {
+        "nombre": "Philips Hue Smart Bulb",
+        "searchTermEn": "philips hue smart bulb",
+        "id": "B095KTKDSY",
+        "filename": "B095KTKDSY.mp4"
+      },
+      {
+        "nombre": "Ring Video Doorbell Pro",
+        "searchTermEn": "ring video doorbell pro",
+        "id": "B0FN67L15S",
+        "filename": "B0FN67L15S.mp4"
+      },
+      {
+        "nombre": "Tile Pro Tracker",
+        "searchTermEn": "tile pro tracker",
+        "id": "B0D636MDW7",
+        "filename": "B0D636MDW7.mp4"
+      },
+      {
+        "nombre": "Anova Culinary Sous Vide",
+        "searchTermEn": "anova culinary sous vide precision cooker",
+        "id": "B0BQ9F56WV",
+        "filename": "B0BQ9F56WV.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 10 Gadgets Imprescindibles para Tu Hogar en Amazon\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\nRastreador siempre localiza objetos. Luz inteligente ajusta ambiente. Luces TV sumergen en color. Robot aspira y friega solo. Basura se sella por sí sola.\n\n[0:10-0:15] INTRODUCTION\n¿Cuál querrías tú? Los links están en el primer comentario.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] TOWNEW T1 SMART BIN\nEste cubo de basura revolucionario se abre sin tocarlo gracias a su sensor de movimiento. Dentro, su sistema automático sella y cambia las bolsas con un solo botón, eliminando olores y suciedad agradablemente. Su batería recargable asegura hasta 50 días de uso sin cables.\nSu precio actual en Amazon ronda los... 147 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Townew T1 Smart Bin]\n\n[0:25] AIRMEGA 300S AIR PURIFIER\n-Sorprendente- en su capacidad, purifica hasta 2,512 pies cuadrados en una hora, atrapando partículas microscópicas alérgicas con eficiencia HEPA. Controla calidad del aire y ajusta energía al instante para evitar consumos innecesarios mediante su aplicación móvil.\nSu precio actual en Amazon ronda los... 550 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Airmega 300S Air Purifier]\n\n[0:25] GOVEE IMMERSION TV BACKLIGHTS\nLas Govee Immersion TV Backlights ofrecen una experiencia visual inmersiva única. Sus luces LED se sincronizan con el contenido de tu pantalla para realzar los colores y mejorar la atmósfera de visualización.\nSu precio actual en Amazon ronda los 110 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Govee Immersion TV Backlights]\n\n[0:25] AUGUST SMART LOCK PRO\nEl August Smart Lock Pro convierte tu cerradura tradicional en una inteligente, permitiéndote controlar el acceso a tu hogar desde cualquier lugar con la app dedicada.\nSu precio actual en Amazon ronda los 265 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: August Smart Lock Pro]\n\n[0:25] ECOVACS DEEBOT N79S\nEcovacs Deebot N79S es un robot aspirador que no solo aspira sino que también friega, cubriendo grandes áreas con su tanque de agua de 240 ml y tecnología TrueMapping para una navegación precisa.\nSu precio actual en Amazon ronda los 258 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Ecovacs Deebot N79S]\n\n[0:25] NEST LEARNING THERMOSTAT\nEl Nest Learning Thermostat ofrece un control eficiente del clima de tu hogar, adaptándose automáticamente a tus preferencias y horarios para ahorrar energía sin comprometer el confort.\n'Su precio actual en Amazon ronda los 230 dólares. ¡Link en el primer comentario!\"\n\n[VISUALS: Product image: Nest Learning Thermostat]\n\n[0:25] PHILIPS HUE SMART BULB\nWHAT’S IN THE BOX - Includes one soft warm white smart 75W-equivalent A19 light bulb; Perfect for general lighting anywhere in your home\nSu precio actual en Amazon ronda los... 53 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Philips Hue Smart Bulb]\n\n[0:25] RING VIDEO DOORBELL PRO\nCapture it all with Retinal 4K video — See your home or business in the ultimate clarity with Retinal 4K.\nSu precio actual en Amazon ronda los... 200 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Ring Video Doorbell Pro]\n\n[0:25] TILE PRO\nEl Tile Pro es nuestro rastreador más potente, ideal para proteger tus pertenencias perdidas o robadas. Colócalo en llaves o bolsas de golf y localiza tus objetos con facilidad desde la app gratuita.\nSu precio actual en Amazon ronda los 35 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Tile Pro]\n\n[0:25] ANOVA CULINARY SOUS VIDE\nEl Anova Culinary Sous Vide utiliza control de temperatura de alta precisión para cocinar al vacío, garantizando resultados perfectos. Con WiFi de doble banda y pantalla táctil, es más fácil que nunca conseguir resultados impecables.\nSu precio actual en Amazon ronda los 169 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Anova Culinary Sous Vide]\n\n[10 seconds] CONCLUSION\nundefined\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 4:40\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, imprescindibles, para, hogar, amazon\n"
+}

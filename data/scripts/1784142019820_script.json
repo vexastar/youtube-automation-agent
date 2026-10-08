@@ -1,0 +1,303 @@
+{
+  "title": "Top 4 Gadgets Imprescindibles para Tu Setup",
+  "hook": {
+    "type": "statement",
+    "text": "",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "25s-35s"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Lámpara BenQ ScreenBar",
+        "productId": "B0DK59YKRS",
+        "productName": "Lámpara BenQ ScreenBar",
+        "filename": "B0DK59YKRS.mp4",
+        "asin": "B0DK59YKRS",
+        "videoDuration": 148.6164,
+        "estimatedAudioSeconds": 32,
+        "framework": "enfoque_caracteristica",
+        "narracionSegments": null,
+        "content": [
+          "¿Tus ojos cansados al mirar la pantalla? La Lámpara BenQ ScreenBar, con su iluminación de fondo mejorada, es la solución. Ofrece luz ambiental amplia y ajustable. ¿Por qué funciona? Reduce el contraste con entornos oscuros y mantiene tus ojos relajados. Coloca la lámpara encima del monitor. Gira el controlador inalámbrico para ajustar el brillo y temperatura de color. No más reflejos molestos; solo comodidad visual.",
+          "Su precio actual ronda los... ciento noventa y nueve dólares. Link en comentarios."
+        ],
+        "visuals": [
+          "Product image: Lámpara BenQ ScreenBar"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0DK59YKRS.mp4",
+        "precio": "$199",
+        "productPhoto": "https://m.media-amazon.com/images/I/41fmQI53UNL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "\"\"\"ILUMINACIÓN DE FONDO MEJORADA PARA COMODIDAD VISUAL: La iluminación ambiental amplia y ajustable reduce el contraste entre tu pantalla y los entornos oscuros, ayudando a que tus ojos se mantengan relajados y enfocados por más tiempo.\"\"\"",
+          "\"\"\"LUZ FRONTAL SIN REFLEJOS (Tecnología ASYM-Light): La iluminación frontal de precisión a un ángulo anti-reflejos de 18° ilumina tu escritorio sin reflejarse en tu pantalla ni deslumbrar tus ojos, perfecta para cualquier configuración de monitor.\"\"\"",
+          "CONTROLADOR INALÁMBRICO PARA AJUSTES FÁCILES: El intuitivo dial inalámbrico controla el brillo, la temperatura de color y los modos, con una pantalla integrada que muestra valores precisos para un fácil ajuste fino.",
+          "AJUSTES DE LUZ PERSONALIZABLES: Elige entre niveles de brillo sin escalas y un amplio rango de temperatura de color (2700K - 6500K) para adaptarse a diferentes momentos del día y tareas.",
+          "\"\"\"ABRAZADERA QUE AHORRA ESPACIO CON AMPLIA COMPATIBILIDAD DE MONITORES: Se monta de forma segura en monitores de 0.17\" - 2.36\" (0.43 - 6 cm) de grosor y curvados de 1000R - 1800R, sin dañar la pantalla, liberando valioso espacio en el escritorio.\"\"\""
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Cargador inalámbrico Anker",
+        "productId": "B0DRCSZ618",
+        "productName": "Cargador inalámbrico Anker",
+        "filename": "B0DRCSZ618.mp4",
+        "asin": "B0DRCSZ618",
+        "videoDuration": 33.4013,
+        "estimatedAudioSeconds": 33,
+        "framework": "comparacion_precio",
+        "narracionSegments": null,
+        "content": [
+          "¿Tu cargador tarda siglos? El Cargador inalámbrico Anker revoluciona el juego. Carga inalámbrica rápida de quince vatios; tu iPhone súper cargado en diecinueve minutos. Sistema de seguridad ActiveShield dos punto cero. Monitorea temperaturas millones de veces al día; protege y mejora la eficiencia de carga. Usa su cable extra largo de cinco pies para máxima comodidad. Compacto y portátil; llévalo a todas partes. Con accesorio magnético y garantía, experimenta verdadera tranquilidad.",
+          "Su precio actual ronda los... cien dólares. Link en comentarios."
+        ],
+        "visuals": [
+          "Product image: Cargador inalámbrico Anker"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0DRCSZ618.mp4",
+        "precio": "$100",
+        "productPhoto": "https://m.media-amazon.com/images/I/61RoltzhI-L.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "Carga Inalámbrica Rápida de 15W: Desbloquea la carga rápida de 15W con certificación Qi2 y carga tu iPhone 16 Pro Max al 20% en solo 19 minutos. Para la mejor experiencia de carga rápida, recomendamos usar un cargador de salida de 20W o superior (no incluido).",
+          "Total tranquilidad: Este cargador certificado por Qi2 cuenta con nuestro sistema de seguridad ActiveShield 2.0, que ofrece una protección inigualable al monitorear temperaturas más de 8 millones de veces al día. A través de la detección de control de temperatura inteligente y la protección de seguridad, mejora eficazmente la eficiencia de carga y protege la salud de la batería de tu teléfono.",
+          "Cable Extra Largo: Disfruta de la libertad de un cable de 5 ft que proporciona un alcance extendido para una experiencia de carga más conveniente y flexible. Perfecto para usar tu teléfono cómodamente en casa o en el trabajo, ya sea que estés navegando por redes sociales, revisando correos electrónicos o en una videollamada, sin ninguna molestia por cables cortos.",
+          "Compacto y Portátil: Lleva tu carga a cualquier lugar con su diseño ultra-compacto, complementado por una práctica correa para cables que permite un almacenamiento organizado.",
+          "Lo que obtienes: Anker Zolo Wireless Charger (Magnético, Pad), guía de bienvenida, garantía de 24 meses y nuestro amable servicio al cliente."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Teclado Logitech MX Keys",
+        "productId": "B0BKW3LB2B",
+        "productName": "Teclado Logitech MX Keys",
+        "filename": "B0BKW3LB2B.mp4",
+        "asin": "B0BKW3LB2B",
+        "videoDuration": 30.119,
+        "estimatedAudioSeconds": 30,
+        "framework": "dato_numerico",
+        "narracionSegments": null,
+        "content": [
+          "¿Cansado de teclados ruidosos? Descubre el Teclado Logitech MX Keys. Ofrece experiencia de escritura fluida y más silenciosa con sus teclas cóncavas. Disfruta de iluminación inteligente que se adapta al entorno. Automatiza tareas repetitivas y ahorra tiempo con Logi Options Plus. Empareja hasta tres dispositivos, sin importar su sistema operativo. Conecta mediante Bluetooth o el receptor USB incluido. Transforma tu escritorio; maximiza tu productividad.",
+          "Su precio actual ronda los ciento veintiséis dólares. Link en comentarios."
+        ],
+        "visuals": [
+          "Product image: Teclado Logitech MX Keys"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0BKW3LB2B.mp4",
+        "precio": "$126",
+        "productPhoto": "https://m.media-amazon.com/images/I/71G7uXAb9BL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "Experiencia de escritura fluida: perfil similar al de un portátil con teclas esféricamente cóncavas diseñadas para tus yemas de los dedos que ofrecen una experiencia de escritura rápida, fluida, precisa y más silenciosa.",
+          "Automatiza Tareas Repetitivas: Crea y comparte fácilmente accesos directos de Smart Actions que ahorran tiempo para realizar múltiples acciones con una sola pulsación de tecla utilizando la aplicación Logi Options+ (1).",
+          "Iluminación más inteligente: Las teclas del teclado retroiluminado se iluminan a medida que tus manos se acercan y se adaptan al entorno; Ahora con más personalizaciones de iluminación en Logi Options+ (1)",
+          "Más comodidad, mayor concentración: Trabaja por más tiempo con una construcción sólida, un diseño de bajo perfil y un ángulo de teclado óptimo que es mejor para la postura de tu muñeca.",
+          "Teclado Bluetooth Multi-Dispositivo y Multi-SO: Empareja con hasta 3 dispositivos en casi cualquier sistema operativo (Windows, macOS, Linux) a través de Bluetooth Low Energy o el receptor USB Logi Bolt incluido (2)."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Silla Secretlab Titan Evo",
+        "productId": "B0B3RH59X8",
+        "productName": "Silla Secretlab Titan Evo",
+        "filename": "B0B3RH59X8.mp4",
+        "asin": "B0B3RH59X8",
+        "videoDuration": 144.166267,
+        "estimatedAudioSeconds": 33,
+        "framework": "experiencia_sensorial",
+        "narracionSegments": null,
+        "content": [
+          "¿Horas incómodas en tu escritorio? Secretlab Titan Evo redefine el confort. Su espuma de curado en frío alinea tu postura. Cojín de cabeza magnético para soporte cervical. Adapta su reclinación ciento sesenta y cinco grados; experimenta libertad total. Reposabrazos metálicos, totalmente ajustables, mejoran la interacción. Tejido SoftWeave avanzado: suavidad y transpirabilidad prolongadas. Descubre estabilidad; personaliza tu experiencia. Secretlab: apoyo ergonómico adaptado a ti; transforma cada jornada en confort sereno.",
+          "Su precio actual ronda los... seiscientos sesenta y nueve dólares. Link en comentarios."
+        ],
+        "visuals": [
+          "Product image: Silla Secretlab Titan Evo"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0B3RH59X8.mp4",
+        "precio": "$669",
+        "productPhoto": "https://m.media-amazon.com/images/I/51HHjm67W4L.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "CÓMODO TODO EL DÍA PARA TRABAJO Y JUEGO - Silla PC hecha de espuma de curado en frío para una postura ideal, viene con un cojín de cabeza magnético de espuma viscoelástica que se puede ajustar en un amplio rango y se fija en su lugar en el respaldo mientras proporciona un soporte mejorado para el cuello y alivio de presión.",
+          "SILLA DE JUEGO AJUSTABLE QUE SE ADAPTA A TI - Reposabrazos de metal completo 4D para ajustes suaves y precisos en cuatro direcciones con el primer reposabrazos superior reemplazable del mundo, respaldo de longitud completa con reclinación de 165° y mecanismo de multi-inclinación que te brinda el control total de la posición de tu silla, un soporte lumbar ajustable incorporado en 4 direcciones le da a tu espalda el soporte personalizado que necesita.",
+          "DURADERO Y TRANSPIRABLE - Mantente fresco todo el día con una versión más avanzada de nuestro tejido SoftWeave. Más suave, más transpirable y aún más duradero.",
+          "CONSTRUIDA PARA CADA TAMAÑO - La silla de gaming Secretlab TITAN Evo está disponible en 3 tamaños diferentes. El tamaño Regular se recomienda para personas entre 5'7\" y 6'2\" y con un peso inferior a 220lbs.",
+          "\"\"\"MARCA CONFIABLE Y GALARDONADA - Con más de 3,000,000 de usuarios en todo el mundo, más de 50 premios \"Elección del Editor\" y confiada por campeones globales de Esports, nos esforzamos por brindarte la mejor experiencia de asiento. También ofrecemos una garantía extendida de 5 años para mayor tranquilidad.\"\"\""
+        ]
+      }
+    ],
+    "totalDuration": 160
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      ""
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "3:50",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "imprescindibles",
+    "para",
+    "setup"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 5 Gadgets Imprescindibles para Tu Setup",
+      "angle": "Top 5 Gadgets Imprescindibles para Tu Setup",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 5,
+      "introScript": "¿Quieres llevar tu espacio de trabajo al siguiente nivel? Imagina un cargador inalámbrico que desinfecta tu teléfono mientras carga. O una lámpara de escritorio que ajusta automáticamente su brillo. Hoy te muestro estos y otros gadgets fascinantes que transformarán tu setup. Prepárate para disfrutar de tecnología que mezcla estilo y funcionalidad, y lo mejor, todos están a un clic de distancia.",
+      "keywords": [
+        "gadgets",
+        "imprescindibles",
+        "para",
+        "setup"
+      ],
+      "estimatedViews": 5606,
+      "bestPublishTime": "2026-07-19T15:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Lámpara BenQ ScreenBar",
+          "searchTermEn": "BenQ ScreenBar desk lamp",
+          "id": "B0DK59YKRS",
+          "filename": "B0DK59YKRS.mp4"
+        },
+        {
+          "nombre": "Ekster Parliament Wallet",
+          "searchTermEn": "Ekster Parliament smart wallet",
+          "id": "B07PWKM24K",
+          "filename": "B07PWKM24K.mp4"
+        },
+        {
+          "nombre": "Cargador inalámbrico Anker",
+          "searchTermEn": "Anker wireless charger UV",
+          "id": "B0DRCSZ618",
+          "filename": "B0DRCSZ618.mp4"
+        },
+        {
+          "nombre": "Teclado Logitech MX Keys",
+          "searchTermEn": "Logitech MX Keys keyboard",
+          "id": "B0BKW3LB2B",
+          "filename": "B0BKW3LB2B.mp4"
+        },
+        {
+          "nombre": "Silla Secretlab Titan Evo",
+          "searchTermEn": "Secretlab Titan Evo chair",
+          "id": "B0B3RH59X8",
+          "filename": "B0B3RH59X8.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-07-15T18:45:49.681Z",
+      "_requestedCount": 5,
+      "_adaptedCount": 5,
+      "introProductsOrder": [
+        {
+          "nombre": "Lámpara BenQ ScreenBar",
+          "id": "B0DK59YKRS",
+          "filename": "B0DK59YKRS.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0DK59YKRS.mp4"
+        },
+        {
+          "nombre": "Cargador inalámbrico Anker",
+          "id": "B0DRCSZ618",
+          "filename": "B0DRCSZ618.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0DRCSZ618.mp4"
+        },
+        {
+          "nombre": "Teclado Logitech MX Keys",
+          "id": "B0BKW3LB2B",
+          "filename": "B0BKW3LB2B.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0BKW3LB2B.mp4"
+        },
+        {
+          "nombre": "Silla Secretlab Titan Evo",
+          "id": "B0B3RH59X8",
+          "filename": "B0B3RH59X8.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0B3RH59X8.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1784141957590_ruyqki"
+    },
+    "generatedAt": "2026-07-15T18:59:58.607Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Lámpara BenQ ScreenBar",
+        "searchTermEn": "BenQ ScreenBar desk lamp",
+        "id": "B0DK59YKRS",
+        "filename": "B0DK59YKRS.mp4"
+      },
+      {
+        "nombre": "Ekster Parliament Wallet",
+        "searchTermEn": "Ekster Parliament smart wallet",
+        "id": "B07PWKM24K",
+        "filename": "B07PWKM24K.mp4"
+      },
+      {
+        "nombre": "Cargador inalámbrico Anker",
+        "searchTermEn": "Anker wireless charger UV",
+        "id": "B0DRCSZ618",
+        "filename": "B0DRCSZ618.mp4"
+      },
+      {
+        "nombre": "Teclado Logitech MX Keys",
+        "searchTermEn": "Logitech MX Keys keyboard",
+        "id": "B0BKW3LB2B",
+        "filename": "B0BKW3LB2B.mp4"
+      },
+      {
+        "nombre": "Silla Secretlab Titan Evo",
+        "searchTermEn": "Secretlab Titan Evo chair",
+        "id": "B0B3RH59X8",
+        "filename": "B0B3RH59X8.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 5 Gadgets Imprescindibles para Tu Setup\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\n\n\n[25s-35s] INTRODUCTION\n\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] LÁMPARA BENQ SCREENBAR\n¿Tus ojos cansados al mirar la pantalla? La Lámpara BenQ ScreenBar, con su iluminación de fondo mejorada, es la solución. Ofrece luz ambiental amplia y ajustable. ¿Por qué funciona? Reduce el contraste con entornos oscuros y mantiene tus ojos relajados. Coloca la lámpara encima del monitor. Gira el controlador inalámbrico para ajustar el brillo y temperatura de color. No más reflejos molestos; solo comodidad visual.\nSu precio actual ronda los... ciento noventa y nueve dólares. Link en comentarios.\n\n[VISUALS: Product image: Lámpara BenQ ScreenBar]\n\n[0:25] EKSTER PARLIAMENT WALLET\n¿Te parece complicado acceder a tus tarjetas? La cartera Ekster Parliament ofrece acceso instantáneo. Con su sistema de expulsión patentado solo presionas un botón... ¡y listo! Tus tarjetas disponibles al instante; además protege tus datos con tecnología RFID. Hecha de cuero premium, curtido bajo protocolos certificados, asegura durabilidad con un diseño delgado; almacena hasta diez tarjetas, manteniendo perfil compacto; y nunca más pierdas tu billetera si añades la Ekster Tracker Card compatible.\nSu precio actual ronda los... noventa y nueve dólares. Link en comentarios.\n\n[VISUALS: Product image: Ekster Parliament Wallet]\n\n[0:25] CARGADOR INALÁMBRICO ANKER\n¿Tu cargador tarda siglos? El Cargador inalámbrico Anker revoluciona el juego. Carga inalámbrica rápida de quince vatios; tu iPhone súper cargado en diecinueve minutos. Sistema de seguridad ActiveShield dos punto cero. Monitorea temperaturas millones de veces al día; protege y mejora la eficiencia de carga. Usa su cable extra largo de cinco pies para máxima comodidad. Compacto y portátil; llévalo a todas partes. Con accesorio magnético y garantía, experimenta verdadera tranquilidad.\nSu precio actual ronda los... cien dólares. Link en comentarios.\n\n[VISUALS: Product image: Cargador inalámbrico Anker]\n\n[0:25] TECLADO LOGITECH MX KEYS\n¿Cansado de teclados ruidosos? Descubre el Teclado Logitech MX Keys. Ofrece experiencia de escritura fluida y más silenciosa con sus teclas cóncavas. Disfruta de iluminación inteligente que se adapta al entorno. Automatiza tareas repetitivas y ahorra tiempo con Logi Options Plus. Empareja hasta tres dispositivos, sin importar su sistema operativo. Conecta mediante Bluetooth o el receptor USB incluido. Transforma tu escritorio; maximiza tu productividad.\nSu precio actual ronda los ciento veintiséis dólares. Link en comentarios.\n\n[VISUALS: Product image: Teclado Logitech MX Keys]\n\n[0:25] SILLA SECRETLAB TITAN EVO\n¿Horas incómodas en tu escritorio? Secretlab Titan Evo redefine el confort. Su espuma de curado en frío alinea tu postura. Cojín de cabeza magnético para soporte cervical. Adapta su reclinación ciento sesenta y cinco grados; experimenta libertad total. Reposabrazos metálicos, totalmente ajustables, mejoran la interacción. Tejido SoftWeave avanzado: suavidad y transpirabilidad prolongadas. Descubre estabilidad; personaliza tu experiencia. Secretlab: apoyo ergonómico adaptado a ti; transforma cada jornada en confort sereno.\nSu precio actual ronda los... seiscientos sesenta y nueve dólares. Link en comentarios.\n\n[VISUALS: Product image: Silla Secretlab Titan Evo]\n\n[10 seconds] CONCLUSION\n\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 3:50\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, imprescindibles, para, setup\n"
+}

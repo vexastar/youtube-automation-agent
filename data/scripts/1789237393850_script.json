@@ -1,0 +1,136 @@
+{
+  "title": "Top 1 Gadget de Carpintería para Trabajar en Casa",
+  "hook": {
+    "type": "statement",
+    "text": "Mira lo que pasa cuando pruebas: Sistema de Almacenamiento Modular Keter Stack.",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "Suscríbete. Los links están en el primer comentario.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "25s-35s"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Sistema de Almacenamiento Modular Keter Stack",
+        "productId": "B0CSQYFQ5C",
+        "productName": "Sistema de Almacenamiento Modular Keter Stack",
+        "filename": "B0CSQYFQ5C.mp4",
+        "asin": "B0CSQYFQ5C",
+        "videoDuration": 24.092,
+        "estimatedAudioSeconds": 27,
+        "framework": "experiencia_sensorial",
+        "narracionSegments": null,
+        "content": [
+          "Almacenamiento móvil. Cierres seguros. Organizador versátil. El Sistema Modular Keter Stack revoluciona el orden. Carrito robusto, caja personalizable y organizador con cierre seguro audible protegen herramientas en casa o trabajo. Eleva, desplaza y ajusta usando su mango telescópico de metal y ruedas duraderas mientras la tapa transparente revela todo al instante.",
+          "Consíguelo ya en Amazon por tan solo 119 dólares. ¡Descubre el enlace en los comentarios!"
+        ],
+        "visuals": [
+          "Product image: Sistema de Almacenamiento Modular Keter Stack"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0CSQYFQ5C.mp4",
+        "precio": "$119",
+        "productPhoto": "https://m.media-amazon.com/images/I/5133Am8ez8L.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "Construcción duradera y ligera hace que este sistema de almacenamiento modular de herramientas sea perfecto para uso en el hogar.",
+          "El sistema es un taller móvil interconectado y personalizable que incluye un carrito, una caja de herramientas y un organizador.",
+          "\"Los cierres se cierran con pestillos audibles que confirman que tus contenidos están seguros.\"",
+          "Mango telescópico de metal con ruedas duraderas de 7” y agarres laterales para una máxima movilidad hacia tu próximo proyecto o lugar de trabajo.",
+          "\"Cuenta con una tapa de policarbonato transparente en el organizador de piezas pequeñas.\""
+        ],
+        "originalVideoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0CSQYFQ5C.mp4"
+      }
+    ],
+    "totalDuration": 40
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      ""
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:10",
+  "tone": "engaging",
+  "tone_variant": "entusiasta y acelerado, como un presentador de teletienda pero sin relleno ni repetición",
+  "pacing": "quick",
+  "keywords": [
+    "gadget",
+    "carpintera",
+    "para",
+    "trabajar",
+    "casa"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 1 Gadget de Carpintería para Trabajar en Casa",
+      "angle": "Top 1 Gadget de Carpintería para Trabajar en Casa",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 1,
+      "introScript": "¿Te gustaría mejorar tu taller casero con un gadget que optimiza tu espacio, mantiene todo organizado y es un aliado perfecto para tus proyectos de carpintería? Hoy, te presentamos una herramienta sorprendente que se ha convertido en un compañero imprescindible para los amantes del bricolaje. Descubre cómo este innovador dispositivo puede transformar tu experiencia en el taller. No podrás creer lo que este sencillo gadget puede hacer por ti.",
+      "keywords": [
+        "gadget",
+        "carpintera",
+        "para",
+        "trabajar",
+        "casa"
+      ],
+      "estimatedViews": 6057,
+      "bestPublishTime": "2026-09-19T15:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Sistema de Almacenamiento Modular Keter Stack",
+          "searchTermEn": "Mible Tool Storage System",
+          "id": "B0CSQYFQ5C",
+          "filename": "B0CSQYFQ5C.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-09-12T18:21:39.606Z",
+      "_requestedCount": 1,
+      "_adaptedCount": 1,
+      "introProductsOrder": [
+        {
+          "nombre": "Sistema de Almacenamiento Modular Keter Stack",
+          "id": "B0CSQYFQ5C",
+          "filename": "B0CSQYFQ5C.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0CSQYFQ5C.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1789237373899_ecsvy0"
+    },
+    "generatedAt": "2026-09-12T18:23:01.833Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Sistema de Almacenamiento Modular Keter Stack",
+        "searchTermEn": "Mible Tool Storage System",
+        "id": "B0CSQYFQ5C",
+        "filename": "B0CSQYFQ5C.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 1 Gadget de Carpintería para Trabajar en Casa\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\nMira lo que pasa cuando pruebas: Sistema de Almacenamiento Modular Keter Stack.\n\n[25s-35s] INTRODUCTION\nSuscríbete. Los links están en el primer comentario.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] SISTEMA DE ALMACENAMIENTO MODULAR KETER STACK\nAlmacenamiento móvil. Cierres seguros. Organizador versátil. El Sistema Modular Keter Stack revoluciona el orden. Carrito robusto, caja personalizable y organizador con cierre seguro audible protegen herramientas en casa o trabajo. Eleva, desplaza y ajusta usando su mango telescópico de metal y ruedas duraderas mientras la tapa transparente revela todo al instante.\nConsíguelo ya en Amazon por tan solo 119 dólares. ¡Descubre el enlace en los comentarios!\n\n[VISUALS: Product image: Sistema de Almacenamiento Modular Keter Stack]\n\n[10 seconds] CONCLUSION\n\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:10\nTONE: engaging\nPACING: quick\nKEYWORDS: gadget, carpintera, para, trabajar, casa\n"
+}

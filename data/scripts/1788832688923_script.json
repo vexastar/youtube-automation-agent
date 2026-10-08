@@ -1,0 +1,185 @@
+{
+  "title": "Top 2 Gadgets Imprescindibles para Runners",
+  "hook": {
+    "type": "statement",
+    "text": "Mira lo que hace Shokz OpenRun Pro en acción. Mira lo que hace Lumo Run Sensor en acción.",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "Todo está en el primer comentario. Vamos.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "25s-35s"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Shokz OpenRun Pro",
+        "productId": "B0D2HKCMBP",
+        "productName": "Shokz OpenRun Pro",
+        "filename": "B0D2HKCMBP.mp4",
+        "asin": "B0D2HKCMBP",
+        "videoDuration": 60.9288,
+        "estimatedAudioSeconds": 35,
+        "framework": "enfoque_caracteristica",
+        "narracionSegments": null,
+        "content": [
+          "¿Imaginabas música en 3D mientras corres? Los Shokz OpenRun Pro ofrecen audio inigualable. Sus controladores duales mezclan agudos claros y graves profundos. Disfruta de hasta doce horas de sonido premium; perfecto para entrenamientos. Mantente seguro con su diseño de oído abierto que no fuga audio; tu música siempre contigo. Ajuste seguro con un alambre de memoria Ni-Ti y ganchos ergonómicos. Presiona para activar los modos EQ; personaliza tu experiencia sonora. Micrófonos duales garantizan llamadas cristalinas.",
+          "Su precio actual ronda los ciento ochenta dólares. Link en comentarios."
+        ],
+        "visuals": [
+          "Product image: Shokz OpenRun Pro"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0D2HKCMBP.mp4",
+        "precio": "$180",
+        "productPhoto": "https://m.media-amazon.com/images/I/417fmeqXikL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "Audio inigualable y sonido premium - Los controladores duales combinan los agudos claros de la tecnología de conducción ósea con los graves profundos de la tecnología de conducción aérea para 12 horas de audio potente en 3D. Perfecto para motivación musical durante entrenamientos y carreras.",
+          "Conciencia de Oído Abierto - El diseño característico de oído abierto de SHOKZ te ayuda a superar tus entrenamientos mientras te mantiene seguro y consciente de tu entorno. La escucha sin fugas garantiza que tu audio permanezca solo para tus oídos.",
+          "Ajuste Seguro, Estable y Ligero - El diseño optimizado por peso de este marco unibody integra un alambre de memoria de aleación Ni-Ti y ganchos ergonómicos para las orejas. El resultado es un ajuste seguro y cómodo que desafía deslizamientos y cambios incluso durante sesiones en el gimnasio o ciclismo.",
+          "Modos EQ dedicados - Personaliza tu experiencia de audio con nuestros modos EQ dedicados en la Shokz App. Disfruta de un sonido puro de conducción ósea con el recién lanzado Modo Clásico, o potencia tu audio en entornos ruidosos con el Modo de Aumento de Volumen.",
+          "Llamadas cristalinas - Micrófonos duales estratégicamente posicionados y un algoritmo de reducción de ruido AI filtran el 96.5% del ruido de fondo, incluyendo el viento a velocidades de hasta 15 millas por hora."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Lumo Run Sensor",
+        "productId": "B0CFWNX4L6",
+        "productName": "Lumo Run Sensor",
+        "filename": "B0CFWNX4L6.mp4",
+        "asin": "B0CFWNX4L6",
+        "videoDuration": 43.6125,
+        "estimatedAudioSeconds": 36,
+        "framework": "beneficio_oculto",
+        "narracionSegments": null,
+        "content": [
+          "¿Quieres llevar tu entrenamiento al siguiente nivel sin salir de casa? Descubre el Lumo Run Sensor. Tecnología futurista... que conecta cualquier cinta de correr a tu aplicación fitness favorita. Transmite datos de velocidad, inclinación y cadencia en tiempo real; optimizando cada carrera. Coloca el Lumo Run en tu máquina. Conecta con Bluetooth. Siente la diferencia. La duración... de la batería es impresionante; hasta quince horas continuas sin necesidad de recarga. Mejora tu rendimiento; lleva un control preciso.",
+          "Su precio actual ronda los... ciento veinticinco dólares. Link en comentarios."
+        ],
+        "visuals": [
+          "Product image: Lumo Run Sensor"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0CFWNX4L6.mp4",
+        "precio": "$125",
+        "productPhoto": "https://m.media-amazon.com/images/I/51I+5iWr2CL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "\"𝗣𝗹𝘂𝗴 𝗮𝗻𝗱 𝗣𝗹𝗮𝘆: RUNN conecta prácticamente cualquier cinta de correr a tu aplicación o dispositivo de fitness favorito.\"",
+          "Capacidades: Transmite velocidad, inclinación y cadencia a aplicaciones a través de Bluetooth o ANT+.",
+          "Conectividad: Conecta el monitor de frecuencia cardíaca de Apple Watch Series 2+ a una aplicación de fitness con la aplicación heartbeatz connect Apple Watch.",
+          "Incluido en la caja: Recargable con el cable micro-USB, cinta VHB Deck, clip para el deck, toallitas de limpieza.",
+          "Vida de la batería: Hasta 15 horas entre cargas."
+        ]
+      }
+    ],
+    "totalDuration": 80
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      ""
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:50",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "imprescindibles",
+    "para",
+    "runners"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 2 Gadgets Imprescindibles para Runners",
+      "angle": "Top 2 Gadgets Imprescindibles para Runners",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 2,
+      "introScript": "¿Alguna vez te has preguntado cómo mejorar tu experiencia al correr con la ayuda de la tecnología? Hoy te traigo dos gadgets increíbles que todo runner debería conocer. Uno te permite escuchar tu música preferida sin auriculares tradicionales, mientras que el otro te proporciona datos en tiempo real sobre tu postura y técnica, asegurando que cada paso sea más eficiente. Prepárate para descubrir estas innovaciones que transformarán tus carreras diarias de manera sorprendente.",
+      "keywords": [
+        "gadgets",
+        "imprescindibles",
+        "para",
+        "runners"
+      ],
+      "estimatedViews": 6370,
+      "bestPublishTime": "2026-09-13T15:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Shokz OpenRun Pro",
+          "searchTermEn": "Shokz OpenRun Pro headphones",
+          "id": "B0D2HKCMBP",
+          "filename": "B0D2HKCMBP.mp4"
+        },
+        {
+          "nombre": "Lumo Run Sensor",
+          "searchTermEn": "Lumo Run sensor",
+          "id": "B0CFWNX4L6",
+          "filename": "B0CFWNX4L6.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-09-08T01:54:20.958Z",
+      "_requestedCount": 2,
+      "_adaptedCount": 2,
+      "introProductsOrder": [
+        {
+          "nombre": "Shokz OpenRun Pro",
+          "id": "B0D2HKCMBP",
+          "filename": "B0D2HKCMBP.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0D2HKCMBP.mp4"
+        },
+        {
+          "nombre": "Lumo Run Sensor",
+          "id": "B0CFWNX4L6",
+          "filename": "B0CFWNX4L6.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0CFWNX4L6.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1788832663239_4f1cfh"
+    },
+    "generatedAt": "2026-09-08T01:57:56.401Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Shokz OpenRun Pro",
+        "searchTermEn": "Shokz OpenRun Pro headphones",
+        "id": "B0D2HKCMBP",
+        "filename": "B0D2HKCMBP.mp4"
+      },
+      {
+        "nombre": "Lumo Run Sensor",
+        "searchTermEn": "Lumo Run sensor",
+        "id": "B0CFWNX4L6",
+        "filename": "B0CFWNX4L6.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 2 Gadgets Imprescindibles para Runners\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\nMira lo que hace Shokz OpenRun Pro en acción. Mira lo que hace Lumo Run Sensor en acción.\n\n[25s-35s] INTRODUCTION\nTodo está en el primer comentario. Vamos.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] SHOKZ OPENRUN PRO\n¿Imaginabas música en 3D mientras corres? Los Shokz OpenRun Pro ofrecen audio inigualable. Sus controladores duales mezclan agudos claros y graves profundos. Disfruta de hasta doce horas de sonido premium; perfecto para entrenamientos. Mantente seguro con su diseño de oído abierto que no fuga audio; tu música siempre contigo. Ajuste seguro con un alambre de memoria Ni-Ti y ganchos ergonómicos. Presiona para activar los modos EQ; personaliza tu experiencia sonora. Micrófonos duales garantizan llamadas cristalinas.\nSu precio actual ronda los ciento ochenta dólares. Link en comentarios.\n\n[VISUALS: Product image: Shokz OpenRun Pro]\n\n[0:25] LUMO RUN SENSOR\n¿Quieres llevar tu entrenamiento al siguiente nivel sin salir de casa? Descubre el Lumo Run Sensor. Tecnología futurista... que conecta cualquier cinta de correr a tu aplicación fitness favorita. Transmite datos de velocidad, inclinación y cadencia en tiempo real; optimizando cada carrera. Coloca el Lumo Run en tu máquina. Conecta con Bluetooth. Siente la diferencia. La duración... de la batería es impresionante; hasta quince horas continuas sin necesidad de recarga. Mejora tu rendimiento; lleva un control preciso.\nSu precio actual ronda los... ciento veinticinco dólares. Link en comentarios.\n\n[VISUALS: Product image: Lumo Run Sensor]\n\n[10 seconds] CONCLUSION\n\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:50\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, imprescindibles, para, runners\n"
+}

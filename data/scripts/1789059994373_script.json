@@ -1,0 +1,136 @@
+{
+  "title": "Top 1 Gadgets Futuristas en Amazon para 2023",
+  "hook": {
+    "type": "statement",
+    "text": "Así se ve en la vida real: Lámpara de Bulbo Levitatante.",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "Los links de compra están en el primer comentario. Empezamos.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "25s-35s"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Lámpara magnética levitación",
+        "productId": "B09833QPYR",
+        "productName": "Lámpara magnética levitación",
+        "filename": "B09833QPYR.mp4",
+        "asin": "B09833QPYR",
+        "videoDuration": 33.989533,
+        "estimatedAudioSeconds": 36,
+        "framework": "experiencia_sensorial",
+        "narracionSegments": null,
+        "content": [
+          "Pureza suspendida. Luz en levitación. Innovadora lámpara magnética levitación redefine la iluminación. Tecnología magnética avanzada permite que la bombilla flote y gire en el aire; ritmo sereno, sin ruido alguno. Presiona botón táctil en base de madera; LED suave ilumina con sesenta lúmenes. Sin cables; inducción electromagnética prolonga su vida útil a cincuenta mil horas... Impresionante vista; transformará tu espacio: oficina, hogar, o incluso un café. Inolvidable regalo; momentos llenos de asombro al abrir la caja.",
+          "Su precio actual ronda los setenta y un dólares. Link en comentarios."
+        ],
+        "visuals": [
+          "Product image: Lámpara magnética levitación"
+        ],
+        "duration": 25,
+        "precio": "$71",
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B09833QPYR.mp4",
+        "productPhoto": "https://m.media-amazon.com/images/I/71zK+2otJ0L.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "La luz se encuentra con la levitación: La bombilla flotante utiliza tecnología de levitación magnética, y puede flotar y rotar libremente en el aire sin ningún contacto o soporte, y sin ningún ruido durante su funcionamiento. La luz LED flotante magnética puede rotar automáticamente 360 grados, tiene un efecto visual único, atrae tu atención y te permite sumergirte en esta luz suave.",
+          "La bombilla de levitación funciona mediante inducción electromagnética y no requiere cables ni baterías integradas. Luces controladas por el botón táctil: encendido/apagado en la base de madera. La lámpara está hecha de materiales ecológicos. El LED es muy suave, utilizamos una bombilla LED de 60 lumens super brillante, que es inofensiva para los ojos. Larga vida útil (un uso adecuado puede durar varios años), y el tiempo de uso nominal es de 50,000 horas.",
+          "Una vez que se corta la energía, la fuerza magnética de la base atrae firmemente la bombilla y no se caerá, por lo que no hay necesidad de preocuparse por dañar la bombilla.",
+          "Puedes pensar en ello como una lámpara de escritorio, lámpara de mesa, luz nocturna, etc., y colocarla en la oficina, vestíbulo del hotel, hogar, sala de estar, estudio, dormitorio, bar, Coffee shop, etc. Captará la atención de todos.",
+          "También se puede utilizar como regalos de cumpleaños, regalos del Día de la Madre, regalos de Navidad, regalos del Día de San Valentín, etc. para familiares, amantes, amigos y colegas, etc. ¡Imagina cuando reciban y abran la caja, les traerá mucha sorpresa!"
+        ]
+      }
+    ],
+    "totalDuration": 40
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      ""
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:10",
+  "tone": "engaging",
+  "tone_variant": "analítico y preciso, como un ingeniero que explica por qué esto es superior",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "futuristas",
+    "amazon",
+    "para",
+    "2023"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 1 Gadgets Futuristas en Amazon para 2023",
+      "angle": "Top 2 Gadgets Futuristas en Amazon para 2023",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 1,
+      "introScript": "¿Imaginas un teclado que proyecta láser sobre cualquier superficie? ¿O una lámpara que desafía la gravedad y flota en el aire? Estos no son conceptos de ciencia ficción, sino realidades que puedes tener en tus manos. Hemos rastreado los rincones más innovadores de Amazon para traerte dos gadgets que parecen sacados del futuro y que transformarán tu entorno de la manera más increíble. Prepárate para descubrir tecnología que no solo es efectiva, sino que también desafía las leyes de la física.",
+      "keywords": [
+        "gadgets",
+        "futuristas",
+        "amazon",
+        "para",
+        "2023"
+      ],
+      "estimatedViews": 3829,
+      "bestPublishTime": "2026-09-12T15:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Lámpara de Bulbo Levitatante",
+          "searchTermEn": "Levimoon levitating lamp",
+          "id": "B09833QPYR",
+          "filename": "B09833QPYR.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-09-10T17:03:42.453Z",
+      "_requestedCount": 2,
+      "_adaptedCount": 1,
+      "_adaptationNote": "ATENCIÓN: El usuario pidió 2 productos pero solo hay 1 clips de video disponibles. El guion, título y narrativa deben referirse EXCLUSIVAMENTE a 1 productos.",
+      "introProductsOrder": [
+        {
+          "nombre": "Lámpara de Bulbo Levitatante",
+          "id": "B09833QPYR",
+          "filename": "B09833QPYR.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B09833QPYR.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1789059972209_tdq78t"
+    },
+    "generatedAt": "2026-09-10T17:06:19.784Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Lámpara de Bulbo Levitatante",
+        "searchTermEn": "Levimoon levitating lamp",
+        "id": "B09833QPYR",
+        "filename": "B09833QPYR.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 1 Gadgets Futuristas en Amazon para 2023\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\nAsí se ve en la vida real: Lámpara de Bulbo Levitatante.\n\n[25s-35s] INTRODUCTION\nLos links de compra están en el primer comentario. Empezamos.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] LÁMPARA MAGNÉTICA LEVITACIÓN\nPureza suspendida. Luz en levitación. Innovadora lámpara magnética levitación redefine la iluminación. Tecnología magnética avanzada permite que la bombilla flote y gire en el aire; ritmo sereno, sin ruido alguno. Presiona botón táctil en base de madera; LED suave ilumina con sesenta lúmenes. Sin cables; inducción electromagnética prolonga su vida útil a cincuenta mil horas... Impresionante vista; transformará tu espacio: oficina, hogar, o incluso un café. Inolvidable regalo; momentos llenos de asombro al abrir la caja.\nSu precio actual ronda los setenta y un dólares. Link en comentarios.\n\n[VISUALS: Product image: Lámpara magnética levitación]\n\n[10 seconds] CONCLUSION\n\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:10\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, futuristas, amazon, para, 2023\n"
+}

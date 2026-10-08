@@ -1,0 +1,135 @@
+{
+  "title": "Top 1 Gadgets Sorprendentes para tu Cocina",
+  "hook": {
+    "type": "statement",
+    "text": "¿Sabías que el 65% de las personas pierden tiempo valioso de cocina cada semana por no usar herramientas correctas? Descubre el increíble cortador de vegetales que revolucionará tus comidas y transforma tu experiencia culinaria. Los enlaces están en el primer comentario. Mira esto.",
+    "duration": "0:00-0:15"
+  },
+  "introduction": {
+    "greeting": "",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0s"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Veggetti Veggie Slicer",
+        "productId": "B00IIVRB3W",
+        "productName": "Veggetti Veggie Slicer",
+        "filename": "B00IIVRB3W.mp4",
+        "asin": "B00IIVRB3W",
+        "videoDuration": 6.228467,
+        "estimatedAudioSeconds": 29,
+        "framework": "experiencia_sensorial",
+        "narracionSegments": null,
+        "content": [
+          "Querer disfrutar pasta sin carbohidratos puede convertirse en un dilema cuando tu tiempo es limitado. Veggetti Veggie Slicer transforma tus vegetales favoritos en saludables y deliciosos fideos tipo espagueti con un simple giro. Fabricado en plástico importado, incluye dos cuchillas de acero inoxidable para corte grueso o fino. También tiene un soporte con picos para sujetar los trozos pequeños fácilmente.",
+          "Actualmente cuesta unos veinticinco dólares y se obtiene fácilmente en Amazon."
+        ],
+        "visuals": [
+          "Product image: Veggetti Veggie Slicer"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B00IIVRB3W.mp4",
+        "precio": "$25",
+        "productPhoto": "https://m.media-amazon.com/images/I/511FBp+2AfL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "\"\"\"Plástico\"\"\"",
+          "Importado",
+          "EASY VEGETABLE SPIRALIZER: Sirve tu vegetal favorito como una deliciosa pasta sin carbohidratos con este cortador de verduras de Veggetti. Con un simple giro, este espiralizador para verduras convierte instantáneamente tus vegetales favoritos en fideos sabrosos y saludables.",
+          "SPIRAL VEGGIE SLICER: Un versátil fabricante de fideos en espiral de verduras, este espiralizador te permite hacer espagueti de verduras, salteados y más de manera muy fácil. Este es un gran espiralizador para fideos de verduras y funciona muy bien con calabacín, calabaza, zanahorias y pepinos.",
+          "CONSTRUCCIÓN DE CALIDAD: Este cortador de verduras tiene dos cuchillas de acero inoxidable separadas: un lado para tiras de fideos gruesos y el otro para finas. El cortador espiral también cuenta con un soporte con picos para sujetar fácilmente la verdura cuando ha sido cortada en trozos pequeños."
+        ],
+        "originalVideoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B00IIVRB3W.mp4"
+      }
+    ],
+    "totalDuration": 40
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "Gracias por llegar hasta aquí. El próximo top será aún más loco. Recuerda, los links en el primer comentario."
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "",
+    "like": "",
+    "comment": "",
+    "nextVideo": "",
+    "duration": "0 seconds"
+  },
+  "duration": "1:10",
+  "tone": "engaging",
+  "tone_variant": "conversacional y cercano, como si le contaras a un amigo algo increíble que descubriste",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "sorprendentes",
+    "para",
+    "cocina"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 1 Gadgets Sorprendentes para tu Cocina",
+      "angle": "Top 2 Gadgets Sorprendentes para tu Cocina",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 1,
+      "introScript": "¿Estás listo para revolucionar tu cocina con tecnología que parece sacada del futuro? Prepárate para descubrir un gadget que convierte cualquier verdura en una espiral de sabor, y un revolucionario dispositivo que utiliza inteligencia artificial para medir y mejorar tu técnica culinaria. Estos dos productos no solo harán volar tu imaginación, sino que también transformarán cada comida en una experiencia gourmet. Quédate con nosotros para conocer estos increíbles inventos que están arrasando en el mundo de la cocina.",
+      "keywords": [
+        "gadgets",
+        "sorprendentes",
+        "para",
+        "cocina"
+      ],
+      "estimatedViews": 5108,
+      "bestPublishTime": "2026-09-30T19:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Veggetti Veggie Slicer",
+          "searchTermEn": "Inspiralizer spiral vegetable slicer",
+          "id": "B00IIVRB3W",
+          "filename": "B00IIVRB3W.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-09-29T17:23:38.146Z",
+      "_requestedCount": 2,
+      "_adaptedCount": 1,
+      "_adaptationNote": "ATENCIÓN: El usuario pidió 2 productos pero solo hay 1 clips de video disponibles. El guion, título y narrativa deben referirse EXCLUSIVAMENTE a 1 productos.",
+      "introProductsOrder": [
+        {
+          "nombre": "Veggetti Veggie Slicer",
+          "id": "B00IIVRB3W",
+          "filename": "B00IIVRB3W.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B00IIVRB3W.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1790703063514_hqq0g0"
+    },
+    "generatedAt": "2026-09-29T17:31:14.504Z",
+    "version": "4.0-dynamic-rotator",
+    "productos": [
+      {
+        "nombre": "Veggetti Veggie Slicer",
+        "searchTermEn": "Inspiralizer spiral vegetable slicer",
+        "id": "B00IIVRB3W",
+        "filename": "B00IIVRB3W.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 1 Gadgets Sorprendentes para tu Cocina\n\n══════════════════════════════════════════════════\n\n[0:00-0:15] HOOK\n¿Sabías que el 65% de las personas pierden tiempo valioso de cocina cada semana por no usar herramientas correctas? Descubre el increíble cortador de vegetales que revolucionará tus comidas y transforma tu experiencia culinaria. Los enlaces están en el primer comentario. Mira esto.\n\n[0s] INTRODUCTION\n\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] VEGGETTI VEGGIE SLICER\nQuerer disfrutar pasta sin carbohidratos puede convertirse en un dilema cuando tu tiempo es limitado. Veggetti Veggie Slicer transforma tus vegetales favoritos en saludables y deliciosos fideos tipo espagueti con un simple giro. Fabricado en plástico importado, incluye dos cuchillas de acero inoxidable para corte grueso o fino. También tiene un soporte con picos para sujetar los trozos pequeños fácilmente.\nActualmente cuesta unos veinticinco dólares y se obtiene fácilmente en Amazon.\n\n[VISUALS: Product image: Veggetti Veggie Slicer]\n\n[10 seconds] CONCLUSION\nGracias por llegar hasta aquí. El próximo top será aún más loco. Recuerda, los links en el primer comentario.\n\n\n\n[0 seconds] CALL TO ACTION\n\n\n\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:10\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, sorprendentes, para, cocina\n"
+}

@@ -1,0 +1,307 @@
+{
+  "title": "Top 2 Laptops que No Te Debes Perder en Amazon",
+  "hook": {
+    "type": "statement",
+    "text": "Optimiza tareas con extrema eficiencia. Disfruta de una visualización sin reflejos.",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "No te quedes atrás, ¡suscríbete ahora y consulta el primer comentario para los links!",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0:10-0:15"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "ASUS ZenBook Duo",
+        "productId": "B0DXQ2TMQH",
+        "productName": "ASUS ZenBook Duo",
+        "filename": "B0DXQ2TMQH.mp4",
+        "asin": "B0DXQ2TMQH",
+        "clipDuration": 56.19,
+        "estimatedAudioSeconds": 24,
+        "framework": "enfoque_caracteristica",
+        "narracionSegments": null,
+        "content": [
+          "La pantalla OLED Dual 3K da vida a lo que ves, mejorando la calidad con su tratamiento anti-reflejos. El ASUS ZenBook Duo ofrece un diseño de protección específico para su modelo, suministrando una experiencia de visualización clara y sin distracciones.",
+          "Su precio actual en Amazon ronda los... 2110 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: ASUS ZenBook Duo"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0DXQ2TMQH_combined.mp4",
+        "precio": "$2110",
+        "productPhoto": "https://m.media-amazon.com/images/I/71sWAaW9kKL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DXQ2TMQH\\scenes_v1\\B0DXQ2TMQH_scene_04.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "protector pantalla",
+            "raw": "9|protector pantalla"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DXQ2TMQH\\scenes_v1\\B0DXQ2TMQH_scene_03.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DXQ2TMQH\\scenes_v1\\B0DXQ2TMQH_scene_05.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Protector pantalla",
+            "raw": "9|Protector pantalla"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DXQ2TMQH\\scenes_v1\\B0DXQ2TMQH_scene_06.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Protector de pantalla",
+            "raw": "9|Protector de pantalla"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DXQ2TMQH\\scenes_v1\\B0DXQ2TMQH_scene_01.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Protector pantalla",
+            "raw": "8|Protector pantalla"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DXQ2TMQH\\scenes_v1\\B0DXQ2TMQH_scene_02.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "kit de instalación",
+            "raw": "5|kit de instalación"
+          }
+        ],
+        "features": [
+          "Compatible with the Devices: Screen Protector for New 2025-2024 ASUS Zenbook Duo 2-in-1 Laptop Dual 14” OLED 3K Touch Display, Please double-check your device model to avoid buying the wrong one !",
+          "Attention: (NOT Fitting Any Other Sizes or Models)- Attention: Does not fit 14.5 inch! Attention: Does not fit other models and other sizes. Don't buy the wrong one!",
+          "Anti-Glare Coating: This screen protector features a matte finish that reduces glare and reflections for improved visibility.",
+          "Fingerprint Resistance: The anti-fingerprint coating helps keep the screen clean and smudge-free for a clearer viewing experience.",
+          "Scratch Protection: The durable material safeguards your screen against scratches, scuffs, and daily wear and tear."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Acer Swift X",
+        "productId": "B0CZP2YZH6",
+        "productName": "Acer Swift X",
+        "filename": "B0CZP2YZH6.mp4",
+        "asin": "B0CZP2YZH6",
+        "clipDuration": 44.04,
+        "estimatedAudioSeconds": 42,
+        "framework": "beneficio_oculto",
+        "narracionSegments": null,
+        "content": [
+          "Lo realmente interesante del Acer Swift X es su avanzada tecnología AI Ryzen que mejora un 60% su rendimiento. Imagina ejecutar tareas complejas con fluidez gracias al procesador AMD Ryzen y su pantalla táctil vívida, ajustándose perfectamente a tus necesidades diarias.",
+          "Su precio actual en Amazon ronda los... 696 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Acer Swift X"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0CZP2YZH6_combined.mp4",
+        "precio": "$696",
+        "productPhoto": "https://m.media-amazon.com/images/I/71L9qvTonML.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CZP2YZH6\\scenes_v1\\B0CZP2YZH6_scene_01.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Laptop encendida",
+            "raw": "9|Laptop encendida"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CZP2YZH6\\scenes_v1\\B0CZP2YZH6_scene_04.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "pantalla encendida",
+            "raw": "9|pantalla encendida"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CZP2YZH6\\scenes_v1\\B0CZP2YZH6_scene_08.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "pantalla encendida",
+            "raw": "9|pantalla encendida"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CZP2YZH6\\scenes_v1\\B0CZP2YZH6_scene_11.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "pantalla encendida",
+            "raw": "9|pantalla encendida"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CZP2YZH6\\scenes_v1\\B0CZP2YZH6_scene_12.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "pantalla encendida",
+            "raw": "9|pantalla encendida"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CZP2YZH6\\scenes_v1\\B0CZP2YZH6_scene_10.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "pantalla encendida",
+            "raw": "9|pantalla encendida"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CZP2YZH6\\scenes_v1\\B0CZP2YZH6_scene_02.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "teclado visible",
+            "raw": "8|teclado visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CZP2YZH6\\scenes_v1\\B0CZP2YZH6_scene_05.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "pantalla brillante",
+            "raw": "8|pantalla brillante"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CZP2YZH6\\scenes_v1\\B0CZP2YZH6_scene_06.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "laptop visible",
+            "raw": "8|laptop visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CZP2YZH6\\scenes_v1\\B0CZP2YZH6_scene_07.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "pantalla brillante",
+            "raw": "8|pantalla brillante"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CZP2YZH6\\scenes_v1\\B0CZP2YZH6_scene_03.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "laptop visible",
+            "raw": "5|laptop visible"
+          }
+        ],
+        "features": [
+          "Ready, Set Go!: Say hi to the all-new Swift Go 14 AMD—your AI PC featuring AMD Ryzen 7 8845HS processor equipped with Ryzen AI. A visually brilliant 14\" WUXGA (1920 x 1200) 100% sRGB touch display and designed in an eye-catching, thin-and-light body with Windows 11 and Copilot for Windows that’s great on the go!",
+          "Premium Performance on the Go: With the unparalleled performance of the AMD Ryzen 7 8845HS processor and built-in AMD Radeon 780M Graphics, the Swift Go 14 AI PC delivers premium experiences and optimized power performance—so you can effortlessly breeze through the most demanding of tasks.",
+          "Indulge Your Eyes: The Swift Go 14 with a 14-inch 16:10 WUXGA (1920 x 1200) touchscreen display offers vivid color accuracy, remarkably deep blacks, and ultra-crisp image quality. The intuitive touchscreen provides effortless tapping and swiping.",
+          "AI Ready for Tomorrow: Unlock the power of AMD Ryzen AI in the Swift Go 14 AI PC, which delivers up to 60% improved AI performance. Teamed up with Acer's own AI solutions, this provides an immersive and enjoyable AI experience that’s ready for the ever-evolving possibilities of AI technology.",
+          "Copilot in Windows - your AI Assistant: Do more, quicker than ever across multiple applications with the centralized generative AI assistance of Copilot in Windows (in preview). Accessible with a single touch of the Copilot Key."
+        ]
+      }
+    ],
+    "totalDuration": 50
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "Dale un like si te gustó y recuerda, los links están en el primer comentario."
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:20",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "laptops",
+    "debes",
+    "perder",
+    "amazon"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 2 Laptops que No Te Debes Perder en Amazon",
+      "angle": "Top 3 Laptops que No Te Debes Perder en Amazon",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 2,
+      "introScript": "¿Un laptop que se recarga en 30 minutos? ¿Otra que se convierte en una tableta con solo un giro? Descubre tres computadoras portátiles que redefinen lo que esperas de la movilidad y el diseño. Prepárate para sorprenderte con funciones que harán tu vida más fácil.",
+      "keywords": [
+        "laptops",
+        "debes",
+        "perder",
+        "amazon"
+      ],
+      "estimatedViews": 3733,
+      "bestPublishTime": "2026-05-16T15:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "ASUS ZenBook Duo",
+          "searchTermEn": "ASUS ZenBook Duo laptop",
+          "id": "B0DXQ2TMQH",
+          "filename": "B0DXQ2TMQH.mp4"
+        },
+        {
+          "nombre": "Acer Swift X",
+          "searchTermEn": "Acer Swift X laptop",
+          "id": "B0CZP2YZH6",
+          "filename": "B0CZP2YZH6.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-05-13T17:25:34.223Z",
+      "_requestedCount": 3,
+      "_adaptedCount": 2,
+      "_adaptationNote": "ATENCIÓN: El usuario pidió 3 productos pero solo hay 2 clips de video disponibles. El guion, título y narrativa deben referirse EXCLUSIVAMENTE a 2 productos.",
+      "introProductsOrder": [
+        {
+          "nombre": "Acer Swift X",
+          "id": "B0CZP2YZH6",
+          "filename": "B0CZP2YZH6_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0CZP2YZH6_combined.mp4"
+        },
+        {
+          "nombre": "ASUS ZenBook Duo",
+          "id": "B0DXQ2TMQH",
+          "filename": "B0DXQ2TMQH_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0DXQ2TMQH_combined.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1778693568088_7iho49"
+    },
+    "generatedAt": "2026-05-13T17:33:01.591Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "ASUS ZenBook Duo",
+        "searchTermEn": "ASUS ZenBook Duo laptop",
+        "id": "B0DXQ2TMQH",
+        "filename": "B0DXQ2TMQH.mp4"
+      },
+      {
+        "nombre": "Acer Swift X",
+        "searchTermEn": "Acer Swift X laptop",
+        "id": "B0CZP2YZH6",
+        "filename": "B0CZP2YZH6.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 2 Laptops que No Te Debes Perder en Amazon\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\nOptimiza tareas con extrema eficiencia. Disfruta de una visualización sin reflejos.\n\n[0:10-0:15] INTRODUCTION\nNo te quedes atrás, ¡suscríbete ahora y consulta el primer comentario para los links!\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] ASUS ZENBOOK DUO\nLa pantalla OLED Dual 3K da vida a lo que ves, mejorando la calidad con su tratamiento anti-reflejos. El ASUS ZenBook Duo ofrece un diseño de protección específico para su modelo, suministrando una experiencia de visualización clara y sin distracciones.\nSu precio actual en Amazon ronda los... 2110 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: ASUS ZenBook Duo]\n\n[0:25] ACER SWIFT X\nLo realmente interesante del Acer Swift X es su avanzada tecnología AI Ryzen que mejora un 60% su rendimiento. Imagina ejecutar tareas complejas con fluidez gracias al procesador AMD Ryzen y su pantalla táctil vívida, ajustándose perfectamente a tus necesidades diarias.\nSu precio actual en Amazon ronda los... 696 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Acer Swift X]\n\n[10 seconds] CONCLUSION\nDale un like si te gustó y recuerda, los links están en el primer comentario.\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:20\nTONE: engaging\nPACING: quick\nKEYWORDS: laptops, debes, perder, amazon\n"
+}

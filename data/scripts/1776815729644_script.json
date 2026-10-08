@@ -1,0 +1,138 @@
+{
+  "title": "Top 2 Gadgets Tecnológicos para la Construcción",
+  "hook": {
+    "type": "statement",
+    "text": "Este dispositivo mide distancias en un instante. Esta cámara revela fugas ocultas al ojo humano.",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "Suscríbete, los links están en el primer comentario. Empecemos.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0:10-0:15"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Leica Disto D2",
+        "productId": "B01D8HNPSK",
+        "productName": "Leica Disto D2",
+        "filename": "B01D8HNPSK.mp4",
+        "content": [
+          "¿Cansado de medir con cintas imprecisas que siempre se enredan? El Leica Disto D2 mide distancias con láser de manera instantánea y precisa. Con un alcance de hasta 100 metros, es ideal para cualquier proyecto de construcción.",
+          "Su precio actual en Amazon ronda los... 180 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Leica Disto D2"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B01D8HNPSK.mp4",
+        "precio": "$180",
+        "productPhoto": "https://m.media-amazon.com/images/I/618fNz5Ef7S._AC_UL960_QL65_.jpg"
+      },
+      {
+        "type": "content",
+        "title": "FLIR C5 Cámara Térmica",
+        "productId": "B0892MZZT1",
+        "productName": "FLIR C5 Cámara Térmica",
+        "filename": "B0892MZZT1.mp4",
+        "content": [
+          "Las fugas de calor pueden costar una fortuna en reparaciones y facturas de energía. La FLIR C5 Cámara Térmica detecta variaciones de temperatura revelando fugas invisibles a simple vista. Compacta y fácil de usar, es perfecta para cualquier inspección profesional.",
+          "Su precio actual en Amazon ronda los... 617 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: FLIR C5 Cámara Térmica"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0892MZZT1.mp4",
+        "precio": "$617",
+        "productPhoto": "https://m.media-amazon.com/images/I/71+aARS08zL._AC_UY654_QL65_.jpg"
+      }
+    ],
+    "totalDuration": 50
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "Dale like y recuerda que los links están en el primer comentario."
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:20",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "tecnolgicos",
+    "para",
+    "construccin"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 2 Gadgets Tecnológicos para la Construcción",
+      "angle": "Top 3 Gadgets Tecnológicos para la Construcción",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 2,
+      "introScript": "¿Un medidor láser que cabe en tu bolsillo? ¿Un casco que elimina el ruido con un toque? Descubre las herramientas más avanzadas para revolucionar el trabajo en la construcción y hacer todo más sencillo.",
+      "keywords": [
+        "gadgets",
+        "tecnolgicos",
+        "para",
+        "construccin"
+      ],
+      "estimatedViews": 4404,
+      "bestPublishTime": "2026-04-26T15:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Leica Disto D2",
+          "searchTermEn": "Leica Disto D2 laser measure",
+          "id": "B01D8HNPSK",
+          "filename": "B01D8HNPSK.mp4"
+        },
+        {
+          "nombre": "FLIR C5 Cámara Térmica",
+          "searchTermEn": "FLIR C5 thermal camera",
+          "id": "B0892MZZT1",
+          "filename": "B0892MZZT1.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-04-21T23:53:24.818Z",
+      "_requestedCount": 3,
+      "_adaptedCount": 2,
+      "_adaptationNote": "ATENCIÓN: El usuario pidió 3 productos pero solo hay 2 clips de video disponibles. El guion, título y narrativa deben referirse EXCLUSIVAMENTE a 2 productos.",
+      "_scriptNonce": "nonce_1776815725193_9uz5sw"
+    },
+    "generatedAt": "2026-04-21T23:55:29.131Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Leica Disto D2",
+        "searchTermEn": "Leica Disto D2 laser measure",
+        "id": "B01D8HNPSK",
+        "filename": "B01D8HNPSK.mp4"
+      },
+      {
+        "nombre": "FLIR C5 Cámara Térmica",
+        "searchTermEn": "FLIR C5 thermal camera",
+        "id": "B0892MZZT1",
+        "filename": "B0892MZZT1.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 2 Gadgets Tecnológicos para la Construcción\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\nEste dispositivo mide distancias en un instante. Esta cámara revela fugas ocultas al ojo humano.\n\n[0:10-0:15] INTRODUCTION\nSuscríbete, los links están en el primer comentario. Empecemos.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] LEICA DISTO D2\n¿Cansado de medir con cintas imprecisas que siempre se enredan? El Leica Disto D2 mide distancias con láser de manera instantánea y precisa. Con un alcance de hasta 100 metros, es ideal para cualquier proyecto de construcción.\nSu precio actual en Amazon ronda los... 180 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Leica Disto D2]\n\n[0:25] FLIR C5 CÁMARA TÉRMICA\nLas fugas de calor pueden costar una fortuna en reparaciones y facturas de energía. La FLIR C5 Cámara Térmica detecta variaciones de temperatura revelando fugas invisibles a simple vista. Compacta y fácil de usar, es perfecta para cualquier inspección profesional.\nSu precio actual en Amazon ronda los... 617 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: FLIR C5 Cámara Térmica]\n\n[10 seconds] CONCLUSION\nDale like y recuerda que los links están en el primer comentario.\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:20\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, tecnolgicos, para, construccin\n"
+}

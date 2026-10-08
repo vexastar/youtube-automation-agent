@@ -1,0 +1,167 @@
+{
+  "title": "Top 3 Gadgets Increíbles para tu Oficina",
+  "hook": {
+    "type": "statement",
+    "text": "Una lámpara que desafía la gravedad. Carga todos tus dispositivos a la vez. Teclea en cualquier superficie con luz láser.",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "Suscríbete, los links están en el primer comentario. Empecemos.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0:10-0:15"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Lámpara Levitante Heng Balance",
+        "productId": "B0BM8M86C8",
+        "productName": "Lámpara Levitante Heng Balance",
+        "filename": "B0BM8M86C8.mp4",
+        "content": [
+          "Tu espacio de trabajo siempre parece aburrido y monótono. La Lámpara Levitante Heng Balance flota mágicamente en el aire, iluminando con estilo. Su diseño innovador es un imán para las miradas y la conversación.",
+          "Su precio actual en Amazon ronda los... 71 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Lámpara Levitante Heng Balance"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0BM8M86C8.mp4",
+        "precio": "$71",
+        "productPhoto": "https://m.media-amazon.com/images/I/61prd2j1cTL.jpg"
+      },
+      {
+        "type": "content",
+        "title": "Soporte Carga Satechi Dock5",
+        "productId": "B08SHRQDJ1",
+        "productName": "Soporte Carga Satechi Dock5",
+        "filename": "B08SHRQDJ1.mp4",
+        "content": [
+          "Tus dispositivos están siempre desordenados y sin batería cuando más los necesitas. El Soporte Carga Satechi Dock5 organiza y carga hasta cinco dispositivos simultáneamente. Compatible con smartphones, tablets y más, mantén tus gadgets listos para la acción.",
+          "Su precio actual en Amazon ronda los... 60 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Soporte Carga Satechi Dock5"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B08SHRQDJ1.mp4",
+        "precio": "$60",
+        "productPhoto": "https://m.media-amazon.com/images/I/71Bq813Qx7L.jpg"
+      },
+      {
+        "type": "content",
+        "title": "Teclado Laser AGS",
+        "productId": "B0F145ZPNT",
+        "productName": "Teclado Laser AGS",
+        "filename": "B0F145ZPNT.mp4",
+        "content": [
+          "Escribir en teclados tradicionales es incómodo y ocupa espacio. El Teclado Laser AGS proyecta un teclado virtual sobre cualquier superficie, permitiendo escribir sin límites. Pequeño y portátil, llévalo donde quieras.",
+          "Su precio actual en Amazon ronda los... 60 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Teclado Laser AGS"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0F145ZPNT.mp4",
+        "precio": "$60",
+        "productPhoto": "https://m.media-amazon.com/images/I/61ZTEjUBRQL.jpg"
+      }
+    ],
+    "totalDuration": 75
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "Dale like si te sorprendieron estos gadgets y recuerda que los links están en el primer comentario."
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:45",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "increbles",
+    "para",
+    "oficina"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 3 Gadgets Increíbles para tu Oficina",
+      "angle": "Top 3 Gadgets Increíbles para tu Oficina",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 3,
+      "introScript": "¿Una lámpara que flota y gira? ¿Un cargador que también organiza tus cables? Estos gadgets convertirán tu oficina en un espacio futurista. Descubre cómo revolucionar tu día a día con estos inventos increíbles que puedes tener ahora mismo.",
+      "keywords": [
+        "gadgets",
+        "increbles",
+        "para",
+        "oficina"
+      ],
+      "estimatedViews": 4771,
+      "bestPublishTime": "2026-04-30T19:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Lámpara Levitante Heng Balance",
+          "searchTermEn": "Heng Balance levitation lamp",
+          "id": "B0BM8M86C8",
+          "filename": "B0BM8M86C8.mp4"
+        },
+        {
+          "nombre": "Soporte Carga Satechi Dock5",
+          "searchTermEn": "Satechi Dock5 charging station",
+          "id": "B08SHRQDJ1",
+          "filename": "B08SHRQDJ1.mp4"
+        },
+        {
+          "nombre": "Teclado Laser AGS",
+          "searchTermEn": "AGS virtual laser keyboard",
+          "id": "B0F145ZPNT",
+          "filename": "B0F145ZPNT.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-04-28T19:28:49.751Z",
+      "_requestedCount": 3,
+      "_adaptedCount": 3,
+      "_scriptNonce": "nonce_1777404753109_1tvnei"
+    },
+    "generatedAt": "2026-04-28T19:32:37.981Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Lámpara Levitante Heng Balance",
+        "searchTermEn": "Heng Balance levitation lamp",
+        "id": "B0BM8M86C8",
+        "filename": "B0BM8M86C8.mp4"
+      },
+      {
+        "nombre": "Soporte Carga Satechi Dock5",
+        "searchTermEn": "Satechi Dock5 charging station",
+        "id": "B08SHRQDJ1",
+        "filename": "B08SHRQDJ1.mp4"
+      },
+      {
+        "nombre": "Teclado Laser AGS",
+        "searchTermEn": "AGS virtual laser keyboard",
+        "id": "B0F145ZPNT",
+        "filename": "B0F145ZPNT.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 3 Gadgets Increíbles para tu Oficina\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\nUna lámpara que desafía la gravedad. Carga todos tus dispositivos a la vez. Teclea en cualquier superficie con luz láser.\n\n[0:10-0:15] INTRODUCTION\nSuscríbete, los links están en el primer comentario. Empecemos.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] LÁMPARA LEVITANTE HENG BALANCE\nTu espacio de trabajo siempre parece aburrido y monótono. La Lámpara Levitante Heng Balance flota mágicamente en el aire, iluminando con estilo. Su diseño innovador es un imán para las miradas y la conversación.\nSu precio actual en Amazon ronda los... 71 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Lámpara Levitante Heng Balance]\n\n[0:25] SOPORTE CARGA SATECHI DOCK5\nTus dispositivos están siempre desordenados y sin batería cuando más los necesitas. El Soporte Carga Satechi Dock5 organiza y carga hasta cinco dispositivos simultáneamente. Compatible con smartphones, tablets y más, mantén tus gadgets listos para la acción.\nSu precio actual en Amazon ronda los... 60 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Soporte Carga Satechi Dock5]\n\n[0:25] TECLADO LASER AGS\nEscribir en teclados tradicionales es incómodo y ocupa espacio. El Teclado Laser AGS proyecta un teclado virtual sobre cualquier superficie, permitiendo escribir sin límites. Pequeño y portátil, llévalo donde quieras.\nSu precio actual en Amazon ronda los... 60 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Teclado Laser AGS]\n\n[10 seconds] CONCLUSION\nDale like si te sorprendieron estos gadgets y recuerda que los links están en el primer comentario.\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:45\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, increbles, para, oficina\n"
+}

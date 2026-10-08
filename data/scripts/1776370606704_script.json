@@ -1,0 +1,142 @@
+{
+  "title": "Top 2 Gadgets para Mejorar tu Alcoba en un Instante",
+  "hook": {
+    "type": "statement",
+    "text": "Estas tapas se adaptan a cualquier forma. Este dispositivo deja tus frutas impecables.",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "Suscríbete, los links están en el primer comentario. Empecemos.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0:10-0:15"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Tapas de Silicona Elásticas",
+        "productId": "prod_2",
+        "productName": "Tapas de Silicona Elásticas",
+        "filename": "B0CHZ69ZFN.mp4",
+        "content": [
+          "Guardar sobras en la nevera con film plástico es un caos. Las Tapas de Silicona Elásticas se ajustan a cualquier recipiente, sellando herméticamente. Son reutilizables y aptas para lavavajillas.",
+          "Su precio actual en Amazon ronda los... 20 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Tapas de Silicona Elásticas"
+        ],
+        "duration": 25,
+        "precio": null,
+        "videoPath": null
+      },
+      {
+        "type": "content",
+        "title": "Limpiador de Frutas Inalámbrico",
+        "productId": "prod_3",
+        "productName": "Limpiador de Frutas Inalámbrico",
+        "filename": "B0FBR9XKHX.mp4",
+        "content": [
+          "Lavar frutas a mano puede dejar residuos peligrosos. El Limpiador de Frutas Inalámbrico elimina pesticidas de forma eficiente y sin químicos. Funciona con pulsos ultrasónicos en segundos.",
+          "Su precio actual en Amazon ronda los... 25 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Limpiador de Frutas Inalámbrico"
+        ],
+        "duration": 25,
+        "precio": null,
+        "videoPath": null
+      }
+    ],
+    "totalDuration": 50
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "Dale like y recuerda que los links están en el primer comentario."
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:20",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "para",
+    "mejorar",
+    "alcoba",
+    "instante"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 2 Gadgets para Mejorar tu Alcoba en un Instante",
+      "angle": "Top 3 Gadgets para Mejorar tu Alcoba en un Instante",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 2,
+      "introScript": "¿Quieres transformar tu alcoba con gadgets innovadores? Descubre el cortador y balanza plegable que ahorra espacio, las tapas de silicona elásticas que mantienen la frescura, y un revolucionario limpiador de frutas inalámbrico. Estos productos harán tu vida más sencilla y organizada de maneras sorprendentes.",
+      "keywords": [
+        "gadgets",
+        "para",
+        "mejorar",
+        "alcoba",
+        "instante"
+      ],
+      "estimatedViews": 5319,
+      "bestPublishTime": "2026-04-22T19:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "id": "B0CX49B2SJ",
+          "nombre": "Tapas de Silicona Elásticas",
+          "filename": "B0CX49B2SJ.mp4",
+          "precio": 20,
+          "searchTermEn": "Tapas de Silicona Elásticas"
+        },
+        {
+          "id": "B0BB9CNVDX",
+          "nombre": "Limpiador de Frutas Inalámbrico",
+          "filename": "B0BB9CNVDX.mp4",
+          "precio": 25,
+          "searchTermEn": "Limpiador de Frutas Inalámbrico"
+        }
+      ],
+      "_sourceFile": "productos_locales.json",
+      "createdAt": "2026-04-16T20:12:40.381Z",
+      "_requestedCount": 5,
+      "_adaptedCount": 2,
+      "_adaptationNote": "ATENCIÓN: El usuario pidió 5 productos pero solo hay 2 clips de video disponibles. El guion, título y narrativa deben referirse EXCLUSIVAMENTE a 2 productos.",
+      "_scriptNonce": "nonce_1776370601593_v717zi"
+    },
+    "generatedAt": "2026-04-16T20:16:46.556Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "id": "B0CX49B2SJ",
+        "nombre": "Tapas de Silicona Elásticas",
+        "filename": "B0CX49B2SJ.mp4",
+        "precio": 20,
+        "searchTermEn": "Tapas de Silicona Elásticas"
+      },
+      {
+        "id": "B0BB9CNVDX",
+        "nombre": "Limpiador de Frutas Inalámbrico",
+        "filename": "B0BB9CNVDX.mp4",
+        "precio": 25,
+        "searchTermEn": "Limpiador de Frutas Inalámbrico"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 2 Gadgets para Mejorar tu Alcoba en un Instante\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\nEstas tapas se adaptan a cualquier forma. Este dispositivo deja tus frutas impecables.\n\n[0:10-0:15] INTRODUCTION\nSuscríbete, los links están en el primer comentario. Empecemos.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] TAPAS DE SILICONA ELÁSTICAS\nGuardar sobras en la nevera con film plástico es un caos. Las Tapas de Silicona Elásticas se ajustan a cualquier recipiente, sellando herméticamente. Son reutilizables y aptas para lavavajillas.\nSu precio actual en Amazon ronda los... 20 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Tapas de Silicona Elásticas]\n\n[0:25] LIMPIADOR DE FRUTAS INALÁMBRICO\nLavar frutas a mano puede dejar residuos peligrosos. El Limpiador de Frutas Inalámbrico elimina pesticidas de forma eficiente y sin químicos. Funciona con pulsos ultrasónicos en segundos.\nSu precio actual en Amazon ronda los... 25 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Limpiador de Frutas Inalámbrico]\n\n[10 seconds] CONCLUSION\nDale like y recuerda que los links están en el primer comentario.\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:20\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, para, mejorar, alcoba, instante\n"
+}

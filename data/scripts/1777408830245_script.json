@@ -1,0 +1,171 @@
+{
+  "title": "Top 3 Gadgets Tecnológicos para Crear tu Espacio Futurista",
+  "hook": {
+    "type": "statement",
+    "text": "Una planta que desafía la gravedad. Este gadget analiza tus sueños. Luces led que cambian de color al instante.",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "Suscríbete, los links están en el primer comentario. Empecemos.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0:10-0:15"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Flyte Levitating Plant",
+        "productId": "B091WYF4XF",
+        "productName": "Flyte Levitating Plant",
+        "filename": "B091WYF4XF.mp4",
+        "content": [
+          "Las plantas tradicionales requieren espacio y cuidado constante. La Flyte Levitating Plant no solo revoluciona el diseño interior, sino que flota mágicamente en el aire. Es un punto focal impresionante para cualquier habitación.",
+          "Su precio actual en Amazon ronda los... 67 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Flyte Levitating Plant"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B091WYF4XF.mp4",
+        "precio": "$67",
+        "productPhoto": "https://m.media-amazon.com/images/I/719ZWwqpWNL.jpg"
+      },
+      {
+        "type": "content",
+        "title": "Withings Sleep Analyzer",
+        "productId": "B078Z1B34S",
+        "productName": "Withings Sleep Analyzer",
+        "filename": "B078Z1B34S.mp4",
+        "content": [
+          "Dormir mal afecta todo tu día. Withings Sleep Analyzer monitoriza tus patrones de sueño con precisión médica para que puedas optimizar tu descanso. Simplemente colócalo bajo tu colchón y olvídate de él.",
+          "Su precio actual en Amazon ronda los... 200 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Withings Sleep Analyzer"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B078Z1B34S.mp4",
+        "precio": "$200",
+        "productPhoto": "https://m.media-amazon.com/images/I/81aeQzO0HeL.jpg"
+      },
+      {
+        "type": "content",
+        "title": "LIFX Z LED Strip",
+        "productId": "B08FWH238Y",
+        "productName": "LIFX Z LED Strip",
+        "filename": "B08FWH238Y.mp4",
+        "content": [
+          "Crear ambientes con iluminación convencional puede ser aburrido y limitado. La LIFX Z LED Strip transforma cualquier espacio con su iluminación multicolor y control desde tu smartphone. Ajusta el ambiente a tu estado de ánimo con un toque.",
+          "Su precio actual en Amazon ronda los... 50 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: LIFX Z LED Strip"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B08FWH238Y.mp4",
+        "precio": "$50",
+        "productPhoto": "https://m.media-amazon.com/images/I/81VL9KVCfmL.jpg"
+      }
+    ],
+    "totalDuration": 75
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "Dale like al video y recuerda que los links están en el primer comentario."
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:45",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "tecnolgicos",
+    "para",
+    "crear",
+    "espacio",
+    "futurista"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 3 Gadgets Tecnológicos para Crear tu Espacio Futurista",
+      "angle": "Top 3 Gadgets Tecnológicos para Crear tu Espacio Futurista",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 3,
+      "introScript": "¿Una maceta que levita en el aire? ¿Un reloj que te controla el sueño? Estos gadgets están revolucionando tu espacio personal. Descubre cómo transformar tu entorno con tecnología que parece salida de una película de ciencia ficción.",
+      "keywords": [
+        "gadgets",
+        "tecnolgicos",
+        "para",
+        "crear",
+        "espacio",
+        "futurista"
+      ],
+      "estimatedViews": 3633,
+      "bestPublishTime": "2026-05-01T20:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Flyte Levitating Plant",
+          "searchTermEn": "Flyte levitating plant pot",
+          "id": "B091WYF4XF",
+          "filename": "B091WYF4XF.mp4"
+        },
+        {
+          "nombre": "Withings Sleep Analyzer",
+          "searchTermEn": "Withings sleep analyzer",
+          "id": "B078Z1B34S",
+          "filename": "B078Z1B34S.mp4"
+        },
+        {
+          "nombre": "LIFX Z LED Strip",
+          "searchTermEn": "LIFX Z LED smart lighting",
+          "id": "B08FWH238Y",
+          "filename": "B08FWH238Y.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-04-28T20:37:55.778Z",
+      "_requestedCount": 3,
+      "_adaptedCount": 3,
+      "_scriptNonce": "nonce_1777408812526_vv4o7z"
+    },
+    "generatedAt": "2026-04-28T20:40:18.125Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Flyte Levitating Plant",
+        "searchTermEn": "Flyte levitating plant pot",
+        "id": "B091WYF4XF",
+        "filename": "B091WYF4XF.mp4"
+      },
+      {
+        "nombre": "Withings Sleep Analyzer",
+        "searchTermEn": "Withings sleep analyzer",
+        "id": "B078Z1B34S",
+        "filename": "B078Z1B34S.mp4"
+      },
+      {
+        "nombre": "LIFX Z LED Strip",
+        "searchTermEn": "LIFX Z LED smart lighting",
+        "id": "B08FWH238Y",
+        "filename": "B08FWH238Y.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 3 Gadgets Tecnológicos para Crear tu Espacio Futurista\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\nUna planta que desafía la gravedad. Este gadget analiza tus sueños. Luces led que cambian de color al instante.\n\n[0:10-0:15] INTRODUCTION\nSuscríbete, los links están en el primer comentario. Empecemos.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] FLYTE LEVITATING PLANT\nLas plantas tradicionales requieren espacio y cuidado constante. La Flyte Levitating Plant no solo revoluciona el diseño interior, sino que flota mágicamente en el aire. Es un punto focal impresionante para cualquier habitación.\nSu precio actual en Amazon ronda los... 67 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Flyte Levitating Plant]\n\n[0:25] WITHINGS SLEEP ANALYZER\nDormir mal afecta todo tu día. Withings Sleep Analyzer monitoriza tus patrones de sueño con precisión médica para que puedas optimizar tu descanso. Simplemente colócalo bajo tu colchón y olvídate de él.\nSu precio actual en Amazon ronda los... 200 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Withings Sleep Analyzer]\n\n[0:25] LIFX Z LED STRIP\nCrear ambientes con iluminación convencional puede ser aburrido y limitado. La LIFX Z LED Strip transforma cualquier espacio con su iluminación multicolor y control desde tu smartphone. Ajusta el ambiente a tu estado de ánimo con un toque.\nSu precio actual en Amazon ronda los... 50 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: LIFX Z LED Strip]\n\n[10 seconds] CONCLUSION\nDale like al video y recuerda que los links están en el primer comentario.\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:45\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, tecnolgicos, para, crear, espacio, futurista\n"
+}

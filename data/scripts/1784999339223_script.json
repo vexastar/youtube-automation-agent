@@ -1,0 +1,132 @@
+{
+  "title": "Top 1 Herramienta Esencial para la Granja",
+  "hook": {
+    "type": "statement",
+    "text": "",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "25s-35s"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Soil Master Tester",
+        "productId": "B0DF4TB93J",
+        "productName": "Soil Master Tester",
+        "filename": "B0DF4TB93J.mp4",
+        "asin": "B0DF4TB93J",
+        "videoDuration": 44.645867,
+        "estimatedAudioSeconds": 32,
+        "framework": "problema_solucion",
+        "narracionSegments": null,
+        "content": [
+          "¿No sabes cuándo regar tus plantas? Descubre el Soil Master Tester; control en tus manos. Este medidor mide humedad, pH, temperatura y luz solar. Funciona rápido con pantalla LCD retroiluminada... incluso de noche. Inserta la sonda diez centímetros en el suelo; espera diez segundos y obtén datos precisos. Su cabeza rotativa te permite ver la pantalla sin agacharte. Evita dañar tus plantas; mide cinco ubicaciones para mayor precisión.",
+          "Su precio actual ronda los treinta y tres dólares. Link en comentarios."
+        ],
+        "visuals": [
+          "Product image: Soil Master Tester"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0DF4TB93J.mp4",
+        "precio": "$33",
+        "productPhoto": "https://m.media-amazon.com/images/I/61UgGNX3GmL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "【4 en 1 función】Este es un medidor de suelo multifuncional 4 en 1. Nuestro medidor de suelo mide rápidamente la humedad del suelo, el pH, la temperatura y la luz solar para ayudarte a cuidar mejor de las flores y plantas. Puedes saber cuándo necesitas regar tu suelo midiendo la humedad y el valor de pH y temperatura del suelo, así como el nivel de luz solar de las plantas con él.",
+          "【Pantalla Grande y LCD Retroiluminada】El Tester de Suelo utiliza una pantalla LCD grande y retroiluminación blanca para mostrar y leer cómodamente los parámetros digitales tanto de día como de noche. Utiliza baterías AAA 1.5V * 4 (no incluidas), y emitirá una alerta cuando la batería esté baja.",
+          "【Medición rápida y precisa】La última tecnología de detección de sondas en 2024 puede medir rápida y precisamente el pH, la humedad y la temperatura en el suelo. Con la intensidad de luz del análisis del sensor de luz en el instrumento, te permite saber cuándo regar, controlar la acidez del pH y la temperatura, y determinar si las plantas tienen suficiente luz para cultivar las plantas de manera más científica.",
+          "【Fácil de usar】Simplemente inserte la sonda en el suelo a unos 4 inches (10cm), espere 10 segundos para leer los datos intuitivos, y obtendrá una lectura precisa y exacta de inmediato. (Este medidor de suelo no se puede usar directamente para probar ningún líquido. Al medir el suelo, si el suelo está demasiado seco, no lo inserte en un suelo seco y duro. Antes de realizar la prueba, riegue el área de prueba del suelo y espere 10 minutos, de lo contrario, la máquina de prueba se dañará.) Al probar el pH del suelo y la humedad, necesita leer datos de al menos 5 ubicaciones en el suelo. El valor promedio de todos los datos será el pH final del suelo y la humedad.",
+          "【Más conveniente para leer】El contenido de la pantalla adopta un diseño de contenido visual, lo que te ayuda a leer los datos a través de valores específicos y gráficos fáciles de entender, de modo que incluso los cultivadores novatos puedan comprender fácilmente las condiciones de su suelo. El diseño de la cabeza rotativa de 45° te permite inclinar la cabeza de 0° a 45°, lo que te permite ver fácilmente el contenido de la pantalla sin necesidad de agacharte."
+        ]
+      }
+    ],
+    "totalDuration": 40
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      ""
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:10",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "herramienta",
+    "esencial",
+    "para",
+    "granja"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 1 Herramienta Esencial para la Granja",
+      "angle": "Top 1 Herramienta Esencial para la Granja",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 1,
+      "introScript": "Imagina una herramienta que transforma la forma en que trabajas en tu granja. ¿Un dispositivo que mide la calidad del suelo en cuestión de segundos? ¿Un gadget que automatiza el riego sin que muevas un dedo? Hoy, descubrirás un innovador producto que promete revolucionar el mundo agrícola con tecnología avanzada. Si eres amante de la agricultura o simplemente curioso sobre cómo la tecnología está cambiando el campo, no te puedes perder lo que viene a continuación.",
+      "keywords": [
+        "herramienta",
+        "esencial",
+        "para",
+        "granja"
+      ],
+      "estimatedViews": 5965,
+      "bestPublishTime": "2026-07-29T19:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Soil Master Tester",
+          "searchTermEn": "Soil Master Tester meter",
+          "id": "B0DF4TB93J",
+          "filename": "B0DF4TB93J.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-07-25T17:07:03.556Z",
+      "_requestedCount": 1,
+      "_adaptedCount": 1,
+      "introProductsOrder": [
+        {
+          "nombre": "Soil Master Tester",
+          "id": "B0DF4TB93J",
+          "filename": "B0DF4TB93J.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0DF4TB93J.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1784999319547_94vcmw"
+    },
+    "generatedAt": "2026-07-25T17:08:46.728Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Soil Master Tester",
+        "searchTermEn": "Soil Master Tester meter",
+        "id": "B0DF4TB93J",
+        "filename": "B0DF4TB93J.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 1 Herramienta Esencial para la Granja\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\n\n\n[25s-35s] INTRODUCTION\n\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] SOIL MASTER TESTER\n¿No sabes cuándo regar tus plantas? Descubre el Soil Master Tester; control en tus manos. Este medidor mide humedad, pH, temperatura y luz solar. Funciona rápido con pantalla LCD retroiluminada... incluso de noche. Inserta la sonda diez centímetros en el suelo; espera diez segundos y obtén datos precisos. Su cabeza rotativa te permite ver la pantalla sin agacharte. Evita dañar tus plantas; mide cinco ubicaciones para mayor precisión.\nSu precio actual ronda los treinta y tres dólares. Link en comentarios.\n\n[VISUALS: Product image: Soil Master Tester]\n\n[10 seconds] CONCLUSION\n\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:10\nTONE: engaging\nPACING: quick\nKEYWORDS: herramienta, esencial, para, granja\n"
+}

@@ -1,0 +1,132 @@
+{
+  "title": "Top 1 Gadget para Transformar tu Cocina",
+  "hook": {
+    "type": "statement",
+    "text": "",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "25s-35s"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Magnetic Knife Holder",
+        "productId": "B07ZY4S51Z",
+        "productName": "Magnetic Knife Holder",
+        "filename": "B07ZY4S51Z.mp4",
+        "asin": "B07ZY4S51Z",
+        "videoDuration": 55.354933,
+        "estimatedAudioSeconds": 36,
+        "framework": "experiencia_sensorial",
+        "narracionSegments": null,
+        "content": [
+          "¿Cansado de cuchillos desordenados? El soporte magnético de cuchillos transforma tu cocina con succión magnética fuerte y doble cara. Protege tus herramientas. Adsorción de calidad. Coloca los cuchillos; se adhieren mágicamente. La base antideslizante asegura estabilidad; no temas deslizamientos. Hecho con madera de Acacia natural, su superficie suave es fácil de limpiar. Sin necesidad de instalarlo; simplemente muévelo a tu gusto. Desliza el cuchillo y siente la seguridad... Experimenta la elegancia y funcionalidad en un solo producto.",
+          "Su precio actual ronda los treinta y ocho dólares. Link en comentarios."
+        ],
+        "visuals": [
+          "Product image: Magnetic Knife Holder"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07ZY4S51Z.mp4",
+        "precio": "$38",
+        "productPhoto": "https://m.media-amazon.com/images/I/61DeBGUGzNL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "\"\"\"SUCCIÓN MAGNÉTICA FUERTE Y DOBLE CARA: Uso de doble cara, super capacidad, soporte magnético de alta calidad oculto en un fuerte y duradero imán de neodimio, fuerte adsorción, sin necesidad de preocuparse por caídas, fuerte y duradero, protección ambiental, para crear una cocina verde y ecológica.\"\"\"",
+          "BASE ANTIDESLIZANTE, ESTABLE Y FIRME: El diseño antideslizante único en la parte inferior aumenta el grosor de la base, haciendo que la colocación de la herramienta sea más arbitraria y estable, y no hay necesidad de preocuparse por deslizamientos o movimientos.",
+          "LA FORMA ES SIMPLE Y FÁCIL DE LIMPIAR: La superficie está tratada con aceite vegetal natural, la superficie es suave, la madera es delicada y no hay ángulos muertos de sanidad. Se puede limpiar con un trapo.",
+          "MATERIAL DE MADERA MACIZA, MATERIAL DE MADERA DE ACACIA: Una buena base para cuchillos proviene de buena madera, hecha de madera de Acacia que crece de forma natural en la naturaleza, con una textura cálida y una textura fina.",
+          "\".NO HAY NECESIDAD DE INSTALAR, FÁCIL DE MOVER: Para que ahorres los tediosos pasos de instalación, puedes colocarla como desees y moverla como desees. El producto es muy seguro para la hoja del cuchillo que pretendes colocar, ya que la hoja solo contacta con la madera, por lo que se mantiene afilada para prevenir daños.\""
+        ]
+      }
+    ],
+    "totalDuration": 40
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      ""
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:10",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadget",
+    "para",
+    "transformar",
+    "cocina"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 1 Gadget para Transformar tu Cocina",
+      "angle": "Top 1 Gadget para Transformar tu Cocina",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 1,
+      "introScript": "¿Alguna vez imaginaste un gadget que puede transformar tu manera de cocinar en minutos? Hoy te presento un invento revolucionario que no solo organiza tus utensilios de cocina, sino que también te ofrece una experiencia culinaria sin precedentes. Prepárate para conocer un producto que ha dejado boquiabiertos a miles de usuarios en todo el mundo. Si eres amante de la cocina, este es un video que no te puedes perder. Descubre cómo un simple accesorio puede cambiarlo todo, llevándote de lo cotidiano a lo extraordinario.",
+      "keywords": [
+        "gadget",
+        "para",
+        "transformar",
+        "cocina"
+      ],
+      "estimatedViews": 5281,
+      "bestPublishTime": "2026-07-30T19:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Magnetic Knife Holder",
+          "searchTermEn": "magnetic knife holder kitchen",
+          "id": "B07ZY4S51Z",
+          "filename": "B07ZY4S51Z.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-07-25T02:05:41.234Z",
+      "_requestedCount": 1,
+      "_adaptedCount": 1,
+      "introProductsOrder": [
+        {
+          "nombre": "Magnetic Knife Holder",
+          "id": "B07ZY4S51Z",
+          "filename": "B07ZY4S51Z.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07ZY4S51Z.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1784945362410_p688jv"
+    },
+    "generatedAt": "2026-07-25T02:09:29.172Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Magnetic Knife Holder",
+        "searchTermEn": "magnetic knife holder kitchen",
+        "id": "B07ZY4S51Z",
+        "filename": "B07ZY4S51Z.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 1 Gadget para Transformar tu Cocina\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\n\n\n[25s-35s] INTRODUCTION\n\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] MAGNETIC KNIFE HOLDER\n¿Cansado de cuchillos desordenados? El soporte magnético de cuchillos transforma tu cocina con succión magnética fuerte y doble cara. Protege tus herramientas. Adsorción de calidad. Coloca los cuchillos; se adhieren mágicamente. La base antideslizante asegura estabilidad; no temas deslizamientos. Hecho con madera de Acacia natural, su superficie suave es fácil de limpiar. Sin necesidad de instalarlo; simplemente muévelo a tu gusto. Desliza el cuchillo y siente la seguridad... Experimenta la elegancia y funcionalidad en un solo producto.\nSu precio actual ronda los treinta y ocho dólares. Link en comentarios.\n\n[VISUALS: Product image: Magnetic Knife Holder]\n\n[10 seconds] CONCLUSION\n\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:10\nTONE: engaging\nPACING: quick\nKEYWORDS: gadget, para, transformar, cocina\n"
+}

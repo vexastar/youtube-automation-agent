@@ -1,0 +1,167 @@
+{
+  "title": "Top 3 Gadgets Tecnológicos Asombrosos de 2026",
+  "hook": {
+    "type": "statement",
+    "text": "Esta cartera organiza tus tarjetas en un clic. Este cuaderno digitaliza notas al instante. Esta lámpara flota mágicamente en el aire.",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "Suscríbete, los links están en el primer comentario. Empecemos.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0:10-0:15"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Ekster Parliament Wallet",
+        "productId": "B07PXM8HX7",
+        "productName": "Ekster Parliament Wallet",
+        "filename": "B07PXM8HX7.mp4",
+        "content": [
+          "Perder tiempo buscando tarjetas en tu cartera es frustrante. La Ekster Parliament Wallet las organiza con un simple botón, dándote acceso rápido y fácil. Además, tiene un sistema de protección RFID para mantener tus datos seguros.",
+          "Su precio actual en Amazon ronda los... 99 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Ekster Parliament Wallet"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07PXM8HX7.mp4",
+        "precio": "$99",
+        "productPhoto": "https://m.media-amazon.com/images/I/51RE47h+DGL.jpg"
+      },
+      {
+        "type": "content",
+        "title": "Rocketbook Smart Notebook",
+        "productId": "B0DP3HLY4J",
+        "productName": "Rocketbook Smart Notebook",
+        "filename": "B0DP3HLY4J.mp4",
+        "content": [
+          "Tomar notas en papel y digitalizarlas es un tedioso doble trabajo. El Rocketbook Smart Notebook te permite escribir y luego subir tus notas a la nube con solo escanearlas. Reutilizable, se limpia con un paño húmedo para usarlo una y otra vez.",
+          "Su precio actual en Amazon ronda los... 24 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Rocketbook Smart Notebook"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0DP3HLY4J.mp4",
+        "precio": "$24",
+        "productPhoto": "https://m.media-amazon.com/images/I/81txybq7ShL.jpg"
+      },
+      {
+        "type": "content",
+        "title": "Lámpara Magnética Levitación",
+        "productId": "B09833QPYR",
+        "productName": "Lámpara Magnética Levitación",
+        "filename": "B09833QPYR.mp4",
+        "content": [
+          "Una luz común y corriente no sorprende a nadie. La Lámpara Magnética Levitación flota en el aire, creando una atmósfera futurista en cualquier habitación. Funciona con tecnología de levitación magnética, haciendo que parezca magia.",
+          "Su precio actual en Amazon ronda los... 63 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Lámpara Magnética Levitación"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B09833QPYR.mp4",
+        "precio": "$63",
+        "productPhoto": "https://m.media-amazon.com/images/I/71zK+2otJ0L.jpg"
+      }
+    ],
+    "totalDuration": 75
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "Dale like y recuerda que los links están en el primer comentario."
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:45",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "tecnolgicos",
+    "asombrosos",
+    "2026"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 3 Gadgets Tecnológicos Asombrosos de 2026",
+      "angle": "Top 3 Gadgets Tecnológicos Asombrosos de 2026",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 3,
+      "introScript": "¿Una cartera que evita el robo de datos con un solo clic? ¿Un cuaderno que puedes reutilizar infinitamente? Descubre las innovaciones más sorprendentes que están revolucionando la tecnología ahora mismo.",
+      "keywords": [
+        "gadgets",
+        "tecnolgicos",
+        "asombrosos",
+        "2026"
+      ],
+      "estimatedViews": 5999,
+      "bestPublishTime": "2026-05-03T15:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Ekster Parliament Wallet",
+          "searchTermEn": "ekster parliament wallet",
+          "id": "B07PXM8HX7",
+          "filename": "B07PXM8HX7.mp4"
+        },
+        {
+          "nombre": "Rocketbook Smart Notebook",
+          "searchTermEn": "rocketbook smart notebook",
+          "id": "B0DP3HLY4J",
+          "filename": "B0DP3HLY4J.mp4"
+        },
+        {
+          "nombre": "Lámpara Magnética Levitación",
+          "searchTermEn": "magnetic levitation lamp",
+          "id": "B09833QPYR",
+          "filename": "B09833QPYR.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-04-29T17:20:49.736Z",
+      "_requestedCount": 3,
+      "_adaptedCount": 3,
+      "_scriptNonce": "nonce_1777483430921_xiz3yk"
+    },
+    "generatedAt": "2026-04-29T17:23:56.206Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Ekster Parliament Wallet",
+        "searchTermEn": "ekster parliament wallet",
+        "id": "B07PXM8HX7",
+        "filename": "B07PXM8HX7.mp4"
+      },
+      {
+        "nombre": "Rocketbook Smart Notebook",
+        "searchTermEn": "rocketbook smart notebook",
+        "id": "B0DP3HLY4J",
+        "filename": "B0DP3HLY4J.mp4"
+      },
+      {
+        "nombre": "Lámpara Magnética Levitación",
+        "searchTermEn": "magnetic levitation lamp",
+        "id": "B09833QPYR",
+        "filename": "B09833QPYR.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 3 Gadgets Tecnológicos Asombrosos de 2026\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\nEsta cartera organiza tus tarjetas en un clic. Este cuaderno digitaliza notas al instante. Esta lámpara flota mágicamente en el aire.\n\n[0:10-0:15] INTRODUCTION\nSuscríbete, los links están en el primer comentario. Empecemos.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] EKSTER PARLIAMENT WALLET\nPerder tiempo buscando tarjetas en tu cartera es frustrante. La Ekster Parliament Wallet las organiza con un simple botón, dándote acceso rápido y fácil. Además, tiene un sistema de protección RFID para mantener tus datos seguros.\nSu precio actual en Amazon ronda los... 99 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Ekster Parliament Wallet]\n\n[0:25] ROCKETBOOK SMART NOTEBOOK\nTomar notas en papel y digitalizarlas es un tedioso doble trabajo. El Rocketbook Smart Notebook te permite escribir y luego subir tus notas a la nube con solo escanearlas. Reutilizable, se limpia con un paño húmedo para usarlo una y otra vez.\nSu precio actual en Amazon ronda los... 24 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Rocketbook Smart Notebook]\n\n[0:25] LÁMPARA MAGNÉTICA LEVITACIÓN\nUna luz común y corriente no sorprende a nadie. La Lámpara Magnética Levitación flota en el aire, creando una atmósfera futurista en cualquier habitación. Funciona con tecnología de levitación magnética, haciendo que parezca magia.\nSu precio actual en Amazon ronda los... 63 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Lámpara Magnética Levitación]\n\n[10 seconds] CONCLUSION\nDale like y recuerda que los links están en el primer comentario.\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:45\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, tecnolgicos, asombrosos, 2026\n"
+}

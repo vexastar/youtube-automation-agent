@@ -1,0 +1,240 @@
+{
+  "title": "Top 6 Gadgets de Cocina que se Agotan",
+  "hook": {
+    "type": "statement",
+    "text": "Vista rápida de gadgets en acción. Teaser 2. Teaser 3. Y mira lo que hace este otro gadget en acción. Y mira lo que hace este otro gadget en acción. Y mira lo que hace este otro gadget en acción.",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "Suscríbete. Los links están en el primer comentario.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0:10-0:15"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Ekster Parliament Wallet",
+        "productId": "prod_1",
+        "productName": "Ekster Parliament Wallet",
+        "filename": "B07PVMK5NJ.mp4",
+        "asin": "B07PVMK5NJ",
+        "clipDuration": null,
+        "estimatedAudioSeconds": 9,
+        "framework": "comparacion_precio",
+        "narracionSegments": null,
+        "content": [
+          "Breve narración sobre Ekster Parliament Wallet destacando su mejor característica.",
+          "Su precio actual en Amazon ronda los... 89 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Ekster Parliament Wallet"
+        ],
+        "duration": 25,
+        "precio": "$89"
+      },
+      {
+        "type": "content",
+        "title": "Rocketbook Smart Notebook",
+        "productId": "prod_2",
+        "productName": "Rocketbook Smart Notebook",
+        "filename": "B0DP3HRDC2.mp4",
+        "asin": "B0DP3HRDC2",
+        "clipDuration": null,
+        "estimatedAudioSeconds": 9,
+        "framework": "dato_numerico",
+        "narracionSegments": null,
+        "content": [
+          "Breve narración sobre Rocketbook Smart Notebook destacando su mejor característica.",
+          "Su precio actual en Amazon ronda los... 35 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Rocketbook Smart Notebook"
+        ],
+        "duration": 25,
+        "precio": "$35"
+      },
+      {
+        "type": "content",
+        "title": "Snapods Auriculares Magnéticos",
+        "productId": "prod_3",
+        "productName": "Snapods Auriculares Magnéticos",
+        "filename": "B0FZT9D21Y.mp4",
+        "asin": "B0FZT9D21Y",
+        "clipDuration": null,
+        "estimatedAudioSeconds": 9,
+        "framework": "experiencia_sensorial",
+        "narracionSegments": null,
+        "content": [
+          "Breve narración sobre Snapods Auriculares Magnéticos destacando su mejor característica.",
+          "Su precio actual en Amazon ronda los... 80 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Snapods Auriculares Magnéticos"
+        ],
+        "duration": 25,
+        "precio": "$80"
+      },
+      {
+        "type": "content",
+        "title": "Nebula Capsule Proyector",
+        "productId": "prod_4",
+        "productName": "Nebula Capsule Proyector",
+        "filename": "B0CHW11C8H.mp4",
+        "asin": "B0CHW11C8H",
+        "clipDuration": null,
+        "estimatedAudioSeconds": 9,
+        "framework": "problema_solucion",
+        "narracionSegments": null,
+        "content": [
+          "Breve narración sobre Nebula Capsule Proyector destacando su mejor característica.",
+          "Su precio actual en Amazon ronda los... 349 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Nebula Capsule Proyector"
+        ],
+        "duration": 25,
+        "precio": "$349"
+      },
+      {
+        "type": "content",
+        "title": "Tile Pro Rastreador Bluetooth",
+        "productId": "prod_5",
+        "productName": "Tile Pro Rastreador Bluetooth",
+        "filename": "B0D637HWC5.mp4",
+        "asin": "B0D637HWC5",
+        "clipDuration": null,
+        "estimatedAudioSeconds": 10,
+        "framework": "enfoque_caracteristica",
+        "narracionSegments": null,
+        "content": [
+          "Breve narración sobre Tile Pro Rastreador Bluetooth destacando su mejor característica.",
+          "Su precio actual en Amazon ronda los... 35 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Tile Pro Rastreador Bluetooth"
+        ],
+        "duration": 25,
+        "precio": "$35"
+      },
+      {
+        "type": "content",
+        "title": "Oura Ring Monitor Salud",
+        "productId": "prod_6",
+        "productName": "Oura Ring Monitor Salud",
+        "filename": "B0D9WT1S2T.mp4",
+        "asin": "B0D9WT1S2T",
+        "clipDuration": null,
+        "estimatedAudioSeconds": 10,
+        "framework": "beneficio_oculto",
+        "narracionSegments": null,
+        "content": [
+          "Breve narración sobre Oura Ring Monitor Salud destacando su mejor característica.",
+          "Su precio actual en Amazon ronda los... 299 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Oura Ring Monitor Salud"
+        ],
+        "duration": 25,
+        "precio": "$299"
+      }
+    ],
+    "totalDuration": 150
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "Dale like y recuerda que los links están en el primer comentario."
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "3:00",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 6 Gadgets de Cocina que se Agotan",
+      "productos": [
+        {
+          "nombre": "Ekster Parliament Wallet",
+          "id": "prod_1",
+          "filename": "B07PVMK5NJ.mp4"
+        },
+        {
+          "nombre": "Rocketbook Smart Notebook",
+          "id": "prod_2",
+          "filename": "B0DP3HRDC2.mp4"
+        },
+        {
+          "nombre": "Snapods Auriculares Magnéticos",
+          "id": "prod_3",
+          "filename": "B0FZT9D21Y.mp4"
+        },
+        {
+          "nombre": "Nebula Capsule Proyector",
+          "id": "prod_4",
+          "filename": "B0CHW11C8H.mp4"
+        },
+        {
+          "nombre": "Tile Pro Rastreador Bluetooth",
+          "id": "prod_5",
+          "filename": "B0D637HWC5.mp4"
+        },
+        {
+          "nombre": "Oura Ring Monitor Salud",
+          "id": "prod_6",
+          "filename": "B0D9WT1S2T.mp4"
+        }
+      ],
+      "numProductos": 6
+    },
+    "generatedAt": "2026-05-29T00:32:01.803Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Ekster Parliament Wallet",
+        "id": "prod_1",
+        "filename": "B07PVMK5NJ.mp4"
+      },
+      {
+        "nombre": "Rocketbook Smart Notebook",
+        "id": "prod_2",
+        "filename": "B0DP3HRDC2.mp4"
+      },
+      {
+        "nombre": "Snapods Auriculares Magnéticos",
+        "id": "prod_3",
+        "filename": "B0FZT9D21Y.mp4"
+      },
+      {
+        "nombre": "Nebula Capsule Proyector",
+        "id": "prod_4",
+        "filename": "B0CHW11C8H.mp4"
+      },
+      {
+        "nombre": "Tile Pro Rastreador Bluetooth",
+        "id": "prod_5",
+        "filename": "B0D637HWC5.mp4"
+      },
+      {
+        "nombre": "Oura Ring Monitor Salud",
+        "id": "prod_6",
+        "filename": "B0D9WT1S2T.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 6 Gadgets de Cocina que se Agotan\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\nVista rápida de gadgets en acción. Teaser 2. Teaser 3. Y mira lo que hace este otro gadget en acción. Y mira lo que hace este otro gadget en acción. Y mira lo que hace este otro gadget en acción.\n\n[0:10-0:15] INTRODUCTION\nSuscríbete. Los links están en el primer comentario.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] EKSTER PARLIAMENT WALLET\nBreve narración sobre Ekster Parliament Wallet destacando su mejor característica.\nSu precio actual en Amazon ronda los... 89 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Ekster Parliament Wallet]\n\n[0:25] ROCKETBOOK SMART NOTEBOOK\nBreve narración sobre Rocketbook Smart Notebook destacando su mejor característica.\nSu precio actual en Amazon ronda los... 35 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Rocketbook Smart Notebook]\n\n[0:25] SNAPODS AURICULARES MAGNÉTICOS\nBreve narración sobre Snapods Auriculares Magnéticos destacando su mejor característica.\nSu precio actual en Amazon ronda los... 80 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Snapods Auriculares Magnéticos]\n\n[0:25] NEBULA CAPSULE PROYECTOR\nBreve narración sobre Nebula Capsule Proyector destacando su mejor característica.\nSu precio actual en Amazon ronda los... 349 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Nebula Capsule Proyector]\n\n[0:25] TILE PRO RASTREADOR BLUETOOTH\nBreve narración sobre Tile Pro Rastreador Bluetooth destacando su mejor característica.\nSu precio actual en Amazon ronda los... 35 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Tile Pro Rastreador Bluetooth]\n\n[0:25] OURA RING MONITOR SALUD\nBreve narración sobre Oura Ring Monitor Salud destacando su mejor característica.\nSu precio actual en Amazon ronda los... 299 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Oura Ring Monitor Salud]\n\n[10 seconds] CONCLUSION\nDale like y recuerda que los links están en el primer comentario.\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 3:00\nTONE: engaging\nPACING: quick\nKEYWORDS: \n"
+}

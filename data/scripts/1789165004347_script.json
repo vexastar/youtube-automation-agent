@@ -1,0 +1,135 @@
+{
+  "title": "Top 1 Gadgets Asombrosos para Tu Coche",
+  "hook": {
+    "type": "statement",
+    "text": "Así se ve en la vida real: Garmin Dash Cam™ Mini 3.",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "Todo está en el primer comentario. Vamos.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "25s-35s"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Garmin Dash Cam™ Mini 3",
+        "productId": "B0DDM7PFLW",
+        "productName": "Garmin Dash Cam™ Mini 3",
+        "filename": "B0DDM7PFLW.mp4",
+        "asin": "B0DDM7PFLW",
+        "videoDuration": 65.801333,
+        "estimatedAudioSeconds": 30,
+        "framework": "experiencia_sensorial",
+        "narracionSegments": null,
+        "content": [
+          "Instala la Garmin Dash Cam Mini 3.; Captura momentos cruciales. Pasa desapercibida por su tamaño.,; Graba video en alta definición mil ochenta p HD.;,; Accede a detalles.; Ve con claridad gracias a la lente polarizadora Clarity.,; Almacena en el Vault en línea. Olvídate de descargas interminables.; Gestiona clips con Garmin Drive.,; Controla con tu voz. Preserva cada instante con comandos sencillos y sin esfuerzo...",
+          "Su precio actual ronda los... cien dólares. Link en comentarios."
+        ],
+        "visuals": [
+          "Product image: Garmin Dash Cam™ Mini 3"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0DDM7PFLW.mp4",
+        "precio": "$100",
+        "productPhoto": "https://m.media-amazon.com/images/I/71JA8bmxxQL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "Cámara de tablero ultracompacta del tamaño de una llave que pasa prácticamente desapercibida en su parabrisas; graba y guarda automáticamente video de incidentes con fecha y hora (algunas jurisdicciones regulan o prohíben el uso de este dispositivo).",
+          "Cámara de tablero fácil de usar que graba video nítido en 1080p HD, y un amplio campo de visión de 140 grados captura detalles en condiciones de luz brillante y baja; guarda automáticamente el video de incidentes detectados (algunas jurisdicciones regulan o prohíben el uso de este dispositivo).",
+          "\"\"\"La lente polarizadora Garmin Clarity integrada reduce el deslumbramiento del parabrisas para mostrar claramente los detalles importantes del video.\"\"\"",
+          "Ahorra tiempo y evita descargar o editar archivos de video grandes con el Vault en línea, que almacena automáticamente clips de video importantes guardados para que puedas ver y compartir con la aplicación para smartphone Garmin Drive; incluso puedes acceder a funciones avanzadas, como la vista en vivo de la dash cam (se requiere una suscripción paga a Vault y una conexión activa a una red Wi-Fi; los usuarios no pagos solo pueden ver y descargar archivos cuando están cerca de la dash cam).",
+          "El control por voz te permite usar comandos hablados para guardar video y comenzar o detener la grabación de audio (disponible en inglés, alemán, francés, español, italiano y sueco)."
+        ],
+        "originalVideoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0DDM7PFLW.mp4"
+      }
+    ],
+    "totalDuration": 40
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      ""
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:10",
+  "tone": "engaging",
+  "tone_variant": "entusiasta y acelerado, como un presentador de teletienda pero sin relleno ni repetición",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "asombrosos",
+    "para",
+    "coche"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 1 Gadgets Asombrosos para Tu Coche",
+      "angle": "Top 2 Gadgets Asombrosos para Tu Coche",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 1,
+      "introScript": "¿Te imaginas un dispositivo que convierte tu coche en un spa móvil? O quizás una herramienta que te avisa si estás a punto de chocar. Hoy te presentamos dos gadgets que no solo mejoran, sino que transforman tu experiencia al volante. Ya sea que pases horas en la carretera o simplemente quieras un viaje más cómodo, estos inventos tecnológicos te dejarán boquiabierto. Descubre cómo estos ingeniosos productos están redefiniendo la manera en que interactuamos con nuestros vehículos.",
+      "keywords": [
+        "gadgets",
+        "asombrosos",
+        "para",
+        "coche"
+      ],
+      "estimatedViews": 4008,
+      "bestPublishTime": "2026-09-13T15:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Garmin Dash Cam™ Mini 3",
+          "searchTermEn": "Garmin Dash Cam Mini 2",
+          "id": "B0DDM7PFLW",
+          "filename": "B0DDM7PFLW.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-09-11T21:53:37.950Z",
+      "_requestedCount": 2,
+      "_adaptedCount": 1,
+      "_adaptationNote": "ATENCIÓN: El usuario pidió 2 productos pero solo hay 1 clips de video disponibles. El guion, título y narrativa deben referirse EXCLUSIVAMENTE a 1 productos.",
+      "introProductsOrder": [
+        {
+          "nombre": "Garmin Dash Cam™ Mini 3",
+          "id": "B0DDM7PFLW",
+          "filename": "B0DDM7PFLW.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0DDM7PFLW.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1789164985243_lu1flr"
+    },
+    "generatedAt": "2026-09-11T22:16:31.360Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Garmin Dash Cam™ Mini 3",
+        "searchTermEn": "Garmin Dash Cam Mini 2",
+        "id": "B0DDM7PFLW",
+        "filename": "B0DDM7PFLW.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 1 Gadgets Asombrosos para Tu Coche\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\nAsí se ve en la vida real: Garmin Dash Cam™ Mini 3.\n\n[25s-35s] INTRODUCTION\nTodo está en el primer comentario. Vamos.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] GARMIN DASH CAM™ MINI 3\nInstala la Garmin Dash Cam Mini 3.; Captura momentos cruciales. Pasa desapercibida por su tamaño.,; Graba video en alta definición mil ochenta p HD.;,; Accede a detalles.; Ve con claridad gracias a la lente polarizadora Clarity.,; Almacena en el Vault en línea. Olvídate de descargas interminables.; Gestiona clips con Garmin Drive.,; Controla con tu voz. Preserva cada instante con comandos sencillos y sin esfuerzo...\nSu precio actual ronda los... cien dólares. Link en comentarios.\n\n[VISUALS: Product image: Garmin Dash Cam™ Mini 3]\n\n[10 seconds] CONCLUSION\n\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:10\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, asombrosos, para, coche\n"
+}

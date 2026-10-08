@@ -1,0 +1,172 @@
+{
+  "title": "3 gadgets para tu cocina que transformarán tu rutina",
+  "hook": {
+    "type": "statement",
+    "text": "Esta herramienta pesa y corta a la vez. Estas cubiertas sellan cualquier bol. Este dispositivo limpia tus frutas fácilmente.",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "Suscríbete, los links están en el primer comentario. Empecemos.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0:10-0:15"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Cortador y Balanza Plegable",
+        "productId": "prod_1",
+        "productName": "Cortador y Balanza Plegable",
+        "filename": "B09XLG3YQB.mp4",
+        "content": [
+          "Cortar y pesar ingredientes por separado consume tiempo valioso. El Cortador y Balanza Plegable combina ambas tareas en una. Su diseño compacto y plegable lo hace fácil de guardar.",
+          "Su precio actual en Amazon ronda los... 15 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Cortador y Balanza Plegable"
+        ],
+        "duration": 25,
+        "precio": "$15",
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B09XLG3YQB.mp4"
+      },
+      {
+        "type": "content",
+        "title": "Tapas de Silicona Elásticas",
+        "productId": "prod_2",
+        "productName": "Tapas de Silicona Elásticas",
+        "filename": "B0CHZ69ZFN.mp4",
+        "content": [
+          "Cubrir recipientes con film plástico es frustrante e ineficaz. Las Tapas de Silicona Elásticas se ajustan herméticamente a cualquier forma. Son reutilizables y aptas para lavavajillas.",
+          "Su precio actual en Amazon ronda los... 20 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Tapas de Silicona Elásticas"
+        ],
+        "duration": 25,
+        "precio": "$20",
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0CHZ69ZFN.mp4"
+      },
+      {
+        "type": "content",
+        "title": "Limpiador de Frutas Inalámbrico",
+        "productId": "prod_3",
+        "productName": "Limpiador de Frutas Inalámbrico",
+        "filename": "B0FBR9XKHX.mp4",
+        "content": [
+          "Lavar frutas a mano no siempre elimina todos los residuos. El Limpiador de Frutas Inalámbrico utiliza tecnología de ultrasonido para una limpieza profunda. Es compacto y fácil de usar en cualquier lugar.",
+          "Su precio actual en Amazon ronda los... 25 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Limpiador de Frutas Inalámbrico"
+        ],
+        "duration": 25,
+        "precio": "$25",
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0FBR9XKHX.mp4"
+      }
+    ],
+    "totalDuration": 75
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "Dale like y recuerda que los links están en el primer comentario."
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:45",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "para",
+    "cocina",
+    "transformarn",
+    "rutina"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "3 gadgets para tu cocina que transformarán tu rutina",
+      "angle": "3 gadgets para tu cocina que transformarán tu rutina",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 3,
+      "introScript": "¿Estás listo para descubrir los gadgets que darán un giro a tu cocina? Desde un cortador y balanza plegable hasta un limpiador de frutas inalámbrico, pasando por tapas de silicona elásticas, estos productos prometen revolucionar tu forma de cocinar y conservar alimentos. ¡No te lo pierdas!",
+      "keywords": [
+        "gadgets",
+        "para",
+        "cocina",
+        "transformarn",
+        "rutina"
+      ],
+      "estimatedViews": 6305,
+      "bestPublishTime": "2026-04-16T19:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "id": "B09XLG3YQB",
+          "nombre": "Cortador y Balanza Plegable",
+          "filename": "B09XLG3YQB.mp4",
+          "precio": 15,
+          "searchTermEn": "Cortador y Balanza Plegable"
+        },
+        {
+          "id": "B0CHZ69ZFN",
+          "nombre": "Tapas de Silicona Elásticas",
+          "filename": "B0CHZ69ZFN.mp4",
+          "precio": 20,
+          "searchTermEn": "Tapas de Silicona Elásticas"
+        },
+        {
+          "id": "B0FBR9XKHX",
+          "nombre": "Limpiador de Frutas Inalámbrico",
+          "filename": "B0FBR9XKHX.mp4",
+          "precio": 25,
+          "searchTermEn": "Limpiador de Frutas Inalámbrico"
+        }
+      ],
+      "_sourceFile": "productos_locales.json",
+      "createdAt": "2026-04-13T18:13:04.202Z",
+      "_requestedCount": 3,
+      "_adaptedCount": 3,
+      "_scriptNonce": "nonce_1776103984213_pkdyub"
+    },
+    "generatedAt": "2026-04-13T18:13:08.658Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "id": "B09XLG3YQB",
+        "nombre": "Cortador y Balanza Plegable",
+        "filename": "B09XLG3YQB.mp4",
+        "precio": 15,
+        "searchTermEn": "Cortador y Balanza Plegable"
+      },
+      {
+        "id": "B0CHZ69ZFN",
+        "nombre": "Tapas de Silicona Elásticas",
+        "filename": "B0CHZ69ZFN.mp4",
+        "precio": 20,
+        "searchTermEn": "Tapas de Silicona Elásticas"
+      },
+      {
+        "id": "B0FBR9XKHX",
+        "nombre": "Limpiador de Frutas Inalámbrico",
+        "filename": "B0FBR9XKHX.mp4",
+        "precio": 25,
+        "searchTermEn": "Limpiador de Frutas Inalámbrico"
+      }
+    ]
+  },
+  "fullScript": "TITLE: 3 gadgets para tu cocina que transformarán tu rutina\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\nEsta herramienta pesa y corta a la vez. Estas cubiertas sellan cualquier bol. Este dispositivo limpia tus frutas fácilmente.\n\n[0:10-0:15] INTRODUCTION\nSuscríbete, los links están en el primer comentario. Empecemos.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] CORTADOR Y BALANZA PLEGABLE\nCortar y pesar ingredientes por separado consume tiempo valioso. El Cortador y Balanza Plegable combina ambas tareas en una. Su diseño compacto y plegable lo hace fácil de guardar.\nSu precio actual en Amazon ronda los... 15 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Cortador y Balanza Plegable]\n\n[0:25] TAPAS DE SILICONA ELÁSTICAS\nCubrir recipientes con film plástico es frustrante e ineficaz. Las Tapas de Silicona Elásticas se ajustan herméticamente a cualquier forma. Son reutilizables y aptas para lavavajillas.\nSu precio actual en Amazon ronda los... 20 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Tapas de Silicona Elásticas]\n\n[0:25] LIMPIADOR DE FRUTAS INALÁMBRICO\nLavar frutas a mano no siempre elimina todos los residuos. El Limpiador de Frutas Inalámbrico utiliza tecnología de ultrasonido para una limpieza profunda. Es compacto y fácil de usar en cualquier lugar.\nSu precio actual en Amazon ronda los... 25 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Limpiador de Frutas Inalámbrico]\n\n[10 seconds] CONCLUSION\nDale like y recuerda que los links están en el primer comentario.\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:45\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, para, cocina, transformarn, rutina\n"
+}

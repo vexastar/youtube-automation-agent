@@ -1,0 +1,180 @@
+{
+  "title": "Top 2 gadgets revolucionarios para tu bicicleta",
+  "hook": {
+    "type": "statement",
+    "text": "No creerás lo que Reelight CIO Dynamo puede hacer. Fíjate en cómo Garmin Varia Radar transforma la experiencia.",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "¿Cuál querrías tú? Los links están en el primer comentario.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "25s-35s"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Garmin Varia Radar",
+        "productId": "B0GL8MWFWG",
+        "productName": "Garmin Varia Radar",
+        "filename": "B0GL8MWFWG.mp4",
+        "asin": "B0GL8MWFWG",
+        "videoDuration": 81.616133,
+        "estimatedAudioSeconds": 34,
+        "framework": "dato_numerico",
+        "narracionSegments": null,
+        "content": [
+          "¿Seguridad sobre ruedas? ¿Dos kilómetros de alcance? ¿Duración de la batería inigualable? ¡El Garmin Varia Radar te sorprende! Emite alertas cuando vehículos se acercan desde atrás. Incluso, funciona hasta a dos kilómetros; una luz trasera garantiza que te vean. Obtén hasta treinta horas en modo radar. Conecta con tu computadora Edge o teléfono inteligente; recibe alertas para coches pequeños y grandes. Además, avisa a otros ciclistas cuando frenas... con un destello único.",
+          "Su precio actual ronda los... ciento cincuenta dólares. Link en comentarios."
+        ],
+        "visuals": [
+          "Product image: Garmin Varia Radar"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0GL8MWFWG.mp4",
+        "precio": "$150",
+        "productPhoto": "https://m.media-amazon.com/images/I/51YkUfprvUL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "Radar de retroceso confiable con nuestra tecnología de seguimiento de radar más potente y precisa que detecta vehículos que se acercan por detrás y proporciona alertas audibles y visuales en tu computadora de ciclismo Edge compatible, reloj inteligente Garmin o en la aplicación Varia en tu smartphone.",
+          "Una luz trasera brillante proporciona visibilidad desde hasta 2 km (1.24 millas) de distancia para ayudarte a ser más visible para los automovilistas que se acercan por detrás.",
+          "Obtén hasta 24 horas de duración de la batería en modo de destello diurno y hasta 30 horas en modo solo radar.",
+          "\"\"\"Ve alertas visuales para vehículos pequeños, medianos y grandes que se acercan, y observa el movimiento de un vehículo y su nivel de amenaza — cuando montas con tu compatible Edge cycling computer o la aplicación Varia en tu smartphone.\"\"\"",
+          "\"Muestra a otros ciclistas o automovilistas que estás reduciendo la velocidad o deteniéndote con una luz de freno que exhibe un patrón de destello único.\""
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Reelight CIO Dynamo",
+        "productId": "B09TZ67XBG",
+        "productName": "Reelight CIO Dynamo",
+        "filename": "B09TZ67XBG.mp4",
+        "asin": "B09TZ67XBG",
+        "videoDuration": 147.269367,
+        "estimatedAudioSeconds": 37,
+        "framework": "experiencia_sensorial",
+        "narracionSegments": null,
+        "content": [
+          "¿Luces que nunca se apagan? ¿Sin pilas? ¿Ecológicas? Descubre el Reelight CIO Dynamo... Un sistema de iluminado que transforma el pedaleo en energía perpetua. Funciona porque captura cada giro de tu rueda.\n\nConecta los cables fácilmente.\n\nGira el manillar. La luz frontal parpadea con intensidad cada vez que avanzas. Sin interrupciones.\n\nEscucha el suave zumbido ...\n\nSiente la seguridad al notar cómo cada meter iluminas el camino sin esfuerzo alguno.\n\n¿Qué tan sorprendente es pedalear sin preocuparte?, mientras sientes la calidad nórdica.",
+          "Su precio actual ronda los... 29 dólares. Link en comentarios."
+        ],
+        "visuals": [
+          "Product image: Reelight CIO Dynamo"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B09TZ67XBG.mp4",
+        "precio": "$29",
+        "productPhoto": "https://m.media-amazon.com/images/I/71Q0NFiBrIL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": []
+      }
+    ],
+    "totalDuration": 80
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      ""
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:50",
+  "tone": "engaging",
+  "tone_variant": "conversacional y cercano, como si le contaras a un amigo algo increíble que descubriste",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "revolucionarios",
+    "para",
+    "bicicleta"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 2 gadgets revolucionarios para tu bicicleta",
+      "angle": "Top 2 gadgets revolucionarios para tu bicicleta",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 2,
+      "introScript": "Imagina un gadget que no solo mantiene tus dispositivos cargados mientras pedaleas, sino que también convierte tu bicicleta en una máquina inteligente. Hoy exploramos dos innovaciones que transformarán tu experiencia al pedalear. Desde una luz que reacciona a tus movimientos hasta un sistema de seguridad que se anticipa a los robos, estos gadgets son simplemente indispensables para cualquier ciclista. Prepárate para descubrir cómo la tecnología se fusiona con el ciclismo para ofrecerte seguridad y conectividad.",
+      "keywords": [
+        "gadgets",
+        "revolucionarios",
+        "para",
+        "bicicleta"
+      ],
+      "estimatedViews": 4222,
+      "bestPublishTime": "2026-09-12T15:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Garmin Varia Radar",
+          "searchTermEn": "Garmin Varia Radar rearview",
+          "id": "B0GL8MWFWG",
+          "filename": "B0GL8MWFWG.mp4"
+        },
+        {
+          "nombre": "Reelight CIO Dynamo",
+          "searchTermEn": "Reelight CIO Dynamo bike lights",
+          "id": "B09TZ67XBG",
+          "filename": "B09TZ67XBG.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-09-08T18:58:28.511Z",
+      "_requestedCount": 2,
+      "_adaptedCount": 2,
+      "introProductsOrder": [
+        {
+          "nombre": "Reelight CIO Dynamo",
+          "id": "B09TZ67XBG",
+          "filename": "B09TZ67XBG.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B09TZ67XBG.mp4"
+        },
+        {
+          "nombre": "Garmin Varia Radar",
+          "id": "B0GL8MWFWG",
+          "filename": "B0GL8MWFWG.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0GL8MWFWG.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1788894351100_if11qy"
+    },
+    "generatedAt": "2026-09-08T19:06:15.167Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Garmin Varia Radar",
+        "searchTermEn": "Garmin Varia Radar rearview",
+        "id": "B0GL8MWFWG",
+        "filename": "B0GL8MWFWG.mp4"
+      },
+      {
+        "nombre": "Reelight CIO Dynamo",
+        "searchTermEn": "Reelight CIO Dynamo bike lights",
+        "id": "B09TZ67XBG",
+        "filename": "B09TZ67XBG.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 2 gadgets revolucionarios para tu bicicleta\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\nNo creerás lo que Reelight CIO Dynamo puede hacer. Fíjate en cómo Garmin Varia Radar transforma la experiencia.\n\n[25s-35s] INTRODUCTION\n¿Cuál querrías tú? Los links están en el primer comentario.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] GARMIN VARIA RADAR\n¿Seguridad sobre ruedas? ¿Dos kilómetros de alcance? ¿Duración de la batería inigualable? ¡El Garmin Varia Radar te sorprende! Emite alertas cuando vehículos se acercan desde atrás. Incluso, funciona hasta a dos kilómetros; una luz trasera garantiza que te vean. Obtén hasta treinta horas en modo radar. Conecta con tu computadora Edge o teléfono inteligente; recibe alertas para coches pequeños y grandes. Además, avisa a otros ciclistas cuando frenas... con un destello único.\nSu precio actual ronda los... ciento cincuenta dólares. Link en comentarios.\n\n[VISUALS: Product image: Garmin Varia Radar]\n\n[0:25] REELIGHT CIO DYNAMO\n¿Luces que nunca se apagan? ¿Sin pilas? ¿Ecológicas? Descubre el Reelight CIO Dynamo... Un sistema de iluminado que transforma el pedaleo en energía perpetua. Funciona porque captura cada giro de tu rueda.\n\nConecta los cables fácilmente.\n\nGira el manillar. La luz frontal parpadea con intensidad cada vez que avanzas. Sin interrupciones.\n\nEscucha el suave zumbido ...\n\nSiente la seguridad al notar cómo cada meter iluminas el camino sin esfuerzo alguno.\n\n¿Qué tan sorprendente es pedalear sin preocuparte?, mientras sientes la calidad nórdica.\nSu precio actual ronda los... 29 dólares. Link en comentarios.\n\n[VISUALS: Product image: Reelight CIO Dynamo]\n\n[10 seconds] CONCLUSION\n\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:50\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, revolucionarios, para, bicicleta\n"
+}

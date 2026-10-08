@@ -1,0 +1,169 @@
+{
+  "title": "Top 3 gadgets para tu coche que no deberías perderte",
+  "hook": {
+    "type": "statement",
+    "text": "Encuentra todo fácilmente en tu coche. Respira aire puro mientras conduces. Fija tu móvil con un simple toque.",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "Suscríbete, los links están en el primer comentario. Empecemos.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0:10-0:15"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Tile Mate",
+        "productId": "B0D63657GY",
+        "productName": "Tile Mate",
+        "filename": "B0D63657GY.mp4",
+        "content": [
+          "Perder las llaves del coche es frustrante y consume tiempo. Tile Mate es el rastreador que te ayuda a localizarlas al instante. Funciona con Bluetooth y tiene un alcance de hasta 200 pies.",
+          "Su precio actual en Amazon ronda los... 24 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Tile Mate"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0D63657GY.mp4",
+        "precio": "$24",
+        "productPhoto": "https://m.media-amazon.com/images/I/81SYpSm0gNL._AC_UY654_QL65_.jpg"
+      },
+      {
+        "type": "content",
+        "title": "Blueair Cabin P2i",
+        "productId": "B0BN2MGV5H",
+        "productName": "Blueair Cabin P2i",
+        "filename": "B0BN2MGV5H.mp4",
+        "content": [
+          "Conducir en tráfico puede llenar tu coche de impurezas invisibles. El Blueair Cabin P2i purifica el aire dentro de tu vehículo en minutos. Tiene un sistema de filtración HEPA silencioso y eficiente.",
+          "Su precio actual en Amazon ronda los... 245 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Blueair Cabin P2i"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0BN2MGV5H.mp4",
+        "precio": "$245",
+        "productPhoto": "https://m.media-amazon.com/images/I/712FK2wvqRL._AC_UY654_QL65_.jpg"
+      },
+      {
+        "type": "content",
+        "title": "iOttie Easy One Touch",
+        "productId": "B07RBC21Z6",
+        "productName": "iOttie Easy One Touch",
+        "filename": "B07RBC21Z6.mp4",
+        "content": [
+          "Sujetadores complicados pueden distraerte mientras conduces. El iOttie Easy One Touch fija tu móvil de forma segura y rápida. Compatible con la mayoría de los smartphones, se ajusta con un simple clic.",
+          "Su precio actual en Amazon ronda los... 60 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: iOttie Easy One Touch"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07RBC21Z6.mp4",
+        "precio": "$60",
+        "productPhoto": "https://m.media-amazon.com/images/I/816jn2Wtx8L._AC_UY654_QL65_.jpg"
+      }
+    ],
+    "totalDuration": 75
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "Si te gustó el video, dale like y recuerda que los links están en el primer comentario."
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:45",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "para",
+    "coche",
+    "deberas",
+    "perderte"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 3 gadgets para tu coche que no deberías perderte",
+      "angle": "Top 3 gadgets para tu coche que no deberías perderte",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 3,
+      "introScript": "Un dispositivo que localiza tu coche en cualquier parte del mundo, un cargador de teléfono que también purifica el aire y un soporte para móvil que carga inalámbricamente. Prepárate para descubrir los gadgets más ingeniosos que transformarán tu experiencia al volante.",
+      "keywords": [
+        "gadgets",
+        "para",
+        "coche",
+        "deberas",
+        "perderte"
+      ],
+      "estimatedViews": 6325,
+      "bestPublishTime": "2026-04-26T15:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Tile Mate",
+          "searchTermEn": "Tile Mate car tracker",
+          "id": "B0D63657GY",
+          "filename": "B0D63657GY.mp4"
+        },
+        {
+          "nombre": "Blueair Cabin P2i",
+          "searchTermEn": "Blueair car air purifier",
+          "id": "B0BN2MGV5H",
+          "filename": "B0BN2MGV5H.mp4"
+        },
+        {
+          "nombre": "iOttie Easy One Touch",
+          "searchTermEn": "iOttie wireless charging car mount",
+          "id": "B07RBC21Z6",
+          "filename": "B07RBC21Z6.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-04-22T18:41:36.538Z",
+      "_requestedCount": 3,
+      "_adaptedCount": 3,
+      "_scriptNonce": "nonce_1776883432398_895937"
+    },
+    "generatedAt": "2026-04-22T18:43:58.565Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Tile Mate",
+        "searchTermEn": "Tile Mate car tracker",
+        "id": "B0D63657GY",
+        "filename": "B0D63657GY.mp4"
+      },
+      {
+        "nombre": "Blueair Cabin P2i",
+        "searchTermEn": "Blueair car air purifier",
+        "id": "B0BN2MGV5H",
+        "filename": "B0BN2MGV5H.mp4"
+      },
+      {
+        "nombre": "iOttie Easy One Touch",
+        "searchTermEn": "iOttie wireless charging car mount",
+        "id": "B07RBC21Z6",
+        "filename": "B07RBC21Z6.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 3 gadgets para tu coche que no deberías perderte\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\nEncuentra todo fácilmente en tu coche. Respira aire puro mientras conduces. Fija tu móvil con un simple toque.\n\n[0:10-0:15] INTRODUCTION\nSuscríbete, los links están en el primer comentario. Empecemos.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] TILE MATE\nPerder las llaves del coche es frustrante y consume tiempo. Tile Mate es el rastreador que te ayuda a localizarlas al instante. Funciona con Bluetooth y tiene un alcance de hasta 200 pies.\nSu precio actual en Amazon ronda los... 24 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Tile Mate]\n\n[0:25] BLUEAIR CABIN P2I\nConducir en tráfico puede llenar tu coche de impurezas invisibles. El Blueair Cabin P2i purifica el aire dentro de tu vehículo en minutos. Tiene un sistema de filtración HEPA silencioso y eficiente.\nSu precio actual en Amazon ronda los... 245 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Blueair Cabin P2i]\n\n[0:25] IOTTIE EASY ONE TOUCH\nSujetadores complicados pueden distraerte mientras conduces. El iOttie Easy One Touch fija tu móvil de forma segura y rápida. Compatible con la mayoría de los smartphones, se ajusta con un simple clic.\nSu precio actual en Amazon ronda los... 60 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: iOttie Easy One Touch]\n\n[10 seconds] CONCLUSION\nSi te gustó el video, dale like y recuerda que los links están en el primer comentario.\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:45\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, para, coche, deberas, perderte\n"
+}

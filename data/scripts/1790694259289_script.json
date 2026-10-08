@@ -1,0 +1,135 @@
+{
+  "title": "Top 1 Máquinas para el Campo en Amazon",
+  "hook": {
+    "type": "statement",
+    "text": "He seleccionado los mejores productos capaces de hacer tu día a día más cómodo y organizado. Inventos impresionantes, desde un dispositivo volante que captura vistas aéreas alucinantes, probablemente querrás tener desde el momento en que los veas. La lista de links está en el primer comentario. Aquí vamos.",
+    "duration": "0:00-0:15"
+  },
+  "introduction": {
+    "greeting": "",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0s"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "DJI Mini 4K",
+        "productId": "B0CXJDDJ9X",
+        "productName": "DJI Mini 4K",
+        "filename": "B0CXJDDJ9X.mp4",
+        "asin": "B0CXJDDJ9X",
+        "videoDuration": 82.604767,
+        "estimatedAudioSeconds": 34,
+        "framework": "comparacion_precio",
+        "narracionSegments": null,
+        "content": [
+          "Olvidarse de registrar un dron cada vez que lo usas puede ser un verdadero dolor de cabeza. El DJI Mini 4K resuelve eso al pesar menos de doscientos cuarenta y nueve gramos, eliminando la necesidad de registro. Con cámara 4K Ultra HD y estabilizador de tres ejes, captura increíble metraje en cualquier condición lumínica mientras también withstand vientos de hasta treinta y ocho kilometros por hora gracias a sus motores sin escobillas.",
+          "Actualmente cuesta alrededor de quince dólares en Amazon, fácilmente accesible para todos."
+        ],
+        "visuals": [
+          "Product image: DJI Mini 4K"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0CXJDDJ9X.mp4",
+        "precio": "$15",
+        "productPhoto": "https://m.media-amazon.com/images/I/61TcjJ4qDZL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "No se necesita registro - Con menos de 249 g, este dron con cámara para adultos 4K no requiere registro de la FAA ni ID remoto para uso recreativo. Visita el sitio web oficial de la FAA para conocer los requisitos relacionados con el registro de drones y el ID remoto. [1]",
+          "4K Ultra HD y estabilizador de 3 ejes para grabación de calidad cinematográfica - Captura momentos impresionantes en cualquier luz: amaneceres, atardeceres y escenas nocturnas con una resolución 4K cristalina. Gracias al estabilizador de 3 ejes, puedes lograr metraje de calidad cinematográfica con este avanzado dron con cámara.",
+          "38kph (Nivel 5) Resistente al Viento - Este dron para adultos tiene un vuelo estable incluso en vientos de Nivel 5. Los motores sin escobillas mejoran la potencia y permiten el despegue a altitudes de hasta 4,000 metros.",
+          "Debido a un problema de compatibilidad de la plataforma, la aplicación DJI Fly ha sido eliminada de Google Play. Para garantizar una mejor experiencia de uso del producto, por favor inicie sesión en el sitio web oficial de DJI para descargar la última versión de DJI Fly.",
+          "Creación ininterrumpida con vida de batería extendida - Hay tres conjuntos disponibles para que elijas: conjunto de 1-batería (31-min), conjunto de 2-baterías (62-min) o conjunto de 3-baterías (93-min). [3] Di adiós a la ansiedad por la batería y deja que nada te detenga."
+        ],
+        "originalVideoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0CXJDDJ9X.mp4"
+      }
+    ],
+    "totalDuration": 40
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "Gracias por llegar hasta aquí. El próximo top será aún más loco. Recuerda los links en el primer comentario."
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "",
+    "like": "",
+    "comment": "",
+    "nextVideo": "",
+    "duration": "0 seconds"
+  },
+  "duration": "1:10",
+  "tone": "engaging",
+  "tone_variant": "entusiasta y acelerado, como un presentador de teletienda pero sin relleno ni repetición",
+  "pacing": "quick",
+  "keywords": [
+    "mquinas",
+    "para",
+    "campo",
+    "amazon"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 1 Máquinas para el Campo en Amazon",
+      "angle": "Top 3 Máquinas para el Campo en Amazon",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 1,
+      "introScript": "¿Te has imaginado una máquina que pueda plantar semillas con precisión milimétrica o un innovador dispositivo que haga el trabajo de arar sin necesidad de un tractor? Hoy te presentamos tres sorprendentes inventos que transformarán por completo la manera en que trabajas en el campo. Desde la eficiencia de una sembradora automática hasta un dron especializado en monitoreo de cultivos, estas tecnologías están listas para cambiar las reglas del juego. ¡Sigue viendo para descubrir cómo estos gadgets podrían ser justo lo que necesitas!",
+      "keywords": [
+        "mquinas",
+        "para",
+        "campo",
+        "amazon"
+      ],
+      "estimatedViews": 6234,
+      "bestPublishTime": "2026-09-30T19:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "DJI Mini 4K",
+          "searchTermEn": "DJI Agras T30 agricultural drone",
+          "id": "B0CXJDDJ9X",
+          "filename": "B0CXJDDJ9X.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-09-29T14:58:48.569Z",
+      "_requestedCount": 3,
+      "_adaptedCount": 1,
+      "_adaptationNote": "ATENCIÓN: El usuario pidió 3 productos pero solo hay 1 clips de video disponibles. El guion, título y narrativa deben referirse EXCLUSIVAMENTE a 1 productos.",
+      "introProductsOrder": [
+        {
+          "nombre": "DJI Mini 4K",
+          "id": "B0CXJDDJ9X",
+          "filename": "B0CXJDDJ9X.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0CXJDDJ9X.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1790694237140_cgqh1k"
+    },
+    "generatedAt": "2026-09-29T15:04:06.979Z",
+    "version": "4.0-dynamic-rotator",
+    "productos": [
+      {
+        "nombre": "DJI Mini 4K",
+        "searchTermEn": "DJI Agras T30 agricultural drone",
+        "id": "B0CXJDDJ9X",
+        "filename": "B0CXJDDJ9X.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 1 Máquinas para el Campo en Amazon\n\n══════════════════════════════════════════════════\n\n[0:00-0:15] HOOK\nHe seleccionado los mejores productos capaces de hacer tu día a día más cómodo y organizado. Inventos impresionantes, desde un dispositivo volante que captura vistas aéreas alucinantes, probablemente querrás tener desde el momento en que los veas. La lista de links está en el primer comentario. Aquí vamos.\n\n[0s] INTRODUCTION\n\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] DJI MINI 4K\nOlvidarse de registrar un dron cada vez que lo usas puede ser un verdadero dolor de cabeza. El DJI Mini 4K resuelve eso al pesar menos de doscientos cuarenta y nueve gramos, eliminando la necesidad de registro. Con cámara 4K Ultra HD y estabilizador de tres ejes, captura increíble metraje en cualquier condición lumínica mientras también withstand vientos de hasta treinta y ocho kilometros por hora gracias a sus motores sin escobillas.\nActualmente cuesta alrededor de quince dólares en Amazon, fácilmente accesible para todos.\n\n[VISUALS: Product image: DJI Mini 4K]\n\n[10 seconds] CONCLUSION\nGracias por llegar hasta aquí. El próximo top será aún más loco. Recuerda los links en el primer comentario.\n\n\n\n[0 seconds] CALL TO ACTION\n\n\n\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:10\nTONE: engaging\nPACING: quick\nKEYWORDS: mquinas, para, campo, amazon\n"
+}

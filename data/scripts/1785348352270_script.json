@@ -1,0 +1,133 @@
+{
+  "title": "Top 1 Gadgets para Transformar tu Auto",
+  "hook": {
+    "type": "statement",
+    "text": "",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "25s-35s"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Anker Roav Viva",
+        "productId": "B0BPH6S4DN",
+        "productName": "Anker Roav Viva",
+        "filename": "B0BPH6S4DN.mp4",
+        "asin": "B0BPH6S4DN",
+        "videoDuration": 31.653867,
+        "estimatedAudioSeconds": 35,
+        "framework": "comparacion_precio",
+        "narracionSegments": null,
+        "content": [
+          "¿Frustrado por la carga lenta en tu coche? El Anker Roav Viva revoluciona. Conéctalo al puerto USB Tipo C; logra 50 por ciento de carga en un iPhone catorce en veinticinco minutos. Carga simultánea de dos dispositivos; con treinta vatios USB Tipo C y veintidós punto cinco vatios USB Tipo A. La tecnología Power IQ tres punto cero asegura compatibilidad total; cargando desde iPhones hasta Samsung. Además, ActiveShield dos punto cero protege tus equipos ajustando temperaturas.",
+          "Su precio actual ronda los... cincuenta dólares. Link en comentarios."
+        ],
+        "visuals": [
+          "Product image: Anker Roav Viva"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0BPH6S4DN.mp4",
+        "precio": "$50",
+        "productPhoto": "https://m.media-amazon.com/images/I/51iMQX7Gm0L.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "Carga Rápida: Conéctate al puerto USB-C para cargar un iPhone 14 Pro al 50% en solo 25 minutos, o un Samsung S23 en solo 27 minutos.",
+          "Cargar 2 dispositivos a la vez: El puerto USB-C ofrece una carga máxima de 30W, mientras que el puerto USB-A proporciona hasta 22.5W, por lo que puedes cargar 2 dispositivos simultáneamente y a alta velocidad.",
+          "Compatibilidad Amplia: Desde iPhone hasta Samsung, pasando por tabletas USB-C y más, la tecnología PowerIQ 3.0 de Anker ofrece una compatibilidad perfecta con prácticamente cualquier dispositivo móvil.",
+          "ActiveShield 2.0: La tecnología patentada de Anker mejora la protección al monitorear inteligentemente la temperatura y ajustar la salida de energía para salvaguardar tus dispositivos conectados.",
+          "Lo que obtienes: Cargador de coche Anker 323 (52.5W), guía de bienvenida, nuestra garantía de 18 meses sin preocupaciones y un servicio al cliente amable."
+        ]
+      }
+    ],
+    "totalDuration": 40
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      ""
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:10",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "para",
+    "transformar",
+    "auto"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 1 Gadgets para Transformar tu Auto",
+      "angle": "Top 2 Gadgets para Transformar tu Auto",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 1,
+      "introScript": "¿Sabías que existe un cargador que se oculta en el portavasos de tu automóvil? Además, imagina poder proyectar un mapa de navegación directamente en tu parabrisas sin obstruir la vista. Hoy exploraremos dos dispositivos que llevarán tu experiencia de conducción al siguiente nivel. No creerás lo fácil que es mejorar la funcionalidad de tu coche con estos gadgets. Prepárate para descubrir cómo los avances tecnológicos pueden hacer de tus viajes algo realmente futurista.",
+      "keywords": [
+        "gadgets",
+        "para",
+        "transformar",
+        "auto"
+      ],
+      "estimatedViews": 5906,
+      "bestPublishTime": "2026-08-05T19:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Anker Roav Viva",
+          "searchTermEn": "Anker Roav Viva car charger",
+          "id": "B0BPH6S4DN",
+          "filename": "B0BPH6S4DN.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-07-29T18:02:15.287Z",
+      "_requestedCount": 2,
+      "_adaptedCount": 1,
+      "_adaptationNote": "ATENCIÓN: El usuario pidió 2 productos pero solo hay 1 clips de video disponibles. El guion, título y narrativa deben referirse EXCLUSIVAMENTE a 1 productos.",
+      "introProductsOrder": [
+        {
+          "nombre": "Anker Roav Viva",
+          "id": "B0BPH6S4DN",
+          "filename": "B0BPH6S4DN.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0BPH6S4DN.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1785348327209_ndeiur"
+    },
+    "generatedAt": "2026-07-29T18:05:39.887Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Anker Roav Viva",
+        "searchTermEn": "Anker Roav Viva car charger",
+        "id": "B0BPH6S4DN",
+        "filename": "B0BPH6S4DN.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 1 Gadgets para Transformar tu Auto\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\n\n\n[25s-35s] INTRODUCTION\n\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] ANKER ROAV VIVA\n¿Frustrado por la carga lenta en tu coche? El Anker Roav Viva revoluciona. Conéctalo al puerto USB Tipo C; logra 50 por ciento de carga en un iPhone catorce en veinticinco minutos. Carga simultánea de dos dispositivos; con treinta vatios USB Tipo C y veintidós punto cinco vatios USB Tipo A. La tecnología Power IQ tres punto cero asegura compatibilidad total; cargando desde iPhones hasta Samsung. Además, ActiveShield dos punto cero protege tus equipos ajustando temperaturas.\nSu precio actual ronda los... cincuenta dólares. Link en comentarios.\n\n[VISUALS: Product image: Anker Roav Viva]\n\n[10 seconds] CONCLUSION\n\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:10\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, para, transformar, auto\n"
+}

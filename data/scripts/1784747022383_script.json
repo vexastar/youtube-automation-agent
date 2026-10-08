@@ -1,0 +1,134 @@
+{
+  "title": "Top 1 herramienta revolucionaria para cortar madera",
+  "hook": {
+    "type": "statement",
+    "text": "",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "25s-35s"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Cricut Maker 3",
+        "productId": "B00I00RASM",
+        "productName": "Cricut Maker 3",
+        "filename": "B00I00RASM.mp4",
+        "asin": "B00I00RASM",
+        "videoDuration": 93.576009,
+        "estimatedAudioSeconds": 33,
+        "framework": "comparacion_precio",
+        "narracionSegments": null,
+        "content": [
+          "¿Sientes que tus manualidades carecen de precisión profesional? Cricut Maker 3 es la solución. Corta sin esfuerzo materiales más gruesos con su cuchilla de punta profunda. Este dispositivo corta a través de más de cincuenta materiales. Desde cartulinas gruesas hasta fieltro reforzado, conservando calidad; perfecta para tus proyectos creativos en casa. Inserta el material y deja que Cricut lo transforme en arte útil, con acero alemán duradero que garantiza cortes limpios.",
+          "Su precio actual ronda los diecinueve dólares. Link en comentarios."
+        ],
+        "visuals": [
+          "Product image: Cricut Maker 3"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B00I00RASM.mp4",
+        "precio": "$19",
+        "productPhoto": "https://m.media-amazon.com/images/I/61YXk1dRCEL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "CORTES SIN COSTURAS PARA TUS ARTESANÍAS - Corta diseños de tu elección a través de materiales más gruesos con facilidad utilizando la Cricut Deep-Point Blade and Housing, una cuchilla que corta más de 50 materiales de hasta 1.5mm de grosor para tus proyectos cuando se utiliza con máquinas Cricut.",
+          "ACERO ALEMÁN DURO Y DURADERO - La hoja de punta profunda tiene un ángulo de hoja más pronunciado (60 grados frente a 45) y un acero de carburo más duro y duradero que le permite penetrar a través de diferentes materiales gruesos sin sufrir daños significativos.",
+          "\"\"\"COMPATIBLE CON LA MÁQUINA CRICUT - La cuchilla de corte profundo y su alojamiento son compatibles con las máquinas de corte Cricut Maker y Cricut Explore (incluyendo Explore, Explore One, Explore Air y Explore Air 2). ¡Simplemente corta y aplica los diseños donde quieras!\"\"\"",
+          "NUMEROSAS OPCIONES DE CORTE - Esta cuchilla corta a través de chipboard, hojas de goma, cartulina gruesa, fieltro reforzado, hojas de espuma y cartón, para crear calendarios de pared personalizados, sellos y más para tus manualidades e incluso imanes personalizados para proyectos de bricolaje.",
+          "PROYECTOS HERMOSOS EN TU HOGAR - Los accesorios de Cricut están diseñados para hacer que la creación de manualidades y proyectos de bricolaje sea divertida, simple y rápida. Con las máquinas de corte inteligentes más avanzadas, herramientas, suministros de manualidades y materiales, prepárate para avivar tu fuego creativo."
+        ]
+      }
+    ],
+    "totalDuration": 40
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      ""
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:10",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "herramienta",
+    "revolucionaria",
+    "para",
+    "cortar",
+    "madera"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 1 herramienta revolucionaria para cortar madera",
+      "angle": "Top 1 herramienta revolucionaria para cortar madera",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 1,
+      "introScript": "¿Quieres cortar madera con precisión láser y sin esfuerzo? Hoy te presento una herramienta que está transformando la manera en la que los carpinteros abordan sus proyectos. Imagina un dispositivo que combina tecnología de vanguardia y facilidad de uso. Este gadget no solo es compacto, sino que también ofrece cortes impecables en cuestión de segundos. Descubramos cuál es esta maravilla tecnológica que ya está disponible y promete cambiar tu taller para siempre.",
+      "keywords": [
+        "herramienta",
+        "revolucionaria",
+        "para",
+        "cortar",
+        "madera"
+      ],
+      "estimatedViews": 4321,
+      "bestPublishTime": "2026-07-26T15:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Cricut Maker 3",
+          "searchTermEn": "Cricut Maker 3 wood cutter",
+          "id": "B00I00RASM",
+          "filename": "B00I00RASM.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-07-22T19:01:04.705Z",
+      "_requestedCount": 1,
+      "_adaptedCount": 1,
+      "introProductsOrder": [
+        {
+          "nombre": "Cricut Maker 3",
+          "id": "B00I00RASM",
+          "filename": "B00I00RASM.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B00I00RASM.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1784746995370_cc026t"
+    },
+    "generatedAt": "2026-07-22T19:03:29.298Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Cricut Maker 3",
+        "searchTermEn": "Cricut Maker 3 wood cutter",
+        "id": "B00I00RASM",
+        "filename": "B00I00RASM.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 1 herramienta revolucionaria para cortar madera\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\n\n\n[25s-35s] INTRODUCTION\n\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] CRICUT MAKER 3\n¿Sientes que tus manualidades carecen de precisión profesional? Cricut Maker 3 es la solución. Corta sin esfuerzo materiales más gruesos con su cuchilla de punta profunda. Este dispositivo corta a través de más de cincuenta materiales. Desde cartulinas gruesas hasta fieltro reforzado, conservando calidad; perfecta para tus proyectos creativos en casa. Inserta el material y deja que Cricut lo transforme en arte útil, con acero alemán duradero que garantiza cortes limpios.\nSu precio actual ronda los diecinueve dólares. Link en comentarios.\n\n[VISUALS: Product image: Cricut Maker 3]\n\n[10 seconds] CONCLUSION\n\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:10\nTONE: engaging\nPACING: quick\nKEYWORDS: herramienta, revolucionaria, para, cortar, madera\n"
+}

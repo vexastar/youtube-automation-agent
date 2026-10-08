@@ -1,0 +1,164 @@
+{
+  "title": "Top 3 Gadgets Futuristas para tu Alcoba",
+  "hook": {
+    "type": "statement",
+    "text": "Una luz que desafía la gravedad. Sonido y sueño combinados en un dispositivo. Despertar suave y sin estrés.",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "Suscríbete, los links están en el primer comentario. Empecemos.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0:10-0:15"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Lámpara Levitante Flyte",
+        "productId": "B09NKSKDJP",
+        "productName": "Lámpara Levitante Flyte",
+        "filename": "B09NKSKDJP.mp4",
+        "content": [
+          "¿Cansado de las lámparas aburridas que ocupan espacio? La Lámpara Levitante Flyte flota mágicamente en el aire, creando un ambiente único. Ilumina tus noches con estilo futurista y elegancia.",
+          "Su precio actual en Amazon ronda los... 76 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Lámpara Levitante Flyte"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B09NKSKDJP.mp4",
+        "precio": "$76"
+      },
+      {
+        "type": "content",
+        "title": "Altavoz Nocturno Wakey",
+        "productId": "B0CQ53RVTW",
+        "productName": "Altavoz Nocturno Wakey",
+        "filename": "B0CQ53RVTW.mp4",
+        "content": [
+          "Conciliar el sueño puede ser difícil con el ruido a tu alrededor. El Altavoz Nocturno Wakey combina música relajante y luces suaves para un descanso reparador. Además, carga tu teléfono mientras duermes.",
+          "Su precio actual en Amazon ronda los... 90 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Altavoz Nocturno Wakey"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0CQ53RVTW.mp4",
+        "precio": "$90"
+      },
+      {
+        "type": "content",
+        "title": "Reloj Despertador Loftie",
+        "productId": "B09253XYX3",
+        "productName": "Reloj Despertador Loftie",
+        "filename": "B09253XYX3.mp4",
+        "content": [
+          "Despertarse con un sobresalto puede arruinar tu día. El Reloj Despertador Loftie ofrece una experiencia de despertar gradual y sin estrés. Sus sonidos naturales y diseño minimalista transforman tus mañanas.",
+          "Su precio actual en Amazon ronda los... 170 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Reloj Despertador Loftie"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B09253XYX3.mp4",
+        "precio": "$170"
+      }
+    ],
+    "totalDuration": 75
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "Dale like si te gustó y recuerda que los links están en el primer comentario."
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:45",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "futuristas",
+    "para",
+    "alcoba"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 3 Gadgets Futuristas para tu Alcoba",
+      "angle": "Top 3 Gadgets Futuristas para tu Alcoba",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 3,
+      "introScript": "¿Te imaginas un reloj que proyecte hologramas en tu pared? ¿O un espejo inteligente que te aconseje cada mañana? Prepárate para descubrir gadgets de otro mundo que transformarán tu espacio de descanso en un santuario de tecnología futurista.",
+      "keywords": [
+        "gadgets",
+        "futuristas",
+        "para",
+        "alcoba"
+      ],
+      "estimatedViews": 3826,
+      "bestPublishTime": "2026-04-21T19:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Lámpara Levitante Flyte",
+          "searchTermEn": "Flyte levitating lamp",
+          "id": "B09NKSKDJP",
+          "filename": "B09NKSKDJP.mp4"
+        },
+        {
+          "nombre": "Altavoz Nocturno Wakey",
+          "searchTermEn": "Anker Wakey speaker",
+          "id": "B0CQ53RVTW",
+          "filename": "B0CQ53RVTW.mp4"
+        },
+        {
+          "nombre": "Reloj Despertador Loftie",
+          "searchTermEn": "Loftie smart clock",
+          "id": "B09253XYX3",
+          "filename": "B09253XYX3.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-04-20T20:06:10.293Z",
+      "_requestedCount": 3,
+      "_adaptedCount": 3,
+      "_scriptNonce": "nonce_1776715702445_i8agat"
+    },
+    "generatedAt": "2026-04-20T20:08:29.574Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Lámpara Levitante Flyte",
+        "searchTermEn": "Flyte levitating lamp",
+        "id": "B09NKSKDJP",
+        "filename": "B09NKSKDJP.mp4"
+      },
+      {
+        "nombre": "Altavoz Nocturno Wakey",
+        "searchTermEn": "Anker Wakey speaker",
+        "id": "B0CQ53RVTW",
+        "filename": "B0CQ53RVTW.mp4"
+      },
+      {
+        "nombre": "Reloj Despertador Loftie",
+        "searchTermEn": "Loftie smart clock",
+        "id": "B09253XYX3",
+        "filename": "B09253XYX3.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 3 Gadgets Futuristas para tu Alcoba\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\nUna luz que desafía la gravedad. Sonido y sueño combinados en un dispositivo. Despertar suave y sin estrés.\n\n[0:10-0:15] INTRODUCTION\nSuscríbete, los links están en el primer comentario. Empecemos.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] LÁMPARA LEVITANTE FLYTE\n¿Cansado de las lámparas aburridas que ocupan espacio? La Lámpara Levitante Flyte flota mágicamente en el aire, creando un ambiente único. Ilumina tus noches con estilo futurista y elegancia.\nSu precio actual en Amazon ronda los... 76 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Lámpara Levitante Flyte]\n\n[0:25] ALTAVOZ NOCTURNO WAKEY\nConciliar el sueño puede ser difícil con el ruido a tu alrededor. El Altavoz Nocturno Wakey combina música relajante y luces suaves para un descanso reparador. Además, carga tu teléfono mientras duermes.\nSu precio actual en Amazon ronda los... 90 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Altavoz Nocturno Wakey]\n\n[0:25] RELOJ DESPERTADOR LOFTIE\nDespertarse con un sobresalto puede arruinar tu día. El Reloj Despertador Loftie ofrece una experiencia de despertar gradual y sin estrés. Sus sonidos naturales y diseño minimalista transforman tus mañanas.\nSu precio actual en Amazon ronda los... 170 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Reloj Despertador Loftie]\n\n[10 seconds] CONCLUSION\nDale like si te gustó y recuerda que los links están en el primer comentario.\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:45\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, futuristas, para, alcoba\n"
+}

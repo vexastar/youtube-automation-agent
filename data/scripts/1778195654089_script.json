@@ -1,0 +1,327 @@
+{
+  "title": "Top 2 Gadgets que Todo Abogado Debe Tener",
+  "hook": {
+    "type": "statement",
+    "text": "Escanea y borra tus notas al instante. Tus escritos cobran vida digitalmente. Acceso instantáneo a tus tarjetas con un solo botón.",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "Suscríbete, los links están en el primer comentario. Empecemos.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0:10-0:15"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Livescribe Smartpen",
+        "productId": "B00FONJDZ6",
+        "productName": "Livescribe Smartpen",
+        "filename": "B00FONJDZ6.mp4",
+        "asin": "B00FONJDZ6",
+        "clipDuration": 34.3,
+        "estimatedAudioSeconds": 37,
+        "framework": "problema_solucion",
+        "narracionSegments": null,
+        "content": [
+          "Tomar notas y perderlas es frustrante. Livescribe Smartpen sincroniza todo lo que escribes a tu smartphone, grabando audio simultáneamente. Organiza y comparte tus notas al instante.",
+          "Su precio actual en Amazon ronda los... 211 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Livescribe Smartpen"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B00FONJDZ6_combined.mp4",
+        "precio": "$211",
+        "productPhoto": "https://m.media-amazon.com/images/I/713ufw5FavL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B00FONJDZ6\\scenes_v1\\B00FONJDZ6_scene_01.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "producto visible",
+            "raw": "9|producto visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B00FONJDZ6\\scenes_v1\\B00FONJDZ6_scene_04.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "uso real",
+            "raw": "8|uso real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B00FONJDZ6\\scenes_v1\\B00FONJDZ6_scene_09.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "uso real",
+            "raw": "8|uso real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B00FONJDZ6\\scenes_v1\\B00FONJDZ6_scene_10.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "uso real",
+            "raw": "8|uso real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B00FONJDZ6\\scenes_v1\\B00FONJDZ6_scene_02.mp4",
+            "type": "video",
+            "score": 6,
+            "tag": "producto visible",
+            "raw": "6|producto visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B00FONJDZ6\\scenes_v1\\B00FONJDZ6_scene_13.mp4",
+            "type": "video",
+            "score": 6,
+            "tag": "uso real",
+            "raw": "6|uso real"
+          }
+        ],
+        "features": [
+          "Connects to your iOS and Android devices via Bluetooth Smart (Low Energy) to sync everything you write or draw to the free Livescribe+ app",
+          "The quickest, simplest way to bring valuable information from paper onto your tablet and smartphone, where it becomes more useful",
+          "Uses your smartphone or tablet’s microphone to record audio that’s synchronized to everything you write on paper",
+          "Once your notes are in the Livescribe+ mobile app, you can organize, tag, play back audio and send/share notes to any of the devices you use",
+          "Search your handwritten notes and convert what you write into digital text with amazing accuracy."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Rocketbook Smart Notebook",
+        "productId": "B0DP3HRDC2",
+        "productName": "Rocketbook Smart Notebook",
+        "filename": "B0DP3HRDC2.mp4",
+        "asin": "B0DP3HRDC2",
+        "clipDuration": 47.45,
+        "estimatedAudioSeconds": 59,
+        "framework": "beneficio_oculto",
+        "narracionSegments": null,
+        "content": [
+          "Lo que pocos saben del Rocketbook Smart Notebook es que permite escribir, digitalizar y borrar sin esfuerzo. Sus páginas reutilizables se conectan a la nube, facilitando el acceso desde cualquier lugar.",
+          "Su precio actual en Amazon ronda los... 35 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Rocketbook Smart Notebook"
+        ],
+        "duration": 25,
+        "precio": "$27",
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0DP3HRDC2_combined.mp4",
+        "productPhoto": "https://m.media-amazon.com/images/I/71lZL1GA+AL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DP3HRDC2\\scenes_v1\\B0DP3HRDC2_v2_scene_07.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "uso real",
+            "raw": "8|uso real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DP3HRDC2\\scenes_v1\\B0DP3HRDC2_v2_scene_08.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "uso real",
+            "raw": "8|uso real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DP3HRDC2\\scenes_v1\\B0DP3HRDC2_v2_scene_02.mp4",
+            "type": "video",
+            "score": 7,
+            "tag": "uso real",
+            "raw": "7|uso real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DP3HRDC2\\scenes_v2\\B0DP3HRDC2_v3_scene_02.mp4",
+            "type": "video",
+            "score": 7,
+            "tag": "uso real",
+            "raw": "7|uso real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DP3HRDC2\\scenes_v1\\B0DP3HRDC2_v2_scene_05.mp4",
+            "type": "video",
+            "score": 6,
+            "tag": "uso real",
+            "raw": "6|uso real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DP3HRDC2\\scenes_v1\\B0DP3HRDC2_v2_scene_06.mp4",
+            "type": "video",
+            "score": 6,
+            "tag": "uso real",
+            "raw": "6|uso real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DP3HRDC2\\scenes_v1\\B0DP3HRDC2_v2_scene_10.mp4",
+            "type": "video",
+            "score": 6,
+            "tag": "logo marca",
+            "raw": "6|logo marca"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DP3HRDC2\\scenes_v2\\B0DP3HRDC2_v3_scene_04.mp4",
+            "type": "video",
+            "score": 6,
+            "tag": "uso real",
+            "raw": "6|uso real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DP3HRDC2\\scenes_v2\\B0DP3HRDC2_v3_scene_05.mp4",
+            "type": "video",
+            "score": 6,
+            "tag": "uso real",
+            "raw": "6|uso real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DP3HRDC2\\scenes_v2\\B0DP3HRDC2_v3_scene_01.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "uso real",
+            "raw": "5|uso real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DP3HRDC2\\scenes_v2\\B0DP3HRDC2_v3_scene_03.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "uso real",
+            "raw": "5|uso real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DP3HRDC2\\scenes_v2\\B0DP3HRDC2_v3_scene_06.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "uso real",
+            "raw": "5|uso real"
+          }
+        ],
+        "features": [
+          "New and Improved Core: Features premium reusable paper, with improved pen to paper feel, spiral binding and sleekly re-designed, scratch-resistant cover. College-ruled sheets now include Smart Titles and Smart Tags to name and organize files efficiently.",
+          "App-Enabled for Digital Organization: Scan and upload your written work directly to cloud platforms like Google Drive, Dropbox, OneNote, etc. and access your notes from anywhere. Use Smart Titles and Smart Tags to name and organize files efficiently.",
+          "Write, Digitize, Erase, and Re-Write: Write notes with the included Pilot Frixion Pen, digitize effortlessly using the Rocketbook app, store in your preferred cloud service. When done, simply wipe the pages clean with a damp cloth and start fresh.",
+          "Portable and Versatile Sizes: Available in two sizes—Letter (8.5 x 11 inches) and Executive (6 x 8.8 inches)—the Rocketbook Core is compact enough to fit into backpacks, purses, or briefcases. This notebook offers portability and versatility.",
+          "Eco-Friendly Reusability: Designed with sustainability in mind, Rocketbook notebooks help reduce paper waste with a reusable alternative. Enjoy a paper-like notebook that can be used repeatedly, allowing you to save work and erase everything else."
+        ]
+      }
+    ],
+    "totalDuration": 50
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "Dale like y recuerda que los links están en el primer comentario."
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:45",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "todo",
+    "abogado",
+    "debe",
+    "tener"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 3 Gadgets que Todo Abogado Debe Tener",
+      "angle": "Top 3 Gadgets que Todo Abogado Debe Tener",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 3,
+      "introScript": "¿Un bolígrafo que graba cada palabra que escuchas? ¿Una cartera que protege tus datos con estilo? Hoy te muestro tres gadgets que transformarán la forma en que trabajas y te mantendrán un paso adelante en la oficina.",
+      "keywords": [
+        "gadgets",
+        "todo",
+        "abogado",
+        "debe",
+        "tener"
+      ],
+      "estimatedViews": 4301,
+      "bestPublishTime": "2026-05-09T15:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Livescribe Smartpen",
+          "searchTermEn": "Livescribe smart pen",
+          "id": "B00FONJDZ6",
+          "filename": "B00FONJDZ6.mp4"
+        },
+        {
+          "nombre": "Ekster Parliament Wallet",
+          "searchTermEn": "Ekster parliament wallet",
+          "id": "B07PXM8HX7",
+          "filename": "B07PXM8HX7.mp4"
+        },
+        {
+          "nombre": "Rocketbook Smart Notebook",
+          "searchTermEn": "Rocketbook smart notebook",
+          "id": "B0DP3HRDC2",
+          "filename": "B0DP3HRDC2.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-05-07T23:06:58.276Z",
+      "_requestedCount": 3,
+      "_adaptedCount": 3,
+      "introProductsOrder": [
+        {
+          "nombre": "Rocketbook Smart Notebook",
+          "id": "B0DP3HRDC2",
+          "filename": "B0DP3HRDC2.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0DP3HRDC2_combined.mp4"
+        },
+        {
+          "nombre": "Livescribe Smartpen",
+          "id": "B00FONJDZ6",
+          "filename": "B00FONJDZ6.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B00FONJDZ6_combined.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1778195624835_733xfb"
+    },
+    "generatedAt": "2026-05-07T23:13:51.040Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Livescribe Smartpen",
+        "searchTermEn": "Livescribe smart pen",
+        "id": "B00FONJDZ6",
+        "filename": "B00FONJDZ6.mp4"
+      },
+      {
+        "nombre": "Ekster Parliament Wallet",
+        "searchTermEn": "Ekster parliament wallet",
+        "id": "B07PXM8HX7",
+        "filename": "B07PXM8HX7.mp4"
+      },
+      {
+        "nombre": "Rocketbook Smart Notebook",
+        "searchTermEn": "Rocketbook smart notebook",
+        "id": "B0DP3HRDC2",
+        "filename": "B0DP3HRDC2.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 3 Gadgets que Todo Abogado Debe Tener\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\nEscanea y borra tus notas al instante. Tus escritos cobran vida digitalmente. Acceso instantáneo a tus tarjetas con un solo botón.\n\n[0:10-0:15] INTRODUCTION\nSuscríbete, los links están en el primer comentario. Empecemos.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] LIVESCRIBE SMARTPEN\nTomar notas y perderlas es frustrante. Livescribe Smartpen sincroniza todo lo que escribes a tu smartphone, grabando audio simultáneamente. Organiza y comparte tus notas al instante.\nSu precio actual en Amazon ronda los... 211 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Livescribe Smartpen]\n\n[0:25] EKSTER PARLIAMENT WALLET\nCon tecnología de botón emergente, este innovador Ekster Parliament Wallet ofrece acceso instantáneo y protección RFID. Su diseño de aluminio garantiza durabilidad y estilo.\nSu precio actual en Amazon ronda los... 89 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Ekster Parliament Wallet]\n\n[0:25] ROCKETBOOK SMART NOTEBOOK\nLo que pocos saben del Rocketbook Smart Notebook es que permite escribir, digitalizar y borrar sin esfuerzo. Sus páginas reutilizables se conectan a la nube, facilitando el acceso desde cualquier lugar.\nSu precio actual en Amazon ronda los... 35 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Rocketbook Smart Notebook]\n\n[10 seconds] CONCLUSION\nDale like y recuerda que los links están en el primer comentario.\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:45\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, todo, abogado, debe, tener\n"
+}

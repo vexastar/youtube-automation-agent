@@ -1,0 +1,167 @@
+{
+  "title": "Top 3 Gadgets Virales que Debes Probar",
+  "hook": {
+    "type": "statement",
+    "text": "Este paraguas cabe en tu bolsillo. Este cargador usa el poder del sol. Este rastreador encuentra tus objetos perdidos.",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "Suscríbete, los links están en el primer comentario. Empecemos.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0:10-0:15"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Kikkerland Mini Umbrella",
+        "productId": "B09Q2PQ7ZB",
+        "productName": "Kikkerland Mini Umbrella",
+        "filename": "B09Q2PQ7ZB.mp4",
+        "content": [
+          "Salir sin paraguas y enfrentar una lluvia inesperada es un desastre. El Kikkerland Mini Umbrella se despliega para protegerte y cabe en cualquier bolso. Compacto y ligero, es tu aliado contra el clima imprevisto.",
+          "Su precio actual en Amazon ronda los... 15 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Kikkerland Mini Umbrella"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B09Q2PQ7ZB.mp4",
+        "precio": "$15",
+        "productPhoto": "https://m.media-amazon.com/images/I/71W5orbX6eL._AC_UL960_QL65_.jpg"
+      },
+      {
+        "type": "content",
+        "title": "Anker PowerPort Solar",
+        "productId": "B07FDXDB3W",
+        "productName": "Anker PowerPort Solar",
+        "filename": "B07FDXDB3W.mp4",
+        "content": [
+          "Quedarse sin batería en medio de una aventura al aire libre es frustrante. Anker PowerPort Solar recarga tus dispositivos usando solo la luz solar. Portátil y eficiente, es ideal para los amantes de la naturaleza.",
+          "Su precio actual en Amazon ronda los... 25 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Anker PowerPort Solar"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07FDXDB3W.mp4",
+        "precio": "$25",
+        "productPhoto": "https://m.media-amazon.com/images/I/914neAuUXGL._AC_UY654_QL65_.jpg"
+      },
+      {
+        "type": "content",
+        "title": "Tile Mate Tracker",
+        "productId": "B0D63657GY",
+        "productName": "Tile Mate Tracker",
+        "filename": "B0D63657GY.mp4",
+        "content": [
+          "Perder las llaves o la cartera puede arruinar tu día. Tile Mate Tracker te ayuda a encontrarlos rápidamente con su tecnología de rastreo. Compatible con smartphones, te facilita la vida al instante.",
+          "Su precio actual en Amazon ronda los... 24 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Tile Mate Tracker"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0D63657GY.mp4",
+        "precio": "$24",
+        "productPhoto": "https://m.media-amazon.com/images/I/81SYpSm0gNL._AC_UY654_QL65_.jpg"
+      }
+    ],
+    "totalDuration": 75
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "Dale like y recuerda que los links están en el primer comentario."
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:45",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "virales",
+    "debes",
+    "probar"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 3 Gadgets Virales que Debes Probar",
+      "angle": "Top 3 Gadgets Virales que Debes Probar",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 3,
+      "introScript": "¿Un paraguas ultracompacto que cabe en tu bolsillo? ¿Un cargador solar del tamaño de una tarjeta de crédito? Hoy te traigo las maravillas tecnológicas más virales que puedes comprar ahora mismo para sorprenderte y hacer tu vida más fácil.",
+      "keywords": [
+        "gadgets",
+        "virales",
+        "debes",
+        "probar"
+      ],
+      "estimatedViews": 5278,
+      "bestPublishTime": "2026-04-26T15:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Kikkerland Mini Umbrella",
+          "searchTermEn": "Kikkerland Mini Umbrella portable",
+          "id": "B09Q2PQ7ZB",
+          "filename": "B09Q2PQ7ZB.mp4"
+        },
+        {
+          "nombre": "Anker PowerPort Solar",
+          "searchTermEn": "Anker PowerPort Solar charger",
+          "id": "B07FDXDB3W",
+          "filename": "B07FDXDB3W.mp4"
+        },
+        {
+          "nombre": "Tile Mate Tracker",
+          "searchTermEn": "Tile Mate Bluetooth tracker",
+          "id": "B0D63657GY",
+          "filename": "B0D63657GY.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-04-22T17:46:18.236Z",
+      "_requestedCount": 3,
+      "_adaptedCount": 3,
+      "_scriptNonce": "nonce_1776880114982_umnz2r"
+    },
+    "generatedAt": "2026-04-22T17:48:41.505Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Kikkerland Mini Umbrella",
+        "searchTermEn": "Kikkerland Mini Umbrella portable",
+        "id": "B09Q2PQ7ZB",
+        "filename": "B09Q2PQ7ZB.mp4"
+      },
+      {
+        "nombre": "Anker PowerPort Solar",
+        "searchTermEn": "Anker PowerPort Solar charger",
+        "id": "B07FDXDB3W",
+        "filename": "B07FDXDB3W.mp4"
+      },
+      {
+        "nombre": "Tile Mate Tracker",
+        "searchTermEn": "Tile Mate Bluetooth tracker",
+        "id": "B0D63657GY",
+        "filename": "B0D63657GY.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 3 Gadgets Virales que Debes Probar\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\nEste paraguas cabe en tu bolsillo. Este cargador usa el poder del sol. Este rastreador encuentra tus objetos perdidos.\n\n[0:10-0:15] INTRODUCTION\nSuscríbete, los links están en el primer comentario. Empecemos.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] KIKKERLAND MINI UMBRELLA\nSalir sin paraguas y enfrentar una lluvia inesperada es un desastre. El Kikkerland Mini Umbrella se despliega para protegerte y cabe en cualquier bolso. Compacto y ligero, es tu aliado contra el clima imprevisto.\nSu precio actual en Amazon ronda los... 15 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Kikkerland Mini Umbrella]\n\n[0:25] ANKER POWERPORT SOLAR\nQuedarse sin batería en medio de una aventura al aire libre es frustrante. Anker PowerPort Solar recarga tus dispositivos usando solo la luz solar. Portátil y eficiente, es ideal para los amantes de la naturaleza.\nSu precio actual en Amazon ronda los... 25 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Anker PowerPort Solar]\n\n[0:25] TILE MATE TRACKER\nPerder las llaves o la cartera puede arruinar tu día. Tile Mate Tracker te ayuda a encontrarlos rápidamente con su tecnología de rastreo. Compatible con smartphones, te facilita la vida al instante.\nSu precio actual en Amazon ronda los... 24 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Tile Mate Tracker]\n\n[10 seconds] CONCLUSION\nDale like y recuerda que los links están en el primer comentario.\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:45\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, virales, debes, probar\n"
+}

@@ -1,0 +1,139 @@
+{
+  "title": "Top 3 Gadgets Asombrosos para tu Cocina",
+  "hook": {
+    "type": "statement",
+    "text": "Convierte tus vegetales en espirales perfectos en segundos. Protege tus bandejas de horno con una superficie antiadherente que aguanta todo. Mantén tus tiempos de cocción bajo control con una pantalla digital que te avisa al instante. Hoy te mostraré estos inventos increíbles y dejaré el enlace de cada uno en el primer comentario. Suscríbete. Empecemos.",
+    "duration": "0:00-0:15"
+  },
+  "introduction": {
+    "greeting": "",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0:00-0:00"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Cortador espiral de verduras",
+        "content": [
+          "¿Cansado de cortar verduras de manera convencional y aburrida? El cortador espiral de verduras transforma tus zanahorias y calabacines en divertidas espirales en un abrir y cerrar de ojos. Su diseño compacto facilita su uso diario y limpieza.",
+          "Su precio actual en Amazon ronda los... 15 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Cortador espiral de verduras"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B09XLG3YQB.mp4",
+        "precio": "$15"
+      },
+      {
+        "type": "content",
+        "title": "Tapete silicona para horno",
+        "content": [
+          "El horneado puede ser un desastre cuando la comida se pega a las bandejas. El tapete de silicona para horno proporciona una superficie antiadherente que resiste hasta las temperaturas más altas. Libre de BPA, es seguro y reutilizable infinitamente.",
+          "Su precio actual en Amazon ronda los... 20 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Tapete silicona para horno"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0CHZ69ZFN.mp4",
+        "precio": "$20"
+      },
+      {
+        "type": "content",
+        "title": "Temporizador magnético digital",
+        "content": [
+          "Es fácil perder la noción del tiempo al cocinar sin un buen temporizador. El temporizador magnético digital te da un control preciso con su pantalla grande y alarmas audibles. Se adhiere a cualquier superficie metálica para un acceso rápido.",
+          "Su precio actual en Amazon ronda los... 25 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Temporizador magnético digital"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0FBR9XKHX.mp4",
+        "precio": "$25"
+      }
+    ],
+    "totalDuration": 75
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "Dale like si te gustaron estos gadgets y recuerda que los links están en el primer comentario."
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:45",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "asombrosos",
+    "para",
+    "cocina"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 3 Gadgets Asombrosos para tu Cocina",
+      "angle": "Top 3 Gadgets Asombrosos para tu Cocina",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 3,
+      "introScript": "¿Un cortador que transforma tus verduras en espagueti en segundos? ¿Un tapete de silicona que evita desbordes en el horno? Descubre los gadgets más útiles para revolucionar tus habilidades culinarias.",
+      "keywords": [
+        "gadgets",
+        "asombrosos",
+        "para",
+        "cocina"
+      ],
+      "estimatedViews": 4506,
+      "bestPublishTime": "2026-04-14T19:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Cortador espiral de verduras",
+          "searchTermEn": "vegetable spiral slicer"
+        },
+        {
+          "nombre": "Tapete silicona para horno",
+          "searchTermEn": "silicone oven mat"
+        },
+        {
+          "nombre": "Temporizador magnético digital",
+          "searchTermEn": "magnetic digital kitchen timer"
+        }
+      ],
+      "createdAt": "2026-04-07T23:41:45.846Z"
+    },
+    "generatedAt": "2026-04-07T23:41:50.704Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Cortador espiral de verduras",
+        "searchTermEn": "vegetable spiral slicer"
+      },
+      {
+        "nombre": "Tapete silicona para horno",
+        "searchTermEn": "silicone oven mat"
+      },
+      {
+        "nombre": "Temporizador magnético digital",
+        "searchTermEn": "magnetic digital kitchen timer"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 3 Gadgets Asombrosos para tu Cocina\n\n══════════════════════════════════════════════════\n\n[0:00-0:15] HOOK\nConvierte tus vegetales en espirales perfectos en segundos. Protege tus bandejas de horno con una superficie antiadherente que aguanta todo. Mantén tus tiempos de cocción bajo control con una pantalla digital que te avisa al instante. Hoy te mostraré estos inventos increíbles y dejaré el enlace de cada uno en el primer comentario. Suscríbete. Empecemos.\n\n[0:00-0:00] INTRODUCTION\n\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] CORTADOR ESPIRAL DE VERDURAS\n¿Cansado de cortar verduras de manera convencional y aburrida? El cortador espiral de verduras transforma tus zanahorias y calabacines en divertidas espirales en un abrir y cerrar de ojos. Su diseño compacto facilita su uso diario y limpieza.\nSu precio actual en Amazon ronda los... 15 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Cortador espiral de verduras]\n\n[0:25] TAPETE SILICONA PARA HORNO\nEl horneado puede ser un desastre cuando la comida se pega a las bandejas. El tapete de silicona para horno proporciona una superficie antiadherente que resiste hasta las temperaturas más altas. Libre de BPA, es seguro y reutilizable infinitamente.\nSu precio actual en Amazon ronda los... 20 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Tapete silicona para horno]\n\n[0:25] TEMPORIZADOR MAGNÉTICO DIGITAL\nEs fácil perder la noción del tiempo al cocinar sin un buen temporizador. El temporizador magnético digital te da un control preciso con su pantalla grande y alarmas audibles. Se adhiere a cualquier superficie metálica para un acceso rápido.\nSu precio actual en Amazon ronda los... 25 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Temporizador magnético digital]\n\n[10 seconds] CONCLUSION\nDale like si te gustaron estos gadgets y recuerda que los links están en el primer comentario.\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:45\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, asombrosos, para, cocina\n"
+}

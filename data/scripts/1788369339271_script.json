@@ -1,0 +1,183 @@
+{
+  "title": "Top 2 Productos que Transforman tu Cocina",
+  "hook": {
+    "type": "statement",
+    "text": "",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "25s-35s"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Chopbox Smart Cutting Board",
+        "productId": "B0CP31FPGC",
+        "productName": "Chopbox Smart Cutting Board",
+        "filename": "B0CP31FPGC.mp4",
+        "asin": "B0CP31FPGC",
+        "videoDuration": 33.6015,
+        "estimatedAudioSeconds": 36,
+        "framework": "enfoque_caracteristica",
+        "narracionSegments": null,
+        "content": [
+          "¿Problemas al cortar sin ensuciar? Chopbox Smart Cutting Board: límpieza autolimpiable. Mantén todo ordenado. Esta tabla y cuchillos eléctricos organizan y pulen tu cocina; Corta con precisión; evita mezclas desagradables... Sé elegante conservando espacio. Usa sus tablas codificadas por colores... Pulsa su función de secado electrónico: ni una gota se escapa; Mantén las herramientas secas; listas para la acción; Los cuchillos duran más... Tu encimera limpia, tus comidas perfectas. ¿Lo imaginas en tu cocina? Agrega estilo y orden.",
+          "Su precio actual ronda los 110 dólares. Link en comentarios."
+        ],
+        "visuals": [
+          "Product image: Chopbox Smart Cutting Board"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0CP31FPGC.mp4",
+        "precio": "$110",
+        "productPhoto": "https://m.media-amazon.com/images/I/61n2Bu8gqaL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "Conjunto Completo: Corta y pica toda tu comida, desde el aperitivo hasta el plato principal, con nuestro conjunto completo de tabla de cortar y cuchillos. Previene la mezcla de alimentos y facilita la preparación de comidas con nuestro conjunto de tablas de cortar codificadas por colores y cuchillos, fácil de entender.",
+          "Limpieza: Disfruta cocinar sin preocuparte por la seguridad: nuestro juego de tabla de cortar y cuchillos autolimpiantes -powered crea una experiencia de cocina limpia y mantiene alejados los elementos dañinos. ¡Esto también extiende la vida de tus cuchillos y tabla de cortar!",
+          "Estilo Elegante: Nuestro set de tablas de cortar autolimpiantes es tanto funcional como estéticamente agradable para cualquier cocina de hogar inteligente. Ahorra espacio en la encimera con el set de tablas de cortar delgadas con soporte, mientras mantienes tus cuchillas y tablas al alcance.",
+          "Contén el desorden: Mantén tu cocina limpia y organizada con nuestro inteligente soporte para cuchillos y tabla de cortar. Su función de secado electrónico evita que el agua se acumule en tu encimera, al mismo tiempo que mantiene tus herramientas de corte y picado en perfectas condiciones.",
+          "Nuestro sistema completo de tabla de cortar inteligente y cuchillos incluye 1 x soporte de limpieza eléctrico, 15.25\"W x 4.25\"D x 11\"H, 1 x cuchillo para pescado 9\"L, 1 x cuchillo para deli 11.75\"L, 1 x hacha 12.25\"L, 1 x cuchillo para frutas 8\"L, 4 x tablas de cortar 12.5\"L x 9.75\"W."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Lomi Composter",
+        "productId": "B0B4BP1Y69",
+        "productName": "Lomi Composter",
+        "filename": "B0B4BP1Y69.mp4",
+        "asin": "B0B4BP1Y69",
+        "videoDuration": 115.216367,
+        "estimatedAudioSeconds": 34,
+        "framework": "beneficio_oculto",
+        "narracionSegments": null,
+        "content": [
+          "¿Tu cocina huele mal? Lomi Composter transforma desechos en abono sin olores. El secreto está en sus exclusivos Lomi Pods y filtros de carbón activado; importados de Estados Unidos y América del Norte. Combate los malos olores eficazmente. Enciende el Lomi, añade residuos orgánicos y también los Pods. Obtén tierra rica en nutrientes que mejora la salud de tus plantas al mezclarla 1 a 10 con suelo. Tu hogar limpio; tu jardín feliz.",
+          "Su precio actual ronda los... 449 dólares. Link en comentarios."
+        ],
+        "visuals": [
+          "Product image: Lomi Composter"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0B4BP1Y69.mp4",
+        "precio": "$449",
+        "productPhoto": "https://m.media-amazon.com/images/I/51C8eyLV6QL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "Lomi Pods y Filtros - La Mejor Manera de Potenciar y Mantener Fresco Lomi",
+          "\"La única Pods y Filters fabricados exclusivamente por Lomi en los EE. UU. y América del Norte.\"",
+          "Los mejores Pods para plantas felices – Crea Lomi Earth rica en nutrientes que mejora la salud del suelo. Mezcla con tierra en una proporción de 1:10 para un fertilizante natural.",
+          "Lo mejor para combatir olores: carbón activado para una frescura máxima, asegurando que tu cocina se mantenga libre de olores.",
+          "Lo que incluye: Tu pedido incluye dos bolsas de activated charcoal (equivalente a un refill) para el control de olores y una bolsa de Lomi Pods para enriquecer tu compost."
+        ]
+      }
+    ],
+    "totalDuration": 80
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      ""
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:50",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "productos",
+    "transforman",
+    "cocina"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 2 Productos que Transforman tu Cocina",
+      "angle": "Top 2 Productos que Transforman tu Cocina",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 2,
+      "introScript": "¿Te imaginas un dispositivo que corta y pesa tus ingredientes al mismo tiempo? ¿O un gadget que convierte tus sobras en abono en solo 24 horas? Hoy exploramos dos innovaciones geniales que llevarán tu cocina al siguiente nivel. Prepárate para descubrir cómo la tecnología puede facilitarte la vida culinaria con estas asombrosas herramientas.",
+      "keywords": [
+        "productos",
+        "transforman",
+        "cocina"
+      ],
+      "estimatedViews": 5380,
+      "bestPublishTime": "2026-09-08T19:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Chopbox Smart Cutting Board",
+          "searchTermEn": "Chopbox Smart Cutting Board",
+          "id": "B0CP31FPGC",
+          "filename": "B0CP31FPGC.mp4"
+        },
+        {
+          "nombre": "Lomi Composter",
+          "searchTermEn": "Lomi compost kitchen",
+          "id": "B0B4BP1Y69",
+          "filename": "B0B4BP1Y69.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-09-02T17:10:06.414Z",
+      "_requestedCount": 2,
+      "_adaptedCount": 2,
+      "introProductsOrder": [
+        {
+          "nombre": "Chopbox Smart Cutting Board",
+          "id": "B0CP31FPGC",
+          "filename": "B0CP31FPGC.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0CP31FPGC.mp4"
+        },
+        {
+          "nombre": "Lomi Composter",
+          "id": "B0B4BP1Y69",
+          "filename": "B0B4BP1Y69.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0B4BP1Y69.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1788369302016_wtmt0t"
+    },
+    "generatedAt": "2026-09-02T17:15:21.293Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Chopbox Smart Cutting Board",
+        "searchTermEn": "Chopbox Smart Cutting Board",
+        "id": "B0CP31FPGC",
+        "filename": "B0CP31FPGC.mp4"
+      },
+      {
+        "nombre": "Lomi Composter",
+        "searchTermEn": "Lomi compost kitchen",
+        "id": "B0B4BP1Y69",
+        "filename": "B0B4BP1Y69.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 2 Productos que Transforman tu Cocina\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\n\n\n[25s-35s] INTRODUCTION\n\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] CHOPBOX SMART CUTTING BOARD\n¿Problemas al cortar sin ensuciar? Chopbox Smart Cutting Board: límpieza autolimpiable. Mantén todo ordenado. Esta tabla y cuchillos eléctricos organizan y pulen tu cocina; Corta con precisión; evita mezclas desagradables... Sé elegante conservando espacio. Usa sus tablas codificadas por colores... Pulsa su función de secado electrónico: ni una gota se escapa; Mantén las herramientas secas; listas para la acción; Los cuchillos duran más... Tu encimera limpia, tus comidas perfectas. ¿Lo imaginas en tu cocina? Agrega estilo y orden.\nSu precio actual ronda los 110 dólares. Link en comentarios.\n\n[VISUALS: Product image: Chopbox Smart Cutting Board]\n\n[0:25] LOMI COMPOSTER\n¿Tu cocina huele mal? Lomi Composter transforma desechos en abono sin olores. El secreto está en sus exclusivos Lomi Pods y filtros de carbón activado; importados de Estados Unidos y América del Norte. Combate los malos olores eficazmente. Enciende el Lomi, añade residuos orgánicos y también los Pods. Obtén tierra rica en nutrientes que mejora la salud de tus plantas al mezclarla 1 a 10 con suelo. Tu hogar limpio; tu jardín feliz.\nSu precio actual ronda los... 449 dólares. Link en comentarios.\n\n[VISUALS: Product image: Lomi Composter]\n\n[10 seconds] CONCLUSION\n\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:50\nTONE: engaging\nPACING: quick\nKEYWORDS: productos, transforman, cocina\n"
+}

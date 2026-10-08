@@ -1,0 +1,853 @@
+{
+  "title": "Top 10 Gadgets con Inteligencia Artificial que Puedes Encontrar en Amazon",
+  "hook": {
+    "type": "statement",
+    "text": "Detección inteligente en exteriores. Limpieza y precisión en cada rincón. Vigilancia accesible y rápida. Salud al alcance de tu muñeca. Control digital de tu peso.",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "Todo está en el primer comentario. Vamos.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "25s-35s"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Amazon Echo Dot",
+        "productId": "B0BFC7WQ6R",
+        "productName": "Amazon Echo Dot",
+        "filename": "B0BFC7WQ6R.mp4",
+        "asin": "B0BFC7WQ6R",
+        "videoDuration": 60.06006,
+        "estimatedAudioSeconds": 50,
+        "framework": "comparacion_precio",
+        "narracionSegments": null,
+        "content": [
+          "El Amazon Echo Dot transforma cómo interactúas con la tecnología, a un precio competitivo. Reproduce tus temas favoritos desde Amazon Music, Apple Music o Spotify. Alexa responde a todas tus consultas, desde el clima hasta chistes. Con sensores incorporados, automatiza luces o ventiladores según la temperatura de tu hogar. Usa la tecnología Eero para ampliar tu red wai fai sin interrupciones molestas.",
+          "Su precio actual en Amazon ronda los... 50 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Amazon Echo Dot"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0BFC7WQ6R_combined.mp4",
+        "precio": "$50",
+        "productPhoto": "https://m.media-amazon.com/images/I/71cSMRiDN2L.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "Tu música y contenido favoritos: Reproduce música, audiolibros y podcasts de Amazon Music, Apple Music, Spotify y otros, o a través de Bluetooth en toda tu casa.",
+          "\"\"\"Alexa está feliz de ayudar – Pídele a Alexa actualizaciones del clima y que configure temporizadores manos libres, obtén respuestas a tus preguntas e incluso escucha chistes. ¿Necesitas unos minutos extra por la mañana? Simplemente toca tu Echo Dot para posponer tu alarma.\"\"\"",
+          "Mantén tu hogar cómodo: controla dispositivos inteligentes compatibles con tu voz y rutinas activadas por sensores de movimiento integrados o sensores de temperatura interior. Crea rutinas para encender automáticamente las luces cuando entres en una habitación, o para encender un ventilador si la temperatura interior supera tu zona de confort.",
+          "Haz más con la vinculación de dispositivos: llena tu hogar de música utilizando dispositivos Echo compatibles en diferentes habitaciones, o crea un sistema de cine en casa con Fire TV.",
+          "Di adiós a las caídas y al buffering - Con eero Built-in, Echo Dot se convierte en un extensor de wifi en malla, añadiendo hasta 1,000 sq. ft. de cobertura wifi a tu red eero existente."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "iRobot Roomba j7+",
+        "productId": "B094NYHTMF",
+        "productName": "iRobot Roomba j7+",
+        "filename": "B094NYHTMF.mp4",
+        "asin": "B094NYHTMF",
+        "videoDuration": 60.026,
+        "estimatedAudioSeconds": null,
+        "framework": "dato_numerico",
+        "narracionSegments": null,
+        "content": [
+          "\"Imprint Smart Mapping\" almacena mapas detallados para limpieza eficiente del iRobot Roomba j7+. Con una succión potente diez veces mayor que modelos anteriores, elimina todo tipo de suelo desordenado., evitando desechos de mascotas garantizado por su promesa P.O.O.P Sugerencias personalizadas mejoran continuamente sus hábitos.",
+          "\"Su precio actual en Amazon ronda los... 150 dólares.\" ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: iRobot Roomba j7+"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B094NYHTMF_combined.mp4",
+        "precio": "$150",
+        "productPhoto": "https://m.media-amazon.com/images/I/71NwZ7H+zEL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B094NYHTMF\\scenes_v1\\B094NYHTMF_scene_05.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "robot aspirador",
+            "raw": "9|robot aspirador"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B094NYHTMF\\scenes_v1\\B094NYHTMF_scene_07.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "robot aspirador",
+            "raw": "9|robot aspirador"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B094NYHTMF\\scenes_v1\\B094NYHTMF_scene_08.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Interacción hogar",
+            "raw": "9|Interacción hogar"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B094NYHTMF\\scenes_v1\\B094NYHTMF_scene_12.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Robot aspirador",
+            "raw": "9|Robot aspirador"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B094NYHTMF\\scenes_v1\\B094NYHTMF_scene_02.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "robot aspirador",
+            "raw": "8|robot aspirador"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B094NYHTMF\\scenes_v1\\B094NYHTMF_scene_03.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "robot aspirador",
+            "raw": "8|robot aspirador"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B094NYHTMF\\scenes_v1\\B094NYHTMF_scene_01.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Roomba j7+",
+            "raw": "8|Roomba j7+"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B094NYHTMF\\scenes_v1\\B094NYHTMF_scene_04.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Roomba en acción",
+            "raw": "8|Roomba en acción"
+          }
+        ],
+        "features": [
+          "LIMPIA CUANDO Y DONDE QUIERAS– Solo iRobot te ofrece Imprint Smart Mapping, que te permite controlar y programar qué habitaciones se limpian y cuándo, mientras almacena múltiples mapas para facilitar la limpieza en cada nivel de tu hogar.",
+          "EVITA ACCIDENTES DE MASCOTAS – LO GARANTIZAMOS - iRobot te presenta P.O.O.P. (Promesa Oficial del Propietario de Mascotas). Puedes confiar en que tu Roomba j7+ evitará desechos de mascotas, o lo reemplazaremos gratis. Se aplican términos y condiciones adicionales – consulta el sitio web de iRobot para más detalles.",
+          "NO SOLO APRENDE SOBRE TU HOGAR; REACCIONA A ÉL EN TIEMPO REAL. Con PrecisionVision Navigation y una cámara, tu robot identifica y evita obstáculos de todos los tamaños, como desechos de mascotas, cables de carga, calcetines y zapatos, para completar todo el trabajo.",
+          "\"\"\"MÁS PENSADO DE LO QUE CREÍAS - El Roomba j7+ se encarga de la aspiración con sugerencias de limpieza personalizadas impulsadas por la inteligencia única de IRobot OS. Aprende tus hábitos y tus rutinas.\"\"\"",
+          "RENDIMIENTO PODEROSO. El Sistema de Limpieza de 3 Etapas ofrece 10 veces la Succión de Levantamiento de Poder, un Cepillo de Barrido de Bordes se adapta a paredes y esquinas, y los Cepillos de Goma Multi-Superficie Dual se flexionan para ajustarse a diferentes tipos de suelo. En comparación con la serie Roomba 600."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Nest Learning Thermostat",
+        "productId": "B0D5BBYRJM",
+        "productName": "Nest Learning Thermostat",
+        "filename": "B0D5BBYRJM.mp4",
+        "asin": "B0D5BBYRJM",
+        "videoDuration": 60.026633,
+        "estimatedAudioSeconds": null,
+        "framework": "experiencia_sensorial",
+        "narracionSegments": null,
+        "content": [
+          "Nest Learning Thermostat es una solución completa que reúne lo mejor en innovación y funcionalidad. este producto destaca por sus características versátiles: el termostato más inteligente y avanzado de Nest hasta ahora, el Google Nest Learning Thermostat (4th gen), es una forma hermosa y brillante de ahorrar energía, mantener tu hogar cómodo y ayudar a asegurar que tus sistemas de calefacción y refrigeración funcionen sin problemas.; ahorros en los que puedes confiar: El Nest Learning Thermostat puede ayudar a ahorrar hasta un 31% en las facturas de calefacción y refrigeración[2].; compatibilidad mejorada: Funciona con la mayoría de los sistemas de 24V, incluyendo gas, eléctrico, aceite, aire forzado, bomba de calor y radiante, y no se requiere un cable C para la instalación en la mayoría de los hogares; visita el Nest Compatibility Checker para más información.; control fácil en la aplicación Google Home: Ajusta desde tu teléfono desde cualquier lugar[1] o usando tu voz con Alexa, Siri o el altavoz inteligente Google Assistant[3], es fácil de instalar tú mismo y es compatible con Matter para una integración sencilla en tu hogar inteligente[5].; y diseño hermoso: Con una pantalla un 60% más grande[11] y Dynamic Farsight, puedes ver la información desde el otro lado de la habitación[1]; elige el diseño, como un reloj o el clima; ajusta automáticamente el brillo para la mejor legibilidad o puedes ajustarlo manualmente.. Cada aspecto está diseñado para ofrecerte la mejor experiencia posible. Descubre por qué miles de usuarios confían en esta solución.",
+          "Su precio actual en Amazon ronda los... 230 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Nest Learning Thermostat"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0D5BBYRJM_combined.mp4",
+        "precio": "$230",
+        "productPhoto": "https://m.media-amazon.com/images/I/61etqxZHOoL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D5BBYRJM\\scenes_v1\\B0D5BBYRJM_scene_01.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "pantalla encendida",
+            "raw": "9|pantalla encendida"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D5BBYRJM\\scenes_v1\\B0D5BBYRJM_scene_03.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "termostato inteligente",
+            "raw": "9|termostato inteligente"
+          }
+        ],
+        "features": [
+          "El termostato más inteligente y avanzado de Nest hasta ahora, el Google Nest Learning Thermostat (4th gen), es una forma hermosa y brillante de ahorrar energía, mantener tu hogar cómodo y ayudar a asegurar que tus sistemas de calefacción y refrigeración funcionen sin problemas.",
+          "Ahorros en los que puedes confiar: El Nest Learning Thermostat puede ayudar a ahorrar hasta un 31% en las facturas de calefacción y refrigeración[2].",
+          "Compatibilidad mejorada: Funciona con la mayoría de los sistemas de 24V, incluyendo gas, eléctrico, aceite, aire forzado, bomba de calor y radiante, y no se requiere un cable C para la instalación en la mayoría de los hogares; visita el Nest Compatibility Checker para más información.",
+          "Control fácil en la aplicación Google Home: Ajusta desde tu teléfono desde cualquier lugar[1] o usando tu voz con Alexa, Siri o el altavoz inteligente Google Assistant[3], es fácil de instalar tú mismo y es compatible con Matter para una integración sencilla en tu hogar inteligente[5].",
+          "Diseño hermoso: Con una pantalla un 60% más grande[11] y Dynamic Farsight, puedes ver la información desde el otro lado de la habitación[1]; elige el diseño, como un reloj o el clima; ajusta automáticamente el brillo para la mejor legibilidad o puedes ajustarlo manualmente."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Anker EufyCam 2 Pro",
+        "productId": "B0DDPW1YK2",
+        "productName": "Anker EufyCam 2 Pro",
+        "filename": "B0DDPW1YK2.mp4",
+        "asin": "B0DDPW1YK2",
+        "videoDuration": 60.026633,
+        "estimatedAudioSeconds": null,
+        "framework": "problema_solucion",
+        "narracionSegments": null,
+        "content": [
+          "Anker EufyCam 2 Pro es una solución completa que reúne lo mejor en innovación y funcionalidad. este producto destaca por sus características versátiles: noche tan brillante como el día: Aprovecha el poder de una cámara 4K combinada con la tecnología MaxColor Vision. eufyCam S3 Pro captura imágenes de vigilancia excepcionalmente detalladas en cada fotograma, ofreciendo una claridad de imagen similar a la del día incluso en condiciones de luz ultra baja sin necesidad de un foco.; sistema de Energía Solar Confiable: Experimenta tranquilidad durante todo el año con seguridad continua y confiable impulsada por la tecnología SolarPlus 2.0. Elige el panel integrado para una eficiencia optimizada o añade un panel externo para ampliar la cobertura energética. Este sistema ofrece opciones de montaje versátiles y energía de respaldo confiable para una seguridad continua (incluye panel solar de respaldo).; detección Potenciada por Radar: Las alertas solo sobre lo que importa: El sistema de detección de movimiento dual, que combina radar e infrarrojos pasivos (PIR), identifica con precisión el movimiento humano y reduce las alertas falsas en un 99%, garantizando que las alertas solo se activen por eventos de seguridad importantes en áreas específicas.; seguridad Local, Sin Cuota Mensual: 16GB de almacenamiento en el dispositivo y hasta 16TB de almacenamiento expandible sin cuotas mensuales, HomeBase S380 equipa tus dispositivos con IA de autoaprendizaje para una gestión inteligente y facilita el control sin esfuerzo sobre la configuración del grupo, manteniendo tu privacidad de manera segura en tus manos.; y compatible con HomeKit, Alexa y otros asistentes de voz. (La grabación de video será en resolución 1080P al usar HomeKit.). Cada aspecto está diseñado para ofrecerte la mejor experiencia posible. Descubre por qué miles de usuarios confían en esta solución.",
+          "Su precio actual en Amazon ronda los... 400 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Anker EufyCam 2 Pro"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0DDPW1YK2_combined.mp4",
+        "precio": "$400",
+        "productPhoto": "https://m.media-amazon.com/images/I/51Jcu2uOVyL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DDPW1YK2\\scenes_v1\\B0DDPW1YK2_scene_29.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DDPW1YK2\\scenes_v1\\B0DDPW1YK2_scene_07.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "cámara de seguridad",
+            "raw": "8|cámara de seguridad"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DDPW1YK2\\scenes_v1\\B0DDPW1YK2_scene_11.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "cámara de seguridad",
+            "raw": "8|cámara de seguridad"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DDPW1YK2\\scenes_v1\\B0DDPW1YK2_scene_17.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "cámara de seguridad",
+            "raw": "8|cámara de seguridad"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DDPW1YK2\\scenes_v1\\B0DDPW1YK2_scene_19.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Cámara exterior",
+            "raw": "8|Cámara exterior"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DDPW1YK2\\scenes_v1\\B0DDPW1YK2_scene_24.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Cámara exterior",
+            "raw": "8|Cámara exterior"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DDPW1YK2\\scenes_v1\\B0DDPW1YK2_scene_25.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "cámara exterior",
+            "raw": "8|cámara exterior"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DDPW1YK2\\scenes_v1\\B0DDPW1YK2_scene_27.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "cámara de seguridad",
+            "raw": "8|cámara de seguridad"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DDPW1YK2\\scenes_v1\\B0DDPW1YK2_scene_32.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "cámara eufy",
+            "raw": "8|cámara eufy"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DDPW1YK2\\scenes_v1\\B0DDPW1YK2_scene_30.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "cámara de seguridad",
+            "raw": "8|cámara de seguridad"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DDPW1YK2\\scenes_v1\\B0DDPW1YK2_scene_33.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "cámaras de seguridad",
+            "raw": "8|cámaras de seguridad"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DDPW1YK2\\scenes_v1\\B0DDPW1YK2_scene_14.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "producto visible",
+            "raw": "5|producto visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DDPW1YK2\\scenes_v1\\B0DDPW1YK2_scene_15.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "cámaras exteriores",
+            "raw": "5|cámaras exteriores"
+          }
+        ],
+        "features": [
+          "Noche tan brillante como el día: Aprovecha el poder de una cámara 4K combinada con la tecnología MaxColor Vision. eufyCam S3 Pro captura imágenes de vigilancia excepcionalmente detalladas en cada fotograma, ofreciendo una claridad de imagen similar a la del día incluso en condiciones de luz ultra baja sin necesidad de un foco.",
+          "Sistema de Energía Solar Confiable: Experimenta tranquilidad durante todo el año con seguridad continua y confiable impulsada por la tecnología SolarPlus 2.0. Elige el panel integrado para una eficiencia optimizada o añade un panel externo para ampliar la cobertura energética. Este sistema ofrece opciones de montaje versátiles y energía de respaldo confiable para una seguridad continua (incluye panel solar de respaldo).",
+          "Detección Potenciada por Radar: Las alertas solo sobre lo que importa: El sistema de detección de movimiento dual, que combina radar e infrarrojos pasivos (PIR), identifica con precisión el movimiento humano y reduce las alertas falsas en un 99%, garantizando que las alertas solo se activen por eventos de seguridad importantes en áreas específicas.",
+          "Seguridad Local, Sin Cuota Mensual: 16GB de almacenamiento en el dispositivo y hasta 16TB de almacenamiento expandible sin cuotas mensuales, HomeBase S380 equipa tus dispositivos con IA de autoaprendizaje para una gestión inteligente y facilita el control sin esfuerzo sobre la configuración del grupo, manteniendo tu privacidad de manera segura en tus manos.",
+          "Compatible con HomeKit, Alexa y otros asistentes de voz. (La grabación de video será en resolución 1080P al usar HomeKit.)"
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Philips Hue White Bulb",
+        "productId": "B0FMH4ZMTM",
+        "productName": "Philips Hue White Bulb",
+        "filename": "B0FMH4ZMTM.mp4",
+        "asin": "B0FMH4ZMTM",
+        "videoDuration": 59.8598,
+        "estimatedAudioSeconds": null,
+        "framework": "enfoque_caracteristica",
+        "narracionSegments": null,
+        "content": [
+          "Philips Hue White Bulb es una solución completa que reúne lo mejor en innovación y funcionalidad. este producto destaca por sus características versátiles: lUZ BLANCA CÁLIDA: Ilumina tu hogar y crea una sensación cálida y acogedora con luz blanca suave (2700K) ideal para dormitorios, salas de estar y espacios para relajarse.; bAJO DIMMING: Atenúa tu bombilla LED suavemente desde el brillo completo hasta el 5% para lograr la iluminación adecuada para lo que estés haciendo, ya sea viendo una película o relajándote antes de dormir.; \"\"\"CONTROLES INTELIGENTES: Controla tu luz LED de forma remota utilizando la galardonada app Hue o añade un Bridge para controlar con tu asistente de hogar preferido—compatible con Alexa, Google Assistant y Apple Home.\"\"\"; fÁCIL DE USAR: Simplemente atornilla tu nueva bombilla LED inteligente, descarga la galardonada app Hue y comienza a disfrutar de todos los beneficios de la iluminación inteligente—es así de fácil.; y cONSTRUIDOS PARA DURAR: Estas bombillas Hue LED están diseñadas para durar, con una vida útil promedio de 25,000 horas.. Cada aspecto está diseñado para ofrecerte la mejor experiencia posible. Descubre por qué miles de usuarios confían en esta solución.",
+          "Su precio actual en Amazon ronda los... 53 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Philips Hue White Bulb"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0FMH4ZMTM_combined.mp4",
+        "precio": "$53",
+        "productPhoto": "https://m.media-amazon.com/images/I/71HOo7LWWYL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FMH4ZMTM\\scenes_v1\\B0FMH4ZMTM_scene_01.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "bombillas LED",
+            "raw": "9|bombillas LED"
+          }
+        ],
+        "features": [
+          "LUZ BLANCA CÁLIDA: Ilumina tu hogar y crea una sensación cálida y acogedora con luz blanca suave (2700K) ideal para dormitorios, salas de estar y espacios para relajarse.",
+          "BAJO DIMMING: Atenúa tu bombilla LED suavemente desde el brillo completo hasta el 5% para lograr la iluminación adecuada para lo que estés haciendo, ya sea viendo una película o relajándote antes de dormir.",
+          "\"\"\"CONTROLES INTELIGENTES: Controla tu luz LED de forma remota utilizando la galardonada app Hue o añade un Bridge para controlar con tu asistente de hogar preferido—compatible con Alexa, Google Assistant y Apple Home.\"\"\"",
+          "FÁCIL DE USAR: Simplemente atornilla tu nueva bombilla LED inteligente, descarga la galardonada app Hue y comienza a disfrutar de todos los beneficios de la iluminación inteligente—es así de fácil.",
+          "CONSTRUIDOS PARA DURAR: Estas bombillas Hue LED están diseñadas para durar, con una vida útil promedio de 25,000 horas."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Wyze Cam v3",
+        "productId": "B0C426QPDX",
+        "productName": "Wyze Cam v3",
+        "filename": "B0C426QPDX.mp4",
+        "asin": "B0C426QPDX",
+        "videoDuration": 60.026,
+        "estimatedAudioSeconds": null,
+        "framework": "beneficio_oculto",
+        "narracionSegments": null,
+        "content": [
+          "Wyze Cam v3 es una solución completa que reúne lo mejor en innovación y funcionalidad. este producto destaca por sus características versátiles: y cÁMARA DE SEGURIDAD WYZE CAM PAN V3 - NEGRA. Cada aspecto está diseñado para ofrecerte la mejor experiencia posible. Descubre por qué miles de usuarios confían en esta solución.",
+          "Su precio actual en Amazon ronda los... 29 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Wyze Cam v3"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0C426QPDX_combined.mp4",
+        "precio": "$29",
+        "productPhoto": "https://m.media-amazon.com/images/I/3125Ck25TxL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0C426QPDX\\scenes_v1\\B0C426QPDX_scene_01.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0C426QPDX\\scenes_v1\\B0C426QPDX_scene_02.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Interacción clara",
+            "raw": "9|Interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0C426QPDX\\scenes_v1\\B0C426QPDX_scene_03.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0C426QPDX\\scenes_v1\\B0C426QPDX_scene_04.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Interacción cámara",
+            "raw": "9|Interacción cámara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0C426QPDX\\scenes_v1\\B0C426QPDX_scene_05.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Interacción cámara",
+            "raw": "9|Interacción cámara"
+          }
+        ],
+        "features": [
+          "CÁMARA DE SEGURIDAD WYZE CAM PAN V3 - NEGRA"
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Sonos One SL",
+        "productId": "B0GJ78ZKF6",
+        "productName": "Sonos One SL",
+        "filename": "B0GJ78ZKF6.mp4",
+        "asin": "B0GJ78ZKF6",
+        "videoDuration": 60.026633,
+        "estimatedAudioSeconds": null,
+        "framework": "comparacion_precio",
+        "narracionSegments": null,
+        "content": [
+          "Sonos One SL es una solución completa que reúne lo mejor en innovación y funcionalidad. este producto destaca por sus características versátiles: tweeters angulados duales y un potente midwoofer ofrecen un sonido estéreo rico y equilibrado con graves profundos.; el comienzo o adición perfecta para tu sistema, Era 100 SL hace que el sonido de Sonos sea más accesible.; transmite a través de WiFi, empareja por Bluetooth o conecta un tocadiscos y más con la entrada de línea.; \"Ve de desempaquetar a un sonido increíble en minutos con una rápida conexión y la aplicación Sonos.\"; y trueplay ajusta finamente el Era 100 SL para las acústicas únicas de la habitación.. Cada aspecto está diseñado para ofrecerte la mejor experiencia posible. Descubre por qué miles de usuarios confían en esta solución.",
+          "Su precio actual en Amazon ronda los... 189 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Sonos One SL"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0GJ78ZKF6_combined.mp4",
+        "precio": "$189",
+        "productPhoto": "https://m.media-amazon.com/images/I/61HzMBSwADL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "Tweeters angulados duales y un potente midwoofer ofrecen un sonido estéreo rico y equilibrado con graves profundos.",
+          "El comienzo o adición perfecta para tu sistema, Era 100 SL hace que el sonido de Sonos sea más accesible.",
+          "Transmite a través de WiFi, empareja por Bluetooth o conecta un tocadiscos y más con la entrada de línea.",
+          "\"Ve de desempaquetar a un sonido increíble en minutos con una rápida conexión y la aplicación Sonos.\"",
+          "Trueplay ajusta finamente el Era 100 SL para las acústicas únicas de la habitación."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Garmin Venu Sq",
+        "productId": "B0B5VVNJBF",
+        "productName": "Garmin Venu Sq",
+        "filename": "B0B5VVNJBF.mp4",
+        "asin": "B0B5VVNJBF",
+        "videoDuration": 60.026,
+        "estimatedAudioSeconds": null,
+        "framework": "dato_numerico",
+        "narracionSegments": null,
+        "content": [
+          "Garmin Venu Sq es una solución completa que reúne lo mejor en innovación y funcionalidad. este producto destaca por sus características versátiles: \"Ve todo con claridad gracias al gran texto fácil de leer en la brillante pantalla AMOLED que incluye un modo siempre activo, perfecto para echar un vistazo rápido.\"; con hasta 11 días de duración de la batería en modo smartwatch, no tendrás que quitarte el reloj cada noche para cargarlo, lo que significa una imagen más completa de tu salud 24/7.; la salud es importante para ti, así que monitorea todo, desde tus niveles de energía Body Battery, puntaje de sueño, respiración, hidratación y estrés hasta la salud de la mujer, frecuencia cardíaca y más (Este dispositivo está destinado a proporcionar una estimación de tu actividad y métricas).; encuentra nuevas formas de mantener tu cuerpo en movimiento con más de 25 aplicaciones deportivas integradas para interiores y GPS, incluyendo caminar, correr, ciclismo, HIIT, natación, golf y muchas más.; y nunca te pierdas una llamada, mensaje de texto o alerta de redes sociales de tu smartphone Apple o Android emparejado, con notificaciones inteligentes entregadas directamente a tu muñeca.. Cada aspecto está diseñado para ofrecerte la mejor experiencia posible. Descubre por qué miles de usuarios confían en esta solución.",
+          "Su precio actual en Amazon ronda los... 90 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Garmin Venu Sq"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0B5VVNJBF_combined.mp4",
+        "precio": "$90",
+        "productPhoto": "https://m.media-amazon.com/images/I/61qvPURDxsL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0B5VVNJBF\\scenes_v1\\B0B5VVNJBF_scene_01.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "pantalla encendida",
+            "raw": "9|pantalla encendida"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0B5VVNJBF\\scenes_v1\\B0B5VVNJBF_scene_02.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "pantalla encendida",
+            "raw": "9|pantalla encendida"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0B5VVNJBF\\scenes_v1\\B0B5VVNJBF_scene_04.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0B5VVNJBF\\scenes_v1\\B0B5VVNJBF_scene_09.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "pantalla smartwatch",
+            "raw": "5|pantalla smartwatch"
+          }
+        ],
+        "features": [
+          "\"Ve todo con claridad gracias al gran texto fácil de leer en la brillante pantalla AMOLED que incluye un modo siempre activo, perfecto para echar un vistazo rápido.\"",
+          "Con hasta 11 días de duración de la batería en modo smartwatch, no tendrás que quitarte el reloj cada noche para cargarlo, lo que significa una imagen más completa de tu salud 24/7.",
+          "La salud es importante para ti, así que monitorea todo, desde tus niveles de energía Body Battery, puntaje de sueño, respiración, hidratación y estrés hasta la salud de la mujer, frecuencia cardíaca y más (Este dispositivo está destinado a proporcionar una estimación de tu actividad y métricas).",
+          "Encuentra nuevas formas de mantener tu cuerpo en movimiento con más de 25 aplicaciones deportivas integradas para interiores y GPS, incluyendo caminar, correr, ciclismo, HIIT, natación, golf y muchas más.",
+          "Nunca te pierdas una llamada, mensaje de texto o alerta de redes sociales de tu smartphone Apple o Android emparejado, con notificaciones inteligentes entregadas directamente a tu muñeca."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Withings Body+ Scale",
+        "productId": "B0C3JNJPZ7",
+        "productName": "Withings Body+ Scale",
+        "filename": "B0C3JNJPZ7.mp4",
+        "asin": "B0C3JNJPZ7",
+        "videoDuration": 60.026633,
+        "estimatedAudioSeconds": null,
+        "framework": "experiencia_sensorial",
+        "narracionSegments": null,
+        "content": [
+          "Withings Body+ Scale es una solución completa que reúne lo mejor en innovación y funcionalidad. este producto destaca por sus características versátiles: uN ESCÁNER CLÍNICO DE TU SALUD - Body Comp, desarrollado en colaboración con hospitales e instituciones clínicas líderes, ha sido validado clínicamente.; lOGRA TUS OBJETIVOS DE PESO MÁS RÁPIDO - Realiza un seguimiento confiable de tu peso con una precisión de 50 g y visualiza tus tendencias de peso directamente en la pantalla a color de alta resolución de la báscula.; aUMENTA LA MASA MUSCULAR MÁS RÁPIDO - Aumenta la masa muscular más rápido analizando la composición corporal para adaptar los esfuerzos.; \"Sigue tu corazón - Evalúa tu frecuencia cardíaca en cada pesaje, un buen indicador de la condición cardiovascular general.\"; y aUMENTA TU METABOLISMO - Aumenta tu metabolismo estimando la energía que tu cuerpo necesita cada día.. Cada aspecto está diseñado para ofrecerte la mejor experiencia posible. Descubre por qué miles de usuarios confían en esta solución.",
+          "Su precio actual en Amazon ronda los... 130 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Withings Body+ Scale"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0C3JNJPZ7_combined.mp4",
+        "precio": "$130",
+        "productPhoto": "https://m.media-amazon.com/images/I/61jzbR6GHaL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0C3JNJPZ7\\scenes_v1\\B0C3JNJPZ7_scene_04.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "balanza inteligente",
+            "raw": "9|balanza inteligente"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0C3JNJPZ7\\scenes_v1\\B0C3JNJPZ7_scene_03.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "producto claro",
+            "raw": "8|producto claro"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0C3JNJPZ7\\scenes_v1\\B0C3JNJPZ7_scene_01.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "escala inteligente",
+            "raw": "8|escala inteligente"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0C3JNJPZ7\\scenes_v1\\B0C3JNJPZ7_scene_02.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "producto claro",
+            "raw": "8|producto claro"
+          }
+        ],
+        "features": [
+          "UN ESCÁNER CLÍNICO DE TU SALUD - Body Comp, desarrollado en colaboración con hospitales e instituciones clínicas líderes, ha sido validado clínicamente.",
+          "LOGRA TUS OBJETIVOS DE PESO MÁS RÁPIDO - Realiza un seguimiento confiable de tu peso con una precisión de 50 g y visualiza tus tendencias de peso directamente en la pantalla a color de alta resolución de la báscula.",
+          "AUMENTA LA MASA MUSCULAR MÁS RÁPIDO - Aumenta la masa muscular más rápido analizando la composición corporal para adaptar los esfuerzos.",
+          "\"Sigue tu corazón - Evalúa tu frecuencia cardíaca en cada pesaje, un buen indicador de la condición cardiovascular general.\"",
+          "AUMENTA TU METABOLISMO - Aumenta tu metabolismo estimando la energía que tu cuerpo necesita cada día."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Arlo Pro 4 Spotlight",
+        "productId": "B0FJTQ2K7V",
+        "productName": "Arlo Pro 4 Spotlight",
+        "filename": "B0FJTQ2K7V.mp4",
+        "asin": "B0FJTQ2K7V",
+        "videoDuration": 59.8598,
+        "estimatedAudioSeconds": null,
+        "framework": "problema_solucion",
+        "narracionSegments": null,
+        "content": [
+          "Arlo Pro 4 Spotlight es una solución completa que reúne lo mejor en innovación y funcionalidad. este producto destaca por sus características versátiles: protección Premium para Familias Ocupadas: Una cámara de seguridad 2K HDR con Detecciones Inteligentes para reducir alertas falsas y Zoom Automático y Seguimiento para mantener tu hogar seguro. Configuración fácil con Wi-Fi de Doble Banda y batería intercambiable y recargable para cobertura sin complicaciones.; \"\"\"Alertas Personalizadas que son Importantes para Ti: Configura detecciones únicas como la apertura de la puerta del garaje, un perro en el sofá o la llegada del autobús escolar. Resume rápidamente los clips de video proporcionando subtítulos de eventos. Encuentra grabaciones rápidamente utilizando la búsqueda por palabras clave.\"\"\"; respuesta Rápida de Emergencia Incluso Estando Lejos: Conéctate directamente con el equipo de emergencia local de tu cámara, no con tu ubicación actual. Un toque contacta a la policía, bomberos o ayuda médica, enviando información prellenada como códigos de acceso para un acceso más rápido cuando cada segundo cuenta.; protección Mejorada con Plan Seguro de 1 Mes Incluido: Acceso a 60-Días de Historial de Video, Detección Personalizada, Subtítulos de Eventos, Respuesta de Emergencia 24/7, Zonas de Actividad y más. Después de la prueba, los planes de suscripción comienzan en $17.99/mes (facturados anualmente).; y detalles Críticos para Proteger Tu Hogar: Obtén un campo de visión más amplio de 160º con video 2K High Dynamic Range (HDR), que ofrece los blancos más brillantes y los negros más oscuros, revelando detalles como el modelo del coche, características faciales o llaves perdidas.. Cada aspecto está diseñado para ofrecerte la mejor experiencia posible. Descubre por qué miles de usuarios confían en esta solución.",
+          "Su precio actual en Amazon ronda los... 140 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Arlo Pro 4 Spotlight"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0FJTQ2K7V_combined.mp4",
+        "precio": "$140",
+        "productPhoto": "https://m.media-amazon.com/images/I/61TjpatFqvL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FJTQ2K7V\\scenes_v1\\B0FJTQ2K7V_scene_01.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Interacción cámara",
+            "raw": "9|Interacción cámara"
+          }
+        ],
+        "features": [
+          "Protección Premium para Familias Ocupadas: Una cámara de seguridad 2K HDR con Detecciones Inteligentes para reducir alertas falsas y Zoom Automático y Seguimiento para mantener tu hogar seguro. Configuración fácil con Wi-Fi de Doble Banda y batería intercambiable y recargable para cobertura sin complicaciones.",
+          "\"\"\"Alertas Personalizadas que son Importantes para Ti: Configura detecciones únicas como la apertura de la puerta del garaje, un perro en el sofá o la llegada del autobús escolar. Resume rápidamente los clips de video proporcionando subtítulos de eventos. Encuentra grabaciones rápidamente utilizando la búsqueda por palabras clave.\"\"\"",
+          "Respuesta Rápida de Emergencia Incluso Estando Lejos: Conéctate directamente con el equipo de emergencia local de tu cámara, no con tu ubicación actual. Un toque contacta a la policía, bomberos o ayuda médica, enviando información prellenada como códigos de acceso para un acceso más rápido cuando cada segundo cuenta.",
+          "Protección Mejorada con Plan Seguro de 1 Mes Incluido: Acceso a 60-Días de Historial de Video, Detección Personalizada, Subtítulos de Eventos, Respuesta de Emergencia 24/7, Zonas de Actividad y más. Después de la prueba, los planes de suscripción comienzan en $17.99/mes (facturados anualmente).",
+          "Detalles Críticos para Proteger Tu Hogar: Obtén un campo de visión más amplio de 160º con video 2K High Dynamic Range (HDR), que ofrece los blancos más brillantes y los negros más oscuros, revelando detalles como el modelo del coche, características faciales o llaves perdidas."
+        ]
+      }
+    ],
+    "totalDuration": 400
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      null
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "7:10",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "inteligencia",
+    "artificial",
+    "puedes",
+    "encontrar",
+    "amazon"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 10 Gadgets con Inteligencia Artificial que Puedes Encontrar en Amazon",
+      "angle": "Top 10 Gadgets con Inteligencia Artificial que Puedes Encontrar en Amazon",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 10,
+      "introScript": "¿Un altavoz que escucha y responde automáticamente a tus necesidades? ¿Un robot que limpia cada rincón de tu casa mientras tú descansas? En este video descubrirás los gadgets más sorprendentes equipados con inteligencia artificial que cambiarán tu forma de vivir. Prepárate para conocer cómo la tecnología puede hacer tu vida mucho más sencilla y eficiente con solo un clic.",
+      "keywords": [
+        "gadgets",
+        "inteligencia",
+        "artificial",
+        "puedes",
+        "encontrar",
+        "amazon"
+      ],
+      "estimatedViews": 6415,
+      "bestPublishTime": "2026-07-03T20:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Amazon Echo Dot",
+          "searchTermEn": "amazon echo dot 4th generation",
+          "id": "B0BFC7WQ6R",
+          "filename": "B0BFC7WQ6R.mp4"
+        },
+        {
+          "nombre": "iRobot Roomba j7+",
+          "searchTermEn": "irobot roomba j7+ vacuum",
+          "id": "B094NYHTMF",
+          "filename": "B094NYHTMF.mp4"
+        },
+        {
+          "nombre": "Nest Learning Thermostat",
+          "searchTermEn": "nest learning thermostat google",
+          "id": "B0D5BBYRJM",
+          "filename": "B0D5BBYRJM.mp4"
+        },
+        {
+          "nombre": "Anker EufyCam 2 Pro",
+          "searchTermEn": "anker eufycam 2 pro camera",
+          "id": "B0DDPW1YK2",
+          "filename": "B0DDPW1YK2.mp4"
+        },
+        {
+          "nombre": "Philips Hue White Bulb",
+          "searchTermEn": "philips hue white smart bulb",
+          "id": "B0FMH4ZMTM",
+          "filename": "B0FMH4ZMTM.mp4"
+        },
+        {
+          "nombre": "Wyze Cam v3",
+          "searchTermEn": "wyze cam v3 indoor outdoor camera",
+          "id": "B0C426QPDX",
+          "filename": "B0C426QPDX.mp4"
+        },
+        {
+          "nombre": "Sonos One SL",
+          "searchTermEn": "sonos one sl smart speaker",
+          "id": "B0GJ78ZKF6",
+          "filename": "B0GJ78ZKF6.mp4"
+        },
+        {
+          "nombre": "Garmin Venu Sq",
+          "searchTermEn": "garmin venu sq smartwatch",
+          "id": "B0B5VVNJBF",
+          "filename": "B0B5VVNJBF.mp4"
+        },
+        {
+          "nombre": "Withings Body+ Scale",
+          "searchTermEn": "withings body plus smart scale",
+          "id": "B0C3JNJPZ7",
+          "filename": "B0C3JNJPZ7.mp4"
+        },
+        {
+          "nombre": "Arlo Pro 4 Spotlight",
+          "searchTermEn": "arlo pro 4 spotlight camera",
+          "id": "B0FJTQ2K7V",
+          "filename": "B0FJTQ2K7V.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-07-02T18:38:48.191Z",
+      "_requestedCount": 10,
+      "_adaptedCount": 10,
+      "introProductsOrder": [
+        {
+          "nombre": "Arlo Pro 4 Spotlight",
+          "id": "B0FJTQ2K7V",
+          "filename": "B0FJTQ2K7V_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0FJTQ2K7V_combined.mp4"
+        },
+        {
+          "nombre": "iRobot Roomba j7+",
+          "id": "B094NYHTMF",
+          "filename": "B094NYHTMF_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B094NYHTMF_combined.mp4"
+        },
+        {
+          "nombre": "Wyze Cam v3",
+          "id": "B0C426QPDX",
+          "filename": "B0C426QPDX_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0C426QPDX_combined.mp4"
+        },
+        {
+          "nombre": "Garmin Venu Sq",
+          "id": "B0B5VVNJBF",
+          "filename": "B0B5VVNJBF_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0B5VVNJBF_combined.mp4"
+        },
+        {
+          "nombre": "Withings Body+ Scale",
+          "id": "B0C3JNJPZ7",
+          "filename": "B0C3JNJPZ7_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0C3JNJPZ7_combined.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1783019144348_n5fkot"
+    },
+    "generatedAt": "2026-07-02T19:06:36.320Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Amazon Echo Dot",
+        "searchTermEn": "amazon echo dot 4th generation",
+        "id": "B0BFC7WQ6R",
+        "filename": "B0BFC7WQ6R.mp4"
+      },
+      {
+        "nombre": "iRobot Roomba j7+",
+        "searchTermEn": "irobot roomba j7+ vacuum",
+        "id": "B094NYHTMF",
+        "filename": "B094NYHTMF.mp4"
+      },
+      {
+        "nombre": "Nest Learning Thermostat",
+        "searchTermEn": "nest learning thermostat google",
+        "id": "B0D5BBYRJM",
+        "filename": "B0D5BBYRJM.mp4"
+      },
+      {
+        "nombre": "Anker EufyCam 2 Pro",
+        "searchTermEn": "anker eufycam 2 pro camera",
+        "id": "B0DDPW1YK2",
+        "filename": "B0DDPW1YK2.mp4"
+      },
+      {
+        "nombre": "Philips Hue White Bulb",
+        "searchTermEn": "philips hue white smart bulb",
+        "id": "B0FMH4ZMTM",
+        "filename": "B0FMH4ZMTM.mp4"
+      },
+      {
+        "nombre": "Wyze Cam v3",
+        "searchTermEn": "wyze cam v3 indoor outdoor camera",
+        "id": "B0C426QPDX",
+        "filename": "B0C426QPDX.mp4"
+      },
+      {
+        "nombre": "Sonos One SL",
+        "searchTermEn": "sonos one sl smart speaker",
+        "id": "B0GJ78ZKF6",
+        "filename": "B0GJ78ZKF6.mp4"
+      },
+      {
+        "nombre": "Garmin Venu Sq",
+        "searchTermEn": "garmin venu sq smartwatch",
+        "id": "B0B5VVNJBF",
+        "filename": "B0B5VVNJBF.mp4"
+      },
+      {
+        "nombre": "Withings Body+ Scale",
+        "searchTermEn": "withings body plus smart scale",
+        "id": "B0C3JNJPZ7",
+        "filename": "B0C3JNJPZ7.mp4"
+      },
+      {
+        "nombre": "Arlo Pro 4 Spotlight",
+        "searchTermEn": "arlo pro 4 spotlight camera",
+        "id": "B0FJTQ2K7V",
+        "filename": "B0FJTQ2K7V.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 10 Gadgets con Inteligencia Artificial que Puedes Encontrar en Amazon\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\nDetección inteligente en exteriores. Limpieza y precisión en cada rincón. Vigilancia accesible y rápida. Salud al alcance de tu muñeca. Control digital de tu peso.\n\n[25s-35s] INTRODUCTION\nTodo está en el primer comentario. Vamos.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] AMAZON ECHO DOT\nEl Amazon Echo Dot transforma cómo interactúas con la tecnología, a un precio competitivo. Reproduce tus temas favoritos desde Amazon Music, Apple Music o Spotify. Alexa responde a todas tus consultas, desde el clima hasta chistes. Con sensores incorporados, automatiza luces o ventiladores según la temperatura de tu hogar. Usa la tecnología Eero para ampliar tu red wai fai sin interrupciones molestas.\nSu precio actual en Amazon ronda los... 50 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Amazon Echo Dot]\n\n[0:25] IROBOT ROOMBA J7+\n\"Imprint Smart Mapping\" almacena mapas detallados para limpieza eficiente del iRobot Roomba j7+. Con una succión potente diez veces mayor que modelos anteriores, elimina todo tipo de suelo desordenado., evitando desechos de mascotas garantizado por su promesa P.O.O.P Sugerencias personalizadas mejoran continuamente sus hábitos.\n\"Su precio actual en Amazon ronda los... 150 dólares.\" ¡Link en el primer comentario!\n\n[VISUALS: Product image: iRobot Roomba j7+]\n\n[0:25] NEST LEARNING THERMOSTAT\nNest Learning Thermostat es una solución completa que reúne lo mejor en innovación y funcionalidad. este producto destaca por sus características versátiles: el termostato más inteligente y avanzado de Nest hasta ahora, el Google Nest Learning Thermostat (4th gen), es una forma hermosa y brillante de ahorrar energía, mantener tu hogar cómodo y ayudar a asegurar que tus sistemas de calefacción y refrigeración funcionen sin problemas.; ahorros en los que puedes confiar: El Nest Learning Thermostat puede ayudar a ahorrar hasta un 31% en las facturas de calefacción y refrigeración[2].; compatibilidad mejorada: Funciona con la mayoría de los sistemas de 24V, incluyendo gas, eléctrico, aceite, aire forzado, bomba de calor y radiante, y no se requiere un cable C para la instalación en la mayoría de los hogares; visita el Nest Compatibility Checker para más información.; control fácil en la aplicación Google Home: Ajusta desde tu teléfono desde cualquier lugar[1] o usando tu voz con Alexa, Siri o el altavoz inteligente Google Assistant[3], es fácil de instalar tú mismo y es compatible con Matter para una integración sencilla en tu hogar inteligente[5].; y diseño hermoso: Con una pantalla un 60% más grande[11] y Dynamic Farsight, puedes ver la información desde el otro lado de la habitación[1]; elige el diseño, como un reloj o el clima; ajusta automáticamente el brillo para la mejor legibilidad o puedes ajustarlo manualmente.. Cada aspecto está diseñado para ofrecerte la mejor experiencia posible. Descubre por qué miles de usuarios confían en esta solución.\nSu precio actual en Amazon ronda los... 230 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Nest Learning Thermostat]\n\n[0:25] ANKER EUFYCAM 2 PRO\nAnker EufyCam 2 Pro es una solución completa que reúne lo mejor en innovación y funcionalidad. este producto destaca por sus características versátiles: noche tan brillante como el día: Aprovecha el poder de una cámara 4K combinada con la tecnología MaxColor Vision. eufyCam S3 Pro captura imágenes de vigilancia excepcionalmente detalladas en cada fotograma, ofreciendo una claridad de imagen similar a la del día incluso en condiciones de luz ultra baja sin necesidad de un foco.; sistema de Energía Solar Confiable: Experimenta tranquilidad durante todo el año con seguridad continua y confiable impulsada por la tecnología SolarPlus 2.0. Elige el panel integrado para una eficiencia optimizada o añade un panel externo para ampliar la cobertura energética. Este sistema ofrece opciones de montaje versátiles y energía de respaldo confiable para una seguridad continua (incluye panel solar de respaldo).; detección Potenciada por Radar: Las alertas solo sobre lo que importa: El sistema de detección de movimiento dual, que combina radar e infrarrojos pasivos (PIR), identifica con precisión el movimiento humano y reduce las alertas falsas en un 99%, garantizando que las alertas solo se activen por eventos de seguridad importantes en áreas específicas.; seguridad Local, Sin Cuota Mensual: 16GB de almacenamiento en el dispositivo y hasta 16TB de almacenamiento expandible sin cuotas mensuales, HomeBase S380 equipa tus dispositivos con IA de autoaprendizaje para una gestión inteligente y facilita el control sin esfuerzo sobre la configuración del grupo, manteniendo tu privacidad de manera segura en tus manos.; y compatible con HomeKit, Alexa y otros asistentes de voz. (La grabación de video será en resolución 1080P al usar HomeKit.). Cada aspecto está diseñado para ofrecerte la mejor experiencia posible. Descubre por qué miles de usuarios confían en esta solución.\nSu precio actual en Amazon ronda los... 400 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Anker EufyCam 2 Pro]\n\n[0:25] PHILIPS HUE WHITE BULB\nPhilips Hue White Bulb es una solución completa que reúne lo mejor en innovación y funcionalidad. este producto destaca por sus características versátiles: lUZ BLANCA CÁLIDA: Ilumina tu hogar y crea una sensación cálida y acogedora con luz blanca suave (2700K) ideal para dormitorios, salas de estar y espacios para relajarse.; bAJO DIMMING: Atenúa tu bombilla LED suavemente desde el brillo completo hasta el 5% para lograr la iluminación adecuada para lo que estés haciendo, ya sea viendo una película o relajándote antes de dormir.; \"\"\"CONTROLES INTELIGENTES: Controla tu luz LED de forma remota utilizando la galardonada app Hue o añade un Bridge para controlar con tu asistente de hogar preferido—compatible con Alexa, Google Assistant y Apple Home.\"\"\"; fÁCIL DE USAR: Simplemente atornilla tu nueva bombilla LED inteligente, descarga la galardonada app Hue y comienza a disfrutar de todos los beneficios de la iluminación inteligente—es así de fácil.; y cONSTRUIDOS PARA DURAR: Estas bombillas Hue LED están diseñadas para durar, con una vida útil promedio de 25,000 horas.. Cada aspecto está diseñado para ofrecerte la mejor experiencia posible. Descubre por qué miles de usuarios confían en esta solución.\nSu precio actual en Amazon ronda los... 53 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Philips Hue White Bulb]\n\n[0:25] WYZE CAM V3\nWyze Cam v3 es una solución completa que reúne lo mejor en innovación y funcionalidad. este producto destaca por sus características versátiles: y cÁMARA DE SEGURIDAD WYZE CAM PAN V3 - NEGRA. Cada aspecto está diseñado para ofrecerte la mejor experiencia posible. Descubre por qué miles de usuarios confían en esta solución.\nSu precio actual en Amazon ronda los... 29 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Wyze Cam v3]\n\n[0:25] SONOS ONE SL\nSonos One SL es una solución completa que reúne lo mejor en innovación y funcionalidad. este producto destaca por sus características versátiles: tweeters angulados duales y un potente midwoofer ofrecen un sonido estéreo rico y equilibrado con graves profundos.; el comienzo o adición perfecta para tu sistema, Era 100 SL hace que el sonido de Sonos sea más accesible.; transmite a través de WiFi, empareja por Bluetooth o conecta un tocadiscos y más con la entrada de línea.; \"Ve de desempaquetar a un sonido increíble en minutos con una rápida conexión y la aplicación Sonos.\"; y trueplay ajusta finamente el Era 100 SL para las acústicas únicas de la habitación.. Cada aspecto está diseñado para ofrecerte la mejor experiencia posible. Descubre por qué miles de usuarios confían en esta solución.\nSu precio actual en Amazon ronda los... 189 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Sonos One SL]\n\n[0:25] GARMIN VENU SQ\nGarmin Venu Sq es una solución completa que reúne lo mejor en innovación y funcionalidad. este producto destaca por sus características versátiles: \"Ve todo con claridad gracias al gran texto fácil de leer en la brillante pantalla AMOLED que incluye un modo siempre activo, perfecto para echar un vistazo rápido.\"; con hasta 11 días de duración de la batería en modo smartwatch, no tendrás que quitarte el reloj cada noche para cargarlo, lo que significa una imagen más completa de tu salud 24/7.; la salud es importante para ti, así que monitorea todo, desde tus niveles de energía Body Battery, puntaje de sueño, respiración, hidratación y estrés hasta la salud de la mujer, frecuencia cardíaca y más (Este dispositivo está destinado a proporcionar una estimación de tu actividad y métricas).; encuentra nuevas formas de mantener tu cuerpo en movimiento con más de 25 aplicaciones deportivas integradas para interiores y GPS, incluyendo caminar, correr, ciclismo, HIIT, natación, golf y muchas más.; y nunca te pierdas una llamada, mensaje de texto o alerta de redes sociales de tu smartphone Apple o Android emparejado, con notificaciones inteligentes entregadas directamente a tu muñeca.. Cada aspecto está diseñado para ofrecerte la mejor experiencia posible. Descubre por qué miles de usuarios confían en esta solución.\nSu precio actual en Amazon ronda los... 90 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Garmin Venu Sq]\n\n[0:25] WITHINGS BODY+ SCALE\nWithings Body+ Scale es una solución completa que reúne lo mejor en innovación y funcionalidad. este producto destaca por sus características versátiles: uN ESCÁNER CLÍNICO DE TU SALUD - Body Comp, desarrollado en colaboración con hospitales e instituciones clínicas líderes, ha sido validado clínicamente.; lOGRA TUS OBJETIVOS DE PESO MÁS RÁPIDO - Realiza un seguimiento confiable de tu peso con una precisión de 50 g y visualiza tus tendencias de peso directamente en la pantalla a color de alta resolución de la báscula.; aUMENTA LA MASA MUSCULAR MÁS RÁPIDO - Aumenta la masa muscular más rápido analizando la composición corporal para adaptar los esfuerzos.; \"Sigue tu corazón - Evalúa tu frecuencia cardíaca en cada pesaje, un buen indicador de la condición cardiovascular general.\"; y aUMENTA TU METABOLISMO - Aumenta tu metabolismo estimando la energía que tu cuerpo necesita cada día.. Cada aspecto está diseñado para ofrecerte la mejor experiencia posible. Descubre por qué miles de usuarios confían en esta solución.\nSu precio actual en Amazon ronda los... 130 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Withings Body+ Scale]\n\n[0:25] ARLO PRO 4 SPOTLIGHT\nArlo Pro 4 Spotlight es una solución completa que reúne lo mejor en innovación y funcionalidad. este producto destaca por sus características versátiles: protección Premium para Familias Ocupadas: Una cámara de seguridad 2K HDR con Detecciones Inteligentes para reducir alertas falsas y Zoom Automático y Seguimiento para mantener tu hogar seguro. Configuración fácil con Wi-Fi de Doble Banda y batería intercambiable y recargable para cobertura sin complicaciones.; \"\"\"Alertas Personalizadas que son Importantes para Ti: Configura detecciones únicas como la apertura de la puerta del garaje, un perro en el sofá o la llegada del autobús escolar. Resume rápidamente los clips de video proporcionando subtítulos de eventos. Encuentra grabaciones rápidamente utilizando la búsqueda por palabras clave.\"\"\"; respuesta Rápida de Emergencia Incluso Estando Lejos: Conéctate directamente con el equipo de emergencia local de tu cámara, no con tu ubicación actual. Un toque contacta a la policía, bomberos o ayuda médica, enviando información prellenada como códigos de acceso para un acceso más rápido cuando cada segundo cuenta.; protección Mejorada con Plan Seguro de 1 Mes Incluido: Acceso a 60-Días de Historial de Video, Detección Personalizada, Subtítulos de Eventos, Respuesta de Emergencia 24/7, Zonas de Actividad y más. Después de la prueba, los planes de suscripción comienzan en $17.99/mes (facturados anualmente).; y detalles Críticos para Proteger Tu Hogar: Obtén un campo de visión más amplio de 160º con video 2K High Dynamic Range (HDR), que ofrece los blancos más brillantes y los negros más oscuros, revelando detalles como el modelo del coche, características faciales o llaves perdidas.. Cada aspecto está diseñado para ofrecerte la mejor experiencia posible. Descubre por qué miles de usuarios confían en esta solución.\nSu precio actual en Amazon ronda los... 140 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Arlo Pro 4 Spotlight]\n\n[10 seconds] CONCLUSION\nundefined\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 7:10\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, inteligencia, artificial, puedes, encontrar, amazon\n"
+}

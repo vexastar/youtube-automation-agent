@@ -1,0 +1,139 @@
+{
+  "title": "Top 3 Gadgets Imprescindibles para Abogados",
+  "hook": {
+    "type": "statement",
+    "text": "¿Eres abogado y te gustaría optimizar tu tiempo y espacio de trabajo?",
+    "duration": "0:00-0:05"
+  },
+  "introduction": {
+    "greeting": "Hoy te traemos tres gadgets imprescindibles que harán que tu rutina diaria sea más eficiente y moderna. Desde escanear documentos en cualquier lugar hasta cargar tu teléfono fácilmente mientras trabajas. ¡No querrás perdértelos!",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0:05-0:15"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Escáner portátil inalámbrico",
+        "content": [
+          "Imagina poder escanear cualquier documento con la misma facilidad con la que tomas una foto. El escáner portátil inalámbrico convierte cada página en formato digital al instante, ideal para cualquier abogado en constante movimiento.",
+          "Puedes encontrarlo por 184.99 dólares en Amazon, el enlace está en la descripción."
+        ],
+        "visuals": [
+          "Product image: Escáner portátil inalámbrico"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07KQZWPYN.mp4",
+        "precio": "184.99"
+      },
+      {
+        "type": "content",
+        "title": "Lámpara de escritorio con cargador",
+        "content": [
+          "¿Has soñado con una lámpara que no solo ilumine tu espacio de trabajo, sino que también cargue tus dispositivos? La lámpara de escritorio con cargador es perfecta para mantener tu teléfono siempre con batería mientras trabajas en tu próximo caso importante.",
+          "Disponible por 29.94 dólares en Amazon, no olvides revisar el enlace en la descripción."
+        ],
+        "visuals": [
+          "Product image: Lámpara de escritorio con cargador"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B09PDBNXGD.mp4",
+        "precio": "29.94"
+      },
+      {
+        "type": "content",
+        "title": "Carpeta inteligente digital",
+        "content": [
+          "¿Qué tal una carpeta que digitaliza automáticamente tus notas y documentos? La carpeta inteligente digital te permite organizar y guardar tus archivos en la nube, asegurando que siempre estén a tu alcance.",
+          "Consíguela por 29.99 dólares en Amazon, el enlace está en la descripción."
+        ],
+        "visuals": [
+          "Product image: Carpeta inteligente digital"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0DP3HRDC2.mp4",
+        "precio": "29.99"
+      }
+    ],
+    "totalDuration": 75
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "Espero que estos gadgets te hayan sorprendido tanto como a nosotros. No olvides darle like al video, suscribirte al canal y dejarnos un comentario con tu gadget favorito. ¡Hasta la próxima!"
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:45",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "imprescindibles",
+    "para",
+    "abogados"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 3 Gadgets Imprescindibles para Abogados",
+      "angle": "Top 3 Gadgets Imprescindibles para Abogados",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 3,
+      "introScript": "¿Un scanner portátil que cabe en tu bolsillo? ¿Una lámpara que carga tu teléfono mientras iluminas tus documentos? Prepárate para descubrir tres gadgets que harán tu vida legal mucho más llevadera.",
+      "keywords": [
+        "gadgets",
+        "imprescindibles",
+        "para",
+        "abogados"
+      ],
+      "estimatedViews": 3752,
+      "bestPublishTime": "2026-04-10T20:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Escáner portátil inalámbrico",
+          "searchTermEn": "wireless portable scanner"
+        },
+        {
+          "nombre": "Lámpara de escritorio con cargador",
+          "searchTermEn": "desk lamp with wireless charger"
+        },
+        {
+          "nombre": "Carpeta inteligente digital",
+          "searchTermEn": "smart digital notebook"
+        }
+      ],
+      "createdAt": "2026-04-06T01:39:47.807Z"
+    },
+    "generatedAt": "2026-04-06T01:42:10.570Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Escáner portátil inalámbrico",
+        "searchTermEn": "wireless portable scanner"
+      },
+      {
+        "nombre": "Lámpara de escritorio con cargador",
+        "searchTermEn": "desk lamp with wireless charger"
+      },
+      {
+        "nombre": "Carpeta inteligente digital",
+        "searchTermEn": "smart digital notebook"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 3 Gadgets Imprescindibles para Abogados\n\n══════════════════════════════════════════════════\n\n[0:00-0:05] HOOK\n¿Eres abogado y te gustaría optimizar tu tiempo y espacio de trabajo?\n\n[0:05-0:15] INTRODUCTION\nHoy te traemos tres gadgets imprescindibles que harán que tu rutina diaria sea más eficiente y moderna. Desde escanear documentos en cualquier lugar hasta cargar tu teléfono fácilmente mientras trabajas. ¡No querrás perdértelos!\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] ESCÁNER PORTÁTIL INALÁMBRICO\nImagina poder escanear cualquier documento con la misma facilidad con la que tomas una foto. El escáner portátil inalámbrico convierte cada página en formato digital al instante, ideal para cualquier abogado en constante movimiento.\nPuedes encontrarlo por 184.99 dólares en Amazon, el enlace está en la descripción.\n\n[VISUALS: Product image: Escáner portátil inalámbrico]\n\n[0:25] LÁMPARA DE ESCRITORIO CON CARGADOR\n¿Has soñado con una lámpara que no solo ilumine tu espacio de trabajo, sino que también cargue tus dispositivos? La lámpara de escritorio con cargador es perfecta para mantener tu teléfono siempre con batería mientras trabajas en tu próximo caso importante.\nDisponible por 29.94 dólares en Amazon, no olvides revisar el enlace en la descripción.\n\n[VISUALS: Product image: Lámpara de escritorio con cargador]\n\n[0:25] CARPETA INTELIGENTE DIGITAL\n¿Qué tal una carpeta que digitaliza automáticamente tus notas y documentos? La carpeta inteligente digital te permite organizar y guardar tus archivos en la nube, asegurando que siempre estén a tu alcance.\nConsíguela por 29.99 dólares en Amazon, el enlace está en la descripción.\n\n[VISUALS: Product image: Carpeta inteligente digital]\n\n[10 seconds] CONCLUSION\nEspero que estos gadgets te hayan sorprendido tanto como a nosotros. No olvides darle like al video, suscribirte al canal y dejarnos un comentario con tu gadget favorito. ¡Hasta la próxima!\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:45\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, imprescindibles, para, abogados\n"
+}

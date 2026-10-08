@@ -1,0 +1,564 @@
+{
+  "title": "Top 2 Gadgets Indispensables para tu Computadora Portátil",
+  "hook": {
+    "type": "statement",
+    "text": "Eleva tu pantalla a la altura de tus ojos. Mantén todos tus dispositivos cargados dondequiera que estés.",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "Suscríbete, los links están en el primer comentario. Empecemos.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0:10-0:15"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Roost Laptop Stand",
+        "productId": "B01C9KG8IG",
+        "productName": "Roost Laptop Stand",
+        "filename": "B01C9KG8IG.mp4",
+        "asin": "B01C9KG8IG",
+        "clipDuration": 122.82,
+        "estimatedAudioSeconds": 48,
+        "framework": "beneficio_oculto",
+        "narracionSegments": [
+          {
+            "text": "Lo que nadie te dice del Roost Laptop Stand es su capacidad para elevar tu pantalla a la altura de tus ojos, mejorando tu postura de inmediato.",
+            "asset_hint": "uso real"
+          },
+          {
+            "text": "Con su estructura tipo truss y materiales de alta rigidez, tu pantalla permanece completamente estable, sin el molesto tambaleo de otros soportes.",
+            "asset_hint": "primer plano"
+          },
+          {
+            "text": "Además, es ultraligero y tan delgado que puedes llevarlo a cualquier parte sin esfuerzo.",
+            "asset_hint": "embalaje"
+          }
+        ],
+        "content": [
+          "Lo que nadie te dice del Roost Laptop Stand es su capacidad para elevar tu pantalla a la altura de tus ojos, mejorando tu postura de inmediato. Con su estructura tipo truss y materiales de alta rigidez, tu pantalla permanece completamente estable, sin el molesto tambaleo de otros soportes. Además, es ultraligero y tan delgado que puedes llevarlo a cualquier parte sin esfuerzo.",
+          "Su precio actual en Amazon ronda los... 90 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Roost Laptop Stand"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B01C9KG8IG.mp4",
+        "precio": "$90",
+        "productPhoto": "https://m.media-amazon.com/images/I/51-M+gE3ZgL.jpg",
+        "assets": {
+          "images": [
+            "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01C9KG8IG\\img_01.jpg",
+            "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01C9KG8IG\\img_02.jpg",
+            "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01C9KG8IG\\img_03.jpg",
+            "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01C9KG8IG\\img_04.jpg",
+            "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01C9KG8IG\\img_05.jpg",
+            "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01C9KG8IG\\img_06.jpg"
+          ],
+          "videos": [
+            "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01C9KG8IG\\vid_02.mp4",
+            "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01C9KG8IG\\vid_03.mp4"
+          ]
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01C9KG8IG\\img_01.jpg",
+            "type": "image",
+            "score": 10,
+            "tag": "producto visible",
+            "raw": "10|producto visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01C9KG8IG\\img_04.jpg",
+            "type": "image",
+            "score": 10,
+            "tag": "producto visible",
+            "raw": "10|producto visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01C9KG8IG\\scenes\\B01C9KG8IG_scene_16.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "uso real",
+            "raw": "9|uso real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01C9KG8IG\\scenes\\B01C9KG8IG_scene_23.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "uso real",
+            "raw": "9|uso real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01C9KG8IG\\img_02.jpg",
+            "type": "image",
+            "score": 9,
+            "tag": "uso real",
+            "raw": "9|uso real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01C9KG8IG\\scenes\\B01C9KG8IG_scene_01.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "uso real",
+            "raw": "8|uso real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01C9KG8IG\\scenes\\B01C9KG8IG_scene_04.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "uso real",
+            "raw": "8|uso real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01C9KG8IG\\scenes\\B01C9KG8IG_scene_09.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "ajuste portátil",
+            "raw": "8|ajuste portátil"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01C9KG8IG\\scenes\\B01C9KG8IG_scene_10.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "ajuste soporte",
+            "raw": "8|ajuste soporte"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01C9KG8IG\\scenes\\B01C9KG8IG_scene_11.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "uso real",
+            "raw": "8|uso real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01C9KG8IG\\scenes\\B01C9KG8IG_scene_12.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "ajuste soporte",
+            "raw": "8|ajuste soporte"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01C9KG8IG\\scenes\\B01C9KG8IG_scene_17.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "uso real",
+            "raw": "8|uso real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01C9KG8IG\\scenes\\B01C9KG8IG_scene_20.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "producto visible",
+            "raw": "8|producto visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01C9KG8IG\\scenes\\B01C9KG8IG_scene_21.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "producto visible",
+            "raw": "8|producto visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01C9KG8IG\\scenes\\B01C9KG8IG_scene_22.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "uso real",
+            "raw": "8|uso real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01C9KG8IG\\scenes\\B01C9KG8IG_scene_25.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "uso real",
+            "raw": "8|uso real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01C9KG8IG\\img_03.jpg",
+            "type": "image",
+            "score": 8,
+            "tag": "producto visible",
+            "raw": "8|producto visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01C9KG8IG\\img_05.jpg",
+            "type": "image",
+            "score": 8,
+            "tag": "uso real",
+            "raw": "8|uso real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01C9KG8IG\\img_06.jpg",
+            "type": "image",
+            "score": 8,
+            "tag": "producto visible",
+            "raw": "8|producto visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01C9KG8IG\\scenes\\B01C9KG8IG_scene_02.mp4",
+            "type": "video",
+            "score": 7,
+            "tag": "uso real",
+            "raw": "7|uso real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01C9KG8IG\\scenes\\B01C9KG8IG_scene_06.mp4",
+            "type": "video",
+            "score": 7,
+            "tag": "uso real",
+            "raw": "7|uso real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01C9KG8IG\\scenes\\B01C9KG8IG_scene_13.mp4",
+            "type": "video",
+            "score": 7,
+            "tag": "uso real",
+            "raw": "7|uso real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01C9KG8IG\\scenes\\B01C9KG8IG_scene_14.mp4",
+            "type": "video",
+            "score": 7,
+            "tag": "ajuste soporte",
+            "raw": "7|ajuste soporte"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01C9KG8IG\\scenes\\B01C9KG8IG_scene_24.mp4",
+            "type": "video",
+            "score": 7,
+            "tag": "uso real",
+            "raw": "7|uso real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01C9KG8IG\\vid_03.mp4",
+            "type": "video",
+            "score": 7,
+            "tag": "uso real",
+            "raw": "7|uso real"
+          }
+        ],
+        "features": [
+          "Lift to Eye Level - Raise your screen to a natural eye-line to reduce hunching and improve posture; external keyboard/mouse recommended. Screen Lift: 6.5–12.5″",
+          "Set-and-Go Simplicity - Built for speed and consistency, the V3 uses a secure, two-handed lock to set your height. It pops open in one motion to your memorized setting, making it ideal for a consistent desk setup or travel",
+          "Zero Flex, Perfectly Still Screen - No more screen shake from wobbly and rotating-base stands. The Roost’s interlocking truss frame and high-stiffness materials create an ultra-rigid platform.",
+          "Ultralight & Travel-Ready - Weighing only 6 oz, the Roost packs impossibly thin to live in your bag.",
+          "Universal Fit with Patented PivotGrips - Self-adjusting grips automatically adapt and lock onto any 12–18″ laptop for a confident, non-slip hold. As a US-Based company, we are dedicated to lasting quality and responsive support."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "OmniCharge Power Bank",
+        "productId": "B07VB1H5Y2",
+        "productName": "OmniCharge Power Bank",
+        "filename": "B07VB1H5Y2.mp4",
+        "asin": "B07VB1H5Y2",
+        "clipDuration": 121.59,
+        "estimatedAudioSeconds": 48,
+        "framework": "problema_solucion",
+        "narracionSegments": [
+          {
+            "text": "¿Cansado de quedarte sin batería en los momentos cruciales?",
+            "asset_hint": "uso real"
+          },
+          {
+            "text": "El OmniCharge Power Bank es la solución ideal, ya que carga desde laptops hasta drones con su capacidad de 38,400mAh.",
+            "asset_hint": "primer plano"
+          },
+          {
+            "text": "Además, su batería removible te permite intercambiar y recargar fácilmente, asegurando que siempre tengas energía disponible.",
+            "asset_hint": "primer plano"
+          }
+        ],
+        "content": [
+          "¿Cansado de quedarte sin batería en los momentos cruciales? El OmniCharge Power Bank es la solución ideal, ya que carga desde laptops hasta drones con su capacidad de 38,400mAh. Además, su batería removible te permite intercambiar y recargar fácilmente, asegurando que siempre tengas energía disponible.",
+          "Su precio actual en Amazon ronda los... 399 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: OmniCharge Power Bank"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07VB1H5Y2.mp4",
+        "precio": "$399",
+        "productPhoto": "https://m.media-amazon.com/images/I/61+uwemQ58L.jpg",
+        "assets": {
+          "images": [
+            "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07VB1H5Y2\\img_01.jpg",
+            "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07VB1H5Y2\\img_02.jpg",
+            "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07VB1H5Y2\\img_03.jpg",
+            "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07VB1H5Y2\\img_04.jpg",
+            "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07VB1H5Y2\\img_05.jpg",
+            "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07VB1H5Y2\\img_06.jpg"
+          ],
+          "videos": [
+            "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07VB1H5Y2\\vid_02.mp4",
+            "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07VB1H5Y2\\vid_03.mp4"
+          ]
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07VB1H5Y2\\img_01.jpg",
+            "type": "image",
+            "score": 9,
+            "tag": "producto visible",
+            "raw": "9|producto visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07VB1H5Y2\\img_02.jpg",
+            "type": "image",
+            "score": 9,
+            "tag": "conexiones puertos",
+            "raw": "9|conexiones puertos"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07VB1H5Y2\\img_03.jpg",
+            "type": "image",
+            "score": 9,
+            "tag": "producto visible",
+            "raw": "9|producto visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07VB1H5Y2\\scenes\\B07VB1H5Y2_scene_03.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "embalaje",
+            "raw": "8|embalaje"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07VB1H5Y2\\scenes\\B07VB1H5Y2_scene_02.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "embalaje",
+            "raw": "8|embalaje"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07VB1H5Y2\\scenes\\B07VB1H5Y2_scene_08.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "uso real",
+            "raw": "8|uso real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07VB1H5Y2\\scenes\\B07VB1H5Y2_scene_10.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "uso real",
+            "raw": "8|uso real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07VB1H5Y2\\scenes\\B07VB1H5Y2_scene_14.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "producto visible",
+            "raw": "8|producto visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07VB1H5Y2\\scenes\\B07VB1H5Y2_scene_16.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "uso real",
+            "raw": "8|uso real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07VB1H5Y2\\scenes\\B07VB1H5Y2_scene_17.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "producto visible",
+            "raw": "8|producto visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07VB1H5Y2\\scenes\\B07VB1H5Y2_scene_18.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "uso real",
+            "raw": "8|uso real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07VB1H5Y2\\scenes\\B07VB1H5Y2_scene_23.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "uso real",
+            "raw": "8|uso real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07VB1H5Y2\\vid_03.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "producto visible",
+            "raw": "8|producto visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07VB1H5Y2\\img_05.jpg",
+            "type": "image",
+            "score": 8,
+            "tag": "uso real",
+            "raw": "8|uso real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07VB1H5Y2\\img_06.jpg",
+            "type": "image",
+            "score": 8,
+            "tag": "producto visible",
+            "raw": "8|producto visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07VB1H5Y2\\scenes\\B07VB1H5Y2_scene_13.mp4",
+            "type": "video",
+            "score": 7,
+            "tag": "uso real",
+            "raw": "7|uso real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07VB1H5Y2\\scenes\\B07VB1H5Y2_scene_15.mp4",
+            "type": "video",
+            "score": 7,
+            "tag": "uso real",
+            "raw": "7|uso real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07VB1H5Y2\\scenes\\B07VB1H5Y2_scene_22.mp4",
+            "type": "video",
+            "score": 7,
+            "tag": "producto en mano",
+            "raw": "7|producto en mano"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07VB1H5Y2\\img_04.jpg",
+            "type": "image",
+            "score": 7,
+            "tag": "uso real",
+            "raw": "7|uso real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07VB1H5Y2\\scenes\\B07VB1H5Y2_scene_04.mp4",
+            "type": "video",
+            "score": 6,
+            "tag": "embalaje",
+            "raw": "6|embalaje"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07VB1H5Y2\\scenes\\B07VB1H5Y2_scene_05.mp4",
+            "type": "video",
+            "score": 6,
+            "tag": "embalaje",
+            "raw": "6|embalaje"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07VB1H5Y2\\scenes\\B07VB1H5Y2_scene_12.mp4",
+            "type": "video",
+            "score": 6,
+            "tag": "conexión carga",
+            "raw": "6|conexión carga"
+          }
+        ],
+        "features": [
+          "【Power Hub For All Your Smart Devices】From laptops to cameras, drones, and smartphones, Omnicharge can keep all your devices charged up. Versatile and Functional.also have function of overcharge protection.compatible with android/ios/smart devices.",
+          "【Extensive Features】All-In-One power solution with high powered AC, Adjustable DC power, USB-C PD for laptops, QC 3.0 USB-A, removable battery, pass-through charging, and solar charging.",
+          "【Maximum Capacity, Fast Charging】142wh (38,400mah) battery capacity. FAA/TSA Compliant; Capable of outputting up to 100W DC output, and 120W AC Output.",
+          "【Removable Battery】Industry-first removable battery. Swap out your battery once it is empty, with possibilities for recharging the spare battery outside of the Ultimate body. FAA Approved to carry two 142wh spare batteries. Be ready for any situation. Recharge in 3 hours.",
+          "【Accessories】Omni Ultimate Includes a 65W GaN charger, an Omni Ultimate Protective Case and a 100W USB-C Nylon Cable. NOT INCLUDED: Removable battery,DC cables for DJI drones, DC cables for CPAP machines, Surface, and other PC laptops sold separately."
+        ]
+      }
+    ],
+    "totalDuration": 50
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "Dale like y recuerda que los links están en el primer comentario."
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:20",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "indispensables",
+    "para",
+    "computadora",
+    "porttil"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 2 Gadgets Indispensables para tu Computadora Portátil",
+      "angle": "Top 2 Gadgets Indispensables para tu Computadora Portátil",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 2,
+      "introScript": "¿Un soporte que convierte tu laptop en una estación de trabajo ergonómica? ¿Un cargador que también es un banco de energía portátil? Prepárate para descubrir los gadgets que transformarán la experiencia con tu computadora portátil en cuestión de segundos.",
+      "keywords": [
+        "gadgets",
+        "indispensables",
+        "para",
+        "computadora",
+        "porttil"
+      ],
+      "estimatedViews": 5135,
+      "bestPublishTime": "2026-05-06T19:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Roost Laptop Stand",
+          "searchTermEn": "Roost portable laptop stand",
+          "id": "B01C9KG8IG",
+          "filename": "B01C9KG8IG.mp4"
+        },
+        {
+          "nombre": "OmniCharge Power Bank",
+          "searchTermEn": "OmniCharge power bank laptop",
+          "id": "B07VB1H5Y2",
+          "filename": "B07VB1H5Y2.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-05-01T23:01:43.478Z",
+      "_requestedCount": 2,
+      "_adaptedCount": 2,
+      "introProductsOrder": [
+        {
+          "nombre": "Roost Laptop Stand",
+          "id": "B01C9KG8IG",
+          "filename": "B01C9KG8IG.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B01C9KG8IG_clean.mp4"
+        },
+        {
+          "nombre": "OmniCharge Power Bank",
+          "id": "B07VB1H5Y2",
+          "filename": "B07VB1H5Y2.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07VB1H5Y2_clean.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1777676949108_m08q9o"
+    },
+    "generatedAt": "2026-05-01T23:09:20.138Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Roost Laptop Stand",
+        "searchTermEn": "Roost portable laptop stand",
+        "id": "B01C9KG8IG",
+        "filename": "B01C9KG8IG.mp4"
+      },
+      {
+        "nombre": "OmniCharge Power Bank",
+        "searchTermEn": "OmniCharge power bank laptop",
+        "id": "B07VB1H5Y2",
+        "filename": "B07VB1H5Y2.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 2 Gadgets Indispensables para tu Computadora Portátil\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\nEleva tu pantalla a la altura de tus ojos. Mantén todos tus dispositivos cargados dondequiera que estés.\n\n[0:10-0:15] INTRODUCTION\nSuscríbete, los links están en el primer comentario. Empecemos.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] ROOST LAPTOP STAND\nLo que nadie te dice del Roost Laptop Stand es su capacidad para elevar tu pantalla a la altura de tus ojos, mejorando tu postura de inmediato. Con su estructura tipo truss y materiales de alta rigidez, tu pantalla permanece completamente estable, sin el molesto tambaleo de otros soportes. Además, es ultraligero y tan delgado que puedes llevarlo a cualquier parte sin esfuerzo.\nSu precio actual en Amazon ronda los... 90 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Roost Laptop Stand]\n\n[0:25] OMNICHARGE POWER BANK\n¿Cansado de quedarte sin batería en los momentos cruciales? El OmniCharge Power Bank es la solución ideal, ya que carga desde laptops hasta drones con su capacidad de 38,400mAh. Además, su batería removible te permite intercambiar y recargar fácilmente, asegurando que siempre tengas energía disponible.\nSu precio actual en Amazon ronda los... 399 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: OmniCharge Power Bank]\n\n[10 seconds] CONCLUSION\nDale like y recuerda que los links están en el primer comentario.\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:20\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, indispensables, para, computadora, porttil\n"
+}

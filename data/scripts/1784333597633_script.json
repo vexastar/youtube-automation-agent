@@ -1,0 +1,132 @@
+{
+  "title": "Top 1 Gadget Revolucionario para Tu Carro",
+  "hook": {
+    "type": "statement",
+    "text": "",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "25s-35s"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Nonda ZUS Smart Tire",
+        "productId": "B0FJ8ZGMGP",
+        "productName": "Nonda ZUS Smart Tire",
+        "filename": "B0FJ8ZGMGP.mp4",
+        "asin": "B0FJ8ZGMGP",
+        "videoDuration": 141.3091,
+        "estimatedAudioSeconds": 35,
+        "framework": "problema_solucion",
+        "narracionSegments": null,
+        "content": [
+          "¿Preocupado por la presión de tus neumáticos? Nonda ZUS Smart Tire, con sensores avanzados. Ofrece un alcance impresionante de diez metros. Ideal para campers y SUVs. Monitorea hasta noventa y ocho PSI; listo en sesenta segundos. Conecta fácilmente el hub; observa alertas en tiempo real mientras conduces. Mantén tus neumáticos seguros día y noche con su pantalla LCD brillante y carga solar. Nunca más estarás en la oscuridad sobre la salud de tus llantas.",
+          "Su precio actual ronda los treinta y un dólares. Link en comentarios."
+        ],
+        "visuals": [
+          "Product image: Nonda ZUS Smart Tire"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0FJ8ZGMGP.mp4",
+        "precio": "$31",
+        "productPhoto": "https://m.media-amazon.com/images/I/51QmoAvMMQL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "✅ NUEVOS SENSORES Y HUB para un ALCANCE EXTENDIDO de hasta 32 FEET! ¡Perfecto para grandes RVs, campers, vans, SUVs, configuraciones de remolque, vehículos de 3 ruedas e incluso coches regulares! ¡MONITOREA HASTA 98 PSI, que es MÁS que OTRAS MARCAS! ¡LISTO PARA USAR en menos de un minuto! ¡No se necesita configuración complicada!",
+          "✅ ALERTAS EN TIEMPO REAL MIENTRAS CONDUCES, No te dejes engañar por el MODO DE ESTACIONAMIENTO - El Sensor de Presión de Neumáticos se ACTUALIZA cada SEGUNDO mientras conduces para ALERTAS EN VIVO de PRESIÓN y TEMPERATURA. Cuando está estacionado, entra en MODO DE AHORRO DE BATERÍA y se actualiza más lentamente. Esto puede parecer que el TPMS no se está actualizando, pero es completamente NORMAL y ayuda a EXTENDER la VIDA ÚTIL de la BATERÍA del sensor.",
+          "✅ ¡FÁCIL DE LEER DÍA o NOCHE! El sistema de monitoreo de presión de llantas MARCALA para RV tiene una pantalla LCD BRILLANTE y COLORIDA con atenuación automática para CONSERVAR LA VIDA DE LA BATERÍA. La carga dual SOLAR y USB mantiene la unidad ALIMENTADA y te ALERTA CON 6 MODOS DIFERENTES.",
+          "✅ MONITOR 1-4 Wheels - ¡Conduce, monta o remolca con confianza utilizando el monitor de presión de neumáticos MARCALA! Llega listo para monitorear los 4 neumáticos, o se puede configurar para monitorear tantos neumáticos como se necesite, de 1 a 4, hasta 98 PSI con una precisión de 1 PSI. ¡Cada sensor es IP67 a prueba de agua para SEGUIR FUNCIONANDO LLUVIA O SOL!",
+          "✅ Los sistemas de monitoreo de presión de llantas MARCALA están respaldados por un NEGOCIO FAMILIAR DE PROPIEDAD AMERICANA comprometido con tu seguridad. ¡MARCALA ha sido un líder en el ámbito de la seguridad automotriz durante años! Con una POLÍTICA DE REEMPLAZO DE POR VIDA, puedes conducir con confianza sabiendo que respaldamos nuestro producto y siempre estamos aquí para apoyarte."
+        ]
+      }
+    ],
+    "totalDuration": 40
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      ""
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:10",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadget",
+    "revolucionario",
+    "para",
+    "carro"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 1 Gadget Revolucionario para Tu Carro",
+      "angle": "Top 1 Gadget Revolucionario para Tu Carro",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 1,
+      "introScript": "Imagina entrar a tu carro en un día helado, pero antes de que puedas decir brrr, el aire ya está cálido y acogedor. O piensa en un dispositivo que te avisa si te olvidas de revisar la presión de las llantas, para evitar sorpresas desagradables en la carretera. ¿Te suena demasiado bueno para ser verdad? Hoy te presentamos un gadget innovador que transformará tu experiencia al volante y mucho más.",
+      "keywords": [
+        "gadget",
+        "revolucionario",
+        "para",
+        "carro"
+      ],
+      "estimatedViews": 3510,
+      "bestPublishTime": "2026-07-24T20:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Nonda ZUS Smart Tire",
+          "searchTermEn": "Nonda ZUS Smart Tire Safety Monitor",
+          "id": "B0FJ8ZGMGP",
+          "filename": "B0FJ8ZGMGP.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-07-18T00:09:42.842Z",
+      "_requestedCount": 1,
+      "_adaptedCount": 1,
+      "introProductsOrder": [
+        {
+          "nombre": "Nonda ZUS Smart Tire",
+          "id": "B0FJ8ZGMGP",
+          "filename": "B0FJ8ZGMGP.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0FJ8ZGMGP.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1784333573763_imujii"
+    },
+    "generatedAt": "2026-07-18T00:13:05.287Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Nonda ZUS Smart Tire",
+        "searchTermEn": "Nonda ZUS Smart Tire Safety Monitor",
+        "id": "B0FJ8ZGMGP",
+        "filename": "B0FJ8ZGMGP.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 1 Gadget Revolucionario para Tu Carro\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\n\n\n[25s-35s] INTRODUCTION\n\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] NONDA ZUS SMART TIRE\n¿Preocupado por la presión de tus neumáticos? Nonda ZUS Smart Tire, con sensores avanzados. Ofrece un alcance impresionante de diez metros. Ideal para campers y SUVs. Monitorea hasta noventa y ocho PSI; listo en sesenta segundos. Conecta fácilmente el hub; observa alertas en tiempo real mientras conduces. Mantén tus neumáticos seguros día y noche con su pantalla LCD brillante y carga solar. Nunca más estarás en la oscuridad sobre la salud de tus llantas.\nSu precio actual ronda los treinta y un dólares. Link en comentarios.\n\n[VISUALS: Product image: Nonda ZUS Smart Tire]\n\n[10 seconds] CONCLUSION\n\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:10\nTONE: engaging\nPACING: quick\nKEYWORDS: gadget, revolucionario, para, carro\n"
+}

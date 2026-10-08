@@ -1,0 +1,337 @@
+{
+  "title": "Top 3 Laptops Increíbles para Ingenieros",
+  "hook": {
+    "type": "statement",
+    "text": "Pantalla plegable transforma formato. Doble pantalla táctil portátil. Potente rendimiento creativo.",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "Suscríbete y encuentra los links en el primer comentario.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0:10-0:15"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "ASUS ZenBook Duo",
+        "productId": "B0FRZLHGWH",
+        "productName": "ASUS ZenBook Duo",
+        "filename": "B0FRZLHGWH.mp4",
+        "asin": "B0FRZLHGWH",
+        "clipDuration": 60.06,
+        "estimatedAudioSeconds": 56,
+        "framework": "beneficio_oculto",
+        "narracionSegments": null,
+        "content": [
+          "La magia de este ASUS ZenBook Duo radica en su versatilidad multi-pantalla. Integra dos pantallas OLED Lumina de 14 pulgadas que transforman la forma en que trabajas, ya sea diseñando o multitarea extrema. Sorprende con su manejabilidad, transportándolo fácilmente gracias a su peso ligero y delgadez. Ideal para aquellos que buscan dinamismo en sus proyectos.",
+          "Su precio actual en Amazon ronda los... 1524 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: ASUS ZenBook Duo"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0FRZLHGWH_combined.mp4",
+        "precio": "$1524",
+        "productPhoto": "https://m.media-amazon.com/images/I/61fM2WeAVDL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "Multi-Screen Versatility — Find the mode that best suits your task and seamlessly switch between them. Expand your workspace with Dual Screen or Desktop Mode, share content effortlessly in Sharing Mode, or snap everything back into one for Laptop Mode",
+          "Everything-Built-In Portability — At 3.64 lb and a mere 0.57” thin, the DUO elevates portable dual-screen setups to the next level. With a detachable Bluetooth keyboard and built-in kickstand, you can take the Zenbook DUO just as you would with any laptop — plus a FHD IR front camera",
+          "Powerfully Productive — The Zenbook DUO delivers powerful performance and AI-ready features on Windows 11. The ultra-fast Intel Core Ultra 9 285H processor with Intel AI Boost NPU paired with Intel Arc graphics, enhances tasks with AI capabilities. With 1TB SSD storage and 32GB LPDDR5x RAM, you can explore more seamlessly",
+          "Dual 14” Lumina OLED Displays — Immerse yourself in unparalleled visuals with the Zenbook DUO's dual 16:10 touch displays boasting a 2880 x 1800 resolution, vibrant 500-nit HDR peak brightness, smooth 120Hz refresh rate, and Pantone validated 100% DCI-P3 color accuracy",
+          "Military-Grade Durability — Meeting US MIL-STD 810H military standards1, the Zenbook DUO ensures unmatched reliability in harsh conditions. Rigorous testing enhances longevity, guaranteeing that your laptop is ready for work, travel, or relaxation both today and in the future"
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Microsoft Surface Laptop Studio",
+        "productId": "B09F8J8D44",
+        "productName": "Microsoft Surface Laptop Studio",
+        "filename": "B09F8J8D44.mp4",
+        "asin": "B09F8J8D44",
+        "clipDuration": 60.03,
+        "estimatedAudioSeconds": 55,
+        "framework": "comparacion_precio",
+        "narracionSegments": null,
+        "content": [
+          "Frente a otras opciones del mercado, el Microsoft Surface Laptop Studio ofrece una relación calidad-precio excepcional. Con gráficos NVIDIA GeForce RTX, transforma creatividad y rendimiento al máximo nivel por un precio competitivo. Perfecto para tareas complejas y exigentes, redefiniendo tu experiencia digital.",
+          "Su precio actual en Amazon ronda los... 1399 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Microsoft Surface Laptop Studio"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B09F8J8D44_combined.mp4",
+        "precio": "$1399",
+        "productPhoto": "https://m.media-amazon.com/images/I/61UGE9cZVlL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B09F8J8D44\\scenes_v1\\B09F8J8D44_scene_24.mp4",
+            "type": "video",
+            "score": 10,
+            "tag": "Laptop encendida",
+            "raw": "10|Laptop encendida"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B09F8J8D44\\scenes_v1\\B09F8J8D44_scene_05.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "pantalla encendida",
+            "raw": "9|pantalla encendida"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B09F8J8D44\\scenes_v1\\B09F8J8D44_scene_09.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Interacción clara",
+            "raw": "9|Interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B09F8J8D44\\scenes_v1\\B09F8J8D44_scene_12.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "pantalla encendida",
+            "raw": "9|pantalla encendida"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B09F8J8D44\\scenes_v1\\B09F8J8D44_scene_13.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "pantalla encendida",
+            "raw": "9|pantalla encendida"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B09F8J8D44\\scenes_v1\\B09F8J8D44_scene_15.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B09F8J8D44\\scenes_v1\\B09F8J8D44_scene_20.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Interacción clara",
+            "raw": "9|Interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B09F8J8D44\\scenes_v1\\B09F8J8D44_scene_21.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B09F8J8D44\\scenes_v1\\B09F8J8D44_scene_22.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "pantalla encendida",
+            "raw": "9|pantalla encendida"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B09F8J8D44\\scenes_v1\\B09F8J8D44_scene_23.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Interacción clara",
+            "raw": "9|Interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B09F8J8D44\\scenes_v1\\B09F8J8D44_scene_08.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "producto visible",
+            "raw": "8|producto visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B09F8J8D44\\scenes_v1\\B09F8J8D44_scene_18.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Surface Laptop",
+            "raw": "8|Surface Laptop"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B09F8J8D44\\scenes_v1\\B09F8J8D44_scene_04.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "pantalla encendida",
+            "raw": "5|pantalla encendida"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B09F8J8D44\\scenes_v1\\B09F8J8D44_scene_14.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "touchpad visible",
+            "raw": "5|touchpad visible"
+          }
+        ],
+        "features": [
+          "Aspect Ratio:3:2",
+          "The most powerful Surface Laptop. Quad-core powered 11th Gen Intel Core H Series processors handle your most complex workloads.",
+          "Design, animate, and render at top speed. Step up to the award-winning Ampere — NVIDIA's 2nd gen RTX architecture, enabling ray-traced graphics and cutting-edge AI features from NVIDIA GeForce RTX 3050 Ti.",
+          "Boundary-pushing design with sleek 14.4“ (5) touchscreen makes seamless transitions from laptop to entertainment-ready stage to portable creative canvas.",
+          "Pair with Surface Slim Pen 2* for the best digital pen experience yet, featuring the feeling of pen on paper(7). Magnetically attach, store, and charge under the front of the keyboard."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Lenovo ThinkPad X1 Fold",
+        "productId": "B0D78RCGYG",
+        "productName": "Lenovo ThinkPad X1 Fold",
+        "filename": "B0D78RCGYG.mp4",
+        "asin": "B0D78RCGYG",
+        "clipDuration": 60.06,
+        "estimatedAudioSeconds": 58,
+        "framework": "dato_numerico",
+        "narracionSegments": null,
+        "content": [
+          "-Impresionante- ligereza de apenas 2.54 libras hace al Lenovo ThinkPad X1 Fold ultra-portátil sin sacrificar potencia. Un procesador Intel Core Ultra junto con un TB de almacenamiento brindan velocidad incuestionable, ideal para presentaciones impactantes e interactividad fluida.",
+          "-Su precio actual en Amazon ronda los...- 1524 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Lenovo ThinkPad X1 Fold"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0D78RCGYG_combined.mp4",
+        "precio": "$1524",
+        "productPhoto": "https://m.media-amazon.com/images/I/516mVedTvJL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "ULTRA-FAST PERFORMANCE: Power through demanding tasks with the latest Intel Core Ultra 7 processor, 32GB of high-speed memory, and a massive 1TB solid-state drive for lightning-fast application launches and seamless multitasking.",
+          "STUNNING TOUCH DISPLAY: Enjoy brilliant clarity and responsive touch control on the 14-inch WUXGA screen, perfect for presentations, creative work, and intuitive navigation with your fingertips.",
+          "PREMIUM BUSINESS PORTABILITY: Weighing just 2.54 pounds and under 0.63 inches thin, this sleek carbon-fiber laptop is designed for professionals on the move, combining robust durability with effortless all-day carry.",
+          "COMPREHENSIVE CONNECTIVITY: Stay connected everywhere with the latest Wireless 7 and Bluetooth 5.4, and easily hook up to monitors and peripherals with dual Thunderbolt 4, USB-A, and HDMI 2.1 ports.",
+          "ENTERPRISE-GRADE SECURITY: Work with peace of mind thanks to the integrated fingerprint reader, infrared camera with physical shutter for Windows Hello facial login, and the trusted, pre-installed Windows 11 Pro operating system."
+        ]
+      }
+    ],
+    "totalDuration": 75
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "-¡Dale like si te gustó y recuerda que- los links están en el primer comentario!"
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:45",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "laptops",
+    "increbles",
+    "para",
+    "ingenieros"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 3 Laptops Increíbles para Ingenieros",
+      "angle": "Top 3 Laptops Increíbles para Ingenieros",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 3,
+      "introScript": "¿Te imaginas una laptop que se carga al veinte por ciento en tan solo diez minutos? ¿O una que puede transformar su pantalla en papel para trabajar al aire libre sin reflejos? Hoy exploramos las portátiles más innovadoras que cada ingeniero debería conocer, disponibles ahora mismo.",
+      "keywords": [
+        "laptops",
+        "increbles",
+        "para",
+        "ingenieros"
+      ],
+      "estimatedViews": 5008,
+      "bestPublishTime": "2026-05-22T20:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "ASUS ZenBook Duo",
+          "searchTermEn": "ASUS ZenBook Duo laptop",
+          "id": "B0FRZLHGWH",
+          "filename": "B0FRZLHGWH.mp4"
+        },
+        {
+          "nombre": "Microsoft Surface Laptop Studio",
+          "searchTermEn": "Microsoft Surface Laptop Studio",
+          "id": "B09F8J8D44",
+          "filename": "B09F8J8D44.mp4"
+        },
+        {
+          "nombre": "Lenovo ThinkPad X1 Fold",
+          "searchTermEn": "Lenovo ThinkPad X1 Fold",
+          "id": "B0D78RCGYG",
+          "filename": "B0D78RCGYG.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-05-21T19:42:51.599Z",
+      "_requestedCount": 3,
+      "_adaptedCount": 3,
+      "introProductsOrder": [
+        {
+          "nombre": "Lenovo ThinkPad X1 Fold",
+          "id": "B0D78RCGYG",
+          "filename": "B0D78RCGYG_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0D78RCGYG_combined.mp4"
+        },
+        {
+          "nombre": "ASUS ZenBook Duo",
+          "id": "B0FRZLHGWH",
+          "filename": "B0FRZLHGWH_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0FRZLHGWH_combined.mp4"
+        },
+        {
+          "nombre": "Microsoft Surface Laptop Studio",
+          "id": "B09F8J8D44",
+          "filename": "B09F8J8D44_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B09F8J8D44_combined.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1779393096805_c6e0a6"
+    },
+    "generatedAt": "2026-05-21T19:52:12.961Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "ASUS ZenBook Duo",
+        "searchTermEn": "ASUS ZenBook Duo laptop",
+        "id": "B0FRZLHGWH",
+        "filename": "B0FRZLHGWH.mp4"
+      },
+      {
+        "nombre": "Microsoft Surface Laptop Studio",
+        "searchTermEn": "Microsoft Surface Laptop Studio",
+        "id": "B09F8J8D44",
+        "filename": "B09F8J8D44.mp4"
+      },
+      {
+        "nombre": "Lenovo ThinkPad X1 Fold",
+        "searchTermEn": "Lenovo ThinkPad X1 Fold",
+        "id": "B0D78RCGYG",
+        "filename": "B0D78RCGYG.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 3 Laptops Increíbles para Ingenieros\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\nPantalla plegable transforma formato. Doble pantalla táctil portátil. Potente rendimiento creativo.\n\n[0:10-0:15] INTRODUCTION\nSuscríbete y encuentra los links en el primer comentario.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] ASUS ZENBOOK DUO\nLa magia de este ASUS ZenBook Duo radica en su versatilidad multi-pantalla. Integra dos pantallas OLED Lumina de 14 pulgadas que transforman la forma en que trabajas, ya sea diseñando o multitarea extrema. Sorprende con su manejabilidad, transportándolo fácilmente gracias a su peso ligero y delgadez. Ideal para aquellos que buscan dinamismo en sus proyectos.\nSu precio actual en Amazon ronda los... 1524 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: ASUS ZenBook Duo]\n\n[0:25] MICROSOFT SURFACE LAPTOP STUDIO\nFrente a otras opciones del mercado, el Microsoft Surface Laptop Studio ofrece una relación calidad-precio excepcional. Con gráficos NVIDIA GeForce RTX, transforma creatividad y rendimiento al máximo nivel por un precio competitivo. Perfecto para tareas complejas y exigentes, redefiniendo tu experiencia digital.\nSu precio actual en Amazon ronda los... 1399 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Microsoft Surface Laptop Studio]\n\n[0:25] LENOVO THINKPAD X1 FOLD\n-Impresionante- ligereza de apenas 2.54 libras hace al Lenovo ThinkPad X1 Fold ultra-portátil sin sacrificar potencia. Un procesador Intel Core Ultra junto con un TB de almacenamiento brindan velocidad incuestionable, ideal para presentaciones impactantes e interactividad fluida.\n-Su precio actual en Amazon ronda los...- 1524 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Lenovo ThinkPad X1 Fold]\n\n[10 seconds] CONCLUSION\n-¡Dale like si te gustó y recuerda que- los links están en el primer comentario!\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:45\nTONE: engaging\nPACING: quick\nKEYWORDS: laptops, increbles, para, ingenieros\n"
+}

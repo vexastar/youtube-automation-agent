@@ -1,0 +1,112 @@
+{
+  "title": "Top 1 Maquinas Tecnológicas para la Agroindustria que Revolucionarán tu Campo",
+  "hook": {
+    "type": "statement",
+    "text": "Este dron optimiza tus cultivos desde el aire.",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "Suscríbete, los links están en el primer comentario. Empecemos.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0:10-0:15"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "ScanTrust GeoDrone",
+        "productId": "B0FYPWRFWF",
+        "productName": "ScanTrust GeoDrone",
+        "filename": "B0FYPWRFWF.mp4",
+        "content": [
+          "Monitorizar grandes extensiones de cultivo puede ser abrumador y poco eficiente. El ScanTrust GeoDrone te permite vigilar tus campos desde el cielo, identificando problemas antes de que se agraven. Equipado con tecnología avanzada, ofrece imágenes en tiempo real para un monitoreo preciso.",
+          "Su precio actual en Amazon ronda los... 70 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: ScanTrust GeoDrone"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0FYPWRFWF.mp4",
+        "precio": "$70",
+        "productPhoto": "https://m.media-amazon.com/images/I/71NchQ-1mRL._AC_UL960_QL65_.jpg"
+      }
+    ],
+    "totalDuration": 25
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "Dale like y recuerda que los links están en el primer comentario."
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "0:55",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "maquinas",
+    "tecnolgicas",
+    "para",
+    "agroindustria",
+    "revolucionarn",
+    "campo"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 1 Maquinas Tecnológicas para la Agroindustria que Revolucionarán tu Campo",
+      "angle": "Top 3 Maquinas Tecnológicas para la Agroindustria que Revolucionarán tu Campo",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 1,
+      "introScript": "¿Una máquina que analiza tus cultivos en tiempo real desde el cielo? ¿Un robot que siembra y desyerba automáticamente? Prepara tu granja para el futuro con estos tres avances tecnológicos que están transformando la agricultura.",
+      "keywords": [
+        "maquinas",
+        "tecnolgicas",
+        "para",
+        "agroindustria",
+        "revolucionarn",
+        "campo"
+      ],
+      "estimatedViews": 5864,
+      "bestPublishTime": "2026-04-23T19:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "ScanTrust GeoDrone",
+          "searchTermEn": "ScanTrust agricultural drone",
+          "id": "B0FYPWRFWF",
+          "filename": "B0FYPWRFWF.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-04-22T15:43:16.791Z",
+      "_requestedCount": 3,
+      "_adaptedCount": 1,
+      "_adaptationNote": "ATENCIÓN: El usuario pidió 3 productos pero solo hay 1 clips de video disponibles. El guion, título y narrativa deben referirse EXCLUSIVAMENTE a 1 productos.",
+      "_scriptNonce": "nonce_1776872711299_lpcnfh"
+    },
+    "generatedAt": "2026-04-22T15:45:15.603Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "ScanTrust GeoDrone",
+        "searchTermEn": "ScanTrust agricultural drone",
+        "id": "B0FYPWRFWF",
+        "filename": "B0FYPWRFWF.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 1 Maquinas Tecnológicas para la Agroindustria que Revolucionarán tu Campo\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\nEste dron optimiza tus cultivos desde el aire.\n\n[0:10-0:15] INTRODUCTION\nSuscríbete, los links están en el primer comentario. Empecemos.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] SCANTRUST GEODRONE\nMonitorizar grandes extensiones de cultivo puede ser abrumador y poco eficiente. El ScanTrust GeoDrone te permite vigilar tus campos desde el cielo, identificando problemas antes de que se agraven. Equipado con tecnología avanzada, ofrece imágenes en tiempo real para un monitoreo preciso.\nSu precio actual en Amazon ronda los... 70 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: ScanTrust GeoDrone]\n\n[10 seconds] CONCLUSION\nDale like y recuerda que los links están en el primer comentario.\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 0:55\nTONE: engaging\nPACING: quick\nKEYWORDS: maquinas, tecnolgicas, para, agroindustria, revolucionarn, campo\n"
+}

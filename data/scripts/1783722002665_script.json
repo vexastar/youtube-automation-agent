@@ -1,0 +1,197 @@
+{
+  "title": "Top 2 Gadgets Innovadores para Tu Hogar",
+  "hook": {
+    "type": "statement",
+    "text": "",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "25s-35s"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Eufy RoboVac 11S",
+        "productId": "B07R295MLS",
+        "productName": "Eufy RoboVac 11S",
+        "filename": "B07R295MLS.mp4",
+        "asin": "B07R295MLS",
+        "videoDuration": 18.3072,
+        "estimatedAudioSeconds": 32,
+        "framework": "enfoque_caracteristica",
+        "narracionSegments": null,
+        "content": [
+          "¿Cansado de ruidos molestos al limpiar? El Eufy RoboVac 11S con operación compacta y silenciosa es la solución. Su perfil de dos punto 85 pulgadas ofrece una limpieza completa sin causar disturbios. Perfecto para usar... a cualquier hora. Enciende el RoboVac. Observa cómo se desliza suavemente, eliminando polvo y suciedad. Ajusta la succión en un segundo y medio gracias a su tecnología BoostIQ. Disfruta pisos impecables; sin ningún esfuerzo.",
+          "Su precio actual ronda los ciento cincuenta dólares. Link en comentarios."
+        ],
+        "visuals": [
+          "Product image: Eufy RoboVac 11S"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07R295MLS.mp4",
+        "precio": "$150",
+        "productPhoto": "https://m.media-amazon.com/images/I/7162dbcZW3L.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "1. Operación Compacta y Silenciosa: Con un perfil delgado de 2.85\", la aspiradora robot eufy opera de manera silenciosa, ofreciendo una limpieza completa sin causar disturbios, lo que la hace perfecta para usar a cualquier hora.",
+          "2. Rendimiento de Limpieza Extendida: Capaz de funcionar hasta 100 minutos en pisos de madera, el robot aspirador eufy proporciona una succión potente y constante para una limpieza a fondo a un nivel de ruido similar al de un microondas.",
+          "3. Potencia de Succión Adaptativa para Diferentes Superficies: La tecnología BoostIQ ajusta la succión en 1.5s para una limpieza óptima en cualquier superficie.",
+          "4. Protección y Eficiencia Superior: La aspiradora robot eufy viene con una cubierta de vidrio templado antiarañazos, un sensor infrarrojo para evadir obstáculos y tecnología de detección de caídas, asegurando una limpieza segura y eficiente mientras se recarga automáticamente para estar lista.",
+          "5. Nota: El 11s Max no soporta conectividad WiFi ni de aplicaciones; todas las operaciones se realizan utilizando el control remoto y los botones del dispositivo."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "LIFX Smart Bulb",
+        "productId": "B08BKZFHQQ",
+        "productName": "LIFX Smart Bulb",
+        "filename": "B08BKZFHQQ.mp4",
+        "asin": "B08BKZFHQQ",
+        "videoDuration": 12.814067,
+        "estimatedAudioSeconds": 31,
+        "framework": "comparacion_precio",
+        "narracionSegments": null,
+        "content": [
+          "¿Cansado de bombillas aburridas? La LIFX Smart Bulb te ofrece una experiencia única. Su tecnología SUPERCOLOR brinda ocho-cientos lumen y miles de millones de colores RGB. Atrévete a crear paletas personalizadas. Explora más de doscientos temas; iluminando tus momentos con verdadero arte. Instálala fácilmente: atornilla y escanea el código QR. Concierta tus luces al ritmo de tu música favorita en cuestión de minutos... Transformando así cualquier habitación.",
+          "Su precio actual ronda los treinta dólares. Link en comentarios."
+        ],
+        "visuals": [
+          "Product image: LIFX Smart Bulb"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B08BKZFHQQ.mp4",
+        "precio": "$30",
+        "productPhoto": "https://m.media-amazon.com/images/I/7177KSsa37L.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "\"\"\"SUPERCOLOR. BRILLO INCOMPARABLE. — Las bombillas de luz que cambian de color LIFX SuperColor ofrecen una luminosidad de 800 lumen y miles de millones de colores RGB vívidos con 5 veces la profundidad de las bombillas LED ordinarias. Con un CRI de 82+, cada tono es verdadero. Una bombilla inteligente que cambia de color que transforma cada habitación.\"\"\"",
+          "\"\"\"MÁS QUE LUZ. ES UNA EXPERIENCIA. — Explora más de 200 Temas para iluminación ambiental en Arte, Música, Deportes y Festividades. Crea paletas de colores personalizadas, diseña Gradientes y guarda Escenas Personalizadas. Desde Van Gogh hasta los colores de tu equipo o algo completamente tuyo — todo está en la aplicación LIFX.\"\"\"",
+          "DISEÑO DE LUZ QUE SE ADAPTA A TI. — Agrupa habitaciones y crea Rutinas que gestionen tu día: luz diurna fresca para concentrarte, bombillas de luz cálida a 1500K para relajarte, bombillas LED regulables del 1 al 100% a lo largo del espectro completo de 9000K — todo programado, por habitación, sin tocar tu teléfono.",
+          "TUS LUCES. TU BANDA SONORA. — Activa el modo Visualizer para sincronizar la música y tus bombillas inteligentes pulsan y reaccionan a cada ritmo. Agrega Strobe, Move o Color Cycle para juegos, noches de cine o fiestas que se sientan vivas. Luces que escuchan tan intensamente como tú.",
+          "\"\"\"ATORNILLA. ESCANEA. HECHO. — Configúralo en menos de cinco minutos. Atornilla, escanea el código QR para emparejamiento instantáneo con Apple HomeKit, o abre la aplicación LIFX — la detección automática por Bluetooth encuentra tu bombilla Matter de inmediato. Sin hub, sin complicaciones. Solo una gran iluminación, rápida.\"\"\""
+        ]
+      }
+    ],
+    "totalDuration": 80
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      ""
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "2:30",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "innovadores",
+    "para",
+    "hogar"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 3 Gadgets Innovadores para Tu Hogar",
+      "angle": "Top 3 Gadgets Innovadores para Tu Hogar",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 3,
+      "introScript": "¿Te imaginas tener una aspiradora que limpia mientras tú te relajas? ¿O un sistema de luces que cambia de color con tu música? Prepárate para descubrir tres gadgets que transformarán tu hogar en un espacio inteligente y lleno de sorpresas. No te pierdas cómo estos productos pueden hacer tu vida más cómoda y divertida. Cada uno trae una innovación que no querrás perderte. Desde la limpieza automática hasta ambientes personalizados, te sorprenderás con lo que estos gadgets pueden hacer.",
+      "keywords": [
+        "gadgets",
+        "innovadores",
+        "para",
+        "hogar"
+      ],
+      "estimatedViews": 6150,
+      "bestPublishTime": "2026-07-11T15:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Eufy RoboVac 11S",
+          "searchTermEn": "eufy robovac 11s",
+          "id": "B07R295MLS",
+          "filename": "B07R295MLS.mp4"
+        },
+        {
+          "nombre": "Govee LED Strip Lights",
+          "searchTermEn": "govee led strip lights",
+          "id": "B09VBZC2CX",
+          "filename": "B09VBZC2CX.mp4"
+        },
+        {
+          "nombre": "LIFX Smart Bulb",
+          "searchTermEn": "lifx smart bulb",
+          "id": "B08BKZFHQQ",
+          "filename": "B08BKZFHQQ.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-07-10T22:13:38.788Z",
+      "_requestedCount": 3,
+      "_adaptedCount": 3,
+      "introProductsOrder": [
+        {
+          "nombre": "Eufy RoboVac 11S",
+          "id": "B07R295MLS",
+          "filename": "B07R295MLS.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07R295MLS.mp4"
+        },
+        {
+          "nombre": "LIFX Smart Bulb",
+          "id": "B08BKZFHQQ",
+          "filename": "B08BKZFHQQ.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B08BKZFHQQ.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1783721952800_blp7jm"
+    },
+    "generatedAt": "2026-07-10T22:19:38.873Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Eufy RoboVac 11S",
+        "searchTermEn": "eufy robovac 11s",
+        "id": "B07R295MLS",
+        "filename": "B07R295MLS.mp4"
+      },
+      {
+        "nombre": "Govee LED Strip Lights",
+        "searchTermEn": "govee led strip lights",
+        "id": "B09VBZC2CX",
+        "filename": "B09VBZC2CX.mp4"
+      },
+      {
+        "nombre": "LIFX Smart Bulb",
+        "searchTermEn": "lifx smart bulb",
+        "id": "B08BKZFHQQ",
+        "filename": "B08BKZFHQQ.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 3 Gadgets Innovadores para Tu Hogar\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\n\n\n[25s-35s] INTRODUCTION\n\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] EUFY ROBOVAC 11S\n¿Cansado de ruidos molestos al limpiar? El Eufy RoboVac 11S con operación compacta y silenciosa es la solución. Su perfil de dos punto 85 pulgadas ofrece una limpieza completa sin causar disturbios. Perfecto para usar... a cualquier hora. Enciende el RoboVac. Observa cómo se desliza suavemente, eliminando polvo y suciedad. Ajusta la succión en un segundo y medio gracias a su tecnología BoostIQ. Disfruta pisos impecables; sin ningún esfuerzo.\nSu precio actual ronda los ciento cincuenta dólares. Link en comentarios.\n\n[VISUALS: Product image: Eufy RoboVac 11S]\n\n[0:25] GOVEE LED STRIP LIGHTS\n¿Buscas transformar tu espacio por completo? Las Govee LED Strip Lights de cien pies. Más longitud, más impacto; ideales para cualquier habitación. Con tecnología Smart RGBIC, ofrecen coloridos efectos segmentados que cautivan tus sentidos. Conéctalas a Alexa o Google Assistant; controla todo con tu voz sin esfuerzo. Descubre personalizaciones en la Govee Home App. Presiona 'sincronizar con música' y observa cómo se iluminan al ritmo de tus canciones favoritas; un espectáculo garantizado.\nSu precio actual ronda los... 55 dólares. Link en comentarios.\n\n[VISUALS: Product image: Govee LED Strip Lights]\n\n[0:25] LIFX SMART BULB\n¿Cansado de bombillas aburridas? La LIFX Smart Bulb te ofrece una experiencia única. Su tecnología SUPERCOLOR brinda ocho-cientos lumen y miles de millones de colores RGB. Atrévete a crear paletas personalizadas. Explora más de doscientos temas; iluminando tus momentos con verdadero arte. Instálala fácilmente: atornilla y escanea el código QR. Concierta tus luces al ritmo de tu música favorita en cuestión de minutos... Transformando así cualquier habitación.\nSu precio actual ronda los treinta dólares. Link en comentarios.\n\n[VISUALS: Product image: LIFX Smart Bulb]\n\n[10 seconds] CONCLUSION\n\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 2:30\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, innovadores, para, hogar\n"
+}

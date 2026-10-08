@@ -1,0 +1,139 @@
+{
+  "title": "3 Gadgets Asombrosos para tu Cocina",
+  "hook": {
+    "type": "statement",
+    "text": "Un cortador que convierte cualquier vegetal en espirales perfectos... un organizador que transforma el caos en tu nevera... y un rociador que da el toque perfecto a tus ensaladas.",
+    "duration": "0:00-0:05"
+  },
+  "introduction": {
+    "greeting": "Dale a suscribirse para más hallazgos como estos, y tranquilo, todos los links están en el primer comentario fijado.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0:05-0:10"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Cortador de vegetales",
+        "content": [
+          "Cortar vegetales a mano puede ser una tarea tediosa y desigual. El cortador de vegetales transforma cualquier vegetal en espirales perfectas con solo un giro. Hecho de acero inoxidable, es duradero y fácil de limpiar.",
+          "Su precio actual en Amazon ronda los... $14.99. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Cortador de vegetales"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B09XLG3YQB.mp4",
+        "precio": "$14.99"
+      },
+      {
+        "type": "content",
+        "title": "Organizador de nevera",
+        "content": [
+          "La nevera desorganizada hace difícil encontrar lo que necesitas cuando lo necesitas. El organizador de nevera clasifica y maximiza el espacio de tus alimentos de manera eficiente. Diseñado para ajustar en cualquier estante estándar.",
+          "Su precio actual en Amazon ronda los... $19.99. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Organizador de nevera"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0CHZ69ZFN.mp4",
+        "precio": "$19.99"
+      },
+      {
+        "type": "content",
+        "title": "Rociador de aceite",
+        "content": [
+          "Controlar la cantidad de aceite al cocinar puede ser complicado y desperdiciador. El rociador de aceite dispensa la cantidad perfecta en cada uso para una cocina saludable. Fabricado en vidrio resistente, es apto para cualquier tipo de aceite.",
+          "Su precio actual en Amazon ronda los... $24.99. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Rociador de aceite"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0FBR9XKHX.mp4",
+        "precio": "$24.99"
+      }
+    ],
+    "totalDuration": 75
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "Deja un like si quieres ver más, y recuerda que los links están en el primer comentario."
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:45",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "asombrosos",
+    "para",
+    "cocina"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 3 Gadgets Asombrosos para tu Cocina",
+      "angle": "Top 3 Gadgets Asombrosos para tu Cocina",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 3,
+      "introScript": "¿Un dispositivo que corta tus vegetales en segundos? ¿Un gadget que mantiene tu refrigerador organizado al instante? Prepárate para descubrir tres innovaciones que transformarán tu manera de cocinar.",
+      "keywords": [
+        "gadgets",
+        "asombrosos",
+        "para",
+        "cocina"
+      ],
+      "estimatedViews": 4799,
+      "bestPublishTime": "2026-04-08T19:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Cortador de vegetales",
+          "searchTermEn": "vegetable slicer kitchen"
+        },
+        {
+          "nombre": "Organizador de nevera",
+          "searchTermEn": "fridge storage organizer"
+        },
+        {
+          "nombre": "Rociador de aceite",
+          "searchTermEn": "oil sprayer cooking"
+        }
+      ],
+      "createdAt": "2026-04-07T21:04:26.789Z"
+    },
+    "generatedAt": "2026-04-07T21:04:34.622Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Cortador de vegetales",
+        "searchTermEn": "vegetable slicer kitchen"
+      },
+      {
+        "nombre": "Organizador de nevera",
+        "searchTermEn": "fridge storage organizer"
+      },
+      {
+        "nombre": "Rociador de aceite",
+        "searchTermEn": "oil sprayer cooking"
+      }
+    ]
+  },
+  "fullScript": "TITLE: 3 Gadgets Asombrosos para tu Cocina\n\n══════════════════════════════════════════════════\n\n[0:00-0:05] HOOK\nUn cortador que convierte cualquier vegetal en espirales perfectos... un organizador que transforma el caos en tu nevera... y un rociador que da el toque perfecto a tus ensaladas.\n\n[0:05-0:10] INTRODUCTION\nDale a suscribirse para más hallazgos como estos, y tranquilo, todos los links están en el primer comentario fijado.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] CORTADOR DE VEGETALES\nCortar vegetales a mano puede ser una tarea tediosa y desigual. El cortador de vegetales transforma cualquier vegetal en espirales perfectas con solo un giro. Hecho de acero inoxidable, es duradero y fácil de limpiar.\nSu precio actual en Amazon ronda los... $14.99. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Cortador de vegetales]\n\n[0:25] ORGANIZADOR DE NEVERA\nLa nevera desorganizada hace difícil encontrar lo que necesitas cuando lo necesitas. El organizador de nevera clasifica y maximiza el espacio de tus alimentos de manera eficiente. Diseñado para ajustar en cualquier estante estándar.\nSu precio actual en Amazon ronda los... $19.99. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Organizador de nevera]\n\n[0:25] ROCIADOR DE ACEITE\nControlar la cantidad de aceite al cocinar puede ser complicado y desperdiciador. El rociador de aceite dispensa la cantidad perfecta en cada uso para una cocina saludable. Fabricado en vidrio resistente, es apto para cualquier tipo de aceite.\nSu precio actual en Amazon ronda los... $24.99. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Rociador de aceite]\n\n[10 seconds] CONCLUSION\nDeja un like si quieres ver más, y recuerda que los links están en el primer comentario.\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:45\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, asombrosos, para, cocina\n"
+}

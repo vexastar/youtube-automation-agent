@@ -1,0 +1,169 @@
+{
+  "title": "Top 5 Gadgets de Escritorio Increíbles",
+  "hook": {
+    "type": "statement",
+    "text": "¡Descubre los gadgets que revolucionarán tu espacio de trabajo en un abrir y cerrar de ojos!",
+    "duration": "0:00-0:05"
+  },
+  "introduction": {
+    "greeting": "Hoy en Canal te traemos los 5 gadgets de escritorio más increíbles que harán de tu espacio de trabajo un lugar más funcional y atractivo. Desde iluminación colorida hasta organización impecable, ¡no querrás perdértelos!",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0:05-0:15"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Organizador magnético de cables",
+        "content": [
+          "Dile adiós al caos de los cables con este organizador magnético que mantiene todo en su lugar. Perfecto para quienes buscan un escritorio ordenado y libre de enredos. Su diseño magnético permite una organización fácil y rápida, ideal para cualquier estación de trabajo.",
+          "Consíguelo por solo 13.99 dólares en el enlace de la descripción."
+        ],
+        "visuals": [
+          "Product image: Organizador magnético de cables"
+        ],
+        "duration": 25
+      },
+      {
+        "type": "content",
+        "title": "Soporte ajustable para laptop",
+        "content": [
+          "Maximiza tu comodidad con este soporte ajustable para laptop, que eleva tu dispositivo a la altura perfecta. Es ideal para mejorar la postura y reducir la tensión en el cuello y los ojos, siendo una opción indispensable para quienes pasan largas horas frente al computador.",
+          "Revisa su precio de 17.99 dólares en el primer comentario."
+        ],
+        "visuals": [
+          "Product image: Soporte ajustable para laptop"
+        ],
+        "duration": 25
+      },
+      {
+        "type": "content",
+        "title": "Ventilador portátil USB",
+        "content": [
+          "Mantente fresco mientras trabajas con este ventilador portátil USB que es compacto pero potente. Es la solución perfecta para esos días calurosos en la oficina, adaptándose fácilmente a cualquier espacio gracias a su diseño portátil.",
+          "No te lo pierdas por solo 7.99 dólares en la descripción."
+        ],
+        "visuals": [
+          "Product image: Ventilador portátil USB"
+        ],
+        "duration": 25
+      },
+      {
+        "type": "content",
+        "title": "Cargador inalámbrico 3 en 1",
+        "content": [
+          "Carga todos tus dispositivos con este cargador inalámbrico 3 en 1. Compatible con teléfonos, relojes inteligentes y auriculares, es ideal para quienes desean una carga rápida y eficiente sin el desorden de los cables.",
+          "Encuéntralo por 16.12 dólares en el enlace de la descripción."
+        ],
+        "visuals": [
+          "Product image: Cargador inalámbrico 3 en 1"
+        ],
+        "duration": 25
+      },
+      {
+        "type": "content",
+        "title": "Lámpara LED multicolor",
+        "content": [
+          "Ilumina tu espacio de trabajo con estilo con esta lámpara LED multicolor. Con múltiples configuraciones de color y brillo, es perfecta para crear el ambiente adecuado para cada tarea, desde el trabajo hasta la relajación.",
+          "Te dejo el enlace con su precio de 20.99 dólares en la descripción."
+        ],
+        "visuals": [
+          "Product image: Lámpara LED multicolor"
+        ],
+        "duration": 25
+      }
+    ],
+    "totalDuration": 125
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "Gracias por acompañarnos en Canal. Si te gustó el video, no olvides darle like, suscribirte y dejarnos un comentario con tu gadget favorito. ¡Hasta la próxima!"
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "2:35",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "escritorio",
+    "increbles"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 5 Gadgets de Escritorio Increíbles",
+      "angle": "Top 5 Gadgets de Escritorio Increíbles",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "keywords": [
+        "gadgets",
+        "escritorio",
+        "increbles"
+      ],
+      "estimatedViews": 6099,
+      "bestPublishTime": "2026-04-02T19:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Lámpara LED multicolor",
+          "searchTermEn": "color changing desk lamp"
+        },
+        {
+          "nombre": "Cargador inalámbrico 3 en 1",
+          "searchTermEn": "3 in 1 wireless charging station"
+        },
+        {
+          "nombre": "Ventilador portátil USB",
+          "searchTermEn": "portable usb desk fan"
+        },
+        {
+          "nombre": "Soporte ajustable para laptop",
+          "searchTermEn": "adjustable laptop stand desk"
+        },
+        {
+          "nombre": "Organizador magnético de cables",
+          "searchTermEn": "magnetic cable organizer desk"
+        }
+      ],
+      "createdAt": "2026-04-01T21:17:37.482Z"
+    },
+    "generatedAt": "2026-04-01T21:21:46.723Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Lámpara LED multicolor",
+        "searchTermEn": "color changing desk lamp"
+      },
+      {
+        "nombre": "Cargador inalámbrico 3 en 1",
+        "searchTermEn": "3 in 1 wireless charging station"
+      },
+      {
+        "nombre": "Ventilador portátil USB",
+        "searchTermEn": "portable usb desk fan"
+      },
+      {
+        "nombre": "Soporte ajustable para laptop",
+        "searchTermEn": "adjustable laptop stand desk"
+      },
+      {
+        "nombre": "Organizador magnético de cables",
+        "searchTermEn": "magnetic cable organizer desk"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 5 Gadgets de Escritorio Increíbles\n\n══════════════════════════════════════════════════\n\n[0:00-0:05] HOOK\n¡Descubre los gadgets que revolucionarán tu espacio de trabajo en un abrir y cerrar de ojos!\n\n[0:05-0:15] INTRODUCTION\nHoy en Canal te traemos los 5 gadgets de escritorio más increíbles que harán de tu espacio de trabajo un lugar más funcional y atractivo. Desde iluminación colorida hasta organización impecable, ¡no querrás perdértelos!\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] ORGANIZADOR MAGNÉTICO DE CABLES\nDile adiós al caos de los cables con este organizador magnético que mantiene todo en su lugar. Perfecto para quienes buscan un escritorio ordenado y libre de enredos. Su diseño magnético permite una organización fácil y rápida, ideal para cualquier estación de trabajo.\nConsíguelo por solo 13.99 dólares en el enlace de la descripción.\n\n[VISUALS: Product image: Organizador magnético de cables]\n\n[0:25] SOPORTE AJUSTABLE PARA LAPTOP\nMaximiza tu comodidad con este soporte ajustable para laptop, que eleva tu dispositivo a la altura perfecta. Es ideal para mejorar la postura y reducir la tensión en el cuello y los ojos, siendo una opción indispensable para quienes pasan largas horas frente al computador.\nRevisa su precio de 17.99 dólares en el primer comentario.\n\n[VISUALS: Product image: Soporte ajustable para laptop]\n\n[0:25] VENTILADOR PORTÁTIL USB\nMantente fresco mientras trabajas con este ventilador portátil USB que es compacto pero potente. Es la solución perfecta para esos días calurosos en la oficina, adaptándose fácilmente a cualquier espacio gracias a su diseño portátil.\nNo te lo pierdas por solo 7.99 dólares en la descripción.\n\n[VISUALS: Product image: Ventilador portátil USB]\n\n[0:25] CARGADOR INALÁMBRICO 3 EN 1\nCarga todos tus dispositivos con este cargador inalámbrico 3 en 1. Compatible con teléfonos, relojes inteligentes y auriculares, es ideal para quienes desean una carga rápida y eficiente sin el desorden de los cables.\nEncuéntralo por 16.12 dólares en el enlace de la descripción.\n\n[VISUALS: Product image: Cargador inalámbrico 3 en 1]\n\n[0:25] LÁMPARA LED MULTICOLOR\nIlumina tu espacio de trabajo con estilo con esta lámpara LED multicolor. Con múltiples configuraciones de color y brillo, es perfecta para crear el ambiente adecuado para cada tarea, desde el trabajo hasta la relajación.\nTe dejo el enlace con su precio de 20.99 dólares en la descripción.\n\n[VISUALS: Product image: Lámpara LED multicolor]\n\n[10 seconds] CONCLUSION\nGracias por acompañarnos en Canal. Si te gustó el video, no olvides darle like, suscribirte y dejarnos un comentario con tu gadget favorito. ¡Hasta la próxima!\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 2:35\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, escritorio, increbles\n"
+}

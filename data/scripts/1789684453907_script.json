@@ -1,0 +1,136 @@
+{
+  "title": "El gadget definitivo para correr: Ekster Parliament Wallet",
+  "hook": {
+    "type": "statement",
+    "text": "Después de analizar decenas de artículos, llegamos a esta selección definitiva de productos para llevar tus pertenencias con estilo y seguridad. No hay exageraciones ni relleno, solo utilidad real, destacando el Ekster Parliament Wallet como una inversión inteligente. Los links están en el primer comentario. ¡Comencemos!",
+    "duration": "0:00-0:15"
+  },
+  "introduction": {
+    "greeting": "",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0s"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Ekster Parliament Wallet",
+        "productId": "prod_1",
+        "productName": "Ekster Parliament Wallet",
+        "filename": "B07PVMK5NJ.mp4",
+        "asin": "B07PVMK5NJ",
+        "videoDuration": 47.5475,
+        "estimatedAudioSeconds": 26,
+        "framework": "experiencia_sensorial",
+        "narracionSegments": null,
+        "content": [
+          "¿Tarjetas al instante? ¿Con estilo? ¿Desde tu bolsillo? Ekster Parliament Wallet despliega tus tarjetas con un solo clic. Solo presiona y siente cómo tus tarjetas emergen fluidamente, organizadas. Guarda dinero, tarjetas de crédito e incluso monedas, todo en un diseño elegante de cuero premium que maximiza el espacio y minimiza el esfuerzo.",
+          "Consíguelo ya en Amazon por 89 dólares. Enlace directo en el primer comentario."
+        ],
+        "visuals": [
+          "Product image: Ekster Parliament Wallet"
+        ],
+        "duration": 25,
+        "precio": "$89",
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07PVMK5NJ.mp4",
+        "productPhoto": null,
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [],
+        "originalVideoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07PVMK5NJ.mp4"
+      }
+    ],
+    "totalDuration": 40
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "Gracias por llegar hasta aquí. El próximo top será aún más loco. Recuerda los links en el primer comentario."
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "",
+    "like": "",
+    "comment": "",
+    "nextVideo": "",
+    "duration": "0 seconds"
+  },
+  "duration": "1:10",
+  "tone": "engaging",
+  "tone_variant": "entusiasta y acelerado, como un presentador de teletienda pero sin relleno ni repetición",
+  "pacing": "quick",
+  "keywords": [
+    "gadget",
+    "definitivo",
+    "para",
+    "correr",
+    "ekster",
+    "parliament",
+    "wallet"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "El gadget definitivo para correr: Ekster Parliament Wallet",
+      "angle": "El gadget definitivo para correr: Ekster Parliament Wallet",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 1,
+      "introScript": "¿Alguna vez te has preguntado cómo llevar tus cosas esenciales al correr sin complicaciones? Descubre el Ekster Parliament Wallet, una cartera inteligente que cambiará la forma en que organizas tus pertenencias. Liviana, elegante y con tecnología avanzada, te sorprenderá cómo este gadget puede transformar tus carreras.",
+      "keywords": [
+        "gadget",
+        "definitivo",
+        "para",
+        "correr",
+        "ekster",
+        "parliament",
+        "wallet"
+      ],
+      "estimatedViews": 3587,
+      "bestPublishTime": "2026-09-22T19:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "id": "B07PVMK5NJ",
+          "nombre": "La traducción del texto \"Ekster Parliament",
+          "filename": "B07PVMK5NJ.mp4",
+          "precio": 89,
+          "searchTermEn": "Ekster Parliament Wallet"
+        }
+      ],
+      "_sourceFile": "productos_locales.json",
+      "createdAt": "2026-09-17T22:33:58.442Z",
+      "_requestedCount": 1,
+      "_adaptedCount": 1,
+      "introProductsOrder": [
+        {
+          "nombre": "La traducción del texto \"Ekster Parliament",
+          "id": "B07PVMK5NJ",
+          "filename": "B07PVMK5NJ.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07PVMK5NJ.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1789684440025_ltbqvh"
+    },
+    "generatedAt": "2026-09-17T22:34:08.722Z",
+    "version": "4.0-dynamic-rotator",
+    "productos": [
+      {
+        "id": "B07PVMK5NJ",
+        "nombre": "La traducción del texto \"Ekster Parliament",
+        "filename": "B07PVMK5NJ.mp4",
+        "precio": 89,
+        "searchTermEn": "Ekster Parliament Wallet"
+      }
+    ]
+  },
+  "fullScript": "TITLE: El gadget definitivo para correr: Ekster Parliament Wallet\n\n══════════════════════════════════════════════════\n\n[0:00-0:15] HOOK\nDespués de analizar decenas de artículos, llegamos a esta selección definitiva de productos para llevar tus pertenencias con estilo y seguridad. No hay exageraciones ni relleno, solo utilidad real, destacando el Ekster Parliament Wallet como una inversión inteligente. Los links están en el primer comentario. ¡Comencemos!\n\n[0s] INTRODUCTION\n\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] EKSTER PARLIAMENT WALLET\n¿Tarjetas al instante? ¿Con estilo? ¿Desde tu bolsillo? Ekster Parliament Wallet despliega tus tarjetas con un solo clic. Solo presiona y siente cómo tus tarjetas emergen fluidamente, organizadas. Guarda dinero, tarjetas de crédito e incluso monedas, todo en un diseño elegante de cuero premium que maximiza el espacio y minimiza el esfuerzo.\nConsíguelo ya en Amazon por 89 dólares. Enlace directo en el primer comentario.\n\n[VISUALS: Product image: Ekster Parliament Wallet]\n\n[10 seconds] CONCLUSION\nGracias por llegar hasta aquí. El próximo top será aún más loco. Recuerda los links en el primer comentario.\n\n\n\n[0 seconds] CALL TO ACTION\n\n\n\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:10\nTONE: engaging\nPACING: quick\nKEYWORDS: gadget, definitivo, para, correr, ekster, parliament, wallet\n"
+}

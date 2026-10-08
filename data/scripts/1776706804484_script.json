@@ -1,0 +1,164 @@
+{
+  "title": "Top 3 Gadgets Tecnológicos Nuevos en Amazon",
+  "hook": {
+    "type": "statement",
+    "text": "Esta billetera organiza todo en un toque. Este buscador localiza tus llaves instantáneamente. Y este cuaderno se borra mágicamente con agua.",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "Suscríbete, los links están en el primer comentario. Empecemos.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0:10-0:15"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Ekster Parliament Wallet",
+        "productId": "B07PXM8HX7",
+        "productName": "Ekster Parliament Wallet",
+        "filename": "B07PXM8HX7.mp4",
+        "content": [
+          "¿Harto de buscar tarjetas en una billetera caótica? La Ekster Parliament Wallet despliega tus tarjetas con un simple botón. Además, su piel premium y protección RFID la hacen segura y elegante.",
+          "Su precio actual en Amazon ronda los... 99 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Ekster Parliament Wallet"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07PXM8HX7.mp4",
+        "precio": "$99"
+      },
+      {
+        "type": "content",
+        "title": "Tile Mate Key Finder",
+        "productId": "B0D6354JRF",
+        "productName": "Tile Mate Key Finder",
+        "filename": "B0D6354JRF.mp4",
+        "content": [
+          "Perder llaves puede ser un inconveniente diario frustrante. El Tile Mate Key Finder te permite encontrarlas con un toque en tu teléfono. Su amplia cobertura Bluetooth te asegura que nada se pierda de vista.",
+          "Su precio actual en Amazon ronda los... 68 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Tile Mate Key Finder"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0D6354JRF.mp4",
+        "precio": "$68"
+      },
+      {
+        "type": "content",
+        "title": "Rocketbook Smart Notebook",
+        "productId": "B0DP3JMP14",
+        "productName": "Rocketbook Smart Notebook",
+        "filename": "B0DP3JMP14.mp4",
+        "content": [
+          "Tomar notas y luego perderlas es un problema común. El Rocketbook Smart Notebook permite borrar tus escritos con agua y subirlos a la nube. Con páginas reutilizables, nunca más desperdiciarás papel.",
+          "Su precio actual en Amazon ronda los... 30 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Rocketbook Smart Notebook"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0DP3JMP14.mp4",
+        "precio": "$30"
+      }
+    ],
+    "totalDuration": 75
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "Deja un like y recuerda que los links están en el primer comentario."
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:45",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "tecnolgicos",
+    "nuevos",
+    "amazon"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 3 Gadgets Tecnológicos Nuevos en Amazon",
+      "angle": "Top 3 Gadgets Tecnológicos Nuevos en Amazon",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 3,
+      "introScript": "¿Una billetera que se conecta a tu smartphone? ¿Un llavero inteligente que nunca se pierde? Hoy exploramos tres gadgets que revolucionan la forma en que llevamos lo cotidiano al siguiente nivel.",
+      "keywords": [
+        "gadgets",
+        "tecnolgicos",
+        "nuevos",
+        "amazon"
+      ],
+      "estimatedViews": 5648,
+      "bestPublishTime": "2026-04-23T19:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Ekster Parliament Wallet",
+          "searchTermEn": "Ekster Parliament Wallet",
+          "id": "B07PXM8HX7",
+          "filename": "B07PXM8HX7.mp4"
+        },
+        {
+          "nombre": "Tile Mate Key Finder",
+          "searchTermEn": "Tile Mate Key Finder",
+          "id": "B0D6354JRF",
+          "filename": "B0D6354JRF.mp4"
+        },
+        {
+          "nombre": "Rocketbook Smart Notebook",
+          "searchTermEn": "Rocketbook Smart Notebook",
+          "id": "B0DP3JMP14",
+          "filename": "B0DP3JMP14.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-04-20T17:35:20.240Z",
+      "_requestedCount": 3,
+      "_adaptedCount": 3,
+      "_scriptNonce": "nonce_1776706798803_w9ca3y"
+    },
+    "generatedAt": "2026-04-20T17:40:04.115Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Ekster Parliament Wallet",
+        "searchTermEn": "Ekster Parliament Wallet",
+        "id": "B07PXM8HX7",
+        "filename": "B07PXM8HX7.mp4"
+      },
+      {
+        "nombre": "Tile Mate Key Finder",
+        "searchTermEn": "Tile Mate Key Finder",
+        "id": "B0D6354JRF",
+        "filename": "B0D6354JRF.mp4"
+      },
+      {
+        "nombre": "Rocketbook Smart Notebook",
+        "searchTermEn": "Rocketbook Smart Notebook",
+        "id": "B0DP3JMP14",
+        "filename": "B0DP3JMP14.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 3 Gadgets Tecnológicos Nuevos en Amazon\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\nEsta billetera organiza todo en un toque. Este buscador localiza tus llaves instantáneamente. Y este cuaderno se borra mágicamente con agua.\n\n[0:10-0:15] INTRODUCTION\nSuscríbete, los links están en el primer comentario. Empecemos.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] EKSTER PARLIAMENT WALLET\n¿Harto de buscar tarjetas en una billetera caótica? La Ekster Parliament Wallet despliega tus tarjetas con un simple botón. Además, su piel premium y protección RFID la hacen segura y elegante.\nSu precio actual en Amazon ronda los... 99 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Ekster Parliament Wallet]\n\n[0:25] TILE MATE KEY FINDER\nPerder llaves puede ser un inconveniente diario frustrante. El Tile Mate Key Finder te permite encontrarlas con un toque en tu teléfono. Su amplia cobertura Bluetooth te asegura que nada se pierda de vista.\nSu precio actual en Amazon ronda los... 68 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Tile Mate Key Finder]\n\n[0:25] ROCKETBOOK SMART NOTEBOOK\nTomar notas y luego perderlas es un problema común. El Rocketbook Smart Notebook permite borrar tus escritos con agua y subirlos a la nube. Con páginas reutilizables, nunca más desperdiciarás papel.\nSu precio actual en Amazon ronda los... 30 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Rocketbook Smart Notebook]\n\n[10 seconds] CONCLUSION\nDeja un like y recuerda que los links están en el primer comentario.\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:45\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, tecnolgicos, nuevos, amazon\n"
+}

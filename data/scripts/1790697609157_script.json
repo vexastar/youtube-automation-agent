@@ -1,0 +1,188 @@
+{
+  "title": "Top 2 Gadgets Asombrosos para Tu Sala",
+  "hook": {
+    "type": "statement",
+    "text": "Existe un mercado oculto de productos que nadie conoce. Un altavoz que transforma cómo escuchas el sonido en tu hogar y un purificador que hace que respires como nunca antes, son el santo grial. He revelado los links en el primer comentario. Dale play.",
+    "duration": "0:00-0:15"
+  },
+  "introduction": {
+    "greeting": "",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0s"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Sonos Arc Ultra Soundbar con Dolby",
+        "productId": "B0DFK28LBB",
+        "productName": "Sonos Arc Ultra Soundbar con Dolby",
+        "filename": "B0DFK28LBB.mp4",
+        "asin": "B0DFK28LBB",
+        "videoDuration": 70.071267,
+        "estimatedAudioSeconds": 41,
+        "framework": "comparacion_precio",
+        "narracionSegments": null,
+        "content": [
+          "Experimentar sonido envolvente real en casa puede ser complicado cuando la acústica no juega a tu favor. La Sonos Arc Ultra Soundbar con Dolby ofrece una solución transformadora al llenar cada rincón de tu habitación con su tecnología Sound Motion. Incluye una experiencia de audio espacial 9.1.4 incomparable gracias a Dolby Atmos, mientras integra IA para claridad en los diálogos humanos. Diseñada para complementar estéticamente cualquier espacio sin desviar la atención del contenido, esta barra de sonido se maneja fácilmente mediante múltiples controles como el remoto de TV o Alexa.",
+          "Disponible por aproximadamente mil noventa y nueve dólares en Amazon justo ahora."
+        ],
+        "visuals": [
+          "Product image: Sonos Arc Ultra Soundbar con Dolby"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0DFK28LBB.mp4",
+        "precio": "$1099",
+        "productPhoto": "https://m.media-amazon.com/images/I/61WbdzYBy8L.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "Arquitectura acústica completamente nueva con tecnología Sound Motion llena cada rincón de la habitación y coloca los sonidos con precisión a tu alrededor.",
+          "Experiencia de audio espacial 9.1.4 inigualable con Dolby Atmos",
+          "Ultra-clara diálogos más Mejora de Voz, impulsada por IA, detecta la voz humana para aclarar cada palabra.",
+          "El diseño elegante se ve genial en tu hogar y no distraerá de tu entretenimiento.",
+          "Controla con el control remoto de tu TV, la app de Sonos, los controles táctiles, Sonos Voice Control y Amazon Alexa."
+        ],
+        "originalVideoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0DFK28LBB.mp4"
+      },
+      {
+        "type": "content",
+        "title": "Dyson Purifier Cool PC1",
+        "productId": "B0F3FZZ5QZ",
+        "productName": "Dyson Purifier Cool PC1",
+        "filename": "B0F3FZZ5QZ.mp4",
+        "asin": "B0F3FZZ5QZ",
+        "videoDuration": 17.452033,
+        "estimatedAudioSeconds": 31,
+        "framework": "dato_numerico",
+        "narracionSegments": null,
+        "content": [
+          "Combatir los olores persistentes y la mala calidad del aire en casa puede ser desesperante. El Dyson Purifier Cool PC1 soluciona estos problemas con su avanzado sistema de filtrado sellado. Integra filtro HEPA, captura casi cien por ciento de alérgenos y distribuye setenta y seis galones de aire por segundo., lo que mejora notablemente el ambiente. Todo controlable desde tu smartphone con la aplicación.",
+          "Actualmente se encuentra disponible por quinientos treinta y nueve dólares en Amazon."
+        ],
+        "visuals": [
+          "Product image: Dyson Purifier Cool PC1"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0F3FZZ5QZ.mp4",
+        "precio": "$539",
+        "productPhoto": "https://m.media-amazon.com/images/I/61Rd1kpVfIL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "El sistema de filtro completamente sellado combina un filtro de carbón activado para eliminar gases con un filtro HEPA que captura el 99.97% de alérgenos microscópicos² y contaminantes tan pequeños como 0.3 micrones.¹",
+          "Todo el purificador, no solo el sistema de filtración, está completamente sellado a grado HEPA H13, por lo que lo que entra, se queda dentro.³",
+          "La tecnología Dyson Air Multiplier proyecta más de 76 galones por segundo de un flujo de aire suave, pero potente, para refrescarte en verano.",
+          "Captura el 97% de los olores como olores de cocina, olores de mascotas y humo.⁸",
+          "Controla y monitorea la calidad del aire desde cualquier lugar utilizando la aplicación MyDyson, o de forma manos libres con servicios de voz compatibles.⁵"
+        ],
+        "originalVideoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0F3FZZ5QZ.mp4"
+      }
+    ],
+    "totalDuration": 80
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "¿Cuál fue tu favorito? ¡Exijo un like ahora! Recuerda, los links están en el primer comentario."
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "",
+    "like": "",
+    "comment": "",
+    "nextVideo": "",
+    "duration": "0 seconds"
+  },
+  "duration": "1:50",
+  "tone": "engaging",
+  "tone_variant": "directo y urgente, como si el producto se agotara mañana",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "asombrosos",
+    "para",
+    "sala"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 2 Gadgets Asombrosos para Tu Sala",
+      "angle": "Top 2 Gadgets Asombrosos para Tu Sala",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 2,
+      "introScript": "Transforma tu sala en un espacio futurista con dos gadgets que cambiarán tu concepto de confort y estilo. Imagina un sistema de sonido envolvente que desaparece a simple vista, o una lámpara que no solo ilumina, sino que ambienta y purifica el aire simultáneamente. Estos productos no solo embellecen, sino que también optimizan tu espacio con funciones inteligentes. ¿Quieres descubrir qué hace únicos a estos inventos? Mantente atento, porque lo que está por venir te dejará boquiabierto.",
+      "keywords": [
+        "gadgets",
+        "asombrosos",
+        "para",
+        "sala"
+      ],
+      "estimatedViews": 4505,
+      "bestPublishTime": "2026-09-30T19:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Sonos Arc Ultra Soundbar con Dolby",
+          "searchTermEn": "Sonos Arc Soundbar",
+          "id": "B0DFK28LBB",
+          "filename": "B0DFK28LBB.mp4"
+        },
+        {
+          "nombre": "Dyson Purifier Cool PC1",
+          "searchTermEn": "Dyson Pure Cool Me",
+          "id": "B0F3FZZ5QZ",
+          "filename": "B0F3FZZ5QZ.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-09-29T15:57:40.048Z",
+      "_requestedCount": 2,
+      "_adaptedCount": 2,
+      "introProductsOrder": [
+        {
+          "nombre": "Sonos Arc Ultra Soundbar con Dolby",
+          "id": "B0DFK28LBB",
+          "filename": "B0DFK28LBB.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0DFK28LBB.mp4"
+        },
+        {
+          "nombre": "Dyson Purifier Cool PC1",
+          "id": "B0F3FZZ5QZ",
+          "filename": "B0F3FZZ5QZ.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0F3FZZ5QZ.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1790697582466_m8v57m"
+    },
+    "generatedAt": "2026-09-29T15:59:57.406Z",
+    "version": "4.0-dynamic-rotator",
+    "productos": [
+      {
+        "nombre": "Sonos Arc Ultra Soundbar con Dolby",
+        "searchTermEn": "Sonos Arc Soundbar",
+        "id": "B0DFK28LBB",
+        "filename": "B0DFK28LBB.mp4"
+      },
+      {
+        "nombre": "Dyson Purifier Cool PC1",
+        "searchTermEn": "Dyson Pure Cool Me",
+        "id": "B0F3FZZ5QZ",
+        "filename": "B0F3FZZ5QZ.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 2 Gadgets Asombrosos para Tu Sala\n\n══════════════════════════════════════════════════\n\n[0:00-0:15] HOOK\nExiste un mercado oculto de productos que nadie conoce. Un altavoz que transforma cómo escuchas el sonido en tu hogar y un purificador que hace que respires como nunca antes, son el santo grial. He revelado los links en el primer comentario. Dale play.\n\n[0s] INTRODUCTION\n\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] SONOS ARC ULTRA SOUNDBAR CON DOLBY\nExperimentar sonido envolvente real en casa puede ser complicado cuando la acústica no juega a tu favor. La Sonos Arc Ultra Soundbar con Dolby ofrece una solución transformadora al llenar cada rincón de tu habitación con su tecnología Sound Motion. Incluye una experiencia de audio espacial 9.1.4 incomparable gracias a Dolby Atmos, mientras integra IA para claridad en los diálogos humanos. Diseñada para complementar estéticamente cualquier espacio sin desviar la atención del contenido, esta barra de sonido se maneja fácilmente mediante múltiples controles como el remoto de TV o Alexa.\nDisponible por aproximadamente mil noventa y nueve dólares en Amazon justo ahora.\n\n[VISUALS: Product image: Sonos Arc Ultra Soundbar con Dolby]\n\n[0:25] DYSON PURIFIER COOL PC1\nCombatir los olores persistentes y la mala calidad del aire en casa puede ser desesperante. El Dyson Purifier Cool PC1 soluciona estos problemas con su avanzado sistema de filtrado sellado. Integra filtro HEPA, captura casi cien por ciento de alérgenos y distribuye setenta y seis galones de aire por segundo., lo que mejora notablemente el ambiente. Todo controlable desde tu smartphone con la aplicación.\nActualmente se encuentra disponible por quinientos treinta y nueve dólares en Amazon.\n\n[VISUALS: Product image: Dyson Purifier Cool PC1]\n\n[10 seconds] CONCLUSION\n¿Cuál fue tu favorito? ¡Exijo un like ahora! Recuerda, los links están en el primer comentario.\n\n\n\n[0 seconds] CALL TO ACTION\n\n\n\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:50\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, asombrosos, para, sala\n"
+}

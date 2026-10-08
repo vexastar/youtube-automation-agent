@@ -1,0 +1,133 @@
+{
+  "title": "Top 1 Gadget para Transformar tu Cocina",
+  "hook": {
+    "type": "statement",
+    "text": "Atento a los detalles de: Anova Culinary Sous Vide Precision Cooker.",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "Los links de compra están en el primer comentario. Empezamos.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "25s-35s"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Anova Culinary Sous Vide Precision Cooker",
+        "productId": "B0BQ9F56WV",
+        "productName": "Anova Culinary Sous Vide Precision Cooker",
+        "filename": "B0BQ9F56WV.mp4",
+        "asin": "B0BQ9F56WV",
+        "videoDuration": 70.371567,
+        "estimatedAudioSeconds": 31,
+        "framework": "comparacion_precio",
+        "narracionSegments": null,
+        "content": [
+          "Increíblemente preciso. Sorprendentemente innovador. Profundiza en la cocina con Anova Precision Cooker, que controla temperatura al más mínimo detalle. Usa WiFi de doble banda; ajusta tiempo con su pantalla táctil. Enciende, sumerge en agua; prepara lo que desees sin esfuerzo. Limpia fácilmente con un simple giro. Cocina como un pro con su app; accede a recetas y guías completas. Es revolucionario, es accesible... ya está aquí.",
+          "Su precio actual ronda los ciento setenta dólares. Link en comentarios."
+        ],
+        "visuals": [
+          "Product image: Anova Culinary Sous Vide Precision Cooker"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0BQ9F56WV.mp4",
+        "precio": "$170",
+        "productPhoto": "https://m.media-amazon.com/images/I/61ufN4G1TeL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "Los profesionales lo han estado haciendo durante años, y ahora tú también puedes. Sous vide (pronunciado sue-veed) es una técnica de cocción que utiliza un control de temperatura altamente preciso en un baño de agua en circulación para ofrecer resultados consistentes y perfectos de borde a borde, con prácticamente ningún riesgo de sobrecocinar tu comida.",
+          "Nuestro más vendido, solo que mejor. El primer Anova Precision Cooker se lanzó en 2014 y comenzó una revolución en la cocina casera, llevando el sous vide a las masas y convirtiendo a Anova en un nombre familiar en el proceso. Esta tercera generación de nuestro circulador sous vide insignia añade mejoras clave, haciendo que los resultados perfectos sean más fáciles de lograr que nunca. Lo que es diferente: 1) Mejoramos para usar WiFi de doble banda para una conectividad mejorada. 2) Una pantalla táctil de dos líneas te permite ver rápidamente el tiempo y la temperatura.",
+          "La abrazadera ajustable lo convierte en un ajuste ideal para casi cualquier olla que sea lo suficientemente profunda para cumplir con los requisitos mínimos de profundidad de agua. Una falda de acero inoxidable removible en la mitad inferior del cocedor facilita, con un simple giro de muñeca, desprender y limpiar la falda, ya sea a mano o en el lavavajillas.",
+          "Anova App (gratis): Controla tu tiempo y temperatura directamente en la app de Anova o directamente en el cocedor.",
+          "Anova App (suscripción): Por $1.99 al mes o $9.99 al año (puedes cancelar la suscripción en cualquier momento), obtén acceso al contenido educativo y guías de cocina sous vide más completo. Recetas de chefs profesionales y de la comunidad de amantes de la comida se envían directamente a tu Precision Cooker con solo tocar un botón. Acceso continuo a tus recetas personales y al historial de cocción, listo para revisar o compartir con tus amigos y familiares. Incluye una prueba gratuita de dos semanas."
+        ]
+      }
+    ],
+    "totalDuration": 40
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      ""
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:10",
+  "tone": "engaging",
+  "tone_variant": "directo y urgente, como si el producto se agotara mañana",
+  "pacing": "quick",
+  "keywords": [
+    "gadget",
+    "para",
+    "transformar",
+    "cocina"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 1 Gadget para Transformar tu Cocina",
+      "angle": "Top 1 Gadget para Transformar tu Cocina",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 1,
+      "introScript": "¿Te imaginas un dispositivo que convierte cualquier olla en una olla de cocción lenta inteligente? Hoy te traigo un gadget revolucionario que cambiará la forma en que cocinas para siempre. Descubre cómo la tecnología puede transformar tus habilidades culinarias con un simple accesorio que se conecta a través de Bluetooth a tu smartphone. Prepárate para conocer tu nuevo asistente de cocina que se adapta a tu ritmo de vida, permitiéndote integrar recetas automatizadas directamente desde tu teléfono mientras continúas con tu día a día.",
+      "keywords": [
+        "gadget",
+        "para",
+        "transformar",
+        "cocina"
+      ],
+      "estimatedViews": 6377,
+      "bestPublishTime": "2026-09-17T19:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Anova Culinary Sous Vide Precision Cooker",
+          "searchTermEn": "Anova Precision Cooker",
+          "id": "B0BQ9F56WV",
+          "filename": "B0BQ9F56WV.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-09-11T01:28:50.468Z",
+      "_requestedCount": 1,
+      "_adaptedCount": 1,
+      "introProductsOrder": [
+        {
+          "nombre": "Anova Culinary Sous Vide Precision Cooker",
+          "id": "B0BQ9F56WV",
+          "filename": "B0BQ9F56WV.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0BQ9F56WV.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1789090345554_yaz7yu"
+    },
+    "generatedAt": "2026-09-11T01:32:32.854Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Anova Culinary Sous Vide Precision Cooker",
+        "searchTermEn": "Anova Precision Cooker",
+        "id": "B0BQ9F56WV",
+        "filename": "B0BQ9F56WV.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 1 Gadget para Transformar tu Cocina\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\nAtento a los detalles de: Anova Culinary Sous Vide Precision Cooker.\n\n[25s-35s] INTRODUCTION\nLos links de compra están en el primer comentario. Empezamos.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] ANOVA CULINARY SOUS VIDE PRECISION COOKER\nIncreíblemente preciso. Sorprendentemente innovador. Profundiza en la cocina con Anova Precision Cooker, que controla temperatura al más mínimo detalle. Usa WiFi de doble banda; ajusta tiempo con su pantalla táctil. Enciende, sumerge en agua; prepara lo que desees sin esfuerzo. Limpia fácilmente con un simple giro. Cocina como un pro con su app; accede a recetas y guías completas. Es revolucionario, es accesible... ya está aquí.\nSu precio actual ronda los ciento setenta dólares. Link en comentarios.\n\n[VISUALS: Product image: Anova Culinary Sous Vide Precision Cooker]\n\n[10 seconds] CONCLUSION\n\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:10\nTONE: engaging\nPACING: quick\nKEYWORDS: gadget, para, transformar, cocina\n"
+}

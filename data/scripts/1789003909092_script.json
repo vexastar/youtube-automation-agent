@@ -1,0 +1,134 @@
+{
+  "title": "Top 1 gadgets que todo gamer necesita",
+  "hook": {
+    "type": "statement",
+    "text": "Observa cómo Govee Glide Wall Lights se comporta en uso real.",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "Suscríbete. Los links están en el primer comentario.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "25s-35s"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Govee Glide Wall Lights",
+        "productId": "B09H5VSKTZ",
+        "productName": "Govee Glide Wall Lights",
+        "filename": "B09H5VSKTZ.mp4",
+        "asin": "B09H5VSKTZ",
+        "videoDuration": 46.6355,
+        "estimatedAudioSeconds": 34,
+        "framework": "comparacion_precio",
+        "narracionSegments": null,
+        "content": [
+          "Nunca has visto luces así. Govee Glide Wall Lights. Ochenta y tres dólares; Decorativas y control por voz. Ajusta desde la app Govee Home. Conexión Bluetooth y WiFi. Usa Alexa; Elige colores, brillo. Transforma escenas con un toque; Coloca con velcro fácil. Mide las barras. Doce pulgadas cada una. Enlaza baterías primero; No olvidar AI Lighting Bot 2 punto cero; Conversación fluida en iluminación; ¡Es un antes y después! Instala en un pestañeo.",
+          "Su precio actual ronda los... setenta dólares. Link en comentarios."
+        ],
+        "visuals": [
+          "Product image: Govee Glide Wall Lights"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B09H5VSKTZ.mp4",
+        "precio": "$70",
+        "productPhoto": "https://m.media-amazon.com/images/I/716syWy9UeL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "Aplicación inteligente y control por voz: las luces de barra decorativas para interiores Govee ajustan las luces RGBIC para juegos de forma manos libres a través de Alexa y Google Assistant. Controla colores, brillo y efectos de escena mediante Bluetooth y WiFi en la aplicación Govee Home. Además, AI Lighting Bot 2.0 convierte el habla, el texto o las fotos en efectos personalizados y los refina a través de la conversación, haciendo que la iluminación sea más inteligente y verdaderamente a medida. Nota*: Por favor, conecta TODAS las barras antes de enchufar la alimentación.",
+          "Iluminación Multi-Color Ajustable: Con la tecnología patentada RGBIC, Govee Glide Lively Light permite mostrar 24 colores a la vez con el Modo DIY, 16 millones de colores para opciones de personalización infinitas y efectos multicolores en movimiento, ideal para decoraciones de juegos. Nota: La imagen contiene más de un conjunto de productos.",
+          "\"\"\"11 Modos de Música Mejorados: Deja que tus apliques LED sincronicen con tu audio favorito y creen una experiencia de escucha inmersiva. Elige entre los 11 versátiles modos de música en la Govee Home App para mantener la fiesta en marcha.\"\"\"",
+          "64+ Modos de Escena: Encuentra la iluminación adecuada para cualquier atmósfera y decora fácilmente tu habitación, incluyendo una tranquila noche en casa. Con 64+ modos de escena dinámicos, diseña tus propias decoraciones con un solo toque en la aplicación Govee Home para tus luces decorativas de pared Glide LED.",
+          "Fácil de instalar: Usa el velcro y los adhesivos incluidos para configurar fácilmente tus barras de luz RGBIC en cualquier superficie lisa dentro de tu hogar, presiona el velcro durante 10 segundos y deja que el velcro se adhiera durante aproximadamente 1 hora, se pegará mejor. Un conjunto tiene segmentos de 6*14.8 pulgadas que pueden crear dos líneas."
+        ]
+      }
+    ],
+    "totalDuration": 40
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      ""
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:10",
+  "tone": "engaging",
+  "tone_variant": "conversacional y cercano, como si le contaras a un amigo algo increíble que descubriste",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "todo",
+    "gamer",
+    "necesita"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 1 gadgets que todo gamer necesita",
+      "angle": "Top 2 gadgets que todo gamer necesita",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 1,
+      "introScript": "¿Imagina personalizar la iluminación de tu estación de juego con un solo toque? ¿Y qué tal un control remoto universal para todos tus dispositivos gamer? Hoy te presentamos dos innovaciones que llevarán tu espacio de juego al siguiente nivel. Estos gadgets financiados por la comunidad están rompiendo esquemas y los puedes encontrar fácilmente en línea. Prepárate para descubrir cómo estos inventos están revolucionando la experiencia de juego, mejorando desde la estética hasta la funcionalidad de tu set-up. No te los pierdas.",
+      "keywords": [
+        "gadgets",
+        "todo",
+        "gamer",
+        "necesita"
+      ],
+      "estimatedViews": 4902,
+      "bestPublishTime": "2026-09-15T19:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Govee Glide Wall Lights",
+          "searchTermEn": "Govee Glide Wall Lights",
+          "id": "B09H5VSKTZ",
+          "filename": "B09H5VSKTZ.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-09-10T01:25:21.679Z",
+      "_requestedCount": 2,
+      "_adaptedCount": 1,
+      "_adaptationNote": "ATENCIÓN: El usuario pidió 2 productos pero solo hay 1 clips de video disponibles. El guion, título y narrativa deben referirse EXCLUSIVAMENTE a 1 productos.",
+      "introProductsOrder": [
+        {
+          "nombre": "Govee Glide Wall Lights",
+          "id": "B09H5VSKTZ",
+          "filename": "B09H5VSKTZ.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B09H5VSKTZ.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1789003886949_orw0xa"
+    },
+    "generatedAt": "2026-09-10T01:31:35.246Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Govee Glide Wall Lights",
+        "searchTermEn": "Govee Glide Wall Lights",
+        "id": "B09H5VSKTZ",
+        "filename": "B09H5VSKTZ.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 1 gadgets que todo gamer necesita\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\nObserva cómo Govee Glide Wall Lights se comporta en uso real.\n\n[25s-35s] INTRODUCTION\nSuscríbete. Los links están en el primer comentario.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] GOVEE GLIDE WALL LIGHTS\nNunca has visto luces así. Govee Glide Wall Lights. Ochenta y tres dólares; Decorativas y control por voz. Ajusta desde la app Govee Home. Conexión Bluetooth y WiFi. Usa Alexa; Elige colores, brillo. Transforma escenas con un toque; Coloca con velcro fácil. Mide las barras. Doce pulgadas cada una. Enlaza baterías primero; No olvidar AI Lighting Bot 2 punto cero; Conversación fluida en iluminación; ¡Es un antes y después! Instala en un pestañeo.\nSu precio actual ronda los... setenta dólares. Link en comentarios.\n\n[VISUALS: Product image: Govee Glide Wall Lights]\n\n[10 seconds] CONCLUSION\n\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:10\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, todo, gamer, necesita\n"
+}

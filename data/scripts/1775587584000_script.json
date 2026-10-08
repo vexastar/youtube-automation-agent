@@ -1,0 +1,139 @@
+{
+  "title": "Top 3 Gadgets Sorprendentes para tu Cocina",
+  "hook": {
+    "type": "statement",
+    "text": "Un cortador que lava las verduras al mismo tiempo... un basurero que desaparece cuando no lo necesitas... y tapas que se adaptan a cualquier recipiente.",
+    "duration": "0:00-0:05"
+  },
+  "introduction": {
+    "greeting": "Dale a suscribirse para más hallazgos como estos, y tranquilo, todos los links están en el primer comentario fijado.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0:05-0:10"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Cortador y lavador",
+        "content": [
+          "Picar y lavar las verduras suele ser un proceso tedioso. El cortador y lavador soluciona esto al combinar ambas funciones en un solo paso. Sus cuchillas afiladas y diseño ergonómico hacen que preparar ensaladas sea cuestión de segundos.",
+          "Su precio actual en Amazon ronda los... 29.99. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Cortador y lavador"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0FBR9XKHX.mp4",
+        "precio": "29.99"
+      },
+      {
+        "type": "content",
+        "title": "Basurero plegable",
+        "content": [
+          "Siempre falta espacio en la cocina, y un basurero grande no ayuda. El basurero plegable se adapta a tus necesidades, ampliándose solo cuando lo necesites. Ideal para cocinas pequeñas donde cada centímetro cuenta.",
+          "Su precio actual en Amazon ronda los... 12.99. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Basurero plegable"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B09XLG3YQB.mp4",
+        "precio": "12.99"
+      },
+      {
+        "type": "content",
+        "title": "Tapa de silicona extensible",
+        "content": [
+          "Guardar sobras puede ser complicado si no tienes tapas del tamaño adecuado. Las tapas de silicona extensible se ajustan a cualquier forma y tamaño de recipiente. Mantienen la frescura y son aptas para el lavavajillas.",
+          "Su precio actual en Amazon ronda los... 16.95. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Tapa de silicona extensible"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0CHZ69ZFN.mp4",
+        "precio": "16.95"
+      }
+    ],
+    "totalDuration": 75
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "Dale a like y recuerda que los links están en el primer comentario."
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:45",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "sorprendentes",
+    "para",
+    "cocina"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 3 Gadgets Sorprendentes para tu Cocina",
+      "angle": "Top 3 Gadgets Sorprendentes para tu Cocina",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 3,
+      "introScript": "¿Un aparato que corta y lava frutas en segundos? ¿Un contenedor plegable que ahorra espacio en tu cocina? Prepárate para descubrir los gadgets más ingeniosos que transformarán tu forma de cocinar.",
+      "keywords": [
+        "gadgets",
+        "sorprendentes",
+        "para",
+        "cocina"
+      ],
+      "estimatedViews": 5064,
+      "bestPublishTime": "2026-04-14T19:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Cortador y lavador",
+          "searchTermEn": "fruit vegetable cutter washer"
+        },
+        {
+          "nombre": "Basurero plegable",
+          "searchTermEn": "collapsible kitchen trash can"
+        },
+        {
+          "nombre": "Tapa de silicona extensible",
+          "searchTermEn": "stretchable silicone lid set"
+        }
+      ],
+      "createdAt": "2026-04-07T18:43:52.684Z"
+    },
+    "generatedAt": "2026-04-07T18:46:23.861Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Cortador y lavador",
+        "searchTermEn": "fruit vegetable cutter washer"
+      },
+      {
+        "nombre": "Basurero plegable",
+        "searchTermEn": "collapsible kitchen trash can"
+      },
+      {
+        "nombre": "Tapa de silicona extensible",
+        "searchTermEn": "stretchable silicone lid set"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 3 Gadgets Sorprendentes para tu Cocina\n\n══════════════════════════════════════════════════\n\n[0:00-0:05] HOOK\nUn cortador que lava las verduras al mismo tiempo... un basurero que desaparece cuando no lo necesitas... y tapas que se adaptan a cualquier recipiente.\n\n[0:05-0:10] INTRODUCTION\nDale a suscribirse para más hallazgos como estos, y tranquilo, todos los links están en el primer comentario fijado.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] CORTADOR Y LAVADOR\nPicar y lavar las verduras suele ser un proceso tedioso. El cortador y lavador soluciona esto al combinar ambas funciones en un solo paso. Sus cuchillas afiladas y diseño ergonómico hacen que preparar ensaladas sea cuestión de segundos.\nSu precio actual en Amazon ronda los... 29.99. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Cortador y lavador]\n\n[0:25] BASURERO PLEGABLE\nSiempre falta espacio en la cocina, y un basurero grande no ayuda. El basurero plegable se adapta a tus necesidades, ampliándose solo cuando lo necesites. Ideal para cocinas pequeñas donde cada centímetro cuenta.\nSu precio actual en Amazon ronda los... 12.99. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Basurero plegable]\n\n[0:25] TAPA DE SILICONA EXTENSIBLE\nGuardar sobras puede ser complicado si no tienes tapas del tamaño adecuado. Las tapas de silicona extensible se ajustan a cualquier forma y tamaño de recipiente. Mantienen la frescura y son aptas para el lavavajillas.\nSu precio actual en Amazon ronda los... 16.95. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Tapa de silicona extensible]\n\n[10 seconds] CONCLUSION\nDale a like y recuerda que los links están en el primer comentario.\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:45\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, sorprendentes, para, cocina\n"
+}

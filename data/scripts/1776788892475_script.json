@@ -1,0 +1,136 @@
+{
+  "title": "Top 2 Gadgets Innovadores para tu Cocina",
+  "hook": {
+    "type": "statement",
+    "text": "Cocina al vacío con control preciso de temperatura. Bebe refrescos burbujeantes en segundos.",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "Suscríbete, los links están en el primer comentario. Empecemos.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0:10-0:15"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Anova Precision Cooker",
+        "productId": "B0BQ9F56WV",
+        "productName": "Anova Precision Cooker",
+        "filename": "B0BQ9F56WV.mp4",
+        "content": [
+          "Cocinar a la perfección siempre parece complicado. Con el Anova Precision Cooker, controlas la temperatura exacta para resultados impecables. Se conecta a tu smartphone para facilitar la experiencia.",
+          "Su precio actual en Amazon ronda los... 229 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Anova Precision Cooker"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0BQ9F56WV.mp4",
+        "precio": "$229"
+      },
+      {
+        "type": "content",
+        "title": "Spärkel Beverage System",
+        "productId": "B07YNTG2Y8",
+        "productName": "Spärkel Beverage System",
+        "filename": "B07YNTG2Y8.mp4",
+        "content": [
+          "Preparar bebidas gaseosas en casa requiere muchos equipos y botellas. El Spärkel Beverage System te permite carbonatar cualquier bebida sin tanques de CO2. Solo añade agua y tu sabor favorito.",
+          "Su precio actual en Amazon ronda los... 40 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Spärkel Beverage System"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07YNTG2Y8.mp4",
+        "precio": "$40"
+      }
+    ],
+    "totalDuration": 50
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "Dale like y recuerda que los links están en el primer comentario."
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:20",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "innovadores",
+    "para",
+    "cocina"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 2 Gadgets Innovadores para tu Cocina",
+      "angle": "Top 3 Gadgets Innovadores para tu Cocina",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 2,
+      "introScript": "¿Un dispositivo que cocina tus alimentos en tiempo récord? ¿Un gadget que filtra el agua y te ayuda a ahorrar espacio? Hoy te muestro tres inventos revolucionarios para la cocina que están cambiando la manera en que preparamos nuestros alimentos.",
+      "keywords": [
+        "gadgets",
+        "innovadores",
+        "para",
+        "cocina"
+      ],
+      "estimatedViews": 6425,
+      "bestPublishTime": "2026-04-24T20:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Anova Precision Cooker",
+          "searchTermEn": "Anova Precision Cooker",
+          "id": "B0BQ9F56WV",
+          "filename": "B0BQ9F56WV.mp4"
+        },
+        {
+          "nombre": "Spärkel Beverage System",
+          "searchTermEn": "Sparkel Beverage System",
+          "id": "B07YNTG2Y8",
+          "filename": "B07YNTG2Y8.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-04-21T16:26:03.256Z",
+      "_requestedCount": 3,
+      "_adaptedCount": 2,
+      "_adaptationNote": "ATENCIÓN: El usuario pidió 3 productos pero solo hay 2 clips de video disponibles. El guion, título y narrativa deben referirse EXCLUSIVAMENTE a 2 productos.",
+      "_scriptNonce": "nonce_1776788888330_k8qg6z"
+    },
+    "generatedAt": "2026-04-21T16:28:11.535Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Anova Precision Cooker",
+        "searchTermEn": "Anova Precision Cooker",
+        "id": "B0BQ9F56WV",
+        "filename": "B0BQ9F56WV.mp4"
+      },
+      {
+        "nombre": "Spärkel Beverage System",
+        "searchTermEn": "Sparkel Beverage System",
+        "id": "B07YNTG2Y8",
+        "filename": "B07YNTG2Y8.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 2 Gadgets Innovadores para tu Cocina\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\nCocina al vacío con control preciso de temperatura. Bebe refrescos burbujeantes en segundos.\n\n[0:10-0:15] INTRODUCTION\nSuscríbete, los links están en el primer comentario. Empecemos.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] ANOVA PRECISION COOKER\nCocinar a la perfección siempre parece complicado. Con el Anova Precision Cooker, controlas la temperatura exacta para resultados impecables. Se conecta a tu smartphone para facilitar la experiencia.\nSu precio actual en Amazon ronda los... 229 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Anova Precision Cooker]\n\n[0:25] SPÄRKEL BEVERAGE SYSTEM\nPreparar bebidas gaseosas en casa requiere muchos equipos y botellas. El Spärkel Beverage System te permite carbonatar cualquier bebida sin tanques de CO2. Solo añade agua y tu sabor favorito.\nSu precio actual en Amazon ronda los... 40 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Spärkel Beverage System]\n\n[10 seconds] CONCLUSION\nDale like y recuerda que los links están en el primer comentario.\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:20\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, innovadores, para, cocina\n"
+}

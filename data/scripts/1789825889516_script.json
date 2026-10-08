@@ -1,0 +1,182 @@
+{
+  "title": "2 gadgets para hombre: Innovación y estilo",
+  "hook": {
+    "type": "statement",
+    "text": "¿Cansado de carteras abultadas? El Ekster Parliament Wallet lo soluciona. Además, conoce el Rocketbook Smart Notebook: ¡un cuaderno que se sincroniza con la nube! Delgadez, tecnología y más sorpresas te esperan. Descubre todo esto en el primer comentario. Suscríbete, empecemos.",
+    "duration": "0:00-0:15"
+  },
+  "introduction": {
+    "greeting": "",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0s"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Ekster Parliament Wallet",
+        "productId": "prod_1",
+        "productName": "Ekster Parliament Wallet",
+        "filename": "B07PVMK5NJ.mp4",
+        "asin": "B07PVMK5NJ",
+        "videoDuration": 47.5475,
+        "estimatedAudioSeconds": 33,
+        "framework": "problema_solucion",
+        "narracionSegments": null,
+        "content": [
+          "Increíblemente inteligente. Sorprendentemente seguro. Perdón de la incomodidad diaria: la Ekster Parliament Wallet despliega tus tarjetas al instante. Esta impresionante cartera reduce tu tiempo y simplifica tu vida presionando un botón. Lucha contra el desorden mientras mantiene tus datos seguros con su función RFID bloqueante, esencial para evitar robos digitales. Claramente diseñado para la velocidad y eficacia.",
+          "Corre a Amazon, solo 89 dólares los separan de ti y una nueva forma de portar tus tarjetas. Mira el enlace en los comentarios."
+        ],
+        "visuals": [
+          "Product image: Ekster Parliament Wallet"
+        ],
+        "duration": 25,
+        "precio": "$89",
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07PVMK5NJ.mp4",
+        "productPhoto": null,
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [],
+        "originalVideoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07PVMK5NJ.mp4"
+      },
+      {
+        "type": "content",
+        "title": "Rocketbook Smart Notebook",
+        "productId": "prod_2",
+        "productName": "Rocketbook Smart Notebook",
+        "filename": "B0DP3HRDC2.mp4",
+        "asin": "B0DP3HRDC2",
+        "videoDuration": 114.906458,
+        "estimatedAudioSeconds": 29,
+        "framework": "enfoque_caracteristica",
+        "narracionSegments": null,
+        "content": [
+          "Sorprendentemente inteligente. Extremadamente reutilizable. Absolutamente eficiente. Rocketbook Smart Notebook permite borrar lo que escribes con un simple paño húmedo y almacenar notas en la nube. Escanea rápidamente con la app compatible para que tus ideas nunca desaparezcan. Experimenta su eterna usabilidad escribiendo y dibujando sin consumir más papel, mientras te conecta digitalmente.",
+          "Descúbrelo en Amazon a tan solo 35 dólares, una opción irresistible. Verifica el primer comentario para el enlace directo."
+        ],
+        "visuals": [
+          "Product image: Rocketbook Smart Notebook"
+        ],
+        "duration": 25,
+        "precio": "$35",
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0DP3HRDC2.mp4",
+        "productPhoto": null,
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [],
+        "originalVideoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0DP3HRDC2.mp4"
+      }
+    ],
+    "totalDuration": 80
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "¿Tienes mejores gadgets? Déjalo en los comentarios y suscríbete. Encuentra los links en el primer comentario."
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "",
+    "like": "",
+    "comment": "",
+    "nextVideo": "",
+    "duration": "0 seconds"
+  },
+  "duration": "1:50",
+  "tone": "engaging",
+  "tone_variant": "directo y urgente, como si el producto se agotara mañana",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "para",
+    "hombre",
+    "innovacin",
+    "estilo"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "2 gadgets para hombre: Innovación y estilo",
+      "angle": "2 gadgets para hombre: Innovación y estilo",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 2,
+      "introScript": "Descubre dos sorprendentes gadgets diseñados para el hombre moderno. La Ekster Parliament Wallet combina elegancia con tecnología avanzada, mientras que el Rocketbook Smart Notebook revoluciona la forma en que tomas notas. ¿Cómo pueden estos productos transformar tu día a día? Quédate para descubrir sus impresionantes funciones.",
+      "keywords": [
+        "gadgets",
+        "para",
+        "hombre",
+        "innovacin",
+        "estilo"
+      ],
+      "estimatedViews": 5206,
+      "bestPublishTime": "2026-09-20T14:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "id": "B07PVMK5NJ",
+          "nombre": "La traducción del texto \"Ekster Parliament",
+          "filename": "B07PVMK5NJ.mp4",
+          "precio": 89,
+          "searchTermEn": "Ekster Parliament Wallet"
+        },
+        {
+          "id": "B0DP3HRDC2",
+          "nombre": "El texto traducido sería: \"\"\"Rocketbook Smart",
+          "filename": "B0DP3HRDC2.mp4",
+          "precio": 35,
+          "searchTermEn": "Rocketbook Smart Notebook"
+        }
+      ],
+      "_sourceFile": "productos_locales.json",
+      "createdAt": "2026-09-19T13:51:07.547Z",
+      "_requestedCount": 2,
+      "_adaptedCount": 2,
+      "introProductsOrder": [
+        {
+          "nombre": "La traducción del texto \"Ekster Parliament",
+          "id": "B07PVMK5NJ",
+          "filename": "B07PVMK5NJ.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07PVMK5NJ.mp4"
+        },
+        {
+          "nombre": "El texto traducido sería: \"\"\"Rocketbook Smart",
+          "id": "B0DP3HRDC2",
+          "filename": "B0DP3HRDC2.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0DP3HRDC2.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1789825870280_1c6yz9"
+    },
+    "generatedAt": "2026-09-19T13:51:24.161Z",
+    "version": "4.0-dynamic-rotator",
+    "productos": [
+      {
+        "id": "B07PVMK5NJ",
+        "nombre": "La traducción del texto \"Ekster Parliament",
+        "filename": "B07PVMK5NJ.mp4",
+        "precio": 89,
+        "searchTermEn": "Ekster Parliament Wallet"
+      },
+      {
+        "id": "B0DP3HRDC2",
+        "nombre": "El texto traducido sería: \"\"\"Rocketbook Smart",
+        "filename": "B0DP3HRDC2.mp4",
+        "precio": 35,
+        "searchTermEn": "Rocketbook Smart Notebook"
+      }
+    ]
+  },
+  "fullScript": "TITLE: 2 gadgets para hombre: Innovación y estilo\n\n══════════════════════════════════════════════════\n\n[0:00-0:15] HOOK\n¿Cansado de carteras abultadas? El Ekster Parliament Wallet lo soluciona. Además, conoce el Rocketbook Smart Notebook: ¡un cuaderno que se sincroniza con la nube! Delgadez, tecnología y más sorpresas te esperan. Descubre todo esto en el primer comentario. Suscríbete, empecemos.\n\n[0s] INTRODUCTION\n\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] EKSTER PARLIAMENT WALLET\nIncreíblemente inteligente. Sorprendentemente seguro. Perdón de la incomodidad diaria: la Ekster Parliament Wallet despliega tus tarjetas al instante. Esta impresionante cartera reduce tu tiempo y simplifica tu vida presionando un botón. Lucha contra el desorden mientras mantiene tus datos seguros con su función RFID bloqueante, esencial para evitar robos digitales. Claramente diseñado para la velocidad y eficacia.\nCorre a Amazon, solo 89 dólares los separan de ti y una nueva forma de portar tus tarjetas. Mira el enlace en los comentarios.\n\n[VISUALS: Product image: Ekster Parliament Wallet]\n\n[0:25] ROCKETBOOK SMART NOTEBOOK\nSorprendentemente inteligente. Extremadamente reutilizable. Absolutamente eficiente. Rocketbook Smart Notebook permite borrar lo que escribes con un simple paño húmedo y almacenar notas en la nube. Escanea rápidamente con la app compatible para que tus ideas nunca desaparezcan. Experimenta su eterna usabilidad escribiendo y dibujando sin consumir más papel, mientras te conecta digitalmente.\nDescúbrelo en Amazon a tan solo 35 dólares, una opción irresistible. Verifica el primer comentario para el enlace directo.\n\n[VISUALS: Product image: Rocketbook Smart Notebook]\n\n[10 seconds] CONCLUSION\n¿Tienes mejores gadgets? Déjalo en los comentarios y suscríbete. Encuentra los links en el primer comentario.\n\n\n\n[0 seconds] CALL TO ACTION\n\n\n\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:50\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, para, hombre, innovacin, estilo\n"
+}

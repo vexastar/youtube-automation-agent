@@ -1,7 +1,21 @@
 const path = require('path');
 const fs = require('fs').promises;
+const fsSync = require('fs');
+const { exec } = require('child_process');
+const util = require('util');
+const execPromise = util.promisify(exec);
 const { Logger } = require('../utils/logger');
 const { AIVideoGenerator } = require('../utils/ai-video-generator');
+const { extractAndFilterScenes } = require('../utils/scene-extractor');
+
+// Durations configurable via env
+const PER_PRODUCT_DURATION_MIN = parseInt(process.env.PER_PRODUCT_DURATION_MIN || '30', 10);
+const PER_PRODUCT_DURATION_MAX = parseInt(process.env.PER_PRODUCT_DURATION_MAX || '50', 10);
+const PER_PRODUCT_DURATION_DEFAULT = parseInt(process.env.PER_PRODUCT_DURATION_DEFAULT || String(Math.round((PER_PRODUCT_DURATION_MIN + PER_PRODUCT_DURATION_MAX)/2)), 10);
+const INTRO_DURATION_MIN = parseInt(process.env.INTRO_DURATION_MIN || '25', 10);
+const INTRO_DURATION_MAX = parseInt(process.env.INTRO_DURATION_MAX || '30', 10);
+const INTRO_DURATION_AVG = Math.round((INTRO_DURATION_MIN + INTRO_DURATION_MAX) / 2);
+const COMBINED_CLIP_DURATION = parseInt(process.env.COMBINED_CLIP_DURATION || '60', 10);
 
 class ProductionManagementAgent {
   constructor(db, credentials) {
@@ -27,7 +41,8 @@ class ProductionManagementAgent {
       'data/videos',
       'data/audio',
       'data/scripts',
-      'temp/processing'
+      'temp/processing',
+      'data/shorts' // Asegura que la carpeta de shorts exista
     ];
 
     for (const dir of dirs) {
@@ -48,17 +63,23 @@ class ProductionManagementAgent {
     try {
       this.logger.info('Processing content for production...');
       
-      const { strategy, script, thumbnail, seo } = contentData;
+      const { strategy, script, thumbnail, seo, huntResults, introProductsOrder } = contentData;
+
+      // ── MATCH EXACTO OBLIGATORIO: Asegurar vínculo con los MP4 locales originales ──
+      await this._resolveVideoPathsByProductId(script);
       
       // Create production entry
       const productionId = this.generateProductionId();
-      
+
       const productionData = {
         id: productionId,
         strategy,
         script,
         thumbnail,
         seo,
+        introProductsOrder: Array.isArray(introProductsOrder) && introProductsOrder.length > 0
+          ? introProductsOrder
+          : [],
         status: 'processing',
         assets: {
           script: await this.processScript(script),
@@ -91,13 +112,36 @@ class ProductionManagementAgent {
       // Generate video content
       await this.generateVideoContent(productionData);
       
-      // Generate audio narration
-      await this.generateAudioNarration(productionData);
+      // Generate per-section audio narration (one TTS per product)
+      await this.generatePerSectionAudio(productionData);
+
+      // Generar audio de intro ANTES de extraer escenas
+      try {
+        await this.generateIntroAudio(productionData);
+      } catch (e) {
+        this.logger.warn(`[ProductionManagement] ✗ generateIntroAudio falló (continuando): ${e.message}`);
+      }
+
+// Generate individual product shorts (9:16) ANTES de ensamblar el video final
+      const productShorts = await this.generateProductShorts(productionData);
+      if (productShorts.length > 0) {
+        if (!productionData.assets.shortVideos) {
+          productionData.assets.shortVideos = {};
+        }
+        productionData.assets.shortVideos.products = productShorts;
+        
+        // 🔥 EL PARCHE CLAVE: Le damos a index.js la ruta exacta que está buscando 🔥
+        productionData.assets.productShorts = productShorts;
+        
+        this.logger.info(`[ProductionManagement] ✅ Agregados ${productShorts.length} product shorts a assets`);
+      } else {
+        this.logger.warn(`[ProductionManagement] ⚠️ No se generaron product shorts`);
+      }
+
+      // Generate outro audio (conclusión + CTA, separado del último producto)
+      await this.generateOutroAudio(productionData);
       
-      // Generate captions
-      await this.generateCaptions(productionData);
-      
-      // Final assembly
+      // Final assembly (esto renderizará el master 16:9 y el Intro Short 9:16)
       await this.assembleVideo(productionData);
       
       // Mark as ready
@@ -121,19 +165,56 @@ class ProductionManagementAgent {
     return `prod_${timestamp}_${random}_${extra}`;
   }
 
+  /**
+   * Match exacto: para cada sección del guion, busca {productId}.mp4
+   * en la carpeta uploads/. Si encuentra el archivo, asigna videoPath original.
+   * Esto previene que se asigne a un pre-trimmed que luego se borrará.
+   */
+  async _resolveVideoPathsByProductId(script) {
+    const sections = (script.mainContent && script.mainContent.sections) || [];
+    if (sections.length === 0) return;
+
+    const uploadsDir = path.join(__dirname, '..', 'uploads');
+    let mp4Files = [];
+    try {
+      const allFiles = await fs.readdir(uploadsDir);
+      mp4Files = allFiles.filter(f => f.toLowerCase().endsWith('.mp4'));
+    } catch (err) {
+      this.logger.warn(`_resolveVideoPathsByProductId: no se pudo leer uploads/ — ${err.message}`);
+      return;
+    }
+
+    const fileMap = new Map();
+    for (const f of mp4Files) {
+      const baseName = path.basename(f, path.extname(f));
+      fileMap.set(baseName, path.join(uploadsDir, f));
+    }
+
+    this.logger.info('── RESOLVE VIDEO PATHS (productId ↔ .mp4 original) ──');
+
+    for (let i = 0; i < sections.length; i++) {
+      const sec = sections[i];
+      const pid = sec.productId || null;
+
+      // Buscar si el archivo original existe en uploads/ con ese pid
+      if (pid && fileMap.has(pid)) {
+        sec.originalVideoPath = fileMap.get(pid); // Guardar la ruta original SIEMPRE
+        this.logger.info(`  [${i}] "${sec.title}" ← original: ${pid}.mp4 ✓`);
+      } else if (sec.videoPath && fsSync.existsSync(sec.videoPath)) {
+        sec.originalVideoPath = sec.videoPath; // Fallback al videopath general si no coincide ID
+      } else {
+        sec.originalVideoPath = null;
+        this.logger.warn(`  [${i}] "${sec.title}" ← SIN ORIGINAL (productId=${pid})`);
+      }
+    }
+    this.logger.info('── FIN RESOLVE VIDEO PATHS ──');
+  }
+
   async processScript(script) {
     const scriptPath = path.join(__dirname, '..', 'data', 'scripts', `${Date.now()}_script.json`);
-    
-    // Create formatted script for TTS
     const ttsScript = this.formatScriptForTTS(script);
-    
-    // Save script files
     await fs.writeFile(scriptPath, JSON.stringify(script, null, 2));
-    await fs.writeFile(
-      scriptPath.replace('.json', '_tts.txt'), 
-      ttsScript
-    );
-    
+    await fs.writeFile(scriptPath.replace('.json', '_tts.txt'), ttsScript);
     return {
       originalPath: scriptPath,
       ttsPath: scriptPath.replace('.json', '_tts.txt'),
@@ -144,158 +225,111 @@ class ProductionManagementAgent {
 
   formatScriptForTTS(script) {
     let ttsText = '';
-    
-    // Add hook
-    if (script.hook) {
-      ttsText += `${script.hook.text}\n\n`;
-    }
-    
-    // Add introduction
+    if (script.hook) ttsText += `${script.hook.text}\n\n`;
     if (script.introduction) {
       ttsText += `${script.introduction.greeting}\n`;
       ttsText += `${script.introduction.topicIntro}\n`;
       ttsText += `${script.introduction.valueProposition}\n`;
       ttsText += `${script.introduction.credibility}\n\n`;
     }
-    
-    // Add main content
     if (script.mainContent && script.mainContent.sections) {
-      script.mainContent.sections.forEach((section, index) => {
-        ttsText += `Section ${index + 1}: ${section.title}\n`;
-        
+      script.mainContent.sections.forEach((section) => {
         if (Array.isArray(section.content)) {
           section.content.forEach(line => {
-            if (typeof line === 'string' && !line.startsWith('[')) {
-              ttsText += `${line}\n`;
-            }
+            if (typeof line === 'string' && !line.startsWith('[')) ttsText += `${line}\n`;
           });
         } else if (section.steps) {
           section.steps.forEach(step => {
-            ttsText += `${step.title}. ${step.description}\n`;
-            ttsText += `${step.tip}\n`;
+            ttsText += `${step.description}\n`;
+            if (step.tip) ttsText += `${step.tip}\n`;
           });
         } else if (section.items) {
           section.items.forEach(item => {
-            ttsText += `Number ${item.number}: ${item.title}. ${item.description}\n`;
+            ttsText += `${item.title}. ${item.description}\n`;
           });
         } else if (typeof section.content === 'string') {
           ttsText += `${section.content}\n`;
         }
-        
         ttsText += '\n';
       });
     }
-    
-    // Add conclusion
     if (script.conclusion) {
       script.conclusion.recap.forEach(line => {
-        if (typeof line === 'string') {
-          ttsText += `${line}\n`;
-        }
+        if (typeof line === 'string') ttsText += `${line}\n`;
       });
       ttsText += `\n${script.conclusion.finalThought}\n\n`;
     }
-    
-    // Add CTA
     if (script.callToAction) {
       ttsText += `${script.callToAction.subscribe}\n`;
       ttsText += `${script.callToAction.like}\n`;
       ttsText += `${script.callToAction.comment}\n`;
     }
-    
     return ttsText;
   }
 
   async processThumbnail(thumbnail) {
-    try {
-      // Try to generate AI thumbnail first
-      const script = thumbnail.script || { title: 'Ethereal Dreamscript Video' };
-      const aiThumbnail = await this.aiVideoGenerator.generateThumbnail(script, 'ethereal');
-      
+    if (thumbnail && thumbnail.path) {
       return {
-        path: aiThumbnail.path,
+        path: thumbnail.path,
         originalPath: thumbnail.path,
-        dimensions: aiThumbnail.dimensions,
-        fileSize: aiThumbnail.fileSize,
-        generatedWith: 'AI'
-      };
-    } catch (error) {
-      this.logger.error('AI thumbnail generation failed:', error);
-      
-      // Fallback to original processing
-      const productionThumbnailPath = path.join(
-        __dirname, '..', 'data', 'assets', 
-        `thumbnail_${Date.now()}.jpg`
-      );
-      
-      if (thumbnail.path && await fs.access(thumbnail.path).then(() => true).catch(() => false)) {
-        const originalBuffer = await fs.readFile(thumbnail.path);
-        await fs.writeFile(productionThumbnailPath, originalBuffer);
-      } else {
-        // Create placeholder
-        await fs.writeFile(productionThumbnailPath + '.placeholder', 'Thumbnail placeholder');
-      }
-      
-      return {
-        path: productionThumbnailPath,
-        originalPath: thumbnail.path,
-        dimensions: thumbnail.dimensions || { width: 1792, height: 1024 },
-        fileSize: thumbnail.fileSize || 0
+        dimensions: thumbnail.dimensions || { width: 3840, height: 2160 },
+        fileSize: thumbnail.fileSize || 0,
+        generatedWith: 'ThumbnailDesignerAgent'
       };
     }
+    const productionThumbnailPath = path.join(__dirname, '..', 'data', 'assets', `thumbnail_${Date.now()}.jpg`);
+    await fs.writeFile(productionThumbnailPath + '.placeholder', 'Thumbnail placeholder');
+    return {
+      path: productionThumbnailPath + '.placeholder',
+      originalPath: null,
+      dimensions: { width: 1280, height: 720 },
+      fileSize: 0
+    };
   }
 
   calculatePublishTime(strategy) {
-    // Use strategy's recommended time or calculate optimal time
-    if (strategy.bestPublishTime) {
-      return strategy.bestPublishTime;
-    }
-    
-    // Default: next optimal publishing window
+    if (strategy.bestPublishTime) return strategy.bestPublishTime;
     const now = new Date();
     const tomorrow = new Date(now);
     tomorrow.setDate(now.getDate() + 1);
     tomorrow.setHours(14, 0, 0, 0); // 2 PM default
-    
     return tomorrow.toISOString();
   }
 
   calculatePriority(strategy) {
-    let priority = 50; // Base priority
-    
-    // Adjust based on estimated views
+    let priority = 50;
     if (strategy.estimatedViews > 100000) priority += 30;
     else if (strategy.estimatedViews > 50000) priority += 20;
     else if (strategy.estimatedViews > 10000) priority += 10;
-    
-    // Adjust based on trend score
-    if (strategy.competitorAnalysis && strategy.competitorAnalysis.length > 0) {
-      priority += 10;
-    }
-    
-    // Time sensitivity
+    if (strategy.competitorAnalysis && strategy.competitorAnalysis.length > 0) priority += 10;
     const hoursUntilPublish = (new Date(strategy.bestPublishTime) - new Date()) / (1000 * 60 * 60);
     if (hoursUntilPublish < 24) priority += 20;
     else if (hoursUntilPublish < 48) priority += 10;
-    
     return Math.min(100, priority);
+  }
+
+  async _getMediaDuration(filePath) {
+    if (!filePath) return 0;
+    try {
+      const safePath = String(filePath).replace(/\\/g, '/');
+      const { stdout } = await execPromise(`ffprobe -v quiet -show_entries format=duration -of csv=p=0 "${safePath}"`);
+      return parseFloat(stdout.trim()) || 0;
+    } catch (e) {
+      this.logger.warn(`_getMediaDuration error for ${filePath}: ${e.message}`);
+      return 0;
+    }
   }
 
   async generateVideoContent(productionData) {
     this.logger.info('Generating AI video content...');
-    
     try {
       const { strategy, script } = productionData;
-      
-      // Generate visual assets using DALL-E
       const visualPrompts = this.createVisualPromptsFromScript(script);
       const visualAssets = [];
-      
       for (const prompt of visualPrompts) {
         const assets = await this.aiVideoGenerator.generateVisualAssets(prompt, 'ethereal', 1);
         visualAssets.push(...assets);
       }
-      
       productionData.assets.video = {
         visualAssets: visualAssets,
         duration: productionData.estimatedDuration,
@@ -304,404 +338,328 @@ class ProductionManagementAgent {
         fps: 30,
         generatedWith: 'AI'
       };
-      
       productionData.timeline.videoGenerated = new Date().toISOString();
-      
       return visualAssets;
     } catch (error) {
-      this.logger.error('AI video content generation failed:', error);
-      // Fallback to placeholder
-      return await this.createVideoElements(productionData);
+      return [];
     }
   }
 
-  async createVideoElements(productionData) {
-    const { script } = productionData;
-    const elements = [];
-    
-    // Title slide
-    elements.push({
-      type: 'title_slide',
-      content: script.title,
-      duration: 3,
-      style: 'modern',
-      animation: 'fade_in'
-    });
-    
-    // Content sections
-    if (script.mainContent && script.mainContent.sections) {
-      script.mainContent.sections.forEach((section, index) => {
-        // Section title
-        elements.push({
-          type: 'section_title',
-          content: section.title,
-          duration: 2,
-          style: 'minimal',
-          animation: 'slide_in'
-        });
-        
-        // Content visuals
-        if (section.type === 'list_items' && section.items) {
-          section.items.forEach(item => {
-            elements.push({
-              type: 'list_item',
-              content: {
-                number: item.number,
-                title: item.title,
-                description: item.description
-              },
-              duration: 15,
-              style: 'countdown',
-              animation: 'zoom_in'
-            });
-          });
-        } else if (section.type === 'solution_steps' && section.steps) {
-          section.steps.forEach(step => {
-            elements.push({
-              type: 'step',
-              content: {
-                number: step.number,
-                title: step.title,
-                description: step.description
-              },
-              duration: 20,
-              style: 'tutorial',
-              animation: 'step_by_step'
-            });
-          });
-        } else {
-          // Generic content slide
-          elements.push({
-            type: 'content_slide',
-            content: section.title,
-            duration: section.duration || 30,
-            style: 'informative',
-            animation: 'fade_transition'
-          });
-        }
-      });
-    }
-    
-    // Conclusion slide
-    elements.push({
-      type: 'conclusion',
-      content: 'Key Takeaways',
-      duration: 5,
-      style: 'summary',
-      animation: 'reveal'
-    });
-    
-    // Subscribe reminder
-    elements.push({
-      type: 'subscribe_reminder',
-      content: 'Subscribe for More!',
-      duration: 3,
-      style: 'call_to_action',
-      animation: 'bounce'
-    });
-    
-    return elements;
-  }
-
-  async generateAudioNarration(productionData) {
-    this.logger.info('Generating AI audio narration...');
-    
+  async generatePerSectionAudio(productionData) {
+    this.logger.info('Generating per-section TTS audio (modular architecture)...');
     try {
       const { script } = productionData;
-      const audioPath = path.join(__dirname, '..', 'data', 'audio', `${productionData.id}_narration.mp3`);
-      
-      // Read the TTS script
-      const ttsText = await fs.readFile(productionData.assets.script.ttsPath, 'utf8');
-      
-      // Generate audio using AI TTS
-      await this.aiVideoGenerator.generateTTSAudio(ttsText, audioPath);
-      
-      productionData.assets.audio = {
-        path: audioPath,
-        duration: productionData.estimatedDuration,
-        format: 'mp3',
-        generatedWith: 'AI',
-        quality: 'high'
-      };
-      
-      productionData.timeline.audioGenerated = new Date().toISOString();
-      
-      return audioPath;
-    } catch (error) {
-      this.logger.error('AI audio generation failed:', error);
-      // Fallback to simulation
-      return await this.simulateAudioGeneration(productionData);
-    }
-  }
+      const sections = (script.mainContent && script.mainContent.sections) || [];
 
-  async simulateTTSGeneration(scriptPath, outputPath, config) {
-    // This is a simulation - in production, you'd integrate with actual TTS services
-    this.logger.info(`Simulating TTS generation: ${config.voice}`);
-    
-    // Create a placeholder audio file reference
-    await fs.writeFile(outputPath + '.info', JSON.stringify({
-      message: 'TTS audio would be generated here',
-      config,
-      timestamp: new Date().toISOString()
-    }, null, 2));
-  }
-
-  async generateCaptions(productionData) {
-    this.logger.info('Generating captions...');
-    
-    const captionsPath = path.join(__dirname, '..', 'data', 'captions', `${productionData.id}_captions.srt`);
-    
-    // Generate SRT captions based on script timing
-    const captions = await this.createSRTCaptions(productionData);
-    
-    await fs.mkdir(path.dirname(captionsPath), { recursive: true });
-    await fs.writeFile(captionsPath, captions);
-    
-    productionData.assets.captions = {
-      path: captionsPath,
-      format: 'srt',
-      language: 'en',
-      autoGenerated: true
-    };
-    
-    productionData.timeline.captionsGenerated = new Date().toISOString();
-    
-    return captionsPath;
-  }
-
-  async createSRTCaptions(productionData) {
-    const { script } = productionData;
-    let srt = '';
-    let captionIndex = 1;
-    let currentTime = 0;
-    
-    // Helper function to format time for SRT
-    const formatSRTTime = (seconds) => {
-      const hours = Math.floor(seconds / 3600);
-      const minutes = Math.floor((seconds % 3600) / 60);
-      const secs = Math.floor(seconds % 60);
-      const ms = Math.floor((seconds % 1) * 1000);
-      
-      return `${hours.toString().padStart(2, '0')}:${minutes.toString().padStart(2, '0')}:${secs.toString().padStart(2, '0')},${ms.toString().padStart(3, '0')}`;
-    };
-    
-    // Process script sections for captions
-    const processText = (text, startTime, duration) => {
-      const words = text.split(' ');
-      const wordsPerCaption = 8; // Optimal words per caption
-      
-      for (let i = 0; i < words.length; i += wordsPerCaption) {
-        const captionWords = words.slice(i, i + wordsPerCaption);
-        const captionDuration = (duration / Math.ceil(words.length / wordsPerCaption));
-        const captionStartTime = startTime + (i / words.length) * duration;
-        const captionEndTime = captionStartTime + captionDuration;
-        
-        srt += `${captionIndex}\n`;
-        srt += `${formatSRTTime(captionStartTime)} --> ${formatSRTTime(captionEndTime)}\n`;
-        srt += `${captionWords.join(' ')}\n\n`;
-        
-        captionIndex++;
+      if (sections.length === 0) {
+        productionData.assets.sectionAudios = [];
+        return [];
       }
-    };
-    
-    // Hook
-    if (script.hook && script.hook.text) {
-      processText(script.hook.text, currentTime, 5);
-      currentTime += 5;
-    }
-    
-    // Introduction
-    if (script.introduction) {
-      const introText = `${script.introduction.greeting} ${script.introduction.topicIntro} ${script.introduction.valueProposition}`;
-      processText(introText, currentTime, 15);
-      currentTime += 15;
-    }
-    
-    // Main content
-    if (script.mainContent && script.mainContent.sections) {
-      script.mainContent.sections.forEach(section => {
-        let sectionText = '';
-        
+
+      const sectionAudios = new Array(sections.length);
+      const sectionWordTimestamps = new Array(sections.length);
+
+      for (let i = 0; i < sections.length; i++) {
+        let ttsText = '';
+        const section = sections[i];
         if (Array.isArray(section.content)) {
-          sectionText = section.content.filter(line => 
-            typeof line === 'string' && !line.startsWith('[')
-          ).join(' ');
+          section.content.forEach(line => {
+            if (typeof line === 'string' && !line.startsWith('[')) ttsText += line + ' ';
+          });
         } else if (section.steps) {
-          sectionText = section.steps.map(step => 
-            `${step.title}. ${step.description}`
-          ).join(' ');
+          section.steps.forEach(step => {
+            ttsText += (step.description || '') + ' ';
+            if (step.tip) ttsText += step.tip + ' ';
+          });
         } else if (section.items) {
-          sectionText = section.items.map(item => 
-            `Number ${item.number}: ${item.title}. ${item.description}`
-          ).join(' ');
+          section.items.forEach(item => {
+            ttsText += `${item.title}. ${item.description} `;
+          });
         } else if (typeof section.content === 'string') {
-          sectionText = section.content;
+          ttsText += section.content + ' ';
         }
+
+        const audioPath = path.join(__dirname, '..', 'data', 'audio', `${productionData.id}_section_${i}.mp3`);
+        const ttsInput = ttsText.trim();
+        if (ttsInput.length === 0) ttsText = section.title || section.heading || `Producto ${i + 1}`;
+        const toneHint = (section && section.tone_variant) || (productionData.script && productionData.script.tone_variant) || (productionData.script && productionData.script.tone) || 'conversacional y cercano';
         
-        if (sectionText) {
-          processText(sectionText, currentTime, section.duration || 60);
-          currentTime += section.duration || 60;
+        const ttsResult = await this.aiVideoGenerator.generateTTSAudio(ttsText.trim(), audioPath, toneHint);
+        sectionAudios[i] = ttsResult.audioPath || audioPath;
+        sectionWordTimestamps[i] = Array.isArray(ttsResult.wordTimestamps) ? ttsResult.wordTimestamps : [];
+
+        let audioDurationSec = null;
+        if (ttsResult && Array.isArray(ttsResult.wordTimestamps) && ttsResult.wordTimestamps.length > 0) {
+          const lastWord = ttsResult.wordTimestamps[ttsResult.wordTimestamps.length - 1];
+          audioDurationSec = Math.ceil(lastWord.end || 0);
+        } else {
+          const words = (ttsInput || '').split(/\s+/).filter(Boolean).length;
+          audioDurationSec = Math.ceil(words / 2.5);
         }
-      });
+        audioDurationSec = Math.max(PER_PRODUCT_DURATION_MIN, Math.min(PER_PRODUCT_DURATION_MAX, audioDurationSec));
+        section.duration = audioDurationSec;
+      }
+
+      productionData.assets.sectionAudios = sectionAudios;
+      productionData.assets.sectionWordTimestamps = sectionWordTimestamps;
+      productionData.timeline.audioGenerated = new Date().toISOString();
+
+      return sectionAudios;
+    } catch (error) {
+      throw error;
     }
-    
-    // Conclusion
-    if (script.conclusion) {
-      const conclusionText = script.conclusion.recap.join(' ') + ' ' + script.conclusion.finalThought;
-      processText(conclusionText, currentTime, 30);
-      currentTime += 30;
-    }
-    
-    return srt;
   }
 
-  async assembleVideo(productionData) {
+  async generateIntroAudio(productionData) {
+    const script = productionData.script;
+    if (!script) return null;
+    let introText = '';
+    if (script.hook && script.hook.text) introText += script.hook.text + ' ';
+    if (script.introduction && script.introduction.greeting) introText += script.introduction.greeting + ' ';
+    introText = introText.trim();
+    if (!introText) return null;
+
+    const introAudioPath = path.join(__dirname, '..', 'data', 'audio', `${productionData.id}_intro.mp3`);
+    const introTone = (productionData.script && productionData.script.tone_variant) || (productionData.script && productionData.script.tone) || 'conversacional y cercano';
+    const ttsResult = await this.aiVideoGenerator.generateTTSAudio(introText, introAudioPath, introTone);
+    productionData.assets.introAudio = {
+      path: ttsResult.audioPath || introAudioPath,
+      wordTimestamps: Array.isArray(ttsResult.wordTimestamps) ? ttsResult.wordTimestamps : [],
+      duration: ttsResult.duration || null,
+      format: 'mp3',
+      generatedWith: 'AI'
+    };
+    return ttsResult.audioPath || introAudioPath;
+  }
+
+  async generateOutroAudio(productionData) {
+    const script = productionData.script;
+    if (!script) return null;
+    let outroText = '';
+    if (script.conclusion) {
+      if (Array.isArray(script.conclusion.recap)) script.conclusion.recap.forEach(line => { if (typeof line === 'string') outroText += line + ' '; });
+      if (script.conclusion.finalThought) outroText += script.conclusion.finalThought + ' ';
+    }
+    if (script.callToAction) {
+      if (script.callToAction.subscribe) outroText += script.callToAction.subscribe + ' ';
+      if (script.callToAction.like) outroText += script.callToAction.like + ' ';
+      if (script.callToAction.comment) outroText += script.callToAction.comment + ' ';
+    }
+    outroText = outroText.trim();
+    if (!outroText) return null;
+
+    const outroAudioPath = path.join(__dirname, '..', 'data', 'audio', `${productionData.id}_outro.mp3`);
+    const outroTone = (productionData.script && productionData.script.tone_variant) || (productionData.script && productionData.script.tone) || 'conversacional y cercano';
+    const ttsResult = await this.aiVideoGenerator.generateTTSAudio(outroText, outroAudioPath, outroTone);
+    productionData.assets.outroAudio = {
+      path: ttsResult.audioPath || outroAudioPath,
+      wordTimestamps: Array.isArray(ttsResult.wordTimestamps) ? ttsResult.wordTimestamps : [],
+      format: 'mp3',
+      generatedWith: 'AI'
+    };
+    return ttsResult.audioPath || outroAudioPath;
+  }
+
+  /**
+   * Genera los Shorts Individuales de Producto.
+   * Utiliza strictamente `section.originalVideoPath` para evitar errores de archivo no encontrado
+   * causados por eliminaciones tempranas de temporales pre-cortados.
+   */
+ /**
+   * Genera los Shorts Individuales de Producto (Máximo 2 aleatorios).
+   * Utiliza estrictamente `section.originalVideoPath` para evitar errores de archivo no encontrado
+   * causados por eliminaciones tempranas de temporales pre-cortados.
+   */
+  async generateProductShorts(productionData) {
+    try {
+      this.logger.info('▶ GENERANDO SHORTS INDIVIDUALES (Máximo 2 productos aleatorios)...');
+      
+      const { script, id: productionId } = productionData;
+      const sections = (script && script.mainContent && script.mainContent.sections) || [];
+      const sectionAudios = productionData.assets?.sectionAudios || [];
+      
+      if (sections.length === 0 || sectionAudios.length === 0) return [];
+      
+      const shortsDir = path.join(__dirname, '..', 'data', 'shorts');
+      await fs.mkdir(shortsDir, { recursive: true });
+      const productShorts = [];
+
+      // 1. Filtrar solo las secciones que tengan video y audio válidos
+      const validSections = [];
+      for (let i = 0; i < sections.length; i++) {
+        const section = sections[i];
+        const videoPath = section.originalVideoPath || section.videoPath;
+        const audioPath = sectionAudios[i] || null;
+        
+        if (videoPath && fsSync.existsSync(videoPath) && audioPath && fsSync.existsSync(audioPath)) {
+          validSections.push({ section, videoPath, audioPath, originalIndex: i });
+        }
+      }
+
+      if (validSections.length === 0) {
+        this.logger.warn(`[ProductShorts] No hay secciones válidas para procesar.`);
+        return [];
+      }
+
+      // 2. Barajar la lista aleatoriamente (Algoritmo Fisher-Yates)
+      const shuffledSections = [...validSections];
+      for (let i = shuffledSections.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [shuffledSections[i], shuffledSections[j]] = [shuffledSections[j], shuffledSections[i]];
+      }
+
+      // 3. Tomar un máximo de 2 productos de la lista barajada
+      const maxShortsToGenerate = Math.min(2, shuffledSections.length);
+      const selectedSections = shuffledSections.slice(0, maxShortsToGenerate);
+
+      this.logger.info(`[ProductShorts] Se seleccionaron ${selectedSections.length} productos al azar para shorts individuales.`);
+
+      // 4. Procesar únicamente los productos seleccionados
+      for (const { section, videoPath, audioPath, originalIndex } of selectedSections) {
+        const productId = section.productId || section.filename || section.id || `product_${originalIndex}`;
+        const productName = section.title || `Producto ${originalIndex + 1}`;
+        
+        try {
+          this.logger.info(`[ProductShorts] Construyendo short para: "${productName}"`);
+          const shortPath = await this.aiVideoGenerator.generateProductShort(
+            videoPath,
+            audioPath,
+            shortsDir,
+            productId
+          );
+          
+          const shortStats = await fs.stat(shortPath);
+          productShorts.push({
+            productId,
+            productName,
+            path: shortPath,              // Mantenemos path por compatibilidad
+            videoPath: shortPath,         // 🔥 LA LÍNEA MÁGICA requerida por index.js
+            fileSize: shortStats.size,
+            duration: await this._getMediaDuration(audioPath),
+            resolution: '1080x1920',
+            format: 'mp4',
+            targetPlatforms: ['YouTube Shorts', 'Instagram Reels', 'TikTok', 'YouTube Community']
+          });
+        } catch (shortErr) {
+          this.logger.error(`[ProductShorts] ❌ Error en "${productName}": ${shortErr.message}`);
+        }
+      }
+      return productShorts;
+    } catch (err) {
+      this.logger.error(`[ProductShorts] Error global: ${err.message}`);
+      return [];
+    }
+  }
+
+ async assembleVideo(productionData) {
     this.logger.info('Assembling final AI-generated video...');
     
     try {
       const finalVideoPath = path.join(__dirname, '..', 'data', 'videos', `${productionData.id}_final.mp4`);
       
-      // Use AI Video Generator to create the final video
+      const introAudioPath = productionData.assets.introAudio ? productionData.assets.introAudio.path : null;
+      const sectionAudios = productionData.assets.sectionAudios || [];
+      const outroAudioPath = productionData.assets.outroAudio ? productionData.assets.outroAudio.path : null;
+
+      // 🔥 RECUPERAMOS LAS ESCENAS ORIGINALES PARA LA INTRO 🔥
+      const introScenes = productionData.assets && productionData.assets.scenes && productionData.assets.scenes.intro
+        ? productionData.assets.scenes.intro
+        : null;
+
       await this.aiVideoGenerator.generateVideo(
         productionData.script,
         productionData.assets.video.visualAssets || [],
-        productionData.assets.audio.path,
-        finalVideoPath
+        sectionAudios,
+        finalVideoPath,
+        introAudioPath,
+        outroAudioPath,
+        productionData.assets.sectionWordTimestamps || [],
+        productionData.introProductsOrder || [],
+        introScenes // <--- PASAMOS LAS ESCENAS AQUÍ (antes decía 'null')
       );
       
-      // Get file stats
       const stats = await fs.stat(finalVideoPath);
-      
       productionData.assets.finalVideo = {
-        path: finalVideoPath,
-        fileSize: stats.size,
-        duration: productionData.estimatedDuration,
-        generatedWith: 'AI',
-        resolution: '1920x1080',
-        format: 'mp4'
+        path: finalVideoPath, fileSize: stats.size, duration: productionData.estimatedDuration,
+        generatedWith: 'AI', resolution: '1920x1080', format: 'mp4'
       };
       
       this.logger.info('AI video assembly complete');
+
+// 🔥 RECUPERAMOS LOS VIDEOS ORIGINALES PARA LA INTRO INTELIGENTE 🔥
+      const originalVideoPaths = productionData.script.mainContent.sections
+        .map(sec => sec.videoPath)
+        .filter(vp => vp && require('fs').existsSync(vp));
+
+try {
+        if (productionData.assets && productionData.assets.introAudio && productionData.assets.introAudio.path) {
+          this.logger.info(`[IntroShort] Iniciando generación de intro short vertical inteligente...`);
+          const shortsDir = path.join(__dirname, '..', 'data', 'shorts');
+          
+          const introShortPath = await this.aiVideoGenerator.generateIntroShort(
+            introAudioPath, finalVideoPath, shortsDir, productionData.id, originalVideoPaths
+          );
+          
+          const introShortStats = await fs.stat(introShortPath);
+          if (!productionData.assets.shortVideos) productionData.assets.shortVideos = {};
+          
+          productionData.assets.shortVideos.intro = {
+            path: introShortPath, fileSize: introShortStats.size,
+            duration: productionData.assets.introAudio.duration || 30,
+            generatedWith: 'AI-Dynamic-Vision', resolution: '1080x1920', format: 'mp4',
+            targetPlatforms: ['YouTube Shorts', 'Instagram Reels', 'TikTok']
+          };
+          this.logger.info(`[IntroShort] ✅ Intro short generado exitosamente`);
+        }
+      } catch (introShortErr) {
+        this.logger.warn(`[IntroShort] ⚠️ Generación falló: ${introShortErr.message}`);
+      }
+      // Generar el Teaser Short (Top 3 productos + CTA de intriga)
+      try {
+        this.logger.info(`[TeaserShort] Iniciando generación de Short tipo Tráiler (Top 3)...`);
+        const shortsDir = path.join(__dirname, '..', 'data', 'shorts');
+        
+        const teaserShortPath = await this.aiVideoGenerator.generateTeaserShort(
+          productionData.script,
+          sectionAudios,
+          originalVideoPaths,
+          shortsDir,
+          productionData.id
+        );
+        
+        const teaserStats = await fs.stat(teaserShortPath);
+        if (!productionData.assets.shortVideos) productionData.assets.shortVideos = {};
+        
+        productionData.assets.shortVideos.teaser = {
+          path: teaserShortPath,
+          fileSize: teaserStats.size,
+          duration: 35,
+          generatedWith: 'AI-Teaser-Top3',
+          resolution: '1080x1920',
+          format: 'mp4',
+          targetPlatforms: ['YouTube Shorts', 'Instagram Reels', 'TikTok']
+        };
+        this.logger.info(`[TeaserShort] ✅ Teaser short generado exitosamente`);
+      } catch (teaserErr) {
+        this.logger.warn(`[TeaserShort] ⚠️ Generación falló: ${teaserErr.message}`);
+      }
+
       return finalVideoPath;
     } catch (error) {
       this.logger.error('AI video assembly failed:', error);
-      // Fallback to simulation
-      return await this.simulateVideoAssembly(productionData);
+      throw error;
     }
   }
 
-  async simulateVideoRendering(instructions) {
-    this.logger.info('Simulating video rendering...');
-    
-    // Create a placeholder that indicates video would be rendered
-    await fs.writeFile(instructions.outputPath + '.placeholder', JSON.stringify({
-      message: 'Final video would be rendered here',
-      instructions,
-      timestamp: new Date().toISOString()
-    }, null, 2));
-  }
-
-  async getPipelineStatus() {
-    return this.pipeline.map(item => ({
-      id: item.id,
-      title: item.script?.title || 'Untitled',
-      status: item.status,
-      priority: item.priority,
-      scheduledPublishTime: item.scheduledPublishTime,
-      progress: this.calculateProgress(item)
-    }));
-  }
-
-  calculateProgress(productionData) {
-    const milestones = [
-      'scriptReady',
-      'thumbnailReady',
-      'audioGenerated',
-      'videoGenerated',
-      'captionsGenerated',
-      'readyForUpload'
-    ];
-    
-    const completed = milestones.filter(milestone => 
-      productionData.timeline[milestone] !== null
-    ).length;
-    
-    return Math.round((completed / milestones.length) * 100);
-  }
-
-  async getNextReadyContent() {
-    const ready = this.pipeline
-      .filter(item => item.status === 'ready')
-      .sort((a, b) => b.priority - a.priority);
-    
-    return ready[0] || null;
-  }
-
-  // Helper method to create visual prompts from script content
   createVisualPromptsFromScript(script) {
-    const prompts = [];
-    
-    // Title prompt
-    prompts.push(`${script.title}, ethereal storytelling, mystical background`);
-    
-    // Content-based prompts
+    const prompts = [`${script.title}, ethereal storytelling, mystical background`];
     if (script.mainContent && script.mainContent.sections) {
       script.mainContent.sections.forEach(section => {
-        if (section.title) {
-          prompts.push(`${section.title}, ethereal dreamscape, creative visualization`);
-        }
+        if (section.title) prompts.push(`${section.title}, ethereal dreamscape, creative visualization`);
       });
     }
-    
-    // Ensure we have at least 3 prompts
-    while (prompts.length < 3) {
-      prompts.push('ethereal dreamscape, mystical storytelling, creative visualization');
-    }
-    
-    return prompts.slice(0, 5); // Limit to 5 for cost control
-  }
-
-  // Fallback simulation methods
-  async simulateAudioGeneration(productionData) {
-    const audioPath = path.join(__dirname, '..', 'data', 'audio', `${productionData.id}_narration.mp3`);
-    
-    await fs.writeFile(audioPath + '.info', JSON.stringify({
-      message: 'AI TTS audio would be generated here',
-      timestamp: new Date().toISOString()
-    }, null, 2));
-    
-    productionData.assets.audio = {
-      path: audioPath + '.info',
-      duration: productionData.estimatedDuration,
-      format: 'mp3',
-      simulated: true
-    };
-    
-    return audioPath + '.info';
-  }
-
-  async simulateVideoAssembly(productionData) {
-    const finalVideoPath = path.join(__dirname, '..', 'data', 'videos', `${productionData.id}_final.mp4`);
-    
-    const assemblyInstructions = {
-      message: 'AI video would be assembled here',
-      assets: productionData.assets,
-      timestamp: new Date().toISOString()
-    };
-    
-    await fs.writeFile(
-      finalVideoPath + '.assembly.json',
-      JSON.stringify(assemblyInstructions, null, 2)
-    );
-    
-    productionData.assets.finalVideo = {
-      path: finalVideoPath + '.assembly.json',
-      fileSize: 0,
-      duration: productionData.estimatedDuration,
-      simulated: true
-    };
-    
-    return finalVideoPath + '.assembly.json';
+    while (prompts.length < 3) prompts.push('ethereal dreamscape, mystical storytelling, creative visualization');
+    return prompts.slice(0, 5);
   }
 }
 

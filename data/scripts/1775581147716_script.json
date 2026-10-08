@@ -1,0 +1,137 @@
+{
+  "title": "Top 3 Gadgets Más Vendidos en 2026",
+  "hook": {
+    "type": "statement",
+    "text": "Una almohada que ajusta su firmeza mientras duermes... una cafetera que sabe cuándo necesitas tu café... y luces LED que se doblan a tu antojo.",
+    "duration": "0:00-0:05"
+  },
+  "introduction": {
+    "greeting": "Dale a suscribirse para más hallazgos como estos, y tranquilo, todos los links están en el primer comentario fijado.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0:05-0:10"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Almohada inteligente",
+        "content": [
+          "Despertar con dolor de cuello puede arruinar tu día. La almohada inteligente ajusta automáticamente su firmeza para un soporte perfecto. Además, monitorea tus patrones de sueño para mejorar tu descanso.",
+          "Su precio actual en Amazon ronda los... 19.99. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Almohada inteligente"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B094MQVXMB.mp4",
+        "precio": "19.99"
+      },
+      {
+        "type": "content",
+        "title": "Cafetera predictiva",
+        "content": [
+          "Nunca más llegarás a la cocina sin café listo por las mañanas. La cafetera predictiva detecta tus hábitos y comienza a preparar tu bebida antes de que lo pienses. Funciona con una app que personaliza la intensidad y el tiempo de preparación.",
+          "Su precio actual en Amazon ronda los... 34.99. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Cafetera predictiva"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B01GJOMWVA.mp4",
+        "precio": "34.99"
+      },
+      {
+        "type": "content",
+        "title": "Luz LED flexible",
+        "content": [
+          "Las lámparas rígidas limitan tu creatividad al iluminar un espacio. La luz LED flexible se adapta a cualquier forma que imagines y cambia de color según tu estado de ánimo. Es ideal para decorar tanto interiores como exteriores.",
+          "Su precio actual en Amazon ronda los... 9.98. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Luz LED flexible"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07XHLGSXN.mp4",
+        "precio": "9.98"
+      }
+    ],
+    "totalDuration": 75
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "Si te gustó el video, dale like y recuerda que los links están en el primer comentario."
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:45",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "vendidos",
+    "2026"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 3 Gadgets Más Vendidos en 2026",
+      "angle": "Top 3 Gadgets Más Vendidos en 2026",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 3,
+      "introScript": "¿Una almohada inteligente que ajusta tu postura mientras duermes? ¿Y qué tal una cafetera que predice cuántas tazas te quedan por hacer con solo mirarla? Descubre lo más vendido en 2026, donde la tecnología redefine lo cotidiano.",
+      "keywords": [
+        "gadgets",
+        "vendidos",
+        "2026"
+      ],
+      "estimatedViews": 4555,
+      "bestPublishTime": "2026-04-12T15:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Almohada inteligente",
+          "searchTermEn": "smart posture pillow"
+        },
+        {
+          "nombre": "Cafetera predictiva",
+          "searchTermEn": "predictive coffee maker"
+        },
+        {
+          "nombre": "Luz LED flexible",
+          "searchTermEn": "flexible led strip lights"
+        }
+      ],
+      "createdAt": "2026-04-07T16:56:45.879Z"
+    },
+    "generatedAt": "2026-04-07T16:59:07.464Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Almohada inteligente",
+        "searchTermEn": "smart posture pillow"
+      },
+      {
+        "nombre": "Cafetera predictiva",
+        "searchTermEn": "predictive coffee maker"
+      },
+      {
+        "nombre": "Luz LED flexible",
+        "searchTermEn": "flexible led strip lights"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 3 Gadgets Más Vendidos en 2026\n\n══════════════════════════════════════════════════\n\n[0:00-0:05] HOOK\nUna almohada que ajusta su firmeza mientras duermes... una cafetera que sabe cuándo necesitas tu café... y luces LED que se doblan a tu antojo.\n\n[0:05-0:10] INTRODUCTION\nDale a suscribirse para más hallazgos como estos, y tranquilo, todos los links están en el primer comentario fijado.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] ALMOHADA INTELIGENTE\nDespertar con dolor de cuello puede arruinar tu día. La almohada inteligente ajusta automáticamente su firmeza para un soporte perfecto. Además, monitorea tus patrones de sueño para mejorar tu descanso.\nSu precio actual en Amazon ronda los... 19.99. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Almohada inteligente]\n\n[0:25] CAFETERA PREDICTIVA\nNunca más llegarás a la cocina sin café listo por las mañanas. La cafetera predictiva detecta tus hábitos y comienza a preparar tu bebida antes de que lo pienses. Funciona con una app que personaliza la intensidad y el tiempo de preparación.\nSu precio actual en Amazon ronda los... 34.99. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Cafetera predictiva]\n\n[0:25] LUZ LED FLEXIBLE\nLas lámparas rígidas limitan tu creatividad al iluminar un espacio. La luz LED flexible se adapta a cualquier forma que imagines y cambia de color según tu estado de ánimo. Es ideal para decorar tanto interiores como exteriores.\nSu precio actual en Amazon ronda los... 9.98. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Luz LED flexible]\n\n[10 seconds] CONCLUSION\nSi te gustó el video, dale like y recuerda que los links están en el primer comentario.\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:45\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, vendidos, 2026\n"
+}

@@ -1,0 +1,626 @@
+{
+  "title": "Top 3 laptops ideales para ingenieros",
+  "hook": {
+    "type": "statement",
+    "text": "Revoluciona tareas complejas con potencia sublime. Optimiza tu rendimiento con conexiones excepcionales.",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "Todo está en el primer comentario. Vamos.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0:10-0:15"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Dell XPS 15",
+        "productId": "B0G11WY59L",
+        "productName": "Dell XPS 15",
+        "filename": "B0G11WY59L.mp4",
+        "asin": "B0G11WY59L",
+        "clipDuration": 52.28,
+        "estimatedAudioSeconds": 70,
+        "framework": "enfoque_caracteristica",
+        "narracionSegments": null,
+        "content": [
+          "Descubre la potencia del procesador Intel Core i7-1355U de la Dell XPS 15, que permite realizar tus tareas diarias sin esfuerzo. Gracias a sus baterías energéticamente eficientes y Express Charge, mantienes el enfoque y la productividad durante horas, mientras que Dell ComfortView protege tus ojos de daños por luz azul.",
+          "Su precio actual en Amazon ronda los... 1699 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Dell XPS 15"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0G11WY59L_combined.mp4",
+        "precio": "$1699",
+        "productPhoto": "https://m.media-amazon.com/images/I/71AZek1CVTL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0G11WY59L\\scenes_v1\\B0G11WY59L_scene_07.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Laptop abierta",
+            "raw": "9|Laptop abierta"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0G11WY59L\\scenes_v1\\B0G11WY59L_scene_08.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Laptop encendida",
+            "raw": "9|Laptop encendida"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0G11WY59L\\scenes_v2\\B0G11WY59L_photos_combined_scene_01.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "pantalla encendida",
+            "raw": "9|pantalla encendida"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0G11WY59L\\scenes_v2\\B0G11WY59L_photos_combined_scene_02.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "pantalla encendida",
+            "raw": "9|pantalla encendida"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0G11WY59L\\scenes_v2\\B0G11WY59L_photos_combined_scene_03.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0G11WY59L\\scenes_v2\\B0G11WY59L_photos_combined_scene_07.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "pantalla encendida",
+            "raw": "9|pantalla encendida"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0G11WY59L\\scenes_v2\\B0G11WY59L_photos_combined_scene_12.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Laptop encendida",
+            "raw": "9|Laptop encendida"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0G11WY59L\\scenes_v2\\B0G11WY59L_photos_combined_scene_15.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "pantalla encendida",
+            "raw": "9|pantalla encendida"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0G11WY59L\\scenes_v2\\B0G11WY59L_photos_combined_scene_16.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "pantalla encendida",
+            "raw": "9|pantalla encendida"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0G11WY59L\\scenes_v2\\B0G11WY59L_photos_combined_scene_17.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0G11WY59L\\scenes_v2\\B0G11WY59L_photos_combined_scene_21.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "pantalla encendida",
+            "raw": "9|pantalla encendida"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0G11WY59L\\scenes_v2\\B0G11WY59L_photos_combined_scene_26.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Laptop encendida",
+            "raw": "9|Laptop encendida"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0G11WY59L\\scenes_v2\\B0G11WY59L_photos_combined_scene_05.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "teclado laptop",
+            "raw": "8|teclado laptop"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0G11WY59L\\scenes_v2\\B0G11WY59L_photos_combined_scene_06.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Laptop Dell",
+            "raw": "8|Laptop Dell"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0G11WY59L\\scenes_v2\\B0G11WY59L_photos_combined_scene_08.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Puertos visibles",
+            "raw": "8|Puertos visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0G11WY59L\\scenes_v2\\B0G11WY59L_photos_combined_scene_09.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Dell portátil",
+            "raw": "8|Dell portátil"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0G11WY59L\\scenes_v2\\B0G11WY59L_photos_combined_scene_10.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Laptop Dell",
+            "raw": "8|Laptop Dell"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0G11WY59L\\scenes_v2\\B0G11WY59L_photos_combined_scene_13.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Laptop Dell",
+            "raw": "8|Laptop Dell"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0G11WY59L\\scenes_v2\\B0G11WY59L_photos_combined_scene_19.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "teclado laptop",
+            "raw": "8|teclado laptop"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0G11WY59L\\scenes_v2\\B0G11WY59L_photos_combined_scene_20.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Laptop Dell",
+            "raw": "8|Laptop Dell"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0G11WY59L\\scenes_v2\\B0G11WY59L_photos_combined_scene_22.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Puertos visibles",
+            "raw": "8|Puertos visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0G11WY59L\\scenes_v2\\B0G11WY59L_photos_combined_scene_23.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Dell portátil",
+            "raw": "8|Dell portátil"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0G11WY59L\\scenes_v2\\B0G11WY59L_photos_combined_scene_24.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "laptop plata",
+            "raw": "8|laptop plata"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0G11WY59L\\scenes_v2\\B0G11WY59L_photos_combined_scene_27.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Laptop Dell",
+            "raw": "8|Laptop Dell"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0G11WY59L\\scenes_v1\\B0G11WY59L_scene_06.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "Laptop visible",
+            "raw": "5|Laptop visible"
+          }
+        ],
+        "features": [
+          "Effortlessly chic. Always efficient. Finish your to-do list in no time with the Dell 15, built for everyday computing with 13th Gen Intel Core i7-1355U processor",
+          "Designed for easy learning: Energy-efficient batteries and Express Charge support extend your focus and productivity.",
+          "Stay connected to what you love: Spend more screen time on the things you enjoy with Dell ComfortView software that helps reduce harmful blue light emissions to keep your eyes comfortable over extended viewing times.",
+          "Type with ease: Write and calculate quickly with roomy keypads, separate numeric keypad and calculator hotkey.",
+          "Ergonomic support: Keep your wrists comfortable with lifted hinges that provide an ergonomic typing angle."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Apple MacBook Pro",
+        "productId": "B0GR1JKMBV",
+        "productName": "Apple MacBook Pro",
+        "filename": "B0GR1JKMBV.mp4",
+        "asin": "B0GR1JKMBV",
+        "clipDuration": 20.25,
+        "estimatedAudioSeconds": 24,
+        "framework": "beneficio_oculto",
+        "narracionSegments": null,
+        "content": [
+          "-Explora- la capacidad poco conocida del MacBook Pro: su rendimiento optimizado para IA permite acelerar proyectos creativos con privacidad asombrosa.",
+          "Su precio actual en Amazon ronda los... 3499 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Apple MacBook Pro"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0GR1JKMBV_combined.mp4",
+        "precio": "$3499",
+        "productPhoto": "https://m.media-amazon.com/images/I/61aF2GnTTRL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GR1JKMBV\\scenes_v2\\B0GR1JKMBV_v2_scene_12.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "pantalla encendida",
+            "raw": "9|pantalla encendida"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GR1JKMBV\\scenes_v2\\B0GR1JKMBV_v2_scene_15.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "pantalla encendida",
+            "raw": "9|pantalla encendida"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GR1JKMBV\\scenes_v2\\B0GR1JKMBV_v2_scene_13.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "pantalla encendida",
+            "raw": "9|pantalla encendida"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GR1JKMBV\\scenes_v1\\B0GR1JKMBV_scene_01.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "MacBook Pro",
+            "raw": "8|MacBook Pro"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GR1JKMBV\\scenes_v2\\B0GR1JKMBV_v2_scene_01.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "MacBook Pro",
+            "raw": "8|MacBook Pro"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GR1JKMBV\\scenes_v2\\B0GR1JKMBV_v2_scene_03.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "pantalla brillante",
+            "raw": "8|pantalla brillante"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GR1JKMBV\\scenes_v2\\B0GR1JKMBV_v2_scene_10.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "MacBook Pro",
+            "raw": "8|MacBook Pro"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GR1JKMBV\\scenes_v3\\B0GR1JKMBV_photos_combined_scene_01.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "MacBook Pro",
+            "raw": "8|MacBook Pro"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GR1JKMBV\\scenes_v3\\B0GR1JKMBV_photos_combined_scene_06.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "MacBook Pro",
+            "raw": "8|MacBook Pro"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GR1JKMBV\\scenes_v3\\B0GR1JKMBV_photos_combined_scene_11.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "MacBook Pro",
+            "raw": "8|MacBook Pro"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GR1JKMBV\\scenes_v3\\B0GR1JKMBV_photos_combined_scene_16.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "MacBook Pro",
+            "raw": "8|MacBook Pro"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GR1JKMBV\\scenes_v3\\B0GR1JKMBV_photos_combined_scene_21.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "MacBook Pro",
+            "raw": "8|MacBook Pro"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GR1JKMBV\\scenes_v3\\B0GR1JKMBV_photos_combined_scene_19.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "pantalla encendida",
+            "raw": "5|pantalla encendida"
+          }
+        ],
+        "features": [
+          "FAST RUNS IN THE FAMILY — The 16-inch MacBook Pro with the M5 Pro or M5 Max chip brings next-generation speed and powerful on-device AI to personal, professional, and creative tasks. With all-day battery life, double the starting storage,* and a breathtaking Liquid Retina XDR display, it’s pro in every way.*",
+          "BUCKLE UP — Along with a next-generation CPU, faster unified memory, and up to 2x faster SSD storage,* M5 Pro and M5 Max feature a more powerful GPU with a Neural Accelerator built into each core, delivering faster AI performance and on-device training capabilities. So you can blaze through demanding workloads at mind-bending speeds.",
+          "BUILT FOR AI — Apple silicon, and every major component that powers it, is designed to run demanding on-device AI workloads like LLM inference and training. And Apple Intelligence helps you write, express yourself, and get things done effortlessly with groundbreaking privacy protections at every step.*",
+          "ALL-DAY BATTERY LIFE — MacBook Pro delivers the same exceptional performance whether it’s running on battery or plugged in.*",
+          "MACOS RUNS APPS FAST — All your go-to apps run lightning fast in macOS, including built-in apps like FaceTime and Messages. Plus, built-in virus protection and free software updates help keep your Mac running smoothly and securely."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Lenovo ThinkPad X1",
+        "productId": "B07JF529CJ",
+        "productName": "Lenovo ThinkPad X1",
+        "filename": "B07JF529CJ.mp4",
+        "asin": "B07JF529CJ",
+        "clipDuration": 31,
+        "estimatedAudioSeconds": null,
+        "framework": "comparacion_precio",
+        "narracionSegments": null,
+        "content": [
+          "-¿Buscas potencia y estilo?- El Lenovo ThinkPad X1 te ofrece el procesador Ultra 7 y pantalla táctil a un precio competitivo comparado con otras marcas premium, siendo perfecto para estudiantes y profesionales.",
+          ""
+        ],
+        "visuals": [
+          "Product image: Lenovo ThinkPad X1"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07JF529CJ_combined.mp4",
+        "precio": "$1998",
+        "productPhoto": "https://m.media-amazon.com/images/I/71CdpiZhPLL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07JF529CJ\\scenes_v1\\B07JF529CJ_scene_01.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "laptop encendida",
+            "raw": "9|laptop encendida"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07JF529CJ\\scenes_v1\\B07JF529CJ_scene_07.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "pantalla encendida",
+            "raw": "9|pantalla encendida"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07JF529CJ\\scenes_v2\\B07JF529CJ_photos_combined_scene_01.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Pantalla encendida",
+            "raw": "9|Pantalla encendida"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07JF529CJ\\scenes_v2\\B07JF529CJ_photos_combined_scene_03.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07JF529CJ\\scenes_v2\\B07JF529CJ_photos_combined_scene_07.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Pantalla encendida",
+            "raw": "9|Pantalla encendida"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07JF529CJ\\scenes_v2\\B07JF529CJ_photos_combined_scene_13.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Pantalla encendida",
+            "raw": "9|Pantalla encendida"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07JF529CJ\\scenes_v2\\B07JF529CJ_photos_combined_scene_15.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07JF529CJ\\scenes_v2\\B07JF529CJ_photos_combined_scene_19.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Pantalla encendida",
+            "raw": "9|Pantalla encendida"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07JF529CJ\\scenes_v2\\B07JF529CJ_photos_combined_scene_21.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07JF529CJ\\scenes_v2\\B07JF529CJ_photos_combined_scene_25.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Pantalla encendida",
+            "raw": "9|Pantalla encendida"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07JF529CJ\\scenes_v2\\B07JF529CJ_photos_combined_scene_27.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07JF529CJ\\scenes_v1\\B07JF529CJ_scene_06.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "teclado visible",
+            "raw": "8|teclado visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07JF529CJ\\scenes_v2\\B07JF529CJ_photos_combined_scene_09.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "producto visible",
+            "raw": "8|producto visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07JF529CJ\\scenes_v2\\B07JF529CJ_photos_combined_scene_05.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "puertos visibles",
+            "raw": "5|puertos visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07JF529CJ\\scenes_v2\\B07JF529CJ_photos_combined_scene_11.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "puertos visibles",
+            "raw": "5|puertos visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07JF529CJ\\scenes_v2\\B07JF529CJ_photos_combined_scene_17.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "puertos visibles",
+            "raw": "5|puertos visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07JF529CJ\\scenes_v2\\B07JF529CJ_photos_combined_scene_23.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "puertos visibles",
+            "raw": "5|puertos visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07JF529CJ\\scenes_v2\\B07JF529CJ_photos_combined_scene_29.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "puerto laptop",
+            "raw": "5|puerto laptop"
+          }
+        ],
+        "features": [
+          "POWERFUL PERFORMANCE: The Lenovo ThinkPad X1 Carbon features the Ultra 7 255U processor with speeds up to 5.2GHz and 12MB cache, ensuring smooth multitasking and smart AI optimization. This X1 Carbon gen 13 laptop comes with 32GB DDR5 RAM for fast processing and a 1TB SSD PCIe for ultra-fast storage. Built for business professionals, students, and remote workers.",
+          "IMMERSIVE TOUCH DISPLAY: Enjoy an immersive viewing experience with the Lenovo ThinkPad X1 Carbon Touchscreen FHD+ 14-inch (1920x1200) IPS display, delivering crisp visuals and accurate colors. The Integrated Intel Graphics enhances performance for streaming, presentations, and daily computing. Whether for business, school, or entertainment, this 14-inch laptop is optimized for clarity, brightness, and productivity, making it perfect for students and professionals.",
+          "KEYBOARD & CONNECTIVITY: The Lenovo ThinkPad X1 Carbon features 2 x USB-C (Thunderbolt 4), 2 x USB-A 3.2 Gen 1 (USB 5Gbps, 1x always on), 1 x HDMI 2.1 (up to 4K/60Hz), 1 x Audio jack (3.5mm), Wi-Fi 6E, Bluetooth 5.3, Fingerprint Reader, Backlit Keyboard, FHD 1080p + IR Webcam with Privacy Shutter.",
+          "WARRANTY & DURABILITY: The Lenovo ThinkPad X1 is backed by a 1-Year Lenovo Warranty & 1-Year Oem genuine Limited Warranty, ensuring peace of mind. See the product description for details."
+        ]
+      }
+    ],
+    "totalDuration": 75
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      null
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:45",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "laptops",
+    "ideales",
+    "para",
+    "ingenieros"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 3 laptops ideales para ingenieros",
+      "angle": "Top 3 laptops ideales para ingenieros",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 3,
+      "introScript": "¿Una laptop que puede durar hasta 20 horas con una sola carga? ¿O quizás una que resiste caídas y temperaturas extremas? Hoy te traigo las laptops más impresionantes que todo ingeniero debe tener a mano en Amazon.",
+      "keywords": [
+        "laptops",
+        "ideales",
+        "para",
+        "ingenieros"
+      ],
+      "estimatedViews": 3904,
+      "bestPublishTime": "2026-05-23T15:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Dell XPS 15",
+          "searchTermEn": "Dell XPS 15 laptop",
+          "id": "B0G11WY59L",
+          "filename": "B0G11WY59L.mp4"
+        },
+        {
+          "nombre": "Apple MacBook Pro",
+          "searchTermEn": "Apple MacBook Pro 16",
+          "id": "B0GR1JKMBV",
+          "filename": "B0GR1JKMBV.mp4"
+        },
+        {
+          "nombre": "Lenovo ThinkPad X1",
+          "searchTermEn": "Lenovo ThinkPad X1 Carbon",
+          "id": "B07JF529CJ",
+          "filename": "B07JF529CJ.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-05-19T20:31:26.631Z",
+      "_requestedCount": 3,
+      "_adaptedCount": 3,
+      "introProductsOrder": [
+        {
+          "nombre": "Apple MacBook Pro",
+          "id": "B0GR1JKMBV",
+          "filename": "B0GR1JKMBV_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0GR1JKMBV_combined.mp4"
+        },
+        {
+          "nombre": "Lenovo ThinkPad X1",
+          "id": "B07JF529CJ",
+          "filename": "B07JF529CJ_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07JF529CJ_combined.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1779223534586_b3e3ah"
+    },
+    "generatedAt": "2026-05-19T20:45:57.964Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Dell XPS 15",
+        "searchTermEn": "Dell XPS 15 laptop",
+        "id": "B0G11WY59L",
+        "filename": "B0G11WY59L.mp4"
+      },
+      {
+        "nombre": "Apple MacBook Pro",
+        "searchTermEn": "Apple MacBook Pro 16",
+        "id": "B0GR1JKMBV",
+        "filename": "B0GR1JKMBV.mp4"
+      },
+      {
+        "nombre": "Lenovo ThinkPad X1",
+        "searchTermEn": "Lenovo ThinkPad X1 Carbon",
+        "id": "B07JF529CJ",
+        "filename": "B07JF529CJ.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 3 laptops ideales para ingenieros\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\nRevoluciona tareas complejas con potencia sublime. Optimiza tu rendimiento con conexiones excepcionales.\n\n[0:10-0:15] INTRODUCTION\nTodo está en el primer comentario. Vamos.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] DELL XPS 15\nDescubre la potencia del procesador Intel Core i7-1355U de la Dell XPS 15, que permite realizar tus tareas diarias sin esfuerzo. Gracias a sus baterías energéticamente eficientes y Express Charge, mantienes el enfoque y la productividad durante horas, mientras que Dell ComfortView protege tus ojos de daños por luz azul.\nSu precio actual en Amazon ronda los... 1699 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Dell XPS 15]\n\n[0:25] APPLE MACBOOK PRO\n-Explora- la capacidad poco conocida del MacBook Pro: su rendimiento optimizado para IA permite acelerar proyectos creativos con privacidad asombrosa.\nSu precio actual en Amazon ronda los... 3499 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Apple MacBook Pro]\n\n[0:25] LENOVO THINKPAD X1\n-¿Buscas potencia y estilo?- El Lenovo ThinkPad X1 te ofrece el procesador Ultra 7 y pantalla táctil a un precio competitivo comparado con otras marcas premium, siendo perfecto para estudiantes y profesionales.\n\n\n[VISUALS: Product image: Lenovo ThinkPad X1]\n\n[10 seconds] CONCLUSION\nundefined\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:45\nTONE: engaging\nPACING: quick\nKEYWORDS: laptops, ideales, para, ingenieros\n"
+}

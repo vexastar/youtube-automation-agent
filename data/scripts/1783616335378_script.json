@@ -1,0 +1,130 @@
+{
+  "title": "Top 1 Gadget que Revoluciona Tu Hogar",
+  "hook": {
+    "type": "statement",
+    "text": "",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "25s-35s"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "AromaTech AromaCube",
+        "productId": "B0DG1ZHG2W",
+        "productName": "AromaTech AromaCube",
+        "filename": "B0DG1ZHG2W.mp4",
+        "asin": "B0DG1ZHG2W",
+        "videoDuration": 60,
+        "estimatedAudioSeconds": 33,
+        "framework": "dato_numerico",
+        "narracionSegments": null,
+        "content": [
+          "¿Sabías que un aroma puede transformar tu espacio en segundos...? El AromaTech AromaCube, con tecnología de nebulización premium, perfuma hasta mil quinientos pies cuadrados. Funciona sin agua ni calor; el aire filtrado dispersa aromas puros y consistentes. Abre la parte superior. Atornilla la botella de sesenta mililitros. Presiona el botón; ajusta intensidad con la app Bluetooth. Ambiente perfumado sin esfuerzo; como un lujoso hotel. Ideal para hogares grandes o boutiques.",
+          "Su precio actual ronda los... ciento treinta dólares. Link en comentarios."
+        ],
+        "visuals": [
+          "Product image: AromaTech AromaCube"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0DG1ZHG2W_combined.mp4",
+        "precio": "$130",
+        "productPhoto": "https://m.media-amazon.com/images/I/51lctPHekrL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "\"\"\"HEMOS MEJORADO NUESTRO DIFUSOR MÁS VERSÁTIL: Con tecnología de nebulización premium, el AroMini BT Plus perfuma espacios de hasta 1,500 sq. ft. mientras sigue funcionando sin problemas en habitaciones más pequeñas. Controlado por app y casi silencioso, hará que tu hogar, oficina, boutique o estudio huela como un hotel de lujo. Ahora puedes fácilmente enroscar una botella de aroma AromaTech de 60 mL (se vende por separado) en lugar de decantar.\"\"\"",
+          "Disfruta de una Experiencia de Aroma Elevada: El AroMini BT sin agua es la forma más fácil y limpia de perfumar tu hogar, ofreciendo una fragancia de larga duración y distribuida de manera uniforme, sin residuos; este innovador difusor de aire frío dispersa aromas utilizando aire filtrado en lugar de agua o calor, lo que resulta en una experiencia de aroma más limpia y consistente (ten en cuenta que nuestros difusores utilizan aromatización por intervalos, dispersando el aroma durante un período de tiempo y luego entrando en modo de reposo).",
+          "\"\"\"Aromas Consistentes, Puros y Agradables: Utilizando tecnología Bluetooth y nebulización para liberar pequeñas nano-partículas en el aire, el AroMini BT crea un ambiente aromatizado sutil y consistente que no se desvanece; la tecnología de difusión en frío preserva la integridad de nuestras mezclas de aromas y aceites esenciales, para que puedas obtener los mayores beneficios olfativos y terapéuticos, sin calor, evaporación o dilución de los aceites en agua o alcohol.\"\"\"",
+          "\"\"\"Silencioso y eficiente en energía con conexión Bluetooth: Usando nuestra aplicación Scenting, puedes ajustar fácilmente la intensidad de la fragancia y crear horarios para tu dormitorio, vestíbulo de hotel, tienda boutique y más; incluso puedes usar el difusor de aromaterapia para mejorar la atmósfera en eventos como bodas, conferencias y presentaciones en vivo.\"\"\"",
+          "Fácil de configurar, cubre hasta 1,500 pies cuadrados: Simplemente abre la parte superior, atornilla una botella de 60 mL o añade hasta 60 mL de aceite para difusores AromaTech (no incluido), vuelve a atornillar la botella y presiona el botón de encendido; el AroMini BT sin agua puede perfumar un apartamento de tamaño mediano o una sala de estar grande (ten en cuenta que los aceites de aroma AromaTech están optimizados para nuestra tecnología de nebulización, y usar aceites de otras marcas puede obstruir tu difusor y anulará tu garantía)."
+        ]
+      }
+    ],
+    "totalDuration": 40
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      ""
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:10",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadget",
+    "revoluciona",
+    "hogar"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 1 Gadget que Revoluciona Tu Hogar",
+      "angle": "Top 1 Gadget que Revoluciona Tu Hogar",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 1,
+      "introScript": "Imagina un dispositivo que transforma el aire de tu casa en una experiencia sensorial única. Con tecnología avanzada, este gadget te ofrece la posibilidad de cambiar el ambiente de cada habitación a tu gusto. Desde ajustar la iluminación hasta controlar el aroma ambiental, es como tener un asistente personal para el confort de tu hogar. ¿Quieres saber de qué gadget estamos hablando? Entonces no te pierdas este video, porque lo que descubrirás sobre este innovador producto podría cambiar por completo tu forma de vivir en casa.",
+      "keywords": [
+        "gadget",
+        "revoluciona",
+        "hogar"
+      ],
+      "estimatedViews": 5795,
+      "bestPublishTime": "2026-07-16T19:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "AromaTech AromaCube",
+          "searchTermEn": "AromaTech AromaCube diffuser",
+          "id": "B0DG1ZHG2W",
+          "filename": "B0DG1ZHG2W.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-07-09T16:56:13.514Z",
+      "_requestedCount": 1,
+      "_adaptedCount": 1,
+      "introProductsOrder": [
+        {
+          "nombre": "AromaTech AromaCube",
+          "id": "B0DG1ZHG2W",
+          "filename": "B0DG1ZHG2W_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0DG1ZHG2W_combined.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1783616296480_1a3c89"
+    },
+    "generatedAt": "2026-07-09T16:58:26.920Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "AromaTech AromaCube",
+        "searchTermEn": "AromaTech AromaCube diffuser",
+        "id": "B0DG1ZHG2W",
+        "filename": "B0DG1ZHG2W.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 1 Gadget que Revoluciona Tu Hogar\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\n\n\n[25s-35s] INTRODUCTION\n\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] AROMATECH AROMACUBE\n¿Sabías que un aroma puede transformar tu espacio en segundos...? El AromaTech AromaCube, con tecnología de nebulización premium, perfuma hasta mil quinientos pies cuadrados. Funciona sin agua ni calor; el aire filtrado dispersa aromas puros y consistentes. Abre la parte superior. Atornilla la botella de sesenta mililitros. Presiona el botón; ajusta intensidad con la app Bluetooth. Ambiente perfumado sin esfuerzo; como un lujoso hotel. Ideal para hogares grandes o boutiques.\nSu precio actual ronda los... ciento treinta dólares. Link en comentarios.\n\n[VISUALS: Product image: AromaTech AromaCube]\n\n[10 seconds] CONCLUSION\n\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:10\nTONE: engaging\nPACING: quick\nKEYWORDS: gadget, revoluciona, hogar\n"
+}

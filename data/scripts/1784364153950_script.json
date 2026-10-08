@@ -1,0 +1,133 @@
+{
+  "title": "Top 1 Gadgets que tu Mamá Necesita Ahora Mismo",
+  "hook": {
+    "type": "statement",
+    "text": "",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "25s-35s"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Ampere Shower Power",
+        "productId": "B0DB18QHMS",
+        "productName": "Ampere Shower Power",
+        "filename": "B0DB18QHMS.mp4",
+        "asin": "B0DB18QHMS",
+        "videoDuration": 35.237467,
+        "estimatedAudioSeconds": null,
+        "framework": "problema_solucion",
+        "narracionSegments": null,
+        "content": [
+          "",
+          "Su precio actual ronda los... 24 dólares. ¡Link ya!"
+        ],
+        "visuals": [
+          "Product image: Ampere Shower Power"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0DB18QHMS.mp4",
+        "precio": "$24",
+        "productPhoto": "https://m.media-amazon.com/images/I/51XU6MvjJVL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "Protección IP67 y Flotabilidad: Altavoz impermeable diseñado para resistir condiciones exteriores adversas y que incluso puede flotar. El altavoz puede sumergirse hasta 3.3 ft de profundidad durante 30 minutos, lo que lo hace ideal para una variedad de actividades. Ya sea que estés disfrutando de una ducha, acampando en la naturaleza, teniendo un picnic en la playa o navegando en un lago, este altavoz asegura que tus melodías favoritas siempre estén contigo.",
+          "\"\"\"Reproducción de 20 horas: Disfruta de hasta 20 horas de música ininterrumpida con una sola carga con este altavoz Bluetooth portátil, perfecto para duchas, aventuras al aire libre prolongadas, reuniones durante todo el día, caminatas por las montañas o relajarte junto a la piscina.\"\"\"",
+          "Listo para el exterior y portátil: El diseño ligero y la correa incluida hacen que este altavoz mini sea lo suficientemente portátil como para llevarlo a cualquier lugar, ya sea que estés duchándote, acampando, haciendo senderismo o montando en bicicleta.",
+          "Soporta emparejamiento estéreo inalámbrico: Habilita el emparejamiento True Wireless Stereo (TWS) para conectar de forma inalámbrica dos altavoces y obtener un sonido más rico y envolvente con separación estéreo. Para habilitar el emparejamiento TWS, conecta un altavoz a tu smartphone y luego presiona y mantén presionado el botón de Bluetooth en ambos altavoces durante 2 segundos.",
+          "Sonido Sorprendentemente Potente: A pesar de su tamaño compacto, este altavoz portátil ofrece un sonido potente y contundente con una salida de 5W, asegurando un rendimiento de audio claro y dinámico."
+        ]
+      }
+    ],
+    "totalDuration": 40
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      ""
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:10",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "necesita",
+    "ahora",
+    "mismo"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 1 Gadgets que tu Mamá Necesita Ahora Mismo",
+      "angle": "Top 2 Gadgets que tu Mamá Necesita Ahora Mismo",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 1,
+      "introScript": "Imagínate un gadget que convierte cualquier superficie en un altavoz potentísimo, o un elegante espejo que además es un asistente personal de belleza. Hoy te traigo dos inventos imprescindibles para cualquier mamá moderna que quiere simplificar su vida y darle un toque tecnológico. Prepárate para descubrir cómo estos dispositivos transformarán su día a día con un simple toque de innovación.",
+      "keywords": [
+        "gadgets",
+        "necesita",
+        "ahora",
+        "mismo"
+      ],
+      "estimatedViews": 5877,
+      "bestPublishTime": "2026-07-24T20:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Ampere Shower Power",
+          "searchTermEn": "Ampere Shower Power speaker",
+          "id": "B0DB18QHMS",
+          "filename": "B0DB18QHMS.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-07-18T08:38:36.591Z",
+      "_requestedCount": 2,
+      "_adaptedCount": 1,
+      "_adaptationNote": "ATENCIÓN: El usuario pidió 2 productos pero solo hay 1 clips de video disponibles. El guion, título y narrativa deben referirse EXCLUSIVAMENTE a 1 productos.",
+      "introProductsOrder": [
+        {
+          "nombre": "Ampere Shower Power",
+          "id": "B0DB18QHMS",
+          "filename": "B0DB18QHMS.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0DB18QHMS.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1784364141450_k5n3jo"
+    },
+    "generatedAt": "2026-07-18T08:42:23.659Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Ampere Shower Power",
+        "searchTermEn": "Ampere Shower Power speaker",
+        "id": "B0DB18QHMS",
+        "filename": "B0DB18QHMS.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 1 Gadgets que tu Mamá Necesita Ahora Mismo\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\n\n\n[25s-35s] INTRODUCTION\n\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] AMPERE SHOWER POWER\n\nSu precio actual ronda los... 24 dólares. ¡Link ya!\n\n[VISUALS: Product image: Ampere Shower Power]\n\n[10 seconds] CONCLUSION\n\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:10\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, necesita, ahora, mismo\n"
+}

@@ -1,0 +1,165 @@
+{
+  "title": "Top 3 Gadgets Innovadores en Amazon",
+  "hook": {
+    "type": "statement",
+    "text": "Carga tu teléfono sin cables ni enredos. Digitaliza tus notas y reutilízalas. Lleva tus tarjetas con tecnología de acceso instantáneo.",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "Suscríbete, los links están en el primer comentario. Empecemos.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0:10-0:15"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Magnetic Wireless Charger",
+        "productId": "B0DLP157QH",
+        "productName": "Magnetic Wireless Charger",
+        "filename": "B0DLP157QH.mp4",
+        "content": [
+          "Cansado de cables enredados y cargadores que no encajan bien. El Magnetic Wireless Charger se adhiere magnéticamente para cargar tu iPhone de forma segura y sin esfuerzo. Además, ofrece carga rápida de hasta 15W, completando la batería en solo 2.5 horas.",
+          "Su precio actual en Amazon ronda los... 6 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Magnetic Wireless Charger"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0DLP157QH.mp4",
+        "precio": "$6",
+        "productPhoto": "https://m.media-amazon.com/images/I/615E2JtQuEL.jpg"
+      },
+      {
+        "type": "content",
+        "title": "Rocketbook Smart Notebook",
+        "productId": "B071Y3MSRK",
+        "productName": "Rocketbook Smart Notebook",
+        "filename": "B071Y3MSRK.mp4",
+        "content": [
+          "¿Te falta espacio para tus ideas y notas importantes? El Rocketbook Smart Notebook te permite escribir y luego digitalizar tus notas para tenerlas siempre a mano. Reutiliza sus páginas gracias a su diseño borrable con un simple paño húmedo.",
+          "Su precio actual en Amazon ronda los... 25 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Rocketbook Smart Notebook"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B071Y3MSRK.mp4",
+        "precio": "$25",
+        "productPhoto": "https://m.media-amazon.com/images/I/71hJbizdW8L.jpg"
+      },
+      {
+        "type": "content",
+        "title": "Ekster Parliament Wallet",
+        "productId": "B07PXM8HX7",
+        "productName": "Ekster Parliament Wallet",
+        "filename": "B07PXM8HX7.mp4",
+        "content": [
+          "Perder el tiempo buscando tarjetas en una billetera desorganizada es cosa del pasado. La Ekster Parliament Wallet ofrece acceso intuitivo y protección RFID en un diseño compacto y elegante. Capaz de guardar más de 10 tarjetas manteniendo un perfil ultra delgado.",
+          "Su precio actual en Amazon ronda los... 99 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Ekster Parliament Wallet"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07PXM8HX7.mp4",
+        "precio": "$99",
+        "productPhoto": "https://m.media-amazon.com/images/I/51RE47h+DGL.jpg"
+      }
+    ],
+    "totalDuration": 75
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "Dale a like y recuerda que los links están en el primer comentario."
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:45",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "innovadores",
+    "amazon"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 3 Gadgets Innovadores en Amazon",
+      "angle": "Top 3 Gadgets Innovadores en Amazon",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 3,
+      "introScript": "¿Un cargador que se adhiere magnéticamente a tu teléfono? ¿Qué tal un cuaderno que puedes reutilizar infinitamente? Prepárate para descubrir los gadgets más impresionantes y recién llegados a Amazon que están revolucionando nuestras vidas diarias.",
+      "keywords": [
+        "gadgets",
+        "innovadores",
+        "amazon"
+      ],
+      "estimatedViews": 6371,
+      "bestPublishTime": "2026-05-05T19:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Magnetic Wireless Charger",
+          "searchTermEn": "magnetic wireless charger phone",
+          "id": "B0DLP157QH",
+          "filename": "B0DLP157QH.mp4"
+        },
+        {
+          "nombre": "Rocketbook Smart Notebook",
+          "searchTermEn": "Rocketbook reusable notebook",
+          "id": "B071Y3MSRK",
+          "filename": "B071Y3MSRK.mp4"
+        },
+        {
+          "nombre": "Ekster Parliament Wallet",
+          "searchTermEn": "Ekster Parliament smart wallet",
+          "id": "B07PXM8HX7",
+          "filename": "B07PXM8HX7.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-04-29T21:50:14.842Z",
+      "_requestedCount": 3,
+      "_adaptedCount": 3,
+      "_scriptNonce": "nonce_1777499702544_vv6p7y"
+    },
+    "generatedAt": "2026-04-29T21:55:09.048Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Magnetic Wireless Charger",
+        "searchTermEn": "magnetic wireless charger phone",
+        "id": "B0DLP157QH",
+        "filename": "B0DLP157QH.mp4"
+      },
+      {
+        "nombre": "Rocketbook Smart Notebook",
+        "searchTermEn": "Rocketbook reusable notebook",
+        "id": "B071Y3MSRK",
+        "filename": "B071Y3MSRK.mp4"
+      },
+      {
+        "nombre": "Ekster Parliament Wallet",
+        "searchTermEn": "Ekster Parliament smart wallet",
+        "id": "B07PXM8HX7",
+        "filename": "B07PXM8HX7.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 3 Gadgets Innovadores en Amazon\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\nCarga tu teléfono sin cables ni enredos. Digitaliza tus notas y reutilízalas. Lleva tus tarjetas con tecnología de acceso instantáneo.\n\n[0:10-0:15] INTRODUCTION\nSuscríbete, los links están en el primer comentario. Empecemos.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] MAGNETIC WIRELESS CHARGER\nCansado de cables enredados y cargadores que no encajan bien. El Magnetic Wireless Charger se adhiere magnéticamente para cargar tu iPhone de forma segura y sin esfuerzo. Además, ofrece carga rápida de hasta 15W, completando la batería en solo 2.5 horas.\nSu precio actual en Amazon ronda los... 6 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Magnetic Wireless Charger]\n\n[0:25] ROCKETBOOK SMART NOTEBOOK\n¿Te falta espacio para tus ideas y notas importantes? El Rocketbook Smart Notebook te permite escribir y luego digitalizar tus notas para tenerlas siempre a mano. Reutiliza sus páginas gracias a su diseño borrable con un simple paño húmedo.\nSu precio actual en Amazon ronda los... 25 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Rocketbook Smart Notebook]\n\n[0:25] EKSTER PARLIAMENT WALLET\nPerder el tiempo buscando tarjetas en una billetera desorganizada es cosa del pasado. La Ekster Parliament Wallet ofrece acceso intuitivo y protección RFID en un diseño compacto y elegante. Capaz de guardar más de 10 tarjetas manteniendo un perfil ultra delgado.\nSu precio actual en Amazon ronda los... 99 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Ekster Parliament Wallet]\n\n[10 seconds] CONCLUSION\nDale a like y recuerda que los links están en el primer comentario.\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:45\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, innovadores, amazon\n"
+}

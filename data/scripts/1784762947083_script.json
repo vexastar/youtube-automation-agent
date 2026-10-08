@@ -1,0 +1,130 @@
+{
+  "title": "Top 1 Gadget Musical que Te Sorprenderá",
+  "hook": {
+    "type": "statement",
+    "text": "",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "25s-35s"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Jamstik Guitar Trainer",
+        "productId": "B07SJPMRJF",
+        "productName": "Jamstik Guitar Trainer",
+        "filename": "B07SJPMRJF.mp4",
+        "asin": "B07SJPMRJF",
+        "videoDuration": 153.888333,
+        "estimatedAudioSeconds": 34,
+        "framework": "experiencia_sensorial",
+        "narracionSegments": null,
+        "content": [
+          "¿Listo para dominar la guitarra...? El Jamstik Guitar Trainer te ofrece una práctica sensorial completa. Seis cuerdas, seis trastes; todo en silencio; para que refines tu técnica sin molestar a nadie. Usa su pantalla rotatable para ver acordes precisos; y desarrolla memoria muscular con sus cuerdas de acero genuinas. Perfecto para estudiantes o principiantes; ajusta a tu ritmo con el metrónomo integrado. Desplázate libremente. Cabe en tu bolso... Prueba y siente la mejora.",
+          "Su precio actual ronda los... treinta y siete dólares. Link en comentarios."
+        ],
+        "visuals": [
+          "Product image: Jamstik Guitar Trainer"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07SJPMRJF.mp4",
+        "precio": "$37",
+        "productPhoto": "https://m.media-amazon.com/images/I/612skEkJPLL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "♫ Herramienta de Entrenamiento de Acordes para Guitarra Inteligente – 6 Cuerdas 6 Trastes que te permite practicar escalas y combinaciones de notas más versátiles; diseño de una pantalla rotatable que puede mostrar los acordes más básicos y comunes con posiciones de dedos precisas, ya que hemos incluido más de 400 tipos de acordes dentro del IC. Ideal para principiantes en guitarra/estudiantes para desarrollar la memoria muscular para los acordes y es una herramienta perfecta para el ejercicio de colocación de dedos.",
+          "\"\"\"♫ Práctica de Acordes Silenciosa – Sin Sonido y No Afinable: Este entrenador de guitarra está diseñado para la práctica silenciosa de acordes y colocación de dedos. No produce sonido de guitarra, ya que su objetivo es mejorar la sensibilidad de los dedos sin las restricciones del entorno. Te permite practicar en cualquier lugar: coches, aviones, metro, la oficina, la escuela, la mesa de cena. Sin ruido significa sin restricciones.\"\"\"",
+          "♫ Cuerdas Genuine – Equipadas con cuerdas de acero genuinas. Las cuerdas de acero están chapadas para prevenir la oxidación. Practicar acordes a través de las cuerdas de acero genuinas de guitarra mantiene la misma sensación al tocar la guitarra. Esto asegura que tu práctica de colocación de acordes y dedos se transfiera sin problemas a la interpretación real de la guitarra, sin ajustes incómodos al cambiar a tu instrumento.",
+          "♫ Portátil y Conveniente – Siempre al Alcance: Compacto y ligero, cabe fácilmente en tu bolsillo o bolso. Incluye una funda de transporte para protección y portabilidad. No es tan voluminoso como una guitarra. Dondequiera que la vida te lleve, tu práctica de guitarra puede acompañarte. La batería CR2032 está incluida en el paquete. La llave te permite ajustar la tensión de las cuerdas a tu preferencia, proporcionando la sensación perfecta para sesiones de práctica prolongadas.",
+          "♫ Bonus Metronomo Integrado – Mantente en ritmo mientras practicas con el metronomo integrado, ajustable a tu tempo preferido. El metronomo es solo para el tiempo; no produce tonos de guitarra."
+        ]
+      }
+    ],
+    "totalDuration": 40
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      ""
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:10",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadget",
+    "musical",
+    "sorprender"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 1 Gadget Musical que Te Sorprenderá",
+      "angle": "Top 1 Gadget Musical que Te Sorprenderá",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 1,
+      "introScript": "¿Alguna vez has soñado con tocar música en cualquier lugar sin siquiera necesitar un instrumento físico? Hoy te mostraré una maravilla tecnológica que hará que todos se sientan como estrellas del rock, incluso quienes nunca han tomado una guitarra. Este gadget es compacto, portátil y transformará cualquier superficie en un escenario musical. ¡Prepárate para descubrir cómo puedes hacer música de una manera totalmente nueva y emocionante! No creerás lo que este pequeño dispositivo puede lograr. Ah, y lo mejor: está disponible ya mismo.",
+      "keywords": [
+        "gadget",
+        "musical",
+        "sorprender"
+      ],
+      "estimatedViews": 5679,
+      "bestPublishTime": "2026-07-29T19:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Jamstik Guitar Trainer",
+          "searchTermEn": "Jamstik portable guitar trainer",
+          "id": "B07SJPMRJF",
+          "filename": "B07SJPMRJF.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-07-22T23:26:17.081Z",
+      "_requestedCount": 1,
+      "_adaptedCount": 1,
+      "introProductsOrder": [
+        {
+          "nombre": "Jamstik Guitar Trainer",
+          "id": "B07SJPMRJF",
+          "filename": "B07SJPMRJF.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07SJPMRJF.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1784762921888_mercpn"
+    },
+    "generatedAt": "2026-07-22T23:28:54.828Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Jamstik Guitar Trainer",
+        "searchTermEn": "Jamstik portable guitar trainer",
+        "id": "B07SJPMRJF",
+        "filename": "B07SJPMRJF.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 1 Gadget Musical que Te Sorprenderá\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\n\n\n[25s-35s] INTRODUCTION\n\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] JAMSTIK GUITAR TRAINER\n¿Listo para dominar la guitarra...? El Jamstik Guitar Trainer te ofrece una práctica sensorial completa. Seis cuerdas, seis trastes; todo en silencio; para que refines tu técnica sin molestar a nadie. Usa su pantalla rotatable para ver acordes precisos; y desarrolla memoria muscular con sus cuerdas de acero genuinas. Perfecto para estudiantes o principiantes; ajusta a tu ritmo con el metrónomo integrado. Desplázate libremente. Cabe en tu bolso... Prueba y siente la mejora.\nSu precio actual ronda los... treinta y siete dólares. Link en comentarios.\n\n[VISUALS: Product image: Jamstik Guitar Trainer]\n\n[10 seconds] CONCLUSION\n\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:10\nTONE: engaging\nPACING: quick\nKEYWORDS: gadget, musical, sorprender\n"
+}

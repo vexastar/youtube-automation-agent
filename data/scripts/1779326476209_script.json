@@ -1,0 +1,258 @@
+{
+  "title": "Top 3 Laptops Portátiles que Todo Gamer Debe Ver en Amazon",
+  "hook": {
+    "type": "statement",
+    "text": "Potencia gráfica que redefine el detalle visual. Velocidad impresionante para la victoria.",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "¿Cuál querrías tú? Los links están en el primer comentario.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0:10-0:15"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Razer Blade 15",
+        "productId": "B086M8PQYR",
+        "productName": "Razer Blade 15",
+        "filename": "B086M8PQYR.mp4",
+        "asin": "B086M8PQYR",
+        "clipDuration": 24.42,
+        "estimatedAudioSeconds": 27,
+        "framework": "experiencia_sensorial",
+        "narracionSegments": null,
+        "content": [
+          "La experiencia visual se transforma con su pantalla de 300Hz, sumérgete en cada detalle con gráficos hasta un 25% más rápidos gracias a su RTX 2080 Super. El Razer Blade 15 redefine cómo experimentas tu mundo digital.",
+          "Su precio actual en Amazon ronda los... 989 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Razer Blade 15"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B086M8PQYR_combined.mp4",
+        "precio": "$989",
+        "productPhoto": "https://m.media-amazon.com/images/I/711CSlbuysL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B086M8PQYR\\scenes_v1\\B086M8PQYR_scene_02.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Laptop encendida",
+            "raw": "9|Laptop encendida"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B086M8PQYR\\scenes_v1\\B086M8PQYR_scene_01.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Laptop gaming",
+            "raw": "9|Laptop gaming"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B086M8PQYR\\scenes_v1\\B086M8PQYR_scene_04.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "CPU visible",
+            "raw": "5|CPU visible"
+          }
+        ],
+        "features": [
+          "Aspect Ratio:16:9",
+          "More Power, More Cores: The 8-Core 10th Gen Intel Core i7-10875H processor provides the ultimate level of performance with up to 5. 1GHz Max Turbo.",
+          "Studio Ready: The NVIDIA GeForce RTX 2080 Super with Max-Q Design (8GB GDDR6 VRAM) graphics is up to 25% faster than the original RTX 20 Series with more cores and higher clocks.",
+          "More Frames: Incredible performance paired with the fast 300Hz 15.6\" Full HD thin bezel display helps edge out the win.",
+          "Thin and Compact: The CNC aluminum unibody frame houses incredible performance in the most compact footprint possible, while remaining remarkably durable and just 0. 7\" thin."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "ASUS ROG Zephyrus G14",
+        "productId": "B0FCPP5K2R",
+        "productName": "ASUS ROG Zephyrus G14",
+        "filename": "B0FCPP5K2R.mp4",
+        "asin": "B0FCPP5K2R",
+        "clipDuration": 60.06,
+        "estimatedAudioSeconds": 74,
+        "framework": "problema_solucion",
+        "narracionSegments": null,
+        "content": [
+          "¿Pasas trabajo con gráficos lentos? El ASUS ROG Zephyrus G14 revoluciona tus sesiones de juego con la GPU NVIDIA RTX 5070 Ti, proporcionando imágenes reales y detalladas que te sumergen. Ligero y delicado, su chasis de aluminio es un equilibrio entre durabilidad y portabilidad.",
+          "Su precio actual en Amazon ronda los... 2509 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: ASUS ROG Zephyrus G14"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0FCPP5K2R_combined.mp4",
+        "precio": "$2509",
+        "productPhoto": "https://m.media-amazon.com/images/I/412R6t8W9ZL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "The AMD Ryzen AI 9 HX 370 Processor Blends Power and Performance with Ease Armed with 12 cores and 24 threads, AMD Ryzen AI 9 HX 370 Processor powers your laptop with ease. With up to 50 TOPS in AI Performance, its integrated AI Accelerators are ready to enhance your experience.",
+          "Experience Cutting Edge Graphics with NVIDIA GeForce RTX 5070 Ti Laptop GPU Maximize your gaming and creativity with NVIDIA GeForce RTX 5070 Ti GPU. Game-changing features like DLSS 4 and ray racing technology bring game graphics to life by simulating sunlight and creating a realistic environment for an immersive gaming experience.",
+          "Feel the luxury with the premium Aluminum CNC Chassis. The Zephyrus G14 sports a premium aluminum chassis meticulously crafted through CNC machining. Along with the customizable Slash lighting array, this laptop is the perfect blend of durability, elegance, and individuality.",
+          "3.46lbs Light and 0.63 Inches Slim Embrace portability without compromising. The ROG Zephyrus G14’s ultra slim 0.63” profile and lightweight 3.46lbs 14-inch chassis redefines gaming on the go.",
+          "Advanced Connectivity Stay connected with dual USB-C ports, HDMI 2.1, USB 3.2 Gen2 Type-A ports, and a dedicated UHS-II MicroSD card reader."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "MSI GS66 Stealth",
+        "productId": "B0D827FRD3",
+        "productName": "MSI GS66 Stealth",
+        "filename": "B0D827FRD3.mp4",
+        "asin": "B0D827FRD3",
+        "clipDuration": 60.06,
+        "estimatedAudioSeconds": 74,
+        "framework": "enfoque_caracteristica",
+        "narracionSegments": null,
+        "content": [
+          "-Impactante- rendimiento con Intel Core i7 Hexa Core, diseñado para multitarea impecable y juegos envolventes gracias a su display de 240Hz Full HD. La solución perfecta para quienes necesitan poder y velocidad sin comprometer el estilo ni la movilidad.",
+          "Su precio actual en Amazon ronda los... 1868 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: MSI GS66 Stealth"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0D827FRD3_combined.mp4",
+        "precio": "$1868",
+        "productPhoto": "https://m.media-amazon.com/images/I/61OwK5s8miL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "This Renewed product is tested and certified to look and work like new, with limited to no signs of wear. The refurbishing process includes functionality testing, inspection, and repackaging. The product comes with 90-day warranty",
+          "[Upgraded] Seal is opened for Hardware/Software upgrade only to enhance performance. 15.6\" Full HD (1920x1080) 240Hz Display; Wi-Fi 6 AX201 Wifi, Bluetooth 5.1, Ethernet LAN (RJ-45), 720p HD Webcam, Per Key RGB Backlit, .",
+          "[Powerful Performance with Intel Core i7-10750H Hexa Core] 10th Gen Intel Core i7-10750H 2.60GHz Processor (upto 5 GHz, 12MB Cache, 6-Cores, ) ; NVIDIA RTX 2060 6GB GDDR6 Dual (Integrated+Dedicated) Graphics, .",
+          "[High Speed and Multitasking] 32GB DDR4 SODIMM; 180W Power Supply, 4-Cell 99 WHr Battery; Black Color, .",
+          "[Enormous Storage] 1TB PCIe NVMe SSD; 3 USB 3.1 Gen2, HDMI, Thunderbolt 3 (Type-C), No Optical Drive, Headphone/Microphone Combo Jack. Windows 11 Pro-64.,"
+        ]
+      }
+    ],
+    "totalDuration": 75
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "-Pide- un like si este video te ayudó y recuerda que los links están en el primer comentario."
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:45",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "laptops",
+    "porttiles",
+    "todo",
+    "gamer",
+    "debe",
+    "amazon"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 3 Laptops Portátiles que Todo Gamer Debe Ver en Amazon",
+      "angle": "Top 3 Laptops Portátiles que Todo Gamer Debe Ver en Amazon",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 3,
+      "introScript": "¿Un portátil que te sumerge en los juegos como si estuvieras en una realidad alternativa? ¿Quizás uno que mantiene la máxima frescura incluso en las batallas más intensas? Hoy te presento las laptops para gamers que están revolucionando la forma de jugar. Prepárate para descubrir estas bestias tecnológicas que no querrás perderte.",
+      "keywords": [
+        "laptops",
+        "porttiles",
+        "todo",
+        "gamer",
+        "debe",
+        "amazon"
+      ],
+      "estimatedViews": 4060,
+      "bestPublishTime": "2026-05-22T20:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Razer Blade 15",
+          "searchTermEn": "razer blade 15 gaming laptop",
+          "id": "B086M8PQYR",
+          "filename": "B086M8PQYR.mp4"
+        },
+        {
+          "nombre": "ASUS ROG Zephyrus G14",
+          "searchTermEn": "asus rog zephyrus g14 laptop",
+          "id": "B0FCPP5K2R",
+          "filename": "B0FCPP5K2R.mp4"
+        },
+        {
+          "nombre": "MSI GS66 Stealth",
+          "searchTermEn": "msi gs66 stealth gaming laptop",
+          "id": "B0D827FRD3",
+          "filename": "B0D827FRD3.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-05-21T01:13:54.785Z",
+      "_requestedCount": 3,
+      "_adaptedCount": 3,
+      "introProductsOrder": [
+        {
+          "nombre": "ASUS ROG Zephyrus G14",
+          "id": "B0FCPP5K2R",
+          "filename": "B0FCPP5K2R_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0FCPP5K2R_combined.mp4"
+        },
+        {
+          "nombre": "Razer Blade 15",
+          "id": "B086M8PQYR",
+          "filename": "B086M8PQYR_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B086M8PQYR_combined.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1779326419784_ue1nr1"
+    },
+    "generatedAt": "2026-05-21T01:20:44.579Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Razer Blade 15",
+        "searchTermEn": "razer blade 15 gaming laptop",
+        "id": "B086M8PQYR",
+        "filename": "B086M8PQYR.mp4"
+      },
+      {
+        "nombre": "ASUS ROG Zephyrus G14",
+        "searchTermEn": "asus rog zephyrus g14 laptop",
+        "id": "B0FCPP5K2R",
+        "filename": "B0FCPP5K2R.mp4"
+      },
+      {
+        "nombre": "MSI GS66 Stealth",
+        "searchTermEn": "msi gs66 stealth gaming laptop",
+        "id": "B0D827FRD3",
+        "filename": "B0D827FRD3.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 3 Laptops Portátiles que Todo Gamer Debe Ver en Amazon\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\nPotencia gráfica que redefine el detalle visual. Velocidad impresionante para la victoria.\n\n[0:10-0:15] INTRODUCTION\n¿Cuál querrías tú? Los links están en el primer comentario.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] RAZER BLADE 15\nLa experiencia visual se transforma con su pantalla de 300Hz, sumérgete en cada detalle con gráficos hasta un 25% más rápidos gracias a su RTX 2080 Super. El Razer Blade 15 redefine cómo experimentas tu mundo digital.\nSu precio actual en Amazon ronda los... 989 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Razer Blade 15]\n\n[0:25] ASUS ROG ZEPHYRUS G14\n¿Pasas trabajo con gráficos lentos? El ASUS ROG Zephyrus G14 revoluciona tus sesiones de juego con la GPU NVIDIA RTX 5070 Ti, proporcionando imágenes reales y detalladas que te sumergen. Ligero y delicado, su chasis de aluminio es un equilibrio entre durabilidad y portabilidad.\nSu precio actual en Amazon ronda los... 2509 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: ASUS ROG Zephyrus G14]\n\n[0:25] MSI GS66 STEALTH\n-Impactante- rendimiento con Intel Core i7 Hexa Core, diseñado para multitarea impecable y juegos envolventes gracias a su display de 240Hz Full HD. La solución perfecta para quienes necesitan poder y velocidad sin comprometer el estilo ni la movilidad.\nSu precio actual en Amazon ronda los... 1868 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: MSI GS66 Stealth]\n\n[10 seconds] CONCLUSION\n-Pide- un like si este video te ayudó y recuerda que los links están en el primer comentario.\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:45\nTONE: engaging\nPACING: quick\nKEYWORDS: laptops, porttiles, todo, gamer, debe, amazon\n"
+}

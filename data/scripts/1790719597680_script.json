@@ -1,0 +1,134 @@
+{
+  "title": "Top 1 Gadget Increíble para tu Cocina",
+  "hook": {
+    "type": "statement",
+    "text": "Si buscas accesorios que de verdad sean útiles, atento a esta pieza que transforma cómo cocinas tus alimentos en un instante, junto con otra que calienta uniformemente cualquier preparación. Te rescatarán de esos pequeños problemas culinarios que aparecen cuando menos lo esperas. Entre opciones económicas y herramientas inteligentes, recuerda los links en el primer comentario. Prepárate.",
+    "duration": "0:00-0:15"
+  },
+  "introduction": {
+    "greeting": "",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0s"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Our Place Wonder Oven Pro Essentials",
+        "productId": "B0FTVMGGWZ",
+        "productName": "Our Place Wonder Oven Pro Essentials",
+        "filename": "B0FTVMGGWZ.mp4",
+        "asin": "B0FTVMGGWZ",
+        "videoDuration": 42.877433,
+        "estimatedAudioSeconds": 38,
+        "framework": "experiencia_sensorial",
+        "narracionSegments": null,
+        "content": [
+          "Precalentar el horno solo para multiplicar la espera cocina tras cocina puede ser un desvelo continuo. Our Place Wonder Oven Pro Essentials te permite hornear el doble o freír al aire con mayor espacio gracias a su bandeja adicional y cesta versátil. Con un recubrimiento cerámico antiadherente exento de químicos dañinos, asegura una limpieza rápida y os ofrece alimentos crujientes por igual en todas partes usando circulación de aire caliente circular mientras integra aluminio resistente que se siente liviano al levantar.",
+          "Por unos treinta y siete dólares, coliérelo ya en Amazon para optimizar vuestra cocina."
+        ],
+        "visuals": [
+          "Product image: Our Place Wonder Oven Pro Essentials"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0FTVMGGWZ.mp4",
+        "precio": "$37",
+        "productPhoto": "https://m.media-amazon.com/images/I/71SHFH-BFPL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "DOBLE SU CAPACIDAD: Diseñado para el Wonder Oven Pro, este kit incluye una bandeja para hornear adicional y una cesta para freír al aire para que pueda cocinar más a la vez o preparar múltiples recetas una tras otra.",
+          "BAJO EN TOXINAS BANDEJA PARA HORNEAR: Hecha con nuestro recubrimiento cerámico antiadherente patentado que está libre de Forever Chemicals (PFAS, PTFE, PFOA), metales pesados, plomo y cadmio — seguro, fácil de limpiar y diseñado para uso diario.",
+          "CRISPIER, MÁS CRUJIENTE AL FREÍR AL AIRE: Diseñado con un diseño de malla abierta que promueve la circulación de aire caliente a 360°, brindándote alimentos crujientes de manera uniforme por todos lados.",
+          "HERRAMIENTAS VERSÁTILES PARA EL DÍA A DÍA: Ya sea que estés horneando platos principales y guarniciones juntos o cocinando al aire verduras y proteínas a la vez, estos insertos desbloquean el verdadero potencial multilevel de tu horno.",
+          "DURADERO Y LIGERO: Fabricado con aluminio y acero resistentes para un rendimiento duradero mientras se mantiene fácil de manejar y levantar."
+        ],
+        "originalVideoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0FTVMGGWZ.mp4"
+      }
+    ],
+    "totalDuration": 40
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "Gracias por llegar hasta aquí. El próximo top será aún más loco. Recuerda los links en el primer comentario."
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "",
+    "like": "",
+    "comment": "",
+    "nextVideo": "",
+    "duration": "0 seconds"
+  },
+  "duration": "1:10",
+  "tone": "engaging",
+  "tone_variant": "analítico y preciso, como un ingeniero que explica por qué esto es superior",
+  "pacing": "quick",
+  "keywords": [
+    "gadget",
+    "increble",
+    "para",
+    "cocina"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 1 Gadget Increíble para tu Cocina",
+      "angle": "Top 1 Gadget Increíble para tu Cocina",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 1,
+      "introScript": "Imagina preparar tus comidas favoritas sin preocuparte por medidas incorrectas o ingredientes faltantes. Hoy te presento un gadget para tu cocina que reescribirá por completo cómo cocinas en casa. Con funciones que van desde recordarte recetas con precisión milimétrica hasta ajustar automáticamente la temperatura y el tiempo de cocción para que cada platillo sea perfecto, este dispositivo es una verdadera maravilla. Además, olvídate de los derrames y desorden, ya que su diseño intuitivo promueve una experiencia culinaria impecable. ¡Quédate con nosotros para descubrir de qué se trata!",
+      "keywords": [
+        "gadget",
+        "increble",
+        "para",
+        "cocina"
+      ],
+      "estimatedViews": 4721,
+      "bestPublishTime": "2026-09-30T19:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Our Place Wonder Oven Pro Essentials",
+          "searchTermEn": "Perfect Bake Pro Kit",
+          "id": "B0FTVMGGWZ",
+          "filename": "B0FTVMGGWZ.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-09-29T22:04:48.134Z",
+      "_requestedCount": 1,
+      "_adaptedCount": 1,
+      "introProductsOrder": [
+        {
+          "nombre": "Our Place Wonder Oven Pro Essentials",
+          "id": "B0FTVMGGWZ",
+          "filename": "B0FTVMGGWZ.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0FTVMGGWZ.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1790719574497_mxcg3i"
+    },
+    "generatedAt": "2026-09-29T22:06:24.342Z",
+    "version": "4.0-dynamic-rotator",
+    "productos": [
+      {
+        "nombre": "Our Place Wonder Oven Pro Essentials",
+        "searchTermEn": "Perfect Bake Pro Kit",
+        "id": "B0FTVMGGWZ",
+        "filename": "B0FTVMGGWZ.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 1 Gadget Increíble para tu Cocina\n\n══════════════════════════════════════════════════\n\n[0:00-0:15] HOOK\nSi buscas accesorios que de verdad sean útiles, atento a esta pieza que transforma cómo cocinas tus alimentos en un instante, junto con otra que calienta uniformemente cualquier preparación. Te rescatarán de esos pequeños problemas culinarios que aparecen cuando menos lo esperas. Entre opciones económicas y herramientas inteligentes, recuerda los links en el primer comentario. Prepárate.\n\n[0s] INTRODUCTION\n\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] OUR PLACE WONDER OVEN PRO ESSENTIALS\nPrecalentar el horno solo para multiplicar la espera cocina tras cocina puede ser un desvelo continuo. Our Place Wonder Oven Pro Essentials te permite hornear el doble o freír al aire con mayor espacio gracias a su bandeja adicional y cesta versátil. Con un recubrimiento cerámico antiadherente exento de químicos dañinos, asegura una limpieza rápida y os ofrece alimentos crujientes por igual en todas partes usando circulación de aire caliente circular mientras integra aluminio resistente que se siente liviano al levantar.\nPor unos treinta y siete dólares, coliérelo ya en Amazon para optimizar vuestra cocina.\n\n[VISUALS: Product image: Our Place Wonder Oven Pro Essentials]\n\n[10 seconds] CONCLUSION\nGracias por llegar hasta aquí. El próximo top será aún más loco. Recuerda los links en el primer comentario.\n\n\n\n[0 seconds] CALL TO ACTION\n\n\n\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:10\nTONE: engaging\nPACING: quick\nKEYWORDS: gadget, increble, para, cocina\n"
+}

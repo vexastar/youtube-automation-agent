@@ -1,0 +1,135 @@
+{
+  "title": "Top 1 Gadgets Esenciales para tu Oficina",
+  "hook": {
+    "type": "statement",
+    "text": "Observa en uso real a: BenQ ScreenBar Pro LED Monitor Light.",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "Todo está en el primer comentario. Vamos.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "25s-35s"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "BenQ ScreenBar Pro LED Monitor Light",
+        "productId": "B0CZ9P1QW9",
+        "productName": "BenQ ScreenBar Pro LED Monitor Light",
+        "filename": "B0CZ9P1QW9.mp4",
+        "asin": "B0CZ9P1QW9",
+        "videoDuration": 52.2411,
+        "estimatedAudioSeconds": 35,
+        "framework": "dato_numerico",
+        "narracionSegments": null,
+        "content": [
+          "Ilumina tu mundo. Supera a cualquier lámpara. La BenQ ScreenBar Pro LED Monitor Light ofrece más de mil lux de brillo central. Se adapta a monitores de cero punto diecisiete a dos punto cincuenta y seis pulgadas. Utiliza el sensor ultrasónico para encender al detectarte; apaga automáticamente al irte. Disfruta sin reflejos gracias a su tecnología Asym-Light; mejora la productividad sin fatiga visual. La configuración fácil te mantiene en control sin ocupar espacio.",
+          "Su precio actual ronda los ciento treinta y nueve dólares. Link en comentarios."
+        ],
+        "visuals": [
+          "Product image: BenQ ScreenBar Pro LED Monitor Light"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0CZ9P1QW9.mp4",
+        "precio": "$139",
+        "productPhoto": "https://m.media-amazon.com/images/I/51FB1nRWx-L.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "ILUMINACIÓN BRILLANTE Y ULTRANCHA – ScreenBar Pro ofrece más de 1000lx de brillo central y un rango de 500lx dentro de 33\"x20\" (85cmx50cm), superando a la mayoría de las lámparas de escritorio y mejorando la comodidad visual con una iluminación amplia.",
+          "ALTA COMPATIBILIDAD – Se adapta a monitores de 0.17\" - 2.56\" (0.43cm-6.5cm) de grosor y curvatura de 1000-1800R. El diseño de abrazadera patentado se adapta a monitores con diseños de parte trasera especiales o biseles superiores no planos. Configuración fácil y sin obstrucción a la lente de la cámara.",
+          "SENSOR DE MOVIMIENTO – El sensor de movimiento ultrasónico detecta movimientos dentro de un rango de diámetro de 24\"±4\" (60cm±10cm), encendiéndose automáticamente cuando estás cerca y apagándose después de 5 minutos de ausencia para ahorrar energía.",
+          "TECNOLOGÍA ASYM-LIGHT – La óptica asimétrica única de ScreenBar Pro previene el reflejo en la pantalla y el deslumbramiento directo, iluminando el escritorio para mejorar la productividad mientras reduce la fatiga visual.",
+          "AHORRO DE ESPACIO – ScreenBar Pro integra botones de función convenientes para ajustes fáciles y se coloca directamente sobre los monitores para ahorrar espacio en el escritorio. Alimentado a través de USB-C o con el adaptador incluido para un uso flexible."
+        ],
+        "originalVideoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0CZ9P1QW9.mp4"
+      }
+    ],
+    "totalDuration": 40
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      ""
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:10",
+  "tone": "engaging",
+  "tone_variant": "entusiasta y acelerado, como un presentador de teletienda pero sin relleno ni repetición",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "esenciales",
+    "para",
+    "oficina"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 1 Gadgets Esenciales para tu Oficina",
+      "angle": "Top 2 Gadgets Esenciales para tu Oficina",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 1,
+      "introScript": "¿Un teclado láser que transforma cualquier superficie en tu estación de trabajo? ¿O una lámpara inteligente que ajusta la luz según tu estado de ánimo? Hoy te presentamos dos innovaciones que llevarán tu oficina al siglo veintiuno. Descubre cómo estos gadgets no solo optimizan tu espacio, sino que además añaden un toque futurista. ¿Estás listo para transformar tu modo de trabajar? Acompáñanos en este recorrido por lo último en tecnología de oficina.",
+      "keywords": [
+        "gadgets",
+        "esenciales",
+        "para",
+        "oficina"
+      ],
+      "estimatedViews": 5009,
+      "bestPublishTime": "2026-09-17T19:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "BenQ ScreenBar Pro LED Monitor Light",
+          "searchTermEn": "BenQ ScreenBar LED Desk Lamp",
+          "id": "B0CZ9P1QW9",
+          "filename": "B0CZ9P1QW9.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-09-11T15:44:59.265Z",
+      "_requestedCount": 2,
+      "_adaptedCount": 1,
+      "_adaptationNote": "ATENCIÓN: El usuario pidió 2 productos pero solo hay 1 clips de video disponibles. El guion, título y narrativa deben referirse EXCLUSIVAMENTE a 1 productos.",
+      "introProductsOrder": [
+        {
+          "nombre": "BenQ ScreenBar Pro LED Monitor Light",
+          "id": "B0CZ9P1QW9",
+          "filename": "B0CZ9P1QW9.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0CZ9P1QW9.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1789141716233_9wqljc"
+    },
+    "generatedAt": "2026-09-11T15:48:48.129Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "BenQ ScreenBar Pro LED Monitor Light",
+        "searchTermEn": "BenQ ScreenBar LED Desk Lamp",
+        "id": "B0CZ9P1QW9",
+        "filename": "B0CZ9P1QW9.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 1 Gadgets Esenciales para tu Oficina\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\nObserva en uso real a: BenQ ScreenBar Pro LED Monitor Light.\n\n[25s-35s] INTRODUCTION\nTodo está en el primer comentario. Vamos.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] BENQ SCREENBAR PRO LED MONITOR LIGHT\nIlumina tu mundo. Supera a cualquier lámpara. La BenQ ScreenBar Pro LED Monitor Light ofrece más de mil lux de brillo central. Se adapta a monitores de cero punto diecisiete a dos punto cincuenta y seis pulgadas. Utiliza el sensor ultrasónico para encender al detectarte; apaga automáticamente al irte. Disfruta sin reflejos gracias a su tecnología Asym-Light; mejora la productividad sin fatiga visual. La configuración fácil te mantiene en control sin ocupar espacio.\nSu precio actual ronda los ciento treinta y nueve dólares. Link en comentarios.\n\n[VISUALS: Product image: BenQ ScreenBar Pro LED Monitor Light]\n\n[10 seconds] CONCLUSION\n\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:10\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, esenciales, para, oficina\n"
+}

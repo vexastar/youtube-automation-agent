@@ -1,0 +1,139 @@
+{
+  "title": "Top 3 Gadgets Imprescindibles para Tu Carro",
+  "hook": {
+    "type": "statement",
+    "text": "¡Prepárate para transformar tu auto en un espacio más inteligente y práctico con estos gadgets asombrosos!",
+    "duration": "0:00-0:05"
+  },
+  "introduction": {
+    "greeting": "Hoy te traemos tres productos innovadores que no pueden faltar en tu coche. Desde mantenerlo limpio y organizado, hasta mejorar tu experiencia de conducción, estos gadgets te sorprenderán.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0:05-0:15"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Cargador UV para auto",
+        "content": [
+          "¿Sabías que podrías desinfectar tu teléfono mientras lo cargas en el auto? El Cargador UV para auto no solo mantiene tu batería a tope, sino que también elimina gérmenes con luz ultravioleta.",
+          "Consíguelo por solo 13.97 dólares en Amazon. El enlace está en la descripción."
+        ],
+        "visuals": [
+          "Product image: Cargador UV para auto"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0FPXTQ52X.mp4",
+        "precio": "13.97"
+      },
+      {
+        "type": "content",
+        "title": "Espejo retrovisor inteligente",
+        "content": [
+          "Imagina un retrovisor que ofrece navegación GPS y cámara de visión trasera en tiempo real. El Espejo retrovisor inteligente convierte tu conducción diaria en una experiencia futurista y segura.",
+          "Disponible por 129.99 dólares en Amazon. No olvides revisar el enlace en la descripción."
+        ],
+        "visuals": [
+          "Product image: Espejo retrovisor inteligente"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0811Q28N6.mp4",
+        "precio": "129.99"
+      },
+      {
+        "type": "content",
+        "title": "Organizador de asiento trasero",
+        "content": [
+          "¿Cansado de encontrar objetos esparcidos por todo el coche? El Organizador de asiento trasero mantiene tus cosas en su lugar y a la mano, haciendo de cada viaje un trayecto ordenado.",
+          "Todo esto por solo 9.99 dólares en Amazon. Encuentra el enlace en la descripción."
+        ],
+        "visuals": [
+          "Product image: Organizador de asiento trasero"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07RNZV64Y.mp4",
+        "precio": "9.99"
+      }
+    ],
+    "totalDuration": 75
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "Espero que hayas disfrutado este video. Si te gustó, no olvides darle like, suscribirte y dejar tus comentarios sobre cuál gadget te encantó más. ¡Hasta la próxima!"
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:45",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "imprescindibles",
+    "para",
+    "carro"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 3 Gadgets Imprescindibles para Tu Carro",
+      "angle": "Top 3 Gadgets Imprescindibles para Tu Carro",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 3,
+      "introScript": "Transforma tu auto en un espacio futurista. ¿Un cargador que desinfecta tu móvil? ¿O un espejo retrovisor con pantalla táctil integrada? Descubre los gadgets que harán que nunca quieras salir de tu coche.",
+      "keywords": [
+        "gadgets",
+        "imprescindibles",
+        "para",
+        "carro"
+      ],
+      "estimatedViews": 6321,
+      "bestPublishTime": "2026-04-09T19:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Cargador UV para auto",
+          "searchTermEn": "car UV phone charger"
+        },
+        {
+          "nombre": "Espejo retrovisor inteligente",
+          "searchTermEn": "smart rearview mirror"
+        },
+        {
+          "nombre": "Organizador de asiento trasero",
+          "searchTermEn": "backseat car organizer"
+        }
+      ],
+      "createdAt": "2026-04-06T16:49:44.473Z"
+    },
+    "generatedAt": "2026-04-06T16:52:06.554Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Cargador UV para auto",
+        "searchTermEn": "car UV phone charger"
+      },
+      {
+        "nombre": "Espejo retrovisor inteligente",
+        "searchTermEn": "smart rearview mirror"
+      },
+      {
+        "nombre": "Organizador de asiento trasero",
+        "searchTermEn": "backseat car organizer"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 3 Gadgets Imprescindibles para Tu Carro\n\n══════════════════════════════════════════════════\n\n[0:00-0:05] HOOK\n¡Prepárate para transformar tu auto en un espacio más inteligente y práctico con estos gadgets asombrosos!\n\n[0:05-0:15] INTRODUCTION\nHoy te traemos tres productos innovadores que no pueden faltar en tu coche. Desde mantenerlo limpio y organizado, hasta mejorar tu experiencia de conducción, estos gadgets te sorprenderán.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] CARGADOR UV PARA AUTO\n¿Sabías que podrías desinfectar tu teléfono mientras lo cargas en el auto? El Cargador UV para auto no solo mantiene tu batería a tope, sino que también elimina gérmenes con luz ultravioleta.\nConsíguelo por solo 13.97 dólares en Amazon. El enlace está en la descripción.\n\n[VISUALS: Product image: Cargador UV para auto]\n\n[0:25] ESPEJO RETROVISOR INTELIGENTE\nImagina un retrovisor que ofrece navegación GPS y cámara de visión trasera en tiempo real. El Espejo retrovisor inteligente convierte tu conducción diaria en una experiencia futurista y segura.\nDisponible por 129.99 dólares en Amazon. No olvides revisar el enlace en la descripción.\n\n[VISUALS: Product image: Espejo retrovisor inteligente]\n\n[0:25] ORGANIZADOR DE ASIENTO TRASERO\n¿Cansado de encontrar objetos esparcidos por todo el coche? El Organizador de asiento trasero mantiene tus cosas en su lugar y a la mano, haciendo de cada viaje un trayecto ordenado.\nTodo esto por solo 9.99 dólares en Amazon. Encuentra el enlace en la descripción.\n\n[VISUALS: Product image: Organizador de asiento trasero]\n\n[10 seconds] CONCLUSION\nEspero que hayas disfrutado este video. Si te gustó, no olvides darle like, suscribirte y dejar tus comentarios sobre cuál gadget te encantó más. ¡Hasta la próxima!\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:45\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, imprescindibles, para, carro\n"
+}

@@ -1,0 +1,134 @@
+{
+  "title": "Top 1 Gadget para mejorar tu cocina ahora",
+  "hook": {
+    "type": "statement",
+    "text": "",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "25s-35s"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Hestan Cue Smart Cooking",
+        "productId": "B0B4J6PXPN",
+        "productName": "Hestan Cue Smart Cooking",
+        "filename": "B0B4J6PXPN.mp4",
+        "asin": "B0B4J6PXPN",
+        "videoDuration": 17.118367,
+        "estimatedAudioSeconds": 32,
+        "framework": "enfoque_caracteristica",
+        "narracionSegments": null,
+        "content": [
+          "\"¿Problemas con cocción desigual? Hestan Cue Smart Cooking garantiza eficiencia impresionante con su tecnología de inducción. Equipado con nueve niveles de potencia y dieciocho configuraciones de temperatura; proporciona calentamiento rápido y distribución de calor uniforme. Presiona botones. Control táctil intuitivo incluso con manos mojadas. Con nuestro diseño de bobina magnética expandida, optimiza energía directa a tu sartén. Limpia fácilmente sin quemaduras en el vidrio... Cocina sin complicaciones.\"",
+          "Su precio actual ronda los... dos mil quinientos dólares. Link en comentarios."
+        ],
+        "visuals": [
+          "Product image: Hestan Cue Smart Cooking"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0B4J6PXPN.mp4",
+        "precio": "$2500",
+        "productPhoto": "https://m.media-amazon.com/images/I/81WEl0aCvCL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "ALTA EFICIENCIA - La placa de inducción ChangBERT ofrece 9 niveles de potencia preestablecidos (200-1800W) y 18 configuraciones de temperatura preestablecidas (120-460℉, 20F por nivel). Con una calificación de eficiencia energética del 83%, el cocinero de inducción es más eficiente que las estufas de gas o eléctricas tradicionales, proporcionando un calentamiento rápido y tiempos de cocción más rápidos.",
+          "\"\"\"SALIDA DE ALTA POTENCIA CONSISTENTEMENTE ESTABLE - Diseñado para un uso constante, cuenta con circuitos de servicio continuo para una cocción ininterrumpida. La tecnología única de control de potencia garantiza una salida de alta potencia estable, reduce la temperatura de la electrónica interna y facilita la disipación de calor con bajo ruido, proporcionando un rendimiento de cocción confiable. Este rendimiento confiable lo distingue de los demás.\"\"\"",
+          "\"\"\"GRAN ÁREA DE COCCIÓN - Presenta un diseño de bobina magnética expandida que optimiza la estructura de enrollado para mejorar la transferencia de energía electromagnética directamente a la batería de cocina, mejorando significativamente la eficiencia de calentamiento y asegurando una distribución de calor más uniforme en la parte inferior de la batería de cocina.\"\"\"",
+          "CERTIFICADO NSF Y GRADO COMERCIAL - Cumple con el estándar comercial UL 197, completamente aprobado por ETL y NSF. Cumple con los estándares de durabilidad de la industria, superando una prueba de caída con un impacto de 1.5 ft lbs. Diseñado para un uso de gran volumen, es ideal para entornos comerciales y profesionales como restaurantes, cocinas industriales y otros servicios de catering.",
+          "FÁCIL DE CONTROLAR Y LIMPIAR - Los botones de control con una respuesta táctil sólida hacen que la operación sea intuitiva y precisa. Con una pantalla simple y clara, el Panel de Control por Teclado proporciona una visibilidad clara y un fácil control, incluso con guantes o manos mojadas. Sin llama abierta ni elemento calefactor, la comida no se quema en la superficie de vidrio, lo que facilita la limpieza de la suciedad grasosa."
+        ]
+      }
+    ],
+    "totalDuration": 40
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      ""
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:10",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadget",
+    "para",
+    "mejorar",
+    "cocina",
+    "ahora"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 1 Gadget para mejorar tu cocina ahora",
+      "angle": "Top 1 Gadget para mejorar tu cocina ahora",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 1,
+      "introScript": "Un dispositivo que finalmente llevará tu cocina al siguiente nivel. Imagina poder medir tus ingredientes con la precisión de un chef profesional. Hoy te presentamos un gadget que no solo hace eso, sino que también se sincroniza con tu smartphone para ofrecerte recetas personalizadas. Este innovador producto promete transformar tu experiencia culinaria y está disponible ahora mismo.",
+      "keywords": [
+        "gadget",
+        "para",
+        "mejorar",
+        "cocina",
+        "ahora"
+      ],
+      "estimatedViews": 3700,
+      "bestPublishTime": "2026-07-29T19:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Hestan Cue Smart Cooking",
+          "searchTermEn": "Hestan Cue smart induction cooktop",
+          "id": "B0B4J6PXPN",
+          "filename": "B0B4J6PXPN.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-07-25T01:10:05.407Z",
+      "_requestedCount": 1,
+      "_adaptedCount": 1,
+      "introProductsOrder": [
+        {
+          "nombre": "Hestan Cue Smart Cooking",
+          "id": "B0B4J6PXPN",
+          "filename": "B0B4J6PXPN.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0B4J6PXPN.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1784941907239_1fob5v"
+    },
+    "generatedAt": "2026-07-25T01:11:54.094Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Hestan Cue Smart Cooking",
+        "searchTermEn": "Hestan Cue smart induction cooktop",
+        "id": "B0B4J6PXPN",
+        "filename": "B0B4J6PXPN.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 1 Gadget para mejorar tu cocina ahora\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\n\n\n[25s-35s] INTRODUCTION\n\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] HESTAN CUE SMART COOKING\n\"¿Problemas con cocción desigual? Hestan Cue Smart Cooking garantiza eficiencia impresionante con su tecnología de inducción. Equipado con nueve niveles de potencia y dieciocho configuraciones de temperatura; proporciona calentamiento rápido y distribución de calor uniforme. Presiona botones. Control táctil intuitivo incluso con manos mojadas. Con nuestro diseño de bobina magnética expandida, optimiza energía directa a tu sartén. Limpia fácilmente sin quemaduras en el vidrio... Cocina sin complicaciones.\"\nSu precio actual ronda los... dos mil quinientos dólares. Link en comentarios.\n\n[VISUALS: Product image: Hestan Cue Smart Cooking]\n\n[10 seconds] CONCLUSION\n\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:10\nTONE: engaging\nPACING: quick\nKEYWORDS: gadget, para, mejorar, cocina, ahora\n"
+}

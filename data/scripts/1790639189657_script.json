@@ -1,0 +1,187 @@
+{
+  "title": "Top 2 Gadgets Extraños en Amazon",
+  "hook": {
+    "type": "statement",
+    "text": "Después de analizar decenas de artículos, te presentamos esta selección definitiva de productos que transformarán tus días lluviosos y tus mañanas cafetaleras. No hay exageraciones ni relleno, solo utilidad real que resolverá tus verdaderos problemas. Los enlaces están en el primer comentario. ¡Comencemos!",
+    "duration": "0:00-0:15"
+  },
+  "introduction": {
+    "greeting": "",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0s"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Paraguas Invertido Plegable Portátil a Prueba",
+        "productId": "B0B2DSDL62",
+        "productName": "Paraguas Invertido Plegable Portátil a Prueba",
+        "filename": "B0B2DSDL62.mp4",
+        "asin": "B0B2DSDL62",
+        "videoDuration": 41.797333,
+        "estimatedAudioSeconds": 36,
+        "framework": "problema_solucion",
+        "narracionSegments": null,
+        "content": [
+          "Salir de casa sin estar listo para mitigar una lluvia inesperada puede arruinar tu día rápido. El Paraguas Invertido Plegable Portátil adaptado para esta situación mantiene la superficie mojada dentro al cerrarse, evitando incomodidades innecesarias. Incorpora una tira reflectante de trecientos sesenta grados, un sistema auto abrir y cerrar con un botón sencillo y pesa solo cero coma ochenta y cuatro libras incluso con un dosel amplio de cuarenta y seis pulgadas. Perfecto para mochilas pequeñas pero eficazmente resistente.",
+          "Por cerca de veinticinco dólares está disponible directamente en Amazon."
+        ],
+        "visuals": [
+          "Product image: Paraguas Invertido Plegable Portátil a Prueba"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0B2DSDL62.mp4",
+        "precio": "$25",
+        "productPhoto": "https://m.media-amazon.com/images/I/61+TymmnZKL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "Paraguas Compacto y Grande: Pesando solo 0.84lb con un tamaño plegado de 13.3 pulgadas, este paraguas compacto puede caber fácilmente en una mochila y en el espacio del coche. Proporciona buena cobertura para 1-2 personas con un dosel de arco de 46 pulgadas. El equilibrio perfecto entre portabilidad y protección de gran área.",
+          "Diseño de pliegue invertido mejorado: Este paraguas invertido adopta un diseño de adentro hacia afuera, que es diferente de los paraguas ordinarios. Cuando el paraguas está cerrado, mantiene la superficie exterior húmeda adentro y evita que el agua fluya hacia abajo, manteniendo los pisos y los autos secos. Su diseño plegable lo hace más corto y fácil de llevar. Fácil de almacenar en cualquier lugar. Adecuado para viajes y uso diario.",
+          "Mango de paraguas LED con luces: Este paraguas automático tiene un mango con luces LED, que puede proporcionar una fuente de luz estable por la noche o en entornos poco iluminados. Es una gran herramienta para pasear perros y viajar de noche, proporcionando seguridad. En caso de cortes de energía, actividades al aire libre y otras emergencias, las luces de paraguas LED se pueden utilizar como fuentes de luz temporales para satisfacer necesidades de emergencia.",
+          "Auto Open & Close: Este paraguas plegable con un sistema de operación automática, se abre y se cierra con solo tocar un botón. Evitando la molestia de la operación manual mientras mantiene una portabilidad compacta. Este paraguas es fácil de usar con una mano, y la función de cierre automático puede ayudarte a ahorrar más tiempo.",
+          "Diseño de Seguridad con Franja Reflectante de 360 °: Este paraguas a prueba de viento tiene una franja reflectante, proporcionando 360 ° de alta visibilidad por la noche y en días de lluvia para alertar a los vehículos, lo cual es importante para niños, peatones y viajeros, y proporciona seguridad adicional en condiciones de baja visibilidad."
+        ],
+        "originalVideoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0B2DSDL62.mp4"
+      },
+      {
+        "type": "content",
+        "title": "Muggo 12 oz Taza de Café",
+        "productId": "B0B1JPL1LM",
+        "productName": "Muggo 12 oz Taza de Café",
+        "filename": "B0B1JPL1LM.mp4",
+        "asin": "B0B1JPL1LM",
+        "videoDuration": 116.3051,
+        "estimatedAudioSeconds": 35,
+        "framework": "enfoque_caracteristica",
+        "narracionSegments": null,
+        "content": [
+          "Terminas sirviéndote un café caliente solo para que se enfríe mientras te recargas. La taza de café digital Muggo resuelve esto y asegura un mantenimiento perfecto de temperatura a través de sus controles LED sensibles al tacto. Integra un aislamiento interior de acero inoxidable, exterior cerámico negro libre de BPA y una capacidad optimizada de doce onzas, mientras su tapa resistente a filtraciones evita derrames incluso en movimiento. También incluye puerto USB tipo C para fácil recarga.",
+          "Disponible por cien dólares en Amazon con envío rápido."
+        ],
+        "visuals": [
+          "Product image: Muggo 12 oz Taza de Café"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0B1JPL1LM.mp4",
+        "precio": "$100",
+        "productPhoto": "https://m.media-amazon.com/images/I/91FKBqgu-cL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "USO PREVISTO: La taza de café digital Muggo está diseñada para mantener un líquido ya caliente y no para recalentar líquido a temperatura ambiente, hacerlo disminuirá drásticamente su vida útil de la batería.",
+          "CONTROLES DE PANTALLA LED SENSIBLE AL TOQUE: Nuestro diseño de taza de viaje para café cuenta con botones LED sensibles al tacto que te permiten calentar fácilmente café o té a tu temperatura preferida (rango de temperatura: 95° - 160°F)",
+          "DISEÑO Y FUNCIÓN ERGONÓMICA: Cuenta con un recipiente interior aislado de acero inoxidable, con un acabado exterior de cerámica negra libre de BPA que se adapta perfectamente a tu mano o al portavasos del coche, lo que lo convierte en la idea de regalo ideal para navidad, vacaciones, agradecimientos para compañeros de trabajo, maestros, mamá, papá, novia o novio.",
+          "TAPA RESISTENTE A FILTRACIONES: La tapa a prueba de fugas que se abre con un clic de 360 grados es fácil de abrir y cuenta con un sello de goma que evita cualquier derrame de café caliente, a diferencia de otras tazas con control de temperatura. También mantiene tus bebidas calientes hasta 3 horas (no está destinada para recalentar).",
+          "PUERTO DE CARGA: El calentador de tazas eléctrico incluye un puerto de carga USB-C y una batería de iones de litio incorporada que mantiene tu bebida caliente directamente, mientras recarga la batería en casa o en movimiento – es una taza de café que mantiene tu café caliente."
+        ],
+        "originalVideoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0B1JPL1LM.mp4"
+      }
+    ],
+    "totalDuration": 80
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "Atrévete a encontrar mejores soluciones que las presentadas y suscríbete para más. Recuerda los links en el primer comentario."
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "",
+    "like": "",
+    "comment": "",
+    "nextVideo": "",
+    "duration": "0 seconds"
+  },
+  "duration": "1:50",
+  "tone": "engaging",
+  "tone_variant": "analítico y preciso, como un ingeniero que explica por qué esto es superior",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "extraos",
+    "amazon"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 2 Gadgets Extraños en Amazon",
+      "angle": "Top 3 Gadgets Extraños en Amazon",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 2,
+      "introScript": "Prepárate para adentrarte en el lado más curioso de Amazon, donde la tecnología y la creatividad desafían la imaginación. Descubre un paraguas que no solo te protege de la lluvia sino que también te ilumina el camino, un teclado que transforma cualquier superficie en un espectacular show de luces y la solución perfecta para esas cafeteras olvidadas que quedan frías en minutos. Estos productos no solo son útiles, sino que también te dejarán con la boca abierta. ¡Vamos a explorarlos juntos!",
+      "keywords": [
+        "gadgets",
+        "extraos",
+        "amazon"
+      ],
+      "estimatedViews": 5445,
+      "bestPublishTime": "2026-09-29T19:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Paraguas Invertido Plegable Portátil a Prueba",
+          "searchTermEn": "LED light reflective umbrella",
+          "id": "B0B2DSDL62",
+          "filename": "B0B2DSDL62.mp4"
+        },
+        {
+          "nombre": "Muggo 12 oz Taza de Café",
+          "searchTermEn": "Muggo self-heating mug",
+          "id": "B0B1JPL1LM",
+          "filename": "B0B1JPL1LM.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-09-28T23:40:48.892Z",
+      "_requestedCount": 3,
+      "_adaptedCount": 2,
+      "_adaptationNote": "ATENCIÓN: El usuario pidió 3 productos pero solo hay 2 clips de video disponibles. El guion, título y narrativa deben referirse EXCLUSIVAMENTE a 2 productos.",
+      "introProductsOrder": [
+        {
+          "nombre": "Paraguas Invertido Plegable Portátil a Prueba",
+          "id": "B0B2DSDL62",
+          "filename": "B0B2DSDL62.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0B2DSDL62.mp4"
+        },
+        {
+          "nombre": "Muggo 12 oz Taza de Café",
+          "id": "B0B1JPL1LM",
+          "filename": "B0B1JPL1LM.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0B1JPL1LM.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1790639161626_2xs47o"
+    },
+    "generatedAt": "2026-09-28T23:46:18.152Z",
+    "version": "4.0-dynamic-rotator",
+    "productos": [
+      {
+        "nombre": "Paraguas Invertido Plegable Portátil a Prueba",
+        "searchTermEn": "LED light reflective umbrella",
+        "id": "B0B2DSDL62",
+        "filename": "B0B2DSDL62.mp4"
+      },
+      {
+        "nombre": "Muggo 12 oz Taza de Café",
+        "searchTermEn": "Muggo self-heating mug",
+        "id": "B0B1JPL1LM",
+        "filename": "B0B1JPL1LM.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 2 Gadgets Extraños en Amazon\n\n══════════════════════════════════════════════════\n\n[0:00-0:15] HOOK\nDespués de analizar decenas de artículos, te presentamos esta selección definitiva de productos que transformarán tus días lluviosos y tus mañanas cafetaleras. No hay exageraciones ni relleno, solo utilidad real que resolverá tus verdaderos problemas. Los enlaces están en el primer comentario. ¡Comencemos!\n\n[0s] INTRODUCTION\n\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] PARAGUAS INVERTIDO PLEGABLE PORTÁTIL A PRUEBA\nSalir de casa sin estar listo para mitigar una lluvia inesperada puede arruinar tu día rápido. El Paraguas Invertido Plegable Portátil adaptado para esta situación mantiene la superficie mojada dentro al cerrarse, evitando incomodidades innecesarias. Incorpora una tira reflectante de trecientos sesenta grados, un sistema auto abrir y cerrar con un botón sencillo y pesa solo cero coma ochenta y cuatro libras incluso con un dosel amplio de cuarenta y seis pulgadas. Perfecto para mochilas pequeñas pero eficazmente resistente.\nPor cerca de veinticinco dólares está disponible directamente en Amazon.\n\n[VISUALS: Product image: Paraguas Invertido Plegable Portátil a Prueba]\n\n[0:25] MUGGO 12 OZ TAZA DE CAFÉ\nTerminas sirviéndote un café caliente solo para que se enfríe mientras te recargas. La taza de café digital Muggo resuelve esto y asegura un mantenimiento perfecto de temperatura a través de sus controles LED sensibles al tacto. Integra un aislamiento interior de acero inoxidable, exterior cerámico negro libre de BPA y una capacidad optimizada de doce onzas, mientras su tapa resistente a filtraciones evita derrames incluso en movimiento. También incluye puerto USB tipo C para fácil recarga.\nDisponible por cien dólares en Amazon con envío rápido.\n\n[VISUALS: Product image: Muggo 12 oz Taza de Café]\n\n[10 seconds] CONCLUSION\nAtrévete a encontrar mejores soluciones que las presentadas y suscríbete para más. Recuerda los links en el primer comentario.\n\n\n\n[0 seconds] CALL TO ACTION\n\n\n\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:50\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, extraos, amazon\n"
+}

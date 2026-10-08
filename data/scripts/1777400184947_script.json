@@ -1,0 +1,138 @@
+{
+  "title": "Top 2 Gadgets de Otro Planeta en Amazon",
+  "hook": {
+    "type": "statement",
+    "text": "Transforma cualquier superficie en un teclado luminoso. Ve una lámpara que flota mágicamente sin cables.",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "Suscríbete, los links están en el primer comentario. Empecemos.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0:10-0:15"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Teclado láser virtual",
+        "productId": "B0BBDRGCSL",
+        "productName": "Teclado láser virtual",
+        "filename": "B0BBDRGCSL.mp4",
+        "content": [
+          "¿Cansado de cargar teclados voluminosos? El Teclado láser virtual proyecta un teclado completo en cualquier superficie plana, facilitando la escritura en espacios reducidos. Funciona con cualquier dispositivo Bluetooth, ofreciendo portabilidad total.",
+          "Su precio actual en Amazon ronda los... 40 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Teclado láser virtual"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0BBDRGCSL.mp4",
+        "precio": "$40",
+        "productPhoto": "https://m.media-amazon.com/images/I/51k+yLyt2rL.jpg"
+      },
+      {
+        "type": "content",
+        "title": "Lámpara magnética levitación",
+        "productId": "B0BM8M86C8",
+        "productName": "Lámpara magnética levitación",
+        "filename": "B0BM8M86C8.mp4",
+        "content": [
+          "Tu espacio siempre necesita un toque asombroso, ¿verdad? La Lámpara magnética levitación flota sin esfuerzo, creando un efecto visual impresionante que desafía la gravedad. Ilumina con tecnología LED, aportando un diseño futurista único.",
+          "Su precio actual en Amazon ronda los... 71 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Lámpara magnética levitación"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0BM8M86C8.mp4",
+        "precio": "$71",
+        "productPhoto": "https://m.media-amazon.com/images/I/61prd2j1cTL.jpg"
+      }
+    ],
+    "totalDuration": 50
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "Dale like al video y recuerda que los links están en el primer comentario."
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:20",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "otro",
+    "planeta",
+    "amazon"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 2 Gadgets de Otro Planeta en Amazon",
+      "angle": "Top 3 Gadgets de Otro Planeta en Amazon",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 2,
+      "introScript": "¿Imagina un teclado que proyecta sus teclas en cualquier superficie? ¿O una lámpara que desafía la gravedad? Hoy te traigo los gadgets más futuristas que parecen sacados de ciencia ficción, pero que puedes tener en casa hoy mismo.",
+      "keywords": [
+        "gadgets",
+        "otro",
+        "planeta",
+        "amazon"
+      ],
+      "estimatedViews": 4414,
+      "bestPublishTime": "2026-05-03T15:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Teclado láser virtual",
+          "searchTermEn": "virtual laser keyboard",
+          "id": "B0BBDRGCSL",
+          "filename": "B0BBDRGCSL.mp4"
+        },
+        {
+          "nombre": "Lámpara magnética levitación",
+          "searchTermEn": "magnetic levitation lamp",
+          "id": "B0BM8M86C8",
+          "filename": "B0BM8M86C8.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-04-28T18:13:41.977Z",
+      "_requestedCount": 3,
+      "_adaptedCount": 2,
+      "_adaptationNote": "ATENCIÓN: El usuario pidió 3 productos pero solo hay 2 clips de video disponibles. El guion, título y narrativa deben referirse EXCLUSIVAMENTE a 2 productos.",
+      "_scriptNonce": "nonce_1777400175972_mfg2u1"
+    },
+    "generatedAt": "2026-04-28T18:16:21.514Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Teclado láser virtual",
+        "searchTermEn": "virtual laser keyboard",
+        "id": "B0BBDRGCSL",
+        "filename": "B0BBDRGCSL.mp4"
+      },
+      {
+        "nombre": "Lámpara magnética levitación",
+        "searchTermEn": "magnetic levitation lamp",
+        "id": "B0BM8M86C8",
+        "filename": "B0BM8M86C8.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 2 Gadgets de Otro Planeta en Amazon\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\nTransforma cualquier superficie en un teclado luminoso. Ve una lámpara que flota mágicamente sin cables.\n\n[0:10-0:15] INTRODUCTION\nSuscríbete, los links están en el primer comentario. Empecemos.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] TECLADO LÁSER VIRTUAL\n¿Cansado de cargar teclados voluminosos? El Teclado láser virtual proyecta un teclado completo en cualquier superficie plana, facilitando la escritura en espacios reducidos. Funciona con cualquier dispositivo Bluetooth, ofreciendo portabilidad total.\nSu precio actual en Amazon ronda los... 40 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Teclado láser virtual]\n\n[0:25] LÁMPARA MAGNÉTICA LEVITACIÓN\nTu espacio siempre necesita un toque asombroso, ¿verdad? La Lámpara magnética levitación flota sin esfuerzo, creando un efecto visual impresionante que desafía la gravedad. Ilumina con tecnología LED, aportando un diseño futurista único.\nSu precio actual en Amazon ronda los... 71 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Lámpara magnética levitación]\n\n[10 seconds] CONCLUSION\nDale like al video y recuerda que los links están en el primer comentario.\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:20\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, otro, planeta, amazon\n"
+}

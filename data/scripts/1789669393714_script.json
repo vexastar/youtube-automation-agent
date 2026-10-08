@@ -1,0 +1,132 @@
+{
+  "title": "Este gadget transformará tu experiencia en bicicleta",
+  "hook": {
+    "type": "statement",
+    "text": "No compres nada en Amazon hasta ver esto. El Ekster Parliament Wallet es una joya tecnológica que redefine la seguridad de tus tarjetas. Recuerda que los verdaderos links están en el primer comentario. Vamos.",
+    "duration": "0:00-0:15"
+  },
+  "introduction": {
+    "greeting": "",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0s"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Ekster Parliament Wallet",
+        "productId": "prod_1",
+        "productName": "Ekster Parliament Wallet",
+        "filename": "B07PVMK5NJ.mp4",
+        "asin": "B07PVMK5NJ",
+        "videoDuration": 47.5475,
+        "estimatedAudioSeconds": 19,
+        "framework": "enfoque_caracteristica",
+        "narracionSegments": null,
+        "content": [
+          "Porta con estilo. Despliega al instante. Protege tu información con tecnología RFID. Ekster Parliament Wallet reinventa el almacenamiento. Guarda hasta 12 tarjetas y billetes sin perder un segundo en búsqueda.",
+          "Por solo 89 dólares puedes tenerla en Amazon. Haz clic en el primer comentario para verla."
+        ],
+        "visuals": [
+          "Product image: Ekster Parliament Wallet"
+        ],
+        "duration": 25,
+        "precio": "$89",
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07PVMK5NJ.mp4",
+        "productPhoto": null,
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [],
+        "originalVideoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07PVMK5NJ.mp4"
+      }
+    ],
+    "totalDuration": 40
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "¿Cuál fue tu producto favorito? Dale like y revisa los links en el primer comentario."
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "",
+    "like": "",
+    "comment": "",
+    "nextVideo": "",
+    "duration": "0 seconds"
+  },
+  "duration": "1:10",
+  "tone": "engaging",
+  "tone_variant": "analítico y preciso, como un ingeniero que explica por qué esto es superior",
+  "pacing": "quick",
+  "keywords": [
+    "este",
+    "gadget",
+    "transformar",
+    "experiencia",
+    "bicicleta"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Este gadget transformará tu experiencia en bicicleta",
+      "angle": "Este gadget transformará tu experiencia en bicicleta",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 1,
+      "introScript": "Imagina tener un gadget que lleve tu paseo en bicicleta al siguiente nivel. Descubre cómo el Ekster Parliament Wallet no solo organiza tus tarjetas, sino que también ofrece funciones innovadoras. ¿Quieres saber cómo este producto puede revolucionar tu día a día? Quédate y sorpréndete.",
+      "keywords": [
+        "este",
+        "gadget",
+        "transformar",
+        "experiencia",
+        "bicicleta"
+      ],
+      "estimatedViews": 6027,
+      "bestPublishTime": "2026-09-18T20:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "id": "B07PVMK5NJ",
+          "nombre": "La traducción del texto \"Ekster Parliament",
+          "filename": "B07PVMK5NJ.mp4",
+          "precio": 89,
+          "searchTermEn": "Ekster Parliament Wallet"
+        }
+      ],
+      "_sourceFile": "productos_locales.json",
+      "createdAt": "2026-09-17T18:23:01.784Z",
+      "_requestedCount": 1,
+      "_adaptedCount": 1,
+      "introProductsOrder": [
+        {
+          "nombre": "La traducción del texto \"Ekster Parliament",
+          "id": "B07PVMK5NJ",
+          "filename": "B07PVMK5NJ.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07PVMK5NJ.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1789669383207_dlbnlm"
+    },
+    "generatedAt": "2026-09-17T18:23:09.355Z",
+    "version": "4.0-dynamic-rotator",
+    "productos": [
+      {
+        "id": "B07PVMK5NJ",
+        "nombre": "La traducción del texto \"Ekster Parliament",
+        "filename": "B07PVMK5NJ.mp4",
+        "precio": 89,
+        "searchTermEn": "Ekster Parliament Wallet"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Este gadget transformará tu experiencia en bicicleta\n\n══════════════════════════════════════════════════\n\n[0:00-0:15] HOOK\nNo compres nada en Amazon hasta ver esto. El Ekster Parliament Wallet es una joya tecnológica que redefine la seguridad de tus tarjetas. Recuerda que los verdaderos links están en el primer comentario. Vamos.\n\n[0s] INTRODUCTION\n\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] EKSTER PARLIAMENT WALLET\nPorta con estilo. Despliega al instante. Protege tu información con tecnología RFID. Ekster Parliament Wallet reinventa el almacenamiento. Guarda hasta 12 tarjetas y billetes sin perder un segundo en búsqueda.\nPor solo 89 dólares puedes tenerla en Amazon. Haz clic en el primer comentario para verla.\n\n[VISUALS: Product image: Ekster Parliament Wallet]\n\n[10 seconds] CONCLUSION\n¿Cuál fue tu producto favorito? Dale like y revisa los links en el primer comentario.\n\n\n\n[0 seconds] CALL TO ACTION\n\n\n\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:10\nTONE: engaging\nPACING: quick\nKEYWORDS: este, gadget, transformar, experiencia, bicicleta\n"
+}

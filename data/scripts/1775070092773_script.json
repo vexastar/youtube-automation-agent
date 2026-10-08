@@ -1,0 +1,229 @@
+{
+  "title": "Top 5 Gadgets Increíbles para el Hogar Inteligente",
+  "hook": {
+    "type": "statement",
+    "text": "¡Descubre los gadgets que transformarán tu hogar en un espacio del futuro!",
+    "duration": "0:00-0:05"
+  },
+  "introduction": {
+    "greeting": "¿Te imaginas controlar tu casa con solo tu voz o un toque en tu smartphone? Hoy te traemos un Top 5 de gadgets que harán de tu hogar un lugar más inteligente y eficiente. ¡No te lo pierdas!",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0:05-0:15"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Sensor de Puerta",
+        "content": [
+          "Comenzamos con el Sensor de Puerta, un gadget esencial para cualquier dueño de casa. Este dispositivo te permite monitorear la apertura y cierre de tus puertas desde cualquier lugar, brindando seguridad extra para tu hogar. Ideal para quienes desean estar siempre informados sobre lo que sucede en su casa.",
+          "Consíguelo por solo $14.99 en el enlace de la descripción."
+        ],
+        "visuals": [
+          "Product image: Sensor de Puerta"
+        ],
+        "duration": 25
+      },
+      {
+        "type": "content",
+        "title": "Enchufe Inteligente",
+        "content": [
+          "En el puesto cuatro, tenemos el Enchufe Inteligente. Imagina encender tus electrodomésticos desde tu smartphone o programarlos para que funcionen automáticamente. Es perfecto para los entusiastas de la tecnología que buscan comodidad y eficiencia energética.",
+          "Disponible por solo $19.99 en el primer comentario."
+        ],
+        "visuals": [
+          "Product image: Enchufe Inteligente"
+        ],
+        "duration": 25
+      },
+      {
+        "type": "content",
+        "title": "Bombilla LED WiFi",
+        "content": [
+          "La Bombilla LED WiFi ocupa nuestro tercer lugar. Ofrece control total de la iluminación de tu hogar desde cualquier lugar del mundo. Cambia colores, ajusta la intensidad y programa horarios, todo desde una app. Ideal para crear el ambiente perfecto en cualquier ocasión.",
+          "Revisa su precio de $24.99 en el enlace de la descripción."
+        ],
+        "visuals": [
+          "Product image: Bombilla LED WiFi"
+        ],
+        "duration": 25
+      },
+      {
+        "type": "content",
+        "title": "Cámara de Seguridad",
+        "content": [
+          "En segundo lugar, la Cámara de Seguridad. Mantén un ojo en lo que realmente importa con imágenes de alta definición y alertas en tiempo real. Es la elección perfecta para quienes buscan tranquilidad al saber que su hogar está protegido todo el tiempo.",
+          "Te dejo el enlace con su precio de $29.99 en la descripción."
+        ],
+        "visuals": [
+          "Product image: Cámara de Seguridad"
+        ],
+        "duration": 25
+      },
+      {
+        "type": "content",
+        "title": "Termostato Programable",
+        "content": [
+          "Finalmente, en el primer lugar, el Termostato Programable. Controla la temperatura de tu hogar de manera intuitiva y desde cualquier lugar. Ahorra energía y disfruta de un confort personalizado. Ideal para aquellos que buscan eficiencia y comodidad máxima.",
+          "Encuéntralo por $34.99 en el enlace de la descripción."
+        ],
+        "visuals": [
+          "Product image: Termostato Programable"
+        ],
+        "duration": 25
+      }
+    ],
+    "totalDuration": 125
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "Eso es todo por hoy en nuestro Top 5 de gadgets para un hogar inteligente. Si te gustó el video, no olvides darle like, suscribirte y dejarnos un comentario con tu gadget favorito. ¡Hasta la próxima!"
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "2:35",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "increbles",
+    "para",
+    "hogar",
+    "inteligente"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 12 Gadgets Increíbles para el Hogar Inteligente",
+      "angle": "Top 12 Gadgets Increíbles para el Hogar Inteligente",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "keywords": [
+        "gadgets",
+        "increbles",
+        "para",
+        "hogar",
+        "inteligente"
+      ],
+      "estimatedViews": 5711,
+      "bestPublishTime": "2026-04-07T19:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Sensor de puerta",
+          "searchTermEn": "door sensor"
+        },
+        {
+          "nombre": "Enchufe inteligente",
+          "searchTermEn": "smart plug"
+        },
+        {
+          "nombre": "Bombilla LED WiFi",
+          "searchTermEn": "wifi led bulb"
+        },
+        {
+          "nombre": "Cámara de seguridad",
+          "searchTermEn": "security camera"
+        },
+        {
+          "nombre": "Termostato programable",
+          "searchTermEn": "programmable thermostat"
+        },
+        {
+          "nombre": "Timbre con video",
+          "searchTermEn": "video doorbell"
+        },
+        {
+          "nombre": "Alarma de humo",
+          "searchTermEn": "smoke alarm"
+        },
+        {
+          "nombre": "Interruptor inteligente",
+          "searchTermEn": "smart switch"
+        },
+        {
+          "nombre": "Cerradura digital",
+          "searchTermEn": "digital lock"
+        },
+        {
+          "nombre": "Sensor de movimiento",
+          "searchTermEn": "motion sensor"
+        },
+        {
+          "nombre": "Purificador de aire",
+          "searchTermEn": "air purifier"
+        },
+        {
+          "nombre": "Altavoz inteligente",
+          "searchTermEn": "smart speaker"
+        }
+      ],
+      "createdAt": "2026-04-01T19:01:23.614Z"
+    },
+    "generatedAt": "2026-04-01T19:01:32.542Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Sensor de puerta",
+        "searchTermEn": "door sensor"
+      },
+      {
+        "nombre": "Enchufe inteligente",
+        "searchTermEn": "smart plug"
+      },
+      {
+        "nombre": "Bombilla LED WiFi",
+        "searchTermEn": "wifi led bulb"
+      },
+      {
+        "nombre": "Cámara de seguridad",
+        "searchTermEn": "security camera"
+      },
+      {
+        "nombre": "Termostato programable",
+        "searchTermEn": "programmable thermostat"
+      },
+      {
+        "nombre": "Timbre con video",
+        "searchTermEn": "video doorbell"
+      },
+      {
+        "nombre": "Alarma de humo",
+        "searchTermEn": "smoke alarm"
+      },
+      {
+        "nombre": "Interruptor inteligente",
+        "searchTermEn": "smart switch"
+      },
+      {
+        "nombre": "Cerradura digital",
+        "searchTermEn": "digital lock"
+      },
+      {
+        "nombre": "Sensor de movimiento",
+        "searchTermEn": "motion sensor"
+      },
+      {
+        "nombre": "Purificador de aire",
+        "searchTermEn": "air purifier"
+      },
+      {
+        "nombre": "Altavoz inteligente",
+        "searchTermEn": "smart speaker"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 5 Gadgets Increíbles para el Hogar Inteligente\n\n══════════════════════════════════════════════════\n\n[0:00-0:05] HOOK\n¡Descubre los gadgets que transformarán tu hogar en un espacio del futuro!\n\n[0:05-0:15] INTRODUCTION\n¿Te imaginas controlar tu casa con solo tu voz o un toque en tu smartphone? Hoy te traemos un Top 5 de gadgets que harán de tu hogar un lugar más inteligente y eficiente. ¡No te lo pierdas!\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] SENSOR DE PUERTA\nComenzamos con el Sensor de Puerta, un gadget esencial para cualquier dueño de casa. Este dispositivo te permite monitorear la apertura y cierre de tus puertas desde cualquier lugar, brindando seguridad extra para tu hogar. Ideal para quienes desean estar siempre informados sobre lo que sucede en su casa.\nConsíguelo por solo $14.99 en el enlace de la descripción.\n\n[VISUALS: Product image: Sensor de Puerta]\n\n[0:25] ENCHUFE INTELIGENTE\nEn el puesto cuatro, tenemos el Enchufe Inteligente. Imagina encender tus electrodomésticos desde tu smartphone o programarlos para que funcionen automáticamente. Es perfecto para los entusiastas de la tecnología que buscan comodidad y eficiencia energética.\nDisponible por solo $19.99 en el primer comentario.\n\n[VISUALS: Product image: Enchufe Inteligente]\n\n[0:25] BOMBILLA LED WIFI\nLa Bombilla LED WiFi ocupa nuestro tercer lugar. Ofrece control total de la iluminación de tu hogar desde cualquier lugar del mundo. Cambia colores, ajusta la intensidad y programa horarios, todo desde una app. Ideal para crear el ambiente perfecto en cualquier ocasión.\nRevisa su precio de $24.99 en el enlace de la descripción.\n\n[VISUALS: Product image: Bombilla LED WiFi]\n\n[0:25] CÁMARA DE SEGURIDAD\nEn segundo lugar, la Cámara de Seguridad. Mantén un ojo en lo que realmente importa con imágenes de alta definición y alertas en tiempo real. Es la elección perfecta para quienes buscan tranquilidad al saber que su hogar está protegido todo el tiempo.\nTe dejo el enlace con su precio de $29.99 en la descripción.\n\n[VISUALS: Product image: Cámara de Seguridad]\n\n[0:25] TERMOSTATO PROGRAMABLE\nFinalmente, en el primer lugar, el Termostato Programable. Controla la temperatura de tu hogar de manera intuitiva y desde cualquier lugar. Ahorra energía y disfruta de un confort personalizado. Ideal para aquellos que buscan eficiencia y comodidad máxima.\nEncuéntralo por $34.99 en el enlace de la descripción.\n\n[VISUALS: Product image: Termostato Programable]\n\n[10 seconds] CONCLUSION\nEso es todo por hoy en nuestro Top 5 de gadgets para un hogar inteligente. Si te gustó el video, no olvides darle like, suscribirte y dejarnos un comentario con tu gadget favorito. ¡Hasta la próxima!\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 2:35\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, increbles, para, hogar, inteligente\n"
+}

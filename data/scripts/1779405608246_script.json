@@ -1,0 +1,179 @@
+{
+  "title": "20 Gadgets Novedosos que Debes Revisar en Amazon",
+  "hook": {
+    "type": "statement",
+    "text": "Automatiza tu hogar con un solo dispositivo. Protege tus tarjetas con un diseño elegante y rápido.",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "Los links de compra están en el primer comentario. Empezamos.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0:10-0:15"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Ekster Parliament Wallet",
+        "productId": "prod_1",
+        "productName": "Ekster Parliament Wallet",
+        "filename": "B07PVMK5NJ.mp4",
+        "asin": "B07PVMK5NJ",
+        "clipDuration": 37.19,
+        "estimatedAudioSeconds": 41,
+        "framework": "comparacion_precio",
+        "narracionSegments": null,
+        "content": [
+          "¿Harto de billeteras voluminosas y poco seguras? La Ekster Parliament Wallet ofrece un acceso rápido a tus tarjetas con un simple clic, combinando funcionalidad y estilo. Además, su tecnología RFID bloquea cualquier intento de robo de datos, manteniendo tu información segura.",
+          "Su precio actual en Amazon ronda los... 89 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Ekster Parliament Wallet"
+        ],
+        "duration": 25,
+        "precio": "$89",
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07PVMK5NJ.mp4",
+        "productPhoto": null,
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": []
+      },
+      {
+        "type": "content",
+        "title": "Aqara Smart Home Hub M2",
+        "productId": "prod_8",
+        "productName": "Aqara Smart Home Hub M2",
+        "filename": "B0CWLHSKYC.mp4",
+        "asin": "B0CWLHSKYC",
+        "clipDuration": 71.27,
+        "estimatedAudioSeconds": 83,
+        "framework": "dato_numerico",
+        "narracionSegments": null,
+        "content": [
+          "Controla hasta 128 dispositivos inteligentes simultáneamente con el Aqara Smart Home Hub M2. Este hub revoluciona tu hogar conectando luces, cámaras y más en una sola red coordinada. Es la solución ideal para integrar fácilmente tus dispositivos IoT y simplificar la vida diaria.",
+          "Su precio actual en Amazon ronda los... 40 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Aqara Smart Home Hub M2"
+        ],
+        "duration": 25,
+        "precio": "$40",
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0CWLHSKYC.mp4",
+        "productPhoto": null,
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": []
+      }
+    ],
+    "totalDuration": 50
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "!No olvides dejar un like si te gustó! Los links están en el primer comentario."
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:20",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "novedosos",
+    "debes",
+    "revisar",
+    "amazon"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "19 Gadgets Novedosos que Debes Revisar en Amazon",
+      "angle": "19 Gadgets Novedosos que Debes Revisar en Amazon",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 20,
+      "introScript": "Descubre los gadgets más innovadores que están revolucionando la forma en que conectamos con la tecnología. Desde billeteras inteligentes y proyectores portátiles, hasta termómetros inalámbricos y cámaras para mascotas. Cada uno de estos 19 productos promete transformar tu día a día de formas sorprendentes. ¿Estás listo para conocerlos?",
+      "keywords": [
+        "gadgets",
+        "novedosos",
+        "debes",
+        "revisar",
+        "amazon"
+      ],
+      "estimatedViews": 6321,
+      "bestPublishTime": "2026-05-22T20:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "id": "B07PVMK5NJ",
+          "nombre": "Ekster Parliament Wallet",
+          "filename": "B07PVMK5NJ.mp4",
+          "precio": 89,
+          "searchTermEn": "Ekster Parliament Wallet"
+        },
+        {
+          "id": "B0CWLHSKYC",
+          "nombre": "Aqara Smart Home Hub M2",
+          "filename": "B0CWLHSKYC.mp4",
+          "precio": 40,
+          "searchTermEn": "Aqara Smart Home Hub M2"
+        }
+      ],
+      "_sourceFile": "productos_locales.json",
+      "createdAt": "2026-05-21T23:19:50.124Z",
+      "_requestedCount": 20,
+      "_adaptedCount": 20,
+      "introProductsOrder": [
+        {
+          "nombre": "Aqara Smart Home Hub M2",
+          "id": "B0CWLHSKYC",
+          "filename": "B0CWLHSKYC.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0CWLHSKYC.mp4"
+        },
+        {
+          "nombre": "Ekster Parliament Wallet",
+          "id": "B07PVMK5NJ",
+          "filename": "B07PVMK5NJ.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07PVMK5NJ.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1779405590340_0bxdgk"
+    },
+    "generatedAt": "2026-05-21T23:20:01.384Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "id": "B07PVMK5NJ",
+        "nombre": "Ekster Parliament Wallet",
+        "filename": "B07PVMK5NJ.mp4",
+        "precio": 89,
+        "searchTermEn": "Ekster Parliament Wallet"
+      },
+      {
+        "id": "B0CWLHSKYC",
+        "nombre": "Aqara Smart Home Hub M2",
+        "filename": "B0CWLHSKYC.mp4",
+        "precio": 40,
+        "searchTermEn": "Aqara Smart Home Hub M2"
+      }
+    ]
+  },
+  "fullScript": "TITLE: 20 Gadgets Novedosos que Debes Revisar en Amazon\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\nAutomatiza tu hogar con un solo dispositivo. Protege tus tarjetas con un diseño elegante y rápido.\n\n[0:10-0:15] INTRODUCTION\nLos links de compra están en el primer comentario. Empezamos.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] EKSTER PARLIAMENT WALLET\n¿Harto de billeteras voluminosas y poco seguras? La Ekster Parliament Wallet ofrece un acceso rápido a tus tarjetas con un simple clic, combinando funcionalidad y estilo. Además, su tecnología RFID bloquea cualquier intento de robo de datos, manteniendo tu información segura.\nSu precio actual en Amazon ronda los... 89 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Ekster Parliament Wallet]\n\n[0:25] AQARA SMART HOME HUB M2\nControla hasta 128 dispositivos inteligentes simultáneamente con el Aqara Smart Home Hub M2. Este hub revoluciona tu hogar conectando luces, cámaras y más en una sola red coordinada. Es la solución ideal para integrar fácilmente tus dispositivos IoT y simplificar la vida diaria.\nSu precio actual en Amazon ronda los... 40 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Aqara Smart Home Hub M2]\n\n[10 seconds] CONCLUSION\n!No olvides dejar un like si te gustó! Los links están en el primer comentario.\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:20\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, novedosos, debes, revisar, amazon\n"
+}

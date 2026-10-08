@@ -1,0 +1,541 @@
+{
+  "title": "Top 3 Celulares Novedosos en Amazon",
+  "hook": {
+    "type": "statement",
+    "text": "¿Sabías que un móvil se pliega al instante? ¿Y otro redefine la fotografía en movimiento?",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "¿Cuál querrías tú? Los links están en el primer comentario.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "25s-30s"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Samsung Galaxy Z Fold4",
+        "productId": "B0B3T7SPPZ",
+        "productName": "Samsung Galaxy Z Fold4",
+        "filename": "B0B3T7SPPZ.mp4",
+        "asin": "B0B3T7SPPZ",
+        "clipDuration": 60.03,
+        "estimatedAudioSeconds": 69,
+        "framework": "beneficio_oculto",
+        "narracionSegments": null,
+        "content": [
+          "Lo que no todos saben del Samsung Galaxy Z Fold4 es su habilidad para transformarse instantáneamente. Con su pantalla flexible AMOLED, puedes colocarlo en cualquier ángulo para una experiencia de videollamada manos libres. Además, el Modo Flex convierte el smartphone en un centro de control para tus aplicaciones favoritas. Otro añadido interesante es la compatibilidad con el S Pen, facilitando notas y dibujos precisos sin esfuerzo.",
+          "Su precio actual en Amazon ronda los... 412 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Samsung Galaxy Z Fold4"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0B3T7SPPZ_combined.mp4",
+        "precio": "$412",
+        "productPhoto": "https://m.media-amazon.com/images/I/81TH5W29HgL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0B3T7SPPZ\\scenes_v1\\B0B3T7SPPZ_scene_02.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "pantalla encendida",
+            "raw": "9|pantalla encendida"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0B3T7SPPZ\\scenes_v1\\B0B3T7SPPZ_scene_01.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción smartphone",
+            "raw": "9|interacción smartphone"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0B3T7SPPZ\\scenes_v1\\B0B3T7SPPZ_scene_03.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Interacción smartphone",
+            "raw": "9|Interacción smartphone"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0B3T7SPPZ\\scenes_v1\\B0B3T7SPPZ_scene_06.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Interacción smartphone",
+            "raw": "9|Interacción smartphone"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0B3T7SPPZ\\scenes_v1\\B0B3T7SPPZ_scene_05.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "pantalla flexible",
+            "raw": "9|pantalla flexible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0B3T7SPPZ\\scenes_v1\\B0B3T7SPPZ_scene_04.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "pantalla multitarea",
+            "raw": "9|pantalla multitarea"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0B3T7SPPZ\\scenes_v1\\B0B3T7SPPZ_scene_09.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Flex Mode",
+            "raw": "9|Flex Mode"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0B3T7SPPZ\\scenes_v1\\B0B3T7SPPZ_scene_07.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "pantalla dividida",
+            "raw": "9|pantalla dividida"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0B3T7SPPZ\\scenes_v1\\B0B3T7SPPZ_scene_08.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "pantalla flexible",
+            "raw": "9|pantalla flexible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0B3T7SPPZ\\scenes_v1\\B0B3T7SPPZ_scene_10.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "pantalla flexible",
+            "raw": "9|pantalla flexible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0B3T7SPPZ\\scenes_v1\\B0B3T7SPPZ_scene_11.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Interacción clara",
+            "raw": "9|Interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0B3T7SPPZ\\scenes_v1\\B0B3T7SPPZ_scene_13.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "pantalla flexible",
+            "raw": "9|pantalla flexible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0B3T7SPPZ\\scenes_v1\\B0B3T7SPPZ_scene_15.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Interacción smartphone",
+            "raw": "9|Interacción smartphone"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0B3T7SPPZ\\scenes_v1\\B0B3T7SPPZ_scene_18.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "pantalla flexible",
+            "raw": "9|pantalla flexible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0B3T7SPPZ\\scenes_v1\\B0B3T7SPPZ_scene_17.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción smartphone",
+            "raw": "9|interacción smartphone"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0B3T7SPPZ\\scenes_v1\\B0B3T7SPPZ_scene_20.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción smartphone",
+            "raw": "9|interacción smartphone"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0B3T7SPPZ\\scenes_v1\\B0B3T7SPPZ_scene_19.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción smartphone",
+            "raw": "9|interacción smartphone"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0B3T7SPPZ\\scenes_v1\\B0B3T7SPPZ_scene_22.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "pantalla encendida",
+            "raw": "9|pantalla encendida"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0B3T7SPPZ\\scenes_v1\\B0B3T7SPPZ_scene_23.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción smartphone",
+            "raw": "9|interacción smartphone"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0B3T7SPPZ\\scenes_v1\\B0B3T7SPPZ_scene_14.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Smartphone en uso",
+            "raw": "8|Smartphone en uso"
+          }
+        ],
+        "features": [
+          "Pantalla Flexible: El Galaxy Z Fold4 cuenta con una pantalla AMOLED plegable que puede mantenerse en pie por sí sola para videollamadas manos libres y multitarea.",
+          "Controles del Smartphone: Con el Modo Flex, puedes usar tu smartphone como un smartwatch y controlar la reproducción de música.",
+          "Vista de Múltiples Ventanas: El Galaxy Z Fold4 te permite ejecutar múltiples aplicaciones lado a lado, facilitando el multitasking.",
+          "Compatible con S Pen: El S Pen está incluido con el Galaxy Z Fold4 y te permite tomar notas, dibujar y navegar con precisión.",
+          "Larga duración de la batería: El Galaxy Z Fold4 tiene una gran batería de 4400mAh que proporciona hasta 12 horas de tiempo de pantalla con una sola carga."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "OnePlus 10 Pro",
+        "productId": "B07XM54RWB",
+        "productName": "OnePlus 10 Pro",
+        "filename": "B07XM54RWB.mp4",
+        "asin": "B07XM54RWB",
+        "clipDuration": 60.03,
+        "estimatedAudioSeconds": 67,
+        "framework": "comparacion_precio",
+        "narracionSegments": null,
+        "content": [
+          "En un mercado saturado, sacar máxima calidad a un costo mínimo es crucial. El OnePlus 10 Pro te ofrece velocidades ultra rápidas con su procesador Snapdragon 8 Gen 1 por solo una fracción del costo de sus competidores. Este dispositivo no solo te entrega una compatibilidad amplia de red, sino que además incluye una cámara co-desarrollada con Hasselblad capaz de capturar colores naturales e impresionantes videos hasta en 8k.",
+          "Su precio actual en Amazon ronda los... 280 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: OnePlus 10 Pro"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07XM54RWB_combined.mp4",
+        "precio": "$280",
+        "productPhoto": "https://m.media-amazon.com/images/I/81qOD8EZTjL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07XM54RWB\\scenes_v1\\B07XM54RWB_scene_03.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "smartphone encendido",
+            "raw": "9|smartphone encendido"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07XM54RWB\\scenes_v1\\B07XM54RWB_scene_04.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07XM54RWB\\scenes_v1\\B07XM54RWB_scene_05.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "smartphone visible",
+            "raw": "8|smartphone visible"
+          }
+        ],
+        "features": [
+          "Desata el poder del 5G | Impulsado por el último procesador Qualcomm Snapdragon 8 Gen 1, el 10 Pro es capaz de alcanzar velocidades 5G ultrarrápidas. Red 5G compatible con T-mobile, AT&T, Verizon, Google Fi, Mint Mobile.",
+          "Sistema de cámara triple potente, co-desarrollado con Hasselblad | Con un sensor principal de 48MP Sony IMX, el 10 Pro captura colores naturales impresionantes y puede grabar video en hasta 8k.",
+          "Captura la imagen completa con una cámara ultra gran angular de 150º | Un versátil sensor ultra gran angular de 50MP dispara con un amplio campo de visión de 150º, lo que te permite llevar tu creatividad a un nivel completamente nuevo.",
+          "Solución OnePlus Billion Color para Fotografía | El 10 Pro puede procesar 64 veces más información de color con la nueva Solución OnePlus Billion Color, lo que te permite capturar y reproducir los colores más precisos.",
+          "\"\"\"Pantalla Smart de 120Hz con LTPO 2.0 | La impresionante pantalla QHD+ de 6.7” puede ajustar la tasa de refresco de manera dinámica desde 1Hz hasta 120Hz, ofreciendo una experiencia de usuario fluida con un rendimiento de batería optimizado.\"\"\""
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Motorola Edge Plus",
+        "productId": "B0C2W7YYHM",
+        "productName": "Motorola Edge Plus",
+        "filename": "B0C2W7YYHM.mp4",
+        "asin": "B0C2W7YYHM",
+        "clipDuration": 60.03,
+        "estimatedAudioSeconds": 67,
+        "framework": "dato_numerico",
+        "narracionSegments": null,
+        "content": [
+          "-Cuatro- veces más curvas definen el Motorola Edge Plus con su impresionante diseño de borde infinito. Con Qualcomm Snapdragon 8 Gen 2, este dispositivo no solo es visualmente estético sino también extremadamente potente, proporcionándote velocidad e innovación inigualables. Y cuando las fotos importan, las cámaras triples y telefoto capturan cada detalle impresionante, haciendo justicia a cualquier escena.",
+          "Su precio actual en Amazon ronda los... 573 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Motorola Edge Plus"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0C2W7YYHM_combined.mp4",
+        "precio": "$573",
+        "productPhoto": "https://m.media-amazon.com/images/I/61eyXBlFk7L.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0C2W7YYHM\\scenes_v1\\B0C2W7YYHM_scene_04.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "smartphone visible",
+            "raw": "9|smartphone visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0C2W7YYHM\\scenes_v1\\B0C2W7YYHM_scene_09.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0C2W7YYHM\\scenes_v1\\B0C2W7YYHM_scene_16.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0C2W7YYHM\\scenes_v1\\B0C2W7YYHM_scene_19.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0C2W7YYHM\\scenes_v1\\B0C2W7YYHM_scene_20.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0C2W7YYHM\\scenes_v1\\B0C2W7YYHM_scene_25.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0C2W7YYHM\\scenes_v1\\B0C2W7YYHM_scene_29.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Interacción real",
+            "raw": "9|Interacción real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0C2W7YYHM\\scenes_v1\\B0C2W7YYHM_scene_31.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción real",
+            "raw": "9|interacción real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0C2W7YYHM\\scenes_v1\\B0C2W7YYHM_scene_43.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0C2W7YYHM\\scenes_v1\\B0C2W7YYHM_scene_55.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "pantalla encendida",
+            "raw": "9|pantalla encendida"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0C2W7YYHM\\scenes_v1\\B0C2W7YYHM_scene_61.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "pantalla encendida",
+            "raw": "9|pantalla encendida"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0C2W7YYHM\\scenes_v1\\B0C2W7YYHM_scene_63.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "pantalla encendida",
+            "raw": "9|pantalla encendida"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0C2W7YYHM\\scenes_v1\\B0C2W7YYHM_scene_01.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Motorola Edge",
+            "raw": "8|Motorola Edge"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0C2W7YYHM\\scenes_v1\\B0C2W7YYHM_scene_35.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "producto claro",
+            "raw": "8|producto claro"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0C2W7YYHM\\scenes_v1\\B0C2W7YYHM_scene_41.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Motorola Edge+",
+            "raw": "8|Motorola Edge+"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0C2W7YYHM\\scenes_v1\\B0C2W7YYHM_scene_44.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "producto claro",
+            "raw": "8|producto claro"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0C2W7YYHM\\scenes_v1\\B0C2W7YYHM_scene_58.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "teléfonos Motorola",
+            "raw": "8|teléfonos Motorola"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0C2W7YYHM\\scenes_v1\\B0C2W7YYHM_scene_60.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "smartphone visible",
+            "raw": "8|smartphone visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0C2W7YYHM\\scenes_v1\\B0C2W7YYHM_scene_02.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "producto pequeño",
+            "raw": "5|producto pequeño"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0C2W7YYHM\\scenes_v1\\B0C2W7YYHM_scene_11.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "teléfono pequeño",
+            "raw": "5|teléfono pequeño"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0C2W7YYHM\\scenes_v1\\B0C2W7YYHM_scene_57.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "teléfonos móviles",
+            "raw": "5|teléfonos móviles"
+          }
+        ],
+        "features": [
+          "Compatible con T-Mobile 5G y Verizon 5G. Listo para 5G en otras redes selectas dependiendo de la disponibilidad; contacta a tu proveedor de servicios para más detalles. Compatible con todos los principales operadores 4G en EE. UU., incluyendo Verizon, ATandT y T-Mobile. También funciona con operadores prepagados, incluyendo Cricket Wireless, Metro by T-Mobile, Simple Mobile, Total Wireless, Tracfone, Net10, Mint, TracFone y H2O. Conector para auriculares: No. Tecnología Bluetooth: Bluetooth 5.3.",
+          "Diseño impresionante de borde infinito con cuádruple curvatura. Experimenta curvas en cada lado para una belleza y comodidad que no tienen comparación.",
+          "Rendimiento líder en la industria con Snapdragon 8. Experimenta la velocidad innovadora de la última plataforma móvil de Qualcomm, Snapdragon 8 Gen 2.",
+          "Cámaras triples de alta resolución más lente telefoto para retratos. Captura fotos brillantes en cualquier luz y en cada situación, junto con retratos naturalmente hermosos.",
+          "Protección submarina IP68. Toma la tranquilidad de saber que tu teléfono está diseñado para resistir el polvo, la suciedad y la arena—e incluso un chapuzón rápido en el agua."
+        ]
+      }
+    ],
+    "totalDuration": 120
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "-Dale- al like si te gustó y recuerda que los links están en el primer comentario."
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "2:28",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "celulares",
+    "novedosos",
+    "amazon"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 3 Celulares Novedosos en Amazon",
+      "angle": "Top 3 Celulares Novedosos en Amazon",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 3,
+      "introScript": "Imagina un teléfono que puedes doblar como una hoja de papel, otro que se carga completamente en solo media hora y uno que literalmente proyecta hologramas en tu pared. ¿Suena como ciencia ficción? Pues no lo es. Hoy te muestro tres celulares en Amazon que están revolucionando la manera en que interactuamos con la tecnología.",
+      "keywords": [
+        "celulares",
+        "novedosos",
+        "amazon"
+      ],
+      "estimatedViews": 3506,
+      "bestPublishTime": "2026-06-05T20:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Samsung Galaxy Z Fold4",
+          "searchTermEn": "Samsung Galaxy Z Fold4",
+          "id": "B0B3T7SPPZ",
+          "filename": "B0B3T7SPPZ.mp4"
+        },
+        {
+          "nombre": "OnePlus 10 Pro",
+          "searchTermEn": "OnePlus 10 Pro smartphone",
+          "id": "B07XM54RWB",
+          "filename": "B07XM54RWB.mp4"
+        },
+        {
+          "nombre": "Motorola Edge Plus",
+          "searchTermEn": "Motorola Edge Plus 2023",
+          "id": "B0C2W7YYHM",
+          "filename": "B0C2W7YYHM.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-06-01T23:55:52.945Z",
+      "_requestedCount": 3,
+      "_adaptedCount": 3,
+      "introProductsOrder": [
+        {
+          "nombre": "Samsung Galaxy Z Fold4",
+          "id": "B0B3T7SPPZ",
+          "filename": "B0B3T7SPPZ_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0B3T7SPPZ_combined.mp4"
+        },
+        {
+          "nombre": "OnePlus 10 Pro",
+          "id": "B07XM54RWB",
+          "filename": "B07XM54RWB_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07XM54RWB_combined.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1780358869196_oso1ox"
+    },
+    "generatedAt": "2026-06-02T00:08:16.560Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Samsung Galaxy Z Fold4",
+        "searchTermEn": "Samsung Galaxy Z Fold4",
+        "id": "B0B3T7SPPZ",
+        "filename": "B0B3T7SPPZ.mp4"
+      },
+      {
+        "nombre": "OnePlus 10 Pro",
+        "searchTermEn": "OnePlus 10 Pro smartphone",
+        "id": "B07XM54RWB",
+        "filename": "B07XM54RWB.mp4"
+      },
+      {
+        "nombre": "Motorola Edge Plus",
+        "searchTermEn": "Motorola Edge Plus 2023",
+        "id": "B0C2W7YYHM",
+        "filename": "B0C2W7YYHM.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 3 Celulares Novedosos en Amazon\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\n¿Sabías que un móvil se pliega al instante? ¿Y otro redefine la fotografía en movimiento?\n\n[25s-30s] INTRODUCTION\n¿Cuál querrías tú? Los links están en el primer comentario.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] SAMSUNG GALAXY Z FOLD4\nLo que no todos saben del Samsung Galaxy Z Fold4 es su habilidad para transformarse instantáneamente. Con su pantalla flexible AMOLED, puedes colocarlo en cualquier ángulo para una experiencia de videollamada manos libres. Además, el Modo Flex convierte el smartphone en un centro de control para tus aplicaciones favoritas. Otro añadido interesante es la compatibilidad con el S Pen, facilitando notas y dibujos precisos sin esfuerzo.\nSu precio actual en Amazon ronda los... 412 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Samsung Galaxy Z Fold4]\n\n[0:25] ONEPLUS 10 PRO\nEn un mercado saturado, sacar máxima calidad a un costo mínimo es crucial. El OnePlus 10 Pro te ofrece velocidades ultra rápidas con su procesador Snapdragon 8 Gen 1 por solo una fracción del costo de sus competidores. Este dispositivo no solo te entrega una compatibilidad amplia de red, sino que además incluye una cámara co-desarrollada con Hasselblad capaz de capturar colores naturales e impresionantes videos hasta en 8k.\nSu precio actual en Amazon ronda los... 280 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: OnePlus 10 Pro]\n\n[0:25] MOTOROLA EDGE PLUS\n-Cuatro- veces más curvas definen el Motorola Edge Plus con su impresionante diseño de borde infinito. Con Qualcomm Snapdragon 8 Gen 2, este dispositivo no solo es visualmente estético sino también extremadamente potente, proporcionándote velocidad e innovación inigualables. Y cuando las fotos importan, las cámaras triples y telefoto capturan cada detalle impresionante, haciendo justicia a cualquier escena.\nSu precio actual en Amazon ronda los... 573 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Motorola Edge Plus]\n\n[10 seconds] CONCLUSION\n-Dale- al like si te gustó y recuerda que los links están en el primer comentario.\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 2:28\nTONE: engaging\nPACING: quick\nKEYWORDS: celulares, novedosos, amazon\n"
+}

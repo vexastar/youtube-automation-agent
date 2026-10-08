@@ -1,0 +1,141 @@
+{
+  "title": "Top 3 Accesorios Imprescindibles para tu Setup Gamer",
+  "hook": {
+    "type": "statement",
+    "text": "¿Quieres llevar tu experiencia gaming al siguiente nivel y sorprender a todos con tu setup?",
+    "duration": "0:00-0:05"
+  },
+  "introduction": {
+    "greeting": "Hoy te traemos tres accesorios que no solo mejorarán tu experiencia gamer, sino que además transformarán tu espacio en un auténtico paraíso tecnológico. ¡No te lo puedes perder!",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0:05-0:15"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Micrófono con cancelación",
+        "content": [
+          "¿Te imaginas tener una calidad de voz tan clara que tus amigos piensen que estás transmitiendo desde un estudio profesional? El Micrófono con cancelación elimina el ruido ambiental, asegurando que solo se escuche tu voz en su máxima nitidez.",
+          "Está disponible por solo 69.09 dólares en Amazon, el enlace está en la descripción."
+        ],
+        "visuals": [
+          "Product image: Micrófono con cancelación"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B00N1YPXW2.mp4",
+        "precio": "$69.09"
+      },
+      {
+        "type": "content",
+        "title": "Tira LED inteligente",
+        "content": [
+          "Imagina poder cambiar el ambiente de tu habitación con solo un toque, sumergiéndote en un mundo de colores vibrantes. La Tira LED inteligente permite personalizar la iluminación de tu espacio gamer, creando atmósferas únicas.",
+          "Consíguela por solo 13.49 dólares en Amazon, enlace en la descripción."
+        ],
+        "visuals": [
+          "Product image: Tira LED inteligente"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0991Q94KP.mp4",
+        "precio": "13.49"
+      },
+      {
+        "type": "content",
+        "title": "Soporte ajustable para monitor",
+        "content": [
+          "¿Alguna vez has deseado que tu monitor esté justo a la altura perfecta para evitar molestias en el cuello y la espalda? El Soporte ajustable para monitor te da la flexibilidad de colocar tu pantalla exactamente donde la necesitas para una comodidad óptima.",
+          "Disponible por 68.99 dólares en Amazon, el enlace está en la descripción."
+        ],
+        "visuals": [
+          "Product image: Soporte ajustable para monitor"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07T5SY43L.mp4",
+        "precio": "$68.99"
+      }
+    ],
+    "totalDuration": 75
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "Espero que estos accesorios te hayan sorprendido tanto como a mí. No olvides dejar un like, suscribirte y dejar un comentario sobre cuál fue tu favorito. ¡Hasta la próxima!"
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:45",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "accesorios",
+    "imprescindibles",
+    "para",
+    "setup",
+    "gamer"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 3 Accesorios Imprescindibles para tu Setup Gamer",
+      "angle": "Top 3 Accesorios Imprescindibles para tu Setup Gamer",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 3,
+      "introScript": "¿Un dispositivo que elimina el ruido de fondo? ¿Una luz que transforma tu espacio en segundos? No te puedes perder estos accesorios que llevarán tu setup gamer a otro nivel.",
+      "keywords": [
+        "accesorios",
+        "imprescindibles",
+        "para",
+        "setup",
+        "gamer"
+      ],
+      "estimatedViews": 4220,
+      "bestPublishTime": "2026-04-07T19:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Micrófono con cancelación",
+          "searchTermEn": "noise cancelling microphone"
+        },
+        {
+          "nombre": "Tira LED inteligente",
+          "searchTermEn": "smart LED strip lights"
+        },
+        {
+          "nombre": "Soporte ajustable para monitor",
+          "searchTermEn": "adjustable monitor stand"
+        }
+      ],
+      "createdAt": "2026-04-06T22:49:10.716Z"
+    },
+    "generatedAt": "2026-04-06T22:51:14.822Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Micrófono con cancelación",
+        "searchTermEn": "noise cancelling microphone"
+      },
+      {
+        "nombre": "Tira LED inteligente",
+        "searchTermEn": "smart LED strip lights"
+      },
+      {
+        "nombre": "Soporte ajustable para monitor",
+        "searchTermEn": "adjustable monitor stand"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 3 Accesorios Imprescindibles para tu Setup Gamer\n\n══════════════════════════════════════════════════\n\n[0:00-0:05] HOOK\n¿Quieres llevar tu experiencia gaming al siguiente nivel y sorprender a todos con tu setup?\n\n[0:05-0:15] INTRODUCTION\nHoy te traemos tres accesorios que no solo mejorarán tu experiencia gamer, sino que además transformarán tu espacio en un auténtico paraíso tecnológico. ¡No te lo puedes perder!\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] MICRÓFONO CON CANCELACIÓN\n¿Te imaginas tener una calidad de voz tan clara que tus amigos piensen que estás transmitiendo desde un estudio profesional? El Micrófono con cancelación elimina el ruido ambiental, asegurando que solo se escuche tu voz en su máxima nitidez.\nEstá disponible por solo 69.09 dólares en Amazon, el enlace está en la descripción.\n\n[VISUALS: Product image: Micrófono con cancelación]\n\n[0:25] TIRA LED INTELIGENTE\nImagina poder cambiar el ambiente de tu habitación con solo un toque, sumergiéndote en un mundo de colores vibrantes. La Tira LED inteligente permite personalizar la iluminación de tu espacio gamer, creando atmósferas únicas.\nConsíguela por solo 13.49 dólares en Amazon, enlace en la descripción.\n\n[VISUALS: Product image: Tira LED inteligente]\n\n[0:25] SOPORTE AJUSTABLE PARA MONITOR\n¿Alguna vez has deseado que tu monitor esté justo a la altura perfecta para evitar molestias en el cuello y la espalda? El Soporte ajustable para monitor te da la flexibilidad de colocar tu pantalla exactamente donde la necesitas para una comodidad óptima.\nDisponible por 68.99 dólares en Amazon, el enlace está en la descripción.\n\n[VISUALS: Product image: Soporte ajustable para monitor]\n\n[10 seconds] CONCLUSION\nEspero que estos accesorios te hayan sorprendido tanto como a mí. No olvides dejar un like, suscribirte y dejar un comentario sobre cuál fue tu favorito. ¡Hasta la próxima!\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:45\nTONE: engaging\nPACING: quick\nKEYWORDS: accesorios, imprescindibles, para, setup, gamer\n"
+}

@@ -1,0 +1,71 @@
+{
+  "topCategories": [
+    {
+      "category": "28",
+      "frequency": 313
+    },
+    {
+      "category": "22",
+      "frequency": 67
+    },
+    {
+      "category": "20",
+      "frequency": 11
+    }
+  ],
+  "avgEngagement": {},
+  "topPerformers": [
+    {
+      "productName": "SVANTTO Lápiz Traductor",
+      "category": 28,
+      "publishDate": "2026-10-07T01:07:13.726Z"
+    },
+    {
+      "productName": "Tap Strap 2",
+      "category": 28,
+      "publishDate": "2026-10-07T01:07:13.721Z"
+    },
+    {
+      "productName": "LaView Cámaras de Seguridad 4pcs",
+      "category": 28,
+      "publishDate": "2026-10-07T01:07:13.713Z"
+    },
+    {
+      "productName": "Organizador de Llaves para Hombres",
+      "category": 22,
+      "publishDate": "2026-10-07T00:20:04.900Z"
+    },
+    {
+      "productName": "NEBO TRANSPORT 400 Cargador de Coche",
+      "category": 22,
+      "publishDate": "2026-10-07T00:20:04.896Z"
+    },
+    {
+      "productName": "Cartera de cuero minimalista Slim para",
+      "category": 22,
+      "publishDate": "2026-10-07T00:20:04.890Z"
+    },
+    {
+      "productName": "ecobee Termostato Inteligente Premium",
+      "category": 22,
+      "publishDate": "2026-10-07T00:20:04.881Z"
+    },
+    {
+      "productName": "MOFT Soporte Plegable para Laptop Mesa",
+      "category": 22,
+      "publishDate": "2026-10-06T23:29:06.645Z"
+    },
+    {
+      "productName": "Ooni Koda 16 Horno de Pizza",
+      "category": 22,
+      "publishDate": "2026-10-06T23:29:06.642Z"
+    },
+    {
+      "productName": "Ekster Parliament Wallet",
+      "category": 22,
+      "publishDate": "2026-10-06T23:29:06.639Z"
+    }
+  ],
+  "lastUpdated": "2026-10-07T01:07:13.735Z",
+  "totalProductsPublished": 391
+}

@@ -1,0 +1,131 @@
+{
+  "title": "Top 1 Gadget para Automatizar tu Casa",
+  "hook": {
+    "type": "statement",
+    "text": "",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "25s-35s"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Philips Hue Starter Kit",
+        "productId": "B0FMGR8TGB",
+        "productName": "Philips Hue Starter Kit",
+        "filename": "B0FMGR8TGB.mp4",
+        "asin": "B0FMGR8TGB",
+        "videoDuration": 30.098,
+        "estimatedAudioSeconds": 34,
+        "framework": "comparacion_precio",
+        "narracionSegments": null,
+        "content": [
+          "¿Sabes cuánto podrías ahorrar con Philips Hue Starter Kit? Incorpora el futurista Hue Bridge más cuatro bombillas inteligentes E26 para crear ambiente con color. Puedes ajustar desde el brillo completo hasta el dos por ciento. Controla tu luz con solo tu voz; compatible con Alexa o Google Assistant. Instala el Bridge y las bombillas usando la aplicación Hue. Descubre millones de colores y escenas preestablecidas; cambia tu espacio al instante con un simple comando.",
+          "Su precio actual ronda los ochenta dólares. Link en comentarios."
+        ],
+        "visuals": [
+          "Product image: Philips Hue Starter Kit"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0FMGR8TGB.mp4",
+        "precio": "$80",
+        "productPhoto": "https://m.media-amazon.com/images/I/71OADJeUs1L.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "¿QUÉ HAY EN LA CAJA? - Este kit de inicio incluye un Hue Bridge y cuatro bombillas inteligentes E26; para comenzar, instala tu Bridge y la bombilla de cambio de color usando la aplicación Hue, y estarás listo para empezar.",
+          "CREA AMBIENTE CON COLOR - Establece el estado de ánimo con millones de colores y una biblioteca de escenas de luz preestablecidas diseñadas por los expertos en iluminación de Hue, con escenas especiales para las festividades y la opción de crear las tuyas propias.",
+          "DIM EASILY - Ajusta desde el brillo completo hasta el 2% utilizando la aplicación Hue para lograr el nivel adecuado de iluminación con tu bombilla inteligente, ya sea que estés leyendo o relajándote antes de dormir.",
+          "CONTROL CON TU VOZ - Conéctate a tu asistente de hogar preferido y controla tu bombilla LED sin esfuerzo con comandos de voz—compatible con Alexa, Google Assistant y Apple Home."
+        ]
+      }
+    ],
+    "totalDuration": 40
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      ""
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:10",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadget",
+    "para",
+    "automatizar",
+    "casa"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 1 Gadget para Automatizar tu Casa",
+      "angle": "Top 1 Gadget para Automatizar tu Casa",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 1,
+      "introScript": "Imagina poder controlar toda la iluminación de tu hogar desde la palma de tu mano, ajustando la intensidad o el color para cualquier ocasión con tan solo un toque. ¿Te gustaría que tu casa respondiera a tu estado de ánimo o incluso programarla para simular tu presencia cuando estás fuera? Hoy te presento un gadget que ha revolucionado el concepto de hogar inteligente y que está a un clic de distancia. Descubre cómo este dispositivo puede transformar tu día a día de manera sorprendente.",
+      "keywords": [
+        "gadget",
+        "para",
+        "automatizar",
+        "casa"
+      ],
+      "estimatedViews": 6147,
+      "bestPublishTime": "2026-07-17T20:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Philips Hue Starter Kit",
+          "searchTermEn": "Philips Hue Starter Kit",
+          "id": "B0FMGR8TGB",
+          "filename": "B0FMGR8TGB.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-07-16T19:13:42.697Z",
+      "_requestedCount": 1,
+      "_adaptedCount": 1,
+      "introProductsOrder": [
+        {
+          "nombre": "Philips Hue Starter Kit",
+          "id": "B0FMGR8TGB",
+          "filename": "B0FMGR8TGB.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0FMGR8TGB.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1784229297905_jfylp9"
+    },
+    "generatedAt": "2026-07-16T19:15:04.915Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Philips Hue Starter Kit",
+        "searchTermEn": "Philips Hue Starter Kit",
+        "id": "B0FMGR8TGB",
+        "filename": "B0FMGR8TGB.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 1 Gadget para Automatizar tu Casa\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\n\n\n[25s-35s] INTRODUCTION\n\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] PHILIPS HUE STARTER KIT\n¿Sabes cuánto podrías ahorrar con Philips Hue Starter Kit? Incorpora el futurista Hue Bridge más cuatro bombillas inteligentes E26 para crear ambiente con color. Puedes ajustar desde el brillo completo hasta el dos por ciento. Controla tu luz con solo tu voz; compatible con Alexa o Google Assistant. Instala el Bridge y las bombillas usando la aplicación Hue. Descubre millones de colores y escenas preestablecidas; cambia tu espacio al instante con un simple comando.\nSu precio actual ronda los ochenta dólares. Link en comentarios.\n\n[VISUALS: Product image: Philips Hue Starter Kit]\n\n[10 seconds] CONCLUSION\n\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:10\nTONE: engaging\nPACING: quick\nKEYWORDS: gadget, para, automatizar, casa\n"
+}

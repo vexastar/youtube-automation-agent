@@ -1,0 +1,645 @@
+{
+  "title": "Top 10 Gadgets de Domótica para tu Casa en Amazon",
+  "hook": {
+    "type": "statement",
+    "text": "",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "25s-35s"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "August Smart Lock Pro",
+        "productId": "B082VXRND2",
+        "productName": "August Smart Lock Pro",
+        "filename": "B082VXRND2.mp4",
+        "asin": "B082VXRND2",
+        "videoDuration": 59.993267,
+        "estimatedAudioSeconds": 36,
+        "framework": "experiencia_sensorial",
+        "narracionSegments": null,
+        "content": [
+          "¿Cansado de buscar tus llaves todos los días? August Smart Lock Pro transforma tu cerradura tradicional en una moderna maravilla tecnológica. Olvida las copias: ahora, con la aplicación August, concede acceso instantáneo y programado a quien elijas. Ajusta fácilmente el dispositivo sobre cualquier puerta en solo 10 minutos. Escucha el suave clic de tu puerta asegurándose al salir con Auto-Lock, y experimenta la sensación futurista del desbloqueo automático al regresar. Su precio actual ronda los 300 dólares. ¡Link ya!",
+          "Su precio actual ronda los 300 dólares. ¡Link ya!"
+        ],
+        "visuals": [
+          "Product image: August Smart Lock Pro"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B082VXRND2_combined.mp4",
+        "precio": "$300",
+        "productPhoto": "https://m.media-amazon.com/images/I/61q0KLYHm8L.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B082VXRND2.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          }
+        ],
+        "features": [
+          "MEJORA TU CERRADURA EXISTENTE: Las cerraduras inteligentes August se instalan en el interior de tu puerta, haciendo que tu cerradura de seguridad regular sea más inteligente, más segura y mucho más conveniente. Guarda tus llaves por si acaso (pero no las necesitarás).",
+          "\"\"\"CONCEDE ACCESO CON LA APLICACIÓN AUGUST: Olvídate de copiar llaves. Comparte de manera rápida y sencilla acceso permanente, programado o temporal a tu hogar con amigos, familiares y otras personas en las que confías, y nunca más escondas una llave debajo del felpudo.\"\"\"",
+          "FÁCIL DE INSTALAR EN CUALQUIER PUERTA: Incluso si no eres muy hábil, la instalación solo toma unos 10 minutos. Las cerraduras August se ajustan perfectamente sobre la mayoría de los cerrojos de un solo cilindro y no son mucho más grandes que tu giro de pulgar original.",
+          "\"\"\"CERRADURAS AUTOMÁTICAS Y DESBLOQUEO: August Wi-Fi Smart Lock es capaz de desbloquearse automáticamente cuando llegas a casa para un desbloqueo totalmente manos libres (opcional). Con Auto-Lock y DoorSense, tu hogar se asegura automáticamente una vez que la puerta está cerrada, o después de un tiempo establecido.\"\"\"",
+          "\"\"\"FUNCIONA SIN PROBLEMAS CON TU HOGAR INTELIGENTE: El Wi-Fi integrado permite que tu cerradura funcione con tu asistente de voz favorito, incluyendo Amazon Alexa, Google Assistant, Apple HomeKit, Samsung SmartThings y más.\"\"\""
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Philips Hue Starter Kit",
+        "productId": "B09BSHFLD9",
+        "productName": "Philips Hue Starter Kit",
+        "filename": "B09BSHFLD9.mp4",
+        "asin": "B09BSHFLD9",
+        "videoDuration": 59.926533,
+        "estimatedAudioSeconds": 32,
+        "framework": "problema_solucion",
+        "narracionSegments": null,
+        "content": [
+          "¿La misma luz aburrida cada noche? Philips Hue Starter Kit transforma tu hogar con bombillas inteligentes que cambian de color. Añade color a cualquier habitación. Controla con voz o app desde cualquier lugar. Enchufa el Hue Bridge, conecta las cuatro bombillas de 75W, ilumina el ambiente. Configura escenas predefinidas, desliza para efectos dinámicos. Cada lámpara mejora tu ánimo y productividad sin esfuerzo. Personaliza y automatiza con Matter para un hogar inteligente.",
+          "Su precio actual ronda los 115 dólares. ¡Link ya!"
+        ],
+        "visuals": [
+          "Product image: Philips Hue Starter Kit"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B09BSHFLD9_combined.mp4",
+        "precio": "$115",
+        "productPhoto": "https://m.media-amazon.com/images/I/718sR33MVrL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B09BSHFLD9.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción luces",
+            "raw": "9|interacción luces"
+          }
+        ],
+        "features": [
+          "¿QUÉ HAY EN LA CAJA? - Incluye un Hue Bridge y cuatro bombillas inteligentes Hue White and Color Ambiance de 75W A19, adecuadas para la mayoría de las luminarias; Perfectas para iluminación decorativa y general en cualquier lugar de tu hogar.",
+          "DESBLOQUEA TODO EL POTENCIAL DE HUE CON EL PUENTE INCLUIDO - Disfruta del control de automatizaciones desde cualquier lugar del mundo y de una conexión segura y estable que no agotará tu Wi-Fi. Utiliza Matter para conectar dispositivos inteligentes del hogar a tu sistema de iluminación inteligente Hue.",
+          "\"\"\"DISFRUTA ESCENAS PREDETERMINADAS - Ilumina tus rutinas a lo largo del día; Configura una escena de luz natural de 24 horas que imita el sol o elige luz para ayudarte a concentrarte, relajarte y más.\"\"\"",
+          "CONTROL POR VOZ - Control inteligente conveniente; Configura el control por voz en la aplicación Hue y utiliza comandos de voz simples para controlar tus luces con Alexa o Google Assistant.",
+          "PERSONALIZA TU LUZ - Crea la iluminación ambiental definitiva con efectos de luz dinámicos que muestran cambios sutiles en brillo y color; Personaliza en la app."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Nest Learning Thermostat",
+        "productId": "B0D5BGST5N",
+        "productName": "Nest Learning Thermostat",
+        "filename": "B0D5BGST5N.mp4",
+        "asin": "B0D5BGST5N",
+        "videoDuration": 59.9599,
+        "estimatedAudioSeconds": 34,
+        "framework": "enfoque_caracteristica",
+        "narracionSegments": null,
+        "content": [
+          "Nunca creíste que el control de temperatura podía ser así. Google Nest Learning Thermostat, la evolución más inteligente de termostato. Funciona con la mayoría de los sistemas y no necesita cable C. Desde tu app Google Home, ajusta la temperatura desde cualquier lugar o usa comandos de voz con Alexa o Siri. Mira cómo la pantalla un 60% más grande te muestra el clima desde lejos. Pide ajustes para ahorrar energía y recíbelos al instante.",
+          "Su precio actual ronda los... 230 dólares. ¡Link ya!"
+        ],
+        "visuals": [
+          "Product image: Nest Learning Thermostat"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0D5BGST5N_combined.mp4",
+        "precio": "$230",
+        "productPhoto": "https://m.media-amazon.com/images/I/61NKDb2TthL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0D5BGST5N.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "termostato inteligente",
+            "raw": "9|termostato inteligente"
+          }
+        ],
+        "features": [
+          "El termostato más inteligente y avanzado de Nest hasta ahora, el Google Nest Learning Thermostat (4th gen), es una forma hermosa y brillante de ahorrar energía, mantener tu hogar cómodo y ayudar a asegurar que tus sistemas de calefacción y refrigeración funcionen sin problemas.",
+          "Compatibilidad mejorada: Funciona con la mayoría de los sistemas de 24V, incluyendo gas, eléctrico, aceite, aire forzado, bomba de calor y radiante, y no se requiere un cable C para la instalación en la mayoría de los hogares; visita el Nest Compatibility Checker para más información.",
+          "Control fácil en la aplicación Google Home: Ajusta desde tu teléfono desde cualquier lugar[1] o usando tu voz con Alexa, Siri o el altavoz inteligente Google Assistant[3]. Es fácil de instalar tú mismo y es compatible con Matter para una integración sencilla en tu hogar inteligente[5].",
+          "Diseño hermoso: Con una pantalla un 60% más grande[11] y Dynamic Farsight, puedes ver información desde el otro lado de la habitación[1]; elige el diseño, como un reloj o el clima; ajusta automáticamente el brillo para la mejor legibilidad o puedes ajustarlo manualmente.",
+          "Mejor visibilidad en los ajustes: Pide permiso para realizar cambios en el horario para ayudarte a ahorrar energía; recibirás notificaciones en la aplicación Google Home, y podrás ver y aceptar cambios con un toque[1]."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Arlo Pro 4 Camera",
+        "productId": "B0DDRT2T87",
+        "productName": "Arlo Pro 4 Camera",
+        "filename": "B0DDRT2T87.mp4",
+        "asin": "B0DDRT2T87",
+        "videoDuration": 59.9599,
+        "estimatedAudioSeconds": 32,
+        "framework": "beneficio_oculto",
+        "narracionSegments": null,
+        "content": [
+          "¿Buscas seguridad máxima con mínima instalación? Arlo Pro 4 Camera ofrece video en 2K HDR para detalles nítidos, desde rostros hasta matrículas. Gracias a su visión nocturna a color con foco, graba imágenes claras después del anochecer. Simplemente instala, conecta vía Wi-Fi y siente la tranquilidad. Sus alertas inteligentes te notificarán de cualquier movimiento detectado, mientras el audio bidireccional te permite comunicarte directamente a través de la cámara para mayor control.",
+          "Su precio actual ronda los... 180 dólares. ¡Link ya!"
+        ],
+        "visuals": [
+          "Product image: Arlo Pro 4 Camera"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0DDRT2T87_combined.mp4",
+        "precio": "$180",
+        "productPhoto": "https://m.media-amazon.com/images/I/61od55N7+jL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "Calidad de video 2K HDR: el kit de 4 cámaras captura video 2K HDR nítido con un zoom de 12x para identificar rostros, matrículas y detalles de paquetes. El campo de visión de 160 grados cubre áreas amplias con mínimos puntos ciegos.",
+          "Visión nocturna a color y foco: El foco integrado permite visión nocturna a todo color para grabaciones claras después del anochecer. La luz activada por movimiento también sirve como un disuasivo visual para intrusos. El diseño resistente a la intemperie funciona de manera confiable tanto en interiores como en exteriores.",
+          "Inalámbrico con batería recargable: Conectividad Wi-Fi de doble banda con baterías recargables intercambiables — sin necesidad de cableado. Cada kit incluye 4 cámaras, 4 baterías, 2 cables de carga magnéticos y 4 soportes para pared. Compatible con paneles solares opcionales para energía continua.",
+          "\"\"\"Alertas inteligentes y audio bidireccional: Notificaciones push en tiempo real a través de la aplicación Arlo Secure con descripciones de eventos. El audio bidireccional te permite escuchar y hablar a través de la cámara. Funciona con Alexa para control por voz. Detecta movimiento, ladridos y llantos.\"\"\"",
+          "Plan Arlo Secure (incluye prueba de 1 mes): La prueba incluye almacenamiento en la nube por 60 días, detección de personas/vehículos/paquetes/animales, despacho de respuesta de emergencia y soporte experto 24/7 a través de la app. Se requiere suscripción paga después del período de prueba. Soporte solo en EE. UU."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Ring Video Doorbell 4",
+        "productId": "B0BZWRLRLK",
+        "productName": "Ring Video Doorbell 4",
+        "filename": "B0BZWRLRLK.mp4",
+        "asin": "B0BZWRLRLK",
+        "videoDuration": 59.9599,
+        "estimatedAudioSeconds": 32,
+        "framework": "comparacion_precio",
+        "narracionSegments": null,
+        "content": [
+          "¿Crees que todos los videoporteros son iguales? Con Ring Video Doorbell 4, obtienes un 66% más de cobertura vertical, ideal para vigilar tu hogar o negocio. Su batería integrada se carga fácilmente con USB-C. Solo desengancha y conecta. Observa cada visita en vivo con Live View y habla con quien toque tu puerta usando Two-Way Talk. Comparado con otros costos similares, por solo 180 dólares, obtienes funciones de última generación.",
+          "Su precio actual ronda los... 180 dólares. ¡Link ya!"
+        ],
+        "visuals": [
+          "Product image: Ring Video Doorbell 4"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0BZWRLRLK_combined.mp4",
+        "precio": "$180",
+        "productPhoto": "https://m.media-amazon.com/images/I/71jjXaL-MZL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0BZWRLRLK.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Interacción video",
+            "raw": "9|Interacción video"
+          }
+        ],
+        "features": [
+          "Ve más en tu hogar o negocio: obtén un 66% más de cobertura vertical con la última versión del Video Doorbell (2nd Gen) más vendido de Ring, que ahora cuenta con Video de Cabeza a Pies.",
+          "Batería Integrada — El timbre con batería incluye una batería integrada, que se carga con un conveniente puerto de carga USB-C. Para recargar, simplemente desengancha tu timbre de la pared y conéctalo al cable de carga incluido.",
+          "Instala en un instante: cárgalo, colócalo en su lugar y mantente conectado directamente desde tu teléfono.",
+          "Conéctate a quien está allí: Ve y responde a la actividad con Live View y Two-Way Talk.",
+          "Mantente informado: recibe alertas en tiempo real en tu teléfono cuando se detecta movimiento."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Ecovacs Deebot N79S",
+        "productId": "B08CSVDHTR",
+        "productName": "Ecovacs Deebot N79S",
+        "filename": "B08CSVDHTR.mp4",
+        "asin": "B08CSVDHTR",
+        "videoDuration": 59.993267,
+        "estimatedAudioSeconds": 23,
+        "framework": "dato_numerico",
+        "narracionSegments": null,
+        "content": [
+          "{\n  \"narracion\": \"¿Sabías que puedes limpiar 2,000 pies cuadrados sin esfuerzo? El Ecovacs Deebot N79S ofrece limpieza y fregado simultáneos gracias a su tanque de agua de 240 ml. Además, su sistema OZMO permite control preciso del agua. Presiona un botón, observa cómo el Deebot escanea con TrueMapp",
+          "Su precio actual ronda los... 180 dólares. ¡Link ya!"
+        ],
+        "visuals": [
+          "Product image: Ecovacs Deebot N79S"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B08CSVDHTR_combined.mp4",
+        "precio": "$180",
+        "productPhoto": "https://m.media-amazon.com/images/I/61JJeUZE3kL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B08CSVDHTR.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Robot aspirador",
+            "raw": "8|Robot aspirador"
+          }
+        ],
+        "features": [
+          "Aspirado y fregado simultáneos: Succión, barrido y fregado integrados en una sola acción. El gran tanque de agua de 240ml puede cubrir más de 2,000 sq. ft. de fregado. El sistema de fregado OZMO integrado soporta 4 niveles de control preciso del agua para satisfacer tus diversas necesidades de fregado.",
+          "\"\"\"Mapeo y navegación láser de precisión: Con la avanzada tecnología TrueMapping, el T8 mapea tu hogar con 2X más cobertura y 4X más precisión que los modelos anteriores. Puede guardar mapas de tu hogar de múltiples pisos un 30% más rápido, proporcionando una limpieza profunda mejorada y potente.\"\"\"",
+          "Detección de objetos inteligente: Con la tecnología de percepción del entorno TrueDetect 3D, T8 puede detectar objetos como cables, zapatillas y muebles hasta el nivel de milímetro, evitando colisiones y brindándote una limpieza ininterrumpida.",
+          "Limpieza personalizada potente: Con la aplicación ECOVACS, puedes dividir o fusionar áreas, etiquetar habitaciones, establecer secuencias de limpieza, elegir diferentes horarios de limpieza, potencia de succión y nivel de flujo de agua para diferentes áreas. También puedes establecer zonas de no acceso y zonas de no fregado para que ciertas áreas no sean limpiadas ni fregadas.",
+          "Compatible con OZMO Pro y la estación de auto-vaciado: T8 es actualizable a OZMO Pro, un potente trapeador oscilante, y la estación de auto-vaciado de 2.5L que recoge automáticamente la suciedad y los desechos de tu T8, brindándote una experiencia verdaderamente sin manos durante al menos 30 días. (Ambos se pueden comprar por separado.)"
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Eufy Security Smart Lock",
+        "productId": "B0C7C69FPS",
+        "productName": "Eufy Security Smart Lock",
+        "filename": "B0C7C69FPS.mp4",
+        "asin": "B0C7C69FPS",
+        "videoDuration": 59.9599,
+        "estimatedAudioSeconds": 31,
+        "framework": "experiencia_sensorial",
+        "narracionSegments": null,
+        "content": [
+          "¿Cansado de buscar llaves en la oscuridad? Eufy Security Smart Lock ofrece desbloqueo por huella digital en menos de 1.5 segundos. Con Wi-Fi integrado, controla desde cualquier lugar. Desliza el dedo sobre el escáner, siente la suavidad del metal mientras la puerta se desbloquea sin esfuerzo. Usa su aplicación para gestionar accesos o revisa notificaciones al instante. Todo con una batería que dura 8 meses, garantizando comodidad prolongada.",
+          "Su precio actual ronda los 100 dólares. ¡Link ya!"
+        ],
+        "visuals": [
+          "Product image: Eufy Security Smart Lock"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0C7C69FPS_combined.mp4",
+        "precio": "$100",
+        "productPhoto": "https://m.media-amazon.com/images/I/61ezD6vxluL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0C7C69FPS.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          }
+        ],
+        "features": [
+          "\"\"\"8 meses de duración de la batería: Con 8 pilas AA, Smart Lock C220 funciona alrededor de 8 meses. Experimenta la máxima conveniencia y tranquilidad con nuestra solución de energía de larga duración. *Puede variar dependiendo de la frecuencia de uso de la cerradura.\"\"\"",
+          "IA de autoaprendizaje: El reconocimiento de cerraduras de puerta por huella dactilar se vuelve más preciso con cada toque, así que no tienes que intentar una y otra vez para entrar. Nunca te sientas incómodo o molesto al desbloquear la puerta. [6 formas de desbloquear] Desbloquea con un toque en menos de 1.5s con la cerradura de huella dactilar. También puedes abrir la cerradura de tu puerta principal a través de la aplicación eufy Security, utilizando el teclado o la llave física, desde Apple Watch, o usar tu voz con Alexa/Google Voice Assistant.",
+          "Controla desde cualquier lugar con Wi-Fi integrado: No se requiere puente, puedes controlar tu cerradura inteligente wifi desde cualquier lugar a través de la aplicación eufy Security. Configuración fácil. (Gestión de acceso, Notificación en tiempo real, Historial de eventos) [Ecosistema integrado de eufy] Si tienes un timbre eufy, puedes añadir tu cerradura de puerta wifi a tus rutinas y controlar dispositivos juntos para un acceso sin llave dentro de la aplicación eufy Security.",
+          "Instalación fácil y excelente servicio al cliente: Compatible con la mayoría de los cerrojos estándar de EE. UU. y CA. Instalación fácil en 15 minutos sin necesidad de perforar. [Si encuentras algún problema, por favor contacta al servicio al cliente. Eufy está disponible para ti 7*24h] Disfruta de una protección de 18 meses respaldada por un servicio al cliente profesional.",
+          "Seguridad y Durabilidad: Envía una alarma activada por un intento inusual de abrir tu cerradura inteligente de cerrojo. Las temperaturas de funcionamiento oscilan entre -22℉ y 158℉ (-30℃ a 70℃). Impermeable IP53."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Ecobee SmartThermostat",
+        "productId": "B0B1X7G9J2",
+        "productName": "Ecobee SmartThermostat",
+        "filename": "B0B1X7G9J2.mp4",
+        "asin": "B0B1X7G9J2",
+        "videoDuration": 60.06006,
+        "estimatedAudioSeconds": 30,
+        "framework": "problema_solucion",
+        "narracionSegments": null,
+        "content": [
+          "¿Batallas con el costo de energía? Ecobee SmartThermostat ahorra hasta un 26% al año. Integración energética inteligente, certificada por ENERGY STAR. Coloca el SmartSensor en cualquier habitación y disfrutarás confort sin puntos fríos o calientes. Controla desde tu dispositivo iOS o Android, y usa Siri o Alexa para ajustes manos libres. Configura mientras descansas; ajusta la temperatura a tu gusto desde la cama o el sofá.",
+          "Su precio actual ronda los 240 dólares. ¡Link ya!"
+        ],
+        "visuals": [
+          "Product image: Ecobee SmartThermostat"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0B1X7G9J2_combined.mp4",
+        "precio": "$240",
+        "productPhoto": "https://m.media-amazon.com/images/I/51izt0Hzw5L.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "Ahorra hasta un 26%* al año en costos de calefacción y refrigeración. Certificado por ENERGY STAR. Incluye SmartSensor (valor de 50 dólares) que ajusta la temperatura en las habitaciones que más importan para reducir puntos calientes o fríos y mantenerte cómodo. *Comparado con un ajuste de 72°F/22°C.",
+          "El SmartSensor incluido te mantiene cómodo donde estés, no solo donde está tu termostato. Simplemente coloca el SmartSensor en el dormitorio, la oficina o la habitación del niño para un confort y control total.",
+          "\"Controla desde cualquier lugar con tu dispositivo iOS o Android.\"",
+          "\"Se integra a la perfección con tu sistema de hogar inteligente preferido.\"",
+          "Viene con Siri y Alexa integrados para un control manos libres, a tu manera."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Kasa Smart Plug",
+        "productId": "B07RCNB2L3",
+        "productName": "Kasa Smart Plug",
+        "filename": "B07RCNB2L3.mp4",
+        "asin": "B07RCNB2L3",
+        "videoDuration": 59.926533,
+        "estimatedAudioSeconds": 33,
+        "framework": "enfoque_caracteristica",
+        "narracionSegments": null,
+        "content": [
+          "¿Control total con solo tu voz? Kasa Smart Plug te lo permite. Este enchufe inteligente permite control por voz a través de Alexa y Google Assistant. Con conexión Wi-Fi de 2.4GHz, puedes enchufarlo, seguir las instrucciones en la app Kasa, y tener el poder en tus manos. Enciende o apaga desde cualquier lugar con tu smartphone, ya sea que estés en casa o de vacaciones. Programa encendidos automáticos y olvídate de preocupaciones.",
+          "Su precio actual ronda los 30 dólares. ¡Link ya!"
+        ],
+        "visuals": [
+          "Product image: Kasa Smart Plug"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07RCNB2L3_combined.mp4",
+        "precio": "$30",
+        "productPhoto": "https://m.media-amazon.com/images/I/51zoLDBO0wL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07RCNB2L3.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "producto pequeño",
+            "raw": "5|producto pequeño"
+          }
+        ],
+        "features": [
+          "Control por voz: Kasa smart plugs que funcionan con Alexa y Google Home Assistant. Disfruta de la comodidad de controlar cualquier electrodoméstico del hogar de forma manos libres con tu voz a través de Amazon Alexa o Google Assistant. Compatible con Android 5.0 o superior y iOS 10.0 o superior.",
+          "Control de Smart Outlet desde cualquier lugar: Enciende y apaga tus dispositivos de hogar inteligente desde cualquier lugar con tu smartphone utilizando la app Kasa, ya sea que estés en casa, en la oficina o de vacaciones.",
+          "Programación: Utiliza temporizadores o horarios de cuenta regresiva para configurar tu enchufe inteligente wifi para que encienda y apague automáticamente cualquier electrodoméstico del hogar, como lámparas, ventiladores, humidificadores, luces navideñas, etc. La aplicación Kasa es gratuita y es compatible con iOS 10.0 o posterior.",
+          "Fácil de configurar y usar: se requiere conexión Wi-Fi de 2.4GHz. Conéctalo, abre la aplicación Kasa, sigue las sencillas instrucciones y disfruta.",
+          "Confiable y seguro: Diseñado y desarrollado en Silicon Valley, Kasa es confiado por más de 5 millones de usuarios y ha sido la elección de los lectores de PCMag 2020. Certificado por UL para un uso seguro."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Wyze Cam Pan",
+        "productId": "B09JSWYD4G",
+        "productName": "Wyze Cam Pan",
+        "filename": "B09JSWYD4G.mp4",
+        "asin": "B09JSWYD4G",
+        "videoDuration": 59.926533,
+        "estimatedAudioSeconds": 33,
+        "framework": "beneficio_oculto",
+        "narracionSegments": null,
+        "content": [
+          "¿Cansado de perderte momentos cruciales? Wyze Cam Pan descubre cada rincón con su cobertura 360° y visión nocturna a color para una vigilancia total. Sigue la acción, incluso de noche, gracias a su sensor Starlight que ilumina escenas oscuras. Enchufa, conecta y deja que siga el movimiento de tu hogar. Habla desde cualquier lugar usando su audio bidireccional. Presiona para activar una mini-sirena. Compatible con Alexa y Google Assistant para más control.",
+          "Su precio actual ronda los... 42 dólares. ¡Link ya!"
+        ],
+        "visuals": [
+          "Product image: Wyze Cam Pan"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B09JSWYD4G_combined.mp4",
+        "precio": "$42",
+        "productPhoto": "https://m.media-amazon.com/images/I/51EFcmFm-DL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B09JSWYD4G.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Cámara inteligente",
+            "raw": "9|Cámara inteligente"
+          }
+        ],
+        "features": [
+          "Pan/Tilt/Zoom: Sigue la acción dondequiera que vaya con 360° de cobertura horizontal y un rango vertical de 93°. Establece la ruta de patrullaje de la cámara con hasta 4 puntos de referencia personalizados.",
+          "\"\"\"1080P Visión Nocturna a Color: Wyze Cam está equipada con un sensor Starlight que permite a la cámara ver en color en condiciones de luz extremadamente baja. Ambos modos de visión nocturna necesitan ALGUNA luz para funcionar.\"\"\"",
+          "Audio Bidireccional y Mini-Siren: Habla con tu mascota/bebé/niño/padre desde cualquier lugar. Presiona el botón de la sirena en la aplicación Wyze para ahuyentar a los invitados no deseados.",
+          "Funciona con Alexa y Google Assistant: Usa tu voz para ver la transmisión en vivo de Wyze Cam en cualquier dispositivo con pantalla de Alexa o Google Assistant. Puedes decir cosas como “Alexa, muéstrame la sala” o “Google, muéstrame la habitación del bebé.”",
+          "Soporta WiFi de 2.4GHz: Solo funciona con WiFi de 2.4GHz. No es compatible con redes de 5GHz. Soporta los protocolos WPA y WPA2."
+        ]
+      }
+    ],
+    "totalDuration": 400
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      ""
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "7:10",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "domtica",
+    "para",
+    "casa",
+    "amazon"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 10 Gadgets de Domótica para tu Casa en Amazon",
+      "angle": "Top 10 Gadgets de Domótica para tu Casa en Amazon",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 10,
+      "introScript": "¿Te imaginas controlar las luces de tu casa con solo un gesto? ¿O tener una cerradura inteligente que solo se abre con tu huella digital? Hoy te traigo diez gadgets de domótica que harán que tu hogar sea más inteligente. Cada uno de estos dispositivos te ofrece funciones avanzadas, desde cámaras que reconocen caras hasta termostatos que aprenden tus preferencias. Prepárate, porque estos productos están a solo un clic de distancia para transformar tu vida diaria.",
+      "keywords": [
+        "gadgets",
+        "domtica",
+        "para",
+        "casa",
+        "amazon"
+      ],
+      "estimatedViews": 6288,
+      "bestPublishTime": "2026-07-14T19:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "August Smart Lock Pro",
+          "searchTermEn": "August Smart Lock Pro",
+          "id": "B082VXRND2",
+          "filename": "B082VXRND2.mp4"
+        },
+        {
+          "nombre": "Philips Hue Starter Kit",
+          "searchTermEn": "Philips Hue Smart Light Kit",
+          "id": "B09BSHFLD9",
+          "filename": "B09BSHFLD9.mp4"
+        },
+        {
+          "nombre": "Nest Learning Thermostat",
+          "searchTermEn": "Nest Learning Thermostat",
+          "id": "B0D5BGST5N",
+          "filename": "B0D5BGST5N.mp4"
+        },
+        {
+          "nombre": "Arlo Pro 4 Camera",
+          "searchTermEn": "Arlo Pro 4 Security Camera",
+          "id": "B0DDRT2T87",
+          "filename": "B0DDRT2T87.mp4"
+        },
+        {
+          "nombre": "Ring Video Doorbell 4",
+          "searchTermEn": "Ring Video Doorbell 4",
+          "id": "B0BZWRLRLK",
+          "filename": "B0BZWRLRLK.mp4"
+        },
+        {
+          "nombre": "Ecovacs Deebot N79S",
+          "searchTermEn": "Ecovacs Deebot N79S Robot Vacuum",
+          "id": "B08CSVDHTR",
+          "filename": "B08CSVDHTR.mp4"
+        },
+        {
+          "nombre": "Eufy Security Smart Lock",
+          "searchTermEn": "Eufy Security Smart Lock",
+          "id": "B0C7C69FPS",
+          "filename": "B0C7C69FPS.mp4"
+        },
+        {
+          "nombre": "Ecobee SmartThermostat",
+          "searchTermEn": "Ecobee SmartThermostat Voice Control",
+          "id": "B0B1X7G9J2",
+          "filename": "B0B1X7G9J2.mp4"
+        },
+        {
+          "nombre": "Kasa Smart Plug",
+          "searchTermEn": "Kasa Smart Plug HS103P4",
+          "id": "B07RCNB2L3",
+          "filename": "B07RCNB2L3.mp4"
+        },
+        {
+          "nombre": "Wyze Cam Pan",
+          "searchTermEn": "Wyze Cam Pan 1080p",
+          "id": "B09JSWYD4G",
+          "filename": "B09JSWYD4G.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-07-07T15:41:49.977Z",
+      "_requestedCount": 10,
+      "_adaptedCount": 10,
+      "introProductsOrder": [
+        {
+          "nombre": "Ecobee SmartThermostat",
+          "id": "B0B1X7G9J2",
+          "filename": "B0B1X7G9J2_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0B1X7G9J2_combined.mp4"
+        },
+        {
+          "nombre": "Wyze Cam Pan",
+          "id": "B09JSWYD4G",
+          "filename": "B09JSWYD4G_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B09JSWYD4G_combined.mp4"
+        },
+        {
+          "nombre": "Ring Video Doorbell 4",
+          "id": "B0BZWRLRLK",
+          "filename": "B0BZWRLRLK_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0BZWRLRLK_combined.mp4"
+        },
+        {
+          "nombre": "Philips Hue Starter Kit",
+          "id": "B09BSHFLD9",
+          "filename": "B09BSHFLD9_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B09BSHFLD9_combined.mp4"
+        },
+        {
+          "nombre": "Ecovacs Deebot N79S",
+          "id": "B08CSVDHTR",
+          "filename": "B08CSVDHTR_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B08CSVDHTR_combined.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1783440134012_1kwsu0"
+    },
+    "generatedAt": "2026-07-07T16:03:13.026Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "August Smart Lock Pro",
+        "searchTermEn": "August Smart Lock Pro",
+        "id": "B082VXRND2",
+        "filename": "B082VXRND2.mp4"
+      },
+      {
+        "nombre": "Philips Hue Starter Kit",
+        "searchTermEn": "Philips Hue Smart Light Kit",
+        "id": "B09BSHFLD9",
+        "filename": "B09BSHFLD9.mp4"
+      },
+      {
+        "nombre": "Nest Learning Thermostat",
+        "searchTermEn": "Nest Learning Thermostat",
+        "id": "B0D5BGST5N",
+        "filename": "B0D5BGST5N.mp4"
+      },
+      {
+        "nombre": "Arlo Pro 4 Camera",
+        "searchTermEn": "Arlo Pro 4 Security Camera",
+        "id": "B0DDRT2T87",
+        "filename": "B0DDRT2T87.mp4"
+      },
+      {
+        "nombre": "Ring Video Doorbell 4",
+        "searchTermEn": "Ring Video Doorbell 4",
+        "id": "B0BZWRLRLK",
+        "filename": "B0BZWRLRLK.mp4"
+      },
+      {
+        "nombre": "Ecovacs Deebot N79S",
+        "searchTermEn": "Ecovacs Deebot N79S Robot Vacuum",
+        "id": "B08CSVDHTR",
+        "filename": "B08CSVDHTR.mp4"
+      },
+      {
+        "nombre": "Eufy Security Smart Lock",
+        "searchTermEn": "Eufy Security Smart Lock",
+        "id": "B0C7C69FPS",
+        "filename": "B0C7C69FPS.mp4"
+      },
+      {
+        "nombre": "Ecobee SmartThermostat",
+        "searchTermEn": "Ecobee SmartThermostat Voice Control",
+        "id": "B0B1X7G9J2",
+        "filename": "B0B1X7G9J2.mp4"
+      },
+      {
+        "nombre": "Kasa Smart Plug",
+        "searchTermEn": "Kasa Smart Plug HS103P4",
+        "id": "B07RCNB2L3",
+        "filename": "B07RCNB2L3.mp4"
+      },
+      {
+        "nombre": "Wyze Cam Pan",
+        "searchTermEn": "Wyze Cam Pan 1080p",
+        "id": "B09JSWYD4G",
+        "filename": "B09JSWYD4G.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 10 Gadgets de Domótica para tu Casa en Amazon\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\n\n\n[25s-35s] INTRODUCTION\n\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] AUGUST SMART LOCK PRO\n¿Cansado de buscar tus llaves todos los días? August Smart Lock Pro transforma tu cerradura tradicional en una moderna maravilla tecnológica. Olvida las copias: ahora, con la aplicación August, concede acceso instantáneo y programado a quien elijas. Ajusta fácilmente el dispositivo sobre cualquier puerta en solo 10 minutos. Escucha el suave clic de tu puerta asegurándose al salir con Auto-Lock, y experimenta la sensación futurista del desbloqueo automático al regresar. Su precio actual ronda los 300 dólares. ¡Link ya!\nSu precio actual ronda los 300 dólares. ¡Link ya!\n\n[VISUALS: Product image: August Smart Lock Pro]\n\n[0:25] PHILIPS HUE STARTER KIT\n¿La misma luz aburrida cada noche? Philips Hue Starter Kit transforma tu hogar con bombillas inteligentes que cambian de color. Añade color a cualquier habitación. Controla con voz o app desde cualquier lugar. Enchufa el Hue Bridge, conecta las cuatro bombillas de 75W, ilumina el ambiente. Configura escenas predefinidas, desliza para efectos dinámicos. Cada lámpara mejora tu ánimo y productividad sin esfuerzo. Personaliza y automatiza con Matter para un hogar inteligente.\nSu precio actual ronda los 115 dólares. ¡Link ya!\n\n[VISUALS: Product image: Philips Hue Starter Kit]\n\n[0:25] NEST LEARNING THERMOSTAT\nNunca creíste que el control de temperatura podía ser así. Google Nest Learning Thermostat, la evolución más inteligente de termostato. Funciona con la mayoría de los sistemas y no necesita cable C. Desde tu app Google Home, ajusta la temperatura desde cualquier lugar o usa comandos de voz con Alexa o Siri. Mira cómo la pantalla un 60% más grande te muestra el clima desde lejos. Pide ajustes para ahorrar energía y recíbelos al instante.\nSu precio actual ronda los... 230 dólares. ¡Link ya!\n\n[VISUALS: Product image: Nest Learning Thermostat]\n\n[0:25] ARLO PRO 4 CAMERA\n¿Buscas seguridad máxima con mínima instalación? Arlo Pro 4 Camera ofrece video en 2K HDR para detalles nítidos, desde rostros hasta matrículas. Gracias a su visión nocturna a color con foco, graba imágenes claras después del anochecer. Simplemente instala, conecta vía Wi-Fi y siente la tranquilidad. Sus alertas inteligentes te notificarán de cualquier movimiento detectado, mientras el audio bidireccional te permite comunicarte directamente a través de la cámara para mayor control.\nSu precio actual ronda los... 180 dólares. ¡Link ya!\n\n[VISUALS: Product image: Arlo Pro 4 Camera]\n\n[0:25] RING VIDEO DOORBELL 4\n¿Crees que todos los videoporteros son iguales? Con Ring Video Doorbell 4, obtienes un 66% más de cobertura vertical, ideal para vigilar tu hogar o negocio. Su batería integrada se carga fácilmente con USB-C. Solo desengancha y conecta. Observa cada visita en vivo con Live View y habla con quien toque tu puerta usando Two-Way Talk. Comparado con otros costos similares, por solo 180 dólares, obtienes funciones de última generación.\nSu precio actual ronda los... 180 dólares. ¡Link ya!\n\n[VISUALS: Product image: Ring Video Doorbell 4]\n\n[0:25] ECOVACS DEEBOT N79S\n{\n  \"narracion\": \"¿Sabías que puedes limpiar 2,000 pies cuadrados sin esfuerzo? El Ecovacs Deebot N79S ofrece limpieza y fregado simultáneos gracias a su tanque de agua de 240 ml. Además, su sistema OZMO permite control preciso del agua. Presiona un botón, observa cómo el Deebot escanea con TrueMapp\nSu precio actual ronda los... 180 dólares. ¡Link ya!\n\n[VISUALS: Product image: Ecovacs Deebot N79S]\n\n[0:25] EUFY SECURITY SMART LOCK\n¿Cansado de buscar llaves en la oscuridad? Eufy Security Smart Lock ofrece desbloqueo por huella digital en menos de 1.5 segundos. Con Wi-Fi integrado, controla desde cualquier lugar. Desliza el dedo sobre el escáner, siente la suavidad del metal mientras la puerta se desbloquea sin esfuerzo. Usa su aplicación para gestionar accesos o revisa notificaciones al instante. Todo con una batería que dura 8 meses, garantizando comodidad prolongada.\nSu precio actual ronda los 100 dólares. ¡Link ya!\n\n[VISUALS: Product image: Eufy Security Smart Lock]\n\n[0:25] ECOBEE SMARTTHERMOSTAT\n¿Batallas con el costo de energía? Ecobee SmartThermostat ahorra hasta un 26% al año. Integración energética inteligente, certificada por ENERGY STAR. Coloca el SmartSensor en cualquier habitación y disfrutarás confort sin puntos fríos o calientes. Controla desde tu dispositivo iOS o Android, y usa Siri o Alexa para ajustes manos libres. Configura mientras descansas; ajusta la temperatura a tu gusto desde la cama o el sofá.\nSu precio actual ronda los 240 dólares. ¡Link ya!\n\n[VISUALS: Product image: Ecobee SmartThermostat]\n\n[0:25] KASA SMART PLUG\n¿Control total con solo tu voz? Kasa Smart Plug te lo permite. Este enchufe inteligente permite control por voz a través de Alexa y Google Assistant. Con conexión Wi-Fi de 2.4GHz, puedes enchufarlo, seguir las instrucciones en la app Kasa, y tener el poder en tus manos. Enciende o apaga desde cualquier lugar con tu smartphone, ya sea que estés en casa o de vacaciones. Programa encendidos automáticos y olvídate de preocupaciones.\nSu precio actual ronda los 30 dólares. ¡Link ya!\n\n[VISUALS: Product image: Kasa Smart Plug]\n\n[0:25] WYZE CAM PAN\n¿Cansado de perderte momentos cruciales? Wyze Cam Pan descubre cada rincón con su cobertura 360° y visión nocturna a color para una vigilancia total. Sigue la acción, incluso de noche, gracias a su sensor Starlight que ilumina escenas oscuras. Enchufa, conecta y deja que siga el movimiento de tu hogar. Habla desde cualquier lugar usando su audio bidireccional. Presiona para activar una mini-sirena. Compatible con Alexa y Google Assistant para más control.\nSu precio actual ronda los... 42 dólares. ¡Link ya!\n\n[VISUALS: Product image: Wyze Cam Pan]\n\n[10 seconds] CONCLUSION\n\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 7:10\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, domtica, para, casa, amazon\n"
+}

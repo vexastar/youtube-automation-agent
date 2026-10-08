@@ -1,0 +1,139 @@
+{
+  "title": "Top 3 gadgets asombrosos para tu cocina",
+  "hook": {
+    "type": "statement",
+    "text": "¿Listo para revolucionar tu cocina con gadgets que no sabías que necesitabas?",
+    "duration": "0:00-0:05"
+  },
+  "introduction": {
+    "greeting": "Descubre tres gadgets que transformarán tu cocina y harán tu vida más fácil.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0:05-0:15"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Cortador de espiral",
+        "content": [
+          "Imagina convertir cualquier vegetal en espirales perfectos. El cortador de espiral lo hace posible, creando fideos de verduras en segundos. Tamaño compacto y fácil de limpiar.",
+          "Está disponible por... 30.99 dólares en Amazon. ¡Enlace en la descripción!"
+        ],
+        "visuals": [
+          "Product image: Cortador de espiral"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B01MSZE4YK.mp4",
+        "precio": "30.99"
+      },
+      {
+        "type": "content",
+        "title": "Tapa para microondas",
+        "content": [
+          "¿Cansado de las salpicaduras en el microondas? La tapa para microondas mantiene tu aparato limpio y tus alimentos calientes. Es plegable y apta para lavavajillas.",
+          "Consíguela por solo... 10.99 dólares en Amazon. ¡Enlace en la descripción!"
+        ],
+        "visuals": [
+          "Product image: Tapa para microondas"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07GTC4NCV.mp4",
+        "precio": "10.99"
+      },
+      {
+        "type": "content",
+        "title": "Temporizador magnético",
+        "content": [
+          "Nunca más te preocupes por sobrecocinar. El temporizador magnético se adhiere a tu nevera y emite una alarma clara. Cuenta con una pantalla LED fácil de leer.",
+          "Está en oferta por... 16.95 dólares en Amazon. ¡Enlace en la descripción!"
+        ],
+        "visuals": [
+          "Product image: Temporizador magnético"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B09W2B267P.mp4",
+        "precio": "16.95"
+      }
+    ],
+    "totalDuration": 75
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "Si este video te fue útil, ¡suscríbete y dale like para más contenido increíble!"
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:45",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "asombrosos",
+    "para",
+    "cocina"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 3 Gadgets Asombrosos para tu Cocina",
+      "angle": "Top 3 Gadgets Asombrosos para tu Cocina",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 3,
+      "introScript": "¿Un cortador que en segundos transforma verduras en espaguetis? ¿Una tapa que evita desastres de cocción en el microondas? Prepárate para descubrir los gadgets más revolucionarios que mejorarán tu tiempo en la cocina.",
+      "keywords": [
+        "gadgets",
+        "asombrosos",
+        "para",
+        "cocina"
+      ],
+      "estimatedViews": 5191,
+      "bestPublishTime": "2026-04-10T20:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Cortador de espiral",
+          "searchTermEn": "vegetable spiral slicer"
+        },
+        {
+          "nombre": "Tapa para microondas",
+          "searchTermEn": "microwave food cover"
+        },
+        {
+          "nombre": "Temporizador magnético",
+          "searchTermEn": "magnetic kitchen timer"
+        }
+      ],
+      "createdAt": "2026-04-06T23:45:59.066Z"
+    },
+    "generatedAt": "2026-04-06T23:48:16.730Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Cortador de espiral",
+        "searchTermEn": "vegetable spiral slicer"
+      },
+      {
+        "nombre": "Tapa para microondas",
+        "searchTermEn": "microwave food cover"
+      },
+      {
+        "nombre": "Temporizador magnético",
+        "searchTermEn": "magnetic kitchen timer"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 3 gadgets asombrosos para tu cocina\n\n══════════════════════════════════════════════════\n\n[0:00-0:05] HOOK\n¿Listo para revolucionar tu cocina con gadgets que no sabías que necesitabas?\n\n[0:05-0:15] INTRODUCTION\nDescubre tres gadgets que transformarán tu cocina y harán tu vida más fácil.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] CORTADOR DE ESPIRAL\nImagina convertir cualquier vegetal en espirales perfectos. El cortador de espiral lo hace posible, creando fideos de verduras en segundos. Tamaño compacto y fácil de limpiar.\nEstá disponible por... 30.99 dólares en Amazon. ¡Enlace en la descripción!\n\n[VISUALS: Product image: Cortador de espiral]\n\n[0:25] TAPA PARA MICROONDAS\n¿Cansado de las salpicaduras en el microondas? La tapa para microondas mantiene tu aparato limpio y tus alimentos calientes. Es plegable y apta para lavavajillas.\nConsíguela por solo... 10.99 dólares en Amazon. ¡Enlace en la descripción!\n\n[VISUALS: Product image: Tapa para microondas]\n\n[0:25] TEMPORIZADOR MAGNÉTICO\nNunca más te preocupes por sobrecocinar. El temporizador magnético se adhiere a tu nevera y emite una alarma clara. Cuenta con una pantalla LED fácil de leer.\nEstá en oferta por... 16.95 dólares en Amazon. ¡Enlace en la descripción!\n\n[VISUALS: Product image: Temporizador magnético]\n\n[10 seconds] CONCLUSION\nSi este video te fue útil, ¡suscríbete y dale like para más contenido increíble!\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:45\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, asombrosos, para, cocina\n"
+}

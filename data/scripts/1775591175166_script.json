@@ -1,0 +1,139 @@
+{
+  "title": "Top 3 Gadgets Sorprendentes para tu Cocina",
+  "hook": {
+    "type": "statement",
+    "text": "Una tabla que pesa mientras cortas... un pelador que pela solo... y un recipiente que evita salpicaduras desastrosas.",
+    "duration": "0:00-0:05"
+  },
+  "introduction": {
+    "greeting": "Dale a suscribirse para más hallazgos como estos, y tranquilo, todos los links están en el primer comentario fijado.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0:05-0:10"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Tabla con balanza",
+        "content": [
+          "Medir y cortar ingredientes al mismo tiempo puede ser frustrante. La tabla con balanza resuelve esto al integrar una báscula digital para pesar mientras cortas. Su superficie es de bambú resistente y fácil de limpiar.",
+          "Su precio actual en Amazon ronda los... $14.99. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Tabla con balanza"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B09XLG3YQB.mp4",
+        "precio": "$14.99"
+      },
+      {
+        "type": "content",
+        "title": "Pelador automático",
+        "content": [
+          "Pelar frutas y verduras a mano puede ser lento y agotador. Con el pelador automático, simplemente coloca el alimento y observa cómo se pela solo en segundos. Funciona a pilas y es compacto para cualquier cocina.",
+          "Su precio actual en Amazon ronda los... $19.99. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Pelador automático"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0CHZ69ZFN.mp4",
+        "precio": "$19.99"
+      },
+      {
+        "type": "content",
+        "title": "Recipiente antisalpicaduras",
+        "content": [
+          "Las salpicaduras mientras cocinas pueden causar un desastre en tu cocina. El recipiente antisalpicaduras cuenta con una tapa ajustada que mantiene todo dentro mientras mezclas. Es apto para lavavajillas, lo que facilita su limpieza.",
+          "Su precio actual en Amazon ronda los... $24.99. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Recipiente antisalpicaduras"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0FBR9XKHX.mp4",
+        "precio": "$24.99"
+      }
+    ],
+    "totalDuration": 75
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "Dale like si te gustaron estos gadgets y recuerda que los links están en el primer comentario."
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:45",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "sorprendentes",
+    "para",
+    "cocina"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 3 Gadgets Sorprendentes para tu Cocina",
+      "angle": "Top 3 Gadgets Sorprendentes para tu Cocina",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 3,
+      "introScript": "¿Imaginas una tabla de cortar que se transforma en balanza? ¿O un gadget que pela automáticamente tus frutas en segundos? Hoy te mostraré estos gadgets que cambiarán cómo cocinas cada día.",
+      "keywords": [
+        "gadgets",
+        "sorprendentes",
+        "para",
+        "cocina"
+      ],
+      "estimatedViews": 4070,
+      "bestPublishTime": "2026-04-12T15:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Tabla con balanza",
+          "searchTermEn": "cutting board scale"
+        },
+        {
+          "nombre": "Pelador automático",
+          "searchTermEn": "automatic fruit peeler"
+        },
+        {
+          "nombre": "Recipiente antisalpicaduras",
+          "searchTermEn": "splash proof mixing bowl"
+        }
+      ],
+      "createdAt": "2026-04-07T19:46:08.653Z"
+    },
+    "generatedAt": "2026-04-07T19:46:15.030Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Tabla con balanza",
+        "searchTermEn": "cutting board scale"
+      },
+      {
+        "nombre": "Pelador automático",
+        "searchTermEn": "automatic fruit peeler"
+      },
+      {
+        "nombre": "Recipiente antisalpicaduras",
+        "searchTermEn": "splash proof mixing bowl"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 3 Gadgets Sorprendentes para tu Cocina\n\n══════════════════════════════════════════════════\n\n[0:00-0:05] HOOK\nUna tabla que pesa mientras cortas... un pelador que pela solo... y un recipiente que evita salpicaduras desastrosas.\n\n[0:05-0:10] INTRODUCTION\nDale a suscribirse para más hallazgos como estos, y tranquilo, todos los links están en el primer comentario fijado.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] TABLA CON BALANZA\nMedir y cortar ingredientes al mismo tiempo puede ser frustrante. La tabla con balanza resuelve esto al integrar una báscula digital para pesar mientras cortas. Su superficie es de bambú resistente y fácil de limpiar.\nSu precio actual en Amazon ronda los... $14.99. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Tabla con balanza]\n\n[0:25] PELADOR AUTOMÁTICO\nPelar frutas y verduras a mano puede ser lento y agotador. Con el pelador automático, simplemente coloca el alimento y observa cómo se pela solo en segundos. Funciona a pilas y es compacto para cualquier cocina.\nSu precio actual en Amazon ronda los... $19.99. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Pelador automático]\n\n[0:25] RECIPIENTE ANTISALPICADURAS\nLas salpicaduras mientras cocinas pueden causar un desastre en tu cocina. El recipiente antisalpicaduras cuenta con una tapa ajustada que mantiene todo dentro mientras mezclas. Es apto para lavavajillas, lo que facilita su limpieza.\nSu precio actual en Amazon ronda los... $24.99. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Recipiente antisalpicaduras]\n\n[10 seconds] CONCLUSION\nDale like si te gustaron estos gadgets y recuerda que los links están en el primer comentario.\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:45\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, sorprendentes, para, cocina\n"
+}

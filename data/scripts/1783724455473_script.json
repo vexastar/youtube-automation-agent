@@ -1,0 +1,188 @@
+{
+  "title": "Top 2 gadgets ergonómicos que necesitas en tu lugar de trabajo",
+  "hook": {
+    "type": "statement",
+    "text": "",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "25s-35s"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "LIFX Lightstrip Z",
+        "productId": "B0GFH6QWCT",
+        "productName": "LIFX Lightstrip Z",
+        "filename": "B0GFH6QWCT.mp4",
+        "asin": "B0GFH6QWCT",
+        "videoDuration": 23.157733,
+        "estimatedAudioSeconds": 36,
+        "framework": "beneficio_oculto",
+        "narracionSegments": null,
+        "content": [
+          "¿Buscas iluminación que reinvente tus espacios? LIFX Lightstrip Z, la revolución lumínica en tu hogar. Este LED flexible ofrece mil lúmenes de brillo. La solución perfecta para cualquier habitación. Cortable y personalizable para ajustarse a tus necesidades decorativas. Conecta por Wi-Fi; controla con Alexa o Google Assistant. Quítale el tope a tu imaginación... Presiona sus botones inteligentes y personaliza; adapta la atmósfera sin abrir aplicaciones. Ilumina cocinas y salas; transforma el ambiente. Simple, sin suscripciones y sin complicaciones.",
+          "Su precio actual ronda los diecinueve dólares. Link en comentarios."
+        ],
+        "visuals": [
+          "Product image: LIFX Lightstrip Z"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0GFH6QWCT.mp4",
+        "precio": "$19",
+        "productPhoto": "https://m.media-amazon.com/images/I/71ifirI10ML.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "\"\"\"ILUMINACIÓN BRILLANTE Y ENVOLVENTE CON RENDIMIENTO DE COLOR VERDADERO – Transforme cualquier habitación con el LIFX 20ft Smart LED Lightstrip que ofrece hasta 1000 lumens de brillo vívido. Disfrute de ricos colores RGB y luz blanca ajustable desde cálida hasta fría, tanto para crear ambiente como para la iluminación diaria. A diferencia de las tiras de acento tenues, este lightstrip es lo suficientemente brillante como para iluminar cocinas, salas de estar, dormitorios y configuraciones de juego, manteniendo colores precisos y saturados, así como un atenuado suave sin parpadeos.\"\"\"",
+          "\"\"\"HABILITADO PARA MATTER PARA UNA COMPATIBILIDAD PERFECTA EN EL HOGAR INTELIGENTE – Construido con soporte para Matter, este LIFX Strip Light funciona de manera confiable en los principales ecosistemas de hogares inteligentes para un rendimiento a prueba de futuro. Controla fácilmente la iluminación a través de Alexa, Google Assistant y plataformas compatibles con Matter utilizando Wi-Fi, sin necesidad de hub. Matter garantiza una configuración más rápida, conexiones estables y comunicación segura, lo que convierte a este lightstrip en una inversión inteligente que se adapta a medida que tu hogar inteligente crece.\"\"\"",
+          "DISEÑO PERSONALIZABLE – CORTABLE, EXTENSIBLE Y FLEXIBLE – Diseñada para ajustarse perfectamente a tu espacio, la tira de luz LED LIFX es cortable y extensible, lo que te permite personalizar la longitud para armarios, televisores, estanterías, escritorios o paredes de acento. Su construcción flexible se adapta fácilmente a las esquinas mientras mantiene un brillo constante en toda la tira. Ya sea que estés mejorando un pequeño espacio de trabajo o una gran área de entretenimiento, esta tira de luz se adapta sin sacrificar rendimiento.",
+          "EFECTOS DINÁMICOS, ESCENAS Y BOTONES DE ACCIÓN INTELIGENTES INCLUIDOS – Crea momentos de iluminación impresionantes con efectos dinámicos, gradientes de color, sincronización con música y preajustes de escenas a través de la aplicación LIFX. Incluye 4 Botones de Acción Inteligentes para control instantáneo: enciende/apaga las luces, activa escenas o ajusta el brillo sin abrir la aplicación. Perfecto para un acceso rápido en espacios concurridos, salas de juegos o hogares compartidos donde el control físico añade comodidad.",
+          "CONFIGURACIÓN FÁCIL DE WI-FI – SIN HUB, SIN SUSCRIPCIONES, SIN COMPLEJIDAD – Conéctate directamente a tu red Wi-Fi de 2.4GHz para una configuración rápida y un control fiable sin necesidad de hubs o puentes adicionales. Gestiona la iluminación de forma remota, automatiza horarios y sincroniza escenas sin esfuerzo a través de la aplicación LIFX. La instalación sencilla la hace ideal tanto para principiantes en hogares inteligentes como para usuarios avanzados que buscan características potentes sin hardware complicado."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Logitech MX Vertical",
+        "productId": "B07FNJB8TT",
+        "productName": "Logitech MX Vertical",
+        "filename": "B07FNJB8TT.mp4",
+        "asin": "B07FNJB8TT",
+        "videoDuration": 15.737967,
+        "estimatedAudioSeconds": 35,
+        "framework": "comparacion_precio",
+        "narracionSegments": null,
+        "content": [
+          "¿Te cuestan los dolores de muñeca? El Logitech MX Vertical, con su posición natural de apretón de manos, reduce el esfuerzo muscular un diez por ciento. Gracias a su ángulo vertical de cincuenta y siete grados. Mejora tu postura y reduce la presión en tu muñeca. Aprobado por ergonomistas; el ratón minimiza tensión muscular y fatiga por rastreo óptico avanzado con sensor cuatro mil DPI. Ajusta instantáneamente la velocidad del cursor tocando un botón.",
+          "Su precio actual ronda los... setenta y un dólares. Link en comentarios."
+        ],
+        "visuals": [
+          "Product image: Logitech MX Vertical"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07FNJB8TT.mp4",
+        "precio": "$71",
+        "productPhoto": "https://m.media-amazon.com/images/I/61iiZ-gDYEL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "POSICIÓN NATURAL DE APRETÓN DE MANOS - La posición natural de apretón de manos del MX Vertical reduce la actividad muscular en un 10 por ciento en comparación con un mouse estándar, sin ninguna pérdida en el rendimiento general.",
+          "\"\"\"ÁNGULO VERTICAL DE 57° PARA MEJORAR LA POSTURA DE LA MUÑECA - El ángulo vertical único de 57° de MX Vertical reduce la presión en tu muñeca, mientras que tu pulgar se encuentra cómodamente posicionado en el reposapulgares.\"\"\"",
+          "\"\"\"USUARIO PROBADO. APROBADO POR ERGONOMISTAS. MX Vertical ha sido diseñado y probado con criterios establecidos por los principales ergonomistas: mejorar la postura, reducir la tensión muscular y disminuir la presión en la muñeca.\"\"\"",
+          "RASTREO ÓPTICO AVANZADO CON INTERRUPTOR DE VELOCIDAD DEL CURSOR - El sensor de alta precisión de 4000 DPI resulta en un 4x menos movimiento de mano (1) y reduce la fatiga. El interruptor de velocidad del cursor ajusta instantáneamente la velocidad y precisión del DPI con solo tocar un botón.",
+          "(1) En comparación con un ratón tradicional con sensor de 1000 DPI."
+        ]
+      }
+    ],
+    "totalDuration": 80
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      ""
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:50",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "ergonmicos",
+    "necesitas",
+    "lugar",
+    "trabajo"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 2 gadgets ergonómicos que necesitas en tu lugar de trabajo",
+      "angle": "Top 3 gadgets ergonómicos que necesitas en tu lugar de trabajo",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 2,
+      "introScript": "Imagina un dispositivo que ajusta automáticamente tu monitor a la altura perfecta para reducir la tensión en tu cuello. O qué tal un ratón que adapta su forma a la postura de tu mano para un confort inimaginable. ¿Y si te dijera que existe una lámpara de escritorio que no solo ilumina, sino que también mejora la salud de tus ojos? Hoy exploramos tres gadgets revolucionarios que transformarán tu experiencia de trabajo, haciendo que la comodidad y la productividad sean una realidad tangible.",
+      "keywords": [
+        "gadgets",
+        "ergonmicos",
+        "necesitas",
+        "lugar",
+        "trabajo"
+      ],
+      "estimatedViews": 5500,
+      "bestPublishTime": "2026-07-16T19:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "LIFX Lightstrip Z",
+          "searchTermEn": "LIFX Lightstrip Z smart",
+          "id": "B0GFH6QWCT",
+          "filename": "B0GFH6QWCT.mp4"
+        },
+        {
+          "nombre": "Logitech MX Vertical",
+          "searchTermEn": "Logitech MX Vertical mouse",
+          "id": "B07FNJB8TT",
+          "filename": "B07FNJB8TT.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-07-10T22:55:10.638Z",
+      "_requestedCount": 3,
+      "_adaptedCount": 2,
+      "_adaptationNote": "ATENCIÓN: El usuario pidió 3 productos pero solo hay 2 clips de video disponibles. El guion, título y narrativa deben referirse EXCLUSIVAMENTE a 2 productos.",
+      "introProductsOrder": [
+        {
+          "nombre": "LIFX Lightstrip Z",
+          "id": "B0GFH6QWCT",
+          "filename": "B0GFH6QWCT.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0GFH6QWCT.mp4"
+        },
+        {
+          "nombre": "Logitech MX Vertical",
+          "id": "B07FNJB8TT",
+          "filename": "B07FNJB8TT.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07FNJB8TT.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1783724395282_9y71i7"
+    },
+    "generatedAt": "2026-07-10T23:00:13.909Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "LIFX Lightstrip Z",
+        "searchTermEn": "LIFX Lightstrip Z smart",
+        "id": "B0GFH6QWCT",
+        "filename": "B0GFH6QWCT.mp4"
+      },
+      {
+        "nombre": "Logitech MX Vertical",
+        "searchTermEn": "Logitech MX Vertical mouse",
+        "id": "B07FNJB8TT",
+        "filename": "B07FNJB8TT.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 2 gadgets ergonómicos que necesitas en tu lugar de trabajo\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\n\n\n[25s-35s] INTRODUCTION\n\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] LIFX LIGHTSTRIP Z\n¿Buscas iluminación que reinvente tus espacios? LIFX Lightstrip Z, la revolución lumínica en tu hogar. Este LED flexible ofrece mil lúmenes de brillo. La solución perfecta para cualquier habitación. Cortable y personalizable para ajustarse a tus necesidades decorativas. Conecta por Wi-Fi; controla con Alexa o Google Assistant. Quítale el tope a tu imaginación... Presiona sus botones inteligentes y personaliza; adapta la atmósfera sin abrir aplicaciones. Ilumina cocinas y salas; transforma el ambiente. Simple, sin suscripciones y sin complicaciones.\nSu precio actual ronda los diecinueve dólares. Link en comentarios.\n\n[VISUALS: Product image: LIFX Lightstrip Z]\n\n[0:25] LOGITECH MX VERTICAL\n¿Te cuestan los dolores de muñeca? El Logitech MX Vertical, con su posición natural de apretón de manos, reduce el esfuerzo muscular un diez por ciento. Gracias a su ángulo vertical de cincuenta y siete grados. Mejora tu postura y reduce la presión en tu muñeca. Aprobado por ergonomistas; el ratón minimiza tensión muscular y fatiga por rastreo óptico avanzado con sensor cuatro mil DPI. Ajusta instantáneamente la velocidad del cursor tocando un botón.\nSu precio actual ronda los... setenta y un dólares. Link en comentarios.\n\n[VISUALS: Product image: Logitech MX Vertical]\n\n[10 seconds] CONCLUSION\n\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:50\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, ergonmicos, necesitas, lugar, trabajo\n"
+}

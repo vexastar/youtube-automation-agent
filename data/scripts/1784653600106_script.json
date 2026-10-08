@@ -1,0 +1,132 @@
+{
+  "title": "Top 1 Gadget para el Cuidado del Césped",
+  "hook": {
+    "type": "statement",
+    "text": "",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "25s-35s"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Tertill Robot Cortacésped",
+        "productId": "B0FQTQ1M98",
+        "productName": "Tertill Robot Cortacésped",
+        "filename": "B0FQTQ1M98.mp4",
+        "asin": "B0FQTQ1M98",
+        "videoDuration": 47.882433,
+        "estimatedAudioSeconds": 33,
+        "framework": "enfoque_caracteristica",
+        "narracionSegments": null,
+        "content": [
+          "¿Harto de luchar contra la hierba gruesa? El Tertill Robot Cortacésped, con motor dual de trescientos vatios y cuchillas modulares, es la solución. Navegación precisa mediante RTK-GPS y sensores ultrasónicos permite un corte autónomo perfecto. Enfrenta terrenos difíciles gracias a sus orugas multi-terreno; maneja inclinaciones extremas. Simplemente enciende. La hierba húmeda y crecida desaparece. No más acumulaciones molestas; el diseño de eyección despeja obstáculos con facilidad.",
+          "Su precio actual ronda los... cinco mil trescientos noventa y nueve dólares. Link en comentarios."
+        ],
+        "visuals": [
+          "Product image: Tertill Robot Cortacésped"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0FQTQ1M98.mp4",
+        "precio": "$5399",
+        "productPhoto": "https://m.media-amazon.com/images/I/61ixPs26QlL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "Ideal para propietarios de propiedades premium: El cortacésped Yarbo Pro cuenta con un diseño modular, un sistema de corte robusto y navegación totalmente autónoma para un cuidado del césped confiable y de bajo esfuerzo. Corta hierba gruesa, húmeda y crecida con facilidad, siendo adecuado para hogares, campos de golf, granjas de césped, hoteles de lujo y resorts.",
+          "Opciones de 2 Cuchillas: Equipada con cuchillas de afeitar y cuchillas rectas, la cortadora de césped Yarbo Lawn Mower Pro logra un corte altamente eficiente tanto para gramíneas de temporada fría como para gramíneas de temporada cálida, húmedas y densas, reduciendo la frecuencia de limpieza y aumentando la eficiencia de trabajo continua.",
+          "No más obstrucciones: Equipado con un motor dual de 300W, disco de corte optimizado y un diseño de eyección de hierba de alta eficiencia, el Yarbo Lawn Mower Pro previene la acumulación de recortes de césped, reduce las paradas de limpieza y extiende la duración del trabajo continuo.",
+          "Navegación Precisa y Evitación de Obstáculos: Con una navegación de triple fusión (RTK-GPS + visión binocular + PPVS multi-sensorial), esta cortadora logra un posicionamiento preciso. Las cámaras binocular y los sensores ultrasónicos detectan todos los obstáculos, incluidos los suspendidos, optimizando los caminos para una evitación de obstáculos más segura.",
+          "Apropiado para Terrenos Complejos: Equipado con orugas multi-terreno patentadas y zapatos de deslizamiento de acero duradero, el Yarbo Lawn Mower Pro conquista fácilmente jardines irregulares, fangosos y pedregosos, soportando un gradiente de escalada máximo del 70% (35°) para ofrecer un rendimiento de corte estable en todos los terrenos complejos."
+        ]
+      }
+    ],
+    "totalDuration": 40
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      ""
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:10",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadget",
+    "para",
+    "cuidado",
+    "csped"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 1 Gadget para el Cuidado del Césped",
+      "angle": "Top 1 Gadget para el Cuidado del Césped",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 1,
+      "introScript": "¿Te imaginas una herramienta que corta el césped y lo riega al mismo tiempo? Así es, en el mundo de los gadgets inteligentes, existe un dispositivo que promete darte el jardín perfecto con el mínimo esfuerzo. Si alguna vez soñaste con un jardín verde y reluciente sin pasar horas bajo el sol, este innovador producto podría ser tu nuevo aliado. Pero, ¿qué hace tan especial a esta herramienta? Hoy descubrirás el secreto detrás de este asombroso invento que ya está disponible para transformar tu jardín.",
+      "keywords": [
+        "gadget",
+        "para",
+        "cuidado",
+        "csped"
+      ],
+      "estimatedViews": 4165,
+      "bestPublishTime": "2026-07-28T19:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Tertill Robot Cortacésped",
+          "searchTermEn": "Tertill robot lawn mower",
+          "id": "B0FQTQ1M98",
+          "filename": "B0FQTQ1M98.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-07-21T17:03:55.899Z",
+      "_requestedCount": 1,
+      "_adaptedCount": 1,
+      "introProductsOrder": [
+        {
+          "nombre": "Tertill Robot Cortacésped",
+          "id": "B0FQTQ1M98",
+          "filename": "B0FQTQ1M98.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0FQTQ1M98.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1784653577804_9sy1rp"
+    },
+    "generatedAt": "2026-07-21T17:06:27.048Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Tertill Robot Cortacésped",
+        "searchTermEn": "Tertill robot lawn mower",
+        "id": "B0FQTQ1M98",
+        "filename": "B0FQTQ1M98.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 1 Gadget para el Cuidado del Césped\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\n\n\n[25s-35s] INTRODUCTION\n\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] TERTILL ROBOT CORTACÉSPED\n¿Harto de luchar contra la hierba gruesa? El Tertill Robot Cortacésped, con motor dual de trescientos vatios y cuchillas modulares, es la solución. Navegación precisa mediante RTK-GPS y sensores ultrasónicos permite un corte autónomo perfecto. Enfrenta terrenos difíciles gracias a sus orugas multi-terreno; maneja inclinaciones extremas. Simplemente enciende. La hierba húmeda y crecida desaparece. No más acumulaciones molestas; el diseño de eyección despeja obstáculos con facilidad.\nSu precio actual ronda los... cinco mil trescientos noventa y nueve dólares. Link en comentarios.\n\n[VISUALS: Product image: Tertill Robot Cortacésped]\n\n[10 seconds] CONCLUSION\n\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:10\nTONE: engaging\nPACING: quick\nKEYWORDS: gadget, para, cuidado, csped\n"
+}

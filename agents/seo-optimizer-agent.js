@@ -1,4 +1,13 @@
+const OpenAI = require('openai');
 const { Logger } = require('../utils/logger');
+
+// Durations configurable via env (keep consistent with other agents)
+const PER_PRODUCT_DURATION_MIN = parseInt(process.env.PER_PRODUCT_DURATION_MIN || '30', 10);
+const PER_PRODUCT_DURATION_MAX = parseInt(process.env.PER_PRODUCT_DURATION_MAX || '50', 10);
+const PER_PRODUCT_DURATION_DEFAULT = parseInt(process.env.PER_PRODUCT_DURATION_DEFAULT || String(Math.round((PER_PRODUCT_DURATION_MIN + PER_PRODUCT_DURATION_MAX)/2)), 10);
+const INTRO_DURATION_MIN = parseInt(process.env.INTRO_DURATION_MIN || '25', 10);
+const INTRO_DURATION_MAX = parseInt(process.env.INTRO_DURATION_MAX || '30', 10);
+const INTRO_DURATION_AVG = Math.round((INTRO_DURATION_MIN + INTRO_DURATION_MAX) / 2);
 
 class SEOOptimizerAgent {
   constructor(db, credentials) {
@@ -6,6 +15,15 @@ class SEOOptimizerAgent {
     this.credentials = credentials;
     this.logger = new Logger('SEOOptimizer');
     this.keywordDatabase = new Map();
+
+    // Initialize OpenAI (idéntico al patrón usado por ScriptWriter)
+    const creds = credentials.credentials || credentials;
+    const apiKey = creds.openai?.apiKey || process.env.OPENAI_API_KEY;
+    if (apiKey) {
+      this.openai = new OpenAI({ apiKey });
+    } else {
+      this.logger.warn('OpenAI API key no encontrada — SEO usará fallback heurístico.');
+    }
   }
 
   async initialize() {
@@ -28,55 +46,284 @@ class SEOOptimizerAgent {
   async optimize(script, strategy) {
     try {
       this.logger.info(`Optimizing SEO for: ${script.title}`);
-      
-      // Generate optimized title
-      const title = await this.optimizeTitle(script.title, strategy);
-      
-      // Generate description
-      const description = await this.generateDescription(script, strategy);
-      
-      // Extract and optimize tags
-      const tags = await this.generateTags(script, strategy);
-      
-      // Generate hashtags
+
+      // ── Construir datos derivados (timestamps + enlaces afiliado) ──
+      const productsData = this._buildProductsData(script);
+      const chapters = this._buildChaptersFromProducts(productsData);
       const hashtags = await this.generateHashtags(strategy);
-      
-      // Create chapters/timestamps
-      const chapters = await this.generateChapters(script);
-      
-      // Generate end screen elements
-      const endScreen = await this.generateEndScreenStrategy();
-      
-      // Calculate SEO score
+      const niche = this.identifyNiche(strategy);
+
+      // ── Llamar al LLM con contrato estricto ──
+      let llmResult = null;
+      if (this.openai) {
+        try {
+          llmResult = await this._generateSEOWithLLM(strategy, productsData, niche);
+        } catch (e) {
+          this.logger.warn(`LLM SEO falló (${e.message}) — usando fallback heurístico.`);
+        }
+      }
+
+      // ── Fallback heurístico si LLM no disponible ──
+      let title, description, tags;
+      if (llmResult) {
+        title = llmResult.titulo_seleccionado;
+        description = llmResult.descripcion_optimizada;
+        tags = llmResult.tags;
+      } else {
+        title = await this.optimizeTitle(script.title, strategy);
+        description = await this.generateDescription(script, strategy);
+        tags = await this.generateTags(script, strategy);
+      }
+
+      // ── Saneamientos defensivos sobre la salida del LLM ──
+      title = this._enforceTitleLimit(title, 65);
+      tags = this._enforceTagLimits(tags);
+
+      // ── Garantizar que la lista de afiliados+timestamps esté presente ──
+      // Si el LLM la omitió o cambió el formato, la inyectamos.
+      description = this._ensureAffiliateListInDescription(description, productsData);
+
       const seoScore = await this.calculateSEOScore(title, description, tags);
-      
+
       const seoData = {
         title,
         description,
         tags,
         hashtags,
         chapters,
-        endScreen,
+        endScreen: await this.generateEndScreenStrategy(),
         seoScore,
         metadata: {
-          primaryKeyword: strategy.keywords[0],
-          secondaryKeywords: strategy.keywords.slice(1, 5),
+          primaryKeyword: (strategy.keywords && strategy.keywords[0]) || strategy.topic,
+          secondaryKeywords: (strategy.keywords || []).slice(1, 5),
           targetLength: this.calculateOptimalLength(strategy.contentType),
-          language: 'en',
+          language: process.env.CONTENT_LANGUAGE || 'es',
           category: this.selectCategory(strategy)
         },
+        // Salida cruda del LLM, útil para debugging y para publishing-scheduling-agent
+        llmOutput: llmResult || null,
         createdAt: new Date().toISOString()
       };
-      
-      // Save to database
+
       await this.db.saveSEOData(seoData);
-      
-      this.logger.info(`SEO optimization complete. Score: ${seoScore}/100`);
+      this.logger.info(`SEO optimization complete. Score: ${seoScore}/100 — Title (${title.length}c): "${title}"`);
       return seoData;
     } catch (error) {
       this.logger.error('Failed to optimize SEO:', error);
       throw error;
     }
+  }
+
+  /**
+   * Construye la lista de productos enriquecida con timestamp acumulado y URL de afiliado.
+   * Usa estimatedAudioSeconds o clipDuration por sección para timestamps realistas.
+   */
+  _buildProductsData(script) {
+    const sections = (script.mainContent && script.mainContent.sections) || [];
+    const tag = process.env.AMAZON_AFFILIATE_TAG || '';
+    const INTRO_SECONDS = 15; // hook (~10s) + introduccion (~5s)
+
+    const products = [];
+    let cursor = INTRO_SECONDS;
+
+    for (let i = 0; i < sections.length; i++) {
+      const sec = sections[i];
+      const asin = sec.asin || sec.productId || null;
+      const name = sec.productName || sec.title || `Producto ${i + 1}`;
+      const dur = Number(sec.estimatedAudioSeconds) || Number(sec.clipDuration) || 25;
+
+      const mm = Math.floor(cursor / 60);
+      const ss = Math.floor(cursor % 60);
+      const timestamp = `${mm.toString().padStart(2, '0')}:${ss.toString().padStart(2, '0')}`;
+
+      const affiliateUrl = asin
+        ? `https://www.amazon.com/dp/${asin}${tag ? `?tag=${tag}` : ''}`
+        : null;
+
+      products.push({ index: i + 1, asin, name, timestamp, affiliateUrl, durationSeconds: dur });
+      cursor += dur;
+    }
+
+    return products;
+  }
+
+  _buildChaptersFromProducts(productsData) {
+    const chapters = [{ time: '00:00', title: 'Introducción', seconds: 0 }];
+    for (const p of productsData) {
+      const [mm, ss] = p.timestamp.split(':').map(Number);
+      chapters.push({ time: p.timestamp, title: p.name, seconds: mm * 60 + ss });
+    }
+    return chapters;
+  }
+
+  /**
+   * Llama a GPT-4o con el System Prompt CTR-first y obtiene JSON estricto:
+   *   { titulo_seleccionado, descripcion_optimizada, tags }
+   */
+  async _generateSEOWithLLM(strategy, productsData, niche) {
+    const year = new Date().getFullYear();
+    const channelName = process.env.CHANNEL_NAME || 'Tech Finds Amazon';
+    const language = process.env.CONTENT_LANGUAGE || 'es';
+
+    // Lista exacta de líneas de afiliado que el LLM DEBE incluir literalmente.
+    const affiliateLines = productsData.map(p =>
+      `${p.timestamp} - ${p.name} 👉 ${p.affiliateUrl || '(enlace no disponible)'}`
+    );
+
+    const systemPrompt = [
+      `Eres un experto en SEO y CTR para YouTube en ${language}.`,
+      `Tu objetivo es maximizar el Click-Through Rate y la retención algorítmica del canal "${channelName}".`,
+      `NO escribes como una IA: tu copia es punzante, emocional y humana.`,
+      '',
+      '╔══════════════════════════════════════════════════════════════╗',
+      '║  REGLA 1 — TÍTULOS PARA CTR (3 OPCIONES)                    ║',
+      '║  Genera 3 títulos. Cada uno DEBE:                            ║',
+      '║   • Tener MÁXIMO 65 caracteres (cuenta los espacios).        ║',
+      '║   • Incluir un gancho emocional fuerte. Ejemplos válidos:    ║',
+      '║     "Brutales", "Prohibidos", "Imprescindibles", "Locos",   ║',
+      '║     "Increíbles", "Salvajes", "Adictivos", "Insanos".       ║',
+      `║   • Mencionar el nicho (${niche}/gadgets/tech) y el año ${year}. ║`,
+      '║   • Sonar humano. NUNCA empezar con "Descubre los..." ni    ║',
+      '║     "Top 10 mejores...". Variar la apertura.                ║',
+      '║  Después elige el MEJOR de los 3 como "titulo_seleccionado". ║',
+      '╠══════════════════════════════════════════════════════════════╣',
+      '║  REGLA 2 — DESCRIPCIÓN EN FORMATO EMBUDO                    ║',
+      '║  Las PRIMERAS 2 LÍNEAS son lo único visible en búsqueda.    ║',
+      '║  Línea 1-2: párrafo denso en LSI keywords resumiendo los    ║',
+      '║  gadgets, mencionando "bienvenidos a tech finds amazon"    ║',
+      '║  de forma natural (autoridad de marca).                     ║',
+      '║  Después un párrafo expandido con keywords semánticas.      ║',
+      '╠══════════════════════════════════════════════════════════════╣',
+      '║  REGLA 3 — TIMESTAMPS + AFILIADOS (FORMATO LITERAL)         ║',
+      '║  En el cuerpo, incluye una sección titulada                  ║',
+      '║  "🛒 PRODUCTOS DEL VIDEO:" seguida de UNA LÍNEA POR PRODUCTO ║',
+      '║  con este formato EXACTO (copia textual, NO inventes):      ║',
+      '║    [Timestamp] - [Nombre Corto y Atractivo] 👉 [Link]       ║',
+      '║  Te entrego las líneas ya armadas en "afiliados_obligatorios"║',
+      '║  Debes copiarlas TAL CUAL, en el mismo orden, sin alterar   ║',
+      '║  ASINs, URLs ni timestamps.                                  ║',
+      '╠══════════════════════════════════════════════════════════════╣',
+      '║  REGLA 4 — TAGS (15-20 EN 3 NIVELES)                        ║',
+      '║   Nivel A — Amplias (3-5):  ej. "tecnologia", "gadgets"     ║',
+      '║   Nivel B — Específicas (5-8): ej. "smart home", "accesorios escritorio" ║',
+      '║   Nivel C — Intención de compra (5-7): ej. "mejores gadgets║',
+      '║              baratos en amazon", "comprar gadgets 2026"     ║',
+      '║  Devuelve el array combinado en "tags" (15-20 strings).     ║',
+      '║  Sin "#" delante. Sin duplicados. Total ≤ 500 caracteres.   ║',
+      '╚══════════════════════════════════════════════════════════════╝',
+      '',
+      'REGLA 5 — SALIDA ESTRICTA EN JSON (sin texto extra):',
+      '{',
+      '  "titulos_candidatos": ["...", "...", "..."],',
+      '  "titulo_seleccionado": "El mejor título elegido (≤65 caracteres)",',
+      '  "descripcion_optimizada": "Texto completo del embudo con timestamps y links...",',
+      '  "tags": ["tag1", "tag2", "..."]',
+      '}',
+      'PROHIBIDO incluir cualquier campo fuera de este JSON.',
+      'PROHIBIDO usar "#" en el array de tags.',
+      'PROHIBIDO inventar productos, ASINs o URLs.'
+    ].join('\n');
+
+    const userPrompt = [
+      `Tema del video: ${strategy.topic}`,
+      `Nicho identificado: ${niche}`,
+      `Año actual: ${year}`,
+      `Audiencia objetivo: ${strategy.targetAudience || 'consumidores de tech en LATAM y España'}`,
+      `Keywords semilla: ${(strategy.keywords || []).slice(0, 10).join(', ')}`,
+      '',
+      'PRODUCTOS DEL VIDEO (orden cronológico, con timestamps reales):',
+      JSON.stringify(productsData.map(p => ({
+        index: p.index,
+        nombre: p.name,
+        timestamp: p.timestamp,
+        asin: p.asin
+      })), null, 2),
+      '',
+      'AFILIADOS OBLIGATORIOS — copia estas líneas LITERALMENTE en el cuerpo de la descripción,',
+      'bajo el encabezado "🛒 PRODUCTOS DEL VIDEO:", en este mismo orden, sin alterar nada:',
+      ...affiliateLines.map(l => `    ${l}`),
+      '',
+      'Genera el JSON ahora.'
+    ].join('\n');
+
+    const response = await this.openai.chat.completions.create({
+      model: 'gpt-4o',
+      temperature: 0.85,
+      response_format: { type: 'json_object' },
+      messages: [
+        { role: 'system', content: systemPrompt },
+        { role: 'user', content: userPrompt }
+      ]
+    });
+
+    const parsed = JSON.parse(response.choices[0].message.content);
+    if (!parsed.titulo_seleccionado || !parsed.descripcion_optimizada || !Array.isArray(parsed.tags)) {
+      throw new Error('Respuesta del LLM sin campos requeridos (titulo_seleccionado/descripcion_optimizada/tags).');
+    }
+
+    if (Array.isArray(parsed.titulos_candidatos)) {
+      this.logger.info(`Títulos candidatos: ${parsed.titulos_candidatos.map(t => `"${t}"`).join(' | ')}`);
+    }
+
+    return parsed;
+  }
+
+  _enforceTitleLimit(title, maxChars) {
+    if (!title) return '';
+    let t = String(title).trim();
+    if (t.length <= maxChars) return t;
+    // Truncar respetando palabras
+    t = t.substring(0, maxChars);
+    const lastSpace = t.lastIndexOf(' ');
+    if (lastSpace > maxChars * 0.7) t = t.substring(0, lastSpace);
+    return t;
+  }
+
+  _enforceTagLimits(tags) {
+    if (!Array.isArray(tags)) return [];
+    // Quitar "#", trim, dedupe (case-insensitive), límite 500 chars total
+    const seen = new Set();
+    const cleaned = [];
+    for (let raw of tags) {
+      if (typeof raw !== 'string') continue;
+      const t = raw.replace(/^#/, '').trim();
+      if (!t) continue;
+      const key = t.toLowerCase();
+      if (seen.has(key)) continue;
+      seen.add(key);
+      cleaned.push(t);
+    }
+    let total = 0;
+    const final = [];
+    for (const t of cleaned) {
+      if (total + t.length + 1 > 500) break;
+      final.push(t);
+      total += t.length + 1;
+    }
+    return final;
+  }
+
+  /**
+   * Si el LLM omitió la lista de afiliados o cambió ASINs/URLs, la añadimos al final.
+   * La detección es laxa: basta con que aparezca el primer ASIN.
+   */
+  _ensureAffiliateListInDescription(description, productsData) {
+    if (!description) description = '';
+    const validAffiliates = productsData.filter(p => p.affiliateUrl);
+    if (validAffiliates.length === 0) return description;
+
+    const firstAsin = validAffiliates[0].asin;
+    const alreadyPresent = firstAsin && description.includes(firstAsin);
+    if (alreadyPresent) return description;
+
+    this.logger.warn('Lista de afiliados ausente en descripción del LLM — inyectando bloque al final.');
+    const block = [
+      '',
+      '🛒 PRODUCTOS DEL VIDEO:',
+      ...validAffiliates.map(p => `${p.timestamp} - ${p.name} 👉 ${p.affiliateUrl}`),
+      ''
+    ].join('\n');
+    return description.trimEnd() + '\n\n' + block;
   }
 
   async optimizeTitle(originalTitle, strategy) {
@@ -151,7 +398,7 @@ class SEOOptimizerAgent {
     // Timestamps/Chapters
     description += '⏱️ TIMESTAMPS:\n';
     description += '00:00 Introduction\n';
-    let timestamp = 20;
+    let timestamp = INTRO_DURATION_AVG;
     if (script.mainContent && script.mainContent.sections) {
       script.mainContent.sections.forEach(section => {
         const minutes = Math.floor(timestamp / 60);
@@ -431,7 +678,7 @@ class SEOOptimizerAgent {
           seconds: currentTime
         });
         
-        currentTime += section.duration || 60;
+        currentTime += section.duration || PER_PRODUCT_DURATION_DEFAULT;
       });
     }
     

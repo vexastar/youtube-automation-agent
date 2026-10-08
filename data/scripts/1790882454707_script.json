@@ -1,0 +1,134 @@
+{
+  "title": "Top 1 Gadget Increíble para tu Coche",
+  "hook": {
+    "type": "statement",
+    "text": "Después de analizar decenas de artículos, hemos llegado a esta selección definitiva de productos. No hay exageraciones ni relleno, solo utilidad real. Encuentra todos los enlaces en el primer comentario. Comencemos.",
+    "duration": "0:00-0:15"
+  },
+  "introduction": {
+    "greeting": "",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0s"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "iOttie Auto Sense Qi Cargador Inalámbrico",
+        "productId": "B07RBC21Z6",
+        "productName": "iOttie Auto Sense Qi Cargador Inalámbrico",
+        "filename": "B07RBC21Z6.mp4",
+        "asin": "B07RBC21Z6",
+        "videoDuration": 42.11,
+        "estimatedAudioSeconds": 38,
+        "framework": "problema_solucion",
+        "narracionSegments": null,
+        "content": [
+          "Cargar el teléfono mientras conduces y ver cómo el cable se enreda una vez más puede ser una verdadera molestia. El iOttie Auto Sense Qi resuelve esto con su tecnología de carga inalámbrica Qi certificada para iPhone y Android. Su pie inferior ajustable permite acomodar teléfonos de varios tamaños, asegurando una carga eficiente, mientras su energía de reserva abre los brazos del soporte incluso si el coche está apagado. El brazo telescópico gira a doscientos veinticinco grados y se extiende hasta once pulgadas para la mejor visualización.",
+          "Está disponible por sesenta dólares en Amazon."
+        ],
+        "visuals": [
+          "Product image: iOttie Auto Sense Qi Cargador Inalámbrico"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07RBC21Z6.mp4",
+        "precio": "$60",
+        "productPhoto": "https://m.media-amazon.com/images/I/816jn2Wtx8L.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "Qi CERTIFIED: Carga tu iPhone (7.5W) o Android (10W) de forma inalámbrica sin conectar tu teléfono a un cable de alimentación gracias a la tecnología certificada por Qi.",
+          "PIE INFERIOR AJUSTABLE: El pie del soporte se puede elevar y bajar para acomodar teléfonos de varios tamaños. Esto ayuda a alinear las bobinas Qi para una experiencia de carga eficiente.",
+          "ENERGÍA DE RESERVA: Presiona cualquiera de los botones en el lado de la base para abrir los brazos de sujeción y recuperar tu smartphone. El Auto Sense tiene una batería interna que permite que los brazos se abran durante hasta una hora después de que tu vehículo esté apagado.",
+          "BRAZO TELESCÓPICO: El brazo telescópico de nuevo diseño pivota en un arco de 225° y se puede extender de 6.75” a 11”, lo que te permite encontrar la posición de visualización óptima.",
+          "cargador de coche inalámbrico"
+        ],
+        "originalVideoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07RBC21Z6.mp4"
+      }
+    ],
+    "totalDuration": 40
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "Gracias por llegar hasta aquí. El próximo top será aún más loco. Recuerda los links en el primer comentario."
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "",
+    "like": "",
+    "comment": "",
+    "nextVideo": "",
+    "duration": "0 seconds"
+  },
+  "duration": "1:10",
+  "tone": "engaging",
+  "tone_variant": "conversacional y cercano, como si le contaras a un amigo algo increíble que descubriste",
+  "pacing": "quick",
+  "keywords": [
+    "gadget",
+    "increble",
+    "para",
+    "coche"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 1 Gadget Increíble para tu Coche",
+      "angle": "Top 1 Gadget Increíble para tu Coche",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 1,
+      "introScript": "¿Imaginas cargar todos tus dispositivos en el coche sin enredos de cables y con estilo futurista? Hoy vamos a descubrir un gadget que no solo simplifica tu vida al volante sino que además, revoluciona el concepto de tecnología en el automóvil. Analizarás cómo la carga inalámbrica puede ser más rápida de lo que crees, y cómo el diseño minimalista se funde con la máxima versatilidad para satisfacer todas tus necesidades sobre ruedas. Prepárate para conocer lo que podría ser el artilugio definitivo de 2023.",
+      "keywords": [
+        "gadget",
+        "increble",
+        "para",
+        "coche"
+      ],
+      "estimatedViews": 5894,
+      "bestPublishTime": "2026-10-02T18:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "iOttie Auto Sense Qi Cargador Inalámbrico",
+          "searchTermEn": "iOttie Auto Sense Wireless Charger",
+          "id": "B07RBC21Z6",
+          "filename": "B07RBC21Z6.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-10-01T19:19:03.590Z",
+      "_requestedCount": 1,
+      "_adaptedCount": 1,
+      "introProductsOrder": [
+        {
+          "nombre": "iOttie Auto Sense Qi Cargador Inalámbrico",
+          "id": "B07RBC21Z6",
+          "filename": "B07RBC21Z6.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07RBC21Z6.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1790882433519_adg4q9"
+    },
+    "generatedAt": "2026-10-01T19:20:41.525Z",
+    "version": "4.0-dynamic-rotator",
+    "productos": [
+      {
+        "nombre": "iOttie Auto Sense Qi Cargador Inalámbrico",
+        "searchTermEn": "iOttie Auto Sense Wireless Charger",
+        "id": "B07RBC21Z6",
+        "filename": "B07RBC21Z6.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 1 Gadget Increíble para tu Coche\n\n══════════════════════════════════════════════════\n\n[0:00-0:15] HOOK\nDespués de analizar decenas de artículos, hemos llegado a esta selección definitiva de productos. No hay exageraciones ni relleno, solo utilidad real. Encuentra todos los enlaces en el primer comentario. Comencemos.\n\n[0s] INTRODUCTION\n\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] IOTTIE AUTO SENSE QI CARGADOR INALÁMBRICO\nCargar el teléfono mientras conduces y ver cómo el cable se enreda una vez más puede ser una verdadera molestia. El iOttie Auto Sense Qi resuelve esto con su tecnología de carga inalámbrica Qi certificada para iPhone y Android. Su pie inferior ajustable permite acomodar teléfonos de varios tamaños, asegurando una carga eficiente, mientras su energía de reserva abre los brazos del soporte incluso si el coche está apagado. El brazo telescópico gira a doscientos veinticinco grados y se extiende hasta once pulgadas para la mejor visualización.\nEstá disponible por sesenta dólares en Amazon.\n\n[VISUALS: Product image: iOttie Auto Sense Qi Cargador Inalámbrico]\n\n[10 seconds] CONCLUSION\nGracias por llegar hasta aquí. El próximo top será aún más loco. Recuerda los links en el primer comentario.\n\n\n\n[0 seconds] CALL TO ACTION\n\n\n\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:10\nTONE: engaging\nPACING: quick\nKEYWORDS: gadget, increble, para, coche\n"
+}

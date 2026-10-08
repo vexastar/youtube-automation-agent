@@ -1,0 +1,220 @@
+{
+  "title": "20 gadgets que no te puedes perder en Amazon",
+  "hook": {
+    "type": "statement",
+    "text": "Impresionante control de todo tu hogar con un solo toque. Asombroso diseño compacto que guarda tus tarjetas al instante.",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "Suscríbete para más. Los links están en el primer comentario.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0:10-0:15"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Ekster Parliament Wallet",
+        "productId": "prod_1",
+        "productName": "Ekster Parliament Wallet",
+        "filename": "B07PVMK5NJ.mp4",
+        "asin": "B07PVMK5NJ",
+        "clipDuration": 37.19,
+        "estimatedAudioSeconds": 37,
+        "framework": "comparacion_precio",
+        "narracionSegments": null,
+        "content": [
+          "El Ekster Parliament Wallet es más que una simple cartera; combina estilo y tecnología de punta a un precio competitivo. Con su función de acceso instantáneo y bloqueador RFID, no encontrarás mejor calidad por estos... 89 dólares. ¡Link en el primer comentario!",
+          ""
+        ],
+        "visuals": [
+          "Product image: Ekster Parliament Wallet"
+        ],
+        "duration": 25,
+        "precio": "$89",
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07PVMK5NJ.mp4",
+        "productPhoto": null,
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": []
+      },
+      {
+        "type": "content",
+        "title": "Aqara Smart Home Hub M2",
+        "productId": "prod_8",
+        "productName": "Aqara Smart Home Hub M2",
+        "filename": "B0CWLHSKYC.mp4",
+        "asin": "B0CWLHSKYC",
+        "clipDuration": 71.27,
+        "estimatedAudioSeconds": 71,
+        "framework": "dato_numerico",
+        "narracionSegments": null,
+        "content": [
+          "-150- dispositivos conectados simultáneamente, el Aqara Smart Home Hub M2 redefine la automatización del hogar. Compatible con los sistemas más populares como Apple HomeKit y Google Assistant, este hub centraliza todos tus dispositivos inteligentes para una gestión eficiente del hogar. Gracias a su conectividad Zigbee 3.0, disfrutarás de un rendimiento estable y una cobertura mejorada que transforma tu casa en un espacio inteligente avanzado.",
+          ""
+        ],
+        "visuals": [
+          "Product image: Aqara Smart Home Hub M2"
+        ],
+        "duration": 25,
+        "precio": "$40",
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0CWLHSKYC.mp4",
+        "productPhoto": null,
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": []
+      },
+      {
+        "type": "content",
+        "title": "Wacaco Nanopresso",
+        "productId": "prod_20",
+        "productName": "Wacaco Nanopresso",
+        "filename": "B0797T2FYL.mp4",
+        "asin": "B0797T2FYL",
+        "clipDuration": 14.88,
+        "estimatedAudioSeconds": 14,
+        "framework": "experiencia_sensorial",
+        "narracionSegments": null,
+        "content": [
+          "-Experiencia- café portátil donde quiera que vayas con el Wacaco Nanopresso. Transporta la magia del espresso fresco a cualquier lugar.",
+          ""
+        ],
+        "visuals": [
+          "Product image: Wacaco Nanopresso"
+        ],
+        "duration": 25,
+        "precio": "$80",
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0797T2FYL.mp4",
+        "productPhoto": null,
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": []
+      }
+    ],
+    "totalDuration": 75
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "-Dale like- si disfrutaste y encuentra los links en el primer comentario."
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:45",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "puedes",
+    "perder",
+    "amazon"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "20 gadgets que no te puedes perder en Amazon",
+      "angle": "20 gadgets que no te puedes perder en Amazon",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 20,
+      "introScript": "Descubre una selección de 20 gadgets extraordinarios que transformarán tu día a día. Desde la billetera inteligente Ekster Parliament hasta el increíble proyector portátil Nebula Capsule, estos productos están redefiniendo la innovación. ¿Listo para explorar lo último en tecnología disponible en Amazon? No te lo puedes perder.",
+      "keywords": [
+        "gadgets",
+        "puedes",
+        "perder",
+        "amazon"
+      ],
+      "estimatedViews": 5449,
+      "bestPublishTime": "2026-05-28T19:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "id": "B07PVMK5NJ",
+          "nombre": "Ekster Parliament Wallet",
+          "filename": "B07PVMK5NJ.mp4",
+          "precio": 89,
+          "searchTermEn": "Ekster Parliament Wallet"
+        },
+        {
+          "id": "B0CWLHSKYC",
+          "nombre": "Aqara Smart Home Hub M2",
+          "filename": "B0CWLHSKYC.mp4",
+          "precio": 40,
+          "searchTermEn": "Aqara Smart Home Hub M2"
+        },
+        {
+          "id": "B0797T2FYL",
+          "nombre": "Wacaco Nanopresso",
+          "filename": "B0797T2FYL.mp4",
+          "precio": 80,
+          "searchTermEn": "Wacaco Nanopresso"
+        }
+      ],
+      "_sourceFile": "productos_locales.json",
+      "createdAt": "2026-05-22T17:11:04.338Z",
+      "_requestedCount": 20,
+      "_adaptedCount": 20,
+      "introProductsOrder": [
+        {
+          "nombre": "Aqara Smart Home Hub M2",
+          "id": "B0CWLHSKYC",
+          "filename": "B0CWLHSKYC.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0CWLHSKYC.mp4"
+        },
+        {
+          "nombre": "Ekster Parliament Wallet",
+          "id": "B07PVMK5NJ",
+          "filename": "B07PVMK5NJ.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07PVMK5NJ.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1779469864649_mg3eqk"
+    },
+    "generatedAt": "2026-05-22T17:11:24.124Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "id": "B07PVMK5NJ",
+        "nombre": "Ekster Parliament Wallet",
+        "filename": "B07PVMK5NJ.mp4",
+        "precio": 89,
+        "searchTermEn": "Ekster Parliament Wallet"
+      },
+      {
+        "id": "B0CWLHSKYC",
+        "nombre": "Aqara Smart Home Hub M2",
+        "filename": "B0CWLHSKYC.mp4",
+        "precio": 40,
+        "searchTermEn": "Aqara Smart Home Hub M2"
+      },
+      {
+        "id": "B0797T2FYL",
+        "nombre": "Wacaco Nanopresso",
+        "filename": "B0797T2FYL.mp4",
+        "precio": 80,
+        "searchTermEn": "Wacaco Nanopresso"
+      }
+    ]
+  },
+  "fullScript": "TITLE: 20 gadgets que no te puedes perder en Amazon\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\nImpresionante control de todo tu hogar con un solo toque. Asombroso diseño compacto que guarda tus tarjetas al instante.\n\n[0:10-0:15] INTRODUCTION\nSuscríbete para más. Los links están en el primer comentario.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] EKSTER PARLIAMENT WALLET\nEl Ekster Parliament Wallet es más que una simple cartera; combina estilo y tecnología de punta a un precio competitivo. Con su función de acceso instantáneo y bloqueador RFID, no encontrarás mejor calidad por estos... 89 dólares. ¡Link en el primer comentario!\n\n\n[VISUALS: Product image: Ekster Parliament Wallet]\n\n[0:25] AQARA SMART HOME HUB M2\n-150- dispositivos conectados simultáneamente, el Aqara Smart Home Hub M2 redefine la automatización del hogar. Compatible con los sistemas más populares como Apple HomeKit y Google Assistant, este hub centraliza todos tus dispositivos inteligentes para una gestión eficiente del hogar. Gracias a su conectividad Zigbee 3.0, disfrutarás de un rendimiento estable y una cobertura mejorada que transforma tu casa en un espacio inteligente avanzado.\n\n\n[VISUALS: Product image: Aqara Smart Home Hub M2]\n\n[0:25] WACACO NANOPRESSO\n-Experiencia- café portátil donde quiera que vayas con el Wacaco Nanopresso. Transporta la magia del espresso fresco a cualquier lugar.\n\n\n[VISUALS: Product image: Wacaco Nanopresso]\n\n[10 seconds] CONCLUSION\n-Dale like- si disfrutaste y encuentra los links en el primer comentario.\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:45\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, puedes, perder, amazon\n"
+}

@@ -1,0 +1,139 @@
+{
+  "title": "Top 3 Gadgets Esenciales para Programadores",
+  "hook": {
+    "type": "statement",
+    "text": "¡Descubre los gadgets que transformarán tu espacio de trabajo en un paraíso de productividad en segundos!",
+    "duration": "0:00-0:05"
+  },
+  "introduction": {
+    "greeting": "Ser programador no solo se trata de escribir código, sino de tener el entorno perfecto para hacerlo. Hoy te presentamos tres gadgets que no pueden faltar en tu escritorio y que te ayudarán a maximizar tu eficiencia.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0:05-0:15"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Teclado mecánico iluminado",
+        "content": [
+          "¿Alguna vez has sentido que te falta algo para mejorar tu flujo de trabajo nocturno? Este teclado te da la ventaja de trabajar cómodamente en ambientes oscuros gracias a su retroiluminación. Se llama Teclado Mecánico Iluminado y te permite escribir con precisión y estilo en cualquier momento del día.",
+          "Consíguelo por solo 29.99 dólares en Amazon, ¡enlace en la descripción!"
+        ],
+        "visuals": [
+          "Product image: Teclado mecánico iluminado"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0CF3VGQFL.mp4",
+        "precio": "29.99"
+      },
+      {
+        "type": "content",
+        "title": "Auriculares cancelación ruido",
+        "content": [
+          "Imagina poder aislarte del ruido para concentrarte completamente en tu código. Estos auriculares te ofrecen esa paz con su tecnología de cancelación de ruido. Son los Auriculares con Cancelación de Ruido, diseñados para sumergirte en un mundo donde solo existes tú y tu proyecto.",
+          "Están disponibles por 39.99 dólares en Amazon, ¡no te los pierdas!"
+        ],
+        "visuals": [
+          "Product image: Auriculares cancelación ruido"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0C3HCD34R.mp4",
+        "precio": "39.99"
+      },
+      {
+        "type": "content",
+        "title": "Soporte ajustable para laptop",
+        "content": [
+          "¿Sabías que una mala postura frente a la computadora puede causar dolores y fatiga? Este soporte ajustable eleva tu laptop a la altura perfecta para evitarlo. Se llama Soporte Ajustable para Laptop, y es esencial para cuidar tu salud mientras trabajas.",
+          "Puedes adquirirlo por tan solo 17.99 dólares en Amazon, enlace abajo."
+        ],
+        "visuals": [
+          "Product image: Soporte ajustable para laptop"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0C7BKZ883.mp4",
+        "precio": "17.99"
+      }
+    ],
+    "totalDuration": 75
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "Espero que estos gadgets te ayuden a mejorar tu experiencia de programación. No olvides dar like, suscribirte y dejar un comentario sobre cuál de estos gadgets te gustaría probar. ¡Hasta la próxima!"
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:45",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "esenciales",
+    "para",
+    "programadores"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 3 Gadgets Esenciales para Programadores",
+      "angle": "Top 3 Gadgets Esenciales para Programadores",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 3,
+      "introScript": "¿Un teclado que ilumina tus ideas? ¿Auriculares que eliminan todo el ruido para que te concentres al máximo? Prepárate para conocer los gadgets que todo programador debe tener en su escritorio.",
+      "keywords": [
+        "gadgets",
+        "esenciales",
+        "para",
+        "programadores"
+      ],
+      "estimatedViews": 6402,
+      "bestPublishTime": "2026-04-10T20:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Teclado mecánico iluminado",
+          "searchTermEn": "mechanical backlit keyboard"
+        },
+        {
+          "nombre": "Auriculares cancelación ruido",
+          "searchTermEn": "noise cancelling headphones"
+        },
+        {
+          "nombre": "Soporte ajustable para laptop",
+          "searchTermEn": "adjustable laptop stand"
+        }
+      ],
+      "createdAt": "2026-04-06T01:08:24.408Z"
+    },
+    "generatedAt": "2026-04-06T01:10:36.814Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Teclado mecánico iluminado",
+        "searchTermEn": "mechanical backlit keyboard"
+      },
+      {
+        "nombre": "Auriculares cancelación ruido",
+        "searchTermEn": "noise cancelling headphones"
+      },
+      {
+        "nombre": "Soporte ajustable para laptop",
+        "searchTermEn": "adjustable laptop stand"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 3 Gadgets Esenciales para Programadores\n\n══════════════════════════════════════════════════\n\n[0:00-0:05] HOOK\n¡Descubre los gadgets que transformarán tu espacio de trabajo en un paraíso de productividad en segundos!\n\n[0:05-0:15] INTRODUCTION\nSer programador no solo se trata de escribir código, sino de tener el entorno perfecto para hacerlo. Hoy te presentamos tres gadgets que no pueden faltar en tu escritorio y que te ayudarán a maximizar tu eficiencia.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] TECLADO MECÁNICO ILUMINADO\n¿Alguna vez has sentido que te falta algo para mejorar tu flujo de trabajo nocturno? Este teclado te da la ventaja de trabajar cómodamente en ambientes oscuros gracias a su retroiluminación. Se llama Teclado Mecánico Iluminado y te permite escribir con precisión y estilo en cualquier momento del día.\nConsíguelo por solo 29.99 dólares en Amazon, ¡enlace en la descripción!\n\n[VISUALS: Product image: Teclado mecánico iluminado]\n\n[0:25] AURICULARES CANCELACIÓN RUIDO\nImagina poder aislarte del ruido para concentrarte completamente en tu código. Estos auriculares te ofrecen esa paz con su tecnología de cancelación de ruido. Son los Auriculares con Cancelación de Ruido, diseñados para sumergirte en un mundo donde solo existes tú y tu proyecto.\nEstán disponibles por 39.99 dólares en Amazon, ¡no te los pierdas!\n\n[VISUALS: Product image: Auriculares cancelación ruido]\n\n[0:25] SOPORTE AJUSTABLE PARA LAPTOP\n¿Sabías que una mala postura frente a la computadora puede causar dolores y fatiga? Este soporte ajustable eleva tu laptop a la altura perfecta para evitarlo. Se llama Soporte Ajustable para Laptop, y es esencial para cuidar tu salud mientras trabajas.\nPuedes adquirirlo por tan solo 17.99 dólares en Amazon, enlace abajo.\n\n[VISUALS: Product image: Soporte ajustable para laptop]\n\n[10 seconds] CONCLUSION\nEspero que estos gadgets te ayuden a mejorar tu experiencia de programación. No olvides dar like, suscribirte y dejar un comentario sobre cuál de estos gadgets te gustaría probar. ¡Hasta la próxima!\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:45\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, esenciales, para, programadores\n"
+}

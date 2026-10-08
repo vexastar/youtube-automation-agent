@@ -1,0 +1,137 @@
+{
+  "title": "Top 3 Imprescindibles para Deportistas",
+  "hook": {
+    "type": "statement",
+    "text": "¿Quieres mejorar tu rendimiento deportivo con solo tres productos?",
+    "duration": "0:00-0:05"
+  },
+  "introduction": {
+    "greeting": "Hoy te mostraré tres innovaciones que todo deportista debe conocer para llevar su entrenamiento al siguiente nivel. Estos gadgets no solo mejorarán tu rendimiento, sino que también harán tu rutina mucho más eficiente.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0:05-0:15"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Botella con sensor",
+        "content": [
+          "¿Alguna vez has olvidado hidratarte durante un entrenamiento intenso? Esta botella te recuerda cuándo necesitas beber agua y monitorea tu consumo diario. Se llama Botella con sensor y es tu nueva aliada para mantenerte siempre hidratado.",
+          "Consíguela por solo 46.74 dólares en Amazon, enlace en la descripción."
+        ],
+        "visuals": [
+          "Product image: Botella con sensor"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0CGV7GLFL.mp4",
+        "precio": "46.74"
+      },
+      {
+        "type": "content",
+        "title": "Plantilla inteligente",
+        "content": [
+          "Imagina poder conocer todos los detalles de tu pisada con solo caminar. La Plantilla inteligente analiza tu estilo de correr y te ayuda a mejorar tu postura para evitar lesiones. Es como tener un entrenador personal en tus zapatos.",
+          "Está disponible por solo 14.54 dólares en Amazon, no te la pierdas."
+        ],
+        "visuals": [
+          "Product image: Plantilla inteligente"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B01MG68FRD.mp4",
+        "precio": "14.54"
+      },
+      {
+        "type": "content",
+        "title": "Pulsera de recuperación",
+        "content": [
+          "Recuperarse después de un entrenamiento nunca ha sido tan fácil. La Pulsera de recuperación acelera la recuperación muscular y te permite volver a entrenar más rápido. Es el complemento perfecto para cualquier atleta dedicado.",
+          "Puedes adquirirla por 44.99 dólares en Amazon, el enlace está abajo."
+        ],
+        "visuals": [
+          "Product image: Pulsera de recuperación"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0D6CJ3FQK.mp4",
+        "precio": "44.99"
+      }
+    ],
+    "totalDuration": 75
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "Espero que estos productos te hayan impresionado tanto como a mí. No olvides darle like al video, suscribirte al canal y dejar tus comentarios sobre qué gadget te gustaría probar primero. ¡Hasta la próxima!"
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:45",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "imprescindibles",
+    "para",
+    "deportistas"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 3 Imprescindibles para Deportistas",
+      "angle": "Top 3 Imprescindibles para Deportistas",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 3,
+      "introScript": "¿Un dispositivo que mide tu hidratación en tiempo real? ¿Un gadget que ajusta tu postura al correr? Estos artilugios tecnológicos van a revolucionar tu rutina deportiva. Descúbrelos ahora.",
+      "keywords": [
+        "imprescindibles",
+        "para",
+        "deportistas"
+      ],
+      "estimatedViews": 4308,
+      "bestPublishTime": "2026-04-07T19:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Botella con sensor",
+          "searchTermEn": "hydration tracking water bottle"
+        },
+        {
+          "nombre": "Plantilla inteligente",
+          "searchTermEn": "smart running insoles"
+        },
+        {
+          "nombre": "Pulsera de recuperación",
+          "searchTermEn": "recovery wristband device"
+        }
+      ],
+      "createdAt": "2026-04-06T02:09:19.147Z"
+    },
+    "generatedAt": "2026-04-06T02:12:13.014Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Botella con sensor",
+        "searchTermEn": "hydration tracking water bottle"
+      },
+      {
+        "nombre": "Plantilla inteligente",
+        "searchTermEn": "smart running insoles"
+      },
+      {
+        "nombre": "Pulsera de recuperación",
+        "searchTermEn": "recovery wristband device"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 3 Imprescindibles para Deportistas\n\n══════════════════════════════════════════════════\n\n[0:00-0:05] HOOK\n¿Quieres mejorar tu rendimiento deportivo con solo tres productos?\n\n[0:05-0:15] INTRODUCTION\nHoy te mostraré tres innovaciones que todo deportista debe conocer para llevar su entrenamiento al siguiente nivel. Estos gadgets no solo mejorarán tu rendimiento, sino que también harán tu rutina mucho más eficiente.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] BOTELLA CON SENSOR\n¿Alguna vez has olvidado hidratarte durante un entrenamiento intenso? Esta botella te recuerda cuándo necesitas beber agua y monitorea tu consumo diario. Se llama Botella con sensor y es tu nueva aliada para mantenerte siempre hidratado.\nConsíguela por solo 46.74 dólares en Amazon, enlace en la descripción.\n\n[VISUALS: Product image: Botella con sensor]\n\n[0:25] PLANTILLA INTELIGENTE\nImagina poder conocer todos los detalles de tu pisada con solo caminar. La Plantilla inteligente analiza tu estilo de correr y te ayuda a mejorar tu postura para evitar lesiones. Es como tener un entrenador personal en tus zapatos.\nEstá disponible por solo 14.54 dólares en Amazon, no te la pierdas.\n\n[VISUALS: Product image: Plantilla inteligente]\n\n[0:25] PULSERA DE RECUPERACIÓN\nRecuperarse después de un entrenamiento nunca ha sido tan fácil. La Pulsera de recuperación acelera la recuperación muscular y te permite volver a entrenar más rápido. Es el complemento perfecto para cualquier atleta dedicado.\nPuedes adquirirla por 44.99 dólares en Amazon, el enlace está abajo.\n\n[VISUALS: Product image: Pulsera de recuperación]\n\n[10 seconds] CONCLUSION\nEspero que estos productos te hayan impresionado tanto como a mí. No olvides darle like al video, suscribirte al canal y dejar tus comentarios sobre qué gadget te gustaría probar primero. ¡Hasta la próxima!\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:45\nTONE: engaging\nPACING: quick\nKEYWORDS: imprescindibles, para, deportistas\n"
+}

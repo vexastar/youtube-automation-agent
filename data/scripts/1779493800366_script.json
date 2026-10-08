@@ -1,0 +1,1266 @@
+{
+  "title": "Top 10 Robots en Amazon que No Sabías Que Existían",
+  "hook": {
+    "type": "statement",
+    "text": "¿Elimina el pelo de mascota eficazmente? ¿Controla malas hierbas sin esfuerzo? ¿Mide a la perfección tu jardín? ¿Friegas sin tocar el piso? ¿Combina aspirado y fregado en segundos?",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "Los links de compra están en el primer comentario. Empezamos.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0:10-0:15"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "ECOVACS Winbot X",
+        "productId": "B0DR8W696Y",
+        "productName": "ECOVACS Winbot X",
+        "filename": "B0DR8W696Y.mp4",
+        "asin": "B0DR8W696Y",
+        "clipDuration": 60.03,
+        "estimatedAudioSeconds": 56,
+        "framework": "problema_solucion",
+        "narracionSegments": null,
+        "content": [
+          "Las ventanas sucias son un fastidio continuo. El ECOVACS Winbot X ofrece una solución simple, limpiando tus ventanas con facilidad gracias a su diseño compacto y ligera succión potente para mantenerse adherido. Ya no necesitas preocuparte por manchas o suciedad cotidiana.",
+          "Su precio actual en Amazon ronda los... 22 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: ECOVACS Winbot X"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0DR8W696Y_combined.mp4",
+        "precio": "$22",
+        "productPhoto": "https://m.media-amazon.com/images/I/61NlKknyeIL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DR8W696Y\\scenes_v1\\B0DR8W696Y_scene_04.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DR8W696Y\\scenes_v1\\B0DR8W696Y_scene_02.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "WINBOT Mini",
+            "raw": "9|WINBOT Mini"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DR8W696Y\\scenes_v1\\B0DR8W696Y_scene_01.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "WINBOT MINI",
+            "raw": "8|WINBOT MINI"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DR8W696Y\\scenes_v1\\B0DR8W696Y_scene_06.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "WINBOT Mini",
+            "raw": "8|WINBOT Mini"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DR8W696Y\\scenes_v1\\B0DR8W696Y_scene_07.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "WINBOT MINI",
+            "raw": "8|WINBOT MINI"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DR8W696Y\\scenes_v1\\B0DR8W696Y_scene_09.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "WINBOT Mini",
+            "raw": "8|WINBOT Mini"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DR8W696Y\\scenes_v1\\B0DR8W696Y_scene_10.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "WINBOT Mini",
+            "raw": "8|WINBOT Mini"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DR8W696Y\\scenes_v1\\B0DR8W696Y_scene_12.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "WINBOT Mini",
+            "raw": "8|WINBOT Mini"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DR8W696Y\\scenes_v1\\B0DR8W696Y_scene_20.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "WINBOT Mini",
+            "raw": "8|WINBOT Mini"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DR8W696Y\\scenes_v1\\B0DR8W696Y_scene_19.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "WINBOT Mini",
+            "raw": "8|WINBOT Mini"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DR8W696Y\\scenes_v1\\B0DR8W696Y_scene_22.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "WINBOT MINI",
+            "raw": "8|WINBOT MINI"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DR8W696Y\\scenes_v1\\B0DR8W696Y_scene_11.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "robot ventana",
+            "raw": "5|robot ventana"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DR8W696Y\\scenes_v2\\B0DR8W696Y_v2_scene_01.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DR8W696Y\\scenes_v3\\B0DR8W696Y_v3_scene_01.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "WINBOT Mini",
+            "raw": "8|WINBOT Mini"
+          }
+        ],
+        "features": [
+          "Ultra-Light & Compact Design – Perfect for Everyday Use. Designed for effortless handling, WINBOT MINI features a lightweight and compact body, making it easy to use on daily glass cleaning tasks. Ideal for apartments, small windows, and quick touch-ups without bulky setup.",
+          "Smart Daily Cleaning for Light Dirt & Dust. Optimized for routine maintenance, it effectively removes dust, fingerprints, and light stains. For heavily soiled glass, simply clean the pad or run multiple cycles for best results.",
+          "Easy Setup – Start Cleaning in Minutes. No complicated installation required. Just attach, power on, and let it clean automatically. Perfect for first-time robotic window cleaner users looking for a simple solution.",
+          "Safe & Stable Cleaning with Strong Suction. Equipped with reliable suction power and safety protection system to stay firmly attached to glass surfaces. Designed for peace of mind during everyday indoor window cleaning.",
+          "Quiet Operation for Comfortable Home Use. Engineered for low-noise performance, allowing you to clean windows without disturbing work, relaxation, or family time—ideal for frequent use."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Tertill Garden Weeding Robot",
+        "productId": "B08V11BR56",
+        "productName": "Tertill Garden Weeding Robot",
+        "filename": "B08V11BR56.mp4",
+        "asin": "B08V11BR56",
+        "clipDuration": 60.06,
+        "estimatedAudioSeconds": 50,
+        "framework": "enfoque_caracteristica",
+        "narracionSegments": null,
+        "content": [
+          "-Eliminando malas hierbas automáticamente-, este robot es un asistente invaluable para jardines pequeños, destacándose por su ingeniosa capacidad de minimizar trabajo manual. Su pequeño tamaño y eficiencia lo convierten en la alternativa perfecta para evitar sorpresas desagradables entre tus plantas.",
+          "Su precio actual en Amazon ronda los... 90 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Tertill Garden Weeding Robot"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B08V11BR56_combined.mp4",
+        "precio": "$90",
+        "productPhoto": "https://m.media-amazon.com/images/I/51OB8+KcJ3S.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": []
+      },
+      {
+        "type": "content",
+        "title": "ILIFE V3s Pro",
+        "productId": "B0G5YDVR99",
+        "productName": "ILIFE V3s Pro",
+        "filename": "B0G5YDVR99.mp4",
+        "asin": "B0G5YDVR99",
+        "clipDuration": 60.03,
+        "estimatedAudioSeconds": 37,
+        "framework": "beneficio_oculto",
+        "narracionSegments": null,
+        "content": [
+          "El ILIFE V3s Pro ofrece una succión máxima de 10,000Pa, ideal para recoger suciedad y pelo de mascota. Con su tecnología avanzada de mapeo y navegación LiDAR, garantiza una limpieza eficaz y completa en todo el hogar.",
+          "Su precio actual en Amazon ronda los 80 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: ILIFE V3s Pro"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0G5YDVR99_combined.mp4",
+        "precio": "$80",
+        "productPhoto": "https://m.media-amazon.com/images/I/61XtYzJjN0L.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0G5YDVR99\\scenes_v1\\B0G5YDVR99_scene_01.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0G5YDVR99\\scenes_v2\\B0G5YDVR99_v2_scene_04.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Robot aspirador",
+            "raw": "9|Robot aspirador"
+          }
+        ],
+        "features": [
+          "10,000Pa Max Suction Power: The A30s robot vacuum provides up to 10,000Pa strong suction in Spot Mode for concentrated messes, deep cleans hard floors and carpets, lifts dirt, debris, and pet hair effortlessly. You can adjust suction via ILIFE Clean app. Vacuum only, no mopping function",
+          "Smart Mapping & LiDAR Navigation: With advanced LiDAR technology and the SLAM algorithm, the A30s robot vacuum cleaner maps your home quickly and plans the most efficient cleaning path, ensuring comprehensive floor coverage and reducing missed spots",
+          "Dual Anti-Tangle Design for Pet Households: The A30s robotic vacuum cleaner designed with anti-tangle main brush and side brush, effectively collects pet hair while minimizing tangles, ideal for dogs, cats, and busy pet households",
+          "Easy Control with ILIFE Clean App: Manage your cleaning tasks directly from the ILIFE Clean App. You can set schedules, no-go zones and virtual walls, adjust suction power, select specific rooms or areas to clean, activate auto carpet boost feature to fit your daily needs",
+          "150 Min Runtime & Auto-Recharge: The A30s vacuum robot cleaner holds up to 150 minutes in gentle suction mode. When the battery runs low, it automatically returns to recharge and resumes cleaning where it left off once powered up"
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Miko 3 Educational Robot",
+        "productId": "B0FDWCGJS8",
+        "productName": "Miko 3 Educational Robot",
+        "filename": "B0FDWCGJS8.mp4",
+        "asin": "B0FDWCGJS8",
+        "clipDuration": 60.03,
+        "estimatedAudioSeconds": 39,
+        "framework": "comparacion_precio",
+        "narracionSegments": null,
+        "content": [
+          "El Miko 3 es un robot educativo diseñado para inspirar la creatividad en los niños. Con 100 tarjetas de dibujo, fomenta la expresión artística y mejora las habilidades motoras mientras los niños aprenden jugando.",
+          "Su precio actual en Amazon ronda los 50 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Miko 3 Educational Robot"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0FDWCGJS8_combined.mp4",
+        "precio": "$50",
+        "productPhoto": "https://m.media-amazon.com/images/I/71cxQAHzeML.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FDWCGJS8\\scenes_v1\\B0FDWCGJS8_scene_06.mp4",
+            "type": "video",
+            "score": 10,
+            "tag": "Robot de dibujo",
+            "raw": "10|Robot de dibujo"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FDWCGJS8\\scenes_v1\\B0FDWCGJS8_scene_08.mp4",
+            "type": "video",
+            "score": 10,
+            "tag": "Robot de dibujo",
+            "raw": "10|Robot de dibujo"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FDWCGJS8\\scenes_v1\\B0FDWCGJS8_scene_12.mp4",
+            "type": "video",
+            "score": 10,
+            "tag": "Robot de dibujo",
+            "raw": "10|Robot de dibujo"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FDWCGJS8\\scenes_v1\\B0FDWCGJS8_scene_13.mp4",
+            "type": "video",
+            "score": 10,
+            "tag": "Robot de dibujo",
+            "raw": "10|Robot de dibujo"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FDWCGJS8\\scenes_v1\\B0FDWCGJS8_scene_04.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Robot de dibujo",
+            "raw": "9|Robot de dibujo"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FDWCGJS8\\scenes_v1\\B0FDWCGJS8_scene_03.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Robot de dibujo",
+            "raw": "9|Robot de dibujo"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FDWCGJS8\\scenes_v1\\B0FDWCGJS8_scene_07.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Robot dibujante",
+            "raw": "9|Robot dibujante"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FDWCGJS8\\scenes_v1\\B0FDWCGJS8_scene_10.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Robot de dibujo",
+            "raw": "9|Robot de dibujo"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FDWCGJS8\\scenes_v1\\B0FDWCGJS8_scene_11.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Robot de dibujo",
+            "raw": "9|Robot de dibujo"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FDWCGJS8\\scenes_v1\\B0FDWCGJS8_scene_02.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Niño dibujando",
+            "raw": "8|Niño dibujando"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FDWCGJS8\\scenes_v1\\B0FDWCGJS8_scene_05.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "niño jugando",
+            "raw": "5|niño jugando"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FDWCGJS8\\scenes_v2\\B0FDWCGJS8_v2_scene_22.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Robot dibujante",
+            "raw": "9|Robot dibujante"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FDWCGJS8\\scenes_v2\\B0FDWCGJS8_v2_scene_03.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Robot de dibujo",
+            "raw": "9|Robot de dibujo"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FDWCGJS8\\scenes_v3\\B0FDWCGJS8_v3_scene_01.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Robot dibujo",
+            "raw": "9|Robot dibujo"
+          }
+        ],
+        "features": [
+          "🎨 Enlightenment Drawing Robot: The Drawing Robot is designed to inspire early learning and creativity in children.Spark a love for art and discovery with our Montessori-inspired drawing robot! It encourages hands-on play while building fine motor skills, problem-solving, and creative confidence. Children not only learn to draw but also build cognitive and artistic skills in a fun and educational way.",
+          "📚 100 Drawing Cards Explore, Learn & Create: The Drawing Robot comes with 100 drawing cards and covering 5 subjects packed with kid-friendly themes like animals, nature, food, and everyday objects! Each card includes simple step-by-step instructions that help young artists gain confidence, artistic expression, and make learning fun.",
+          "🖍️ Fun Musical Drawing Buddy: The Drawing Robot serves as a fun drawing companion, featuring built-in music that makes the drawing experience more enjoyable. This drawing machine Keeping kids engaged with cheerful background music! This creative companion boosts focus and hand-eye coordination as children follow step-by-step instructions.",
+          "🎁 The Perfect Gift for Young Artists:Ideal gift for kids.Ideal for birthdays, Christmas, or just because! This drawing robot combines fun, education, and creativity, making it a must-have for parents looking to inspire their children’s artistic abilities.",
+          "📦 Complete Set for Creative Fun: The Drawing Robot set includes everything your child needs to start creating:Get started right away! The set comes with: 1 drawing robot, 100 drawing cards, 12 markers, 4 drawing pens, 1 reusable drawing board, and a Type-C cable. No extra supplies needed!"
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Anki Vector Robot",
+        "productId": "B07G3ZNK4Y",
+        "productName": "Anki Vector Robot",
+        "filename": "B07G3ZNK4Y.mp4",
+        "asin": "B07G3ZNK4Y",
+        "clipDuration": 60.03,
+        "estimatedAudioSeconds": 37,
+        "framework": "dato_numerico",
+        "narracionSegments": null,
+        "content": [
+          "El Anki Vector es un robot totalmente autónomo con inteligencia artificial que navega y reconoce rostros. Ahora conectado a ChatGPT, ofrece conversaciones más inteligentes y respuestas naturales.",
+          "Su precio actual en Amazon ronda los 200 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Anki Vector Robot"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07G3ZNK4Y_combined.mp4",
+        "precio": "$200",
+        "productPhoto": "https://m.media-amazon.com/images/I/71bIxyJiH6L.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "AI-Powered & Fully Autonomous: Vector navigates, recognizes faces, and reacts to his surroundings with lifelike independence — no remote control required.",
+          "Now Connected to ChatGPT (subscription required): Experience a new level of conversation! With ChatGPT integration, Vector can answer complex questions, hold meaningful chats, and offer more natural and intelligent responses.",
+          "Multilingual Support: Vector can now understand and speak in multiple languages, making him the perfect smart companion for global households and language learners. Vector can chat in English, Spanish, French, German, and more! Say “Hey Vector.”",
+          "Smart Camera & Sensors: Built with an HD camera and advanced sensors for real-time mapping, facial recognition, and obstacle detection.",
+          "Expressive Personality: Watch Vector come to life with animated eyes, emotions, and playful reactions that evolve as you interact with him."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Litter-Robot 3 Connect",
+        "productId": "B09315VP9K",
+        "productName": "Litter-Robot 3 Connect",
+        "filename": "B09315VP9K.mp4",
+        "asin": "B09315VP9K",
+        "clipDuration": 60.03,
+        "estimatedAudioSeconds": null,
+        "framework": "experiencia_sensorial",
+        "narracionSegments": null,
+        "content": [
+          "\"Litter-Robot 3 Connect\" es una innovadora caja de arena autolimpiante que reduce olores con su ciclo automático de limpieza. Controla todo desde la app, monitoreando a tu mascota con facilidad.",
+          "\"Su precio actual en Amazon ronda los... X dólares. ¡Link en el primer comentario!\" Su precio actual en Amazon ronda los 499 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Litter-Robot 3 Connect"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B09315VP9K_combined.mp4",
+        "precio": "$499",
+        "productPhoto": "https://m.media-amazon.com/images/I/71xn0D9lRZL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B09315VP9K\\scenes_v1\\B09315VP9K_scene_02.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Caja de arena",
+            "raw": "9|Caja de arena"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B09315VP9K\\scenes_v1\\B09315VP9K_scene_04.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Caja de arena",
+            "raw": "9|Caja de arena"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B09315VP9K\\scenes_v1\\B09315VP9K_scene_05.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Caja de arena",
+            "raw": "9|Caja de arena"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B09315VP9K\\scenes_v1\\B09315VP9K_scene_06.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Caja de arena",
+            "raw": "9|Caja de arena"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B09315VP9K\\scenes_v2\\B09315VP9K_v2_scene_06.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Caja de arena",
+            "raw": "9|Caja de arena"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B09315VP9K\\scenes_v2\\B09315VP9K_v2_scene_13.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Caja de arena",
+            "raw": "9|Caja de arena"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B09315VP9K\\scenes_v2\\B09315VP9K_v2_scene_07.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Litter-Robot visible",
+            "raw": "8|Litter-Robot visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B09315VP9K\\scenes_v3\\B09315VP9K_v3_scene_02.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Caja de arena",
+            "raw": "9|Caja de arena"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B09315VP9K\\scenes_v3\\B09315VP9K_v3_scene_09.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Caja de arena",
+            "raw": "9|Caja de arena"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B09315VP9K\\scenes_v3\\B09315VP9K_v3_scene_11.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Caja de arena",
+            "raw": "9|Caja de arena"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B09315VP9K\\scenes_v3\\B09315VP9K_v3_scene_13.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Caja de arena",
+            "raw": "9|Caja de arena"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B09315VP9K\\scenes_v3\\B09315VP9K_v3_scene_10.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Caja de arena",
+            "raw": "8|Caja de arena"
+          }
+        ],
+        "features": [
+          "SELF-CLEANING LITTER BOX: Never scoop again with Litter-Robot 3 Connect – the automatic, self-cleaning cat litter box. The patented sifting process automatically separates your cat's waste from the clean litter. Just empty the waste drawer when full.",
+          "REDUCES LITTER BOX ODORS: The automatic clean cycle and carbon filter help reduce odors compared to standard litter boxes. Give your kitty a clean bed of litter every time. Compatible with any clumping cat litter.",
+          "MONITOR + CONTROL VIA APP: Control the smart litter box straight from the Whisker app. Get notifications when the waste drawer is full, view real-time activity and controls, and track kitty’s litter box habits from your phone.",
+          "SAFETY & USE: Suitable for up to 4 cats; each cat must weigh at least 5 lbs (2.2 kg) to safely use Litter-Robot in Automatic Mode. Never push Litter-Robot against a wall or into a corner (must not be touching any walls).",
+          "DESIGNED & ASSEMBLED IN THE USA: Litter-Robot comes with our comprehensive WhiskerCare 1-Year Warranty with an extended plan available for purchase. Whisker products may be returned with no cost but shipping."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Narwal T10 Mop and Vacuum",
+        "productId": "B0FL6PWX3F",
+        "productName": "Narwal T10 Mop and Vacuum",
+        "filename": "B0FL6PWX3F.mp4",
+        "asin": "B0FL6PWX3F",
+        "clipDuration": 27.43,
+        "estimatedAudioSeconds": null,
+        "framework": "problema_solucion",
+        "narracionSegments": null,
+        "content": [
+          "11,000Pa Hyper Suction: Freo X10 Pro robot vacuum and mop delivers ultra-strong 11,000Pa suction for deep cleaning on hard floors and carpets. Carpet detection with 12mm auto mop l",
+          "Su precio actual en Amazon ronda los... 550 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Narwal T10 Mop and Vacuum"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0FL6PWX3F.mp4",
+        "precio": "$550",
+        "productPhoto": "https://m.media-amazon.com/images/I/61UY9DEnERL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "11,000Pa Hyper Suction: Freo X10 Pro robot vacuum and mop delivers ultra-strong 11,000Pa suction for deep cleaning on hard floors and carpets. Carpet detection with 12mm auto mop lift helps keep rugs dry and protected.",
+          "DualFlow Tangle-Free System: Designed to reduce hair wrap, the dynamic side brush loosens debris while the roller brush guides strands straight into the dustbin—ideal for homes with pets or long hair.",
+          "Edge & Corner Coverage: This automatic vacuum robot uses MopExtend and EdgeSwing to reach edges and corners, ensuring thorough cleaning around toe-kicks and tight spaces.",
+          "All-in-One Base Station with Heated Drying: The dock automatically washes and dries mops with warm air. With self-emptying and an extra-large dust bag, the vacuum robot for home stores up to 120 days of debris for hands-free upkeep.",
+          "Mops Until Spotless: Dual spinning mops apply 8N pressure to scrub stubborn stains. The patented Reuleaux Triangular Mop design maximizes coverage, standing out among robot vacuums."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Robomow RX20",
+        "productId": "B0DRG2HMD2",
+        "productName": "Robomow RX20",
+        "filename": "B0DRG2HMD2.mp4",
+        "asin": "B0DRG2HMD2",
+        "clipDuration": 60.06,
+        "estimatedAudioSeconds": 60,
+        "framework": "enfoque_caracteristica",
+        "narracionSegments": null,
+        "content": [
+          "El Robomow RX20 ofrece un césped perfectamente mapeado sin cables ni complicaciones, gracias a su avanzada tecnología de mapeo automatizado.",
+          "Su precio actual en Amazon ronda los 700 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Robomow RX20"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0DRG2HMD2_combined.mp4",
+        "precio": "$700",
+        "productPhoto": "https://m.media-amazon.com/images/I/61ao73UBKhL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DRG2HMD2\\scenes_v1\\B0DRG2HMD2_scene_01.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Cortadora Robótica",
+            "raw": "9|Cortadora Robótica"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DRG2HMD2\\scenes_v1\\B0DRG2HMD2_scene_04.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "móvil, app, césped",
+            "raw": "9|móvil, app, césped"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DRG2HMD2\\scenes_v1\\B0DRG2HMD2_scene_06.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Cortadora robótica",
+            "raw": "9|Cortadora robótica"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DRG2HMD2\\scenes_v1\\B0DRG2HMD2_scene_05.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "móvil, control, césped",
+            "raw": "9|móvil, control, césped"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DRG2HMD2\\scenes_v1\\B0DRG2HMD2_scene_07.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "mando a distancia",
+            "raw": "9|mando a distancia"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DRG2HMD2\\scenes_v1\\B0DRG2HMD2_scene_08.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Cortadora automática",
+            "raw": "9|Cortadora automática"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DRG2HMD2\\scenes_v1\\B0DRG2HMD2_scene_11.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Cortadora robótica",
+            "raw": "9|Cortadora robótica"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DRG2HMD2\\scenes_v1\\B0DRG2HMD2_scene_12.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Cortadora robótica",
+            "raw": "9|Cortadora robótica"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DRG2HMD2\\scenes_v1\\B0DRG2HMD2_scene_10.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Cortadora robótica",
+            "raw": "8|Cortadora robótica"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DRG2HMD2\\scenes_v1\\B0DRG2HMD2_scene_02.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "césped visible",
+            "raw": "5|césped visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DRG2HMD2\\scenes_v2\\B0DRG2HMD2_v2_scene_02.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Cortadora robótica",
+            "raw": "9|Cortadora robótica"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DRG2HMD2\\scenes_v2\\B0DRG2HMD2_v2_scene_01.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Cortadora Robótica",
+            "raw": "9|Cortadora Robótica"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DRG2HMD2\\scenes_v3\\B0DRG2HMD2_v3_scene_01.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "móvil, césped, control",
+            "raw": "9|móvil, césped, control"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DRG2HMD2\\scenes_v3\\B0DRG2HMD2_v3_scene_02.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Cortadora robótica",
+            "raw": "9|Cortadora robótica"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DRG2HMD2\\scenes_v3\\B0DRG2HMD2_v3_scene_04.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Cortadora robótica",
+            "raw": "9|Cortadora robótica"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DRG2HMD2\\scenes_v3\\B0DRG2HMD2_v3_scene_05.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "móvil, app, césped",
+            "raw": "9|móvil, app, césped"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DRG2HMD2\\scenes_v3\\B0DRG2HMD2_v3_scene_06.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "móvil, app, césped",
+            "raw": "9|móvil, app, césped"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DRG2HMD2\\scenes_v3\\B0DRG2HMD2_v3_scene_07.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Control APP",
+            "raw": "9|Control APP"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DRG2HMD2\\scenes_v3\\B0DRG2HMD2_v3_scene_09.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "móvil, app, césped",
+            "raw": "9|móvil, app, césped"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DRG2HMD2\\scenes_v3\\B0DRG2HMD2_v3_scene_10.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "móvil, app, césped",
+            "raw": "9|móvil, app, césped"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DRG2HMD2\\scenes_v3\\B0DRG2HMD2_v3_scene_11.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "móvil, control, césped",
+            "raw": "9|móvil, control, césped"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DRG2HMD2\\scenes_v3\\B0DRG2HMD2_v3_scene_12.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "móvil, app, césped",
+            "raw": "9|móvil, app, césped"
+          }
+        ],
+        "features": [
+          "No Wires, No Hassle, Just a Perfectly Mapped Lawn - The GOAT O1000 RTK robotic lawn mower leverages cutting-edge AI technology to recognize and memorize your lawn’s boundaries, eliminating the need for physical wires or manual setup. Its advanced automated mapping system quickly generates a precise layout of your yard, making lawn maintenance effortless and efficient.",
+          "Avoids Obstacles, Protects Pets & Property - Equipped with AIVI 3D obstacle avoidance, the GOAT O1000 intelligently detects and navigates around objects, pets, and even small wildlife like hedgehogs. GOAT lawn mower ensures your garden stays safe and unharmed, delivering peace of mind with every cut.",
+          "Flawless Lawn Coverage, No Missed Spots or Manual Trimming - The TruEdge Consistent Edge Mowing feature guarantees precise, edge-to-edge cuts, eliminating the need for manual trimming. With zero-edge cutting and LELS navigation, the GOAT O1000 follows boundaries seamlessly and mows in efficient U-shaped patterns, ensuring complete coverage and a professionally manicured lawn every time.",
+          "Conquers Tight Spaces & Steep Slopes - Thanks to its ultra-slim 1.31ft design and smart edge recognition, the GOAT O1000 effortlessly maneuvers through narrow paths as tight as 2.3ft. Its robust 45% (24°) climbing ability ensures it reaches every corner of your yard, while the IPX6 waterproof rating keeps it running reliably in any weather condition.",
+          "Smart App Control for Customized Lawn Care - The editable map allows you to easily add, merge, split, or delete areas, giving you full control over your lawn layout. You can set multiple paths for the robot to travel between zones and define no-go areas. Customize settings for different zones, including cutting speed, cutting height, obstacle avoidance height, and mowing direction, to match your personal preferences and schedule."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "iRobot Braava Jet 240",
+        "productId": "B07QNM91NQ",
+        "productName": "iRobot Braava Jet 240",
+        "filename": "B07QNM91NQ.mp4",
+        "asin": "B07QNM91NQ",
+        "clipDuration": 60.03,
+        "estimatedAudioSeconds": 60,
+        "framework": "beneficio_oculto",
+        "narracionSegments": null,
+        "content": [
+          "El iRobot Braava Jet 240 realiza la limpieza de múltiples habitaciones y evita objetos con navegación inteligente, ideal para superficies duras.",
+          "Su precio actual en Amazon ronda los 169 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: iRobot Braava Jet 240"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07QNM91NQ_combined.mp4",
+        "precio": "$169",
+        "productPhoto": "https://m.media-amazon.com/images/I/81rv10KuoWL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07QNM91NQ\\scenes_v1\\B07QNM91NQ_scene_04.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "robot limpiador",
+            "raw": "9|robot limpiador"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07QNM91NQ\\scenes_v1\\B07QNM91NQ_scene_08.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "producto y accesorios",
+            "raw": "9|producto y accesorios"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07QNM91NQ\\scenes_v1\\B07QNM91NQ_scene_09.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "robot mopa",
+            "raw": "9|robot mopa"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07QNM91NQ\\scenes_v1\\B07QNM91NQ_scene_10.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "robot limpiador",
+            "raw": "9|robot limpiador"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07QNM91NQ\\scenes_v1\\B07QNM91NQ_scene_11.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Robot mopa",
+            "raw": "9|Robot mopa"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07QNM91NQ\\scenes_v1\\B07QNM91NQ_scene_12.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "robot aspirador",
+            "raw": "9|robot aspirador"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07QNM91NQ\\scenes_v1\\B07QNM91NQ_scene_17.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "robot limpiador",
+            "raw": "9|robot limpiador"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07QNM91NQ\\scenes_v1\\B07QNM91NQ_scene_03.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "robot mopa",
+            "raw": "8|robot mopa"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07QNM91NQ\\scenes_v1\\B07QNM91NQ_scene_06.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "robot mopa",
+            "raw": "8|robot mopa"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07QNM91NQ\\scenes_v1\\B07QNM91NQ_scene_05.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "robot limpiador",
+            "raw": "8|robot limpiador"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07QNM91NQ\\scenes_v1\\B07QNM91NQ_scene_15.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "robot limpiador",
+            "raw": "8|robot limpiador"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07QNM91NQ\\scenes_v1\\B07QNM91NQ_scene_18.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Robot mopa",
+            "raw": "8|Robot mopa"
+          }
+        ],
+        "features": [
+          "MOPPING THAT FITS SEAMLESSLY INTO YOUR LIFE - Ideal for multiple rooms & larger spaces. Navigates around objects & under furniture. Cleans finished hard floors including hardwood, tile & stone.",
+          "GUIDED BY SERIOUS SMARTS - With vSLAM navigation, the m6 learns the layout of your home & builds personal Smart Maps, enabling it to expertly clean & navigate in neat, efficient rows. If it’s running low on battery, it recharges & resumes cleaning.",
+          "MOPS MESSES IN THE MOMENT - Coffee spill on the floor? Dog track in mud? The m6 can target specific areas within your rooms, like in front of the couch or under a table, for easy, hands-free mopping, with a request to your voice assistant or via the app.",
+          "COMPLETE CONTROL OF YOUR CLEAN - With Smart Mapping, your robot knows your kitchen from your living room, so you can decide where it cleans & when. With Keep Out Zones, your robot knows to avoid sensitive areas like pet bowls or play areas.",
+          "A CLEAN UNIQUE TO YOU - The Braava jet m6 robot mop is smarter than ever, learning where & when you normally clean & suggesting personalized schedules so you can focus on everything else."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Yardroid Garden Robot",
+        "productId": "B0DRG2HMD2",
+        "productName": "Yardroid Garden Robot",
+        "filename": "B0DRG2HMD2.mp4",
+        "asin": "B0DRG2HMD2",
+        "clipDuration": 60.06,
+        "estimatedAudioSeconds": 60,
+        "framework": "comparacion_precio",
+        "narracionSegments": null,
+        "content": [
+          "No Wires, No Hassle, Just a Perfectly Mapped Lawn - The GOAT O1000 RTK robotic lawn mower leverages cutting-edge AI technology to recognize and memorize your lawn’s boundaries, eli",
+          "Su precio actual en Amazon ronda los... 2499 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Yardroid Garden Robot"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0DRG2HMD2_combined.mp4",
+        "precio": "$700",
+        "productPhoto": "https://m.media-amazon.com/images/I/61ao73UBKhL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DRG2HMD2\\scenes_v1\\B0DRG2HMD2_scene_01.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Cortadora Robótica",
+            "raw": "9|Cortadora Robótica"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DRG2HMD2\\scenes_v1\\B0DRG2HMD2_scene_04.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "móvil, app, césped",
+            "raw": "9|móvil, app, césped"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DRG2HMD2\\scenes_v1\\B0DRG2HMD2_scene_06.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Cortadora robótica",
+            "raw": "9|Cortadora robótica"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DRG2HMD2\\scenes_v1\\B0DRG2HMD2_scene_05.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "móvil, control, césped",
+            "raw": "9|móvil, control, césped"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DRG2HMD2\\scenes_v1\\B0DRG2HMD2_scene_07.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "mando a distancia",
+            "raw": "9|mando a distancia"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DRG2HMD2\\scenes_v1\\B0DRG2HMD2_scene_08.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Cortadora automática",
+            "raw": "9|Cortadora automática"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DRG2HMD2\\scenes_v1\\B0DRG2HMD2_scene_11.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Cortadora robótica",
+            "raw": "9|Cortadora robótica"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DRG2HMD2\\scenes_v1\\B0DRG2HMD2_scene_12.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Cortadora robótica",
+            "raw": "9|Cortadora robótica"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DRG2HMD2\\scenes_v1\\B0DRG2HMD2_scene_10.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Cortadora robótica",
+            "raw": "8|Cortadora robótica"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DRG2HMD2\\scenes_v1\\B0DRG2HMD2_scene_02.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "césped visible",
+            "raw": "5|césped visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DRG2HMD2\\scenes_v2\\B0DRG2HMD2_v2_scene_02.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Cortadora robótica",
+            "raw": "9|Cortadora robótica"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DRG2HMD2\\scenes_v2\\B0DRG2HMD2_v2_scene_01.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Cortadora Robótica",
+            "raw": "9|Cortadora Robótica"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DRG2HMD2\\scenes_v3\\B0DRG2HMD2_v3_scene_01.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "móvil, césped, control",
+            "raw": "9|móvil, césped, control"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DRG2HMD2\\scenes_v3\\B0DRG2HMD2_v3_scene_02.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Cortadora robótica",
+            "raw": "9|Cortadora robótica"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DRG2HMD2\\scenes_v3\\B0DRG2HMD2_v3_scene_04.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Cortadora robótica",
+            "raw": "9|Cortadora robótica"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DRG2HMD2\\scenes_v3\\B0DRG2HMD2_v3_scene_05.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "móvil, app, césped",
+            "raw": "9|móvil, app, césped"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DRG2HMD2\\scenes_v3\\B0DRG2HMD2_v3_scene_06.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "móvil, app, césped",
+            "raw": "9|móvil, app, césped"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DRG2HMD2\\scenes_v3\\B0DRG2HMD2_v3_scene_07.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Control APP",
+            "raw": "9|Control APP"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DRG2HMD2\\scenes_v3\\B0DRG2HMD2_v3_scene_09.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "móvil, app, césped",
+            "raw": "9|móvil, app, césped"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DRG2HMD2\\scenes_v3\\B0DRG2HMD2_v3_scene_10.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "móvil, app, césped",
+            "raw": "9|móvil, app, césped"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DRG2HMD2\\scenes_v3\\B0DRG2HMD2_v3_scene_11.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "móvil, control, césped",
+            "raw": "9|móvil, control, césped"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DRG2HMD2\\scenes_v3\\B0DRG2HMD2_v3_scene_12.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "móvil, app, césped",
+            "raw": "9|móvil, app, césped"
+          }
+        ],
+        "features": [
+          "No Wires, No Hassle, Just a Perfectly Mapped Lawn - The GOAT O1000 RTK robotic lawn mower leverages cutting-edge AI technology to recognize and memorize your lawn’s boundaries, eliminating the need for physical wires or manual setup. Its advanced automated mapping system quickly generates a precise layout of your yard, making lawn maintenance effortless and efficient.",
+          "Avoids Obstacles, Protects Pets & Property - Equipped with AIVI 3D obstacle avoidance, the GOAT O1000 intelligently detects and navigates around objects, pets, and even small wildlife like hedgehogs. GOAT lawn mower ensures your garden stays safe and unharmed, delivering peace of mind with every cut.",
+          "Flawless Lawn Coverage, No Missed Spots or Manual Trimming - The TruEdge Consistent Edge Mowing feature guarantees precise, edge-to-edge cuts, eliminating the need for manual trimming. With zero-edge cutting and LELS navigation, the GOAT O1000 follows boundaries seamlessly and mows in efficient U-shaped patterns, ensuring complete coverage and a professionally manicured lawn every time.",
+          "Conquers Tight Spaces & Steep Slopes - Thanks to its ultra-slim 1.31ft design and smart edge recognition, the GOAT O1000 effortlessly maneuvers through narrow paths as tight as 2.3ft. Its robust 45% (24°) climbing ability ensures it reaches every corner of your yard, while the IPX6 waterproof rating keeps it running reliably in any weather condition.",
+          "Smart App Control for Customized Lawn Care - The editable map allows you to easily add, merge, split, or delete areas, giving you full control over your lawn layout. You can set multiple paths for the robot to travel between zones and define no-go areas. Customize settings for different zones, including cutting speed, cutting height, obstacle avoidance height, and mowing direction, to match your personal preferences and schedule."
+        ]
+      }
+    ],
+    "totalDuration": 250
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      null
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "4:40",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "robots",
+    "amazon",
+    "sabas",
+    "existan"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 10 Robots en Amazon que No Sabías Que Existían",
+      "angle": "Top 10 Robots en Amazon que No Sabías Que Existían",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 10,
+      "introScript": "¿Un robot que limpia tus ventanas sin esfuerzo? ¿Otro que organiza tu jardín con precisión milimétrica? En el mundo de los gadgets, los robots han llegado para quedarse y hoy te presento diez que quizás no sabías que existían, pero que puedes encontrar ahora mismo en Amazon.",
+      "keywords": [
+        "robots",
+        "amazon",
+        "sabas",
+        "existan"
+      ],
+      "estimatedViews": 5147,
+      "bestPublishTime": "2026-05-27T19:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "ECOVACS Winbot X",
+          "searchTermEn": "ECOVACS Winbot X window cleaning robot",
+          "id": "B0DR8W696Y",
+          "filename": "B0DR8W696Y.mp4"
+        },
+        {
+          "nombre": "Tertill Garden Weeding Robot",
+          "searchTermEn": "Tertill garden weeding robot",
+          "id": "B08V11BR56",
+          "filename": "B08V11BR56.mp4"
+        },
+        {
+          "nombre": "ILIFE V3s Pro",
+          "searchTermEn": "ILIFE V3s Pro robot vacuum",
+          "id": "B0G5YDVR99",
+          "filename": "B0G5YDVR99.mp4"
+        },
+        {
+          "nombre": "Miko 3 Educational Robot",
+          "searchTermEn": "Miko 3 educational robot for kids",
+          "id": "B0FDWCGJS8",
+          "filename": "B0FDWCGJS8.mp4"
+        },
+        {
+          "nombre": "Anki Vector Robot",
+          "searchTermEn": "Anki Vector robot companion",
+          "id": "B07G3ZNK4Y",
+          "filename": "B07G3ZNK4Y.mp4"
+        },
+        {
+          "nombre": "Litter-Robot 3 Connect",
+          "searchTermEn": "Litter-Robot 3 automatic self-cleaning litter box",
+          "id": "B09315VP9K",
+          "filename": "B09315VP9K.mp4"
+        },
+        {
+          "nombre": "Narwal T10 Mop and Vacuum",
+          "searchTermEn": "Narwal T10 mop vacuum robot",
+          "id": "B0FL6PWX3F",
+          "filename": "B0FL6PWX3F.mp4"
+        },
+        {
+          "nombre": "Robomow RX20",
+          "searchTermEn": "Robomow RX20 robotic lawn mower",
+          "id": "B0DRG2HMD2",
+          "filename": "B0DRG2HMD2.mp4"
+        },
+        {
+          "nombre": "iRobot Braava Jet 240",
+          "searchTermEn": "iRobot Braava Jet 240 mopping robot",
+          "id": "B07QNM91NQ",
+          "filename": "B07QNM91NQ.mp4"
+        },
+        {
+          "nombre": "Yardroid Garden Robot",
+          "searchTermEn": "Yardroid garden robot for landscaping",
+          "id": "B0DRG2HMD2",
+          "filename": "B0DRG2HMD2.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-05-22T23:13:46.107Z",
+      "_requestedCount": 10,
+      "_adaptedCount": 10,
+      "introProductsOrder": [
+        {
+          "nombre": "ILIFE V3s Pro",
+          "id": "B0G5YDVR99",
+          "filename": "B0G5YDVR99_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0G5YDVR99_combined.mp4"
+        },
+        {
+          "nombre": "Tertill Garden Weeding Robot",
+          "id": "B08V11BR56",
+          "filename": "B08V11BR56_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B08V11BR56_combined.mp4"
+        },
+        {
+          "nombre": "Yardroid Garden Robot",
+          "id": "B0DRG2HMD2",
+          "filename": "B0DRG2HMD2_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0DRG2HMD2_combined.mp4"
+        },
+        {
+          "nombre": "iRobot Braava Jet 240",
+          "id": "B07QNM91NQ",
+          "filename": "B07QNM91NQ_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07QNM91NQ_combined.mp4"
+        },
+        {
+          "nombre": "Narwal T10 Mop and Vacuum",
+          "id": "B0FL6PWX3F",
+          "filename": "B0FL6PWX3F.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0FL6PWX3F.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1779493429546_3vl288"
+    },
+    "generatedAt": "2026-05-22T23:49:37.609Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "ECOVACS Winbot X",
+        "searchTermEn": "ECOVACS Winbot X window cleaning robot",
+        "id": "B0DR8W696Y",
+        "filename": "B0DR8W696Y.mp4"
+      },
+      {
+        "nombre": "Tertill Garden Weeding Robot",
+        "searchTermEn": "Tertill garden weeding robot",
+        "id": "B08V11BR56",
+        "filename": "B08V11BR56.mp4"
+      },
+      {
+        "nombre": "ILIFE V3s Pro",
+        "searchTermEn": "ILIFE V3s Pro robot vacuum",
+        "id": "B0G5YDVR99",
+        "filename": "B0G5YDVR99.mp4"
+      },
+      {
+        "nombre": "Miko 3 Educational Robot",
+        "searchTermEn": "Miko 3 educational robot for kids",
+        "id": "B0FDWCGJS8",
+        "filename": "B0FDWCGJS8.mp4"
+      },
+      {
+        "nombre": "Anki Vector Robot",
+        "searchTermEn": "Anki Vector robot companion",
+        "id": "B07G3ZNK4Y",
+        "filename": "B07G3ZNK4Y.mp4"
+      },
+      {
+        "nombre": "Litter-Robot 3 Connect",
+        "searchTermEn": "Litter-Robot 3 automatic self-cleaning litter box",
+        "id": "B09315VP9K",
+        "filename": "B09315VP9K.mp4"
+      },
+      {
+        "nombre": "Narwal T10 Mop and Vacuum",
+        "searchTermEn": "Narwal T10 mop vacuum robot",
+        "id": "B0FL6PWX3F",
+        "filename": "B0FL6PWX3F.mp4"
+      },
+      {
+        "nombre": "Robomow RX20",
+        "searchTermEn": "Robomow RX20 robotic lawn mower",
+        "id": "B0DRG2HMD2",
+        "filename": "B0DRG2HMD2.mp4"
+      },
+      {
+        "nombre": "iRobot Braava Jet 240",
+        "searchTermEn": "iRobot Braava Jet 240 mopping robot",
+        "id": "B07QNM91NQ",
+        "filename": "B07QNM91NQ.mp4"
+      },
+      {
+        "nombre": "Yardroid Garden Robot",
+        "searchTermEn": "Yardroid garden robot for landscaping",
+        "id": "B0DRG2HMD2",
+        "filename": "B0DRG2HMD2.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 10 Robots en Amazon que No Sabías Que Existían\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\n¿Elimina el pelo de mascota eficazmente? ¿Controla malas hierbas sin esfuerzo? ¿Mide a la perfección tu jardín? ¿Friegas sin tocar el piso? ¿Combina aspirado y fregado en segundos?\n\n[0:10-0:15] INTRODUCTION\nLos links de compra están en el primer comentario. Empezamos.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] ECOVACS WINBOT X\nLas ventanas sucias son un fastidio continuo. El ECOVACS Winbot X ofrece una solución simple, limpiando tus ventanas con facilidad gracias a su diseño compacto y ligera succión potente para mantenerse adherido. Ya no necesitas preocuparte por manchas o suciedad cotidiana.\nSu precio actual en Amazon ronda los... 22 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: ECOVACS Winbot X]\n\n[0:25] TERTILL GARDEN WEEDING ROBOT\n-Eliminando malas hierbas automáticamente-, este robot es un asistente invaluable para jardines pequeños, destacándose por su ingeniosa capacidad de minimizar trabajo manual. Su pequeño tamaño y eficiencia lo convierten en la alternativa perfecta para evitar sorpresas desagradables entre tus plantas.\nSu precio actual en Amazon ronda los... 90 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Tertill Garden Weeding Robot]\n\n[0:25] ILIFE V3S PRO\nEl ILIFE V3s Pro ofrece una succión máxima de 10,000Pa, ideal para recoger suciedad y pelo de mascota. Con su tecnología avanzada de mapeo y navegación LiDAR, garantiza una limpieza eficaz y completa en todo el hogar.\nSu precio actual en Amazon ronda los 80 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: ILIFE V3s Pro]\n\n[0:25] MIKO 3 EDUCATIONAL ROBOT\nEl Miko 3 es un robot educativo diseñado para inspirar la creatividad en los niños. Con 100 tarjetas de dibujo, fomenta la expresión artística y mejora las habilidades motoras mientras los niños aprenden jugando.\nSu precio actual en Amazon ronda los 50 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Miko 3 Educational Robot]\n\n[0:25] ANKI VECTOR ROBOT\nEl Anki Vector es un robot totalmente autónomo con inteligencia artificial que navega y reconoce rostros. Ahora conectado a ChatGPT, ofrece conversaciones más inteligentes y respuestas naturales.\nSu precio actual en Amazon ronda los 200 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Anki Vector Robot]\n\n[0:25] LITTER-ROBOT 3 CONNECT\n\"Litter-Robot 3 Connect\" es una innovadora caja de arena autolimpiante que reduce olores con su ciclo automático de limpieza. Controla todo desde la app, monitoreando a tu mascota con facilidad.\n\"Su precio actual en Amazon ronda los... X dólares. ¡Link en el primer comentario!\" Su precio actual en Amazon ronda los 499 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Litter-Robot 3 Connect]\n\n[0:25] NARWAL T10 MOP AND VACUUM\n11,000Pa Hyper Suction: Freo X10 Pro robot vacuum and mop delivers ultra-strong 11,000Pa suction for deep cleaning on hard floors and carpets. Carpet detection with 12mm auto mop l\nSu precio actual en Amazon ronda los... 550 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Narwal T10 Mop and Vacuum]\n\n[0:25] ROBOMOW RX20\nEl Robomow RX20 ofrece un césped perfectamente mapeado sin cables ni complicaciones, gracias a su avanzada tecnología de mapeo automatizado.\nSu precio actual en Amazon ronda los 700 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Robomow RX20]\n\n[0:25] IROBOT BRAAVA JET 240\nEl iRobot Braava Jet 240 realiza la limpieza de múltiples habitaciones y evita objetos con navegación inteligente, ideal para superficies duras.\nSu precio actual en Amazon ronda los 169 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: iRobot Braava Jet 240]\n\n[0:25] YARDROID GARDEN ROBOT\nNo Wires, No Hassle, Just a Perfectly Mapped Lawn - The GOAT O1000 RTK robotic lawn mower leverages cutting-edge AI technology to recognize and memorize your lawn’s boundaries, eli\nSu precio actual en Amazon ronda los... 2499 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Yardroid Garden Robot]\n\n[10 seconds] CONCLUSION\nundefined\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 4:40\nTONE: engaging\nPACING: quick\nKEYWORDS: robots, amazon, sabas, existan\n"
+}

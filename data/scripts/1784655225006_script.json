@@ -1,0 +1,134 @@
+{
+  "title": "Top 1 Herramienta Innovadora para Cuidar tu Césped",
+  "hook": {
+    "type": "statement",
+    "text": "",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "25s-35s"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Robomow Robotic Lawnmower",
+        "productId": "B0CX7T6BR3",
+        "productName": "Robomow Robotic Lawnmower",
+        "filename": "B0CX7T6BR3.mp4",
+        "asin": "B0CX7T6BR3",
+        "videoDuration": 27.628867,
+        "estimatedAudioSeconds": 33,
+        "framework": "comparacion_precio",
+        "narracionSegments": null,
+        "content": [
+          "¿Cansado de cortadoras ineficientes? Robomow Robotic Lawnmower con RTK mejorado y sensores de visión transforma tu césped. La tecnología de posicionamiento avanzado ofrece precisión al centímetro incluso en terrenos complejos; ¡olvídate de límites físicos! Conecta el smartphone. Traza límites virtuales. El algoritmo, con IA, mapea y navega automáticamente; mantén el césped perfecto con cortes planificados. La cámara identifica más de ciento cincuenta obstáculos para un corte seguro y preciso; todo sin esfuerzo.",
+          "Su precio actual ronda los 800 dólares. Link en comentarios."
+        ],
+        "visuals": [
+          "Product image: Robomow Robotic Lawnmower"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0CX7T6BR3.mp4",
+        "precio": "$800",
+        "productPhoto": "https://m.media-amazon.com/images/I/61L80dk1NRL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "RTK mejorado con sistema de visión para céspedes complejos: Equipado con EFLS 2.0, Navimow cuenta con tecnología de posicionamiento RTK personalizada mejorada con sensores de visión, que ofrece una precisión de navegación estable a nivel de centímetros. Maneja una amplia variedad de diseños de césped, incluyendo áreas debajo de árboles o pasajes estrechos, asegurando un funcionamiento confiable incluso en entornos desafiantes.",
+          "No Perimeter Wires y Mapeo Automático Asistido por IA: Configuración rápida y sin cables en solo unos pocos toques, simplemente usa tu smartphone para guiar a Navimow y trazar límites virtuales alrededor de tu jardín. Además, con la revolucionaria función de Mapeo Asistido impulsada por IA, Navimow identifica los bordes claros de tu jardín durante el mapeo y navega y mapea automáticamente toda el área de trabajo, haciendo que la configuración sea más fácil que nunca.",
+          "Mantenimiento de Césped Eficiente y Perfecto: Navimow corta tu césped con patrones de corte planificados para asegurar un corte de hierba sistemático y eficiente, cambia la dirección de corte después de cubrir el 100% para minimizar las marcas en el césped, se recarga de manera inteligente y sigue cortando hasta que el trabajo esté terminado, para que tu césped siempre luzca fresco.",
+          "Identifica más de 150 tipos de obstáculos: En comparación con los sensores ultrasónicos o los parachoques, la cámara de 140° de campo de visión de Navimow con algoritmos de IA integrados puede detectar más de 150 tipos de objetos comunes en el jardín para garantizar capacidades de evitación de obstáculos más robustas y un mayor nivel de seguridad.",
+          "Contenido del paquete: El paquete incluye 1 * Navimow i110N cortacésped robótico, 1 * fuente de alimentación, 1 * cable de extensión, 10 * estacas para asegurar el cable de extensión, 1 * estación de carga y el kit de instalación, 1 * kit de antena GNSS, 1 * kit de instalación de antena, 9 * cuchillas y tornillos de repuesto, 1 * conjunto de materiales para el usuario."
+        ]
+      }
+    ],
+    "totalDuration": 40
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      ""
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:10",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "herramienta",
+    "innovadora",
+    "para",
+    "cuidar",
+    "csped"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 1 Herramienta Innovadora para Cuidar tu Césped",
+      "angle": "Top 1 Herramienta Innovadora para Cuidar tu Césped",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 1,
+      "introScript": "Imagina tener el césped perfecto sin tener que mover un dedo. Aunque suene a ciencia ficción, existe una herramienta que transforma esa fantasía en realidad. Desarrollado gracias al poder del crowdfunding, este dispositivo es la solución perfecta para aquellos que desean un jardín impecable con el mínimo esfuerzo. Prepara tu jardín para ser la envidia del vecindario con nuestra selección del día. ¿Estás listo para descubrirla?",
+      "keywords": [
+        "herramienta",
+        "innovadora",
+        "para",
+        "cuidar",
+        "csped"
+      ],
+      "estimatedViews": 4342,
+      "bestPublishTime": "2026-07-24T20:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Robomow Robotic Lawnmower",
+          "searchTermEn": "Robomow robotic lawnmower",
+          "id": "B0CX7T6BR3",
+          "filename": "B0CX7T6BR3.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-07-21T17:30:42.182Z",
+      "_requestedCount": 1,
+      "_adaptedCount": 1,
+      "introProductsOrder": [
+        {
+          "nombre": "Robomow Robotic Lawnmower",
+          "id": "B0CX7T6BR3",
+          "filename": "B0CX7T6BR3.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0CX7T6BR3.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1784655205951_5v4zip"
+    },
+    "generatedAt": "2026-07-21T17:33:33.299Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Robomow Robotic Lawnmower",
+        "searchTermEn": "Robomow robotic lawnmower",
+        "id": "B0CX7T6BR3",
+        "filename": "B0CX7T6BR3.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 1 Herramienta Innovadora para Cuidar tu Césped\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\n\n\n[25s-35s] INTRODUCTION\n\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] ROBOMOW ROBOTIC LAWNMOWER\n¿Cansado de cortadoras ineficientes? Robomow Robotic Lawnmower con RTK mejorado y sensores de visión transforma tu césped. La tecnología de posicionamiento avanzado ofrece precisión al centímetro incluso en terrenos complejos; ¡olvídate de límites físicos! Conecta el smartphone. Traza límites virtuales. El algoritmo, con IA, mapea y navega automáticamente; mantén el césped perfecto con cortes planificados. La cámara identifica más de ciento cincuenta obstáculos para un corte seguro y preciso; todo sin esfuerzo.\nSu precio actual ronda los 800 dólares. Link en comentarios.\n\n[VISUALS: Product image: Robomow Robotic Lawnmower]\n\n[10 seconds] CONCLUSION\n\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:10\nTONE: engaging\nPACING: quick\nKEYWORDS: herramienta, innovadora, para, cuidar, csped\n"
+}

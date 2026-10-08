@@ -25,7 +25,7 @@ class DailyAutomation {
   async setupScheduledTasks() {
     // Daily content generation at 6:00 AM
     this.scheduledTasks.set('daily-content-generation', 
-      cron.schedule('0 6 * * *', async () => {
+      cron.schedule('15 12 * * *', async () => {
         if (this.isEnabled) {
           await this.runDailyContentGeneration();
         }
@@ -84,61 +84,61 @@ class DailyAutomation {
     });
   }
 
-  async runDailyContentGeneration() {
+async runDailyContentGeneration() {
     try {
       this.logger.info('Starting daily content generation...');
       
       const timer = this.logger.startTimer('Daily Content Generation');
       
-      // Check if we should generate content today
-      const shouldGenerate = await this.shouldGenerateContentToday();
-      
-      if (!shouldGenerate) {
-        this.logger.info('Skipping content generation - sufficient content in pipeline');
-        return;
-      }
+      // 🛑 BYPASS: Comentamos la validación de buffer para forzar la creación SIEMPRE a las 6:00 AM
+      // const shouldGenerate = await this.shouldGenerateContentToday();
+      // if (!shouldGenerate) {
+      //   this.logger.info('Skipping content generation - sufficient content in pipeline');
+      //   return;
+      // }
 
-      // Generate content strategy
-      const strategy = await this.agents.strategy.generateContentStrategy();
-      this.logger.info(`Generated strategy: ${strategy.topic}`);
+      // 1. Definimos la parrilla de programación semanal (Variedad Extrema)
+      const temasPorDia = {
+        0: "15 inventos curiosos que no sabías que necesitabas", // Domingo (Video medio)
+        1: "5 accesorios increíbles para tu auto",             // Lunes (Video corto)
+        2: "8 gadgets tecnológicos para tu setup",             // Martes
+        3: "3 gadgets de cocina que te ahorrarán tiempo",      // Miércoles (Video muy corto)
+        4: "10 herramientas EDC de supervivencia urbana",      // Jueves
+        5: "5 productos de salud y relajación",                // Viernes
+        6: "25 cosas baratas que parecen de otro nivel"        // Sábado (Video Largo "Hero")
+      };
 
-      // Generate script
-      const script = await this.agents.scriptWriter.generateScript(strategy);
-      this.logger.info(`Generated script: ${script.title}`);
+      // 2. Detectamos qué día es hoy
+      const diaActual = new Date().getDay(); // 0 = Domingo, 1 = Lunes...
+      const topicDelDia = temasPorDia[diaActual];
 
-      // Generate thumbnail
-      const thumbnail = await this.agents.thumbnailDesigner.generateThumbnail(script);
-      this.logger.info('Generated thumbnail');
+      this.logger.info(`📅 Programación del día detectada: "${topicDelDia}"`);
+      this.logger.info('🚀 Delegando la creación a la fábrica principal (index.js) vía API local...');
 
-      // Optimize SEO
-      const seoData = await this.agents.seoOptimizer.optimize(script, strategy);
-      this.logger.info('Completed SEO optimization');
-
-      // Process through production
-      const productionData = await this.agents.production.processContent({
-        strategy,
-        script,
-        thumbnail,
-        seo: seoData
+      // 3. Llamada API al servidor principal (index.js) para garantizar que lea los videos locales
+      const axios = require('axios');
+      const response = await axios.post('http://localhost:3456/generate', {
+        topic: topicDelDia,
+        style: 'default',
+        length: 'default'
+      }, { 
+        timeout: 0 // Importante: timeout 0 para que no se corte por el tiempo que tarda renderizar
       });
-      this.logger.info(`Production completed: ${productionData.id}`);
 
-      // Schedule for publishing
-      await this.agents.publishing.scheduleContent(productionData);
-      this.logger.info('Content scheduled for publishing');
+      const result = response.data.result;
 
       timer.end();
-      this.logger.success('Daily content generation completed successfully');
+      this.logger.success('✅ Daily content generation completed successfully vía API');
 
       // Log the event
       await this.logAutomationEvent('daily_content_generation', 'success', {
-        contentId: productionData.id,
-        topic: strategy.topic,
-        scheduledFor: productionData.scheduledPublishTime
+        contentId: result?.contentId,
+        topic: topicDelDia,
+        scheduledFor: result?.scheduledFor
       });
 
     } catch (error) {
-      this.logger.error('Daily content generation failed:', error);
+      this.logger.error('❌ Daily content generation failed:', error);
       
       await this.logAutomationEvent('daily_content_generation', 'error', {
         error: error.message
@@ -148,7 +148,6 @@ class DailyAutomation {
       await this.sendFailureNotification('Daily Content Generation', error);
     }
   }
-
   async shouldGenerateContentToday() {
     // Check content buffer
     const upcomingContent = await this.agents.publishing.getUpcomingSchedule(3);

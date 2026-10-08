@@ -1,0 +1,379 @@
+{
+  "title": "Top 3 Gadgets Para Cuidar Tu Familia en Amazon",
+  "hook": {
+    "type": "statement",
+    "text": "Aspira autonomamente habitaciones. Vigila cada rincón sin parar. Detecta movimiento de inmediato.",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "Suscríbete al canal y encuentra los links en el primer comentario.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "25s-30s"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Aqara Motion Sensor",
+        "productId": "B0CT8W9NRB",
+        "productName": "Aqara Motion Sensor",
+        "filename": "B0CT8W9NRB.mp4",
+        "asin": "B0CT8W9NRB",
+        "clipDuration": 60.03,
+        "estimatedAudioSeconds": null,
+        "framework": "experiencia_sensorial",
+        "narracionSegments": null,
+        "content": [
+          "-Experimenta- cómo el Aqara Motion Sensor responde al más mínimo movimiento, brindando automatización inteligente a tu hogar. Con un ángulo de detección amplio y sensible, este sensor alerta eficazmente sobre cualquier actividad dentro de su rango. Integra una luz ambiental que conecta con tus dispositivos inteligentes para facilitar una experiencia sensorial incomparable.",
+          "-Su precio actual en Amazon ronda los... 53 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Aqara Motion Sensor"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0CT8W9NRB_combined.mp4",
+        "precio": "$53",
+        "productPhoto": "https://m.media-amazon.com/images/I/6100lIjKBlL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CT8W9NRB\\scenes_v1\\B0CT8W9NRB_scene_06.mp4",
+            "type": "video",
+            "score": 10,
+            "tag": "interacción real",
+            "raw": "10|interacción real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CT8W9NRB\\scenes_v1\\B0CT8W9NRB_scene_45.mp4",
+            "type": "video",
+            "score": 10,
+            "tag": "interacción real",
+            "raw": "10|interacción real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CT8W9NRB\\scenes_v1\\B0CT8W9NRB_scene_41.mp4",
+            "type": "video",
+            "score": 10,
+            "tag": "interacción real",
+            "raw": "10|interacción real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CT8W9NRB\\scenes_v1\\B0CT8W9NRB_scene_55.mp4",
+            "type": "video",
+            "score": 10,
+            "tag": "interacción real",
+            "raw": "10|interacción real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CT8W9NRB\\scenes_v1\\B0CT8W9NRB_scene_67.mp4",
+            "type": "video",
+            "score": 10,
+            "tag": "interacción real",
+            "raw": "10|interacción real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CT8W9NRB\\scenes_v1\\B0CT8W9NRB_scene_01.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Interacción clara",
+            "raw": "9|Interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CT8W9NRB\\scenes_v1\\B0CT8W9NRB_scene_03.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Interacción clara",
+            "raw": "9|Interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CT8W9NRB\\scenes_v1\\B0CT8W9NRB_scene_21.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Sensor visible",
+            "raw": "9|Sensor visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CT8W9NRB\\scenes_v1\\B0CT8W9NRB_scene_38.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CT8W9NRB\\scenes_v1\\B0CT8W9NRB_scene_39.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Interacción clara",
+            "raw": "9|Interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CT8W9NRB\\scenes_v1\\B0CT8W9NRB_scene_43.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Interacción clara",
+            "raw": "9|Interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CT8W9NRB\\scenes_v1\\B0CT8W9NRB_scene_51.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Interacción clara",
+            "raw": "9|Interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CT8W9NRB\\scenes_v1\\B0CT8W9NRB_scene_56.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Interacción clara",
+            "raw": "9|Interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CT8W9NRB\\scenes_v1\\B0CT8W9NRB_scene_59.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Interacción clara",
+            "raw": "9|Interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CT8W9NRB\\scenes_v1\\B0CT8W9NRB_scene_64.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Interacción clara",
+            "raw": "9|Interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CT8W9NRB\\scenes_v1\\B0CT8W9NRB_scene_65.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Interacción clara",
+            "raw": "9|Interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CT8W9NRB\\scenes_v1\\B0CT8W9NRB_scene_07.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "sensor en mano",
+            "raw": "8|sensor en mano"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CT8W9NRB\\scenes_v1\\B0CT8W9NRB_scene_25.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Sensor Aqara",
+            "raw": "8|Sensor Aqara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CT8W9NRB\\scenes_v1\\B0CT8W9NRB_scene_42.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "sensor Aqara",
+            "raw": "8|sensor Aqara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CT8W9NRB\\scenes_v1\\B0CT8W9NRB_scene_05.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "Sensor pequeño",
+            "raw": "5|Sensor pequeño"
+          }
+        ],
+        "features": [
+          "[Native Matter Support over Thread] The Aqara Motion and Light Sensor P2 seamlessly integrates with Matter, ensuring broad compatibility with Apple Home, Amazon Alexa. Built on the Thread protocol, it delivers fast, reliable, and low-power performance. With Amazon’s Frustration-Free Setup (FFS), it quickly connects to your home network via Echo devices. (**Note: 2-in-1 Matter Controller & Thread Border Router is required and sold separately)",
+          "[2-in-1 Sensor] The Aqara Motion and Light Sensor P2 combines a PIR motion sensor with a separate light sensor, enabling smart automations like adjusting lights or curtains based on motion or brightness. Unlike the P1, the light sensor in P2 can function independently. It supports Matter for wider compatibility. (*Note: Alexa does NOT support light sensor functionality.) For a stable connection, ensure the motion and light Sensor P2 between the hub is no more than 6 meters(19 feet).",
+          "[Wide Viewing Angle & Detection Range] The P2 sensor can detect movement across a wider area range of up to 7 meters/23 feet, at an angle of up to 170° horizontally, and 45° vertically. The data is from laboratory testing, conducted in a 25 °C / 77 °F environment. It also comes with a versatile 360° stand, that allows you to easily adjust the viewing angle, and it can only trigger the sensor when it’s needed. The detection angle and the sensitivity may vary depending on the ambient temperature and the distance. The device comes with medium sensitivity by default, but you can set the various sensitivity levels on the Aqara Home APP later according to seasonal changes or needs.",
+          "[Energy Saving & Alert System] You can integrate the Motion and Light Sensor P2 with your smart home ecosystem to enable advanced automations and energy efficiency. Imagine how fun it can be! You’ll be able to schedule different automations based on the brightness in the room to achieve circadian lighting and ambient control. Moreover, the automations are executed without the cloud, which can protect the user’s privacy and will keep working even if there is no internet connection.",
+          "[Easy to Install & Long Battery Life] Thanks to its compact wireless design and adjustable stand, the Sensor P2 can easily be installed on a wall, ceiling or a particular zone, and set up with ease. The Motion Detector and Light Sensor P2 has a powerful 2*CR2450 Lithium battery and provides up to 2 years of power for round-the-clock security, one of the longest battery life among Matter over Thread sensors. For best performance, keep a clear distance of 1.5 to 2 meters from infrared devices."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Wyze Cam Pan",
+        "productId": "B0B9TWY11Q",
+        "productName": "Wyze Cam Pan",
+        "filename": "B0B9TWY11Q.mp4",
+        "asin": "B0B9TWY11Q",
+        "clipDuration": 59.86,
+        "estimatedAudioSeconds": 71,
+        "framework": "problema_solucion",
+        "narracionSegments": null,
+        "content": [
+          "¿Preocupado por lo que sucede mientras no estás? La Wyze Cam Pan es la solución ideal con su cobertura de 360° para vigilar cada rincón de tu hogar. Esta cámara detecta movimiento y ofrece visión nocturna para que no te pierdas ningún detalle, ya sea día o noche. Deja las preocupaciones atrás con esta potente herramienta de vigilancia doméstica.",
+          "Su precio actual en Amazon ronda los... 40 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Wyze Cam Pan"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0B9TWY11Q_combined.mp4",
+        "precio": "$40",
+        "productPhoto": "https://m.media-amazon.com/images/I/61zQmZVmeKL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "【Full 1080p HD Clarity with Pan Scan Auto Patrol】- Experience crystal-clear video with 360° pan and 180° tilt coverage—ideal for use as a reliable indoor camera or outdoor camera. Set 4 custom waypoints for automated monitoring. (Not 5G compatible.)",
+          "【Stunning Color Night Vision for Low-Light Environments】- See vivid details even in darkness with advanced color night vision. Perfect for monitoring dimly lit driveways, backyards, or nurseries—day or night.",
+          "【AI-Powered Motion Tracking for Pets & People】- This versatile pet camera automatically detects and follows movement—whether it’s your dog, kids, or visitors. Get real-time alerts and enjoy smooth, accurate tracking.",
+          "【True Outdoor Durability with IP65 Rating】- Built to resist rain, heat, and cold, this outdoor camera delivers unwavering performance in any season (Outdoor Power Adapter required).",
+          "【Clear Two-Way Talk with Enhanced Audio】- Communicate with clarity through the built-in microphone and speaker. Perfect for reassuring pets, greeting guests, or issuing warnings."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "iRobot Roomba 694",
+        "productId": "B0CX9D4QWB",
+        "productName": "iRobot Roomba 694",
+        "filename": "B0CX9D4QWB.mp4",
+        "asin": "B0CX9D4QWB",
+        "clipDuration": 60.06,
+        "estimatedAudioSeconds": 57,
+        "framework": "enfoque_caracteristica",
+        "narracionSegments": null,
+        "content": [
+          "Con la navegación adaptativa, el iRobot Roomba 694 redefine la limpieza automática, ajustándose a cada esquina de tu hogar. Este robot aspirador utiliza sensores avanzados para detectar y eliminar suciedad, asegurando un piso impecable cada día. La tranquilidad de un hogar limpio y cuidado está a solo un toque de distancia con este dispositivo inteligente.",
+          "Su precio actual en Amazon ronda los... 292 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: iRobot Roomba 694"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0CX9D4QWB_combined.mp4",
+        "precio": "$292",
+        "productPhoto": "https://m.media-amazon.com/images/I/71ZgEof0VLL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "Clean Smarter.",
+          "Adaptive Navigation",
+          "Senses and elimates dirt."
+        ]
+      }
+    ],
+    "totalDuration": 120
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      null
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "2:28",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "para",
+    "cuidar",
+    "familia",
+    "amazon"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 3 Gadgets Para Cuidar Tu Familia en Amazon",
+      "angle": "Top 3 Gadgets Para Cuidar Tu Familia en Amazon",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 3,
+      "introScript": "¿Te gustaría tener un asistente que monitorea la calidad del aire y te avisa cuando es hora de ventilar? ¿O quizás un robot que limpia tus pisos mientras te relajas en el sofá? Hoy te mostraré tres innovaciones que convertirán tu hogar en un lugar más seguro y cómodo para los tuyos.",
+      "keywords": [
+        "gadgets",
+        "para",
+        "cuidar",
+        "familia",
+        "amazon"
+      ],
+      "estimatedViews": 5741,
+      "bestPublishTime": "2026-06-05T20:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Aqara Motion Sensor",
+          "searchTermEn": "Aqara Motion Sensor",
+          "id": "B0CT8W9NRB",
+          "filename": "B0CT8W9NRB.mp4"
+        },
+        {
+          "nombre": "Wyze Cam Pan",
+          "searchTermEn": "Wyze Cam Pan security camera",
+          "id": "B0B9TWY11Q",
+          "filename": "B0B9TWY11Q.mp4"
+        },
+        {
+          "nombre": "iRobot Roomba 694",
+          "searchTermEn": "iRobot Roomba 694 vacuum",
+          "id": "B0CX9D4QWB",
+          "filename": "B0CX9D4QWB.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-06-01T16:41:43.500Z",
+      "_requestedCount": 3,
+      "_adaptedCount": 3,
+      "introProductsOrder": [
+        {
+          "nombre": "iRobot Roomba 694",
+          "id": "B0CX9D4QWB",
+          "filename": "B0CX9D4QWB_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0CX9D4QWB_combined.mp4"
+        },
+        {
+          "nombre": "Wyze Cam Pan",
+          "id": "B0B9TWY11Q",
+          "filename": "B0B9TWY11Q_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0B9TWY11Q_combined.mp4"
+        },
+        {
+          "nombre": "Aqara Motion Sensor",
+          "id": "B0CT8W9NRB",
+          "filename": "B0CT8W9NRB_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0CT8W9NRB_combined.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1780333112564_6c5orv"
+    },
+    "generatedAt": "2026-06-01T16:58:58.252Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Aqara Motion Sensor",
+        "searchTermEn": "Aqara Motion Sensor",
+        "id": "B0CT8W9NRB",
+        "filename": "B0CT8W9NRB.mp4"
+      },
+      {
+        "nombre": "Wyze Cam Pan",
+        "searchTermEn": "Wyze Cam Pan security camera",
+        "id": "B0B9TWY11Q",
+        "filename": "B0B9TWY11Q.mp4"
+      },
+      {
+        "nombre": "iRobot Roomba 694",
+        "searchTermEn": "iRobot Roomba 694 vacuum",
+        "id": "B0CX9D4QWB",
+        "filename": "B0CX9D4QWB.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 3 Gadgets Para Cuidar Tu Familia en Amazon\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\nAspira autonomamente habitaciones. Vigila cada rincón sin parar. Detecta movimiento de inmediato.\n\n[25s-30s] INTRODUCTION\nSuscríbete al canal y encuentra los links en el primer comentario.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] AQARA MOTION SENSOR\n-Experimenta- cómo el Aqara Motion Sensor responde al más mínimo movimiento, brindando automatización inteligente a tu hogar. Con un ángulo de detección amplio y sensible, este sensor alerta eficazmente sobre cualquier actividad dentro de su rango. Integra una luz ambiental que conecta con tus dispositivos inteligentes para facilitar una experiencia sensorial incomparable.\n-Su precio actual en Amazon ronda los... 53 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Aqara Motion Sensor]\n\n[0:25] WYZE CAM PAN\n¿Preocupado por lo que sucede mientras no estás? La Wyze Cam Pan es la solución ideal con su cobertura de 360° para vigilar cada rincón de tu hogar. Esta cámara detecta movimiento y ofrece visión nocturna para que no te pierdas ningún detalle, ya sea día o noche. Deja las preocupaciones atrás con esta potente herramienta de vigilancia doméstica.\nSu precio actual en Amazon ronda los... 40 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Wyze Cam Pan]\n\n[0:25] IROBOT ROOMBA 694\nCon la navegación adaptativa, el iRobot Roomba 694 redefine la limpieza automática, ajustándose a cada esquina de tu hogar. Este robot aspirador utiliza sensores avanzados para detectar y eliminar suciedad, asegurando un piso impecable cada día. La tranquilidad de un hogar limpio y cuidado está a solo un toque de distancia con este dispositivo inteligente.\nSu precio actual en Amazon ronda los... 292 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: iRobot Roomba 694]\n\n[10 seconds] CONCLUSION\nundefined\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 2:28\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, para, cuidar, familia, amazon\n"
+}

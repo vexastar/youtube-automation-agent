@@ -1,0 +1,188 @@
+1
+00:00:00,000 --> 00:00:02,500
+¿Qué esconden las grandes empresas sobre la inteligencia
+
+2
+00:00:04,444 --> 00:00:06,944
+artificial?
+
+3
+00:00:05,000 --> 00:00:07,500
+¡Hola, bienvenidos a Mente Futura! Hoy vamos a
+
+4
+00:00:07,857 --> 00:00:10,357
+desvelar los secretos mejor guardados de la inteligencia
+
+5
+00:00:10,714 --> 00:00:13,214
+artificial que las grandes empresas prefieren mantener en
+
+6
+00:00:13,571 --> 00:00:16,071
+la sombra. Vas a descubrir aspectos ocultos de
+
+7
+00:00:16,428 --> 00:00:18,928
+la IA que pueden cambiar tu perspectiva y
+
+8
+00:00:19,285 --> 00:00:21,785
+tu carrera.
+
+9
+00:00:20,000 --> 00:00:26,666
+Las empresas suelen proteger sus algoritmos con un
+
+10
+00:00:26,760 --> 00:00:33,427
+secretismo extremo. Esto se debe a que esos
+
+11
+00:00:33,521 --> 00:00:40,187
+algoritmos son su ventaja competitiva y comercial. Un
+
+12
+00:00:40,281 --> 00:00:46,948
+algoritmo es como una receta secreta que determina
+
+13
+00:00:47,042 --> 00:00:53,708
+cómo se procesa la información. Sin embargo, esta
+
+14
+00:00:53,802 --> 00:01:00,469
+falta de transparencia puede llevar a sesgos no
+
+15
+00:01:00,563 --> 00:01:07,230
+controlados. Al no poder auditar cómo se toman
+
+16
+00:01:07,323 --> 00:01:13,990
+las decisiones, los usuarios quedan a merced de
+
+17
+00:01:14,084 --> 00:01:20,751
+un sistema que no comprende del todo.
+
+18
+00:01:20,000 --> 00:01:27,500
+Las empresas guardan con recelo los datos que
+
+19
+00:01:28,421 --> 00:01:35,921
+utilizan para entrenar sus modelos de IA. ¿Por
+
+20
+00:01:36,842 --> 00:01:44,342
+qué? Estos datos suelen incluir gran cantidad de
+
+21
+00:01:45,263 --> 00:01:52,763
+información personal que, si se maneja incorrectamente, puede
+
+22
+00:01:53,684 --> 00:02:01,184
+violar la privacidad de los usuarios. Además, tener
+
+23
+00:02:02,105 --> 00:02:09,605
+acceso a más datos significa modelos más precisos,
+
+24
+00:02:10,526 --> 00:02:18,026
+lo cual se traduce en mayor dominio del
+
+25
+00:02:18,947 --> 00:02:26,447
+mercado.
+
+26
+00:02:20,000 --> 00:02:28,571
+Aunque parezca increíble, muchas veces no leemos las
+
+27
+00:02:29,599 --> 00:02:38,171
+políticas de uso. Pero, ¿qué implican realmente? Al
+
+28
+00:02:39,199 --> 00:02:47,771
+aceptarlas, los usuarios suelen ceder derechos sobre el
+
+29
+00:02:48,800 --> 00:02:57,371
+uso de sus datos de manera casi ilimitada.
+
+30
+00:02:58,400 --> 00:03:06,971
+Es crucial entender estas condiciones, ya que determinan
+
+31
+00:03:08,000 --> 00:03:16,571
+cómo se utilizarán nuestros datos en desarrollos futuros
+
+32
+00:03:17,599 --> 00:03:26,171
+de IA.
+
+33
+00:03:20,000 --> 00:03:27,500
+Un caso famoso es el de un algoritmo
+
+34
+00:03:27,500 --> 00:03:35,000
+de contratación que discriminaba a mujeres porque utilizaba
+
+35
+00:03:35,000 --> 00:03:42,500
+datos históricos de una empresa en la que
+
+36
+00:03:42,500 --> 00:03:50,000
+predominaban los hombres. Otro ejemplo es el sistema
+
+37
+00:03:50,000 --> 00:03:57,500
+de reconocimiento facial que fallaba en personas de
+
+38
+00:03:57,500 --> 00:04:05,000
+piel oscura debido a un entrenamiento deficiente. Estos
+
+39
+00:04:05,000 --> 00:04:12,500
+casos nos enseñan la importancia de la transparencia
+
+40
+00:04:12,500 --> 00:04:20,000
+y la diversidad en los datos de entrenamiento.
+
+41
+00:04:20,000 --> 00:04:24,285
+Las empresas mantienen una gran opacidad sobre sus
+
+42
+00:04:24,528 --> 00:04:28,814
+algoritmos y datos. Las políticas de uso son
+
+43
+00:04:29,056 --> 00:04:33,342
+cruciales para entender el control de nuestros datos.
+
+44
+00:04:33,584 --> 00:04:37,870
+Los casos de estudio nos muestran los impactos
+
+45
+00:04:38,113 --> 00:04:42,398
+de la falta de transparencia. Es hora de
+
+46
+00:04:42,641 --> 00:04:46,927
+que exijamos más transparencia para un futuro más
+
+47
+00:04:47,169 --> 00:04:51,455
+justo con la inteligencia artificial.
+

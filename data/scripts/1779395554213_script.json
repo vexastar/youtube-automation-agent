@@ -1,0 +1,419 @@
+{
+  "title": "Top 3 gadgets que todo estilista debe tener",
+  "hook": {
+    "type": "statement",
+    "text": "Peinado perfecto en segundos. Reflejo impecable sin tocar nada. Secado rápido y suave.",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "Todo está en el primer comentario. Vamos.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0:10-0:15"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Dyson Supersonic Hair Dryer",
+        "productId": "B0DRDDJ8VL",
+        "productName": "Dyson Supersonic Hair Dryer",
+        "filename": "B0DRDDJ8VL.mp4",
+        "asin": "B0DRDDJ8VL",
+        "clipDuration": 60.03,
+        "estimatedAudioSeconds": 66,
+        "framework": "experiencia_sensorial",
+        "narracionSegments": null,
+        "content": [
+          "Experimenta un secado de cabello inigualable con el Dyson Supersonic Hair Dryer. Su avanzado motor digital potente asegura un resultado increíblemente suave y rápido, protegiendo al mismo tiempo tu cabello del daño por calor extremo gracias a su inteligente control de temperatura. Cada uso brinda una experiencia sensorial única, ya que está diseñado no solo para ser eficiente, sino también extremadamente silencioso, permitiéndote disfrutar de un ambiente relajante mientras te peinas.",
+          "Su precio actual en Amazon ronda los... 80 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Dyson Supersonic Hair Dryer"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0DRDDJ8VL_combined.mp4",
+        "precio": "$80",
+        "productPhoto": "https://m.media-amazon.com/images/I/61tLpCytaVL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DRDDJ8VL\\scenes_v1\\B0DRDDJ8VL_scene_03.mp4",
+            "type": "video",
+            "score": 10,
+            "tag": "uso del secador",
+            "raw": "10|uso del secador"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DRDDJ8VL\\scenes_v1\\B0DRDDJ8VL_scene_07.mp4",
+            "type": "video",
+            "score": 10,
+            "tag": "uso del secador",
+            "raw": "10|uso del secador"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DRDDJ8VL\\scenes_v1\\B0DRDDJ8VL_scene_10.mp4",
+            "type": "video",
+            "score": 10,
+            "tag": "secador de pelo",
+            "raw": "10|secador de pelo"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DRDDJ8VL\\scenes_v1\\B0DRDDJ8VL_scene_11.mp4",
+            "type": "video",
+            "score": 10,
+            "tag": "secador de pelo",
+            "raw": "10|secador de pelo"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DRDDJ8VL\\scenes_v1\\B0DRDDJ8VL_scene_13.mp4",
+            "type": "video",
+            "score": 10,
+            "tag": "uso del secador",
+            "raw": "10|uso del secador"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DRDDJ8VL\\scenes_v1\\B0DRDDJ8VL_scene_17.mp4",
+            "type": "video",
+            "score": 10,
+            "tag": "secador de pelo",
+            "raw": "10|secador de pelo"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DRDDJ8VL\\scenes_v1\\B0DRDDJ8VL_scene_09.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DRDDJ8VL\\scenes_v1\\B0DRDDJ8VL_scene_12.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DRDDJ8VL\\scenes_v1\\B0DRDDJ8VL_scene_15.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "secador en uso",
+            "raw": "9|secador en uso"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DRDDJ8VL\\scenes_v1\\B0DRDDJ8VL_scene_08.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "secador de pelo",
+            "raw": "8|secador de pelo"
+          }
+        ],
+        "features": []
+      },
+      {
+        "type": "content",
+        "title": "GHD Platinum+ Styler",
+        "productId": "B07FJ8RR9J",
+        "productName": "GHD Platinum+ Styler",
+        "filename": "B07FJ8RR9J.mp4",
+        "asin": "B07FJ8RR9J",
+        "clipDuration": 60.03,
+        "estimatedAudioSeconds": 57,
+        "framework": "problema_solucion",
+        "narracionSegments": null,
+        "content": [
+          "¿Cansado de planchas que dañan tu cabello? La GHD Platinum+ Styler es la solución perfecta. Este styler ofrece una calibración automática de temperatura que se adapta a las necesidades específicas de tu cabello asegurando resultados óptimos sin riesgos. Con cada pasada, logra ese peinado profesional sin comprometer la salud de tu melena.",
+          "Su precio actual en Amazon ronda los... 239 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: GHD Platinum+ Styler"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07FJ8RR9J_combined.mp4",
+        "precio": "$239",
+        "productPhoto": "https://m.media-amazon.com/images/I/612JXGLKmlL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07FJ8RR9J\\scenes_v1\\B07FJ8RR9J_scene_05.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07FJ8RR9J\\scenes_v1\\B07FJ8RR9J_scene_04.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07FJ8RR9J\\scenes_v1\\B07FJ8RR9J_scene_03.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07FJ8RR9J\\scenes_v1\\B07FJ8RR9J_scene_06.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07FJ8RR9J\\scenes_v1\\B07FJ8RR9J_scene_08.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07FJ8RR9J\\scenes_v1\\B07FJ8RR9J_scene_09.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07FJ8RR9J\\scenes_v1\\B07FJ8RR9J_scene_07.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "plancha de cabello",
+            "raw": "8|plancha de cabello"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07FJ8RR9J\\scenes_v1\\B07FJ8RR9J_scene_02.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "producto pequeño",
+            "raw": "5|producto pequeño"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07FJ8RR9J\\scenes_v2\\B07FJ8RR9J_v2_scene_01.mp4",
+            "type": "video",
+            "score": 10,
+            "tag": "interacción real",
+            "raw": "10|interacción real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07FJ8RR9J\\scenes_v2\\B07FJ8RR9J_v2_scene_02.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07FJ8RR9J\\scenes_v2\\B07FJ8RR9J_v2_scene_11.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07FJ8RR9J\\scenes_v2\\B07FJ8RR9J_v2_scene_12.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07FJ8RR9J\\scenes_v2\\B07FJ8RR9J_v2_scene_13.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07FJ8RR9J\\scenes_v2\\B07FJ8RR9J_v2_scene_14.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07FJ8RR9J\\scenes_v2\\B07FJ8RR9J_v2_scene_15.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07FJ8RR9J\\scenes_v2\\B07FJ8RR9J_v2_scene_08.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "plancha de cabello",
+            "raw": "8|plancha de cabello"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07FJ8RR9J\\scenes_v3\\B07FJ8RR9J_v3_scene_03.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          }
+        ],
+        "features": []
+      },
+      {
+        "type": "content",
+        "title": "Simplehuman Sensor Mirror",
+        "productId": "B0BCPYMBNK",
+        "productName": "Simplehuman Sensor Mirror",
+        "filename": "B0BCPYMBNK.mp4",
+        "asin": "B0BCPYMBNK",
+        "clipDuration": 60.06,
+        "estimatedAudioSeconds": null,
+        "framework": "enfoque_caracteristica",
+        "narracionSegments": null,
+        "content": [
+          "-Luces con espectro full- al natural: el Simplehuman Sensor Mirror reproduce la luz solar para ofrecer precisión al maquillarte. El sistema de luz tru-lux garantiza que no se escape ningún detalle. Activación automática al acercarte y un brazo telescópico que ajusta a la perfección cada ángulo necesario.",
+          "-Su precio actual en Amazon ronda los... 163 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Simplehuman Sensor Mirror"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0BCPYMBNK_combined.mp4",
+        "precio": "$163",
+        "productPhoto": "https://m.media-amazon.com/images/I/51586phz9fL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "TRU-LUX LIGHT SYSTEM - At 600 lux and with a color rendering index (CRI) of 95, the tru-lux light system closely simulates natural sunlight's full color spectrum to show every detail.",
+          "SENSOR ON/OFF - Automatically lights up as your face approaches the mirror — no need to touch any buttons.",
+          "TELESCOPIC SWING ARM - Sturdy stainless steel arm provides smooth, effortless adjustability.",
+          "NEVER CHANGE A BULB - Traditional bulbs fade or burn out. Our mirror's LEDs have been rated to perform like new after 40,000 hours — that's an hour a day, every day, for more than 100 years.",
+          "5X MAGNIFICATION - Provides exceptional detail while still allowing you to see your entire face at once."
+        ]
+      }
+    ],
+    "totalDuration": 75
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      null
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:45",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "todo",
+    "estilista",
+    "debe",
+    "tener"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 3 gadgets que todo estilista debe tener",
+      "angle": "Top 3 gadgets que todo estilista debe tener",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 3,
+      "introScript": "¿Una plancha de pelo que no daña tu cabello? ¿Un secador ultrasónico que reduce el tiempo de secado a la mitad? ¿Un espejo con luz LED que simula la luz del día? Hoy te traigo los gadgets más innovadores que todo estilista debe tener en su arsenal. No querrás perderte estas herramientas que están revolucionando la manera de trabajar en los salones.",
+      "keywords": [
+        "gadgets",
+        "todo",
+        "estilista",
+        "debe",
+        "tener"
+      ],
+      "estimatedViews": 3973,
+      "bestPublishTime": "2026-05-22T20:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Dyson Supersonic Hair Dryer",
+          "searchTermEn": "dyson supersonic hair dryer",
+          "id": "B0DRDDJ8VL",
+          "filename": "B0DRDDJ8VL.mp4"
+        },
+        {
+          "nombre": "GHD Platinum+ Styler",
+          "searchTermEn": "ghd platinum plus styler",
+          "id": "B07FJ8RR9J",
+          "filename": "B07FJ8RR9J.mp4"
+        },
+        {
+          "nombre": "Simplehuman Sensor Mirror",
+          "searchTermEn": "simplehuman sensor mirror",
+          "id": "B0BCPYMBNK",
+          "filename": "B0BCPYMBNK.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-05-21T20:22:55.034Z",
+      "_requestedCount": 3,
+      "_adaptedCount": 3,
+      "introProductsOrder": [
+        {
+          "nombre": "GHD Platinum+ Styler",
+          "id": "B07FJ8RR9J",
+          "filename": "B07FJ8RR9J_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07FJ8RR9J_combined.mp4"
+        },
+        {
+          "nombre": "Simplehuman Sensor Mirror",
+          "id": "B0BCPYMBNK",
+          "filename": "B0BCPYMBNK_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0BCPYMBNK_combined.mp4"
+        },
+        {
+          "nombre": "Dyson Supersonic Hair Dryer",
+          "id": "B0DRDDJ8VL",
+          "filename": "B0DRDDJ8VL_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0DRDDJ8VL_combined.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1779395493262_sbywx4"
+    },
+    "generatedAt": "2026-05-21T20:31:57.484Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Dyson Supersonic Hair Dryer",
+        "searchTermEn": "dyson supersonic hair dryer",
+        "id": "B0DRDDJ8VL",
+        "filename": "B0DRDDJ8VL.mp4"
+      },
+      {
+        "nombre": "GHD Platinum+ Styler",
+        "searchTermEn": "ghd platinum plus styler",
+        "id": "B07FJ8RR9J",
+        "filename": "B07FJ8RR9J.mp4"
+      },
+      {
+        "nombre": "Simplehuman Sensor Mirror",
+        "searchTermEn": "simplehuman sensor mirror",
+        "id": "B0BCPYMBNK",
+        "filename": "B0BCPYMBNK.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 3 gadgets que todo estilista debe tener\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\nPeinado perfecto en segundos. Reflejo impecable sin tocar nada. Secado rápido y suave.\n\n[0:10-0:15] INTRODUCTION\nTodo está en el primer comentario. Vamos.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] DYSON SUPERSONIC HAIR DRYER\nExperimenta un secado de cabello inigualable con el Dyson Supersonic Hair Dryer. Su avanzado motor digital potente asegura un resultado increíblemente suave y rápido, protegiendo al mismo tiempo tu cabello del daño por calor extremo gracias a su inteligente control de temperatura. Cada uso brinda una experiencia sensorial única, ya que está diseñado no solo para ser eficiente, sino también extremadamente silencioso, permitiéndote disfrutar de un ambiente relajante mientras te peinas.\nSu precio actual en Amazon ronda los... 80 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Dyson Supersonic Hair Dryer]\n\n[0:25] GHD PLATINUM+ STYLER\n¿Cansado de planchas que dañan tu cabello? La GHD Platinum+ Styler es la solución perfecta. Este styler ofrece una calibración automática de temperatura que se adapta a las necesidades específicas de tu cabello asegurando resultados óptimos sin riesgos. Con cada pasada, logra ese peinado profesional sin comprometer la salud de tu melena.\nSu precio actual en Amazon ronda los... 239 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: GHD Platinum+ Styler]\n\n[0:25] SIMPLEHUMAN SENSOR MIRROR\n-Luces con espectro full- al natural: el Simplehuman Sensor Mirror reproduce la luz solar para ofrecer precisión al maquillarte. El sistema de luz tru-lux garantiza que no se escape ningún detalle. Activación automática al acercarte y un brazo telescópico que ajusta a la perfección cada ángulo necesario.\n-Su precio actual en Amazon ronda los... 163 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Simplehuman Sensor Mirror]\n\n[10 seconds] CONCLUSION\nundefined\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:45\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, todo, estilista, debe, tener\n"
+}

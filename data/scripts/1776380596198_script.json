@@ -1,0 +1,136 @@
+{
+  "title": "Top 2 Gadgets Innovadores para tu Alcoba",
+  "hook": {
+    "type": "statement",
+    "text": "Ilumina tus noches con una luz suave y mágica. Transforma tu techo en un cielo estrellado en segundos.",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "Suscríbete, los links están en el primer comentario. Empecemos.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0:10-0:15"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Lámpara sensorial nocturna",
+        "productId": "B0CLRPTGGY",
+        "productName": "Lámpara sensorial nocturna",
+        "filename": "B0CLRPTGGY.mp4",
+        "content": [
+          "Despertar por la noche a oscuras puede ser peligroso. La lámpara sensorial nocturna se enciende con un suave toque, brindando una luz cálida. Es perfecta para cualquier mesita de noche gracias a su diseño compacto.",
+          "Su precio actual en Amazon ronda los... 20 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Lámpara sensorial nocturna"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0CLRPTGGY.mp4",
+        "precio": "$20"
+      },
+      {
+        "type": "content",
+        "title": "Proyector de estrellas LED",
+        "productId": "B085VDRF1L",
+        "productName": "Proyector de estrellas LED",
+        "filename": "B085VDRF1L.mp4",
+        "content": [
+          "Dormir mirando un techo monótono puede ser aburrido. El proyector de estrellas LED llena tu habitación con un espectáculo celestial. Sus múltiples modos de luz permiten personalizar tu experiencia nocturna.",
+          "Su precio actual en Amazon ronda los... 10 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Proyector de estrellas LED"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B085VDRF1L.mp4",
+        "precio": "$10"
+      }
+    ],
+    "totalDuration": 50
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "Si te gustó, dale like y recuerda que los links están en el primer comentario."
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:20",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "innovadores",
+    "para",
+    "alcoba"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 2 Gadgets Innovadores para tu Alcoba",
+      "angle": "Top 3 Gadgets Innovadores para tu Alcoba",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 2,
+      "introScript": "¿Deseas tener una experiencia única al dormir? Descubre ahora un gadget que refresca tu cama antes de acostarte, una lámpara que responde a tus movimientos, y un reloj que proyecta estrellas en el techo. No te lo querrás perder.",
+      "keywords": [
+        "gadgets",
+        "innovadores",
+        "para",
+        "alcoba"
+      ],
+      "estimatedViews": 6346,
+      "bestPublishTime": "2026-04-21T19:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Lámpara sensorial nocturna",
+          "searchTermEn": "motion sensor night lamp",
+          "id": "B0CLRPTGGY",
+          "filename": "B0CLRPTGGY.mp4"
+        },
+        {
+          "nombre": "Proyector de estrellas LED",
+          "searchTermEn": "star projector night light",
+          "id": "B085VDRF1L",
+          "filename": "B085VDRF1L.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-04-16T23:00:58.771Z",
+      "_requestedCount": 3,
+      "_adaptedCount": 2,
+      "_adaptationNote": "ATENCIÓN: El usuario pidió 3 productos pero solo hay 2 clips de video disponibles. El guion, título y narrativa deben referirse EXCLUSIVAMENTE a 2 productos.",
+      "_scriptNonce": "nonce_1776380592034_9oqput"
+    },
+    "generatedAt": "2026-04-16T23:03:15.985Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Lámpara sensorial nocturna",
+        "searchTermEn": "motion sensor night lamp",
+        "id": "B0CLRPTGGY",
+        "filename": "B0CLRPTGGY.mp4"
+      },
+      {
+        "nombre": "Proyector de estrellas LED",
+        "searchTermEn": "star projector night light",
+        "id": "B085VDRF1L",
+        "filename": "B085VDRF1L.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 2 Gadgets Innovadores para tu Alcoba\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\nIlumina tus noches con una luz suave y mágica. Transforma tu techo en un cielo estrellado en segundos.\n\n[0:10-0:15] INTRODUCTION\nSuscríbete, los links están en el primer comentario. Empecemos.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] LÁMPARA SENSORIAL NOCTURNA\nDespertar por la noche a oscuras puede ser peligroso. La lámpara sensorial nocturna se enciende con un suave toque, brindando una luz cálida. Es perfecta para cualquier mesita de noche gracias a su diseño compacto.\nSu precio actual en Amazon ronda los... 20 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Lámpara sensorial nocturna]\n\n[0:25] PROYECTOR DE ESTRELLAS LED\nDormir mirando un techo monótono puede ser aburrido. El proyector de estrellas LED llena tu habitación con un espectáculo celestial. Sus múltiples modos de luz permiten personalizar tu experiencia nocturna.\nSu precio actual en Amazon ronda los... 10 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Proyector de estrellas LED]\n\n[10 seconds] CONCLUSION\nSi te gustó, dale like y recuerda que los links están en el primer comentario.\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:20\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, innovadores, para, alcoba\n"
+}

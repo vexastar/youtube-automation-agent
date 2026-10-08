@@ -1,0 +1,435 @@
+{
+  "title": "Top 3 Portátiles Innovadoras en Amazon",
+  "hook": {
+    "type": "statement",
+    "text": "¿Pantalla de 360 grados? ¿Batería todo el día? ¿Tamaño compacto y potente?",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "Suscríbete. Los links están en el primer comentario.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0:10-0:15"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Lenovo Yoga C740",
+        "productId": "B0DQCRYC1V",
+        "productName": "Lenovo Yoga C740",
+        "filename": "B0DQCRYC1V.mp4",
+        "asin": "B0DQCRYC1V",
+        "clipDuration": 25.02,
+        "estimatedAudioSeconds": 23,
+        "framework": "beneficio_oculto",
+        "narracionSegments": null,
+        "content": [
+          "El truco secreto del Lenovo Yoga C740 es su diseño versátil con bisagra de 360 grados, convirtiéndose fácilmente de portátil a tableta para adaptarse a tus necesidades diarias. Además, cuenta con una potencia impresionante gracias al procesador Intel Core Ultra 7, asegurando un rendimiento óptimo.",
+          "Su precio actual en Amazon ronda los... 599 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Lenovo Yoga C740"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0DQCRYC1V_combined.mp4",
+        "precio": "$599",
+        "productPhoto": "https://m.media-amazon.com/images/I/71m5hx9AUBL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DQCRYC1V\\scenes_v1\\B0DQCRYC1V_scene_06.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción pantalla",
+            "raw": "9|interacción pantalla"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DQCRYC1V\\scenes_v1\\B0DQCRYC1V_scene_09.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DQCRYC1V\\scenes_v1\\B0DQCRYC1V_scene_11.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Interacción clara",
+            "raw": "9|Interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DQCRYC1V\\scenes_v2\\B0DQCRYC1V_v2_scene_01.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "pantalla encendida",
+            "raw": "9|pantalla encendida"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DQCRYC1V\\scenes_v1\\B0DQCRYC1V_scene_05.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "producto borroso",
+            "raw": "5|producto borroso"
+          }
+        ],
+        "features": [
+          "VERSATILE & DURABLE DESIGN - Featuring a x360 degree hinge, it allows Flex 'Laptop' mode for everyday computing, 'Yoga' mode for sharing things, 'Flip' convertible mode for binge-watching, or 'Tablet' mode Spin for more intuitive interaction. Built to last with MIL-STD-810H durability testing, and with up to 13 hours of battery life and Rapid Charge technology, you can stay productive on the go - perfect for commuting, travel, or remote work",
+          "POWERFUL PERFORMANCE - Powered by an Intel Core Ultra 7 155U Processor (12 cores, up to 4.8 GHz) with Intel Graphics, this laptop delivers efficient performance with AI-enhanced productivity to boost your workflow. Equipped with 16GB DDR5 7467 MHz RAM and 1TB M.2 NVMe PCIE SSD, enabling smooth multitasking and fast loading across a wide range of applications",
+          "STUNNING DISPLAY - This laptop features a 16\" WUXGA IPS touchscreen, coupled with Dolby Vision, 300-nit brightness, and TÜV Low Blue Light certification for vibrant visuals and smooth motion. Supports expanding the workspace with 3 external monitors via HDMI (max 4K@60Hz) or Thunderbolt 4 (max 8K@60Hz), without a docking station. Plus, the 1080p IR camera with privacy shutter ensures crisp video calls and secure facial recognition login",
+          "VERSATILE CONNECTIVITY - Featuring 2x Thunderbolt 4, 2x USB-A 3.2 Gen 1, HDMI 2.1, a headphone/microphone combo jack, and a microSD card reader, this device ensures seamless connectivity with a wide range of peripherals and displays. Wi-Fi 6E 802.11ax and Bluetooth 5.3 deliver fast wireless performance, while the backlit keyboard allows for comfortable work in any lighting, and the fingerprint reader enhances security",
+          "OPERATING SYSTEM - Pre-installed with Microsoft Windows 11 Home, featuring built-in security such as Windows Defender and device encryption for everyday protection. Enhanced by AI Copilot, it enables smarter and more efficient productivity for work and creativity"
+        ]
+      },
+      {
+        "type": "content",
+        "title": "ASUS ZenBook Flip 13",
+        "productId": "B08KH8QHFM",
+        "productName": "ASUS ZenBook Flip 13",
+        "filename": "B08KH8QHFM.mp4",
+        "asin": "B08KH8QHFM",
+        "clipDuration": 73.11,
+        "estimatedAudioSeconds": null,
+        "framework": "comparacion_precio",
+        "narracionSegments": null,
+        "content": [
+          "-OLED- para colores vibrantes a un precio competitivo que simplemente no puedes ignorar. ASUS ZenBook Flip 13 combina calidad de imagen sublime con tecnologías avanzadas como la última generación del procesador Intel Core i7 y almacenamiento ultrarrápido. Comparando calidad-precio, este portátil ofrece características superiores normalmente vistas solo a precios más altos.",
+          "\n\nSu precio actual en Amazon ronda los... Revisa el enlace para detalles. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: ASUS ZenBook Flip 13"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B08KH8QHFM_combined.mp4",
+        "precio": "Revisa el enlace",
+        "productPhoto": "https://m.media-amazon.com/images/I/61eZWAH2u-L.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B08KH8QHFM\\scenes_v1\\B08KH8QHFM_scene_09.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "pantalla encendida",
+            "raw": "9|pantalla encendida"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B08KH8QHFM\\scenes_v3\\B08KH8QHFM_v3_scene_02.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "pantalla encendida",
+            "raw": "9|pantalla encendida"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B08KH8QHFM\\scenes_v3\\B08KH8QHFM_v3_scene_03.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "pantalla encendida",
+            "raw": "9|pantalla encendida"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B08KH8QHFM\\scenes_v3\\B08KH8QHFM_v3_scene_04.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "pantalla encendida",
+            "raw": "9|pantalla encendida"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B08KH8QHFM\\scenes_v3\\B08KH8QHFM_v3_scene_07.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "pantalla encendida",
+            "raw": "9|pantalla encendida"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B08KH8QHFM\\scenes_v1\\B08KH8QHFM_scene_08.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "portátil visible",
+            "raw": "8|portátil visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B08KH8QHFM\\scenes_v1\\B08KH8QHFM_scene_12.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "producto visible",
+            "raw": "8|producto visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B08KH8QHFM\\scenes_v1\\B08KH8QHFM_scene_14.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "producto en pantalla",
+            "raw": "8|producto en pantalla"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B08KH8QHFM\\scenes_v3\\B08KH8QHFM_v3_scene_05.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "laptops en fila",
+            "raw": "8|laptops en fila"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B08KH8QHFM\\scenes_v3\\B08KH8QHFM_v3_scene_09.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "pantalla OLED",
+            "raw": "8|pantalla OLED"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B08KH8QHFM\\scenes_v1\\B08KH8QHFM_scene_05.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "pantalla encendida",
+            "raw": "5|pantalla encendida"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B08KH8QHFM\\scenes_v1\\B08KH8QHFM_scene_16.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "pantalla encendida",
+            "raw": "5|pantalla encendida"
+          }
+        ],
+        "features": [
+          "13.3 inch OLED Full HD 4-way NanoEdge bezel display with Windows 10 Professional",
+          "Latest 11th generation Intel Core i7-1165G7 Quad Core Processor (12M Cache, up to 4.70 GHz, with IPU)",
+          "Fast storage and memory featuring 512GB PCIe NVMe M.2 SSD and 16GB LPDDR4X RAM",
+          "Extensive connectivity with HDMI, Thunderbolt 4 via USB Type C, USB Type A, Wi-Fi 6, and Bluetooth 5.0",
+          "Sleek and lightweight aluminum body at only 2.87lbs and 0.55 inches thick, for comfortable portability"
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Acer Swift 3",
+        "productId": "B0866PQXKH",
+        "productName": "Acer Swift 3",
+        "filename": "B0866PQXKH.mp4",
+        "asin": "B0866PQXKH",
+        "clipDuration": 27.99,
+        "estimatedAudioSeconds": 23,
+        "framework": "dato_numerico",
+        "narracionSegments": null,
+        "content": [
+          "-16 horas- de batería. El Acer Swift 3 empodera tu creatividad con su pantalla de alta resolución y la rapidez del procesador Intel Core i5.",
+          "Su precio actual en Amazon ronda los... 455 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Acer Swift 3"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0866PQXKH_combined.mp4",
+        "precio": "$455",
+        "productPhoto": "https://m.media-amazon.com/images/I/81yMbKGzINL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0866PQXKH\\scenes_v1\\B0866PQXKH_scene_01.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Laptop encendida",
+            "raw": "9|Laptop encendida"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0866PQXKH\\scenes_v2\\B0866PQXKH_v2_scene_01.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Interacción clara",
+            "raw": "9|Interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0866PQXKH\\kb_v3\\kb_02.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Laptop encendida",
+            "raw": "9|Laptop encendida"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0866PQXKH\\kb_v3\\kb_01.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Laptop encendida",
+            "raw": "9|Laptop encendida"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0866PQXKH\\kb_v3\\kb_10.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "pantalla encendida",
+            "raw": "9|pantalla encendida"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0866PQXKH\\kb_v3\\kb_11.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Laptop encendida",
+            "raw": "9|Laptop encendida"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0866PQXKH\\kb_v3\\kb_12.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Laptop encendida",
+            "raw": "9|Laptop encendida"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0866PQXKH\\kb_v3\\kb_00.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Laptop visible",
+            "raw": "8|Laptop visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0866PQXKH\\kb_v3\\kb_04.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Laptop reconocible",
+            "raw": "8|Laptop reconocible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0866PQXKH\\kb_v3\\kb_09.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Laptop Acer",
+            "raw": "8|Laptop Acer"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0866PQXKH\\kb_v3\\kb_14.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "laptop reconocible",
+            "raw": "8|laptop reconocible"
+          }
+        ],
+        "features": [
+          "10th Generation Intel Core i5-1035G4 Processor (Up to 3 7GHz) | 8GB LPDDR4 Memory | 512GB PCIe NVMe SSD",
+          "13 5\" Acer VertiView 2K 2256 x 1504 Widescreen IPS LED-backlit Display (3 2 aspect ratio) | Intel Iris Plus Graphics",
+          "Intel Wireless Wi-Fi 6 AX201 802 11ax | Backlit Keyboard | Fingerprint Reader | Up to 16 Hours Battery Life",
+          "1 - USB 3 1 Type C port (up to 10 Gbps) DisplayPort over USB-C Thunderbolt 3 USB Charging DC-in 1 - USB 3 1 Gen 1 port (featuring power-off charging) 1 - USB 2 0 port & 1 - HDMI port",
+          "Co-Engineered for Mobile Performance by Intel and Acer"
+        ]
+      }
+    ],
+    "totalDuration": 75
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      null
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:45",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "porttiles",
+    "innovadoras",
+    "amazon"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 3 Portátiles Innovadoras en Amazon",
+      "angle": "Top 3 Portátiles Innovadoras en Amazon",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 3,
+      "introScript": "¿Una laptop que se convierte en tablet con un giro? ¿Un portátil que recarga de cero a 50% en solo 30 minutos? Hoy exploramos las computadoras portátiles más sorprendentes y funcionales que Amazon tiene para ofrecer. No querrás perderte estas maravillas tecnológicas.",
+      "keywords": [
+        "porttiles",
+        "innovadoras",
+        "amazon"
+      ],
+      "estimatedViews": 4847,
+      "bestPublishTime": "2026-05-23T15:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Lenovo Yoga C740",
+          "searchTermEn": "lenovo yoga c740 laptop",
+          "id": "B0DQCRYC1V",
+          "filename": "B0DQCRYC1V.mp4"
+        },
+        {
+          "nombre": "ASUS ZenBook Flip 13",
+          "searchTermEn": "asus zenbook flip 13",
+          "id": "B08KH8QHFM",
+          "filename": "B08KH8QHFM.mp4"
+        },
+        {
+          "nombre": "Acer Swift 3",
+          "searchTermEn": "acer swift 3 laptop",
+          "id": "B0866PQXKH",
+          "filename": "B0866PQXKH.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-05-20T22:03:12.780Z",
+      "_requestedCount": 3,
+      "_adaptedCount": 3,
+      "introProductsOrder": [
+        {
+          "nombre": "Lenovo Yoga C740",
+          "id": "B0DQCRYC1V",
+          "filename": "B0DQCRYC1V_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0DQCRYC1V_combined.mp4"
+        },
+        {
+          "nombre": "Acer Swift 3",
+          "id": "B0866PQXKH",
+          "filename": "B0866PQXKH_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0866PQXKH_combined.mp4"
+        },
+        {
+          "nombre": "ASUS ZenBook Flip 13",
+          "id": "B08KH8QHFM",
+          "filename": "B08KH8QHFM_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B08KH8QHFM_combined.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1779315414275_vjjssk"
+    },
+    "generatedAt": "2026-05-20T22:21:26.820Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Lenovo Yoga C740",
+        "searchTermEn": "lenovo yoga c740 laptop",
+        "id": "B0DQCRYC1V",
+        "filename": "B0DQCRYC1V.mp4"
+      },
+      {
+        "nombre": "ASUS ZenBook Flip 13",
+        "searchTermEn": "asus zenbook flip 13",
+        "id": "B08KH8QHFM",
+        "filename": "B08KH8QHFM.mp4"
+      },
+      {
+        "nombre": "Acer Swift 3",
+        "searchTermEn": "acer swift 3 laptop",
+        "id": "B0866PQXKH",
+        "filename": "B0866PQXKH.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 3 Portátiles Innovadoras en Amazon\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\n¿Pantalla de 360 grados? ¿Batería todo el día? ¿Tamaño compacto y potente?\n\n[0:10-0:15] INTRODUCTION\nSuscríbete. Los links están en el primer comentario.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] LENOVO YOGA C740\nEl truco secreto del Lenovo Yoga C740 es su diseño versátil con bisagra de 360 grados, convirtiéndose fácilmente de portátil a tableta para adaptarse a tus necesidades diarias. Además, cuenta con una potencia impresionante gracias al procesador Intel Core Ultra 7, asegurando un rendimiento óptimo.\nSu precio actual en Amazon ronda los... 599 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Lenovo Yoga C740]\n\n[0:25] ASUS ZENBOOK FLIP 13\n-OLED- para colores vibrantes a un precio competitivo que simplemente no puedes ignorar. ASUS ZenBook Flip 13 combina calidad de imagen sublime con tecnologías avanzadas como la última generación del procesador Intel Core i7 y almacenamiento ultrarrápido. Comparando calidad-precio, este portátil ofrece características superiores normalmente vistas solo a precios más altos.\n\n\nSu precio actual en Amazon ronda los... Revisa el enlace para detalles. ¡Link en el primer comentario!\n\n[VISUALS: Product image: ASUS ZenBook Flip 13]\n\n[0:25] ACER SWIFT 3\n-16 horas- de batería. El Acer Swift 3 empodera tu creatividad con su pantalla de alta resolución y la rapidez del procesador Intel Core i5.\nSu precio actual en Amazon ronda los... 455 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Acer Swift 3]\n\n[10 seconds] CONCLUSION\nundefined\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:45\nTONE: engaging\nPACING: quick\nKEYWORDS: porttiles, innovadoras, amazon\n"
+}

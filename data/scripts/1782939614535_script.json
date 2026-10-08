@@ -1,0 +1,807 @@
+{
+  "title": "Top 10 Gadgets para Personas Discapacitadas en Amazon",
+  "hook": {
+    "type": "statement",
+    "text": "¿Leer en Braille? ¿Comes sin temblor? ¿Capturas en video 4K? ¿Transcribe todo al instante? ¿Reconoces rostros con facilidad?",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "Los links de compra están en el primer comentario. Empezamos.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "25s-30s"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Oxsight Glasses",
+        "productId": "B0GJ5LD7QL",
+        "productName": "Oxsight Glasses",
+        "filename": "B0GJ5LD7QL.mp4",
+        "asin": "B0GJ5LD7QL",
+        "clipDuration": 99.07,
+        "estimatedAudioSeconds": 115,
+        "framework": "dato_numerico",
+        "narracionSegments": null,
+        "content": [
+          "Imagina unas gafas que traducen idiomas en tiempo real y te permiten grabar videos en resolución 4K. Las Oxsight Glasses hacen esto posible, ofreciendo música Bluetooth y llamadas manos libres con una claridad impresionante. Además, cuentan con protección IP65 para resistir el sudor, la lluvia y el polvo, garantizando un uso cómodo durante todo el día.",
+          "Su precio actual en Amazon ronda los... 68 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Oxsight Glasses"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0GJ5LD7QL.mp4",
+        "precio": "$68",
+        "productPhoto": "https://m.media-amazon.com/images/I/71YdXyD-O1L.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GJ5LD7QL\\scenes_v1\\B0GJ5LD7QL_scene_01.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Gafas inteligentes",
+            "raw": "9|Gafas inteligentes"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GJ5LD7QL\\scenes_v1\\B0GJ5LD7QL_scene_02.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Funcionalidades visibles",
+            "raw": "9|Funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GJ5LD7QL\\scenes_v1\\B0GJ5LD7QL_scene_03.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Funcionalidades visibles",
+            "raw": "9|Funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GJ5LD7QL\\scenes_v1\\B0GJ5LD7QL_scene_04.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Gafas inteligentes",
+            "raw": "9|Gafas inteligentes"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GJ5LD7QL\\scenes_v1\\B0GJ5LD7QL_scene_05.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Gafas inteligentes",
+            "raw": "8|Gafas inteligentes"
+          }
+        ],
+        "features": [
+          "【Traducción en Tiempo Real de AI & Asistente ChatGPT】Las gafas AI rompen las barreras del idioma al instante con traducción en tiempo real de AI. El asistente de voz ChatGPT integrado te ayuda a comunicarte, aprender y manejar conversaciones de viaje o negocios sin problemas—ideal para conferencias, viajes al extranjero y uso diario.",
+          "\"\"\"【Grabación de Video 4K y Captura de Fotos】Las gafas inteligentes con cámara te permiten capturar tu mundo desde una perspectiva en primera persona con la cámara 4K integrada. Toma fotos y graba videos sin manos en cualquier momento—perfecto para momentos de viaje, vlogging, aventuras al aire libre y documentación laboral.\"\"\"",
+          "【Música Bluetooth y Llamadas Manos Libres】Las gafas con cámara ofrecen música Bluetooth y llamadas manos libres con claridad cristalina gracias a su diseño de oído abierto. Mantente consciente de tu entorno mientras escuchas; son cómodas para usar durante largos períodos y más seguras para desplazamientos, ciclismo y uso al aire libre.",
+          "【IP65 Impermeable y Larga Duración de Batería】 Las gafas de grabación están diseñadas para el uso diario con protección impermeable IP65 contra el sudor, la lluvia y el polvo. La batería integrada de 290mAh ofrece un rendimiento confiable para días de trabajo y viajes—sin ansiedad cuando estás en movimiento.",
+          "【Control de App Inteligente y Reconocimiento de Objetos】Las gafas inteligentes se conectan a la app complementaria para una fácil configuración, gestión de archivos y control de funciones. Soportan reconocimiento de objetos con IA para ayudar a identificar artículos y mejorar tu eficiencia diaria—perfectas para la exploración en viajes y un estilo de vida inteligente."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Roger Pen Microphone",
+        "productId": "B08GZWQQZD",
+        "productName": "Roger Pen Microphone",
+        "filename": "B08GZWQQZD.mp4",
+        "asin": "B08GZWQQZD",
+        "clipDuration": 60.06,
+        "estimatedAudioSeconds": 69,
+        "framework": "experiencia_sensorial",
+        "narracionSegments": null,
+        "content": [
+          "Siente la claridad auditiva con el Roger Pen Microphone, ideal para conversaciones personales incluso en entornos ruidosos. Su transmisión inalámbrica lleva sonido directo a tus audífonos. Discreto y ligero, es compatible con varios modelos de audífonos para que pueda usarlo cómodamente todo el día.",
+          "Su precio actual en Amazon ronda los... 309 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Roger Pen Microphone"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B08GZWQQZD_combined.mp4",
+        "precio": "$309",
+        "productPhoto": "https://m.media-amazon.com/images/I/51sM5x9xElL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "Captura de Sonido Enfocada – Ideal para conversaciones personales en entornos ruidosos o a distancia.",
+          "Transmisión inalámbrica por Bluetooth: entrega el sonido directamente a tus audífonos Unitron o Relate.",
+          "Discreto y ligero: se puede usar como micrófono de solapa para un uso cómodo durante todo el día.",
+          "Compatibilidad amplia – Compatible con Unitron Moxi Blu, Vivante, Smile; audífonos Relate 3.0, 4.0 y 5.0. También compatible con la mayoría de los audífonos Phonak.",
+          "Rendimiento confiable: diseñado para claridad y facilidad en entornos de comunicación diaria."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Liftware Steady",
+        "productId": "B0DX252Y7H",
+        "productName": "Liftware Steady",
+        "filename": "B0DX252Y7H.mp4",
+        "asin": "B0DX252Y7H",
+        "clipDuration": 51.75,
+        "estimatedAudioSeconds": null,
+        "framework": "problema_solucion",
+        "narracionSegments": null,
+        "content": [
+          "<summary>",
+          "Su precio actual en Amazon ronda los... "
+        ],
+        "visuals": [
+          "Product image: Liftware Steady"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0DX252Y7H.mp4",
+        "precio": "$300",
+        "productPhoto": "https://m.media-amazon.com/images/I/51RGPnbpCpL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DX252Y7H\\scenes_v1\\B0DX252Y7H_scene_02.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "cuchara adaptativa",
+            "raw": "8|cuchara adaptativa"
+          }
+        ],
+        "features": [
+          "【Eleva la Confianza en la Hora de Comer】La cuchara GYENNO para Parkinson está diseñada para mejorar significativamente la experiencia de comer de las personas con un rango específico de temblores en las manos a través de una intervención no invasiva, permitiéndoles regresar a una vida normal con confianza, independencia y dignidad.",
+          "【Ayuda Innovadora para el Parkinson】Con un chip inteligente integrado y algoritmos de vanguardia, la cuchara GYENNO para el Parkinson estabiliza la cuchara al detectar y compensar los temblores, mejorando la facilidad de uso.",
+          "【Tecnología de Visualización de Temblor】La cuchara GYENNO para Parkinson recoge datos de temblor del usuario y los muestra como un gráfico en una aplicación móvil durante la carga, lo que te permite ver tus niveles de temblor de forma visual y utilizar esta información como base para el tratamiento.",
+          "【Mejora Continua】Las actualizaciones de firmware y algoritmos permiten la evolución sostenible de la cuchara GYENNO para Parkinson a través de la tecnología OTA.",
+          "\"\"\"【Determina Rápidamente si Funciona】Para verificar si la cuchara GYENNO Parkinson es útil para ti, descarga la APP 'GYENNO SPOON' en Google Play o App Store, y realiza una prueba de usabilidad.\"\"\""
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Be My Eyes App",
+        "productId": "1952744504",
+        "productName": "Be My Eyes App",
+        "filename": "1952744504.mp4",
+        "asin": "1952744504",
+        "clipDuration": 60.06,
+        "estimatedAudioSeconds": 20,
+        "framework": "enfoque_caracteristica",
+        "narracionSegments": null,
+        "content": [
+          "Be My Eyes es una aplicación que conecta a personas ciegas o con visión limitada con voluntarios que pueden ayudarles a través de videollamadas.",
+          "Su precio actual en Amazon ronda los... Revisa el enlace. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Be My Eyes App"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\1952744504_combined.mp4",
+        "precio": "Revisa el enlace",
+        "productPhoto": "https://m.media-amazon.com/images/I/61z+i9j4ukL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": []
+      },
+      {
+        "type": "content",
+        "title": "Dot Watch",
+        "productId": "B0B6V8LX9R",
+        "productName": "Dot Watch",
+        "filename": "B0B6V8LX9R.mp4",
+        "asin": "B0B6V8LX9R",
+        "clipDuration": 60.06,
+        "estimatedAudioSeconds": 16,
+        "framework": "beneficio_oculto",
+        "narracionSegments": null,
+        "content": [
+          "Dot Watch es un reloj inteligente diseñado para personas con discapacidad visual, proporcionando información mediante puntos braille.",
+          "Su precio actual en Amazon ronda los... 30 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Dot Watch"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0B6V8LX9R_combined.mp4",
+        "precio": "$30",
+        "productPhoto": "https://m.media-amazon.com/images/I/81nYWRi1u2L.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": []
+      },
+      {
+        "type": "content",
+        "title": "Sunu Band",
+        "productId": "B0FN9NTGWC",
+        "productName": "Sunu Band",
+        "filename": "B0FN9NTGWC.mp4",
+        "asin": "B0FN9NTGWC",
+        "clipDuration": 60.06,
+        "estimatedAudioSeconds": 18,
+        "framework": "comparacion_precio",
+        "narracionSegments": null,
+        "content": [
+          "Sunu Band es una innovadora pulsera que utiliza tecnología ultrasónica para detectar objetos y ayudar a la orientación de personas ciegas.",
+          "Su precio actual en Amazon ronda los... 48 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Sunu Band"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0FN9NTGWC_combined.mp4",
+        "precio": "$48",
+        "productPhoto": "https://m.media-amazon.com/images/I/61OVRf5hm-L.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": []
+      },
+      {
+        "type": "content",
+        "title": "Orcam MyEye Pro",
+        "productId": "B07H31SBMW",
+        "productName": "Orcam MyEye Pro",
+        "filename": "B07H31SBMW.mp4",
+        "asin": "B07H31SBMW",
+        "clipDuration": 74.94,
+        "estimatedAudioSeconds": null,
+        "framework": "dato_numerico",
+        "narracionSegments": null,
+        "content": [
+          "\"Orcam MyEye Pro transforma vidas con su IA asistiva portátil, permitiendo leer texto, reconocer caras y objetos mediante comandos sencillos.\"",
+          "\"Su precio actual en Amazon ronda los... 3499 dólares. ¡Link en el primer comentario!\""
+        ],
+        "visuals": [
+          "Product image: Orcam MyEye Pro"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07H31SBMW.mp4",
+        "precio": "$3499",
+        "productPhoto": "https://m.media-amazon.com/images/I/31lQHWChYRL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07H31SBMW\\scenes_v1\\B07H31SBMW_scene_02.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07H31SBMW\\scenes_v1\\B07H31SBMW_scene_03.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07H31SBMW\\scenes_v1\\B07H31SBMW_scene_04.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07H31SBMW\\scenes_v1\\B07H31SBMW_scene_05.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07H31SBMW\\scenes_v1\\B07H31SBMW_scene_06.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "lectura asistida",
+            "raw": "9|lectura asistida"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07H31SBMW\\scenes_v1\\B07H31SBMW_scene_07.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "lectura asistida",
+            "raw": "9|lectura asistida"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07H31SBMW\\scenes_v1\\B07H31SBMW_scene_08.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Interacción clara",
+            "raw": "9|Interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07H31SBMW\\scenes_v1\\B07H31SBMW_scene_10.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07H31SBMW\\scenes_v1\\B07H31SBMW_scene_12.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "billete de 50 dólares",
+            "raw": "9|billete de 50 dólares"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07H31SBMW\\scenes_v1\\B07H31SBMW_scene_13.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Interacción clara",
+            "raw": "9|Interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07H31SBMW\\scenes_v1\\B07H31SBMW_scene_14.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07H31SBMW\\scenes_v1\\B07H31SBMW_scene_15.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "lectura asistida",
+            "raw": "9|lectura asistida"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07H31SBMW\\scenes_v1\\B07H31SBMW_scene_16.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "lectura asistida",
+            "raw": "9|lectura asistida"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07H31SBMW\\scenes_v1\\B07H31SBMW_scene_17.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07H31SBMW\\scenes_v1\\B07H31SBMW_scene_22.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Interacción clara",
+            "raw": "9|Interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07H31SBMW\\scenes_v1\\B07H31SBMW_scene_23.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07H31SBMW\\scenes_v1\\B07H31SBMW_scene_24.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07H31SBMW\\scenes_v1\\B07H31SBMW_scene_25.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "lectura asistida",
+            "raw": "9|lectura asistida"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07H31SBMW\\scenes_v1\\B07H31SBMW_scene_26.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07H31SBMW\\scenes_v1\\B07H31SBMW_scene_27.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "lectura asistida",
+            "raw": "9|lectura asistida"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07H31SBMW\\scenes_v1\\B07H31SBMW_scene_30.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07H31SBMW\\scenes_v1\\B07H31SBMW_scene_33.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "lectura asistida",
+            "raw": "9|lectura asistida"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07H31SBMW\\scenes_v1\\B07H31SBMW_scene_35.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Interacción clara",
+            "raw": "9|Interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07H31SBMW\\scenes_v1\\B07H31SBMW_scene_34.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07H31SBMW\\scenes_v1\\B07H31SBMW_scene_36.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Interacción clara",
+            "raw": "9|Interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07H31SBMW\\scenes_v1\\B07H31SBMW_scene_20.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "producto pequeño",
+            "raw": "5|producto pequeño"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07H31SBMW\\scenes_v1\\B07H31SBMW_scene_28.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "producto pequeño",
+            "raw": "5|producto pequeño"
+          }
+        ],
+        "features": [
+          "CREAMOS DISPOSITIVOS DE INTELIGENCIA ARTIFICIAL (IA) ASISTIVA PORTÁTIL QUE CAMBIAN VIDAS - Con OrCam MyEye, finalmente podrás disfrutar del periódico de la mañana, leer los libros que amas e incluso volver al trabajo. Reconocer las caras de tus seres queridos y hacer compras de manera independiente se convertirá en algo natural. Ten en cuenta: OrCam MyEye te permitirá acceder a información visual, de manera audible. No mejorará la vista.",
+          "OrCam MyEye es una cámara inteligente ligera que se adhiere a prácticamente cualquier montura de gafas. Utilizando tecnología de Inteligencia Artificial, lee instantáneamente y de manera discreta texto impreso y digital en voz alta desde cualquier superficie, reconoce rostros, productos, billetes y más, todo en tiempo real.",
+          "\"\"\"DECENAS DE MILES DE USUARIOS EN TODO EL MUNDO - OrCam MyEye se utiliza en más de 40 países y 20 idiomas. El dispositivo asistencial portátil más avanzado y, a la vez, intuitivo, está mejorando vidas a todas las edades.\"\"\"",
+          "Nombrado como una de las 100 mejores invenciones de 2019 por TIME Magazine y presentado en Dr. Phil y STEVE, este dispositivo intuitivo se opera utilizando simples gestos de la mano y tiene más de 20 comandos activados por voz (comandos de voz disponibles solo en la versión en inglés). Se puede utilizar con cualquier nivel de pérdida de visión y no requiere una conexión a internet.",
+          "Tutoriales en video y soporte al usuario de OrCam disponibles en línea. Al realizar la compra, el idioma instalado en el dispositivo depende de la región desde la que estás comprando. Si deseas un idioma diferente, por favor contáctanos."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Lechal Smart Insoles",
+        "productId": "B0FR1R9B27",
+        "productName": "Lechal Smart Insoles",
+        "filename": "B0FR1R9B27.mp4",
+        "asin": "B0FR1R9B27",
+        "clipDuration": 60.06,
+        "estimatedAudioSeconds": null,
+        "framework": "experiencia_sensorial",
+        "narracionSegments": null,
+        "content": [
+          "Lechal Smart Insoles es un gadget innovador disponible en Amazon.",
+          "Su precio actual en Amazon ronda los... 15 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Lechal Smart Insoles"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0FR1R9B27_combined.mp4",
+        "precio": "$15",
+        "productPhoto": "https://m.media-amazon.com/images/I/71cQXsWtXoL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": []
+      },
+      {
+        "type": "content",
+        "title": "LiNX Quattro Hearing",
+        "productId": "B0G51V3GY5",
+        "productName": "LiNX Quattro Hearing",
+        "filename": "B0G51V3GY5.mp4",
+        "asin": "B0G51V3GY5",
+        "clipDuration": 245.41,
+        "estimatedAudioSeconds": null,
+        "framework": "problema_solucion",
+        "narracionSegments": null,
+        "content": [
+          "\"\"\"Experimenta conversaciones como nunca antes. Nuestro avanzado chip digital aísla las voces del ruido de fondo con 4 modos de escena adaptativos: Modo 1 (Uso Diario) – para conve",
+          "Su precio actual en Amazon ronda los... 9 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: LiNX Quattro Hearing"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0G51V3GY5.mp4",
+        "precio": "$9",
+        "productPhoto": "https://m.media-amazon.com/images/I/71Z1SCb958L.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0G51V3GY5\\scenes_v1\\B0G51V3GY5_scene_02.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Uso del audífono",
+            "raw": "9|Uso del audífono"
+          }
+        ],
+        "features": [
+          "\"\"\"Experimenta conversaciones como nunca antes. Nuestro avanzado chip digital aísla las voces del ruido de fondo con 4 modos de escena adaptativos: Modo 1 (Uso Diario) – para conversaciones cotidianas en casa; Modo 2 (Restaurante) – reduce el ruido y la charla en entornos de comedor; Modo 3 (Exterior) – minimiza el viento y el ruido ambiental; Modo 4 (Música) – mejora la claridad para escuchar TV, radio o música. Solo mantén presionado el botón para cambiar de modo y disfruta de un sonido claro y natural sin silbidos ni zumbidos.\"\"\"",
+          "Di adiós a las pequeñas y costosas baterías. Una sola carga completa alimenta estos audífonos todo el día, y el estuche de carga portátil extiende su uso a unas impresionantes 60 horas. Una rápida carga de 2 horas en el estuche te mantiene en marcha. La función de encendido/apagado automático al colocarlos en el estuche ahorra energía.",
+          "Discreto y cómodo, justo como lo deseas. 20% más pequeño que los audífonos estándar, se ajustan perfectamente en tu canal auditivo. Elige entre 6 pares de puntas de silicona ultra suaves (3 tamaños) para encontrar tu ajuste perfecto y seguro que minimiza el retroceso. Con tecnología médica registrada por la FDA, este audífono OTC está clínicamente diseñado para adultos con pérdida auditiva leve a moderada, para que puedas escuchar con claridad sin compromisos.",
+          "Diseñado específicamente para personas mayores que valoran la simplicidad. Utiliza el botón texturizado para ajustar fácilmente 6 niveles de volumen o cambiar entre modos al tacto. Se enciende/apaga automáticamente al ser retirado/colocado en el estuche. Sin aplicación compleja, sin emparejamiento Bluetooth, solo un soporte auditivo sin esfuerzo.",
+          "Tu solución auditiva completa está en la caja: ayudas codificadas por colores L/R, estuche de carga portátil, cable USB-C, 6 pares de puntas de silicona suave (3 tamaños), herramienta de limpieza y un manual de usuario claro. Simplemente abre, carga y comienza a escuchar la vida con más claridad—sin baterías que comprar, sin configuraciones complicadas. Redescubre la alegría de una conversación sin esfuerzo."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "AVA Accessibility App",
+        "productId": "B0FYQ4Y2ZZ",
+        "productName": "AVA Accessibility App",
+        "filename": "B0FYQ4Y2ZZ.mp4",
+        "asin": "B0FYQ4Y2ZZ",
+        "clipDuration": 149.75,
+        "estimatedAudioSeconds": 42,
+        "framework": "enfoque_caracteristica",
+        "narracionSegments": null,
+        "content": [
+          "Plaud Note Pro ofrece transcripciones precisas en 112 idiomas con etiquetas automáticas de hablantes. Captura audio, escribe notas y añade imágenes para un contexto más rico. La IA interactiva permite extraer puntos clave y obtener sugerencias basadas en tu audio.",
+          "Su precio actual en Amazon ronda los 1 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: AVA Accessibility App"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0FYQ4Y2ZZ.mp4",
+        "precio": "$1",
+        "productPhoto": "https://m.media-amazon.com/images/I/61szWLRVVvL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FYQ4Y2ZZ\\scenes_v1\\B0FYQ4Y2ZZ_scene_01.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "producto visible",
+            "raw": "8|producto visible"
+          }
+        ],
+        "features": [
+          "TRANSCRIPCIÓN IMPULSADA POR IA Y RESUMENES MULTIDIMENSIONALES: Plaud Note Pro es tu transcriptor de voz profesional, que ofrece transcripciones de alta precisión en 112 idiomas con etiquetas automáticas de hablantes. Impulsado por los mejores modelos de IA y miles de plantillas, Note Pro crea instantáneamente resúmenes estructurados, mapas mentales, listas de tareas y propuestas adaptadas a tu rol e industria.",
+          "CONTEXTOS MEJORADOS CON ENTRADA MULTIMODAL: Captura audio, escribe notas, añade imágenes y presiona para resaltar momentos clave para un contexto más rico. Durante la grabación, marca instantáneamente momentos clave con una sola pulsación de botón. Enriqueces simultáneamente tu audio al tomar fotos de documentos importantes o escribir ideas.",
+          "CHAT CON TUS GRABACIONES USANDO \"ASK Plaud\": Desbloquea conocimientos más profundos con esta IA interactiva. Haz preguntas, extrae puntos clave, redacta correos electrónicos y obtén sugerencias para los próximos pasos, todo basado en tu audio original para respuestas confiables y listas para usar.",
+          "REGISTRO INTELIGENTE CON AUDIO DIRECCIONAL AI: Disfruta de un registro inteligente y sin interrupciones con Plaud Note Pro. Su IA cambia automáticamente entre los modos de llamada y reunión mientras graba, y el audio direccional junto con la conciencia espacial en tiempo real minimizan el ruido para capturar voces con una claridad cristalina.",
+          "Todo Incluido: Un dispositivo Plaud Note Pro, una funda magnética, un anillo magnético y un cable de carga. Cada tomador de notas Plaud Al viene con un Plan Inicial gratuito (300 minutos de transcripción por mes). Si necesitas más tiempo de transcripción, puedes actualizar en cualquier momento. El Plan Pro ofrece 1,200 minutos por mes por $8.34/mes (facturado anualmente a $99.99). El Plan Ilimitado proporciona transcripción ilimitada por $239.99/año. También puedes comprar minutos adicionales según sea necesario."
+        ]
+      }
+    ],
+    "totalDuration": 400
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      null
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "7:08",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "para",
+    "personas",
+    "discapacitadas",
+    "amazon"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 10 Gadgets para Personas Discapacitadas en Amazon",
+      "angle": "Top 10 Gadgets para Personas Discapacitadas en Amazon",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 10,
+      "introScript": "¿Un dispositivo que traduce el lenguaje de señas en palabras? ¿Un sensor que ayuda a las personas con discapacidad visual a navegar con seguridad? Hoy exploramos algunos de los gadgets más innovadores que mejoran la calidad de vida de las personas con discapacidades. Descubre cómo la tecnología está rompiendo barreras y creando soluciones prácticas y sorprendentes.",
+      "keywords": [
+        "gadgets",
+        "para",
+        "personas",
+        "discapacitadas",
+        "amazon"
+      ],
+      "estimatedViews": 5343,
+      "bestPublishTime": "2026-07-04T15:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Oxsight Glasses",
+          "searchTermEn": "Oxsight smart glasses",
+          "id": "B0GJ5LD7QL",
+          "filename": "B0GJ5LD7QL.mp4"
+        },
+        {
+          "nombre": "Roger Pen Microphone",
+          "searchTermEn": "Roger pen microphone hearing",
+          "id": "B08GZWQQZD",
+          "filename": "B08GZWQQZD.mp4"
+        },
+        {
+          "nombre": "Liftware Steady",
+          "searchTermEn": "Liftware steady spoon",
+          "id": "B0DX252Y7H",
+          "filename": "B0DX252Y7H.mp4"
+        },
+        {
+          "nombre": "Be My Eyes App",
+          "searchTermEn": "Be my eyes app innovative",
+          "id": "1952744504",
+          "filename": "1952744504.mp4"
+        },
+        {
+          "nombre": "Dot Watch",
+          "searchTermEn": "Dot braille smartwatch",
+          "id": "B0B6V8LX9R",
+          "filename": "B0B6V8LX9R.mp4"
+        },
+        {
+          "nombre": "Sunu Band",
+          "searchTermEn": "Sunu navigation band",
+          "id": "B0FN9NTGWC",
+          "filename": "B0FN9NTGWC.mp4"
+        },
+        {
+          "nombre": "Orcam MyEye Pro",
+          "searchTermEn": "Orcam myeye pro device",
+          "id": "B07H31SBMW",
+          "filename": "B07H31SBMW.mp4"
+        },
+        {
+          "nombre": "Lechal Smart Insoles",
+          "searchTermEn": "Lechal smart insoles navigation",
+          "id": "B0FR1R9B27",
+          "filename": "B0FR1R9B27.mp4"
+        },
+        {
+          "nombre": "LiNX Quattro Hearing",
+          "searchTermEn": "LiNX Quattro hearing aid",
+          "id": "B0G51V3GY5",
+          "filename": "B0G51V3GY5.mp4"
+        },
+        {
+          "nombre": "AVA Accessibility App",
+          "searchTermEn": "AVA speech transcription app",
+          "id": "B0FYQ4Y2ZZ",
+          "filename": "B0FYQ4Y2ZZ.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-07-01T20:27:44.833Z",
+      "_requestedCount": 10,
+      "_adaptedCount": 10,
+      "introProductsOrder": [
+        {
+          "nombre": "Dot Watch",
+          "id": "B0B6V8LX9R",
+          "filename": "B0B6V8LX9R_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0B6V8LX9R_combined.mp4"
+        },
+        {
+          "nombre": "Liftware Steady",
+          "id": "B0DX252Y7H",
+          "filename": "B0DX252Y7H.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0DX252Y7H.mp4"
+        },
+        {
+          "nombre": "Oxsight Glasses",
+          "id": "B0GJ5LD7QL",
+          "filename": "B0GJ5LD7QL.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0GJ5LD7QL.mp4"
+        },
+        {
+          "nombre": "AVA Accessibility App",
+          "id": "B0FYQ4Y2ZZ",
+          "filename": "B0FYQ4Y2ZZ.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0FYQ4Y2ZZ.mp4"
+        },
+        {
+          "nombre": "Orcam MyEye Pro",
+          "id": "B07H31SBMW",
+          "filename": "B07H31SBMW.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07H31SBMW.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1782939366236_c9hkri"
+    },
+    "generatedAt": "2026-07-01T20:59:48.429Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Oxsight Glasses",
+        "searchTermEn": "Oxsight smart glasses",
+        "id": "B0GJ5LD7QL",
+        "filename": "B0GJ5LD7QL.mp4"
+      },
+      {
+        "nombre": "Roger Pen Microphone",
+        "searchTermEn": "Roger pen microphone hearing",
+        "id": "B08GZWQQZD",
+        "filename": "B08GZWQQZD.mp4"
+      },
+      {
+        "nombre": "Liftware Steady",
+        "searchTermEn": "Liftware steady spoon",
+        "id": "B0DX252Y7H",
+        "filename": "B0DX252Y7H.mp4"
+      },
+      {
+        "nombre": "Be My Eyes App",
+        "searchTermEn": "Be my eyes app innovative",
+        "id": "1952744504",
+        "filename": "1952744504.mp4"
+      },
+      {
+        "nombre": "Dot Watch",
+        "searchTermEn": "Dot braille smartwatch",
+        "id": "B0B6V8LX9R",
+        "filename": "B0B6V8LX9R.mp4"
+      },
+      {
+        "nombre": "Sunu Band",
+        "searchTermEn": "Sunu navigation band",
+        "id": "B0FN9NTGWC",
+        "filename": "B0FN9NTGWC.mp4"
+      },
+      {
+        "nombre": "Orcam MyEye Pro",
+        "searchTermEn": "Orcam myeye pro device",
+        "id": "B07H31SBMW",
+        "filename": "B07H31SBMW.mp4"
+      },
+      {
+        "nombre": "Lechal Smart Insoles",
+        "searchTermEn": "Lechal smart insoles navigation",
+        "id": "B0FR1R9B27",
+        "filename": "B0FR1R9B27.mp4"
+      },
+      {
+        "nombre": "LiNX Quattro Hearing",
+        "searchTermEn": "LiNX Quattro hearing aid",
+        "id": "B0G51V3GY5",
+        "filename": "B0G51V3GY5.mp4"
+      },
+      {
+        "nombre": "AVA Accessibility App",
+        "searchTermEn": "AVA speech transcription app",
+        "id": "B0FYQ4Y2ZZ",
+        "filename": "B0FYQ4Y2ZZ.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 10 Gadgets para Personas Discapacitadas en Amazon\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\n¿Leer en Braille? ¿Comes sin temblor? ¿Capturas en video 4K? ¿Transcribe todo al instante? ¿Reconoces rostros con facilidad?\n\n[25s-30s] INTRODUCTION\nLos links de compra están en el primer comentario. Empezamos.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] OXSIGHT GLASSES\nImagina unas gafas que traducen idiomas en tiempo real y te permiten grabar videos en resolución 4K. Las Oxsight Glasses hacen esto posible, ofreciendo música Bluetooth y llamadas manos libres con una claridad impresionante. Además, cuentan con protección IP65 para resistir el sudor, la lluvia y el polvo, garantizando un uso cómodo durante todo el día.\nSu precio actual en Amazon ronda los... 68 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Oxsight Glasses]\n\n[0:25] ROGER PEN MICROPHONE\nSiente la claridad auditiva con el Roger Pen Microphone, ideal para conversaciones personales incluso en entornos ruidosos. Su transmisión inalámbrica lleva sonido directo a tus audífonos. Discreto y ligero, es compatible con varios modelos de audífonos para que pueda usarlo cómodamente todo el día.\nSu precio actual en Amazon ronda los... 309 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Roger Pen Microphone]\n\n[0:25] LIFTWARE STEADY\n<summary>\nSu precio actual en Amazon ronda los... \n\n[VISUALS: Product image: Liftware Steady]\n\n[0:25] BE MY EYES APP\nBe My Eyes es una aplicación que conecta a personas ciegas o con visión limitada con voluntarios que pueden ayudarles a través de videollamadas.\nSu precio actual en Amazon ronda los... Revisa el enlace. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Be My Eyes App]\n\n[0:25] DOT WATCH\nDot Watch es un reloj inteligente diseñado para personas con discapacidad visual, proporcionando información mediante puntos braille.\nSu precio actual en Amazon ronda los... 30 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Dot Watch]\n\n[0:25] SUNU BAND\nSunu Band es una innovadora pulsera que utiliza tecnología ultrasónica para detectar objetos y ayudar a la orientación de personas ciegas.\nSu precio actual en Amazon ronda los... 48 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Sunu Band]\n\n[0:25] ORCAM MYEYE PRO\n\"Orcam MyEye Pro transforma vidas con su IA asistiva portátil, permitiendo leer texto, reconocer caras y objetos mediante comandos sencillos.\"\n\"Su precio actual en Amazon ronda los... 3499 dólares. ¡Link en el primer comentario!\"\n\n[VISUALS: Product image: Orcam MyEye Pro]\n\n[0:25] LECHAL SMART INSOLES\nLechal Smart Insoles es un gadget innovador disponible en Amazon.\nSu precio actual en Amazon ronda los... 15 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Lechal Smart Insoles]\n\n[0:25] LINX QUATTRO HEARING\n\"\"\"Experimenta conversaciones como nunca antes. Nuestro avanzado chip digital aísla las voces del ruido de fondo con 4 modos de escena adaptativos: Modo 1 (Uso Diario) – para conve\nSu precio actual en Amazon ronda los... 9 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: LiNX Quattro Hearing]\n\n[0:25] AVA ACCESSIBILITY APP\nPlaud Note Pro ofrece transcripciones precisas en 112 idiomas con etiquetas automáticas de hablantes. Captura audio, escribe notas y añade imágenes para un contexto más rico. La IA interactiva permite extraer puntos clave y obtener sugerencias basadas en tu audio.\nSu precio actual en Amazon ronda los 1 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: AVA Accessibility App]\n\n[10 seconds] CONCLUSION\nundefined\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 7:08\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, para, personas, discapacitadas, amazon\n"
+}

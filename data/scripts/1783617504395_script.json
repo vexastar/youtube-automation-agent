@@ -1,0 +1,130 @@
+{
+  "title": "Top 1 Gadget que Revoluciona tu Hogar",
+  "hook": {
+    "type": "statement",
+    "text": "",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "25s-35s"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Knocki Control Remoto",
+        "productId": "B0DCN8LYKY",
+        "productName": "Knocki Control Remoto",
+        "filename": "B0DCN8LYKY.mp4",
+        "asin": "B0DCN8LYKY",
+        "videoDuration": 117.151633,
+        "estimatedAudioSeconds": 34,
+        "framework": "beneficio_oculto",
+        "narracionSegments": null,
+        "content": [
+          "¿Tus pulgares sufren con TikTok? Knocki Control Remoto. ¡Tu solución ideal! Se conecta a TODOS los teléfonos en un segundo. Desplázate sin esfuerzo; disfruta la comodidad del desplazamiento infinito... sin aplicaciones ni configuración. Conéctalo vía Bluetooth. Usa su anillo mágico para descartar el cansancio; desplázate en la cama, caminando o relajándote. Aprovecha 8 botones fáciles para todo: desplazarte, gustar, compartir... Con carga rápida y autonomía de treinta días, disfruta TikTok sin tortura digital.",
+          "Su precio actual ronda los... siete dólares. Link en comentarios."
+        ],
+        "visuals": [
+          "Product image: Knocki Control Remoto"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0DCN8LYKY.mp4",
+        "precio": "$7",
+        "productPhoto": "https://m.media-amazon.com/images/I/51XYA4bWs7L.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "🔥 ¡Hazte viral con la tendencia más caliente de TikTok! Este anillo mágico te permite desplazarte por los videos de TikTok sin esfuerzo: ¡nada de pulgares cansados, solo diversión adictiva de desplazamiento infinito!",
+          "📱 Funciona con TODOS los teléfonos - iPhone, Samsung, ¡cualquier smartphone! Solo conéctalo vía Bluetooth en 1 segundo y comienza a desplazarte. ¡Sin aplicaciones, sin configuración, solo pura diversión de TikTok!",
+          "👆 Desplázate por TikTok en cualquier lugar - en la cama, caminando, relajándote! Tu pulgar te lo agradecerá durante esos maratones de TikTok a las 3AM. ¡Nivel de comodidad: 100%!",
+          "⚡ ¡Una carga = 30 días de desplazamiento por TikTok! Carga rápida por USB-C en solo 1 hora. ¡Nunca te pierdas videos de tendencia por culpa de la batería muerta!",
+          "🎮 8 botones fáciles para todo - desplazar, gustar, compartir, pausar! Tan simple que tu abuela podría usarlo. ¡Botones físicos = cero curva de aprendizaje!"
+        ]
+      }
+    ],
+    "totalDuration": 40
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      ""
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:10",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadget",
+    "revoluciona",
+    "hogar"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 1 Gadget que Revoluciona tu Hogar",
+      "angle": "Top 1 Gadget que Revoluciona tu Hogar",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 1,
+      "introScript": "Imagina un dispositivo que transforma cualquier superficie en una pantalla táctil interactiva. Un gadget que no solo te permite controlar luces, cortinas y dispositivos, sino que también te asiste en tus tareas diarias con comandos de voz. En este video te voy a mostrar un invento que parece sacado de una película de ciencia ficción, pero que puedes tener en casa desde ya. Prepárate para conocer el gadget definitivo que cambiará tu forma de interactuar con el hogar.",
+      "keywords": [
+        "gadget",
+        "revoluciona",
+        "hogar"
+      ],
+      "estimatedViews": 4812,
+      "bestPublishTime": "2026-07-11T15:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Knocki Control Remoto",
+          "searchTermEn": "Knocki Smart Remote",
+          "id": "B0DCN8LYKY",
+          "filename": "B0DCN8LYKY.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-07-09T17:15:36.507Z",
+      "_requestedCount": 1,
+      "_adaptedCount": 1,
+      "introProductsOrder": [
+        {
+          "nombre": "Knocki Control Remoto",
+          "id": "B0DCN8LYKY",
+          "filename": "B0DCN8LYKY.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0DCN8LYKY.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1783617469046_fqq84t"
+    },
+    "generatedAt": "2026-07-09T17:18:02.434Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Knocki Control Remoto",
+        "searchTermEn": "Knocki Smart Remote",
+        "id": "B0DCN8LYKY",
+        "filename": "B0DCN8LYKY.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 1 Gadget que Revoluciona tu Hogar\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\n\n\n[25s-35s] INTRODUCTION\n\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] KNOCKI CONTROL REMOTO\n¿Tus pulgares sufren con TikTok? Knocki Control Remoto. ¡Tu solución ideal! Se conecta a TODOS los teléfonos en un segundo. Desplázate sin esfuerzo; disfruta la comodidad del desplazamiento infinito... sin aplicaciones ni configuración. Conéctalo vía Bluetooth. Usa su anillo mágico para descartar el cansancio; desplázate en la cama, caminando o relajándote. Aprovecha 8 botones fáciles para todo: desplazarte, gustar, compartir... Con carga rápida y autonomía de treinta días, disfruta TikTok sin tortura digital.\nSu precio actual ronda los... siete dólares. Link en comentarios.\n\n[VISUALS: Product image: Knocki Control Remoto]\n\n[10 seconds] CONCLUSION\n\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:10\nTONE: engaging\nPACING: quick\nKEYWORDS: gadget, revoluciona, hogar\n"
+}

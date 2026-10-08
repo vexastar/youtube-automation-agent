@@ -1,0 +1,188 @@
+{
+  "title": "Top 2 Gadgets Imprescindibles para Exploradores",
+  "hook": {
+    "type": "statement",
+    "text": "No compres nada en Amazon hasta ver esto. Un cargador solar que transforma el sol en energía y un reloj inteligente que nunca se detiene gracias a la luz solar. Recuerda que los verdaderos links están en el primer comentario. ¡Vamos!",
+    "duration": "0:00-0:15"
+  },
+  "introduction": {
+    "greeting": "",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0s"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "BigBlue 28W Cargador de Panel Solar",
+        "productId": "B01EXWCPLC",
+        "productName": "BigBlue 28W Cargador de Panel Solar",
+        "filename": "B01EXWCPLC.mp4",
+        "asin": "B01EXWCPLC",
+        "videoDuration": 86.108267,
+        "estimatedAudioSeconds": 36,
+        "framework": "problema_solucion",
+        "narracionSegments": null,
+        "content": [
+          "Quedarte sin batería en plena aventura al aire libre puede arruinar cualquier plan. BigBlue 28W Cargador de Panel Solar aborda este problema aprovechando la potencia del sol y proporcionando energía constante. Con dos puertos USB-C y un puerto USB-A, ofrece una salida máxima de hasta cuatro punto ocho amperios colectivamente. Convierte más del veinticinco por ciento de la luz solar en electricidad utilizable, mientras su resistencia al agua IP44 garantiza durabilidad en entornos húmedos.",
+          "Tiene un costo aproximado de setenta y cinco dólares y puedes encontrarlo en Amazon."
+        ],
+        "visuals": [
+          "Product image: BigBlue 28W Cargador de Panel Solar"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B01EXWCPLC.mp4",
+        "precio": "$75",
+        "productPhoto": "https://m.media-amazon.com/images/I/81Y+nxzTVGL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "Rendimiento Avanzado: BigBlue 28W cargador solar portátil proporciona un 20% más de potencia de cada rayo, gracias al diseño de superficie sin sombras (sin líneas metálicas en el panel frontal). La resistencia al calor diseñada y las avanzadas celdas solares tipo N ofrecen una eficiencia superior en condiciones de baja luz y extienden la longevidad operativa.",
+          "Puerto Triple Mejorado: Dos puertos USB-C y un puerto USB-A ofrecen una salida máxima de 5V/3A cada uno, logrando colectivamente 5V/4.8A. Este cargador de panel solar permite la carga simultánea de múltiples dispositivos. Tenga en cuenta que el panel solar portátil no puede almacenar electricidad y debe usarse bajo la luz solar directa mientras está conectado a sus dispositivos.",
+          "Alta Eficiencia y Resistente al Agua IP44: Cargador de teléfono solar de 28W USB convierte el 25.4% de la luz solar en energía gratuita - eficiencia líder en la industria. Nuestro diseño más duradero con superficie de polímero especial resiste mejor la lluvia, la niebla y el desgaste que los paneles convencionales. Nota: la caja de unión USB no es resistente al agua.",
+          "Cargador Solar de Emergencia Ultra-Portátil: Diseñado para acampar/senderismo al aire libre y suministro de energía de emergencia, el cargador de panel solar plegable BigBlue se pliega a solo 11x6x1.4 pulgadas y pesa solo 1.5 lbs—lo suficientemente compacto para una mochila ajustada. Despliega, Conecta, Energía, fácil de configurar, es crítico para kits de preparación para huracanes.",
+          "Energía Universal en Movimiento: Carga tus smartphones, power banks, GPS, linternas y pequeños dispositivos electrónicos sin problemas con el cargador solar ligero de BigBlue. La salida real fluctúa con la irradiancia solar, la orientación angular, las especificaciones del dispositivo conectado, la temperatura ambiente, etc. Equipado con Carga Segura Inteligente para una energía rápida y 100% segura bajo la luz solar. (El cable para dispositivos Apple no está incluido.)"
+        ],
+        "originalVideoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B01EXWCPLC.mp4"
+      },
+      {
+        "type": "content",
+        "title": "Garmin fēnix 7X Pro Solar",
+        "productId": "B0BYFC6GBQ",
+        "productName": "Garmin fēnix 7X Pro Solar",
+        "filename": "B0BYFC6GBQ.mp4",
+        "asin": "B0BYFC6GBQ",
+        "videoDuration": 75.898067,
+        "estimatedAudioSeconds": 37,
+        "framework": "enfoque_caracteristica",
+        "narracionSegments": null,
+        "content": [
+          "Quedarse sin batería en medio de una carrera importante puede arruinar completamente tu rutina de entrenamiento. Con el Garmin fēnix 7X Pro Solar, ese problema queda atrás gracias a su única carga solar Presente en su lente Power Glass. Un reloj GPS multisport con pantalla de 1 punto 4 pulgadas en una robusta caja de polímero reforzado de 51 milímetros además, incluye una linterna LED con modos estroboscópicos y puntuaciones exclusivas para colinas y resistencia preparando aún más tus entrenamientos.",
+          "Actualmente puedes adquirirlo por unos trescientos ochenta dólares directamente en Amazon."
+        ],
+        "visuals": [
+          "Product image: Garmin fēnix 7X Pro Solar"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0BYFC6GBQ.mp4",
+        "precio": "$380",
+        "productPhoto": "https://m.media-amazon.com/images/I/71js3xxPb7L.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "Reloj GPS multisport con una gran pantalla de 1.4” en una resistente caja de polímero reforzado con fibra de 51 mm con un bisel de acero y tapa trasera.",
+          "La lente de carga solar Power Glass utiliza la energía del sol para semanas de duración de la batería en modo smartwatch.",
+          "Linterna LED incorporada con intensidades variables y modos estroboscópicos te brinda mayor conciencia mientras entrenas de noche y proporciona iluminación conveniente cuando la necesitas.",
+          "La nueva función de puntuación de colinas mide tu fuerza/resistencia al correr durante las subidas y evalúa tu progreso a lo largo del tiempo.",
+          "La nueva función de puntuación de resistencia combina datos de entrenamiento de todas tus actividades atléticas para ayudarte a comprender mejor cómo el entrenamiento impacta tu resistencia general."
+        ],
+        "originalVideoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0BYFC6GBQ.mp4"
+      }
+    ],
+    "totalDuration": 80
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "Gracias por llegar hasta aquí. El próximo top será aún más loco. Recuerda los links en el primer comentario."
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "",
+    "like": "",
+    "comment": "",
+    "nextVideo": "",
+    "duration": "0 seconds"
+  },
+  "duration": "1:50",
+  "tone": "engaging",
+  "tone_variant": "entusiasta y acelerado, como un presentador de teletienda pero sin relleno ni repetición",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "imprescindibles",
+    "para",
+    "exploradores"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 2 Gadgets Imprescindibles para Exploradores",
+      "angle": "Top 2 Gadgets Imprescindibles para Exploradores",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 2,
+      "introScript": "Hoy descubriremos dos gadgets que transformarán tus aventuras al aire libre. Imagina cargar todos tus dispositivos solo con el poder del sol gracias a un panel solar plegable increíblemente ligero, y un reloj que no solo te da la hora, sino que también te guía por los caminos más remotos con mapas detallados y seguimiento GPS. Estas innovaciones no solo aumentarán tu comodidad, sino que asegurarán que siempre estés un paso adelante en tus exploraciones. ¿Listo para conocer estos avances? ¡Vamos allá!",
+      "keywords": [
+        "gadgets",
+        "imprescindibles",
+        "para",
+        "exploradores"
+      ],
+      "estimatedViews": 4937,
+      "bestPublishTime": "2026-09-29T19:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "BigBlue 28W Cargador de Panel Solar",
+          "searchTermEn": "BigBlue 28W Solar Charger",
+          "id": "B01EXWCPLC",
+          "filename": "B01EXWCPLC.mp4"
+        },
+        {
+          "nombre": "Garmin fēnix 7X Pro Solar",
+          "searchTermEn": "Garmin Fenix 7 GPS Watch",
+          "id": "B0BYFC6GBQ",
+          "filename": "B0BYFC6GBQ.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-09-28T23:04:35.264Z",
+      "_requestedCount": 2,
+      "_adaptedCount": 2,
+      "introProductsOrder": [
+        {
+          "nombre": "BigBlue 28W Cargador de Panel Solar",
+          "id": "B01EXWCPLC",
+          "filename": "B01EXWCPLC.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B01EXWCPLC.mp4"
+        },
+        {
+          "nombre": "Garmin fēnix 7X Pro Solar",
+          "id": "B0BYFC6GBQ",
+          "filename": "B0BYFC6GBQ.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0BYFC6GBQ.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1790636812743_06c8ea"
+    },
+    "generatedAt": "2026-09-28T23:07:09.024Z",
+    "version": "4.0-dynamic-rotator",
+    "productos": [
+      {
+        "nombre": "BigBlue 28W Cargador de Panel Solar",
+        "searchTermEn": "BigBlue 28W Solar Charger",
+        "id": "B01EXWCPLC",
+        "filename": "B01EXWCPLC.mp4"
+      },
+      {
+        "nombre": "Garmin fēnix 7X Pro Solar",
+        "searchTermEn": "Garmin Fenix 7 GPS Watch",
+        "id": "B0BYFC6GBQ",
+        "filename": "B0BYFC6GBQ.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 2 Gadgets Imprescindibles para Exploradores\n\n══════════════════════════════════════════════════\n\n[0:00-0:15] HOOK\nNo compres nada en Amazon hasta ver esto. Un cargador solar que transforma el sol en energía y un reloj inteligente que nunca se detiene gracias a la luz solar. Recuerda que los verdaderos links están en el primer comentario. ¡Vamos!\n\n[0s] INTRODUCTION\n\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] BIGBLUE 28W CARGADOR DE PANEL SOLAR\nQuedarte sin batería en plena aventura al aire libre puede arruinar cualquier plan. BigBlue 28W Cargador de Panel Solar aborda este problema aprovechando la potencia del sol y proporcionando energía constante. Con dos puertos USB-C y un puerto USB-A, ofrece una salida máxima de hasta cuatro punto ocho amperios colectivamente. Convierte más del veinticinco por ciento de la luz solar en electricidad utilizable, mientras su resistencia al agua IP44 garantiza durabilidad en entornos húmedos.\nTiene un costo aproximado de setenta y cinco dólares y puedes encontrarlo en Amazon.\n\n[VISUALS: Product image: BigBlue 28W Cargador de Panel Solar]\n\n[0:25] GARMIN FĒNIX 7X PRO SOLAR\nQuedarse sin batería en medio de una carrera importante puede arruinar completamente tu rutina de entrenamiento. Con el Garmin fēnix 7X Pro Solar, ese problema queda atrás gracias a su única carga solar Presente en su lente Power Glass. Un reloj GPS multisport con pantalla de 1 punto 4 pulgadas en una robusta caja de polímero reforzado de 51 milímetros además, incluye una linterna LED con modos estroboscópicos y puntuaciones exclusivas para colinas y resistencia preparando aún más tus entrenamientos.\nActualmente puedes adquirirlo por unos trescientos ochenta dólares directamente en Amazon.\n\n[VISUALS: Product image: Garmin fēnix 7X Pro Solar]\n\n[10 seconds] CONCLUSION\nGracias por llegar hasta aquí. El próximo top será aún más loco. Recuerda los links en el primer comentario.\n\n\n\n[0 seconds] CALL TO ACTION\n\n\n\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:50\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, imprescindibles, para, exploradores\n"
+}

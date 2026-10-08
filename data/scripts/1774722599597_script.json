@@ -1,0 +1,145 @@
+{
+  "title": "Top 5 Gadgets Imprescindibles para una Vida Inteligente en 2023",
+  "hook": {
+    "type": "statement",
+    "text": "¿Listo para transformar tu vida con tecnología futurista? ¡No te pierdas estos gadgets esenciales para 2023!",
+    "duration": "0:00-0:05"
+  },
+  "introduction": {
+    "greeting": "Bienvenidos a MENTE FUTURA, donde exploramos lo último en innovación tecnológica. Hoy te traemos el top 5 de gadgets que no pueden faltar en tu vida diaria este 2023. Desde cargadores solares hasta teclados proyectables, estos productos prometen hacer tu día a día más inteligente y eficiente.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0:05-0:15"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Cargador Solar Plegable para Emergencias",
+        "content": [
+          "Imagina poder cargar tus dispositivos en cualquier lugar con solo un poco de sol. Este cargador solar plegable es compacto y perfecto para situaciones de emergencia o aventuras al aire libre. Adiós a la ansiedad por batería baja y hola a la energía renovable.",
+          "Revisa su precio actualizado en el primer comentario."
+        ],
+        "visuals": [
+          "Product image: Cargador Solar Plegable para Emergencias"
+        ],
+        "duration": 25
+      },
+      {
+        "type": "content",
+        "title": "Rastreador de Objetos con App",
+        "content": [
+          "¿Cansado de perder tus llaves o cartera? Este rastreador de objetos con app es tu solución ideal. Con un simple clic, podrás localizar tus pertenencias desde tu smartphone. ¡La tranquilidad está a un toque de distancia!",
+          "Encuéntralo por menos de 30 dólares en el enlace de la descripción."
+        ],
+        "visuals": [
+          "Product image: Rastreador de Objetos con App"
+        ],
+        "duration": 25
+      },
+      {
+        "type": "content",
+        "title": "Lámpara Flotante de Levitación Magnética",
+        "content": [
+          "Transfórmate tu espacio con esta lámpara que desafía la gravedad. Su diseño flotante, gracias a la levitación magnética, no solo ilumina, sino que también es una pieza de arte que sorprenderá a cualquiera. Ideal para amantes del diseño y la tecnología.",
+          "Te dejo el enlace con descuento en la descripción."
+        ],
+        "visuals": [
+          "Product image: Lámpara Flotante de Levitación Magnética"
+        ],
+        "duration": 25
+      },
+      {
+        "type": "content",
+        "title": "Mini Impresora Fotográfica Inalámbrica",
+        "content": [
+          "Captura, imprime y comparte tus momentos especiales al instante con esta mini impresora fotográfica. Inalámbrica y portátil, lleva tus recuerdos a cualquier lugar en segundos. Perfecta para los amantes de la fotografía.",
+          "Revisa su precio actualizado en el primer comentario."
+        ],
+        "visuals": [
+          "Product image: Mini Impresora Fotográfica Inalámbrica"
+        ],
+        "duration": 25
+      },
+      {
+        "type": "content",
+        "title": "Teclado Láser Proyectable Portátil",
+        "content": [
+          "Lleva la experiencia de escritura a otro nivel con este teclado láser proyectable. Compacto y fácil de usar, convierte cualquier superficie en tu teclado personal, ideal para trabajo en movimiento y personas tecnológicas.",
+          "Revisa su precio actualizado en el primer comentario."
+        ],
+        "visuals": [
+          "Product image: Teclado Láser Proyectable Portátil"
+        ],
+        "duration": 25
+      }
+    ],
+    "totalDuration": 125
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "Gracias por acompañarnos en este recorrido por los gadgets más innovadores para una vida inteligente. No olvides darle like, suscribirte y dejarnos en los comentarios cuál fue tu favorito. ¡Hasta la próxima en MENTE FUTURA!"
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "2:35",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "imprescindibles",
+    "para",
+    "vida",
+    "inteligente",
+    "2023"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 5 Gadgets Imprescindibles para una Vida Inteligente en 2023",
+      "angle": "Top 5 Gadgets Imprescindibles para una Vida Inteligente en 2023",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "keywords": [
+        "gadgets",
+        "imprescindibles",
+        "para",
+        "vida",
+        "inteligente",
+        "2023"
+      ],
+      "estimatedViews": 5440,
+      "bestPublishTime": "2026-04-04T15:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        "Teclado Láser Proyectable Portátil",
+        "Mini Impresora Fotográfica Inalámbrica",
+        "Lámpara Flotante de Levitación Magnética",
+        "Rastreador de Objetos con App",
+        "Cargador Solar Plegable para Emergencias"
+      ],
+      "createdAt": "2026-03-28T18:29:09.305Z"
+    },
+    "generatedAt": "2026-03-28T18:29:59.464Z",
+    "version": "2.0-listicle",
+    "productos": [
+      "Teclado Láser Proyectable Portátil",
+      "Mini Impresora Fotográfica Inalámbrica",
+      "Lámpara Flotante de Levitación Magnética",
+      "Rastreador de Objetos con App",
+      "Cargador Solar Plegable para Emergencias"
+    ]
+  },
+  "fullScript": "TITLE: Top 5 Gadgets Imprescindibles para una Vida Inteligente en 2023\n\n══════════════════════════════════════════════════\n\n[0:00-0:05] HOOK\n¿Listo para transformar tu vida con tecnología futurista? ¡No te pierdas estos gadgets esenciales para 2023!\n\n[0:05-0:15] INTRODUCTION\nBienvenidos a MENTE FUTURA, donde exploramos lo último en innovación tecnológica. Hoy te traemos el top 5 de gadgets que no pueden faltar en tu vida diaria este 2023. Desde cargadores solares hasta teclados proyectables, estos productos prometen hacer tu día a día más inteligente y eficiente.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] CARGADOR SOLAR PLEGABLE PARA EMERGENCIAS\nImagina poder cargar tus dispositivos en cualquier lugar con solo un poco de sol. Este cargador solar plegable es compacto y perfecto para situaciones de emergencia o aventuras al aire libre. Adiós a la ansiedad por batería baja y hola a la energía renovable.\nRevisa su precio actualizado en el primer comentario.\n\n[VISUALS: Product image: Cargador Solar Plegable para Emergencias]\n\n[0:25] RASTREADOR DE OBJETOS CON APP\n¿Cansado de perder tus llaves o cartera? Este rastreador de objetos con app es tu solución ideal. Con un simple clic, podrás localizar tus pertenencias desde tu smartphone. ¡La tranquilidad está a un toque de distancia!\nEncuéntralo por menos de 30 dólares en el enlace de la descripción.\n\n[VISUALS: Product image: Rastreador de Objetos con App]\n\n[0:25] LÁMPARA FLOTANTE DE LEVITACIÓN MAGNÉTICA\nTransfórmate tu espacio con esta lámpara que desafía la gravedad. Su diseño flotante, gracias a la levitación magnética, no solo ilumina, sino que también es una pieza de arte que sorprenderá a cualquiera. Ideal para amantes del diseño y la tecnología.\nTe dejo el enlace con descuento en la descripción.\n\n[VISUALS: Product image: Lámpara Flotante de Levitación Magnética]\n\n[0:25] MINI IMPRESORA FOTOGRÁFICA INALÁMBRICA\nCaptura, imprime y comparte tus momentos especiales al instante con esta mini impresora fotográfica. Inalámbrica y portátil, lleva tus recuerdos a cualquier lugar en segundos. Perfecta para los amantes de la fotografía.\nRevisa su precio actualizado en el primer comentario.\n\n[VISUALS: Product image: Mini Impresora Fotográfica Inalámbrica]\n\n[0:25] TECLADO LÁSER PROYECTABLE PORTÁTIL\nLleva la experiencia de escritura a otro nivel con este teclado láser proyectable. Compacto y fácil de usar, convierte cualquier superficie en tu teclado personal, ideal para trabajo en movimiento y personas tecnológicas.\nRevisa su precio actualizado en el primer comentario.\n\n[VISUALS: Product image: Teclado Láser Proyectable Portátil]\n\n[10 seconds] CONCLUSION\nGracias por acompañarnos en este recorrido por los gadgets más innovadores para una vida inteligente. No olvides darle like, suscribirte y dejarnos en los comentarios cuál fue tu favorito. ¡Hasta la próxima en MENTE FUTURA!\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 2:35\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, imprescindibles, para, vida, inteligente, 2023\n"
+}

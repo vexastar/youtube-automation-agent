@@ -1,0 +1,136 @@
+{
+  "title": "Top 1 Gadget Increíble para el Césped de Tu Casa",
+  "hook": {
+    "type": "statement",
+    "text": "Seleccioné los mejores productos capaces de hacer tu día a día más cómodo y organizado. Estos increíbles inventos para mejorar tu jardín probablemente querrás tener desde el momento en que los veas. Todos los enlaces están en el primer comentario. ¡Aquí vamos!",
+    "duration": "0:00-0:15"
+  },
+  "introduction": {
+    "greeting": "",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0s"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "GARDENA 15201",
+        "productId": "B09595K4T8",
+        "productName": "GARDENA 15201",
+        "filename": "B09595K4T8.mp4",
+        "asin": "B09595K4T8",
+        "videoDuration": 104.626767,
+        "estimatedAudioSeconds": 25,
+        "framework": "beneficio_oculto",
+        "narracionSegments": null,
+        "content": [
+          "Sorprendentemente inteligente. Excepcionalmente preciso. Increíblemente silencioso. GARDENA SILENO Minimo corta jardines de hasta dos mil setecientos pies cuadrados sin rayas, gracias a su Bluetooth para un fácil control. Navega hábilmente por espacios estrechos y opera con un nivel de ruido mínimo.",
+          "Lo encuentras en Amazon por quinientos veintiocho dólares, perfecto para despreocuparte del césped. Descubre el enlace en los comentarios ya."
+        ],
+        "visuals": [
+          "Product image: GARDENA 15201"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B09595K4T8.mp4",
+        "precio": "$528",
+        "productPhoto": "https://m.media-amazon.com/images/I/71T+2Vga6AL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "Cortacésped robótico altamente inteligente: GARDENA SILENO Minimo corta automáticamente jardines de hasta 2700 sq ft sin rayas, con fácil conectividad a través de Bluetooth EasyApp Control, Auto-Schedule y EasyConfig.",
+          "Navegación precisa y silenciosa: Relájate en tu patio trasero mientras SILENO Minimo navega hábilmente por espacios estrechos y rincones ajustados mientras corta tu césped con uno de los niveles de ruido más silenciosos de su clase, 57 dbA.",
+          "Seguro y confiable: El cable perimetral asegura que el Cortacésped Robótico solo corte las áreas especificadas, mientras que los sensores de colisión garantizan que el cortacésped funcione de manera segura sin accidentes ni daños a tu jardín.",
+          "Todo clima y terreno: SILENO sigue cortando ya sea llueva o brille y corta todas las formas de césped dentro de los límites del cable perimetral, desde simples hasta complejas, incluyendo pendientes de hasta un 35 por ciento de gradiente (19°)",
+          "Artículos entregados: 1x GARDENA SILENO Minimo Cortacésped Robótico con base, estación de carga, cable de baja tensión, unidad de alimentación, regla, conectores, acopladores, cable de lazo, estacas y manual del operador."
+        ],
+        "originalVideoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B09595K4T8.mp4"
+      }
+    ],
+    "totalDuration": 40
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "¿Cuál fue tu favorito? ¡Déjanos un like! Recuerda, los enlaces están en el primer comentario."
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "",
+    "like": "",
+    "comment": "",
+    "nextVideo": "",
+    "duration": "0 seconds"
+  },
+  "duration": "1:10",
+  "tone": "engaging",
+  "tone_variant": "conversacional y cercano, como si le contaras a un amigo algo increíble que descubriste",
+  "pacing": "quick",
+  "keywords": [
+    "gadget",
+    "increble",
+    "para",
+    "csped",
+    "casa"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 1 Gadget Increíble para el Césped de Tu Casa",
+      "angle": "Top 1 Gadget Increíble para el Césped de Tu Casa",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 1,
+      "introScript": "Imagina cortar el césped de tu jardín mientras disfrutas de una bebida fría, sin mover un solo dedo. Suena imposible, pero este gadget de última generación lo hace realidad. Con un diseño inteligente que mapea tu jardín y sensores que evitan obstáculos, es el asistente perfecto para aquellos que desean un césped impecable sin esfuerzo. Además, su funcionamiento silencioso y eficiencia energética lo hacen una opción ecológica. Descubre cómo este dispositivo revolucionará el mantenimiento de tu césped.",
+      "keywords": [
+        "gadget",
+        "increble",
+        "para",
+        "csped",
+        "casa"
+      ],
+      "estimatedViews": 4931,
+      "bestPublishTime": "2026-09-29T19:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "GARDENA 15201",
+          "searchTermEn": "Gardena Sileno Minimo lawnmower",
+          "id": "B09595K4T8",
+          "filename": "B09595K4T8.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-09-28T18:18:09.156Z",
+      "_requestedCount": 1,
+      "_adaptedCount": 1,
+      "introProductsOrder": [
+        {
+          "nombre": "GARDENA 15201",
+          "id": "B09595K4T8",
+          "filename": "B09595K4T8.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B09595K4T8.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1790619578979_t7uzb9"
+    },
+    "generatedAt": "2026-09-28T18:19:50.275Z",
+    "version": "4.0-dynamic-rotator",
+    "productos": [
+      {
+        "nombre": "GARDENA 15201",
+        "searchTermEn": "Gardena Sileno Minimo lawnmower",
+        "id": "B09595K4T8",
+        "filename": "B09595K4T8.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 1 Gadget Increíble para el Césped de Tu Casa\n\n══════════════════════════════════════════════════\n\n[0:00-0:15] HOOK\nSeleccioné los mejores productos capaces de hacer tu día a día más cómodo y organizado. Estos increíbles inventos para mejorar tu jardín probablemente querrás tener desde el momento en que los veas. Todos los enlaces están en el primer comentario. ¡Aquí vamos!\n\n[0s] INTRODUCTION\n\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] GARDENA 15201\nSorprendentemente inteligente. Excepcionalmente preciso. Increíblemente silencioso. GARDENA SILENO Minimo corta jardines de hasta dos mil setecientos pies cuadrados sin rayas, gracias a su Bluetooth para un fácil control. Navega hábilmente por espacios estrechos y opera con un nivel de ruido mínimo.\nLo encuentras en Amazon por quinientos veintiocho dólares, perfecto para despreocuparte del césped. Descubre el enlace en los comentarios ya.\n\n[VISUALS: Product image: GARDENA 15201]\n\n[10 seconds] CONCLUSION\n¿Cuál fue tu favorito? ¡Déjanos un like! Recuerda, los enlaces están en el primer comentario.\n\n\n\n[0 seconds] CALL TO ACTION\n\n\n\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:10\nTONE: engaging\nPACING: quick\nKEYWORDS: gadget, increble, para, csped, casa\n"
+}

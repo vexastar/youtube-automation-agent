@@ -1,0 +1,466 @@
+{
+  "title": "Top 7 Gadgets Increíbles para tu Bicicleta en Amazon",
+  "hook": {
+    "type": "statement",
+    "text": "",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "25s-35s"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Smar Halo 2",
+        "productId": "B0CMTR14RW",
+        "productName": "Smar Halo 2",
+        "filename": "B0CMTR14RW.mp4",
+        "asin": "B0CMTR14RW",
+        "videoDuration": 60.06006,
+        "estimatedAudioSeconds": 32,
+        "framework": "problema_solucion",
+        "narracionSegments": null,
+        "content": [
+          "¿Pierdes tu camino en la bici? Smar Halo 2 es el navegante futurista que guía tu ruta con luz LED y notificaciones inteligentes. Coloca Smar Halo 2 en el manillar. Conecta a tu smartphone. Observa cómo las luces indican giros y distancia restante mientras pedaleas. Toca para ver alertas de llamadas y mensajes. La pantalla siempre visible mantiene tus ojos en el camino, por fin sentirás libertad al pedalear sin distracciones!",
+          "Su precio actual ronda los... 99 dólares. ¡Link ya!"
+        ],
+        "visuals": [
+          "Product image: Smar Halo 2"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0CMTR14RW_combined.mp4",
+        "precio": "$99",
+        "productPhoto": "https://m.media-amazon.com/images/I/612AdByRUBL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": []
+      },
+      {
+        "type": "content",
+        "title": "Lumos Ultra Casco",
+        "productId": "B0CNPQKVC9",
+        "productName": "Lumos Ultra Casco",
+        "filename": "B0CNPQKVC9.mp4",
+        "asin": "B0CNPQKVC9",
+        "videoDuration": 59.926533,
+        "estimatedAudioSeconds": 21,
+        "framework": "enfoque_caracteristica",
+        "narracionSegments": null,
+        "content": [
+          "{\n  \"narracion\": \"¿Vulnerable en la carretera? Lumos Ultra Casco revoluciona tu seguridad en bicicleta con señalización LED controlada desde el manillar. Con su avanzado Sistema de Protección MIPS, asegura una defensa rotacional superior. Enciende las luces, personaliza patrones y actualiza tu exper",
+          "Su precio actual ronda los... 160 dólares. ¡Link ya!"
+        ],
+        "visuals": [
+          "Product image: Lumos Ultra Casco"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0CNPQKVC9_combined.mp4",
+        "precio": "$160",
+        "productPhoto": "https://m.media-amazon.com/images/I/71Kw7j3yr+L.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0CNPQKVC9.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "casco inteligente",
+            "raw": "9|casco inteligente"
+          }
+        ],
+        "features": [
+          "Eleva tu experiencia en ciclismo: Lumos Ultra E-Bike es un casco inteligente diseñado para priorizar la seguridad, la tecnología y el estilo en tus aventuras de ciclismo en carretera y e-biking.",
+          "Mantente visible y comunica sin esfuerzo: El casco cuenta con señales de giro para bicicleta integradas, controladas por un control remoto montado en el manillar, para una mayor seguridad y una experiencia de comunicación fluida. Personaliza los patrones de LED, el brillo y el seguimiento de tu recorrido utilizando la aplicación Lumos.",
+          "Seguridad avanzada con MIPS: El casco viene con el Sistema de Protección contra Impactos Multidireccionales (MIPS) para una seguridad avanzada que ayuda a absorber la fuerza de impacto rotacional durante tus paseos y desplazamientos. También cumple con el Estándar de Seguridad CPSC de EE. UU. para Cascos de Bicicleta para Personas de 5 Años en Adelante.",
+          "Regalo perfecto para los entusiastas del ciclismo: La Lumos Ultra E-Bike es un regalo considerado y práctico para los ciclistas apasionados que valoran la tecnología, la seguridad y el diseño en su equipo de ciclismo.",
+          "Ajuste cómodo y versátil: El casco se adapta a varios tamaños de cabeza, desde 21-1/4\" hasta 24\" (54cm a 61cm), asegurando un ajuste ceñido y cómodo para tus aventuras de commuting, ciclismo de carretera o e-biking."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Garmin Edge Exploration",
+        "productId": "B0B276QYNM",
+        "productName": "Garmin Edge Exploration",
+        "filename": "B0B276QYNM.mp4",
+        "asin": "B0B276QYNM",
+        "videoDuration": 59.9599,
+        "estimatedAudioSeconds": 30,
+        "framework": "beneficio_oculto",
+        "narracionSegments": null,
+        "content": [
+          "¿Listo para transformar tu experiencia en bicicleta? Garmin Edge Exploration combina mapas detallados con pantalla táctil de 3” de alta resolución, visible al sol. Compatible con guantes y resistente a la lluvia, te guía como un local sin complicaciones. Ve desde carreteras populares hasta rutas ocultas para eBikes. Enciende, selecciona el perfil precargado y pedalea seguro mientras ves el tráfico y optimizas tus decisiones.",
+          "Su precio actual ronda los... 289 dólares. ¡Link ya!"
+        ],
+        "visuals": [
+          "Product image: Garmin Edge Exploration"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0B276QYNM_combined.mp4",
+        "precio": "$289",
+        "productPhoto": "https://m.media-amazon.com/images/I/51c5lRR+ZpL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0B276QYNM.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "pantalla encendida",
+            "raw": "9|pantalla encendida"
+          }
+        ],
+        "features": [
+          "Computadora de ciclismo GPS fácil de usar con pantalla táctil de 3” de alta resolución, compatible con guantes y resistente a la lluvia, que es visible incluso a la luz solar directa.",
+          "Configuración simple completa con perfiles de actividad precargados para carretera, fuera de carretera e interiores que están listos para usar directamente desde la caja.",
+          "\"Conduce como un local, sea cual sea tu tipo de bicicleta, con mapas mejorados específicos para cada tipo de conducción que destacan carreteras y senderos populares, POIs buscables e incluso rutas para eBike.\"",
+          "\"Ve las carreteras de alto tráfico directamente en el mapa para ayudarte a estar consciente mientras conduces y tomar decisiones informadas sobre tu ruta.\"",
+          "Cuando esté conectado a tu eBike compatible, recibe orientación de navegación y alertas basadas en el estado de la batería de tu bicicleta, el nivel de asistencia y la autonomía."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Knog Oi Campana",
+        "productId": "B07LCD3F56",
+        "productName": "Knog Oi Campana",
+        "filename": "B07LCD3F56.mp4",
+        "asin": "B07LCD3F56",
+        "videoDuration": 60.06006,
+        "estimatedAudioSeconds": 24,
+        "framework": "comparacion_precio",
+        "narracionSegments": null,
+        "content": [
+          "{\n  \"narracion\": \"¿Buscas un timbre que realmente funcione? El Knog Oi Campana revoluciona la manera de alertar en el camino con su Diseño Icónico Envolvente, integrándose al manillar con elegancia. Su Tono de Llamada Ruidoso pero Amigable de 80dB penetra hasta el ruido más denso. Enfoca y retira tu",
+          "Su precio actual ronda los... 33 dólares. ¡Link ya!"
+        ],
+        "visuals": [
+          "Product image: Knog Oi Campana"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07LCD3F56_combined.mp4",
+        "precio": "$33",
+        "productPhoto": "https://m.media-amazon.com/images/I/51xhua-+6LL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "Diseño icónico envolvente: forma compacta y elegante, de bajo perfil que se envuelve sin problemas alrededor de tus manillares.",
+          "Tono de Llamada Ruidoso pero Amigable: Un timbre fuerte de 80dB que se destaca entre el ruido para captar la atención y alertar a los peatones y otros usuarios de la carretera.",
+          "Construido para durar: Cada componente ha sido diseñado y probado exhaustivamente para sonar verdadero miles de veces.",
+          "Tecnología Hammer de WAVETEK: Una innovación en ingeniería auditiva que ofrece golpes de timbre fuertes y consistentes.",
+          "Dos opciones de tamaño: Pequeño se adapta solo a manillares redondos de 22.2mm; Grande se adapta a manillares redondos de 25.4mm, 26mm y 31.8mm."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Rockbros Bolsa Impermeable",
+        "productId": "B0FBM3DM82",
+        "productName": "Rockbros Bolsa Impermeable",
+        "filename": "B0FBM3DM82.mp4",
+        "asin": "B0FBM3DM82",
+        "videoDuration": 59.9599,
+        "estimatedAudioSeconds": 35,
+        "framework": "dato_numerico",
+        "narracionSegments": null,
+        "content": [
+          "¿Sabías que una bolsa puede cambiar tu experiencia ciclista? La Rockbros Bolsa Impermeable utiliza tela compuesta 600D TPU y cremalleras para evitar daños por lluvia. Enfúndala en el tubo superior de tu bicicleta sin esfuerzo gracias a su botón innovador. Tira para soltar, envuelve y presiona para ajustar. Verás cómo permanece fija mientras montas. Sorprendentemente ligera, con un espacio interior práctico de 1L, ¡lleva todo lo esencial contigo! Su precio actual ronda los 38 dólares. ¡Link ya!",
+          "Su precio actual ronda los 38 dólares. ¡Link ya!"
+        ],
+        "visuals": [
+          "Product image: Rockbros Bolsa Impermeable"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0FBM3DM82_combined.mp4",
+        "precio": "$38",
+        "productPhoto": "https://m.media-amazon.com/images/I/71tvQ7m+eLL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0FBM3DM82.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Interacción clara",
+            "raw": "9|Interacción clara"
+          }
+        ],
+        "features": [
+          "Fácil de instalar: La bolsa para el tubo superior ROCKBROS adopta un método de instalación innovador desarrollado por ellos mismos, equipado con un botón resistente y duradero y una cuerda de alta resistencia. Simplemente tira para soltar, envuelve y presiona para apretar, logrando una fijación rápida, segura y firme sin holgura. Se adapta a la mayoría de los tipos de bicicletas, incluyendo bicicletas de carretera y bicicletas de montaña, pero no es adecuada para bicicletas plegables.",
+          "Protección Impermeable: Esta bolsa para el tubo superior de la bicicleta combina tela compuesta 600D TPU y moldeo por compresión sin costuras con cremalleras impermeables, lo que la convierte en una bolsa de almacenamiento para bicicleta ideal para cualquier clima. El diseño impermeable defiende contra la lluvia y las salpicaduras. Mientras que el refuerzo de lámina PP en cuatro lados asegura que la bolsa para el marco de la bicicleta se mantenga rígida y estructurada, sin colapsar, protegiendo efectivamente los objetos de daños por colisión.",
+          "Cómodo y portátil: el diseño aerodinámico de cuerpo estrecho de 2.36in y el diseño de espacio razonable de esta bolsa de marco para el tubo superior de la bicicleta te permiten montar de manera más suave y cómoda. Durante la conducción, tus rodillas no tocan fácilmente la bolsa. También es ligera y fácil de llevar, por lo que puedes quitarla de la bicicleta.",
+          "Capacidad Práctica: Con dimensiones de 8.85*2.75*2.36 pulgadas y 0.22lb, el compartimento principal de 1L sostiene fácilmente bombas de bicicleta portátiles, botellas de agua pequeñas y llaves, etc. Adecuado para el transporte diario y viajes de larga distancia. Esta bolsa para el tubo superior satisface perfectamente tus necesidades de ciclismo.",
+          "Diseño Humanizado: El logo de la bolsa para el tubo superior de la bicicleta está incrustado con una tira reflectante de alto brillo, lo que mejora el reconocimiento durante la conducción nocturna y aumenta la seguridad al montar de noche. Ventana transparente en el costado de la bolsa para una identificación rápida y una búsqueda fácil y rápida de los objetos."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "NiteRider Lumina 1000",
+        "productId": "B07DG9MXFN",
+        "productName": "NiteRider Lumina 1000",
+        "filename": "B07DG9MXFN.mp4",
+        "asin": "B07DG9MXFN",
+        "videoDuration": 59.926533,
+        "estimatedAudioSeconds": 23,
+        "framework": "experiencia_sensorial",
+        "narracionSegments": null,
+        "content": [
+          "{\n  \"narracion\": \"¿Listo para iluminar tu camino como nunca antes? NiteRider Lumina 1000 te ofrece una experiencia sensorial completa. 1000 lúmenes con modo Boost te aseguran máxima visibilidad. Es una tecnología que transforma la noche en día. Enchufa a través de USB, presiona dos veces y experimen",
+          "Su precio actual ronda los... 59 dólares. ¡Link ya!"
+        ],
+        "visuals": [
+          "Product image: NiteRider Lumina 1000"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07DG9MXFN_combined.mp4",
+        "precio": "$59",
+        "productPhoto": "https://m.media-amazon.com/images/I/61f8h22K7AL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07DG9MXFN.mp4",
+            "type": "video",
+            "score": 10,
+            "tag": "interacción real",
+            "raw": "10|interacción real"
+          }
+        ],
+        "features": [
+          "\"\"\"1000 LUMENS CON MODO BOOST – Doble toque en el botón de encendido para activar la salida completa de 1000 lúmenes para máxima visibilidad en senderos y carreteras. Lente colimadora diseñada a medida que ofrece un patrón de haz amplio y uniforme con una fuerte cobertura periférica.\"\"\"",
+          "MONTURA SEGURA PARA CARRETERA Y OFF-ROAD – Montura de manillar sólida como una roca que se adapta a barras estándar y sobredimensionadas de hasta 35mm. Diseñada para ciclismo de montaña, ciclismo en carretera, desplazamientos y paseos de aventura. Compatible con montura para casco (se vende por separado).",
+          "\"\"\"USB RECARGABLE CON INTELLICHARGE – Se carga en tan solo 3 horas con adaptadores de mayor amperaje. 6 modos de luz con tiempos de funcionamiento de 1 hora (Boost) hasta 26 horas (modo Walk). El indicador de batería baja te mantiene informado.\"\"\"",
+          "CONSTRUCCIÓN CLASIFICADA IP64 – Cuerpo de nylon reforzado con fibra de vidrio de alta resistencia con disipador de calor de aluminio integrado para un enfriamiento eficiente y durabilidad a largo plazo en condiciones de lluvia, polvo y conducción en terrenos difíciles.",
+          "MODO DE BLOQUEO + FL1 PROBADO – Previene la activación accidental en almacenamiento. Probado de forma independiente según los estándares FL1 para verificar la salida de lúmenes, la precisión del tiempo de funcionamiento y la resistencia al agua."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Tile Sticker",
+        "productId": "B0D637313T",
+        "productName": "Tile Sticker",
+        "filename": "B0D637313T.mp4",
+        "asin": "B0D637313T",
+        "videoDuration": 59.9599,
+        "estimatedAudioSeconds": 33,
+        "framework": "problema_solucion",
+        "narracionSegments": null,
+        "content": [
+          "¿Perdiendo cosas constantemente? Tile Sticker es tu solución futurista: un rastreador adhesivo que protege tus objetos y optimiza tu vida. Encuentra tus pertenencias fácilmente con su app gratuita. Pega el Tile en controles remotos o bicicletas para no volver a buscarlos. Activa una alerta SOS discreta para la seguridad de tus seres queridos. Usa esta herramienta para sonar tu teléfono escondido, incluso en silencio. Conéctalo a Life360 para un mapa familiar completo.",
+          "Su precio actual ronda los 24 dólares. ¡Link ya!"
+        ],
+        "visuals": [
+          "Product image: Tile Sticker"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0D637313T_combined.mp4",
+        "precio": "$24",
+        "productPhoto": "https://m.media-amazon.com/images/I/91brgCvt0aL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "EL PEQUEÑO RASTREADOR ADHESIVO: Protege objetos perdidos o robados y facilita la vida familiar. Pégalo a controles remotos, bicicletas y más para encontrarlos fácilmente.",
+          "MANTENTE SEGURO CON SOS: Activa de manera discreta una alerta SOS para tus seres queridos en situaciones peligrosas.",
+          "ENCUENTRA TUS COSAS: Llama a tu Tile extraviado o localízalo en la app gratuita.",
+          "ENCUENTRA TU TELÉFONO: ¿Teléfono escondido bajo un cojín? Usa tu Tile para hacerlo sonar, incluso cuando está en silencio.",
+          "USAR CON LIFE360: Agrega tus Tiles a Life360, una de las mejores aplicaciones de conexión familiar y seguridad, para ver todo y a todos en el mismo mapa."
+        ]
+      }
+    ],
+    "totalDuration": 280
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      ""
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "5:10",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "increbles",
+    "para",
+    "bicicleta",
+    "amazon"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 7 Gadgets Increíbles para tu Bicicleta en Amazon",
+      "angle": "Top 7 Gadgets Increíbles para tu Bicicleta en Amazon",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 7,
+      "introScript": "¿Un GPS que se esconde en tu manillar? ¿Luces que se adaptan a la velocidad de tu pedaleo? Hoy te mostramos siete gadgets para bicicletas que te harán sentir que estás viviendo en el futuro. Desde un candado inteligente que envía alertas a tu teléfono, hasta un casco plegable que cabe en tu mochila. Prepárate para descubrir cómo transformar tu experiencia de ciclismo con tecnología avanzada que ya está disponible para ti. No te lo querrás perder.",
+      "keywords": [
+        "gadgets",
+        "increbles",
+        "para",
+        "bicicleta",
+        "amazon"
+      ],
+      "estimatedViews": 5079,
+      "bestPublishTime": "2026-07-10T20:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Smar Halo 2",
+          "searchTermEn": "SmartHalo 2 bike device",
+          "id": "B0CMTR14RW",
+          "filename": "B0CMTR14RW.mp4"
+        },
+        {
+          "nombre": "Lumos Ultra Casco",
+          "searchTermEn": "Lumos Ultra smart helmet",
+          "id": "B0CNPQKVC9",
+          "filename": "B0CNPQKVC9.mp4"
+        },
+        {
+          "nombre": "Garmin Edge Exploration",
+          "searchTermEn": "Garmin Edge Explore GPS",
+          "id": "B0B276QYNM",
+          "filename": "B0B276QYNM.mp4"
+        },
+        {
+          "nombre": "Knog Oi Campana",
+          "searchTermEn": "Knog Oi bike bell",
+          "id": "B07LCD3F56",
+          "filename": "B07LCD3F56.mp4"
+        },
+        {
+          "nombre": "Rockbros Bolsa Impermeable",
+          "searchTermEn": "Rockbros waterproof bike bag",
+          "id": "B0FBM3DM82",
+          "filename": "B0FBM3DM82.mp4"
+        },
+        {
+          "nombre": "NiteRider Lumina 1000",
+          "searchTermEn": "NiteRider Lumina 1000 light",
+          "id": "B07DG9MXFN",
+          "filename": "B07DG9MXFN.mp4"
+        },
+        {
+          "nombre": "Tile Sticker",
+          "searchTermEn": "Tile Sticker bike tracker",
+          "id": "B0D637313T",
+          "filename": "B0D637313T.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-07-07T18:35:52.594Z",
+      "_requestedCount": 7,
+      "_adaptedCount": 7,
+      "introProductsOrder": [
+        {
+          "nombre": "Lumos Ultra Casco",
+          "id": "B0CNPQKVC9",
+          "filename": "B0CNPQKVC9_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0CNPQKVC9_combined.mp4"
+        },
+        {
+          "nombre": "Tile Sticker",
+          "id": "B0D637313T",
+          "filename": "B0D637313T_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0D637313T_combined.mp4"
+        },
+        {
+          "nombre": "Smar Halo 2",
+          "id": "B0CMTR14RW",
+          "filename": "B0CMTR14RW_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0CMTR14RW_combined.mp4"
+        },
+        {
+          "nombre": "Rockbros Bolsa Impermeable",
+          "id": "B0FBM3DM82",
+          "filename": "B0FBM3DM82_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0FBM3DM82_combined.mp4"
+        },
+        {
+          "nombre": "Garmin Edge Exploration",
+          "id": "B0B276QYNM",
+          "filename": "B0B276QYNM_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0B276QYNM_combined.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1783450236199_xx57yg"
+    },
+    "generatedAt": "2026-07-07T18:51:09.567Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Smar Halo 2",
+        "searchTermEn": "SmartHalo 2 bike device",
+        "id": "B0CMTR14RW",
+        "filename": "B0CMTR14RW.mp4"
+      },
+      {
+        "nombre": "Lumos Ultra Casco",
+        "searchTermEn": "Lumos Ultra smart helmet",
+        "id": "B0CNPQKVC9",
+        "filename": "B0CNPQKVC9.mp4"
+      },
+      {
+        "nombre": "Garmin Edge Exploration",
+        "searchTermEn": "Garmin Edge Explore GPS",
+        "id": "B0B276QYNM",
+        "filename": "B0B276QYNM.mp4"
+      },
+      {
+        "nombre": "Knog Oi Campana",
+        "searchTermEn": "Knog Oi bike bell",
+        "id": "B07LCD3F56",
+        "filename": "B07LCD3F56.mp4"
+      },
+      {
+        "nombre": "Rockbros Bolsa Impermeable",
+        "searchTermEn": "Rockbros waterproof bike bag",
+        "id": "B0FBM3DM82",
+        "filename": "B0FBM3DM82.mp4"
+      },
+      {
+        "nombre": "NiteRider Lumina 1000",
+        "searchTermEn": "NiteRider Lumina 1000 light",
+        "id": "B07DG9MXFN",
+        "filename": "B07DG9MXFN.mp4"
+      },
+      {
+        "nombre": "Tile Sticker",
+        "searchTermEn": "Tile Sticker bike tracker",
+        "id": "B0D637313T",
+        "filename": "B0D637313T.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 7 Gadgets Increíbles para tu Bicicleta en Amazon\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\n\n\n[25s-35s] INTRODUCTION\n\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] SMAR HALO 2\n¿Pierdes tu camino en la bici? Smar Halo 2 es el navegante futurista que guía tu ruta con luz LED y notificaciones inteligentes. Coloca Smar Halo 2 en el manillar. Conecta a tu smartphone. Observa cómo las luces indican giros y distancia restante mientras pedaleas. Toca para ver alertas de llamadas y mensajes. La pantalla siempre visible mantiene tus ojos en el camino, por fin sentirás libertad al pedalear sin distracciones!\nSu precio actual ronda los... 99 dólares. ¡Link ya!\n\n[VISUALS: Product image: Smar Halo 2]\n\n[0:25] LUMOS ULTRA CASCO\n{\n  \"narracion\": \"¿Vulnerable en la carretera? Lumos Ultra Casco revoluciona tu seguridad en bicicleta con señalización LED controlada desde el manillar. Con su avanzado Sistema de Protección MIPS, asegura una defensa rotacional superior. Enciende las luces, personaliza patrones y actualiza tu exper\nSu precio actual ronda los... 160 dólares. ¡Link ya!\n\n[VISUALS: Product image: Lumos Ultra Casco]\n\n[0:25] GARMIN EDGE EXPLORATION\n¿Listo para transformar tu experiencia en bicicleta? Garmin Edge Exploration combina mapas detallados con pantalla táctil de 3” de alta resolución, visible al sol. Compatible con guantes y resistente a la lluvia, te guía como un local sin complicaciones. Ve desde carreteras populares hasta rutas ocultas para eBikes. Enciende, selecciona el perfil precargado y pedalea seguro mientras ves el tráfico y optimizas tus decisiones.\nSu precio actual ronda los... 289 dólares. ¡Link ya!\n\n[VISUALS: Product image: Garmin Edge Exploration]\n\n[0:25] KNOG OI CAMPANA\n{\n  \"narracion\": \"¿Buscas un timbre que realmente funcione? El Knog Oi Campana revoluciona la manera de alertar en el camino con su Diseño Icónico Envolvente, integrándose al manillar con elegancia. Su Tono de Llamada Ruidoso pero Amigable de 80dB penetra hasta el ruido más denso. Enfoca y retira tu\nSu precio actual ronda los... 33 dólares. ¡Link ya!\n\n[VISUALS: Product image: Knog Oi Campana]\n\n[0:25] ROCKBROS BOLSA IMPERMEABLE\n¿Sabías que una bolsa puede cambiar tu experiencia ciclista? La Rockbros Bolsa Impermeable utiliza tela compuesta 600D TPU y cremalleras para evitar daños por lluvia. Enfúndala en el tubo superior de tu bicicleta sin esfuerzo gracias a su botón innovador. Tira para soltar, envuelve y presiona para ajustar. Verás cómo permanece fija mientras montas. Sorprendentemente ligera, con un espacio interior práctico de 1L, ¡lleva todo lo esencial contigo! Su precio actual ronda los 38 dólares. ¡Link ya!\nSu precio actual ronda los 38 dólares. ¡Link ya!\n\n[VISUALS: Product image: Rockbros Bolsa Impermeable]\n\n[0:25] NITERIDER LUMINA 1000\n{\n  \"narracion\": \"¿Listo para iluminar tu camino como nunca antes? NiteRider Lumina 1000 te ofrece una experiencia sensorial completa. 1000 lúmenes con modo Boost te aseguran máxima visibilidad. Es una tecnología que transforma la noche en día. Enchufa a través de USB, presiona dos veces y experimen\nSu precio actual ronda los... 59 dólares. ¡Link ya!\n\n[VISUALS: Product image: NiteRider Lumina 1000]\n\n[0:25] TILE STICKER\n¿Perdiendo cosas constantemente? Tile Sticker es tu solución futurista: un rastreador adhesivo que protege tus objetos y optimiza tu vida. Encuentra tus pertenencias fácilmente con su app gratuita. Pega el Tile en controles remotos o bicicletas para no volver a buscarlos. Activa una alerta SOS discreta para la seguridad de tus seres queridos. Usa esta herramienta para sonar tu teléfono escondido, incluso en silencio. Conéctalo a Life360 para un mapa familiar completo.\nSu precio actual ronda los 24 dólares. ¡Link ya!\n\n[VISUALS: Product image: Tile Sticker]\n\n[10 seconds] CONCLUSION\n\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 5:10\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, increbles, para, bicicleta, amazon\n"
+}

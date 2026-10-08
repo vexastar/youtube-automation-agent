@@ -1,0 +1,133 @@
+{
+  "title": "Top 1 Imprescindibles Gadgets para Tu Moto",
+  "hook": {
+    "type": "statement",
+    "text": "No compres nada en Amazon hasta ver esto. Desde un sorprendente casco de moto con trucos secretos hasta unos auriculares que te dejan con la boca abierta, cada producto en este conteo busca darte experiencias extraordinarias. Recuerda que los verdaderos links están en el primer comentario. Vamos.",
+    "duration": "0:00-0:15"
+  },
+  "introduction": {
+    "greeting": "",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0s"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Sena Momentum Lite Casco de Moto",
+        "productId": "B075MVG5ZC",
+        "productName": "Sena Momentum Lite Casco de Moto",
+        "filename": "B075MVG5ZC.mp4",
+        "asin": "B075MVG5ZC",
+        "videoDuration": 21.5895,
+        "estimatedAudioSeconds": 27,
+        "framework": "comparacion_precio",
+        "narracionSegments": null,
+        "content": [
+          "Protección total. Ventilación inteligente. Comodidad inigualable. Sena Momentum Lite ofrece una concha de fibra de vidrio compuesta y forro de EPS de multi densidad para seguridad superior. Disfruta del aire fresco con sus aberturas en la parte superior y en la barbilla. Conduce con confianza mientras experimentas el máximo confort.",
+          "Por solo ochenta y nueve dólares en Amazon, es una oferta irresistible. Descubre más en los comentarios."
+        ],
+        "visuals": [
+          "Product image: Sena Momentum Lite Casco de Moto"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B075MVG5ZC.mp4",
+        "precio": "$89",
+        "productPhoto": "https://m.media-amazon.com/images/I/51OFwDHrubL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "\"\"\"Concha de fibra de vidrio compuesta\"\"\"",
+          "Forro de EPS de multi densidad",
+          "Aberturas en la parte superior y en la barbilla"
+        ],
+        "originalVideoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B075MVG5ZC.mp4"
+      }
+    ],
+    "totalDuration": 40
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "Gracias por llegar hasta aquí. El próximo top será aún más loco. Recuerda los links en el primer comentario."
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "",
+    "like": "",
+    "comment": "",
+    "nextVideo": "",
+    "duration": "0 seconds"
+  },
+  "duration": "1:10",
+  "tone": "engaging",
+  "tone_variant": "analítico y preciso, como un ingeniero que explica por qué esto es superior",
+  "pacing": "quick",
+  "keywords": [
+    "imprescindibles",
+    "gadgets",
+    "para",
+    "moto"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 1 Imprescindibles Gadgets para Tu Moto",
+      "angle": "Top 2 Imprescindibles Gadgets para Tu Moto",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 1,
+      "introScript": "¿Alguna vez has deseado que tu moto pueda recibir un upgrade que la haga más segura y tecnológicamente avanzada? Hoy vamos a explorar dos gadgets revolucionarios que están sacudiendo el mundo del motociclismo. El primero, un estilizado dispositivo que promete proteger tu moto de robos como un verdadero guardián nocturno. El segundo, un innovador casco que incorpora funciones de conectividad y música de forma sorprendente. No te muevas, porque estos dos inventos podrían transformar tu experiencia sobre las dos ruedas.",
+      "keywords": [
+        "imprescindibles",
+        "gadgets",
+        "para",
+        "moto"
+      ],
+      "estimatedViews": 5908,
+      "bestPublishTime": "2026-09-25T18:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Sena Momentum Lite Casco de Moto",
+          "searchTermEn": "Sena Momentum Smart Helmets",
+          "id": "B075MVG5ZC",
+          "filename": "B075MVG5ZC.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-09-24T19:13:34.701Z",
+      "_requestedCount": 2,
+      "_adaptedCount": 1,
+      "_adaptationNote": "ATENCIÓN: El usuario pidió 2 productos pero solo hay 1 clips de video disponibles. El guion, título y narrativa deben referirse EXCLUSIVAMENTE a 1 productos.",
+      "introProductsOrder": [
+        {
+          "nombre": "Sena Momentum Lite Casco de Moto",
+          "id": "B075MVG5ZC",
+          "filename": "B075MVG5ZC.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B075MVG5ZC.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1790277363828_1ryugq"
+    },
+    "generatedAt": "2026-09-24T19:16:11.806Z",
+    "version": "4.0-dynamic-rotator",
+    "productos": [
+      {
+        "nombre": "Sena Momentum Lite Casco de Moto",
+        "searchTermEn": "Sena Momentum Smart Helmets",
+        "id": "B075MVG5ZC",
+        "filename": "B075MVG5ZC.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 1 Imprescindibles Gadgets para Tu Moto\n\n══════════════════════════════════════════════════\n\n[0:00-0:15] HOOK\nNo compres nada en Amazon hasta ver esto. Desde un sorprendente casco de moto con trucos secretos hasta unos auriculares que te dejan con la boca abierta, cada producto en este conteo busca darte experiencias extraordinarias. Recuerda que los verdaderos links están en el primer comentario. Vamos.\n\n[0s] INTRODUCTION\n\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] SENA MOMENTUM LITE CASCO DE MOTO\nProtección total. Ventilación inteligente. Comodidad inigualable. Sena Momentum Lite ofrece una concha de fibra de vidrio compuesta y forro de EPS de multi densidad para seguridad superior. Disfruta del aire fresco con sus aberturas en la parte superior y en la barbilla. Conduce con confianza mientras experimentas el máximo confort.\nPor solo ochenta y nueve dólares en Amazon, es una oferta irresistible. Descubre más en los comentarios.\n\n[VISUALS: Product image: Sena Momentum Lite Casco de Moto]\n\n[10 seconds] CONCLUSION\nGracias por llegar hasta aquí. El próximo top será aún más loco. Recuerda los links en el primer comentario.\n\n\n\n[0 seconds] CALL TO ACTION\n\n\n\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:10\nTONE: engaging\nPACING: quick\nKEYWORDS: imprescindibles, gadgets, para, moto\n"
+}

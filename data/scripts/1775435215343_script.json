@@ -1,0 +1,139 @@
+{
+  "title": "Top 3 Gadgets Asombrosos para Jardinería",
+  "hook": {
+    "type": "statement",
+    "text": "¿Te gustaría revolucionar la forma en que cuidas tu jardín con tecnología de punta?",
+    "duration": "0:00-0:05"
+  },
+  "introduction": {
+    "greeting": "Hoy te presentamos tres gadgets que transformarán tu experiencia de jardinería. Estos dispositivos no solo facilitan el trabajo, sino que también te sorprenderán con sus funciones únicas. ¡Vamos a descubrirlos!",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0:05-0:15"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Sensor de humedad inteligente",
+        "content": [
+          "¿Te imaginas un gadget que te diga exactamente cuándo tus plantas necesitan agua? El Sensor de humedad inteligente hace justo eso, asegurando que tus plantas siempre estén bien hidratadas con precisión milimétrica.",
+          "Está disponible por 43.99 dólares en Amazon, ¡echa un vistazo al enlace en la descripción!"
+        ],
+        "visuals": [
+          "Product image: Sensor de humedad inteligente"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0DQLDBXWF.mp4",
+        "precio": "43.99"
+      },
+      {
+        "type": "content",
+        "title": "Tijeras eléctricas de poda",
+        "content": [
+          "¿Alguna vez pensaste en podar tus plantas sin esfuerzo y con total precisión? Las Tijeras eléctricas de poda te permiten cortar ramas con la facilidad de pulsar un botón, ahorrándote tiempo y energía.",
+          "Puedes conseguirlas por 47.45 dólares en Amazon, no te lo pierdas en la descripción."
+        ],
+        "visuals": [
+          "Product image: Tijeras eléctricas de poda"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0F93Z74GP.mp4",
+        "precio": "47.45"
+      },
+      {
+        "type": "content",
+        "title": "Sistema de riego solar",
+        "content": [
+          "Imagina un sistema que riega tus plantas usando solo la energía del sol. El Sistema de riego solar no solo cuida el ambiente, sino que también mantiene tus plantas siempre verdes y saludables.",
+          "Lo encuentras por 35.99 dólares en Amazon, ¡consulta el enlace en la descripción!"
+        ],
+        "visuals": [
+          "Product image: Sistema de riego solar"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0BNVMVFG8.mp4",
+        "precio": "35.99"
+      }
+    ],
+    "totalDuration": 75
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "Esperamos que estos gadgets te hayan sorprendido tanto como a nosotros. No olvides darle like al video, suscribirte para más contenido increíble y cuéntanos en los comentarios cuál es tu favorito. ¡Hasta la próxima!"
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:45",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "asombrosos",
+    "para",
+    "jardinera"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 3 Gadgets Asombrosos para Jardinería",
+      "angle": "Top 3 Gadgets Asombrosos para Jardinería",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 3,
+      "introScript": "¿Un sensor que te avisa cuándo regar tus plantas? ¿O una herramienta que poda con solo apretar un botón? En este video, descubre los gadgets más innovadores que transformarán tu jardín en un paraíso tecnológico.",
+      "keywords": [
+        "gadgets",
+        "asombrosos",
+        "para",
+        "jardinera"
+      ],
+      "estimatedViews": 5762,
+      "bestPublishTime": "2026-04-11T15:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Sensor de humedad inteligente",
+          "searchTermEn": "smart moisture sensor"
+        },
+        {
+          "nombre": "Tijeras eléctricas de poda",
+          "searchTermEn": "electric pruning shears"
+        },
+        {
+          "nombre": "Sistema de riego solar",
+          "searchTermEn": "solar powered irrigation system"
+        }
+      ],
+      "createdAt": "2026-04-06T00:24:33.108Z"
+    },
+    "generatedAt": "2026-04-06T00:26:55.208Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Sensor de humedad inteligente",
+        "searchTermEn": "smart moisture sensor"
+      },
+      {
+        "nombre": "Tijeras eléctricas de poda",
+        "searchTermEn": "electric pruning shears"
+      },
+      {
+        "nombre": "Sistema de riego solar",
+        "searchTermEn": "solar powered irrigation system"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 3 Gadgets Asombrosos para Jardinería\n\n══════════════════════════════════════════════════\n\n[0:00-0:05] HOOK\n¿Te gustaría revolucionar la forma en que cuidas tu jardín con tecnología de punta?\n\n[0:05-0:15] INTRODUCTION\nHoy te presentamos tres gadgets que transformarán tu experiencia de jardinería. Estos dispositivos no solo facilitan el trabajo, sino que también te sorprenderán con sus funciones únicas. ¡Vamos a descubrirlos!\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] SENSOR DE HUMEDAD INTELIGENTE\n¿Te imaginas un gadget que te diga exactamente cuándo tus plantas necesitan agua? El Sensor de humedad inteligente hace justo eso, asegurando que tus plantas siempre estén bien hidratadas con precisión milimétrica.\nEstá disponible por 43.99 dólares en Amazon, ¡echa un vistazo al enlace en la descripción!\n\n[VISUALS: Product image: Sensor de humedad inteligente]\n\n[0:25] TIJERAS ELÉCTRICAS DE PODA\n¿Alguna vez pensaste en podar tus plantas sin esfuerzo y con total precisión? Las Tijeras eléctricas de poda te permiten cortar ramas con la facilidad de pulsar un botón, ahorrándote tiempo y energía.\nPuedes conseguirlas por 47.45 dólares en Amazon, no te lo pierdas en la descripción.\n\n[VISUALS: Product image: Tijeras eléctricas de poda]\n\n[0:25] SISTEMA DE RIEGO SOLAR\nImagina un sistema que riega tus plantas usando solo la energía del sol. El Sistema de riego solar no solo cuida el ambiente, sino que también mantiene tus plantas siempre verdes y saludables.\nLo encuentras por 35.99 dólares en Amazon, ¡consulta el enlace en la descripción!\n\n[VISUALS: Product image: Sistema de riego solar]\n\n[10 seconds] CONCLUSION\nEsperamos que estos gadgets te hayan sorprendido tanto como a nosotros. No olvides darle like al video, suscribirte para más contenido increíble y cuéntanos en los comentarios cuál es tu favorito. ¡Hasta la próxima!\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:45\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, asombrosos, para, jardinera\n"
+}

@@ -1,0 +1,134 @@
+{
+  "title": "Top 1 Gadget que Todo Ingeniero de Sistemas Necesita",
+  "hook": {
+    "type": "statement",
+    "text": "",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "25s-35s"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Anker Magnetic Wireless Charger",
+        "productId": "B0F8HXYD46",
+        "productName": "Anker Magnetic Wireless Charger",
+        "filename": "B0F8HXYD46.mp4",
+        "asin": "B0F8HXYD46",
+        "videoDuration": 63.164367,
+        "estimatedAudioSeconds": 34,
+        "framework": "problema_solucion",
+        "narracionSegments": null,
+        "content": [
+          "¿Frustrado por baterías pesadas que calientan tu teléfono? Presentamos el Anker Magnetic Wireless Charger. Ultrafino, con solo 0.3 pulgadas, ofrece carga inalámbrica de cinco mil mAh gracias a su compatibilidad Qi dos. Gira con facilidad alrededor de tu iPhone usando MagSafe. Siente la seguridad: no sobrecalienta; gracias a sus chips duales y control inteligente. Presiona para cargar hasta quince vatios inalámbricos. Experimenta carga rápida y segura. Ideal para llevar a diario sin preocupaciones.",
+          "Su precio actual ronda los veinte y seis dólares. Link en comentarios."
+        ],
+        "visuals": [
+          "Product image: Anker Magnetic Wireless Charger"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0F8HXYD46.mp4",
+        "precio": "$26",
+        "productPhoto": "https://m.media-amazon.com/images/I/61OUNkeNLXL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "Batería portátil magnética ultra delgada compatible con Qi2: Con solo 0.3 pulgadas de grosor, esta batería portátil ultra delgada soporta la certificación Qi2 y ofrece 5,000mAh de carga inalámbrica confiable, perfecta para llevar a diario y entre las baterías para iPhone de confianza disponibles.",
+          "\"\"\"Seguridad y Velocidad Mejoradas: Experimenta una carga rápida con mayor seguridad. Compatibilidad con Qi2 MagSafe, protección contra sobrecalentamiento y hasta 20W de salida máxima por USB-C.\"\"\"",
+          "\"\"\"Cargador compatible con MagSafe de 15W: Obtén hasta 15W como máximo de carga inalámbrica rápida certificada por Qi2, suficiente para cargar un iPhone 16 Pro al 25% en solo 42 minutos. (Nota: Datos basados en pruebas internas de laboratorio; el rendimiento real puede variar.)\"\"\"",
+          "104℉ para un manejo más seguro: Diseñado con enfriamiento de grafeno, chips NTC duales y control inteligente de temperatura, el dispositivo se mantiene por debajo de 104°F, 14 grados más fresco que el estándar de la industria para una carga más segura con protección de temperatura incorporada.",
+          "Lo que obtienes: Anker Nano Power Bank (5K, MagGo, Slim), cable de carga USB-C a USB-C, guía de bienvenida, garantía de 24 meses y nuestro amable servicio al cliente."
+        ]
+      }
+    ],
+    "totalDuration": 40
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      ""
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:10",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadget",
+    "todo",
+    "ingeniero",
+    "sistemas",
+    "necesita"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 1 Gadget que Todo Ingeniero de Sistemas Necesita",
+      "angle": "Top 1 Gadget que Todo Ingeniero de Sistemas Necesita",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 1,
+      "introScript": "Conoce el gadget definitivo que transformará tu manera de trabajar. Imagina un dispositivo que organiza tus cables sin esfuerzo, mantiene tu escritorio libre de desorden y mejora tu productividad al instante. Hoy te revelamos el secreto mejor guardado de los ingenieros de sistemas que te hará querer correr a tenerlo. ¿Qué pasaría si te dijera que existe un cargador wireless que se ajusta mágicamente a cualquier espacio de trabajo, asegurando una conexión impecable cada vez? Mantente atento porque este gadget es un must en la lista de cualquier profesional del mundo tech.",
+      "keywords": [
+        "gadget",
+        "todo",
+        "ingeniero",
+        "sistemas",
+        "necesita"
+      ],
+      "estimatedViews": 5488,
+      "bestPublishTime": "2026-08-02T15:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Anker Magnetic Wireless Charger",
+          "searchTermEn": "anker magnetic wireless charger",
+          "id": "B0F8HXYD46",
+          "filename": "B0F8HXYD46.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-07-28T20:07:38.621Z",
+      "_requestedCount": 1,
+      "_adaptedCount": 1,
+      "introProductsOrder": [
+        {
+          "nombre": "Anker Magnetic Wireless Charger",
+          "id": "B0F8HXYD46",
+          "filename": "B0F8HXYD46.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0F8HXYD46.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1785269362715_cg35fb"
+    },
+    "generatedAt": "2026-07-28T20:09:33.255Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Anker Magnetic Wireless Charger",
+        "searchTermEn": "anker magnetic wireless charger",
+        "id": "B0F8HXYD46",
+        "filename": "B0F8HXYD46.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 1 Gadget que Todo Ingeniero de Sistemas Necesita\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\n\n\n[25s-35s] INTRODUCTION\n\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] ANKER MAGNETIC WIRELESS CHARGER\n¿Frustrado por baterías pesadas que calientan tu teléfono? Presentamos el Anker Magnetic Wireless Charger. Ultrafino, con solo 0.3 pulgadas, ofrece carga inalámbrica de cinco mil mAh gracias a su compatibilidad Qi dos. Gira con facilidad alrededor de tu iPhone usando MagSafe. Siente la seguridad: no sobrecalienta; gracias a sus chips duales y control inteligente. Presiona para cargar hasta quince vatios inalámbricos. Experimenta carga rápida y segura. Ideal para llevar a diario sin preocupaciones.\nSu precio actual ronda los veinte y seis dólares. Link en comentarios.\n\n[VISUALS: Product image: Anker Magnetic Wireless Charger]\n\n[10 seconds] CONCLUSION\n\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:10\nTONE: engaging\nPACING: quick\nKEYWORDS: gadget, todo, ingeniero, sistemas, necesita\n"
+}

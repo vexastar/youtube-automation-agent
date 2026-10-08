@@ -1,0 +1,658 @@
+{
+  "title": "Top 10 Gadgets que Verás en Todas Partes",
+  "hook": {
+    "type": "statement",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "25s-35s"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Ember Temperature Control Mug",
+        "productId": "B0C3NC5HF8",
+        "productName": "Ember Temperature Control Mug",
+        "filename": "B0C3NC5HF8.mp4",
+        "asin": "B0C3NC5HF8",
+        "videoDuration": 59.926533,
+        "estimatedAudioSeconds": 31,
+        "framework": "comparacion_precio",
+        "narracionSegments": null,
+        "content": [
+          "¿Cansado de bebidas que se enfrían rápido? Ember Temperature Control Mug mantiene tu bebida caliente por hasta 3 horas con batería. Presiona el botón y ajusta la temperatura desde tu teléfono. Lleva tus mañanas al siguiente nivel con cada sorbo.",
+          "Su precio actual ronda los 120 dólares. ¡Link ya!"
+        ],
+        "visuals": [
+          "Product image: Ember Temperature Control Mug"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0C3NC5HF8_combined.mp4",
+        "precio": "$120",
+        "productPhoto": "https://m.media-amazon.com/images/I/61N2T2x6LML.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0C3NC5HF8.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "taza controlada",
+            "raw": "9|taza controlada"
+          }
+        ],
+        "features": [
+          "\"\"\"3 Horas de Duración de Batería: La duración extendida de la batería de nuestro Tumbler mantiene tu bebida a la temperatura que prefieras (entre 120°F - 145°F) durante hasta 3 horas con una carga completa o todo el día en su base de carga.\"\"\"",
+          "Más allá del aislamiento: Siente el calor de tu bebida a través de la duradera construcción de acero inoxidable del Ember Tumbler y su acabado texturizado de primera calidad. El Tumbler cuenta con todos los beneficios del aislamiento sin ninguno de los inconvenientes.",
+          "Listo para la aventura: el Tumbler viene con dos tapas y tiene una clasificación IPX7 para una inmersión completa bajo el agua de hasta 1 metro de profundidad, lo que facilita el lavado a mano, el enjuague o el remojo.",
+          "\"\"\"Temperatura Perfecta Cada Vez: Múltiples sensores en todo el Tumbler aseguran un control de temperatura preciso y detección del nivel de líquido. Ajusta la temperatura hasta el grado en la Ember App.\"\"\"",
+          "Nuestra taza más grande hasta ahora: Con 16 oz, esta es la taza de control de temperatura calefaccionada más grande que hemos lanzado hasta la fecha."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Anova Precision Cooker Nano",
+        "productId": "B07C7PW3PC",
+        "productName": "Anova Precision Cooker Nano",
+        "filename": "B07C7PW3PC.mp4",
+        "asin": "B07C7PW3PC",
+        "videoDuration": 59.926533,
+        "estimatedAudioSeconds": 30,
+        "framework": "dato_numerico",
+        "narracionSegments": null,
+        "content": [
+          "¿Quieres cocinar a la perfección cada vez? Anova Precision Cooker Nano circula agua a temperatura exacta para resultados perfectos. Fija el dispositivo en una olla con su pinza y controla todo desde la app de Anova.",
+          "Su precio actual ronda los 69 dólares. ¡Link ya!"
+        ],
+        "visuals": [
+          "Product image: Anova Precision Cooker Nano"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07C7PW3PC_combined.mp4",
+        "precio": "$69",
+        "productPhoto": "https://m.media-amazon.com/images/I/41JqTXQsYtL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07C7PW3PC.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "producto borroso",
+            "raw": "5|producto borroso"
+          }
+        ],
+        "features": [
+          "Resultados perfectos cada vez: Nunca más cocines tu comida en exceso o por debajo de lo necesario. El Anova Precision Cooker Nano circula agua a la temperatura exacta requerida para comidas perfectamente cocinadas, sin importar lo que haya en tu menú. Temperatura: 0˚-92˚C (32˚-197˚F) | +/- 0.1˚C (0.2˚F) de precisión.",
+          "¿Qué cocinar? La cocción sous vide (pronunciado “sue-veed”) ofrece el nivel perfecto de cocción para pollo, pescado, verduras, huevos, carne de res, cordero, cerdo y más. La capacidad de retener el sabor y la humedad durante el proceso de cocción resulta en una textura y un sabor que no tienen comparación.",
+          "Pequeño pero poderoso: El Anova Precision Cooker Nano de 12.8″ se guarda en cualquier cajón de cocina junto al batidor y la cuchara, así que tus encimeras se mantienen despejadas y tu nueva herramienta de cocina favorita está al alcance. El Nano se adhiere fácilmente a cualquier olla o recipiente con una pinza fija y está construido con plástico superduradero que es fácil de limpiar.",
+          "Anova App (gratis): Precision Cooker - Controla tu cocción directamente en la app o en el propio cooker.",
+          "Anova App (suscripción): Por $1.99 al mes o $9.99 al año (puedes cancelar la suscripción en cualquier momento), obtén acceso al contenido educativo y guías de cocina sous vide más completo. Recetas de chefs profesionales y de la comunidad de amantes de la comida se envían directamente a tu Precision Cooker con solo tocar un botón. Acceso continuo a tus recetas personales y al historial de cocción, listo para revisitar o compartir con tus amigos y familiares. Incluye una prueba gratuita de dos semanas."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Meater Plus Wireless Thermometer",
+        "productId": "B07H8WTFHW",
+        "productName": "Meater Plus Wireless Thermometer",
+        "filename": "B07H8WTFHW.mp4",
+        "asin": "B07H8WTFHW",
+        "videoDuration": 59.9599,
+        "estimatedAudioSeconds": 30,
+        "framework": "experiencia_sensorial",
+        "narracionSegments": null,
+        "content": [
+          "¿Buscando precisión al cocinar carne? Meater Plus Wireless Thermometer te ofrece monitoreo inalámbrico con total libertad. Inserta, activa y verifica en la app para carnes cocinadas al punto perfecto.",
+          "Su precio actual ronda los 100 dólares. ¡Link ya!"
+        ],
+        "visuals": [
+          "Product image: Meater Plus Wireless Thermometer"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07H8WTFHW_combined.mp4",
+        "precio": "$100",
+        "productPhoto": "https://m.media-amazon.com/images/I/61C9DAvebML.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07H8WTFHW.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          }
+        ],
+        "features": [
+          "Termómetro de Comida y Carne Truly Wireless: 100% libre de cables, el MEATER Plus te brinda completa flexibilidad y libertad en tu cocina. Monitorea todo, desde bistec y pollo hasta pavo y asados con precisión, todo guiado a través de la aplicación MEATER.",
+          "Libertad para cocinar en cualquier lugar: Con un repetidor Bluetooth integrado en el cargador, MEATER Plus extiende el rango inalámbrico, permitiéndote monitorear tu cocción desde prácticamente cualquier lugar de tu hogar. Obtén 2 horas de tiempo de cocción con solo 5 minutos de carga.",
+          "Precisión de Doble Sensor: Equipado con sensores de temperatura duales, monitorea tanto la temperatura interna de la carne (hasta 212°F) como la temperatura ambiente (hasta 527°F) simultáneamente para una cocción precisa.",
+          "Cocina con confianza: Con el MEATER Plus, obtén acceso a la aplicación MEATER y al Sistema de Cocción Guiada que proporciona instrucciones paso a paso, alertas en tiempo real y tiempos de finalización estimados, eliminando la incertidumbre de cocinar.",
+          "A prueba de lavavajillas: Cuando se trata de limpiar, MEATER Plus es apto para lavavajillas, así que simplemente colócalo y estará listo para tu próxima cocción."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "AeroGarden Harvest Indoor Garden",
+        "productId": "B0CTRTJBC3",
+        "productName": "AeroGarden Harvest Indoor Garden",
+        "filename": "B0CTRTJBC3.mp4",
+        "asin": "B0CTRTJBC3",
+        "videoDuration": 59.926533,
+        "estimatedAudioSeconds": null,
+        "framework": "problema_solucion",
+        "narracionSegments": null,
+        "content": [
+          "AeroGarden Harvest Indoor Garden es una solución completa que reúne lo mejor en innovación y funcionalidad. este producto destaca por sus características versátiles: eSTILO CÁLIDO Y ACOGEDOR: El suave acabado Cream del AeroGarden Harvest Lite aporta una sensación natural a tu cocina o cualquier habitación, añadiendo un toque de elegante modernidad y calidez a tu hogar.; sABOR FRESCO CULTIVADO EN CASA TODO EL AÑO: Cultiva hasta 6 de tus hierbas, verduras o flores favoritas (de hasta 12 pulgadas de altura) en interiores para un jardín que siempre está en temporada, sin importar dónde vivas, sin necesidad de sol ni tierra (kits de cápsulas de semillas se venden por separado).; jARDINERÍA HECHA FÁCIL: Una luz indicadora simple que te dice cuándo es el momento de añadir agua y alimento para plantas (vendido por separado), eliminando toda la incertidumbre en el cultivo, lo que la hace perfecta tanto para principiantes como para jardineros experimentados.; lUZ INTELIGENTE, MEJOR COSECHA: La luz de cultivo LED desmontable y eficiente en energía está ajustada para el crecimiento de las plantas y cuenta con un temporizador de encendido/apagado incorporado, proporcionando la cantidad perfecta de luz para un jardín interior próspero.; y \"\"\"SE AJUSTA HERMOSAMENTE EN CUALQUIER LUGAR: Con su diseño elegante y compacto, el AeroGarden Harvest Lite añade un toque de estilo verde fresco a cualquier habitación de tu hogar, oficina o dormitorio.\"\"\". Cada aspecto está diseñado para ofrecerte la mejor experiencia posible. Descubre por qué miles de usuarios confían en esta solución.",
+          "Su precio actual en Amazon ronda los... 93 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: AeroGarden Harvest Indoor Garden"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0CTRTJBC3_combined.mp4",
+        "precio": "$93",
+        "productPhoto": "https://m.media-amazon.com/images/I/71JctCtzLSL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0CTRTJBC3.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "AeroGarden en uso",
+            "raw": "9|AeroGarden en uso"
+          }
+        ],
+        "features": [
+          "ESTILO CÁLIDO Y ACOGEDOR: El suave acabado Cream del AeroGarden Harvest Lite aporta una sensación natural a tu cocina o cualquier habitación, añadiendo un toque de elegante modernidad y calidez a tu hogar.",
+          "SABOR FRESCO CULTIVADO EN CASA TODO EL AÑO: Cultiva hasta 6 de tus hierbas, verduras o flores favoritas (de hasta 12 pulgadas de altura) en interiores para un jardín que siempre está en temporada, sin importar dónde vivas, sin necesidad de sol ni tierra (kits de cápsulas de semillas se venden por separado).",
+          "JARDINERÍA HECHA FÁCIL: Una luz indicadora simple que te dice cuándo es el momento de añadir agua y alimento para plantas (vendido por separado), eliminando toda la incertidumbre en el cultivo, lo que la hace perfecta tanto para principiantes como para jardineros experimentados.",
+          "LUZ INTELIGENTE, MEJOR COSECHA: La luz de cultivo LED desmontable y eficiente en energía está ajustada para el crecimiento de las plantas y cuenta con un temporizador de encendido/apagado incorporado, proporcionando la cantidad perfecta de luz para un jardín interior próspero.",
+          "\"\"\"SE AJUSTA HERMOSAMENTE EN CUALQUIER LUGAR: Con su diseño elegante y compacto, el AeroGarden Harvest Lite añade un toque de estilo verde fresco a cualquier habitación de tu hogar, oficina o dormitorio.\"\"\""
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Prepdeck Recipe Prep Kit",
+        "productId": "B0CTNW1XY1",
+        "productName": "Prepdeck Recipe Prep Kit",
+        "filename": "B0CTNW1XY1.mp4",
+        "asin": "B0CTNW1XY1",
+        "videoDuration": 59.9599,
+        "estimatedAudioSeconds": null,
+        "framework": "enfoque_caracteristica",
+        "narracionSegments": null,
+        "content": [
+          "Prepdeck Recipe Prep Kit es una solución completa que reúne lo mejor en innovación y funcionalidad. este producto destaca por sus características versátiles: \"\"\"VISTO EN SHARK TANK: Presentamos Prepdeck Gen 2 con un soporte adicional para tablet / teléfono. Con todo lo que amas en el original, además de emocionantes nuevas características, un diseño impecable y una forma elegante y aerodinámica que complementa el estilo de tu cocina. Optimiza la cocina para la familia con la estación de preparación definitiva, que cuenta con más de 50 increíbles mejoras sobre el ya querido Prepdeck original de 4.5 estrellas, amado por más de 150,000 fanáticos de Prepdeck!\"\"\"; \"\"\"MÁS CAPACIDAD Y ALMACENAMIENTO ANTIDESLIZANTE: Este kit de lujo contiene todas las herramientas esenciales para optimizar el picado, rallado, pelado y más: tabla de cortar rediseñada sin costuras con imanes más fuertes, 8 herramientas de preparación, además de 2 recipientes pequeños, 2 medianos, 3 grandes y 1 XL duraderos y aptos para alimentos con un 20% más de capacidad y medidores más grandes y claros en onzas, mililitros y tazas. Además, recipientes mini de fondo plano y sin volcar, tapas de super-sello, un contenedor de residuos extraíble y una unidad de almacenamiento incorporada.\"\"\"; mINIMIZA EL DESORDEN: ¡La mejora más solicitada – una tabla de cortar sin costuras! Ahora más gruesa, más duradera y optimizada para la usabilidad, lo que permite un deslizamiento sin interrupciones de los restos hacia el contenedor. Además, los patrones permanentes en la superficie de la tabla garantizan un acabado duradero y un imán mejorado la mantiene firmemente en su lugar. Nuestro cajón de accesorios rediseñado ofrece almacenamiento adicional para todos esos restos. Los cubos de restos dobles son prácticos para recoger y contener restos de comida y basura, y se deslizan fácilmente hacia afuera, lo que hace que la eliminación sea rápida y sencilla.; rÁPIDO, FÁCIL Y SIN DESORDEN: ¡Prepara una comida, no un desorden! Rediseñamos nuestros 8 utensilios de cocina esenciales para simplificar y acelerar el proceso: zester, juicer, grater, slicer, peeler, green-stripper, bottle opener, + un NUEVO triturador de ajo para rallar/raspar/cortar + una característica de seguridad única para proteger tus dedos. Ahora dentro de un soporte removible para almacenamiento en tu Prepdeck / cajón de cocina. ¡Cada herramienta se acopla a los contenedores para darte un mejor control, así puedes disfrutar de un corte y picado rápido y sin desorden!; y cORTA EL CAOS: Gen 2 presenta un nuevo borde de silicona antideslizante a juego para mantener tu preparación de alimentos tranquila y ordenada. Mantente organizado con un kit de preparación aún más simplificado y optimizado que hace mejores comidas, ¡sin frustraciones! Con 8 herramientas útiles al alcance y 5 tamaños de contenedores para guardar tus verduras picadas, te encantará este nuevo y mejorado diseño: sin caos, sin desorden, sin complicaciones. ¡ADEMÁS, ahora puedes emparejar tu Prepdeck con el Bamboo Knife Block que se ajusta convenientemente dentro de tu Prepdeck!. Cada aspecto está diseñado para ofrecerte la mejor experiencia posible. Descubre por qué miles de usuarios confían en esta solución.",
+          "Su precio actual en Amazon ronda los... 130 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Prepdeck Recipe Prep Kit"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0CTNW1XY1_combined.mp4",
+        "precio": "$130",
+        "productPhoto": "https://m.media-amazon.com/images/I/71dq78hiMgL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0CTNW1XY1.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          }
+        ],
+        "features": [
+          "\"\"\"VISTO EN SHARK TANK: Presentamos Prepdeck Gen 2 con un soporte adicional para tablet / teléfono. Con todo lo que amas en el original, además de emocionantes nuevas características, un diseño impecable y una forma elegante y aerodinámica que complementa el estilo de tu cocina. Optimiza la cocina para la familia con la estación de preparación definitiva, que cuenta con más de 50 increíbles mejoras sobre el ya querido Prepdeck original de 4.5 estrellas, amado por más de 150,000 fanáticos de Prepdeck!\"\"\"",
+          "\"\"\"MÁS CAPACIDAD Y ALMACENAMIENTO ANTIDESLIZANTE: Este kit de lujo contiene todas las herramientas esenciales para optimizar el picado, rallado, pelado y más: tabla de cortar rediseñada sin costuras con imanes más fuertes, 8 herramientas de preparación, además de 2 recipientes pequeños, 2 medianos, 3 grandes y 1 XL duraderos y aptos para alimentos con un 20% más de capacidad y medidores más grandes y claros en onzas, mililitros y tazas. Además, recipientes mini de fondo plano y sin volcar, tapas de super-sello, un contenedor de residuos extraíble y una unidad de almacenamiento incorporada.\"\"\"",
+          "MINIMIZA EL DESORDEN: ¡La mejora más solicitada – una tabla de cortar sin costuras! Ahora más gruesa, más duradera y optimizada para la usabilidad, lo que permite un deslizamiento sin interrupciones de los restos hacia el contenedor. Además, los patrones permanentes en la superficie de la tabla garantizan un acabado duradero y un imán mejorado la mantiene firmemente en su lugar. Nuestro cajón de accesorios rediseñado ofrece almacenamiento adicional para todos esos restos. Los cubos de restos dobles son prácticos para recoger y contener restos de comida y basura, y se deslizan fácilmente hacia afuera, lo que hace que la eliminación sea rápida y sencilla.",
+          "RÁPIDO, FÁCIL Y SIN DESORDEN: ¡Prepara una comida, no un desorden! Rediseñamos nuestros 8 utensilios de cocina esenciales para simplificar y acelerar el proceso: zester, juicer, grater, slicer, peeler, green-stripper, bottle opener, + un NUEVO triturador de ajo para rallar/raspar/cortar + una característica de seguridad única para proteger tus dedos. Ahora dentro de un soporte removible para almacenamiento en tu Prepdeck / cajón de cocina. ¡Cada herramienta se acopla a los contenedores para darte un mejor control, así puedes disfrutar de un corte y picado rápido y sin desorden!",
+          "CORTA EL CAOS: Gen 2 presenta un nuevo borde de silicona antideslizante a juego para mantener tu preparación de alimentos tranquila y ordenada. Mantente organizado con un kit de preparación aún más simplificado y optimizado que hace mejores comidas, ¡sin frustraciones! Con 8 herramientas útiles al alcance y 5 tamaños de contenedores para guardar tus verduras picadas, te encantará este nuevo y mejorado diseño: sin caos, sin desorden, sin complicaciones. ¡ADEMÁS, ahora puedes emparejar tu Prepdeck con el Bamboo Knife Block que se ajusta convenientemente dentro de tu Prepdeck!"
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Breville Smart Oven Air Fryer",
+        "productId": "B085FTBLC6",
+        "productName": "Breville Smart Oven Air Fryer",
+        "filename": "B085FTBLC6.mp4",
+        "asin": "B085FTBLC6",
+        "videoDuration": 59.926533,
+        "estimatedAudioSeconds": null,
+        "framework": "beneficio_oculto",
+        "narracionSegments": null,
+        "content": [
+          "Breville Smart Oven Air Fryer es una solución completa que reúne lo mejor en innovación y funcionalidad. este producto destaca por sus características versátiles: el Breville Smart Oven Air Fryer y Horno de Convección con el Sistema Element iQ ofrece un rendimiento y versatilidad excepcionales; fríe al aire y elige entre 11 funciones de cocción; la superconvección reduce el tiempo de cocción en hasta un 30% y proporciona alimentos crujientes y fritos al aire.; sISTEMA ELEMENT iQ: Con 5 elementos de cuarzo independientes, algoritmos inteligentes dirigen la potencia del horno y de la freidora donde y cuando se necesita para crear un entorno de cocción personalizado; La detección y el control de temperatura digital PID eliminan los puntos fríos para una cocción precisa.; cONFIGURACIÓN DE AIR FRY DEDICADA: Smart Oven Air Fryer produce papas fritas, alitas de pollo y más sin culpa; temperaturas más altas se combinan con super convection (flujo de aire maximizado) para ofrecer alimentos crujientes y dorados, fritos al aire, en tu cocina.; \"\"\"TECNOLOGÍA DE SUPER CONVECCIÓN: La funcionalidad del horno de convección puede reducir el tiempo de cocción en hasta un 30%; Acelera el proceso de cocción al elevar el aire más caliente y hundir el aire más frío y menos denso para un calentamiento más rápido; Sirve la cena más pronto y pasa menos tiempo en la cocina.\"\"\"; y 11 FUNCIONES DE COCCIÓN: Horno de encimera versátil con 11 funciones de cocción que trae nuevas opciones a tu cocina; Tostar, Bagel, Asar, Hornear, Cocinar al horno, Calentar, Pizza, Freír al aire, Recalentar, Galletas y Cocción lenta; Como tener un horno tostador, horno de pizza y más en uno.. Cada aspecto está diseñado para ofrecerte la mejor experiencia posible. Descubre por qué miles de usuarios confían en esta solución.",
+          "Su precio actual en Amazon ronda los... 350 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Breville Smart Oven Air Fryer"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B085FTBLC6_combined.mp4",
+        "precio": "$350",
+        "productPhoto": "https://m.media-amazon.com/images/I/713RPSdpLeL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B085FTBLC6.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "interior horno",
+            "raw": "5|interior horno"
+          }
+        ],
+        "features": [
+          "El Breville Smart Oven Air Fryer y Horno de Convección con el Sistema Element iQ ofrece un rendimiento y versatilidad excepcionales; fríe al aire y elige entre 11 funciones de cocción; la superconvección reduce el tiempo de cocción en hasta un 30% y proporciona alimentos crujientes y fritos al aire.",
+          "SISTEMA ELEMENT iQ: Con 5 elementos de cuarzo independientes, algoritmos inteligentes dirigen la potencia del horno y de la freidora donde y cuando se necesita para crear un entorno de cocción personalizado; La detección y el control de temperatura digital PID eliminan los puntos fríos para una cocción precisa.",
+          "CONFIGURACIÓN DE AIR FRY DEDICADA: Smart Oven Air Fryer produce papas fritas, alitas de pollo y más sin culpa; temperaturas más altas se combinan con super convection (flujo de aire maximizado) para ofrecer alimentos crujientes y dorados, fritos al aire, en tu cocina.",
+          "\"\"\"TECNOLOGÍA DE SUPER CONVECCIÓN: La funcionalidad del horno de convección puede reducir el tiempo de cocción en hasta un 30%; Acelera el proceso de cocción al elevar el aire más caliente y hundir el aire más frío y menos denso para un calentamiento más rápido; Sirve la cena más pronto y pasa menos tiempo en la cocina.\"\"\"",
+          "11 FUNCIONES DE COCCIÓN: Horno de encimera versátil con 11 funciones de cocción que trae nuevas opciones a tu cocina; Tostar, Bagel, Asar, Hornear, Cocinar al horno, Calentar, Pizza, Freír al aire, Recalentar, Galletas y Cocción lenta; Como tener un horno tostador, horno de pizza y más en uno."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Drop Scale Connected Kitchen Scale",
+        "productId": "B0F3VZYTQS",
+        "productName": "Drop Scale Connected Kitchen Scale",
+        "filename": "B0F3VZYTQS.mp4",
+        "asin": "B0F3VZYTQS",
+        "videoDuration": 59.9599,
+        "estimatedAudioSeconds": null,
+        "framework": "comparacion_precio",
+        "narracionSegments": null,
+        "content": [
+          "Drop Scale Connected Kitchen Scale es una solución completa que reúne lo mejor en innovación y funcionalidad. este producto destaca por sus características versátiles: 【Dominio Versátil de Medición】La balanza de cocina Tcsxady soporta 6 unidades (g/kg/lb/oz/ml/milk ml) para repostería, preparación de comidas o seguimiento de líquidos. Optimizada para recetas que requieren conversiones precisas, reemplaza la conjetura con un cambio de unidad rápido y fácil. Ideal para balanzas de cocina para entusiastas que priorizan la flexibilidad.; 【Precisión de Grado de Laboratorio, Simplificada】Diseñada con una precisión de 1g y una capacidad de 5KG/11lb, la balanza digital facilita las tareas de pesaje de alimentos sin esfuerzo. La función de tara elimina instantáneamente el peso del contenedor. Las alertas de sobrecarga previenen daños, mientras que las advertencias de batería baja aseguran un uso ininterrumpido.; 【Batería incorporada, bajo consumo de energía】La báscula para alimentos ya incluye las baterías necesarias. Se apagará automáticamente después de 2 minutos de inactividad para ahorrar energía.; 【Visibilidad Cristalina】La balanza de cocina con pantalla LED retroiluminada de alto contraste muestra los pesos en fuentes en negrita, legibles bajo poca luz o en vistas anguladas. El modo de leche en ml calcula volúmenes líquidos sin recipientes, perfecto para contadores de calorías y baristas.; y 【Diseño Compacto, Cuidado Sin Esfuerzo】Esta balanza de gramos cabe en los cajones de utensilios y soporta las demandas diarias. La superficie de ABS resistente a manchas se limpia al instante. Portátil para cocineros en viaje, duradera para cocinas ocupadas.. Cada aspecto está diseñado para ofrecerte la mejor experiencia posible. Descubre por qué miles de usuarios confían en esta solución.",
+          "Su precio actual en Amazon ronda los... 7 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Drop Scale Connected Kitchen Scale"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0F3VZYTQS_combined.mp4",
+        "precio": "$7",
+        "productPhoto": "https://m.media-amazon.com/images/I/81COKHyw-UL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0F3VZYTQS.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "balanza digital",
+            "raw": "9|balanza digital"
+          }
+        ],
+        "features": [
+          "【Dominio Versátil de Medición】La balanza de cocina Tcsxady soporta 6 unidades (g/kg/lb/oz/ml/milk ml) para repostería, preparación de comidas o seguimiento de líquidos. Optimizada para recetas que requieren conversiones precisas, reemplaza la conjetura con un cambio de unidad rápido y fácil. Ideal para balanzas de cocina para entusiastas que priorizan la flexibilidad.",
+          "【Precisión de Grado de Laboratorio, Simplificada】Diseñada con una precisión de 1g y una capacidad de 5KG/11lb, la balanza digital facilita las tareas de pesaje de alimentos sin esfuerzo. La función de tara elimina instantáneamente el peso del contenedor. Las alertas de sobrecarga previenen daños, mientras que las advertencias de batería baja aseguran un uso ininterrumpido.",
+          "【Batería incorporada, bajo consumo de energía】La báscula para alimentos ya incluye las baterías necesarias. Se apagará automáticamente después de 2 minutos de inactividad para ahorrar energía.",
+          "【Visibilidad Cristalina】La balanza de cocina con pantalla LED retroiluminada de alto contraste muestra los pesos en fuentes en negrita, legibles bajo poca luz o en vistas anguladas. El modo de leche en ml calcula volúmenes líquidos sin recipientes, perfecto para contadores de calorías y baristas.",
+          "【Diseño Compacto, Cuidado Sin Esfuerzo】Esta balanza de gramos cabe en los cajones de utensilios y soporta las demandas diarias. La superficie de ABS resistente a manchas se limpia al instante. Portátil para cocineros en viaje, duradera para cocinas ocupadas."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "NutriBullet Pro Plus Blender",
+        "productId": "B0BS76NRG3",
+        "productName": "NutriBullet Pro Plus Blender",
+        "filename": "B0BS76NRG3.mp4",
+        "asin": "B0BS76NRG3",
+        "videoDuration": 59.9599,
+        "estimatedAudioSeconds": null,
+        "framework": "dato_numerico",
+        "narracionSegments": null,
+        "content": [
+          "NutriBullet Pro Plus Blender es una solución completa que reúne lo mejor en innovación y funcionalidad. este producto destaca por sus características versátiles: maximiza el potencial nutricional de tus alimentos con la edición nutribullet Pro+. Este modelo exclusivo de nutribullet añade más poder de extracción, más comodidad y más funcionalidad al nutribullet original que conoces y amas.; \"\"\"100% MÁS POTENCIA: 1200 watts de potencia, el doble que el nutribullet original, significa una mejor extracción de nutrientes mientras ocupa la misma cantidad de espacio en la encimera.\"\"\"; fUNCIÓN PULSE: Proporciona la consistencia adecuada para texturas gruesas como salsas y un tiempo de mezcla de 60 segundos sin manos.; nUTRICIÓN EN MOVIMIENTO: Su diseño simple e intuitivo hace de este un dispositivo que usarás todos los días. Además, viene con la tapa resellable To-Go Lid, fácil de usar y sin desorden, ideal para estilos de vida ocupados.; y \"\"\"LIMPIA COMO UN SUEÑO: Simplemente desenrosca las cuchillas, enjuaga con jabón y agua, y coloca las tazas en la rejilla superior del lavavajillas. Eso es salud sin complicaciones.\"\"\". Cada aspecto está diseñado para ofrecerte la mejor experiencia posible. Descubre por qué miles de usuarios confían en esta solución.",
+          "Su precio actual en Amazon ronda los... 100 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: NutriBullet Pro Plus Blender"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0BS76NRG3_combined.mp4",
+        "precio": "$100",
+        "productPhoto": "https://m.media-amazon.com/images/I/71m9FMl99uL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0BS76NRG3.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "licuadora funcional",
+            "raw": "9|licuadora funcional"
+          }
+        ],
+        "features": [
+          "Maximiza el potencial nutricional de tus alimentos con la edición nutribullet Pro+. Este modelo exclusivo de nutribullet añade más poder de extracción, más comodidad y más funcionalidad al nutribullet original que conoces y amas.",
+          "\"\"\"100% MÁS POTENCIA: 1200 watts de potencia, el doble que el nutribullet original, significa una mejor extracción de nutrientes mientras ocupa la misma cantidad de espacio en la encimera.\"\"\"",
+          "FUNCIÓN PULSE: Proporciona la consistencia adecuada para texturas gruesas como salsas y un tiempo de mezcla de 60 segundos sin manos.",
+          "NUTRICIÓN EN MOVIMIENTO: Su diseño simple e intuitivo hace de este un dispositivo que usarás todos los días. Además, viene con la tapa resellable To-Go Lid, fácil de usar y sin desorden, ideal para estilos de vida ocupados.",
+          "\"\"\"LIMPIA COMO UN SUEÑO: Simplemente desenrosca las cuchillas, enjuaga con jabón y agua, y coloca las tazas en la rejilla superior del lavavajillas. Eso es salud sin complicaciones.\"\"\""
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Joseph Joseph Adjustable Rolling Pin",
+        "productId": "B0B1F77MJS",
+        "productName": "Joseph Joseph Adjustable Rolling Pin",
+        "filename": "B0B1F77MJS.mp4",
+        "asin": "B0B1F77MJS",
+        "videoDuration": 59.926533,
+        "estimatedAudioSeconds": null,
+        "framework": "experiencia_sensorial",
+        "narracionSegments": null,
+        "content": [
+          "Joseph Joseph Adjustable Rolling Pin es una solución completa que reúne lo mejor en innovación y funcionalidad. este producto destaca por sus características versátiles: pin de haya de alta calidad con cinco juegos de anillos removibles para crear diferentes grosores de masa.; \"Simplemente gira los anillos para quitar y ajustar.\"; grosor de la masa de hojaldre: 2 mm (1/16\"), 4 mm (1/6\"), 6 mm (1/4\"), 8 mm (5/16\") o 10 mm (3/8\") aproximadamente.; \"Usar sin anillos como un rodillo convencional.\"; y ideal para preparar masa de galletas, bases de pizza y hojas de masa.. Cada aspecto está diseñado para ofrecerte la mejor experiencia posible. Descubre por qué miles de usuarios confían en esta solución.",
+          "Su precio actual en Amazon ronda los... 20 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Joseph Joseph Adjustable Rolling Pin"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0B1F77MJS_combined.mp4",
+        "precio": "$20",
+        "productPhoto": "https://m.media-amazon.com/images/I/61YWiIveyDL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0B1F77MJS.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          }
+        ],
+        "features": [
+          "Pin de haya de alta calidad con cinco juegos de anillos removibles para crear diferentes grosores de masa.",
+          "\"Simplemente gira los anillos para quitar y ajustar.\"",
+          "Grosor de la masa de hojaldre: 2 mm (1/16\"), 4 mm (1/6\"), 6 mm (1/4\"), 8 mm (5/16\") o 10 mm (3/8\") aproximadamente.",
+          "\"Usar sin anillos como un rodillo convencional.\"",
+          "Ideal para preparar masa de galletas, bases de pizza y hojas de masa."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Millo Air Silent Blender",
+        "productId": "B0B6HKJM34",
+        "productName": "Millo Air Silent Blender",
+        "filename": "B0B6HKJM34.mp4",
+        "asin": "B0B6HKJM34",
+        "videoDuration": 59.926533,
+        "estimatedAudioSeconds": null,
+        "framework": "problema_solucion",
+        "narracionSegments": null,
+        "content": [
+          "Millo Air Silent Blender es una solución completa que reúne lo mejor en innovación y funcionalidad. este producto destaca por sus características versátiles: \"\"\"APLASTAMIENTO PODEROSO: Con 1800 watts de potencia máxima de mezcla y cuchillas afiladas de acero inoxidable de alta velocidad, esta licuadora de mostrador para cocina puede triturar cubos de hielo en 5 segundos, dándote toda la potencia que necesitas para hacer batidos, batidos de proteínas, bebidas congeladas y más. Nuestra licuadora profesional para batidos no solo ahorra tu tiempo y energía, sino que también reduce los costos de mantenimiento.\"\"\"; \"\"\"GRAN CAPACIDAD: Esta licuadora de smoothies comercial tiene una capacidad de 2200ml/74.4oz con escala clara, lo que puede satisfacer las necesidades de uso en restaurantes comerciales o en la cocina de casa. No tienes que cambiar o añadir ingredientes con frecuencia, y puedes hacer más smoothies y batidos a la vez, mejorando tu eficiencia e ingresos comerciales.\"\"\"; cUBIERTA ACÚSTICA: La licuadora de mostrador silenciosa viene con una cubierta a prueba de sonido que puede reducir el ruido, sin molestar a los clientes ni a tu descanso. Puedes usar la licuadora silenciosa en cualquier momento y ocasión, sin preocuparte por problemas de ruido, brindándote a ti y a tus clientes una experiencia más cómoda y agradable.; \"\"\"10 VELOCIDADES VARIABLES: Esta licuadora de alta velocidad tiene un botón mecánico que puede ajustar las 10 velocidades variables de la licuadora, según los diferentes alimentos. De esta manera, puedes hacer diferentes texturas y sabores de acuerdo a tus preferencias y necesidades, adecuada para puré, batido, jugo, bebida, fruta y hielo.\"\"\"; y \"\"\"MEZCLA ULTRA-SUAVE: Con potentes cuchillas en forma de ola, nuestra smoothie blender para cocina puede forzar continuamente los alimentos hacia las cuchillas inferiores como un tornado. El elegante diseño aerodinámico y un cuerpo gris hacen que tu cocina sea más avanzada, mostrando tu gusto y profesionalismo, y dejando una profunda impresión en tus clientes.\"\"\". Cada aspecto está diseñado para ofrecerte la mejor experiencia posible. Descubre por qué miles de usuarios confían en esta solución.",
+          "Su precio actual en Amazon ronda los... 72 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Millo Air Silent Blender"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0B6HKJM34_combined.mp4",
+        "precio": "$72",
+        "productPhoto": "https://m.media-amazon.com/images/I/71joS24FngL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0B6HKJM34.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Licuadora en uso",
+            "raw": "9|Licuadora en uso"
+          }
+        ],
+        "features": [
+          "\"\"\"APLASTAMIENTO PODEROSO: Con 1800 watts de potencia máxima de mezcla y cuchillas afiladas de acero inoxidable de alta velocidad, esta licuadora de mostrador para cocina puede triturar cubos de hielo en 5 segundos, dándote toda la potencia que necesitas para hacer batidos, batidos de proteínas, bebidas congeladas y más. Nuestra licuadora profesional para batidos no solo ahorra tu tiempo y energía, sino que también reduce los costos de mantenimiento.\"\"\"",
+          "\"\"\"GRAN CAPACIDAD: Esta licuadora de smoothies comercial tiene una capacidad de 2200ml/74.4oz con escala clara, lo que puede satisfacer las necesidades de uso en restaurantes comerciales o en la cocina de casa. No tienes que cambiar o añadir ingredientes con frecuencia, y puedes hacer más smoothies y batidos a la vez, mejorando tu eficiencia e ingresos comerciales.\"\"\"",
+          "CUBIERTA ACÚSTICA: La licuadora de mostrador silenciosa viene con una cubierta a prueba de sonido que puede reducir el ruido, sin molestar a los clientes ni a tu descanso. Puedes usar la licuadora silenciosa en cualquier momento y ocasión, sin preocuparte por problemas de ruido, brindándote a ti y a tus clientes una experiencia más cómoda y agradable.",
+          "\"\"\"10 VELOCIDADES VARIABLES: Esta licuadora de alta velocidad tiene un botón mecánico que puede ajustar las 10 velocidades variables de la licuadora, según los diferentes alimentos. De esta manera, puedes hacer diferentes texturas y sabores de acuerdo a tus preferencias y necesidades, adecuada para puré, batido, jugo, bebida, fruta y hielo.\"\"\"",
+          "\"\"\"MEZCLA ULTRA-SUAVE: Con potentes cuchillas en forma de ola, nuestra smoothie blender para cocina puede forzar continuamente los alimentos hacia las cuchillas inferiores como un tornado. El elegante diseño aerodinámico y un cuerpo gris hacen que tu cocina sea más avanzada, mostrando tu gusto y profesionalismo, y dejando una profunda impresión en tus clientes.\"\"\""
+        ]
+      }
+    ],
+    "totalDuration": 400
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      null
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "7:10",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "transformarn",
+    "cocina",
+    "amazon"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 10 Gadgets que Transformarán tu Cocina en Amazon",
+      "angle": "Top 10 Gadgets que Transformarán tu Cocina en Amazon",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 10,
+      "introScript": "¿Una cuchara que pesa automáticamente tus ingredientes? ¿Un dispositivo que convierte tus desechos en abono en horas? Quédate porque hoy te revelamos los gadgets más innovadores para tu cocina. Descubre cómo simplificar tus recetas con un triturador de alimentos portátil o una freidora que necesita solo una cucharada de aceite. Si creías que lo habías visto todo en utensilios de cocina, sorpréndete con estos productos que no solo son útiles, sino que también añaden un toque de tecnología futurista a cada rincón de tu hogar.",
+      "keywords": [
+        "gadgets",
+        "transformarn",
+        "cocina",
+        "amazon"
+      ],
+      "estimatedViews": 5221,
+      "bestPublishTime": "2026-07-10T20:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Ember Temperature Control Mug",
+          "searchTermEn": "Ember temperature control mug",
+          "id": "B0C3NC5HF8",
+          "filename": "B0C3NC5HF8.mp4"
+        },
+        {
+          "nombre": "Anova Precision Cooker Nano",
+          "searchTermEn": "Anova precision cooker nano",
+          "id": "B07C7PW3PC",
+          "filename": "B07C7PW3PC.mp4"
+        },
+        {
+          "nombre": "Meater Plus Wireless Thermometer",
+          "searchTermEn": "Meater Plus wireless thermometer",
+          "id": "B07H8WTFHW",
+          "filename": "B07H8WTFHW.mp4"
+        },
+        {
+          "nombre": "AeroGarden Harvest Indoor Garden",
+          "searchTermEn": "AeroGarden Harvest indoor garden",
+          "id": "B0CTRTJBC3",
+          "filename": "B0CTRTJBC3.mp4"
+        },
+        {
+          "nombre": "Prepdeck Recipe Prep Kit",
+          "searchTermEn": "Prepdeck recipe prep kit",
+          "id": "B0CTNW1XY1",
+          "filename": "B0CTNW1XY1.mp4"
+        },
+        {
+          "nombre": "Breville Smart Oven Air Fryer",
+          "searchTermEn": "Breville smart oven air fryer",
+          "id": "B085FTBLC6",
+          "filename": "B085FTBLC6.mp4"
+        },
+        {
+          "nombre": "Drop Scale Connected Kitchen Scale",
+          "searchTermEn": "Drop Scale connected kitchen scale",
+          "id": "B0F3VZYTQS",
+          "filename": "B0F3VZYTQS.mp4"
+        },
+        {
+          "nombre": "NutriBullet Pro Plus Blender",
+          "searchTermEn": "NutriBullet Pro Plus blender",
+          "id": "B0BS76NRG3",
+          "filename": "B0BS76NRG3.mp4"
+        },
+        {
+          "nombre": "Joseph Joseph Adjustable Rolling Pin",
+          "searchTermEn": "Joseph Joseph adjustable rolling pin",
+          "id": "B0B1F77MJS",
+          "filename": "B0B1F77MJS.mp4"
+        },
+        {
+          "nombre": "Millo Air Silent Blender",
+          "searchTermEn": "Millo Air silent blender",
+          "id": "B0B6HKJM34",
+          "filename": "B0B6HKJM34.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-07-07T03:23:41.802Z",
+      "_requestedCount": 10,
+      "_adaptedCount": 10,
+      "introProductsOrder": [
+        {
+          "nombre": "Breville Smart Oven Air Fryer",
+          "id": "B085FTBLC6",
+          "filename": "B085FTBLC6_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B085FTBLC6_combined.mp4"
+        },
+        {
+          "nombre": "Millo Air Silent Blender",
+          "id": "B0B6HKJM34",
+          "filename": "B0B6HKJM34_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0B6HKJM34_combined.mp4"
+        },
+        {
+          "nombre": "Prepdeck Recipe Prep Kit",
+          "id": "B0CTNW1XY1",
+          "filename": "B0CTNW1XY1_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0CTNW1XY1_combined.mp4"
+        },
+        {
+          "nombre": "Joseph Joseph Adjustable Rolling Pin",
+          "id": "B0B1F77MJS",
+          "filename": "B0B1F77MJS_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0B1F77MJS_combined.mp4"
+        },
+        {
+          "nombre": "Drop Scale Connected Kitchen Scale",
+          "id": "B0F3VZYTQS",
+          "filename": "B0F3VZYTQS_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0F3VZYTQS_combined.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1783395779922_ybb1rp"
+    },
+    "generatedAt": "2026-07-07T03:47:42.321Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Ember Temperature Control Mug",
+        "searchTermEn": "Ember temperature control mug",
+        "id": "B0C3NC5HF8",
+        "filename": "B0C3NC5HF8.mp4"
+      },
+      {
+        "nombre": "Anova Precision Cooker Nano",
+        "searchTermEn": "Anova precision cooker nano",
+        "id": "B07C7PW3PC",
+        "filename": "B07C7PW3PC.mp4"
+      },
+      {
+        "nombre": "Meater Plus Wireless Thermometer",
+        "searchTermEn": "Meater Plus wireless thermometer",
+        "id": "B07H8WTFHW",
+        "filename": "B07H8WTFHW.mp4"
+      },
+      {
+        "nombre": "AeroGarden Harvest Indoor Garden",
+        "searchTermEn": "AeroGarden Harvest indoor garden",
+        "id": "B0CTRTJBC3",
+        "filename": "B0CTRTJBC3.mp4"
+      },
+      {
+        "nombre": "Prepdeck Recipe Prep Kit",
+        "searchTermEn": "Prepdeck recipe prep kit",
+        "id": "B0CTNW1XY1",
+        "filename": "B0CTNW1XY1.mp4"
+      },
+      {
+        "nombre": "Breville Smart Oven Air Fryer",
+        "searchTermEn": "Breville smart oven air fryer",
+        "id": "B085FTBLC6",
+        "filename": "B085FTBLC6.mp4"
+      },
+      {
+        "nombre": "Drop Scale Connected Kitchen Scale",
+        "searchTermEn": "Drop Scale connected kitchen scale",
+        "id": "B0F3VZYTQS",
+        "filename": "B0F3VZYTQS.mp4"
+      },
+      {
+        "nombre": "NutriBullet Pro Plus Blender",
+        "searchTermEn": "NutriBullet Pro Plus blender",
+        "id": "B0BS76NRG3",
+        "filename": "B0BS76NRG3.mp4"
+      },
+      {
+        "nombre": "Joseph Joseph Adjustable Rolling Pin",
+        "searchTermEn": "Joseph Joseph adjustable rolling pin",
+        "id": "B0B1F77MJS",
+        "filename": "B0B1F77MJS.mp4"
+      },
+      {
+        "nombre": "Millo Air Silent Blender",
+        "searchTermEn": "Millo Air silent blender",
+        "id": "B0B6HKJM34",
+        "filename": "B0B6HKJM34.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 10 Gadgets que Verás en Todas Partes\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\nundefined\n\n[25s-35s] INTRODUCTION\n\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] EMBER TEMPERATURE CONTROL MUG\n¿Cansado de bebidas que se enfrían rápido? Ember Temperature Control Mug mantiene tu bebida caliente por hasta 3 horas con batería. Presiona el botón y ajusta la temperatura desde tu teléfono. Lleva tus mañanas al siguiente nivel con cada sorbo.\nSu precio actual ronda los 120 dólares. ¡Link ya!\n\n[VISUALS: Product image: Ember Temperature Control Mug]\n\n[0:25] ANOVA PRECISION COOKER NANO\n¿Quieres cocinar a la perfección cada vez? Anova Precision Cooker Nano circula agua a temperatura exacta para resultados perfectos. Fija el dispositivo en una olla con su pinza y controla todo desde la app de Anova.\nSu precio actual ronda los 69 dólares. ¡Link ya!\n\n[VISUALS: Product image: Anova Precision Cooker Nano]\n\n[0:25] MEATER PLUS WIRELESS THERMOMETER\n¿Buscando precisión al cocinar carne? Meater Plus Wireless Thermometer te ofrece monitoreo inalámbrico con total libertad. Inserta, activa y verifica en la app para carnes cocinadas al punto perfecto.\nSu precio actual ronda los 100 dólares. ¡Link ya!\n\n[VISUALS: Product image: Meater Plus Wireless Thermometer]\n\n[0:25] AEROGARDEN HARVEST INDOOR GARDEN\nAeroGarden Harvest Indoor Garden es una solución completa que reúne lo mejor en innovación y funcionalidad. este producto destaca por sus características versátiles: eSTILO CÁLIDO Y ACOGEDOR: El suave acabado Cream del AeroGarden Harvest Lite aporta una sensación natural a tu cocina o cualquier habitación, añadiendo un toque de elegante modernidad y calidez a tu hogar.; sABOR FRESCO CULTIVADO EN CASA TODO EL AÑO: Cultiva hasta 6 de tus hierbas, verduras o flores favoritas (de hasta 12 pulgadas de altura) en interiores para un jardín que siempre está en temporada, sin importar dónde vivas, sin necesidad de sol ni tierra (kits de cápsulas de semillas se venden por separado).; jARDINERÍA HECHA FÁCIL: Una luz indicadora simple que te dice cuándo es el momento de añadir agua y alimento para plantas (vendido por separado), eliminando toda la incertidumbre en el cultivo, lo que la hace perfecta tanto para principiantes como para jardineros experimentados.; lUZ INTELIGENTE, MEJOR COSECHA: La luz de cultivo LED desmontable y eficiente en energía está ajustada para el crecimiento de las plantas y cuenta con un temporizador de encendido/apagado incorporado, proporcionando la cantidad perfecta de luz para un jardín interior próspero.; y \"\"\"SE AJUSTA HERMOSAMENTE EN CUALQUIER LUGAR: Con su diseño elegante y compacto, el AeroGarden Harvest Lite añade un toque de estilo verde fresco a cualquier habitación de tu hogar, oficina o dormitorio.\"\"\". Cada aspecto está diseñado para ofrecerte la mejor experiencia posible. Descubre por qué miles de usuarios confían en esta solución.\nSu precio actual en Amazon ronda los... 93 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: AeroGarden Harvest Indoor Garden]\n\n[0:25] PREPDECK RECIPE PREP KIT\nPrepdeck Recipe Prep Kit es una solución completa que reúne lo mejor en innovación y funcionalidad. este producto destaca por sus características versátiles: \"\"\"VISTO EN SHARK TANK: Presentamos Prepdeck Gen 2 con un soporte adicional para tablet / teléfono. Con todo lo que amas en el original, además de emocionantes nuevas características, un diseño impecable y una forma elegante y aerodinámica que complementa el estilo de tu cocina. Optimiza la cocina para la familia con la estación de preparación definitiva, que cuenta con más de 50 increíbles mejoras sobre el ya querido Prepdeck original de 4.5 estrellas, amado por más de 150,000 fanáticos de Prepdeck!\"\"\"; \"\"\"MÁS CAPACIDAD Y ALMACENAMIENTO ANTIDESLIZANTE: Este kit de lujo contiene todas las herramientas esenciales para optimizar el picado, rallado, pelado y más: tabla de cortar rediseñada sin costuras con imanes más fuertes, 8 herramientas de preparación, además de 2 recipientes pequeños, 2 medianos, 3 grandes y 1 XL duraderos y aptos para alimentos con un 20% más de capacidad y medidores más grandes y claros en onzas, mililitros y tazas. Además, recipientes mini de fondo plano y sin volcar, tapas de super-sello, un contenedor de residuos extraíble y una unidad de almacenamiento incorporada.\"\"\"; mINIMIZA EL DESORDEN: ¡La mejora más solicitada – una tabla de cortar sin costuras! Ahora más gruesa, más duradera y optimizada para la usabilidad, lo que permite un deslizamiento sin interrupciones de los restos hacia el contenedor. Además, los patrones permanentes en la superficie de la tabla garantizan un acabado duradero y un imán mejorado la mantiene firmemente en su lugar. Nuestro cajón de accesorios rediseñado ofrece almacenamiento adicional para todos esos restos. Los cubos de restos dobles son prácticos para recoger y contener restos de comida y basura, y se deslizan fácilmente hacia afuera, lo que hace que la eliminación sea rápida y sencilla.; rÁPIDO, FÁCIL Y SIN DESORDEN: ¡Prepara una comida, no un desorden! Rediseñamos nuestros 8 utensilios de cocina esenciales para simplificar y acelerar el proceso: zester, juicer, grater, slicer, peeler, green-stripper, bottle opener, + un NUEVO triturador de ajo para rallar/raspar/cortar + una característica de seguridad única para proteger tus dedos. Ahora dentro de un soporte removible para almacenamiento en tu Prepdeck / cajón de cocina. ¡Cada herramienta se acopla a los contenedores para darte un mejor control, así puedes disfrutar de un corte y picado rápido y sin desorden!; y cORTA EL CAOS: Gen 2 presenta un nuevo borde de silicona antideslizante a juego para mantener tu preparación de alimentos tranquila y ordenada. Mantente organizado con un kit de preparación aún más simplificado y optimizado que hace mejores comidas, ¡sin frustraciones! Con 8 herramientas útiles al alcance y 5 tamaños de contenedores para guardar tus verduras picadas, te encantará este nuevo y mejorado diseño: sin caos, sin desorden, sin complicaciones. ¡ADEMÁS, ahora puedes emparejar tu Prepdeck con el Bamboo Knife Block que se ajusta convenientemente dentro de tu Prepdeck!. Cada aspecto está diseñado para ofrecerte la mejor experiencia posible. Descubre por qué miles de usuarios confían en esta solución.\nSu precio actual en Amazon ronda los... 130 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Prepdeck Recipe Prep Kit]\n\n[0:25] BREVILLE SMART OVEN AIR FRYER\nBreville Smart Oven Air Fryer es una solución completa que reúne lo mejor en innovación y funcionalidad. este producto destaca por sus características versátiles: el Breville Smart Oven Air Fryer y Horno de Convección con el Sistema Element iQ ofrece un rendimiento y versatilidad excepcionales; fríe al aire y elige entre 11 funciones de cocción; la superconvección reduce el tiempo de cocción en hasta un 30% y proporciona alimentos crujientes y fritos al aire.; sISTEMA ELEMENT iQ: Con 5 elementos de cuarzo independientes, algoritmos inteligentes dirigen la potencia del horno y de la freidora donde y cuando se necesita para crear un entorno de cocción personalizado; La detección y el control de temperatura digital PID eliminan los puntos fríos para una cocción precisa.; cONFIGURACIÓN DE AIR FRY DEDICADA: Smart Oven Air Fryer produce papas fritas, alitas de pollo y más sin culpa; temperaturas más altas se combinan con super convection (flujo de aire maximizado) para ofrecer alimentos crujientes y dorados, fritos al aire, en tu cocina.; \"\"\"TECNOLOGÍA DE SUPER CONVECCIÓN: La funcionalidad del horno de convección puede reducir el tiempo de cocción en hasta un 30%; Acelera el proceso de cocción al elevar el aire más caliente y hundir el aire más frío y menos denso para un calentamiento más rápido; Sirve la cena más pronto y pasa menos tiempo en la cocina.\"\"\"; y 11 FUNCIONES DE COCCIÓN: Horno de encimera versátil con 11 funciones de cocción que trae nuevas opciones a tu cocina; Tostar, Bagel, Asar, Hornear, Cocinar al horno, Calentar, Pizza, Freír al aire, Recalentar, Galletas y Cocción lenta; Como tener un horno tostador, horno de pizza y más en uno.. Cada aspecto está diseñado para ofrecerte la mejor experiencia posible. Descubre por qué miles de usuarios confían en esta solución.\nSu precio actual en Amazon ronda los... 350 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Breville Smart Oven Air Fryer]\n\n[0:25] DROP SCALE CONNECTED KITCHEN SCALE\nDrop Scale Connected Kitchen Scale es una solución completa que reúne lo mejor en innovación y funcionalidad. este producto destaca por sus características versátiles: 【Dominio Versátil de Medición】La balanza de cocina Tcsxady soporta 6 unidades (g/kg/lb/oz/ml/milk ml) para repostería, preparación de comidas o seguimiento de líquidos. Optimizada para recetas que requieren conversiones precisas, reemplaza la conjetura con un cambio de unidad rápido y fácil. Ideal para balanzas de cocina para entusiastas que priorizan la flexibilidad.; 【Precisión de Grado de Laboratorio, Simplificada】Diseñada con una precisión de 1g y una capacidad de 5KG/11lb, la balanza digital facilita las tareas de pesaje de alimentos sin esfuerzo. La función de tara elimina instantáneamente el peso del contenedor. Las alertas de sobrecarga previenen daños, mientras que las advertencias de batería baja aseguran un uso ininterrumpido.; 【Batería incorporada, bajo consumo de energía】La báscula para alimentos ya incluye las baterías necesarias. Se apagará automáticamente después de 2 minutos de inactividad para ahorrar energía.; 【Visibilidad Cristalina】La balanza de cocina con pantalla LED retroiluminada de alto contraste muestra los pesos en fuentes en negrita, legibles bajo poca luz o en vistas anguladas. El modo de leche en ml calcula volúmenes líquidos sin recipientes, perfecto para contadores de calorías y baristas.; y 【Diseño Compacto, Cuidado Sin Esfuerzo】Esta balanza de gramos cabe en los cajones de utensilios y soporta las demandas diarias. La superficie de ABS resistente a manchas se limpia al instante. Portátil para cocineros en viaje, duradera para cocinas ocupadas.. Cada aspecto está diseñado para ofrecerte la mejor experiencia posible. Descubre por qué miles de usuarios confían en esta solución.\nSu precio actual en Amazon ronda los... 7 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Drop Scale Connected Kitchen Scale]\n\n[0:25] NUTRIBULLET PRO PLUS BLENDER\nNutriBullet Pro Plus Blender es una solución completa que reúne lo mejor en innovación y funcionalidad. este producto destaca por sus características versátiles: maximiza el potencial nutricional de tus alimentos con la edición nutribullet Pro+. Este modelo exclusivo de nutribullet añade más poder de extracción, más comodidad y más funcionalidad al nutribullet original que conoces y amas.; \"\"\"100% MÁS POTENCIA: 1200 watts de potencia, el doble que el nutribullet original, significa una mejor extracción de nutrientes mientras ocupa la misma cantidad de espacio en la encimera.\"\"\"; fUNCIÓN PULSE: Proporciona la consistencia adecuada para texturas gruesas como salsas y un tiempo de mezcla de 60 segundos sin manos.; nUTRICIÓN EN MOVIMIENTO: Su diseño simple e intuitivo hace de este un dispositivo que usarás todos los días. Además, viene con la tapa resellable To-Go Lid, fácil de usar y sin desorden, ideal para estilos de vida ocupados.; y \"\"\"LIMPIA COMO UN SUEÑO: Simplemente desenrosca las cuchillas, enjuaga con jabón y agua, y coloca las tazas en la rejilla superior del lavavajillas. Eso es salud sin complicaciones.\"\"\". Cada aspecto está diseñado para ofrecerte la mejor experiencia posible. Descubre por qué miles de usuarios confían en esta solución.\nSu precio actual en Amazon ronda los... 100 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: NutriBullet Pro Plus Blender]\n\n[0:25] JOSEPH JOSEPH ADJUSTABLE ROLLING PIN\nJoseph Joseph Adjustable Rolling Pin es una solución completa que reúne lo mejor en innovación y funcionalidad. este producto destaca por sus características versátiles: pin de haya de alta calidad con cinco juegos de anillos removibles para crear diferentes grosores de masa.; \"Simplemente gira los anillos para quitar y ajustar.\"; grosor de la masa de hojaldre: 2 mm (1/16\"), 4 mm (1/6\"), 6 mm (1/4\"), 8 mm (5/16\") o 10 mm (3/8\") aproximadamente.; \"Usar sin anillos como un rodillo convencional.\"; y ideal para preparar masa de galletas, bases de pizza y hojas de masa.. Cada aspecto está diseñado para ofrecerte la mejor experiencia posible. Descubre por qué miles de usuarios confían en esta solución.\nSu precio actual en Amazon ronda los... 20 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Joseph Joseph Adjustable Rolling Pin]\n\n[0:25] MILLO AIR SILENT BLENDER\nMillo Air Silent Blender es una solución completa que reúne lo mejor en innovación y funcionalidad. este producto destaca por sus características versátiles: \"\"\"APLASTAMIENTO PODEROSO: Con 1800 watts de potencia máxima de mezcla y cuchillas afiladas de acero inoxidable de alta velocidad, esta licuadora de mostrador para cocina puede triturar cubos de hielo en 5 segundos, dándote toda la potencia que necesitas para hacer batidos, batidos de proteínas, bebidas congeladas y más. Nuestra licuadora profesional para batidos no solo ahorra tu tiempo y energía, sino que también reduce los costos de mantenimiento.\"\"\"; \"\"\"GRAN CAPACIDAD: Esta licuadora de smoothies comercial tiene una capacidad de 2200ml/74.4oz con escala clara, lo que puede satisfacer las necesidades de uso en restaurantes comerciales o en la cocina de casa. No tienes que cambiar o añadir ingredientes con frecuencia, y puedes hacer más smoothies y batidos a la vez, mejorando tu eficiencia e ingresos comerciales.\"\"\"; cUBIERTA ACÚSTICA: La licuadora de mostrador silenciosa viene con una cubierta a prueba de sonido que puede reducir el ruido, sin molestar a los clientes ni a tu descanso. Puedes usar la licuadora silenciosa en cualquier momento y ocasión, sin preocuparte por problemas de ruido, brindándote a ti y a tus clientes una experiencia más cómoda y agradable.; \"\"\"10 VELOCIDADES VARIABLES: Esta licuadora de alta velocidad tiene un botón mecánico que puede ajustar las 10 velocidades variables de la licuadora, según los diferentes alimentos. De esta manera, puedes hacer diferentes texturas y sabores de acuerdo a tus preferencias y necesidades, adecuada para puré, batido, jugo, bebida, fruta y hielo.\"\"\"; y \"\"\"MEZCLA ULTRA-SUAVE: Con potentes cuchillas en forma de ola, nuestra smoothie blender para cocina puede forzar continuamente los alimentos hacia las cuchillas inferiores como un tornado. El elegante diseño aerodinámico y un cuerpo gris hacen que tu cocina sea más avanzada, mostrando tu gusto y profesionalismo, y dejando una profunda impresión en tus clientes.\"\"\". Cada aspecto está diseñado para ofrecerte la mejor experiencia posible. Descubre por qué miles de usuarios confían en esta solución.\nSu precio actual en Amazon ronda los... 72 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Millo Air Silent Blender]\n\n[10 seconds] CONCLUSION\nundefined\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 7:10\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, transformarn, cocina, amazon\n"
+}

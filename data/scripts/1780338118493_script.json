@@ -1,0 +1,1755 @@
+{
+  "title": "Top 15 Cosas que No Sabías que Estaban en Amazon",
+  "hook": {
+    "type": "statement",
+    "text": "¿Y si pierdes algo? ¿Crear en el aire? ¿Beber agua segura? ¿Capturar cada ángulo? ¿Control total de tu salud?",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "Los links de compra están en el primer comentario. Empezamos.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "25s-30s"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "HyperChiller Bebidas Rápidas",
+        "productId": "B08YJ9QVP7",
+        "productName": "HyperChiller Bebidas Rápidas",
+        "filename": "B08YJ9QVP7.mp4",
+        "asin": "B08YJ9QVP7",
+        "clipDuration": 60.03,
+        "estimatedAudioSeconds": 55,
+        "framework": "dato_numerico",
+        "narracionSegments": null,
+        "content": [
+          "¿Sabías que puedes enfriar tu bebida favorita en menos de 60 segundos? El HyperChiller Bebidas Rápidas logra esto sin hielo, usando un diseño patentado y solo agua regular. Compatible con todas las cafeteras, transforma una mañana apresurada en un placer refrescante.",
+          "Su precio actual en Amazon ronda los... 25 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: HyperChiller Bebidas Rápidas"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B08YJ9QVP7_combined.mp4",
+        "precio": "$25",
+        "productPhoto": "https://m.media-amazon.com/images/I/91sqLwLX0DS.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B08YJ9QVP7\\scenes_v1\\B08YJ9QVP7_scene_08.mp4",
+            "type": "video",
+            "score": 10,
+            "tag": "interacción real",
+            "raw": "10|interacción real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B08YJ9QVP7\\scenes_v1\\B08YJ9QVP7_scene_06.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "producto visible",
+            "raw": "9|producto visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B08YJ9QVP7\\scenes_v1\\B08YJ9QVP7_scene_09.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B08YJ9QVP7\\scenes_v1\\B08YJ9QVP7_scene_12.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción bebida",
+            "raw": "9|interacción bebida"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B08YJ9QVP7\\scenes_v1\\B08YJ9QVP7_scene_14.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "producto visible",
+            "raw": "9|producto visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B08YJ9QVP7\\scenes_v1\\B08YJ9QVP7_scene_13.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B08YJ9QVP7\\scenes_v1\\B08YJ9QVP7_scene_15.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción bebida",
+            "raw": "9|interacción bebida"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B08YJ9QVP7\\scenes_v1\\B08YJ9QVP7_scene_02.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "producto visible",
+            "raw": "8|producto visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B08YJ9QVP7\\scenes_v1\\B08YJ9QVP7_scene_04.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "HyperChiller en uso",
+            "raw": "8|HyperChiller en uso"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B08YJ9QVP7\\scenes_v1\\B08YJ9QVP7_scene_07.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "producto en uso",
+            "raw": "8|producto en uso"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B08YJ9QVP7\\scenes_v1\\B08YJ9QVP7_scene_03.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "producto pequeño",
+            "raw": "5|producto pequeño"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B08YJ9QVP7\\scenes_v1\\B08YJ9QVP7_scene_16.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "producto pequeño",
+            "raw": "5|producto pequeño"
+          }
+        ],
+        "features": [
+          "NEW, IMPROVED,STRONGER AND MORE DURABLE! We listen to our dedicated \"Chillers\", so HyperChiller is constantly improving. We've also added new colors for you to choose from!",
+          "IMPROVED V2 PRODUCT - the easiest, most cost effective way to chill your favorite beverages. Our Patented design uses regular water to chill and because there are no chemicals or Gels, all parts of the HyperChiller are dishwasher safe",
+          "SAVE TIME, NO ICE NEEDED - Having to hit the floor running this morning and don’t have time to prepare your iced Coffee, The HyperChiller will chill your Coffee in less than 60 seconds. Take the edge off a hectic morning by enjoying an Iced Coffee on the go.",
+          "COMPATIBLE AND ADAPTABLE - It works with ALL types of coffee makers whether you use a single brew or a K-Cup by brewing directly in to your HyperChiller. Drip style model, no problem, simply pour the Coffee from the carafe and you are Iced in 60 seconds",
+          "This is the easiest and most convenient item to make iced Coffee without dilution. Simply fill with water and place UPRIGHT in the freezer, remove and place in your Coffee maker and brew or pour from a carafe in to the HyperChiller and then into your cup."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Levitating Moon Lamp",
+        "productId": "B07H1G1J61",
+        "productName": "Levitating Moon Lamp",
+        "filename": "B07H1G1J61.mp4",
+        "asin": "B07H1G1J61",
+        "clipDuration": 60.03,
+        "estimatedAudioSeconds": 55,
+        "framework": "experiencia_sensorial",
+        "narracionSegments": null,
+        "content": [
+          "Imagina la luna girando mágicamente sobre tu mesa gracias a la técnica de levitación magnética. La Levitating Moon Lamp no solo ilumina con suaves colores regulables, sino que crea una atmósfera relajante única. Llévate el universo a casa con un toque.",
+          "Su precio actual en Amazon ronda los... 69 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Levitating Moon Lamp"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07H1G1J61_combined.mp4",
+        "precio": "$69",
+        "productPhoto": "https://m.media-amazon.com/images/I/61UHAOLCP+L.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07H1G1J61\\scenes_v1\\B07H1G1J61_scene_12.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Lámpara levitante",
+            "raw": "9|Lámpara levitante"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07H1G1J61\\scenes_v1\\B07H1G1J61_scene_11.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Lámpara levitante",
+            "raw": "9|Lámpara levitante"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07H1G1J61\\scenes_v1\\B07H1G1J61_scene_02.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Lámpara levitante",
+            "raw": "9|Lámpara levitante"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07H1G1J61\\scenes_v1\\B07H1G1J61_scene_16.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Lámpara levitante",
+            "raw": "9|Lámpara levitante"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07H1G1J61\\scenes_v1\\B07H1G1J61_scene_14.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Lámpara levitante",
+            "raw": "9|Lámpara levitante"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07H1G1J61\\scenes_v1\\B07H1G1J61_scene_17.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "lámpara levitante",
+            "raw": "9|lámpara levitante"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07H1G1J61\\scenes_v1\\B07H1G1J61_scene_18.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Lámpara levitante",
+            "raw": "9|Lámpara levitante"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07H1G1J61\\scenes_v1\\B07H1G1J61_scene_15.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Lámparas lunares",
+            "raw": "8|Lámparas lunares"
+          }
+        ],
+        "features": [
+          "Designed with magnetic levitation technique , our levitating moon lamp is much easier to sense the magnetic base center and feel the gravity force , makes the moon lamp spinning in the air .",
+          "3D printed from super-strong PLA,Printed from a Hi-Res scan of the real moon,the VGAzer Moon emits a soft white light, creating a calm relaxing atmosphere. Perfect to guide your way, for the night is dark and full of terrors.",
+          "Floating moon lamp LED light with long service life is no harm to the eye .16 colors and fade,flash mode for your choice . Light is controlled by the touch button:on/off on the base and you can adjust the color & brightness according to your needs .",
+          "Featuring an easy touch-button ON / OFF switch, bringing the magic of the universe into your home is only ever a tap away.",
+          "Gift one to friends or family and watch their jaw drop in amazement, disbelief and confusion. Reactions to VGAzer Levitating Moons are sure to make you smile,Bring a little piece of the universe into your home with this truly magical night light."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "3Doodler Bolígrafo 3D",
+        "productId": "B0C2L54Q9H",
+        "productName": "3Doodler Bolígrafo 3D",
+        "filename": "B0C2L54Q9H.mp4",
+        "asin": "B0C2L54Q9H",
+        "clipDuration": 59.76,
+        "estimatedAudioSeconds": null,
+        "framework": "problema_solucion",
+        "narracionSegments": null,
+        "content": [
+          "\"Cansado de ver tus ideas atrapadas en papel? El Bolígrafo 3Doodler convierte tus diseños en realidad al instante, permitiéndote crear estructuras tridimensionales al vuelo, sin complicaciones digitales. Ideal para mentes creativas!",
+          "\"Su precio actual en Amazon ronda los... 80 dólares. ¡Link en el primer comentario!\""
+        ],
+        "visuals": [
+          "Product image: 3Doodler Bolígrafo 3D"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0C2L54Q9H_combined.mp4",
+        "precio": "$80",
+        "productPhoto": "https://m.media-amazon.com/images/I/81xUwF5P+qL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0C2L54Q9H\\scenes_v1\\B0C2L54Q9H_scene_01.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          }
+        ],
+        "features": [
+          "THE MOST RELIABLE 3D PRINTING PEN WITH MULTI-FUNCTIONAL COMPATIBILITY: From the creators of the world's first and best 3D Pen, the 3Doodler Flow! Compatible with 1.75 plastic filaments such as PLA, ABS, and wood. The integrated LCD provides real-time temperature monitoring to ensure smooth 3D printing.",
+          "EASY AS 1, 2, 3D!: Designed to be user-friendly, with no complicated software or hardware setups. Just plug it in, insert 3Doodler Flow plastic, wait for the 3D pen to heat up and starting creating with ease! Build and draw 3D structures, freehand or on stencils, with extruded heated plastic that hardens almost instantly!",
+          "FUN & SCREEN-FREE PLAY: A whole new creative experience that brings out the value of engaging in tactile, hands-on activity in a digital age. For teachers and students alike, this is an excellent resource for learning.",
+          "ENJOYABLE PRACTICAL TOOL: Make handmade gifts and decorations, even regular DIY and household repairs are easier with the 3Doodler Flow 3D pen. It’s also compact and light-weight so you can take your Flow on-the-go!",
+          "WHAT'S IN THE BOX: The 3Doodler Flow 3D Printing Pen comes with 8 different colors of plastic spools (80 feet in total) and a comprehensive activity guide book to teach you the basics plus a whole lot of fun and creativity!"
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Wyze Cam Pan",
+        "productId": "B0B9TWY11Q",
+        "productName": "Wyze Cam Pan",
+        "filename": "B0B9TWY11Q.mp4",
+        "asin": "B0B9TWY11Q",
+        "clipDuration": 59.86,
+        "estimatedAudioSeconds": 21,
+        "framework": "enfoque_caracteristica",
+        "narracionSegments": null,
+        "content": [
+          "La Wyze Cam Pan ofrece visión completa con cobertura de 360° y resolución Full HD. Ideal como cámara interna o externa, con visión nocturna en color.",
+          "Su precio actual en Amazon ronda los 40 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Wyze Cam Pan"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0B9TWY11Q_combined.mp4",
+        "precio": "$40",
+        "productPhoto": "https://m.media-amazon.com/images/I/61zQmZVmeKL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "【Full 1080p HD Clarity with Pan Scan Auto Patrol】- Experience crystal-clear video with 360° pan and 180° tilt coverage—ideal for use as a reliable indoor camera or outdoor camera. Set 4 custom waypoints for automated monitoring. (Not 5G compatible.)",
+          "【Stunning Color Night Vision for Low-Light Environments】- See vivid details even in darkness with advanced color night vision. Perfect for monitoring dimly lit driveways, backyards, or nurseries—day or night.",
+          "【AI-Powered Motion Tracking for Pets & People】- This versatile pet camera automatically detects and follows movement—whether it’s your dog, kids, or visitors. Get real-time alerts and enjoy smooth, accurate tracking.",
+          "【True Outdoor Durability with IP65 Rating】- Built to resist rain, heat, and cold, this outdoor camera delivers unwavering performance in any season (Outdoor Power Adapter required).",
+          "【Clear Two-Way Talk with Enhanced Audio】- Communicate with clarity through the built-in microphone and speaker. Perfect for reassuring pets, greeting guests, or issuing warnings."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Ekster Parliament Wallet",
+        "productId": "B07PVMK5NJ",
+        "productName": "Ekster Parliament Wallet",
+        "filename": "B07PVMK5NJ.mp4",
+        "asin": "B07PVMK5NJ",
+        "clipDuration": 60.03,
+        "estimatedAudioSeconds": 28,
+        "framework": "beneficio_oculto",
+        "narracionSegments": null,
+        "content": [
+          "La Ekster Parliament Wallet permite un acceso fácil a tus tarjetas con protección RFID. Hecha de cuero premium y aluminio, es duradera y minimalista.",
+          "Su precio actual en Amazon ronda los 89 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Ekster Parliament Wallet"
+        ],
+        "duration": 25,
+        "precio": "$69",
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07PVMK5NJ_combined.mp4",
+        "productPhoto": "https://m.media-amazon.com/images/I/61GQ7PfGudL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07PVMK5NJ\\scenes_v1\\B07PVMK5NJ_scene_12.mp4",
+            "type": "video",
+            "score": 10,
+            "tag": "interacción real",
+            "raw": "10|interacción real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07PVMK5NJ\\scenes_v1\\B07PVMK5NJ_scene_14.mp4",
+            "type": "video",
+            "score": 10,
+            "tag": "carteras minimalistas",
+            "raw": "10|carteras minimalistas"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07PVMK5NJ\\scenes_v1\\B07PVMK5NJ_scene_03.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "cartera minimalista",
+            "raw": "9|cartera minimalista"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07PVMK5NJ\\scenes_v1\\B07PVMK5NJ_scene_02.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "cartera minimalista",
+            "raw": "9|cartera minimalista"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07PVMK5NJ\\scenes_v1\\B07PVMK5NJ_scene_04.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "cartera minimalista",
+            "raw": "9|cartera minimalista"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07PVMK5NJ\\scenes_v1\\B07PVMK5NJ_scene_05.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "cartera minimalista",
+            "raw": "9|cartera minimalista"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07PVMK5NJ\\scenes_v1\\B07PVMK5NJ_scene_08.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "cartera minimalista",
+            "raw": "9|cartera minimalista"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07PVMK5NJ\\scenes_v1\\B07PVMK5NJ_scene_10.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07PVMK5NJ\\scenes_v1\\B07PVMK5NJ_scene_13.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "cartera minimalista",
+            "raw": "9|cartera minimalista"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07PVMK5NJ\\scenes_v1\\B07PVMK5NJ_scene_15.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "cartera minimalista",
+            "raw": "9|cartera minimalista"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07PVMK5NJ\\scenes_v1\\B07PVMK5NJ_scene_16.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "cartera minimalista",
+            "raw": "8|cartera minimalista"
+          }
+        ],
+        "features": [
+          "The Next Generation Wallet: This minimalist wallet for men gives you easier access to your cards and comes with built in rfid data protection to prevent wireless theft. Forget about rummaging through a bifold wallet, by using our patented card ejection mechanism, you can instantly pop out your cards at the click of a button.",
+          "Sustainable Materials: The Ekster Parliament leather wallet is a men’s metal trigger wallet handcrafted from premium top-grain leather, tanned under silver-rated Lwg-certified protocols, and 6063 T5 Aluminium. Durably designed for daily use, this mens wallet slim design requires minimal upkeep to for a lifetime of use.",
+          "Slim Storage: Store up to 10+ cards, fitting 4-6 in the data protected cardholder while keeping a slim profile. You can also store extras in the cash strap and additional hidden pockets. The Parliament minimalist wallet for men is compact and slim without sacrificing storage space.",
+          "Make It Unloseable: Perfectly fits the Ekster Tracker Card to make sure you never lose your wallet again. Misplaced or lost your Ekster? Ring it from your phone or see where you last had it on a map. Tracking device is sold separately and works with any model; the Ekster Parliament, Ekster Aluminum Cardholder or Ekster Senate mens wallets.",
+          "Our Promise: We create better gear for life on the move and your satisfaction is our top priority; if we don’t meet your expectations just send it back. Depending on the number of cards and bills stored in the wallet, the flap may not close entirely in the first weeks of use. After 1-2 weeks of usage, your wallet will take the natural shape of your pocket and will remain closed naturally."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Rocketbook Smart Notebook",
+        "productId": "B0DP3J346V",
+        "productName": "Rocketbook Smart Notebook",
+        "filename": "B0DP3J346V.mp4",
+        "asin": "B0DP3J346V",
+        "clipDuration": 60.03,
+        "estimatedAudioSeconds": 27,
+        "framework": "comparacion_precio",
+        "narracionSegments": null,
+        "content": [
+          "El Rocketbook Smart Notebook combina escritura tradicional y digitalización. Escanea y sube notas a la nube mientras mantienes un diseño reutilizable.",
+          "Su precio actual en Amazon ronda los 35 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Rocketbook Smart Notebook"
+        ],
+        "duration": 25,
+        "precio": "$27",
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0DP3J346V_combined.mp4",
+        "productPhoto": "https://m.media-amazon.com/images/I/81RHqqjbYML.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DP3J346V\\scenes_v1\\B0DP3J346V_scene_01.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción notebook",
+            "raw": "9|interacción notebook"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DP3J346V\\scenes_v1\\B0DP3J346V_scene_02.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción escritura",
+            "raw": "9|interacción escritura"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DP3J346V\\scenes_v1\\B0DP3J346V_scene_07.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción real",
+            "raw": "9|interacción real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DP3J346V\\scenes_v1\\B0DP3J346V_scene_11.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DP3J346V\\scenes_v1\\B0DP3J346V_scene_12.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Interacción clara",
+            "raw": "9|Interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DP3J346V\\scenes_v1\\B0DP3J346V_scene_14.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DP3J346V\\scenes_v1\\B0DP3J346V_scene_03.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "cuaderno reutilizable",
+            "raw": "8|cuaderno reutilizable"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DP3J346V\\scenes_v1\\B0DP3J346V_scene_08.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "cuaderno reutilizable",
+            "raw": "8|cuaderno reutilizable"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DP3J346V\\scenes_v1\\B0DP3J346V_scene_09.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "cuaderno reutilizable",
+            "raw": "8|cuaderno reutilizable"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DP3J346V\\scenes_v1\\B0DP3J346V_scene_10.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "cuaderno reutilizable",
+            "raw": "8|cuaderno reutilizable"
+          }
+        ],
+        "features": [
+          "New and Improved Core: Features premium reusable paper, with improved pen to paper feel, spiral binding and sleekly re-designed, scratch-resistant cover. College-ruled sheets now include Smart Titles and Smart Tags to name and organize files efficiently.",
+          "App-Enabled for Digital Organization: Scan and upload your written work directly to cloud platforms like Google Drive, Dropbox, OneNote, etc. and access your notes from anywhere. Use Smart Titles and Smart Tags to name and organize files efficiently.",
+          "Write, Digitize, Erase, and Re-Write: Write notes with the included Pilot Frixion Pen, digitize effortlessly using the Rocketbook app, store in your preferred cloud service. When done, simply wipe the pages clean with a damp cloth and start fresh.",
+          "Portable and Versatile Sizes: Available in two sizes—Letter (8.5 x 11 inches) and Executive (6 x 8.8 inches)—the Rocketbook Core is compact enough to fit into backpacks, purses, or briefcases. This notebook offers portability and versatility.",
+          "Eco-Friendly Reusability: Designed with sustainability in mind, Rocketbook notebooks help reduce paper waste with a reusable alternative. Enjoy a paper-like notebook that can be used repeatedly, allowing you to save work and erase everything else."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Snapods Auriculares",
+        "productId": "B0FHWGB7FW",
+        "productName": "Snapods Auriculares",
+        "filename": "B0FHWGB7FW.mp4",
+        "asin": "B0FHWGB7FW",
+        "clipDuration": 60.03,
+        "estimatedAudioSeconds": 25,
+        "framework": "dato_numerico",
+        "narracionSegments": null,
+        "content": [
+          "Los Snapods Auriculares ofrecen tecnología Bluetooth 5.4, reducción de ruido ENC y un display LED para controlar la batería fácilmente.",
+          "Su precio actual en Amazon ronda los 24 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Snapods Auriculares"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0FHWGB7FW_combined.mp4",
+        "precio": "$24",
+        "productPhoto": "https://m.media-amazon.com/images/I/71sWRy5QxIL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FHWGB7FW\\scenes_v1\\B0FHWGB7FW_scene_01.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FHWGB7FW\\scenes_v1\\B0FHWGB7FW_scene_03.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "auriculares inalámbricos",
+            "raw": "9|auriculares inalámbricos"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FHWGB7FW\\scenes_v1\\B0FHWGB7FW_scene_02.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "producto pequeño",
+            "raw": "5|producto pequeño"
+          }
+        ],
+        "features": [
+          "2026 Bluetooth 5.4 Technology : The wireless earbuds use the bluetooth 5.4 chipset. There is a faster and more stable signal transmission and has successfully achieved low latency without interruption. With a range of up to 15 m, whether you are at home, in the office, or on the road, you don't have to worry about disconnection of the bluetooth earbuds. Automatic pairing & compatible with multiple devices.",
+          "More Outstanding ENC Noise Reduction: Powered by dual 14.2 mm low-distortion composite dynamic drivers and a built-in high-resolution decoder, these wireless headphones deliver immersive, high-fidelity sound with AAC and SBC support.Advanced ENC call noise cancellation ensures crystal-clear voice quality, even in noisy environments—bringing you a truly elevated audio experience with the A90 noise-cancelling earbuds.",
+          "LED Power Display & Easy Touch Control: The smart LED display keeps you informed of the remaining battery of both the charging case and wireless earphones, giving you full control over your listening time wherever you go. Simply tap the earbuds wireless bluetooth to control music playback, manage calls, or wake your voice assistant—hands-free convenience, no phone needed.",
+          "36 Hours Playtime & Faster Charging: Enjoy 6–8 hours of uninterrupted listening on one charge, with up to 36 hours of total battery life when used with the charging case. The Type-C fast charging design delivers safer, more efficient power, keeping your noise cancelling headphones ready whenever you need them.",
+          "Ergonomic & IP7 Waterproof: Thanks to an ultra-light nano coating, these true wireless earbuds are IP7 waterproof and dustproof—perfect for workouts or outdoor adventures. The ergonomic in-ear design and soft silicone tips provide a secure, comfortable fit while keeping outside noise out, letting you immerse yourself fully in your music."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Lifestraw Filtro Personal",
+        "productId": "B0DTRLCKH2",
+        "productName": "Lifestraw Filtro Personal",
+        "filename": "B0DTRLCKH2.mp4",
+        "asin": "B0DTRLCKH2",
+        "clipDuration": 60.03,
+        "estimatedAudioSeconds": null,
+        "framework": "experiencia_sensorial",
+        "narracionSegments": null,
+        "content": [
+          "\"Lifestraw Filtro Personal\" elimina bacterias, parásitos y microplásticos del agua, asegurando una hidratación segura en cualquier entorno.",
+          ""
+        ],
+        "visuals": [
+          "Product image: Lifestraw Filtro Personal"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0DTRLCKH2_combined.mp4",
+        "precio": "$51",
+        "productPhoto": "https://m.media-amazon.com/images/I/71HCwtdRDBL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DTRLCKH2\\scenes_v1\\B0DTRLCKH2_scene_02.mp4",
+            "type": "video",
+            "score": 10,
+            "tag": "filtro de agua",
+            "raw": "10|filtro de agua"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DTRLCKH2\\scenes_v1\\B0DTRLCKH2_scene_03.mp4",
+            "type": "video",
+            "score": 10,
+            "tag": "interacción real",
+            "raw": "10|interacción real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DTRLCKH2\\scenes_v1\\B0DTRLCKH2_scene_05.mp4",
+            "type": "video",
+            "score": 10,
+            "tag": "interacción real",
+            "raw": "10|interacción real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DTRLCKH2\\scenes_v1\\B0DTRLCKH2_scene_09.mp4",
+            "type": "video",
+            "score": 10,
+            "tag": "interacción real",
+            "raw": "10|interacción real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DTRLCKH2\\scenes_v1\\B0DTRLCKH2_scene_07.mp4",
+            "type": "video",
+            "score": 10,
+            "tag": "interacción real",
+            "raw": "10|interacción real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DTRLCKH2\\scenes_v1\\B0DTRLCKH2_scene_08.mp4",
+            "type": "video",
+            "score": 10,
+            "tag": "interacción real",
+            "raw": "10|interacción real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DTRLCKH2\\scenes_v1\\B0DTRLCKH2_scene_10.mp4",
+            "type": "video",
+            "score": 10,
+            "tag": "interacción real",
+            "raw": "10|interacción real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DTRLCKH2\\scenes_v1\\B0DTRLCKH2_scene_01.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DTRLCKH2\\scenes_v1\\B0DTRLCKH2_scene_04.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción real",
+            "raw": "9|interacción real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DTRLCKH2\\scenes_v1\\B0DTRLCKH2_scene_06.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "filtro de agua",
+            "raw": "8|filtro de agua"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DTRLCKH2\\scenes_v1\\B0DTRLCKH2_scene_11.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "producto visible",
+            "raw": "8|producto visible"
+          }
+        ],
+        "features": [
+          "Removes Bacteria & Parasites: The Microfiltration Membrane Removes 99.999999% Of Waterborne Bacteria (Including E. Coli And Salmonella), And 99.999% Of Waterborne Parasites (Including Giardia And Cryptosporidium)",
+          "Removes Microplastics: Removes The Smallest Microplastics Found In The Environment (Down To 1 Micron), And Reduces Turbidity Down To 0.2 Microns",
+          "Rigorous Testing: All Claims Are Verified With Laboratories Using Standard Testing Protocols Set By The Us Epa, Nsf, Astm For Water Purifiers",
+          "Long Lifetime: The Microbiological Filter Will Provide 4,000 Liters (1,000 Gallons) Of Clean And Safe Drinking Water With Proper Use And Maintenance",
+          "Make An Impact: For Every Lifestraw Product Purchased, A School Child In Need Receives Safe Drinking Water For An Entire School Year"
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Nebula Capsule Proyector",
+        "productId": "B0CHW11C8H",
+        "productName": "Nebula Capsule Proyector",
+        "filename": "B0CHW11C8H.mp4",
+        "asin": "B0CHW11C8H",
+        "clipDuration": 60.03,
+        "estimatedAudioSeconds": null,
+        "framework": "problema_solucion",
+        "narracionSegments": null,
+        "content": [
+          "Super-Sized Screen, Portable Design: Capsule 3 is an all-new ultra-portable Google TV projector licensed by Netflix.",
+          "Su precio actual en Amazon ronda los... 349 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Nebula Capsule Proyector"
+        ],
+        "duration": 25,
+        "precio": "$400",
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0CHW11C8H_combined.mp4",
+        "productPhoto": "https://m.media-amazon.com/images/I/81WZMwYM93L.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CHW11C8H\\scenes_v1\\B0CHW11C8H_scene_01.mp4",
+            "type": "video",
+            "score": 10,
+            "tag": "proyector portátil",
+            "raw": "10|proyector portátil"
+          }
+        ],
+        "features": [
+          "Super-Sized Screen, Portable Design: Capsule 3 is an all-new ultra-portable Google TV projector licensed by Netflix.",
+          "Take the Big Screen Anywhere: With a max screen size of 120 inches, Capsule 3 delivers a cinema-level experience you can take with you anywhere.",
+          "Next-Level Image Quality: The 1080p display with 200 Lumens of brightness makes movies shine for an immersive watching experience.",
+          "Long Playtime: Finish a whole 2.5-hour movie or listen to 8 hours of music on a single charge. (under eco mode)",
+          "Set Up in Seconds: Our Intelligent Environment Adaptation Technology performs screen fit, auto keystone correction, autofocus, and obstacle avoidance in just 3 seconds."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Tile Mate Rastreador",
+        "productId": "B0D634BYLV",
+        "productName": "Tile Mate Rastreador",
+        "filename": "B0D634BYLV.mp4",
+        "asin": "B0D634BYLV",
+        "clipDuration": 60.03,
+        "estimatedAudioSeconds": 22,
+        "framework": "enfoque_caracteristica",
+        "narracionSegments": null,
+        "content": [
+          "El Tile Mate Rastreador es el dispositivo perfecto para proteger tus pertenencias. Se conecta a una app gratuita que te permite localizarlo rápidamente, incluso si está en silencio.",
+          "Su precio actual en Amazon ronda los 72 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Tile Mate Rastreador"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0D634BYLV_combined.mp4",
+        "precio": "$72",
+        "productPhoto": "https://m.media-amazon.com/images/I/71PjyIqDN2L.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D634BYLV\\scenes_v1\\B0D634BYLV_scene_01.mp4",
+            "type": "video",
+            "score": 10,
+            "tag": "Llave localizadora",
+            "raw": "10|Llave localizadora"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D634BYLV\\scenes_v1\\B0D634BYLV_scene_09.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D634BYLV\\scenes_v1\\B0D634BYLV_scene_02.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "localizador Bluetooth",
+            "raw": "8|localizador Bluetooth"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D634BYLV\\scenes_v1\\B0D634BYLV_scene_03.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "producto visible",
+            "raw": "8|producto visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D634BYLV\\scenes_v1\\B0D634BYLV_scene_04.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Localizador Bluetooth",
+            "raw": "8|Localizador Bluetooth"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D634BYLV\\scenes_v1\\B0D634BYLV_scene_06.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Llaves visibles",
+            "raw": "8|Llaves visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D634BYLV\\scenes_v1\\B0D634BYLV_scene_07.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Localizador Bluetooth",
+            "raw": "8|Localizador Bluetooth"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D634BYLV\\scenes_v1\\B0D634BYLV_scene_05.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "localizador Bluetooth",
+            "raw": "8|localizador Bluetooth"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D634BYLV\\scenes_v1\\B0D634BYLV_scene_08.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Localizador Bluetooth",
+            "raw": "8|Localizador Bluetooth"
+          }
+        ],
+        "features": [
+          "THE EVERYTHING TRACKER: Protect lost or stolen stuff with the all-in-one family safety app. Attach to everyday things like wallets, keys, bags, and beyond",
+          "STAY SAFE WITH SOS: Keep stuff safe, and people and pets protected. Discreetly trigger an SOS to keep your loved ones safe in any situation",
+          "FIND YOUR THINGS: Ring your misplaced Tile, or track it down in the free app",
+          "FIND YOUR PHONE: Phone hiding under a cushion? Use your Tile to make it ring — even when silenced",
+          "USE WITH LIFE360: Track everything—and everyone you love—a top family connection and safety app. Add your Tiles to see all you love on one map"
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Oura Ring Monitor Salud",
+        "productId": "B0D9WT1S2T",
+        "productName": "Oura Ring Monitor Salud",
+        "filename": "B0D9WT1S2T.mp4",
+        "asin": "B0D9WT1S2T",
+        "clipDuration": 60.03,
+        "estimatedAudioSeconds": 26,
+        "framework": "beneficio_oculto",
+        "narracionSegments": null,
+        "content": [
+          "El Oura Ring monitoriza más de 50 métricas de salud, como sueño y actividad, todo con tecnología Smart Sensing para datos precisos día y noche.",
+          "Su precio actual en Amazon ronda los 299 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Oura Ring Monitor Salud"
+        ],
+        "duration": 25,
+        "precio": "$345",
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0D9WT1S2T_combined.mp4",
+        "productPhoto": "https://m.media-amazon.com/images/I/51ul5++ZdWL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D9WT1S2T\\scenes_v1\\B0D9WT1S2T_scene_10.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D9WT1S2T\\scenes_v1\\B0D9WT1S2T_scene_11.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D9WT1S2T\\scenes_v1\\B0D9WT1S2T_scene_08.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D9WT1S2T\\scenes_v1\\B0D9WT1S2T_scene_15.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Oura Ring",
+            "raw": "8|Oura Ring"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D9WT1S2T\\scenes_v1\\B0D9WT1S2T_scene_12.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "Oura Ring",
+            "raw": "5|Oura Ring"
+          }
+        ],
+        "features": [
+          "ACCURACY - SMART SENSING - Oura tracks over 50 health metrics, including sleep, activity, stress, heart health, and women’s health metrics. Oura Ring 4 is powered by Smart Sensing, which adapts to you — delivering accurate, continuous data, day and night",
+          "ACCURATE SIZING ESSENTIAL - Oura Ring 4 uses unique sizing different from standard jewelry rings; use the Oura Ring 4 Sizing Kit to find your perfect fit before purchasing",
+          "LONG LASTING BATTERY - With up to 8 days of battery life, no screens and no vibrations, Oura Ring 4 allows you to focus on the present. From a workout to a night out — you’re free to forget it’s on. Until you start getting compliments",
+          "OURA MEMBERSHIP - First month of membership is included with purchase, for new members only. Subscription is 5.99/mo afterwards. Membership is tied to your account via the Oura App, not your physical ring",
+          "HSA/FSA ELIGIBLE - We can accept HSA or FSA funds for the following: Oura Ring, additional chargers, and shipping"
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Aqara Hub M2",
+        "productId": "B0FLXXF4YW",
+        "productName": "Aqara Hub M2",
+        "filename": "B0FLXXF4YW.mp4",
+        "asin": "B0FLXXF4YW",
+        "clipDuration": 60.03,
+        "estimatedAudioSeconds": 27,
+        "framework": "comparacion_precio",
+        "narracionSegments": null,
+        "content": [
+          "El Aqara Hub M2 es un hub inteligente que actúa como puente Matter, integrando dispositivos con Apple HomeKit, Alexa y más, soportando hasta 80 dispositivos.",
+          "Su precio actual en Amazon ronda los 70 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Aqara Hub M2"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0FLXXF4YW_combined.mp4",
+        "precio": "$70",
+        "productPhoto": "https://m.media-amazon.com/images/I/61kJxmiPr3L.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FLXXF4YW\\scenes_v1\\B0FLXXF4YW_scene_01.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "producto reconocible",
+            "raw": "8|producto reconocible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FLXXF4YW\\scenes_v1\\B0FLXXF4YW_scene_03.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Conexión dispositivo",
+            "raw": "8|Conexión dispositivo"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FLXXF4YW\\scenes_v1\\B0FLXXF4YW_scene_08.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Hub inteligente",
+            "raw": "8|Hub inteligente"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FLXXF4YW\\scenes_v1\\B0FLXXF4YW_scene_09.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "producto visible",
+            "raw": "8|producto visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FLXXF4YW\\scenes_v1\\B0FLXXF4YW_scene_02.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "Aplicación móvil",
+            "raw": "5|Aplicación móvil"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FLXXF4YW\\scenes_v1\\B0FLXXF4YW_scene_07.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "pantalla dispositivo",
+            "raw": "5|pantalla dispositivo"
+          }
+        ],
+        "features": [
+          "[Multi-Protocol Hub with Matter Bridge] The Aqara Hub M200 is a versatile smart hub that supports multiple advanced features, acting as a Matter Controller, Thread Border Router, and Matter Bridge. It integrates third-party devices into the Aqara Home app. With advanced Matter bridging functionality, it syncs Aqara-exclusive features with ecosystems like Home Assistant, Apple HomeKit, Alexa, and Google Home for seamless integration. Supports up to 40 Aqara Zigbee devices and 40 Thread devices.",
+          "[Smart IR Blaster with Feedback and Learning] The 360°IR blaster not only sends commands but also provides accurate status updates by detecting traditional remote use. It connects IR air conditioning units to Matter, functioning as an AC thermostat when paired with an Aqara Temperature and Humidity Sensor. (Note: Only one AC device can be exposed to Matter. Functionality may vary based on the Matter integration app. For Apple Home exposure, use Matter integration instead of HomeKit.)",
+          "[Wired & Wireless Connectivity with PoE Support] Enjoy flexible setup with dual-band Wi-Fi (2.4/5 GHz) using advanced WPA3 security, and Power over Ethernet (PoE), making the M200 a versatile PoE Ethernet Smart Home Hub. The USB-C port supports mini-UPS or power bank connections for uninterrupted operation, ensuring your energy-saving and security automations stay online. (*2A USB power adapter is not included. )",
+          "[Home Automation and Alarm System] Works with all Aqara devices to create a comprehensive, smart home automation system. The Aqara Hub M200 is equipped with a built-in speaker that can be used in a variety of ways: security alerts, doorbell, alarm clock, and custom audio messages. (** 𝐍𝐨𝐭 𝐭𝐡𝐢𝐫𝐝-𝐩𝐚𝐫𝐭𝐲 𝐙𝐢𝐠𝐛𝐞𝐞 𝐝𝐞𝐯𝐢𝐜𝐞𝐬)",
+          "[Local Automation for Reliable Performance] Supports local execution of automations for Zigbee and Matter devices, ensuring smooth operation even without Wi-Fi or cloud access. Enjoy millisecond response times for a more stable and reliable smart home experience. (Some automation, such as cloud push notifications, will still require the cloud connection to be executed.)"
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Govee LED Strip Lights",
+        "productId": "B0991Q94KP",
+        "productName": "Govee LED Strip Lights",
+        "filename": "B0991Q94KP.mp4",
+        "asin": "B0991Q94KP",
+        "clipDuration": 60.03,
+        "estimatedAudioSeconds": null,
+        "framework": "dato_numerico",
+        "narracionSegments": null,
+        "content": [
+          "\"Las Govee LED Strip Lights ofrecen efectos Smart RGBIC para mostrar múltiples colores simultáneamente, controlados por la aplicación Govee Home.",
+          ""
+        ],
+        "visuals": [
+          "Product image: Govee LED Strip Lights"
+        ],
+        "duration": 25,
+        "precio": "$13",
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0991Q94KP_combined.mp4",
+        "productPhoto": "https://m.media-amazon.com/images/I/71tjdZg28vL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0991Q94KP\\scenes_v1\\B0991Q94KP_scene_10.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Luces LED",
+            "raw": "9|Luces LED"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0991Q94KP\\scenes_v1\\B0991Q94KP_scene_12.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Control aplicación",
+            "raw": "9|Control aplicación"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0991Q94KP\\scenes_v1\\B0991Q94KP_scene_08.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "producto pequeño",
+            "raw": "5|producto pequeño"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0991Q94KP\\scenes_v1\\B0991Q94KP_scene_09.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "LED strip",
+            "raw": "5|LED strip"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0991Q94KP\\scenes_v1\\B0991Q94KP_scene_11.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "producto pequeño",
+            "raw": "5|producto pequeño"
+          }
+        ],
+        "features": [
+          "Smart RGBIC Effects: RGBIC LED Strip lights for bedroom display multiple colors on one line at a time compared with traditional RGB lights. A colorful combination of LED strip lighting for bedroom brings a strong visual impact. (Not Support Alexa)",
+          "Smart APP Control: You can unlock various features to personalize smart LED strip lighting via Govee Home App, getting rid of simple remote control. Adjust the colors and brightness to your preferences, turning a single light to vivid light shows.",
+          "DIY with Inspiration: You can choose from a variety of lighting effects (16 million colors) and share your piece of art on the APP community. Also, we will regularly update AI-created themes on the APP to provide you with more options.",
+          "Upgraded Music Sync Mode: Make your smart LED strip lighting for dance for an immersive home concert experience. Choose from 11 music modes and the integrated high-sensitivity mic will effortlessly sync with your favorite audio.",
+          "64+ Preset Scenes: Find the proper lighting effects that fit your emotions. You can choose from a selection of scenes to bring vivid colors, inspired by party, holidays, movie and more with a simple click on the Govee Home App."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Peak Design Travel Tripod",
+        "productId": "B085BQTQMN",
+        "productName": "Peak Design Travel Tripod",
+        "filename": "B085BQTQMN.mp4",
+        "asin": "B085BQTQMN",
+        "clipDuration": 60.03,
+        "estimatedAudioSeconds": null,
+        "framework": "experiencia_sensorial",
+        "narracionSegments": null,
+        "content": [
+          "COMPACT TRAVEL TRIPOD: We reimagined the travel tripod from the ground up – resulting in pro-level stability, height and features in a form that packs down to the diameter of a wat",
+          "Su precio actual en Amazon ronda los... 600 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Peak Design Travel Tripod"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B085BQTQMN_combined.mp4",
+        "precio": "$600",
+        "productPhoto": "https://m.media-amazon.com/images/I/818QVv6AzPL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B085BQTQMN\\scenes_v1\\B085BQTQMN_scene_01.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B085BQTQMN\\scenes_v1\\B085BQTQMN_scene_03.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "tripode compacto",
+            "raw": "9|tripode compacto"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B085BQTQMN\\scenes_v1\\B085BQTQMN_scene_05.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción tripod",
+            "raw": "9|interacción tripod"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B085BQTQMN\\scenes_v1\\B085BQTQMN_scene_06.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B085BQTQMN\\scenes_v1\\B085BQTQMN_scene_04.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "tripode compacto",
+            "raw": "9|tripode compacto"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B085BQTQMN\\scenes_v1\\B085BQTQMN_scene_09.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B085BQTQMN\\scenes_v1\\B085BQTQMN_scene_10.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "tripode compacto",
+            "raw": "9|tripode compacto"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B085BQTQMN\\scenes_v1\\B085BQTQMN_scene_13.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción tripod",
+            "raw": "9|interacción tripod"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B085BQTQMN\\scenes_v1\\B085BQTQMN_scene_12.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "tripode compacto",
+            "raw": "9|tripode compacto"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B085BQTQMN\\scenes_v1\\B085BQTQMN_scene_15.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción tripod",
+            "raw": "9|interacción tripod"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B085BQTQMN\\scenes_v1\\B085BQTQMN_scene_16.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción tripod",
+            "raw": "9|interacción tripod"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B085BQTQMN\\scenes_v1\\B085BQTQMN_scene_17.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción tripod",
+            "raw": "9|interacción tripod"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B085BQTQMN\\scenes_v1\\B085BQTQMN_scene_18.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B085BQTQMN\\scenes_v1\\B085BQTQMN_scene_19.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "tripode compacto",
+            "raw": "9|tripode compacto"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B085BQTQMN\\scenes_v1\\B085BQTQMN_scene_23.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "tripode en uso",
+            "raw": "9|tripode en uso"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B085BQTQMN\\scenes_v1\\B085BQTQMN_scene_25.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción tripod",
+            "raw": "9|interacción tripod"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B085BQTQMN\\scenes_v1\\B085BQTQMN_scene_27.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "tripode compacto",
+            "raw": "9|tripode compacto"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B085BQTQMN\\scenes_v1\\B085BQTQMN_scene_28.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción tripod",
+            "raw": "9|interacción tripod"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B085BQTQMN\\scenes_v1\\B085BQTQMN_scene_29.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "tripode compacto",
+            "raw": "9|tripode compacto"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B085BQTQMN\\scenes_v1\\B085BQTQMN_scene_31.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "tripode compacto",
+            "raw": "9|tripode compacto"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B085BQTQMN\\scenes_v1\\B085BQTQMN_scene_33.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "tripode compacto",
+            "raw": "9|tripode compacto"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B085BQTQMN\\scenes_v1\\B085BQTQMN_scene_34.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "tripode compacto",
+            "raw": "9|tripode compacto"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B085BQTQMN\\scenes_v1\\B085BQTQMN_scene_37.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción tripod",
+            "raw": "9|interacción tripod"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B085BQTQMN\\scenes_v1\\B085BQTQMN_scene_39.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "fotógrafo ajustando",
+            "raw": "9|fotógrafo ajustando"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B085BQTQMN\\scenes_v1\\B085BQTQMN_scene_41.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B085BQTQMN\\scenes_v1\\B085BQTQMN_scene_42.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B085BQTQMN\\scenes_v1\\B085BQTQMN_scene_43.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "tripode ergonómico",
+            "raw": "9|tripode ergonómico"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B085BQTQMN\\scenes_v1\\B085BQTQMN_scene_44.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B085BQTQMN\\scenes_v1\\B085BQTQMN_scene_45.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B085BQTQMN\\scenes_v1\\B085BQTQMN_scene_46.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción tripod",
+            "raw": "9|interacción tripod"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B085BQTQMN\\scenes_v1\\B085BQTQMN_scene_47.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción cámara",
+            "raw": "9|interacción cámara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B085BQTQMN\\scenes_v1\\B085BQTQMN_scene_58.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "tripode compacto",
+            "raw": "9|tripode compacto"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B085BQTQMN\\scenes_v1\\B085BQTQMN_scene_60.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "tripode compacto",
+            "raw": "9|tripode compacto"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B085BQTQMN\\scenes_v1\\B085BQTQMN_scene_66.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "tripode compacto",
+            "raw": "9|tripode compacto"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B085BQTQMN\\scenes_v1\\B085BQTQMN_scene_68.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "tripode compacto",
+            "raw": "9|tripode compacto"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B085BQTQMN\\scenes_v1\\B085BQTQMN_scene_71.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "tripode compacto",
+            "raw": "9|tripode compacto"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B085BQTQMN\\scenes_v1\\B085BQTQMN_scene_57.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción tripod",
+            "raw": "9|interacción tripod"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B085BQTQMN\\scenes_v1\\B085BQTQMN_scene_08.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "trípode compacto",
+            "raw": "8|trípode compacto"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B085BQTQMN\\scenes_v1\\B085BQTQMN_scene_07.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "tripode compacto",
+            "raw": "8|tripode compacto"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B085BQTQMN\\scenes_v1\\B085BQTQMN_scene_20.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "tripode compacto",
+            "raw": "8|tripode compacto"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B085BQTQMN\\scenes_v1\\B085BQTQMN_scene_21.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "trípode compacto",
+            "raw": "8|trípode compacto"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B085BQTQMN\\scenes_v1\\B085BQTQMN_scene_26.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "tripode compacto",
+            "raw": "8|tripode compacto"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B085BQTQMN\\scenes_v1\\B085BQTQMN_scene_30.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "tripode compacto",
+            "raw": "8|tripode compacto"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B085BQTQMN\\scenes_v1\\B085BQTQMN_scene_32.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "trípode compacto",
+            "raw": "8|trípode compacto"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B085BQTQMN\\scenes_v1\\B085BQTQMN_scene_67.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "trípode compacto",
+            "raw": "8|trípode compacto"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B085BQTQMN\\scenes_v1\\B085BQTQMN_scene_11.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "tripode compacto",
+            "raw": "5|tripode compacto"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B085BQTQMN\\scenes_v1\\B085BQTQMN_scene_24.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "tripod pequeño",
+            "raw": "5|tripod pequeño"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B085BQTQMN\\scenes_v1\\B085BQTQMN_scene_35.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "tripode compacto",
+            "raw": "5|tripode compacto"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B085BQTQMN\\scenes_v1\\B085BQTQMN_scene_38.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "tripode compacto",
+            "raw": "5|tripode compacto"
+          }
+        ],
+        "features": [
+          "COMPACT TRAVEL TRIPOD: We reimagined the travel tripod from the ground up – resulting in pro-level stability, height and features in a form that packs down to the diameter of a water bottle. Fast setup, ergonomic controls and built-in phone support.",
+          "SPEEDY SET UP: Unique leg design lets you deploy and lock this peak design tripod in seconds – no flipping, rotating or fumbling needed. The quick-release lever system makes mounting smooth and intuitive, so you're always ready to capture the moment.",
+          "PRO-LEVEL PERFORMANCE: Don’t let the size fool you – this tripod supports up to 20 lbs, handling a full-frame DSLR with telephoto lens. Shoot low, invert your setup without tools or hang extra weight from the integrated hook for stability anywhere.",
+          "STREAMLINED PRECISION: The omnidirectional ball head uses a single adjustment ring for fast, intuitive control. Plus, a built-in mobile mount pops out of the center column, so you're always ready to shoot, whether it's a camera or phone.",
+          "RADICAL PRODUCTS, RADICAL COMPANY: Peak Design creates industry-shifting, lifetime-lasting gear with a mission to leave the world better than we found it. No investors, no venture capital – just innovation on our terms."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "LARQ Botella Autolimpiante",
+        "productId": "B0DQ7XQX39",
+        "productName": "LARQ Botella Autolimpiante",
+        "filename": "B0DQ7XQX39.mp4",
+        "asin": "B0DQ7XQX39",
+        "clipDuration": 60.06,
+        "estimatedAudioSeconds": 25,
+        "framework": "enfoque_caracteristica",
+        "narracionSegments": null,
+        "content": [
+          "La LARQ Botella Autolimpiante utiliza tecnología UV-C LED para neutralizar bacterias y olores, manteniendo el agua limpia en 60 segundos. Además, su doble pared aislante conserva el agua fría por 24 horas o caliente por 12.",
+          "Su precio actual en Amazon ronda los 129 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: LARQ Botella Autolimpiante"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0DQ7XQX39_combined.mp4",
+        "precio": "$129",
+        "productPhoto": "https://m.media-amazon.com/images/I/41AHOD0dU4L.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "LARQ Bottle PureVis - Neutralizes bacteria for your peace of mind – using innovative non-toxic mercury-free UV-C LED technology to sanitize water and clean the inner surfaces of the bottle by neutralizing odor-causing bacteria and viruses",
+          "BRILLIANTLY CLEAN WATER IN 60 SECONDS - PureVis Bottle works at the touch of a button and self-cleans by intelligently activating every 2 hours to keep your bottle fresh and stink-free. Double-wall vacuum insulated and stainless steel bottle keeps your water cold for 24 hours and hot for 12.",
+          "KEEP YOUR COOL - or keep things toasty. Double-wall vacuum insulated and stainless steel bottle keeps your water cold for 24 hours and hot for 12. Bottle cap includes safety deactivation measure to prevent accidental exposure to UV-C light once cap is removed.",
+          "LARQ Bottle Filtered - A revolutionary portable water filtration system that combines high-performance Nano Zero filter technology with zerovalent iron providing a seamless, low-pressure drinking experience. Double-wall insulated BPA-free stainless steel build keeps your water cold for up to 24 hours."
+        ]
+      }
+    ],
+    "totalDuration": 600
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      null
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "11:08",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "cosas",
+    "sabas",
+    "estaban",
+    "amazon"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 16 Cosas que No Sabías que Estaban en Amazon",
+      "angle": "Top 16 Cosas que No Sabías que Estaban en Amazon",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 16,
+      "introScript": "¿Un gadget que congela tu bebida en 60 segundos? ¿Una lámpara que flota en el aire? Hoy te traigo los inventos más locos que puedes comprar ahora mismo. Prepárate para descubrir un bolígrafo que escribe en el aire y una cámara de seguridad que sigue tus movimientos. Quédate para ver estas maravillas tecnológicas disponibles a un clic de distancia.",
+      "keywords": [
+        "cosas",
+        "sabas",
+        "estaban",
+        "amazon"
+      ],
+      "estimatedViews": 3937,
+      "bestPublishTime": "2026-06-06T15:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "HyperChiller Bebidas Rápidas",
+          "searchTermEn": "HyperChiller Beverage Cooler",
+          "id": "B08YJ9QVP7",
+          "filename": "B08YJ9QVP7.mp4"
+        },
+        {
+          "nombre": "Levitating Moon Lamp",
+          "searchTermEn": "magnetic levitation moon lamp",
+          "id": "B07H1G1J61",
+          "filename": "B07H1G1J61.mp4"
+        },
+        {
+          "nombre": "3Doodler Bolígrafo 3D",
+          "searchTermEn": "3Doodler Create+ 3D Pen",
+          "id": "B0C2L54Q9H",
+          "filename": "B0C2L54Q9H.mp4"
+        },
+        {
+          "nombre": "Wyze Cam Pan",
+          "searchTermEn": "Wyze Cam Pan Security Camera",
+          "id": "B0B9TWY11Q",
+          "filename": "B0B9TWY11Q.mp4"
+        },
+        {
+          "nombre": "Ekster Parliament Wallet",
+          "searchTermEn": "Ekster Parliament Wallet",
+          "id": "B07PVMK5NJ",
+          "filename": "B07PVMK5NJ.mp4"
+        },
+        {
+          "nombre": "Rocketbook Everlast Notebook",
+          "searchTermEn": "Rocketbook Everlast Smart Notebook",
+          "id": "B0DP3J346V",
+          "filename": "B0DP3J346V.mp4"
+        },
+        {
+          "nombre": "Snapods Auriculares",
+          "searchTermEn": "Snapods Wireless Earbuds",
+          "id": "B0FHWGB7FW",
+          "filename": "B0FHWGB7FW.mp4"
+        },
+        {
+          "nombre": "Lifestraw Filtro Personal",
+          "searchTermEn": "Lifestraw Personal Water Filter",
+          "id": "B0DTRLCKH2",
+          "filename": "B0DTRLCKH2.mp4"
+        },
+        {
+          "nombre": "Anker Nebula Capsule",
+          "searchTermEn": "Anker Nebula Capsule Projector",
+          "id": "B0CHW11C8H",
+          "filename": "B0CHW11C8H.mp4"
+        },
+        {
+          "nombre": "Tile Mate Rastreador",
+          "searchTermEn": "Tile Mate Bluetooth Tracker",
+          "id": "B0D634BYLV",
+          "filename": "B0D634BYLV.mp4"
+        },
+        {
+          "nombre": "Oura Ring Monitor",
+          "searchTermEn": "Oura Ring Health Tracker",
+          "id": "B0D9WT1S2T",
+          "filename": "B0D9WT1S2T.mp4"
+        },
+        {
+          "nombre": "Aqara Hub M2",
+          "searchTermEn": "Aqara Hub M2 Smart Home",
+          "id": "B0FLXXF4YW",
+          "filename": "B0FLXXF4YW.mp4"
+        },
+        {
+          "nombre": "Govee RGBIC Luces",
+          "searchTermEn": "Govee RGBIC LED Strip Lights",
+          "id": "B0991Q94KP",
+          "filename": "B0991Q94KP.mp4"
+        },
+        {
+          "nombre": "Peak Design Travel Tripod",
+          "searchTermEn": "Peak Design Travel Tripod",
+          "id": "B085BQTQMN",
+          "filename": "B085BQTQMN.mp4"
+        },
+        {
+          "nombre": "Nomad Base Station",
+          "searchTermEn": "Nomad Base Station Charger",
+          "id": "B09DHZKZZ2",
+          "filename": "B09DHZKZZ2.mp4"
+        },
+        {
+          "nombre": "LARQ Botella Autolimpiante",
+          "searchTermEn": "LARQ Self-Cleaning Water Bottle",
+          "id": "B0DQ7XQX39",
+          "filename": "B0DQ7XQX39.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-06-01T17:26:12.230Z",
+      "_requestedCount": 16,
+      "_adaptedCount": 16,
+      "introProductsOrder": [
+        {
+          "nombre": "Tile Mate Rastreador",
+          "id": "B0D634BYLV",
+          "filename": "B0D634BYLV_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0D634BYLV_combined.mp4"
+        },
+        {
+          "nombre": "3Doodler Bolígrafo 3D",
+          "id": "B0C2L54Q9H",
+          "filename": "B0C2L54Q9H_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0C2L54Q9H_combined.mp4"
+        },
+        {
+          "nombre": "Lifestraw Filtro Personal",
+          "id": "B0DTRLCKH2",
+          "filename": "B0DTRLCKH2_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0DTRLCKH2_combined.mp4"
+        },
+        {
+          "nombre": "Peak Design Travel Tripod",
+          "id": "B085BQTQMN",
+          "filename": "B085BQTQMN_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B085BQTQMN_combined.mp4"
+        },
+        {
+          "nombre": "Oura Ring Monitor",
+          "id": "B0D9WT1S2T",
+          "filename": "B0D9WT1S2T_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0D9WT1S2T_combined.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1780337487605_azzqn1"
+    },
+    "generatedAt": "2026-06-01T18:21:22.995Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "HyperChiller Bebidas Rápidas",
+        "searchTermEn": "HyperChiller Beverage Cooler",
+        "id": "B08YJ9QVP7",
+        "filename": "B08YJ9QVP7.mp4"
+      },
+      {
+        "nombre": "Levitating Moon Lamp",
+        "searchTermEn": "magnetic levitation moon lamp",
+        "id": "B07H1G1J61",
+        "filename": "B07H1G1J61.mp4"
+      },
+      {
+        "nombre": "3Doodler Bolígrafo 3D",
+        "searchTermEn": "3Doodler Create+ 3D Pen",
+        "id": "B0C2L54Q9H",
+        "filename": "B0C2L54Q9H.mp4"
+      },
+      {
+        "nombre": "Wyze Cam Pan",
+        "searchTermEn": "Wyze Cam Pan Security Camera",
+        "id": "B0B9TWY11Q",
+        "filename": "B0B9TWY11Q.mp4"
+      },
+      {
+        "nombre": "Ekster Parliament Wallet",
+        "searchTermEn": "Ekster Parliament Wallet",
+        "id": "B07PVMK5NJ",
+        "filename": "B07PVMK5NJ.mp4"
+      },
+      {
+        "nombre": "Rocketbook Everlast Notebook",
+        "searchTermEn": "Rocketbook Everlast Smart Notebook",
+        "id": "B0DP3J346V",
+        "filename": "B0DP3J346V.mp4"
+      },
+      {
+        "nombre": "Snapods Auriculares",
+        "searchTermEn": "Snapods Wireless Earbuds",
+        "id": "B0FHWGB7FW",
+        "filename": "B0FHWGB7FW.mp4"
+      },
+      {
+        "nombre": "Lifestraw Filtro Personal",
+        "searchTermEn": "Lifestraw Personal Water Filter",
+        "id": "B0DTRLCKH2",
+        "filename": "B0DTRLCKH2.mp4"
+      },
+      {
+        "nombre": "Anker Nebula Capsule",
+        "searchTermEn": "Anker Nebula Capsule Projector",
+        "id": "B0CHW11C8H",
+        "filename": "B0CHW11C8H.mp4"
+      },
+      {
+        "nombre": "Tile Mate Rastreador",
+        "searchTermEn": "Tile Mate Bluetooth Tracker",
+        "id": "B0D634BYLV",
+        "filename": "B0D634BYLV.mp4"
+      },
+      {
+        "nombre": "Oura Ring Monitor",
+        "searchTermEn": "Oura Ring Health Tracker",
+        "id": "B0D9WT1S2T",
+        "filename": "B0D9WT1S2T.mp4"
+      },
+      {
+        "nombre": "Aqara Hub M2",
+        "searchTermEn": "Aqara Hub M2 Smart Home",
+        "id": "B0FLXXF4YW",
+        "filename": "B0FLXXF4YW.mp4"
+      },
+      {
+        "nombre": "Govee RGBIC Luces",
+        "searchTermEn": "Govee RGBIC LED Strip Lights",
+        "id": "B0991Q94KP",
+        "filename": "B0991Q94KP.mp4"
+      },
+      {
+        "nombre": "Peak Design Travel Tripod",
+        "searchTermEn": "Peak Design Travel Tripod",
+        "id": "B085BQTQMN",
+        "filename": "B085BQTQMN.mp4"
+      },
+      {
+        "nombre": "Nomad Base Station",
+        "searchTermEn": "Nomad Base Station Charger",
+        "id": "B09DHZKZZ2",
+        "filename": "B09DHZKZZ2.mp4"
+      },
+      {
+        "nombre": "LARQ Botella Autolimpiante",
+        "searchTermEn": "LARQ Self-Cleaning Water Bottle",
+        "id": "B0DQ7XQX39",
+        "filename": "B0DQ7XQX39.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 16 Cosas que No Sabías que Estaban en Amazon\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\n¿Y si pierdes algo? ¿Crear en el aire? ¿Beber agua segura? ¿Capturar cada ángulo? ¿Control total de tu salud?\n\n[25s-30s] INTRODUCTION\nLos links de compra están en el primer comentario. Empezamos.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] HYPERCHILLER BEBIDAS RÁPIDAS\n¿Sabías que puedes enfriar tu bebida favorita en menos de 60 segundos? El HyperChiller Bebidas Rápidas logra esto sin hielo, usando un diseño patentado y solo agua regular. Compatible con todas las cafeteras, transforma una mañana apresurada en un placer refrescante.\nSu precio actual en Amazon ronda los... 25 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: HyperChiller Bebidas Rápidas]\n\n[0:25] LEVITATING MOON LAMP\nImagina la luna girando mágicamente sobre tu mesa gracias a la técnica de levitación magnética. La Levitating Moon Lamp no solo ilumina con suaves colores regulables, sino que crea una atmósfera relajante única. Llévate el universo a casa con un toque.\nSu precio actual en Amazon ronda los... 69 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Levitating Moon Lamp]\n\n[0:25] 3DOODLER BOLÍGRAFO 3D\n\"Cansado de ver tus ideas atrapadas en papel? El Bolígrafo 3Doodler convierte tus diseños en realidad al instante, permitiéndote crear estructuras tridimensionales al vuelo, sin complicaciones digitales. Ideal para mentes creativas!\n\"Su precio actual en Amazon ronda los... 80 dólares. ¡Link en el primer comentario!\"\n\n[VISUALS: Product image: 3Doodler Bolígrafo 3D]\n\n[0:25] WYZE CAM PAN\nLa Wyze Cam Pan ofrece visión completa con cobertura de 360° y resolución Full HD. Ideal como cámara interna o externa, con visión nocturna en color.\nSu precio actual en Amazon ronda los 40 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Wyze Cam Pan]\n\n[0:25] EKSTER PARLIAMENT WALLET\nLa Ekster Parliament Wallet permite un acceso fácil a tus tarjetas con protección RFID. Hecha de cuero premium y aluminio, es duradera y minimalista.\nSu precio actual en Amazon ronda los 89 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Ekster Parliament Wallet]\n\n[0:25] ROCKETBOOK SMART NOTEBOOK\nEl Rocketbook Smart Notebook combina escritura tradicional y digitalización. Escanea y sube notas a la nube mientras mantienes un diseño reutilizable.\nSu precio actual en Amazon ronda los 35 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Rocketbook Smart Notebook]\n\n[0:25] SNAPODS AURICULARES\nLos Snapods Auriculares ofrecen tecnología Bluetooth 5.4, reducción de ruido ENC y un display LED para controlar la batería fácilmente.\nSu precio actual en Amazon ronda los 24 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Snapods Auriculares]\n\n[0:25] LIFESTRAW FILTRO PERSONAL\n\"Lifestraw Filtro Personal\" elimina bacterias, parásitos y microplásticos del agua, asegurando una hidratación segura en cualquier entorno.\n\n\n[VISUALS: Product image: Lifestraw Filtro Personal]\n\n[0:25] NEBULA CAPSULE PROYECTOR\nSuper-Sized Screen, Portable Design: Capsule 3 is an all-new ultra-portable Google TV projector licensed by Netflix.\nSu precio actual en Amazon ronda los... 349 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Nebula Capsule Proyector]\n\n[0:25] TILE MATE RASTREADOR\nEl Tile Mate Rastreador es el dispositivo perfecto para proteger tus pertenencias. Se conecta a una app gratuita que te permite localizarlo rápidamente, incluso si está en silencio.\nSu precio actual en Amazon ronda los 72 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Tile Mate Rastreador]\n\n[0:25] OURA RING MONITOR SALUD\nEl Oura Ring monitoriza más de 50 métricas de salud, como sueño y actividad, todo con tecnología Smart Sensing para datos precisos día y noche.\nSu precio actual en Amazon ronda los 299 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Oura Ring Monitor Salud]\n\n[0:25] AQARA HUB M2\nEl Aqara Hub M2 es un hub inteligente que actúa como puente Matter, integrando dispositivos con Apple HomeKit, Alexa y más, soportando hasta 80 dispositivos.\nSu precio actual en Amazon ronda los 70 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Aqara Hub M2]\n\n[0:25] GOVEE LED STRIP LIGHTS\n\"Las Govee LED Strip Lights ofrecen efectos Smart RGBIC para mostrar múltiples colores simultáneamente, controlados por la aplicación Govee Home.\n\n\n[VISUALS: Product image: Govee LED Strip Lights]\n\n[0:25] PEAK DESIGN TRAVEL TRIPOD\nCOMPACT TRAVEL TRIPOD: We reimagined the travel tripod from the ground up – resulting in pro-level stability, height and features in a form that packs down to the diameter of a wat\nSu precio actual en Amazon ronda los... 600 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Peak Design Travel Tripod]\n\n[0:25] NOMAD BASE STATION\nPremium Build: This Wireless Charger features a sturdy plastic body paired with an aluminum alloy frame, keeping the Portable Slim Charger lightweight yet solid for daily use. The \nSu precio actual en Amazon ronda los... 100 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Nomad Base Station]\n\n[0:25] LARQ BOTELLA AUTOLIMPIANTE\nLa LARQ Botella Autolimpiante utiliza tecnología UV-C LED para neutralizar bacterias y olores, manteniendo el agua limpia en 60 segundos. Además, su doble pared aislante conserva el agua fría por 24 horas o caliente por 12.\nSu precio actual en Amazon ronda los 129 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: LARQ Botella Autolimpiante]\n\n[10 seconds] CONCLUSION\nundefined\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 11:08\nTONE: engaging\nPACING: quick\nKEYWORDS: cosas, sabas, estaban, amazon\n"
+}

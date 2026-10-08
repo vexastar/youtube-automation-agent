@@ -1,0 +1,136 @@
+{
+  "title": "Top 1 Gadget para Divertirte Cuando Estás Aburrido",
+  "hook": {
+    "type": "statement",
+    "text": "",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "25s-35s"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Sphero Mini Robot",
+        "productId": "B072B6QVVW",
+        "productName": "Sphero Mini Robot",
+        "filename": "B072B6QVVW.mp4",
+        "asin": "B072B6QVVW",
+        "videoDuration": 58.091,
+        "estimatedAudioSeconds": 34,
+        "framework": "problema_solucion",
+        "narracionSegments": null,
+        "content": [
+          "¿Aburrido de los juguetes tradicionales? El Sphero Mini Robot transforma la diversión con su tamaño de pelota de ping pong y tecnología avanzada. Este mini robot programable viene con un giroscopio, acelerómetro y luces LED coloridas; se controla a través de la Sphero Edu app. Dibuja en tu pantalla, usa bloques de código o escribe en JavaScript. Instala el modo Joystick, Slingshot o Tilt. Conduce, programa y juega juegos arcade... Todo en uno.",
+          "Su precio actual ronda los cincuenta dólares. Link en comentarios."
+        ],
+        "visuals": [
+          "Product image: Sphero Mini Robot"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B072B6QVVW.mp4",
+        "precio": "$50",
+        "productPhoto": "https://m.media-amazon.com/images/I/61ioFHqXsqL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "\"\"\"PEQUEÑO ROBOT, MUCHO DIVERTIDO: Sphero Mini ofrece una gran cantidad de diversión en un pequeño robot programable del tamaño de una pelota de ping pong. Equipado con un giroscopio, acelerómetro y luces LED coloridas, este robot educativo es más que un simple juguete robot mini. ¡Sphero Mini es la entrada perfecta a la robótica para principiantes!\"\"\"",
+          "APRENDE A PROGRAMAR: Impulsado por la gratuita Sphero Edu app, puedes crear y personalizar juegos y programar Sphero Mini dibujando en tu pantalla, utilizando bloques de código de arrastrar y soltar, o escribiendo JavaScript.",
+          "MODO DE CONDUCCIÓN: Los principiantes pueden conducir y jugar juegos inspirados en STEM con la aplicación gratuita Sphero Play. Arrastra y conduce con el modo Joystick, tira hacia atrás y suelta con el modo Slingshot o inclina y rota tu dispositivo móvil con el modo Tilt. Incluido con Sphero Mini hay 3 conos de tráfico y 6 bolos para inspirar diversión en un circuito de obstáculos desde el primer momento.",
+          "\"\"\"JUGAR JUEGOS: Usa Sphero Mini como un controlador de juegos para juegos de estilo arcade en la aplicación Sphero Play. Perfecto para jugar en movimiento o con espacio limitado. Elige entre 3 juegos diferentes: dispara a través del espacio, acelera por un túnel o destruye un polígono de ladrillos. Con 1 hora de tiempo de juego, Sphero Mini es la próxima gran novedad.\"\"\"",
+          "INSPIRANDO A LOS CREADORES DEL MAÑANA: Con nuestra indudablemente genial flota de robots programables y herramientas educativas STEAM, estamos inspirando a una nueva generación de inventores y agentes de cambio a través del aprendizaje práctico aplicado de codificación, ciencia, música y artes."
+        ]
+      }
+    ],
+    "totalDuration": 40
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      ""
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:10",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadget",
+    "para",
+    "divertirte",
+    "cuando",
+    "ests",
+    "aburrido"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 1 Gadget para Divertirte Cuando Estás Aburrido",
+      "angle": "Top 1 Gadget para Divertirte Cuando Estás Aburrido",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 1,
+      "introScript": "Imagina un dispositivo que convierte cualquier superficie en una arena de juego interactiva. ¿O una esfera que realiza acrobacias solo con tus gestos? Hoy descubrimos un gadget increíble que hará que el aburrimiento sea cosa del pasado. Este producto ha revolucionado la manera en que nos entretenemos, utilizando tecnología avanzada para ofrecer experiencias únicas y emocionantes en cualquier lugar. No te desconectes porque este dispositivo podría ser exactamente lo que necesitas para convertir una tarde monótona en pura diversión.",
+      "keywords": [
+        "gadget",
+        "para",
+        "divertirte",
+        "cuando",
+        "ests",
+        "aburrido"
+      ],
+      "estimatedViews": 5142,
+      "bestPublishTime": "2026-07-28T19:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Sphero Mini Robot",
+          "searchTermEn": "Sphero Mini app-controlled robot",
+          "id": "B072B6QVVW",
+          "filename": "B072B6QVVW.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-07-23T00:21:39.646Z",
+      "_requestedCount": 1,
+      "_adaptedCount": 1,
+      "introProductsOrder": [
+        {
+          "nombre": "Sphero Mini Robot",
+          "id": "B072B6QVVW",
+          "filename": "B072B6QVVW.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B072B6QVVW.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1784766233155_pd3mdd"
+    },
+    "generatedAt": "2026-07-23T00:24:04.209Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Sphero Mini Robot",
+        "searchTermEn": "Sphero Mini app-controlled robot",
+        "id": "B072B6QVVW",
+        "filename": "B072B6QVVW.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 1 Gadget para Divertirte Cuando Estás Aburrido\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\n\n\n[25s-35s] INTRODUCTION\n\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] SPHERO MINI ROBOT\n¿Aburrido de los juguetes tradicionales? El Sphero Mini Robot transforma la diversión con su tamaño de pelota de ping pong y tecnología avanzada. Este mini robot programable viene con un giroscopio, acelerómetro y luces LED coloridas; se controla a través de la Sphero Edu app. Dibuja en tu pantalla, usa bloques de código o escribe en JavaScript. Instala el modo Joystick, Slingshot o Tilt. Conduce, programa y juega juegos arcade... Todo en uno.\nSu precio actual ronda los cincuenta dólares. Link en comentarios.\n\n[VISUALS: Product image: Sphero Mini Robot]\n\n[10 seconds] CONCLUSION\n\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:10\nTONE: engaging\nPACING: quick\nKEYWORDS: gadget, para, divertirte, cuando, ests, aburrido\n"
+}

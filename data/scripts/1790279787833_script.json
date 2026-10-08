@@ -1,0 +1,134 @@
+{
+  "title": "Top 1 Gadget para Transformar Tu Casa",
+  "hook": {
+    "type": "statement",
+    "text": "Después de analizar decenas de artículos, hemos llegado a esta selección definitiva de productos. En este video no hay exageraciones ni relleno, solo utilidad real para tu espacio creativo. Los links están en el primer comentario. Empecemos.",
+    "duration": "0:00-0:15"
+  },
+  "introduction": {
+    "greeting": "",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0s"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "LIFX Beam Smart Light Bar Kit",
+        "productId": "B073177QS8",
+        "productName": "LIFX Beam Smart Light Bar Kit",
+        "filename": "B073177QS8.mp4",
+        "asin": "B073177QS8",
+        "videoDuration": 50.118,
+        "estimatedAudioSeconds": 30,
+        "framework": "dato_numerico",
+        "narracionSegments": null,
+        "content": [
+          "Instala sin esfuerzo. Personaliza al instante. Controla desde donde quieras con las luces inteligentes del Kit LIFX Beam Smart Light Bar. Ofrece una gama de dieciséis millones de colores ajustables para personalizar cada rincón de tu espacio vital y crear ambientes únicos que se sincronizan con tu estilo. Desde el amanecer hasta el anochecer, cambia sin cables complicados.",
+          "Por ciento veinte dólares. Disponible en Amazon y el enlace te espera en los comentarios."
+        ],
+        "visuals": [
+          "Product image: LIFX Beam Smart Light Bar Kit"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B073177QS8.mp4",
+        "precio": "$120",
+        "productPhoto": "https://m.media-amazon.com/images/I/61VHKn6zlBL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "Fácil de instalar. Los haces se conectan de extremo a extremo. Las tiras adhesivas incluidas te permiten colocarlos exactamente donde quieras. Simplemente descarga la aplicación, conéctate a Wi-Fi y estás listo para comenzar.",
+          "Construido en Wi-Fi y LIFX cloud. Ofrece control total de iluminación a través de Wi-Fi y la nube mediante nuestras aplicaciones LIFX para iOS, Android y Windows 10. Accede a tus luces desde cualquier lugar, en cualquier momento a través de la nube. Rango de voltaje: AC 100-240V 50/60 Hz.",
+          "Ajustable y regulable. Iluminación conectada y escenas para tu espacio, hora del día y estado de ánimo. Elige entre 16 millones de colores con flexibilidad para atenuar. Temperatura de color: 2500K a 9000K.",
+          "Ajuste a la longitud. Los haces de LIFX se pueden personalizar en cualquier diseño para garantizar el mejor ajuste para su hogar. Certificaciones: UL, CUL, FCC, IC, CE, R&TTE, RoHS, REACH, SAA, RCM, CQC, SRRC, PSE, MIC, TRA, EAC, FAC",
+          "Zonas personalizadas. Deja volar tu imaginación con zonas mixtas de colores individualmente direccionables. Crea patrones y formas de onda personalizadas para expresar tu creatividad. Longitud del cable: cable de 0.5m desde el enchufe de alimentación hasta el controlador. Cable de 2.0m desde la unidad del controlador hasta el haz."
+        ],
+        "originalVideoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B073177QS8.mp4"
+      }
+    ],
+    "totalDuration": 40
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "Te reto a encontrar mejores productos que los que compartimos hoy. ¡Suscríbete y no olvides los links en el primer comentario!"
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "",
+    "like": "",
+    "comment": "",
+    "nextVideo": "",
+    "duration": "0 seconds"
+  },
+  "duration": "1:10",
+  "tone": "engaging",
+  "tone_variant": "conversacional y cercano, como si le contaras a un amigo algo increíble que descubriste",
+  "pacing": "quick",
+  "keywords": [
+    "gadget",
+    "para",
+    "transformar",
+    "casa"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 1 Gadget para Transformar Tu Casa",
+      "angle": "Top 1 Gadget para Transformar Tu Casa",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 1,
+      "introScript": "Imagina controlar cada aspecto de tu hogar con un toque futurista. Hoy, exploramos un gadget que redefine la experiencia doméstica: desde luces que sincronizan su color con tus emociones, hasta cerraduras inteligentes que reconocen a cada visitante. Pero ¿qué pasaría si pudieras transformar cualquier rincón en un oasis de iluminación ambiental simplemente con agua? Sí, este dispositivo utiliza agua para crear efectos de luz fascinantes, combinando estética y funcionalidad de maneras que nunca imaginaste. Quédate con nosotros para descubrir cómo funciona este asombroso gadget.",
+      "keywords": [
+        "gadget",
+        "para",
+        "transformar",
+        "casa"
+      ],
+      "estimatedViews": 5882,
+      "bestPublishTime": "2026-09-25T18:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "LIFX Beam Smart Light Bar Kit",
+          "searchTermEn": "LIFX Beam Smart Light Kit",
+          "id": "B073177QS8",
+          "filename": "B073177QS8.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-09-24T19:54:36.343Z",
+      "_requestedCount": 1,
+      "_adaptedCount": 1,
+      "introProductsOrder": [
+        {
+          "nombre": "LIFX Beam Smart Light Bar Kit",
+          "id": "B073177QS8",
+          "filename": "B073177QS8.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B073177QS8.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1790279767351_vykyc1"
+    },
+    "generatedAt": "2026-09-24T19:56:15.913Z",
+    "version": "4.0-dynamic-rotator",
+    "productos": [
+      {
+        "nombre": "LIFX Beam Smart Light Bar Kit",
+        "searchTermEn": "LIFX Beam Smart Light Kit",
+        "id": "B073177QS8",
+        "filename": "B073177QS8.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 1 Gadget para Transformar Tu Casa\n\n══════════════════════════════════════════════════\n\n[0:00-0:15] HOOK\nDespués de analizar decenas de artículos, hemos llegado a esta selección definitiva de productos. En este video no hay exageraciones ni relleno, solo utilidad real para tu espacio creativo. Los links están en el primer comentario. Empecemos.\n\n[0s] INTRODUCTION\n\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] LIFX BEAM SMART LIGHT BAR KIT\nInstala sin esfuerzo. Personaliza al instante. Controla desde donde quieras con las luces inteligentes del Kit LIFX Beam Smart Light Bar. Ofrece una gama de dieciséis millones de colores ajustables para personalizar cada rincón de tu espacio vital y crear ambientes únicos que se sincronizan con tu estilo. Desde el amanecer hasta el anochecer, cambia sin cables complicados.\nPor ciento veinte dólares. Disponible en Amazon y el enlace te espera en los comentarios.\n\n[VISUALS: Product image: LIFX Beam Smart Light Bar Kit]\n\n[10 seconds] CONCLUSION\nTe reto a encontrar mejores productos que los que compartimos hoy. ¡Suscríbete y no olvides los links en el primer comentario!\n\n\n\n[0 seconds] CALL TO ACTION\n\n\n\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:10\nTONE: engaging\nPACING: quick\nKEYWORDS: gadget, para, transformar, casa\n"
+}

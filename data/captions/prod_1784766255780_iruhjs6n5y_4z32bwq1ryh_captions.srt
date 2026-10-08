@@ -1,0 +1,52 @@
+1
+00:00:00,000 --> 00:00:30,000
+  
+
+2
+00:00:30,000 --> 00:00:32,909
+¿Aburrido de los juguetes tradicionales? El Sphero Mini
+
+3
+00:00:33,084 --> 00:00:35,993
+Robot transforma la diversión con su tamaño de
+
+4
+00:00:36,168 --> 00:00:39,077
+pelota de ping pong y tecnología avanzada. Este
+
+5
+00:00:39,253 --> 00:00:42,162
+mini robot programable viene con un giroscopio, acelerómetro
+
+6
+00:00:42,337 --> 00:00:45,246
+y luces LED coloridas; se controla a través
+
+7
+00:00:45,421 --> 00:00:48,330
+de la Sphero Edu app. Dibuja en tu
+
+8
+00:00:48,506 --> 00:00:51,415
+pantalla, usa bloques de código o escribe en
+
+9
+00:00:51,590 --> 00:00:54,499
+JavaScript. Instala el modo Joystick, Slingshot o Tilt.
+
+10
+00:00:54,674 --> 00:00:57,583
+Conduce, programa y juega juegos arcade... Todo en
+
+11
+00:00:57,759 --> 00:01:00,668
+uno. Su precio actual ronda los cincuenta dólares.
+
+12
+00:01:00,843 --> 00:01:03,752
+Link en comentarios.
+
+13
+00:01:02,000 --> 00:01:32,000
+ 
+

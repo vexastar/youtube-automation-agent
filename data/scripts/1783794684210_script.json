@@ -1,0 +1,134 @@
+{
+  "title": "Top 1 Purificador de Aire Imprescindible para tu Hogar",
+  "hook": {
+    "type": "statement",
+    "text": "",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "25s-35s"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Molekule Air Mini+",
+        "productId": "B082M1HTPR",
+        "productName": "Molekule Air Mini+",
+        "filename": "B082M1HTPR.mp4",
+        "asin": "B082M1HTPR",
+        "videoDuration": 64.565767,
+        "estimatedAudioSeconds": 35,
+        "framework": "beneficio_oculto",
+        "narracionSegments": null,
+        "content": [
+          "¿Sabías que la calidad del aire afecta tu salud sin que lo notes...? Molekule Air Mini+. Revolución en purificación de aire. Filtro PECO activado por luz; elimina contaminantes molecularesmente. Purifica espacios hasta doscientos cincuenta pies cuadrados; perfecto para dormitorios y oficinas en casa. Enciende. La luz UV-A activa el filtro; elimina moho, bacterias y polvo. Respira aire limpio... sin preocupaciones. Tecnología futurista para un hogar más sano. Cambia el filtro cada seis meses para óptimo rendimiento.",
+          "Su precio actual ronda los noventa dólares. Link en comentarios."
+        ],
+        "visuals": [
+          "Product image: Molekule Air Mini+"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B082M1HTPR.mp4",
+        "precio": "$90",
+        "productPhoto": "https://m.media-amazon.com/images/I/51lO9aMW1hL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "Reemplazo de Filtro de Purificador de Aire: El Filtro PECO para Molekule Air Mini y Air Mini+ es un filtro de aire interior y un reemplazo de filtro que proporciona una rápida purificación del aire que dura hasta 6 meses.",
+          "Soporta la Calidad del Aire Interior: Este filtro de polvo elimina partículas en el aire para mantener una calidad de aire saludable en habitaciones de hasta 250 sq ft; perfecto para dormitorios, guarderías, oficinas en casa y apartamentos tipo estudio.",
+          "Filtro Activado por Luz: Este filtro nanocatalítico utiliza una luz UV-A para eliminar contaminantes a nivel molecular mediante un tiempo de reacción acelerado y reacciones químicas.",
+          "Protección de Múltiples Capas: destruye moho, bacterias, humo de incendios forestales, VOCs, polvo, microplásticos, alérgenos y otros contaminantes para un aire más limpio y saludable en cualquier habitación.",
+          "Construido para el Futuro: En Molekule, estamos comprometidos a revolucionar el aire limpio para un futuro mejor a través de la innovación, la colaboración y la investigación científica."
+        ]
+      }
+    ],
+    "totalDuration": 40
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      ""
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:10",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "purificador",
+    "aire",
+    "imprescindible",
+    "para",
+    "hogar"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 1 Purificador de Aire Imprescindible para tu Hogar",
+      "angle": "Top 1 Purificador de Aire Imprescindible para tu Hogar",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 1,
+      "introScript": "Imagina un dispositivo que no solo purifica el aire que respiras, sino que también elimina virus y bacterias en minutos. Este gadget utiliza la tecnología más avanzada para mantener tu hogar libre de contaminantes. ¿Te imaginas controlar la calidad del aire desde tu smartphone y recibir alertas en tiempo real sobre el estado de tu entorno? Hoy te revelaré el purificador de aire que está a la vanguardia en innovación y practicidad.",
+      "keywords": [
+        "purificador",
+        "aire",
+        "imprescindible",
+        "para",
+        "hogar"
+      ],
+      "estimatedViews": 5156,
+      "bestPublishTime": "2026-07-18T15:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Molekule Air Mini+",
+          "searchTermEn": "Molekule Air Mini Plus air purifier",
+          "id": "B082M1HTPR",
+          "filename": "B082M1HTPR.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-07-11T18:28:42.086Z",
+      "_requestedCount": 1,
+      "_adaptedCount": 1,
+      "introProductsOrder": [
+        {
+          "nombre": "Molekule Air Mini+",
+          "id": "B082M1HTPR",
+          "filename": "B082M1HTPR.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B082M1HTPR.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1783794649723_xv6znh"
+    },
+    "generatedAt": "2026-07-11T18:30:57.948Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Molekule Air Mini+",
+        "searchTermEn": "Molekule Air Mini Plus air purifier",
+        "id": "B082M1HTPR",
+        "filename": "B082M1HTPR.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 1 Purificador de Aire Imprescindible para tu Hogar\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\n\n\n[25s-35s] INTRODUCTION\n\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] MOLEKULE AIR MINI+\n¿Sabías que la calidad del aire afecta tu salud sin que lo notes...? Molekule Air Mini+. Revolución en purificación de aire. Filtro PECO activado por luz; elimina contaminantes molecularesmente. Purifica espacios hasta doscientos cincuenta pies cuadrados; perfecto para dormitorios y oficinas en casa. Enciende. La luz UV-A activa el filtro; elimina moho, bacterias y polvo. Respira aire limpio... sin preocupaciones. Tecnología futurista para un hogar más sano. Cambia el filtro cada seis meses para óptimo rendimiento.\nSu precio actual ronda los noventa dólares. Link en comentarios.\n\n[VISUALS: Product image: Molekule Air Mini+]\n\n[10 seconds] CONCLUSION\n\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:10\nTONE: engaging\nPACING: quick\nKEYWORDS: purificador, aire, imprescindible, para, hogar\n"
+}

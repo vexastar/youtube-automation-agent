@@ -1,0 +1,575 @@
+{
+  "title": "Top 3 Portátiles Más Avanzados en Amazon",
+  "hook": {
+    "type": "statement",
+    "text": "Eleva tu experiencia visual al máximo. Realiza tareas a velocidades vertiginosas. Ajusta el ángulo para trabajar como quieras.",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "Los links de compra están en el primer comentario. Empezamos.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0:10-0:15"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Microsoft Surface Pro 9",
+        "productId": "B0BLKHC2F6",
+        "productName": "Microsoft Surface Pro 9",
+        "filename": "B0BLKHC2F6.mp4",
+        "asin": "B0BLKHC2F6",
+        "clipDuration": 122.96,
+        "estimatedAudioSeconds": null,
+        "framework": "comparacion_precio",
+        "narracionSegments": null,
+        "content": [
+          "-Versatilidad inigualable- a un precio sorprendente: Microsoft Surface Pro 9 se adapta entre tablet y portátil con su soporte ajustable integrado. Protege cada aspecto de tu dispositivo mientras realizas tareas de manera eficiente con sus accesos precisos a controles, brindando seguridad y comodidad.",
+          "-Su precio actual en Amazon ronda los... 130 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Microsoft Surface Pro 9"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0BLKHC2F6_combined.mp4",
+        "precio": "$130",
+        "productPhoto": "https://m.media-amazon.com/images/I/71WnRSsCoFL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BLKHC2F6\\scenes_v1\\B0BLKHC2F6_scene_05.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Interacción clara",
+            "raw": "9|Interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BLKHC2F6\\scenes_v1\\B0BLKHC2F6_scene_04.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Interacción clara",
+            "raw": "9|Interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BLKHC2F6\\scenes_v1\\B0BLKHC2F6_scene_06.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Interacción clara",
+            "raw": "9|Interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BLKHC2F6\\scenes_v1\\B0BLKHC2F6_scene_08.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Uso del producto",
+            "raw": "9|Uso del producto"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BLKHC2F6\\scenes_v1\\B0BLKHC2F6_scene_07.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Funda Surface Pro",
+            "raw": "9|Funda Surface Pro"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BLKHC2F6\\scenes_v1\\B0BLKHC2F6_scene_09.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Soporte Múltiples Ángulos",
+            "raw": "9|Soporte Múltiples Ángulos"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BLKHC2F6\\scenes_v1\\B0BLKHC2F6_scene_11.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Interacción clara",
+            "raw": "9|Interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BLKHC2F6\\scenes_v1\\B0BLKHC2F6_scene_13.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Uso teclado",
+            "raw": "9|Uso teclado"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BLKHC2F6\\scenes_v1\\B0BLKHC2F6_scene_14.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Funda Surface Pro",
+            "raw": "9|Funda Surface Pro"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BLKHC2F6\\scenes_v1\\B0BLKHC2F6_scene_15.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Uso del producto",
+            "raw": "9|Uso del producto"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BLKHC2F6\\scenes_v1\\B0BLKHC2F6_scene_17.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Interacción clara",
+            "raw": "9|Interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BLKHC2F6\\scenes_v1\\B0BLKHC2F6_scene_16.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Interacción clara",
+            "raw": "9|Interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BLKHC2F6\\scenes_v3\\B0BLKHC2F6_photos_combined_scene_01.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "producto visible",
+            "raw": "9|producto visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BLKHC2F6\\scenes_v2\\B0BLKHC2F6_v2_scene_01.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Interacción clara",
+            "raw": "9|Interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BLKHC2F6\\scenes_v3\\B0BLKHC2F6_photos_combined_scene_02.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Interacción clara",
+            "raw": "9|Interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BLKHC2F6\\scenes_v3\\B0BLKHC2F6_photos_combined_scene_07.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Interacción clara",
+            "raw": "9|Interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BLKHC2F6\\scenes_v3\\B0BLKHC2F6_photos_combined_scene_08.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BLKHC2F6\\scenes_v1\\B0BLKHC2F6_scene_03.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Funda Surface Pro",
+            "raw": "8|Funda Surface Pro"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BLKHC2F6\\scenes_v1\\B0BLKHC2F6_scene_01.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Funda Surface Pro",
+            "raw": "8|Funda Surface Pro"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BLKHC2F6\\scenes_v1\\B0BLKHC2F6_scene_02.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Funda Surface Pro",
+            "raw": "8|Funda Surface Pro"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BLKHC2F6\\scenes_v1\\B0BLKHC2F6_scene_12.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Corte preciso",
+            "raw": "8|Corte preciso"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BLKHC2F6\\scenes_v1\\B0BLKHC2F6_scene_10.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Funda Surface Pro",
+            "raw": "8|Funda Surface Pro"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BLKHC2F6\\scenes_v3\\B0BLKHC2F6_photos_combined_scene_03.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Producto visible",
+            "raw": "8|Producto visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BLKHC2F6\\scenes_v3\\B0BLKHC2F6_photos_combined_scene_04.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Funda Surface Pro",
+            "raw": "8|Funda Surface Pro"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BLKHC2F6\\scenes_v3\\B0BLKHC2F6_photos_combined_scene_05.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Funda Surface Pro",
+            "raw": "8|Funda Surface Pro"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BLKHC2F6\\scenes_v3\\B0BLKHC2F6_photos_combined_scene_06.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Funda Surface Pro",
+            "raw": "8|Funda Surface Pro"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BLKHC2F6\\scenes_v1\\B0BLKHC2F6_scene_18.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "producto pequeño",
+            "raw": "5|producto pequeño"
+          }
+        ],
+        "features": [
+          "【Note】Case only, keyboard not included. The mold for this Surface Pro 11/10/9 case was 100% Designed for original Microsoft Surface 11th Edition AI 2024/Pro 10 for Business/Surface Pro 9 tablet 2022. Works with or without the Surface Pro type cover keyboard. After putting on a casing, dual-plug docking stations are not compatible, but it is compatible with single-plug docking stations.",
+          "【Precise Cutouts】Its precise cutouts allow easy access to all controls and features, which provides all-around protection for the surface pro 11/10/9 tablet. The raised edges protect the screen and camera from damage by scratches.",
+          "【Multiple Angles Built-in Kickstand】Allows surface stand to be adjusted to different angles for better viewing or typing without removing the case.It can meet your needs, whether you use it as a tablet or a laptop",
+          "【Thickened Soft Materials】Omnpak Cases are made of TPU soft frame+ PU abrasion resistant back, the thickened soft frame can better resist daily impact, you don't have to worry about hurting the corners of your tablet.",
+          "【Lightweight & Built in Stylus Pen Holder】Omnpak Surface Pro 11/10/9 Cover offer the best protection while Ultra-thin and lightweight design makes Surface Pro 11/10/9 case easier to carry and with a built-in stylus holder, no more worrying about losing your Surface Pen while on the go."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Apple MacBook Pro M2",
+        "productId": "B0GR1JK9W3",
+        "productName": "Apple MacBook Pro M2",
+        "filename": "B0GR1JK9W3.mp4",
+        "asin": "B0GR1JK9W3",
+        "clipDuration": 28.26,
+        "estimatedAudioSeconds": 46,
+        "framework": "dato_numerico",
+        "narracionSegments": null,
+        "content": [
+          "-Doble almacenamiento inicial- y potencia con hasta 2x más velocidad de SSD, este MacBook redefine la productividad profesional. Equilibrio perfecto entre rendimiento duradero y portabilidad con una batería que dura todo el día.",
+          "Su precio actual en Amazon ronda los... 1984 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Apple MacBook Pro M2"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0GR1JK9W3_combined.mp4",
+        "precio": "$1984",
+        "productPhoto": "https://m.media-amazon.com/images/I/61yFkQA+HFL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GR1JK9W3\\scenes_v2\\B0GR1JK9W3_v2_scene_13.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "pantalla encendida",
+            "raw": "9|pantalla encendida"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GR1JK9W3\\scenes_v2\\B0GR1JK9W3_v2_scene_12.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "pantalla encendida",
+            "raw": "9|pantalla encendida"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GR1JK9W3\\scenes_v2\\B0GR1JK9W3_v2_scene_15.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Pantalla encendida",
+            "raw": "9|Pantalla encendida"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GR1JK9W3\\scenes_v3\\B0GR1JK9W3_photos_combined_scene_03.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Laptop en uso",
+            "raw": "9|Laptop en uso"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GR1JK9W3\\scenes_v1\\B0GR1JK9W3_scene_01.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "MacBook Pro",
+            "raw": "8|MacBook Pro"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GR1JK9W3\\scenes_v2\\B0GR1JK9W3_v2_scene_01.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "MacBook Pro",
+            "raw": "8|MacBook Pro"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GR1JK9W3\\scenes_v2\\B0GR1JK9W3_v2_scene_03.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "pantalla brillante",
+            "raw": "8|pantalla brillante"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GR1JK9W3\\scenes_v2\\B0GR1JK9W3_v2_scene_10.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "MacBook Pro",
+            "raw": "8|MacBook Pro"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GR1JK9W3\\scenes_v3\\B0GR1JK9W3_photos_combined_scene_01.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "MacBook Pro",
+            "raw": "8|MacBook Pro"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GR1JK9W3\\scenes_v3\\B0GR1JK9W3_photos_combined_scene_04.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "producto pequeño",
+            "raw": "5|producto pequeño"
+          }
+        ],
+        "features": [
+          "FAST RUNS IN THE FAMILY — The 14-inch MacBook Pro with the M5 Pro or M5 Max chip brings next-generation speed and powerful on-device AI to personal, professional, and creative tasks. With all-day battery life, double the starting storage,* and a breathtaking Liquid Retina XDR display, it’s pro in every way.*",
+          "BUCKLE UP — Along with a next-generation CPU, faster unified memory, and up to 2x faster SSD storage,* M5 Pro and M5 Max feature a more powerful GPU with a Neural Accelerator built into each core, delivering faster AI performance and on-device training capabilities. So you can blaze through demanding workloads at mind-bending speeds.",
+          "BUILT FOR AI — Apple silicon, and every major component that powers it, is designed to run demanding on-device AI workloads like LLM inference and training. And Apple Intelligence helps you write, express yourself, and get things done effortlessly with groundbreaking privacy protections at every step.*",
+          "ALL-DAY BATTERY LIFE — MacBook Pro delivers the same exceptional performance whether it’s running on battery or plugged in.*",
+          "MACOS RUNS APPS FAST — All your go-to apps run lightning fast in macOS, including built-in apps like FaceTime and Messages. Plus, built-in virus protection and free software updates help keep your Mac running smoothly and securely."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "ASUS ROG Zephyrus G14",
+        "productId": "B0FP4BYKFL",
+        "productName": "ASUS ROG Zephyrus G14",
+        "filename": "B0FP4BYKFL.mp4",
+        "asin": "B0FP4BYKFL",
+        "clipDuration": 43.24,
+        "estimatedAudioSeconds": 42,
+        "framework": "experiencia_sensorial",
+        "narracionSegments": null,
+        "content": [
+          "Siente la diferencia con el ASUS ROG Zephyrus G14. Su funda antishock y resistente al agua protege mientras trabajas cómodamente en cualquier postura gracias al soporte integrado, aumentando la funcionalidad y protegiendo tu equipo.",
+          "Su precio actual en Amazon ronda los... 8 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: ASUS ROG Zephyrus G14"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0FP4BYKFL_combined.mp4",
+        "precio": "$8",
+        "productPhoto": "https://m.media-amazon.com/images/I/71oFZ+Hb0JL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FP4BYKFL\\scenes_v1\\B0FP4BYKFL_scene_01.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FP4BYKFL\\scenes_v2\\B0FP4BYKFL_photos_combined_scene_01.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FP4BYKFL\\scenes_v2\\B0FP4BYKFL_photos_combined_scene_04.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FP4BYKFL\\scenes_v1\\B0FP4BYKFL_scene_02.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "funda portátil",
+            "raw": "8|funda portátil"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FP4BYKFL\\scenes_v1\\B0FP4BYKFL_scene_03.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "funda portátil",
+            "raw": "8|funda portátil"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FP4BYKFL\\scenes_v1\\B0FP4BYKFL_scene_04.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "funda portátil",
+            "raw": "8|funda portátil"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FP4BYKFL\\scenes_v2\\B0FP4BYKFL_photos_combined_scene_03.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Laptop visible",
+            "raw": "8|Laptop visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FP4BYKFL\\scenes_v2\\B0FP4BYKFL_photos_combined_scene_06.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "funda protectora",
+            "raw": "8|funda protectora"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FP4BYKFL\\scenes_v2\\B0FP4BYKFL_photos_combined_scene_05.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "funda protectora",
+            "raw": "8|funda protectora"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FP4BYKFL\\scenes_v2\\B0FP4BYKFL_photos_combined_scene_07.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "producto visible",
+            "raw": "8|producto visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FP4BYKFL\\scenes_v2\\B0FP4BYKFL_photos_combined_scene_08.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "funda portátil",
+            "raw": "8|funda portátil"
+          }
+        ],
+        "features": [
+          "Series Name: MS Series; Model No.: MS58; internal dimensions: 32.5x24.3x2.2 cm(12.8x9.6x0.9 inch) ; external dimensions: 34.3x27x3.4 cm(13.5x10.6x1.3 inch)",
+          "Compatibility: designed to perfectly fit for 14 inch ASUS ROG Zephyrus G14 (2026) GU405; 14 inch ASUS ROG Zephyrus G14 (2025) GA403; 14 inch ASUS ROG Zephyrus G14 (2024) GA403; 14 inch ASUS ROG Zephyrus G14 (2023) GA402; 14 inch ASUS ROG Zephyrus G14 (2022)",
+          "Upgraded Version: laptop stand and sleeve 2 in 1. The internal foldable stand can adjust height to adapt to various working postures across different environments. Easy charging and effective cooling for your laptop",
+          "Anti-Shock&Waterproof: EVA hard sleeve and features internal upgraded shock resistant padding layer, protect your laptop from inadvertent collision and accidental scratches. Made of durable 1600d nylon, it obstructs water effectively. Don't worry about splashing water, washable when laptop sleeve case becomes dirty",
+          "Customized for ASUS Laptops: smatree has more than 20 sizes of hard EVA protective sleeve case customized for ASUS laptops. If you're not sure which model of case is fit for your laptop, please feel free to contact our customer service"
+        ]
+      }
+    ],
+    "totalDuration": 75
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "No olvides dejar un like y recuerda que los links están en el primer comentario."
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:45",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "porttiles",
+    "avanzados",
+    "amazon"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 3 Portátiles Más Avanzados en Amazon",
+      "angle": "Top 3 Portátiles Más Avanzados en Amazon",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 3,
+      "introScript": "¿Un portátil que se convierte en tableta con solo un giro? ¿Otro con una batería que dura más de 24 horas? Y hay uno que ofrece gráficos impresionantes para los gamers más exigentes. Hoy vamos a explorar los portátiles más avanzados que puedes comprar ahora mismo. Prepárate para sorprenderte.",
+      "keywords": [
+        "porttiles",
+        "avanzados",
+        "amazon"
+      ],
+      "estimatedViews": 5211,
+      "bestPublishTime": "2026-05-17T15:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Microsoft Surface Pro 9",
+          "searchTermEn": "Microsoft Surface Pro 9",
+          "id": "B0BLKHC2F6",
+          "filename": "B0BLKHC2F6.mp4"
+        },
+        {
+          "nombre": "Apple MacBook Pro M2",
+          "searchTermEn": "Apple MacBook Pro M2",
+          "id": "B0GR1JK9W3",
+          "filename": "B0GR1JK9W3.mp4"
+        },
+        {
+          "nombre": "ASUS ROG Zephyrus G14",
+          "searchTermEn": "ASUS ROG Zephyrus G14",
+          "id": "B0FP4BYKFL",
+          "filename": "B0FP4BYKFL.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-05-13T17:48:33.400Z",
+      "_requestedCount": 3,
+      "_adaptedCount": 3,
+      "introProductsOrder": [
+        {
+          "nombre": "ASUS ROG Zephyrus G14",
+          "id": "B0FP4BYKFL",
+          "filename": "B0FP4BYKFL_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0FP4BYKFL_combined.mp4"
+        },
+        {
+          "nombre": "Apple MacBook Pro M2",
+          "id": "B0GR1JK9W3",
+          "filename": "B0GR1JK9W3_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0GR1JK9W3_combined.mp4"
+        },
+        {
+          "nombre": "Microsoft Surface Pro 9",
+          "id": "B0BLKHC2F6",
+          "filename": "B0BLKHC2F6_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0BLKHC2F6_combined.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1778695154843_3yx0yi"
+    },
+    "generatedAt": "2026-05-13T17:59:31.603Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Microsoft Surface Pro 9",
+        "searchTermEn": "Microsoft Surface Pro 9",
+        "id": "B0BLKHC2F6",
+        "filename": "B0BLKHC2F6.mp4"
+      },
+      {
+        "nombre": "Apple MacBook Pro M2",
+        "searchTermEn": "Apple MacBook Pro M2",
+        "id": "B0GR1JK9W3",
+        "filename": "B0GR1JK9W3.mp4"
+      },
+      {
+        "nombre": "ASUS ROG Zephyrus G14",
+        "searchTermEn": "ASUS ROG Zephyrus G14",
+        "id": "B0FP4BYKFL",
+        "filename": "B0FP4BYKFL.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 3 Portátiles Más Avanzados en Amazon\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\nEleva tu experiencia visual al máximo. Realiza tareas a velocidades vertiginosas. Ajusta el ángulo para trabajar como quieras.\n\n[0:10-0:15] INTRODUCTION\nLos links de compra están en el primer comentario. Empezamos.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] MICROSOFT SURFACE PRO 9\n-Versatilidad inigualable- a un precio sorprendente: Microsoft Surface Pro 9 se adapta entre tablet y portátil con su soporte ajustable integrado. Protege cada aspecto de tu dispositivo mientras realizas tareas de manera eficiente con sus accesos precisos a controles, brindando seguridad y comodidad.\n-Su precio actual en Amazon ronda los... 130 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Microsoft Surface Pro 9]\n\n[0:25] APPLE MACBOOK PRO M2\n-Doble almacenamiento inicial- y potencia con hasta 2x más velocidad de SSD, este MacBook redefine la productividad profesional. Equilibrio perfecto entre rendimiento duradero y portabilidad con una batería que dura todo el día.\nSu precio actual en Amazon ronda los... 1984 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Apple MacBook Pro M2]\n\n[0:25] ASUS ROG ZEPHYRUS G14\nSiente la diferencia con el ASUS ROG Zephyrus G14. Su funda antishock y resistente al agua protege mientras trabajas cómodamente en cualquier postura gracias al soporte integrado, aumentando la funcionalidad y protegiendo tu equipo.\nSu precio actual en Amazon ronda los... 8 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: ASUS ROG Zephyrus G14]\n\n[10 seconds] CONCLUSION\nNo olvides dejar un like y recuerda que los links están en el primer comentario.\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:45\nTONE: engaging\nPACING: quick\nKEYWORDS: porttiles, avanzados, amazon\n"
+}

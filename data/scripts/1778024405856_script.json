@@ -1,0 +1,363 @@
+{
+  "title": "Top 2 Gadgets Asombrosos para Tu Sala",
+  "hook": {
+    "type": "statement",
+    "text": "Controla todos tus dispositivos con un solo toque. Lleva el cine a donde quiera que vayas.",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "Suscríbete, y encuentra los links en el primer comentario. Empecemos.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0:10-0:15"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Nebula Capsule Proyector",
+        "productId": "B0CHW11C8H",
+        "productName": "Nebula Capsule Proyector",
+        "filename": "B0CHW11C8H.mp4",
+        "asin": "B0CHW11C8H",
+        "clipDuration": 20.89,
+        "estimatedAudioSeconds": 20,
+        "framework": "problema_solucion",
+        "narracionSegments": null,
+        "content": [
+          "¿Cansado de no poder disfrutar de una pantalla grande en cualquier lugar? El Nebula Capsule Proyector, con una pantalla de hasta 120 pulgadas y calidad 1080p, es la solución perfecta para experiencias tipo cine en casa o fuera.",
+          "Su precio actual en Amazon ronda los... 349 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Nebula Capsule Proyector"
+        ],
+        "duration": 25,
+        "precio": "$400",
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0CHW11C8H.mp4",
+        "productPhoto": "https://m.media-amazon.com/images/I/81WZMwYM93L.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CHW11C8H\\scenes_v3\\B0CHW11C8H_v3_scene_01.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "producto visible",
+            "raw": "8|producto visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CHW11C8H\\scenes_v1\\B0CHW11C8H_scene_01.mp4",
+            "type": "video",
+            "score": 7,
+            "tag": "uso real",
+            "raw": "7|uso real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CHW11C8H\\scenes_v2\\B0CHW11C8H_v2_scene_01.mp4",
+            "type": "video",
+            "score": 7,
+            "tag": "producto visible",
+            "raw": "7|producto visible"
+          }
+        ],
+        "features": [
+          "Super-Sized Screen, Portable Design: Capsule 3 is an all-new ultra-portable Google TV projector licensed by Netflix.",
+          "Take the Big Screen Anywhere: With a max screen size of 120 inches, Capsule 3 delivers a cinema-level experience you can take with you anywhere.",
+          "Next-Level Image Quality: The 1080p display with 200 Lumens of brightness makes movies shine for an immersive watching experience.",
+          "Long Playtime: Finish a whole 2.5-hour movie or listen to 8 hours of music on a single charge. (under eco mode)",
+          "Set Up in Seconds: Our Intelligent Environment Adaptation Technology performs screen fit, auto keystone correction, autofocus, and obstacle avoidance in just 3 seconds."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Control remoto inteligente SofaBaton",
+        "productId": "B0G58QT178",
+        "productName": "Control remoto inteligente SofaBaton",
+        "filename": "B0G58QT178.mp4",
+        "asin": "B0G58QT178",
+        "clipDuration": 51.55,
+        "estimatedAudioSeconds": 51,
+        "framework": "enfoque_caracteristica",
+        "narracionSegments": null,
+        "content": [
+          "El Control remoto inteligente SofaBaton destaca por su integración completa con tu sistema de entretenimiento. Controla más de 500,000 dispositivos con un solo mando, gracias a su compatibilidad de IR, Bluetooth, Wi-Fi y RF. Su pantalla táctil te permite acceder instantáneamente a tus canales favoritos y controlar actividades como \"Noche de Película\" o \"Tiempo de Juego\" con un simple toque.",
+          "Su precio actual en Amazon ronda los... 360 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Control remoto inteligente SofaBaton"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0G58QT178.mp4",
+        "precio": "$360",
+        "productPhoto": "https://m.media-amazon.com/images/I/61faQWTTvEL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0G58QT178\\scenes_v1\\B0G58QT178_scene_04.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "pantalla",
+            "raw": "9|pantalla"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0G58QT178\\scenes_v3\\B0G58QT178_v3_scene_14.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "primer plano",
+            "raw": "9|primer plano"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0G58QT178\\scenes_v1\\B0G58QT178_scene_02.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "uso real",
+            "raw": "8|uso real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0G58QT178\\scenes_v1\\B0G58QT178_scene_07.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "uso real",
+            "raw": "8|uso real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0G58QT178\\scenes_v1\\B0G58QT178_scene_08.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "control remoto",
+            "raw": "8|control remoto"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0G58QT178\\scenes_v2\\B0G58QT178_v2_scene_04.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "control remoto",
+            "raw": "8|control remoto"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0G58QT178\\scenes_v2\\B0G58QT178_v2_scene_22.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "uso real",
+            "raw": "8|uso real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0G58QT178\\scenes_v2\\B0G58QT178_v2_scene_23.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "uso real",
+            "raw": "8|uso real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0G58QT178\\scenes_v3\\B0G58QT178_v3_scene_03.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "pantalla",
+            "raw": "8|pantalla"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0G58QT178\\scenes_v3\\B0G58QT178_v3_scene_02.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "uso real",
+            "raw": "8|uso real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0G58QT178\\scenes_v3\\B0G58QT178_v3_scene_05.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "pantalla táctil",
+            "raw": "8|pantalla táctil"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0G58QT178\\scenes_v3\\B0G58QT178_v3_scene_07.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "pantalla táctil",
+            "raw": "8|pantalla táctil"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0G58QT178\\scenes_v3\\B0G58QT178_v3_scene_11.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "uso real",
+            "raw": "8|uso real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0G58QT178\\scenes_v3\\B0G58QT178_v3_scene_15.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "uso real",
+            "raw": "8|uso real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0G58QT178\\scenes_v2\\B0G58QT178_v2_scene_03.mp4",
+            "type": "video",
+            "score": 7,
+            "tag": "producto visible",
+            "raw": "7|producto visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0G58QT178\\scenes_v2\\B0G58QT178_v2_scene_15.mp4",
+            "type": "video",
+            "score": 7,
+            "tag": "control remoto",
+            "raw": "7|control remoto"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0G58QT178\\scenes_v2\\B0G58QT178_v2_scene_16.mp4",
+            "type": "video",
+            "score": 7,
+            "tag": "primer plano",
+            "raw": "7|primer plano"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0G58QT178\\scenes_v2\\B0G58QT178_v2_scene_17.mp4",
+            "type": "video",
+            "score": 7,
+            "tag": "pantalla",
+            "raw": "7|pantalla"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0G58QT178\\scenes_v1\\B0G58QT178_scene_05.mp4",
+            "type": "video",
+            "score": 6,
+            "tag": "producto visible",
+            "raw": "6|producto visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0G58QT178\\scenes_v2\\B0G58QT178_v2_scene_18.mp4",
+            "type": "video",
+            "score": 6,
+            "tag": "uso real",
+            "raw": "6|uso real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0G58QT178\\scenes_v3\\B0G58QT178_v3_scene_12.mp4",
+            "type": "video",
+            "score": 6,
+            "tag": "logo marca",
+            "raw": "6|logo marca"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0G58QT178\\scenes_v3\\B0G58QT178_v3_scene_01.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "uso real",
+            "raw": "5|uso real"
+          }
+        ],
+        "features": [
+          "【THE PERFECT UPGRADE】This X2 universal remote is designed to replace all your old remotes including IR, Bluetooth, Wi-Fi, and RF compatible devices. With support for 6,000+ brands and 500,000+ devices, it’s the ultimate all-in-one solution for your home entertainment system. Our regularly updated database ensures compatibility with the latest gadgets.",
+          "【COMPLETE HOME ASSISTANT INTEGRATION】Offers seamless smart home management by allowing you to add the dedicated Sofabaton Hub integration into your Home Assistant system, enabling HA automations to directly execute your pre-set Activities. For complete control, you can also add commands in our Sofabaton app to control Home Assistant-connected devices, establishing a robust, bi-directional link that ensures harmonious, cross-platform control between your entertainment devices and your entire smart home ecosystem.",
+          "【INSTANT CHANNEL ACCESS】Tired of Endless Menu Scrolling? The X2 Universal Remote with touchscreen and convenient charging dock makes everything simple! As the first smart remote with a quick-access touch screen, it features a dedicated button for instant access to the numeric keypad (0-9), favorite keys, and macros. It's smarter and faster than any standard smart remote.",
+          "【ONE-TOUCH ACTIVITIES】Turn on custom activities like \"Movie Night\" or \"Game Time\" with a single tap! Launch multiple commands at once to turn on your TV, switch inputs, adjust sound, and dim lights—all without manually adjusting each device. Simply touch the screen to activate your ideal setup instantly.",
+          "【HANDS-FREE VOICE CONTROL】The X2 universal remote control offers full compatibility with Alexa and Google Assistant. Simply link your SofaBaton account to integrate all your activities. Use voice commands like, \"Alexa, turn on Movie Night\" to instantly activate your customized scenes—no remote needed. Experience voice-activated entertainment throughout your home."
+        ]
+      }
+    ],
+    "totalDuration": 50
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "Dale like si te gustó y recuerda, los links están en el primer comentario."
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:20",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "asombrosos",
+    "para",
+    "sala"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 2 Gadgets Asombrosos para Tu Sala",
+      "angle": "Top 3 Gadgets Asombrosos para Tu Sala",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 2,
+      "introScript": "¿Un control remoto que nunca pierdes? ¿Un proyector que cabe en tu bolsillo? Descubre hoy los gadgets más alucinantes para transformar tu sala en un espacio futurista. Estos dispositivos ya están disponibles para ti.",
+      "keywords": [
+        "gadgets",
+        "asombrosos",
+        "para",
+        "sala"
+      ],
+      "estimatedViews": 4941,
+      "bestPublishTime": "2026-05-08T20:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Proyector Nebula Anker Capsule",
+          "searchTermEn": "Nebula Anker Capsule projector",
+          "id": "B0CHW11C8H",
+          "filename": "B0CHW11C8H.mp4"
+        },
+        {
+          "nombre": "Control remoto inteligente SofaBaton",
+          "searchTermEn": "SofaBaton smart remote control",
+          "id": "B0G58QT178",
+          "filename": "B0G58QT178.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-05-05T23:33:03.733Z",
+      "_requestedCount": 3,
+      "_adaptedCount": 2,
+      "_adaptationNote": "ATENCIÓN: El usuario pidió 3 productos pero solo hay 2 clips de video disponibles. El guion, título y narrativa deben referirse EXCLUSIVAMENTE a 2 productos.",
+      "introProductsOrder": [
+        {
+          "nombre": "Control remoto inteligente SofaBaton",
+          "id": "B0G58QT178",
+          "filename": "B0G58QT178.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0G58QT178_combined.mp4"
+        },
+        {
+          "nombre": "Proyector Nebula Anker Capsule",
+          "id": "B0CHW11C8H",
+          "filename": "B0CHW11C8H.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0CHW11C8H_combined.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1778024367974_s05g9b"
+    },
+    "generatedAt": "2026-05-05T23:39:32.963Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Proyector Nebula Anker Capsule",
+        "searchTermEn": "Nebula Anker Capsule projector",
+        "id": "B0CHW11C8H",
+        "filename": "B0CHW11C8H.mp4"
+      },
+      {
+        "nombre": "Control remoto inteligente SofaBaton",
+        "searchTermEn": "SofaBaton smart remote control",
+        "id": "B0G58QT178",
+        "filename": "B0G58QT178.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 2 Gadgets Asombrosos para Tu Sala\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\nControla todos tus dispositivos con un solo toque. Lleva el cine a donde quiera que vayas.\n\n[0:10-0:15] INTRODUCTION\nSuscríbete, y encuentra los links en el primer comentario. Empecemos.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] NEBULA CAPSULE PROYECTOR\n¿Cansado de no poder disfrutar de una pantalla grande en cualquier lugar? El Nebula Capsule Proyector, con una pantalla de hasta 120 pulgadas y calidad 1080p, es la solución perfecta para experiencias tipo cine en casa o fuera.\nSu precio actual en Amazon ronda los... 349 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Nebula Capsule Proyector]\n\n[0:25] CONTROL REMOTO INTELIGENTE SOFABATON\nEl Control remoto inteligente SofaBaton destaca por su integración completa con tu sistema de entretenimiento. Controla más de 500,000 dispositivos con un solo mando, gracias a su compatibilidad de IR, Bluetooth, Wi-Fi y RF. Su pantalla táctil te permite acceder instantáneamente a tus canales favoritos y controlar actividades como \"Noche de Película\" o \"Tiempo de Juego\" con un simple toque.\nSu precio actual en Amazon ronda los... 360 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Control remoto inteligente SofaBaton]\n\n[10 seconds] CONCLUSION\nDale like si te gustó y recuerda, los links están en el primer comentario.\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:20\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, asombrosos, para, sala\n"
+}

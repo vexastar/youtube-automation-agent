@@ -1,0 +1,2230 @@
+{
+  "title": "Top 12 Gadgets de Cocina que se Agotan Rápido",
+  "hook": {
+    "type": "statement",
+    "text": "¿Sin cables? ¿Todo automático? ¿Seca rápido? ¿Control absoluto de temperatura? ¿En minutos?",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "¿Cuál querrías tú? Los links están en el primer comentario.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0:10-0:15"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Instant Pot Duo Plus",
+        "productId": "B01NBKTPTS",
+        "productName": "Instant Pot Duo Plus",
+        "filename": "B01NBKTPTS.mp4",
+        "asin": "B01NBKTPTS",
+        "clipDuration": 60.03,
+        "estimatedAudioSeconds": 72,
+        "framework": "enfoque_caracteristica",
+        "narracionSegments": null,
+        "content": [
+          "Con nueve funciones de cocción en un solo aparato, el Instant Pot Duo Plus redefine la versatilidad en la cocina. Sus programas inteligentes personalizables te permiten abordar cada receta con facilidad, desde sopas abundantes hasta pasteles decadentes. Su diseño intuitivo y conveniente presenta una pantalla fácil de leer que muestra tiempo, temperatura e indicadores de presión en tiempo real.",
+          "Su precio actual en Amazon ronda los... 140 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Instant Pot Duo Plus"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B01NBKTPTS_combined.mp4",
+        "precio": "$140",
+        "productPhoto": "https://m.media-amazon.com/images/I/71nx65qZq6L.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01NBKTPTS\\scenes_v1\\B01NBKTPTS_scene_06.mp4",
+            "type": "video",
+            "score": 10,
+            "tag": "interacción real",
+            "raw": "10|interacción real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01NBKTPTS\\scenes_v1\\B01NBKTPTS_scene_01.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Pantalla encendida",
+            "raw": "9|Pantalla encendida"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01NBKTPTS\\scenes_v1\\B01NBKTPTS_scene_03.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "pantalla encendida",
+            "raw": "9|pantalla encendida"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01NBKTPTS\\scenes_v1\\B01NBKTPTS_scene_02.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Multicooker visible",
+            "raw": "9|Multicooker visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01NBKTPTS\\scenes_v1\\B01NBKTPTS_scene_05.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Interacción real",
+            "raw": "9|Interacción real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01NBKTPTS\\scenes_v1\\B01NBKTPTS_scene_07.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Interacción real",
+            "raw": "9|Interacción real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01NBKTPTS\\scenes_v1\\B01NBKTPTS_scene_04.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "producto visible",
+            "raw": "5|producto visible"
+          }
+        ],
+        "features": [
+          "9 Cooking Functions: Pressure cook, slow cook, sauté, sous vide, steam, sterilize, keep warm, make rice and yogurt—all in one appliance",
+          "Customizable Smart Programs: Tackle every recipe with 15 one-touch options, from hearty soups to decadent cakes",
+          "Intuitive and Convenient Design: An easy-to-read display with dedicated cooking time, temperature, and pressure indicators keeps you updated in real time. And when it’s time to tuck it away, the detachable power cord makes storage easy",
+          "Safe and Easy Steam Release: The Easy-Release steam switch ensures fast, safe, and simple steam release every time",
+          "Pro-Grade Cooking Pot: Crafted from durable 18/8 stainless steel with an anti-spin, tri-ply bottom—perfect for searing and sautéing like a pro"
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Anova Precision Cooker",
+        "productId": "B0BQ9F56WV",
+        "productName": "Anova Precision Cooker",
+        "filename": "B0BQ9F56WV.mp4",
+        "asin": "B0BQ9F56WV",
+        "clipDuration": 60.03,
+        "estimatedAudioSeconds": 69,
+        "framework": "beneficio_oculto",
+        "narracionSegments": null,
+        "content": [
+          "Descubre el secreto mejor guardado para cocinar como un chef profesional con el Anova Precision Cooker. Este dispositivo te introduce al mundo del sous vide, garantizando resultados perfectos sin riesgo de sobrecocción. La pantalla táctil mejorada y conectividad WiFi mejorada hacen que alcanzar la perfección sea más fácil que nunca.",
+          "Su precio actual en Amazon ronda los... 169 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Anova Precision Cooker"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0BQ9F56WV_combined.mp4",
+        "precio": "$169",
+        "productPhoto": "https://m.media-amazon.com/images/I/61ufN4G1TeL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BQ9F56WV\\scenes_v1\\B0BQ9F56WV_scene_05.mp4",
+            "type": "video",
+            "score": 10,
+            "tag": "interacción real",
+            "raw": "10|interacción real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BQ9F56WV\\scenes_v1\\B0BQ9F56WV_scene_22.mp4",
+            "type": "video",
+            "score": 10,
+            "tag": "interacción real",
+            "raw": "10|interacción real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BQ9F56WV\\scenes_v1\\B0BQ9F56WV_scene_02.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BQ9F56WV\\scenes_v1\\B0BQ9F56WV_scene_03.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BQ9F56WV\\scenes_v1\\B0BQ9F56WV_scene_08.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BQ9F56WV\\scenes_v1\\B0BQ9F56WV_scene_09.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "cocedor sous vide",
+            "raw": "9|cocedor sous vide"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BQ9F56WV\\scenes_v1\\B0BQ9F56WV_scene_11.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BQ9F56WV\\scenes_v1\\B0BQ9F56WV_scene_10.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BQ9F56WV\\scenes_v1\\B0BQ9F56WV_scene_12.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BQ9F56WV\\scenes_v1\\B0BQ9F56WV_scene_13.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "pantalla encendida",
+            "raw": "9|pantalla encendida"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BQ9F56WV\\scenes_v1\\B0BQ9F56WV_scene_14.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BQ9F56WV\\scenes_v1\\B0BQ9F56WV_scene_15.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BQ9F56WV\\scenes_v1\\B0BQ9F56WV_scene_21.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "producto visible",
+            "raw": "9|producto visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BQ9F56WV\\scenes_v1\\B0BQ9F56WV_scene_23.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "producto en uso",
+            "raw": "9|producto en uso"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BQ9F56WV\\scenes_v1\\B0BQ9F56WV_scene_24.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BQ9F56WV\\scenes_v1\\B0BQ9F56WV_scene_25.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BQ9F56WV\\scenes_v1\\B0BQ9F56WV_scene_26.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BQ9F56WV\\scenes_v1\\B0BQ9F56WV_scene_29.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BQ9F56WV\\scenes_v1\\B0BQ9F56WV_scene_30.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BQ9F56WV\\scenes_v1\\B0BQ9F56WV_scene_06.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "cocción sous vide",
+            "raw": "8|cocción sous vide"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BQ9F56WV\\scenes_v1\\B0BQ9F56WV_scene_16.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "asparragos sous vide",
+            "raw": "8|asparragos sous vide"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BQ9F56WV\\scenes_v1\\B0BQ9F56WV_scene_18.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "producto en agua",
+            "raw": "5|producto en agua"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BQ9F56WV\\scenes_v1\\B0BQ9F56WV_scene_20.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "carne cocinándose",
+            "raw": "5|carne cocinándose"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BQ9F56WV\\scenes_v2\\B0BQ9F56WV_v2_scene_01.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BQ9F56WV\\scenes_v2\\B0BQ9F56WV_v2_scene_04.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BQ9F56WV\\scenes_v2\\B0BQ9F56WV_v2_scene_03.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "producto visible",
+            "raw": "8|producto visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BQ9F56WV\\scenes_v2\\B0BQ9F56WV_v2_scene_02.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "producto visible",
+            "raw": "8|producto visible"
+          }
+        ],
+        "features": [
+          "Pros have been doing it for years, and now you can too. Sous vide (pronounced sue-veed) is a cooking technique that utilizes highly precise temperature control in a circulating bath of water to deliver consistent, edge-to-edge perfect results, with virtually no risk of overcooking your food.",
+          "Our best-seller, only better. The first Anova Precision Cooker launched in 2014 and started a home-cooking revolution — bringing sous vide to the masses and making Anova a household name in the process. This third generation of our flagship sous vide circulator adds key improvements, making perfect results easier to achieve than ever before. What’s different: 1) We upgraded to use dual band WiFi for improved connectivity. 2) A two-line touch screen display allows you to quickly view time and temperature.",
+          "The adjustable clamp makes it an ideal fit on nearly any pot that is deep enough to meet the minimum water depth requirements. A removable stainless steel skirt on the cooker’s lower half makes it easy as a twist of the wrist to detach and clean the skirt either by hand or in the dishwasher.",
+          "Anova App (free): Control your time and temp directly on the Anova app or directly on the cooker itself.",
+          "Anova App (subscription): For $1.99 a month or $9.99 a year (cancel subscription at anytime), get access to the ultimate sous vide educational content and cooking guides. Recipes from professional chefs and the food nerd community feed directly to your Precision Cooker at the touch of a button. Continuous access to your personal recipes and cook history, ready to revisit or share with your friends and family. Two week free trial included."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Breville Smart Oven",
+        "productId": "B01N5UPTZS",
+        "productName": "Breville Smart Oven",
+        "filename": "B01N5UPTZS.mp4",
+        "asin": "B01N5UPTZS",
+        "clipDuration": 60.03,
+        "estimatedAudioSeconds": null,
+        "framework": "comparacion_precio",
+        "narracionSegments": null,
+        "content": [
+          "\"Por su tecnología Element iQ con cinco elementos independientes, este horno ofrece una cocción precisa sin puntos fríos. Aunque su precio es más alto, la capacidad de aire libre y deshidratado justifica cada centavo, haciendo que sus funciones innovadoras sobresalgan entre otros hornos.\"",
+          "\"Su precio actual en Amazon ronda los... 400 dólares. ¡Link en el primer comentario!\""
+        ],
+        "visuals": [
+          "Product image: Breville Smart Oven"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B01N5UPTZS_combined.mp4",
+        "precio": "$400",
+        "productPhoto": "https://m.media-amazon.com/images/I/51jCxzgxYwL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01N5UPTZS\\scenes_v1\\B01N5UPTZS_scene_03.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01N5UPTZS\\scenes_v1\\B01N5UPTZS_scene_05.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funciones visibles",
+            "raw": "9|funciones visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01N5UPTZS\\scenes_v1\\B01N5UPTZS_scene_04.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Horno visible",
+            "raw": "9|Horno visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01N5UPTZS\\scenes_v1\\B01N5UPTZS_scene_07.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción horno",
+            "raw": "9|interacción horno"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01N5UPTZS\\scenes_v1\\B01N5UPTZS_scene_08.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción horno",
+            "raw": "9|interacción horno"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01N5UPTZS\\scenes_v1\\B01N5UPTZS_scene_10.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funciones visibles",
+            "raw": "9|funciones visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01N5UPTZS\\scenes_v1\\B01N5UPTZS_scene_09.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Horno en uso",
+            "raw": "9|Horno en uso"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01N5UPTZS\\scenes_v1\\B01N5UPTZS_scene_11.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01N5UPTZS\\scenes_v1\\B01N5UPTZS_scene_12.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01N5UPTZS\\scenes_v1\\B01N5UPTZS_scene_13.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01N5UPTZS\\scenes_v1\\B01N5UPTZS_scene_14.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funciones visibles",
+            "raw": "9|funciones visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01N5UPTZS\\scenes_v1\\B01N5UPTZS_scene_16.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Horno visible",
+            "raw": "9|Horno visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01N5UPTZS\\scenes_v1\\B01N5UPTZS_scene_26.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funciones visibles",
+            "raw": "9|funciones visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01N5UPTZS\\scenes_v1\\B01N5UPTZS_scene_29.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funciones visibles",
+            "raw": "9|funciones visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01N5UPTZS\\scenes_v1\\B01N5UPTZS_scene_30.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Horno en uso",
+            "raw": "9|Horno en uso"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01N5UPTZS\\scenes_v1\\B01N5UPTZS_scene_33.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción cocina",
+            "raw": "9|interacción cocina"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01N5UPTZS\\scenes_v1\\B01N5UPTZS_scene_31.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción horno",
+            "raw": "9|interacción horno"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01N5UPTZS\\scenes_v1\\B01N5UPTZS_scene_35.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción cocina",
+            "raw": "9|interacción cocina"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01N5UPTZS\\scenes_v1\\B01N5UPTZS_scene_34.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción horno",
+            "raw": "9|interacción horno"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01N5UPTZS\\scenes_v1\\B01N5UPTZS_scene_37.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Horno en uso",
+            "raw": "9|Horno en uso"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01N5UPTZS\\scenes_v1\\B01N5UPTZS_scene_39.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funciones visibles",
+            "raw": "9|funciones visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01N5UPTZS\\scenes_v1\\B01N5UPTZS_scene_41.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funciones visibles",
+            "raw": "9|funciones visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01N5UPTZS\\scenes_v1\\B01N5UPTZS_scene_43.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funciones visibles",
+            "raw": "9|funciones visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01N5UPTZS\\scenes_v1\\B01N5UPTZS_scene_45.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01N5UPTZS\\scenes_v1\\B01N5UPTZS_scene_44.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01N5UPTZS\\scenes_v1\\B01N5UPTZS_scene_47.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01N5UPTZS\\scenes_v1\\B01N5UPTZS_scene_49.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Horno visible",
+            "raw": "9|Horno visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01N5UPTZS\\scenes_v1\\B01N5UPTZS_scene_51.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "pantalla encendida",
+            "raw": "9|pantalla encendida"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01N5UPTZS\\scenes_v1\\B01N5UPTZS_scene_52.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción cocina",
+            "raw": "9|interacción cocina"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01N5UPTZS\\scenes_v1\\B01N5UPTZS_scene_53.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funciones visibles",
+            "raw": "9|funciones visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01N5UPTZS\\scenes_v1\\B01N5UPTZS_scene_55.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funciones visibles",
+            "raw": "9|funciones visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01N5UPTZS\\scenes_v1\\B01N5UPTZS_scene_54.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funciones visibles",
+            "raw": "9|funciones visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01N5UPTZS\\scenes_v1\\B01N5UPTZS_scene_58.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción cocina",
+            "raw": "9|interacción cocina"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01N5UPTZS\\scenes_v1\\B01N5UPTZS_scene_57.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "cocción visible",
+            "raw": "9|cocción visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01N5UPTZS\\scenes_v1\\B01N5UPTZS_scene_59.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funciones visibles",
+            "raw": "9|funciones visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01N5UPTZS\\scenes_v1\\B01N5UPTZS_scene_61.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01N5UPTZS\\scenes_v1\\B01N5UPTZS_scene_60.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01N5UPTZS\\scenes_v1\\B01N5UPTZS_scene_64.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01N5UPTZS\\scenes_v1\\B01N5UPTZS_scene_67.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción horno",
+            "raw": "9|interacción horno"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01N5UPTZS\\scenes_v1\\B01N5UPTZS_scene_65.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "pantalla encendida",
+            "raw": "9|pantalla encendida"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01N5UPTZS\\scenes_v1\\B01N5UPTZS_scene_68.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "tostada cocinándose",
+            "raw": "9|tostada cocinándose"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01N5UPTZS\\scenes_v1\\B01N5UPTZS_scene_69.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01N5UPTZS\\scenes_v1\\B01N5UPTZS_scene_80.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01N5UPTZS\\scenes_v1\\B01N5UPTZS_scene_81.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funciones visibles",
+            "raw": "9|funciones visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01N5UPTZS\\scenes_v1\\B01N5UPTZS_scene_92.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funciones visibles",
+            "raw": "9|funciones visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01N5UPTZS\\scenes_v1\\B01N5UPTZS_scene_97.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "pantalla encendida",
+            "raw": "9|pantalla encendida"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01N5UPTZS\\scenes_v1\\B01N5UPTZS_scene_02.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Horno visible",
+            "raw": "8|Horno visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01N5UPTZS\\scenes_v1\\B01N5UPTZS_scene_18.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "producto visible",
+            "raw": "8|producto visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01N5UPTZS\\scenes_v1\\B01N5UPTZS_scene_21.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "horno visible",
+            "raw": "8|horno visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01N5UPTZS\\scenes_v1\\B01N5UPTZS_scene_46.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "producto en primer plano",
+            "raw": "8|producto en primer plano"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01N5UPTZS\\scenes_v1\\B01N5UPTZS_scene_48.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "producto en primer plano",
+            "raw": "8|producto en primer plano"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01N5UPTZS\\scenes_v1\\B01N5UPTZS_scene_50.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Horno visible",
+            "raw": "8|Horno visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01N5UPTZS\\scenes_v1\\B01N5UPTZS_scene_90.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Horno visible",
+            "raw": "8|Horno visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01N5UPTZS\\scenes_v1\\B01N5UPTZS_scene_15.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "producto borroso",
+            "raw": "5|producto borroso"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01N5UPTZS\\scenes_v1\\B01N5UPTZS_scene_17.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "cesta freír",
+            "raw": "5|cesta freír"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01N5UPTZS\\scenes_v1\\B01N5UPTZS_scene_20.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "accesorios horno",
+            "raw": "5|accesorios horno"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01N5UPTZS\\scenes_v1\\B01N5UPTZS_scene_22.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "producto parcial",
+            "raw": "5|producto parcial"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01N5UPTZS\\scenes_v1\\B01N5UPTZS_scene_23.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "bandeja malla",
+            "raw": "5|bandeja malla"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01N5UPTZS\\scenes_v1\\B01N5UPTZS_scene_32.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "pizza horneada",
+            "raw": "5|pizza horneada"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01N5UPTZS\\scenes_v1\\B01N5UPTZS_scene_42.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "producto pequeño",
+            "raw": "5|producto pequeño"
+          }
+        ],
+        "features": [
+          "The Breville Smart Oven Air Fryer Pro with Element iQ System is a versatile countertop oven allowing you to roast, air fry and dehydrate; Super convection reduces cooking time by up to 30%; Choose from 13 cooking functions; Includes interior oven light",
+          "ELEMENT iQ SYSTEM: With 5 independent quartz elements, smart algorithms steer oven's power where and when it's needed to create a tailored cooking environment; Sensing and digital PID temperature control eliminate cold spots for precise cooking",
+          "AIR FRY AND DEHYDRATE SETTINGS: Air fry family favorites like French fries; Higher temperatures combine with super convection (maximized air flow) for crispy golden, air-fried foods; Oven also dehydrates up to 4 trays at once of a wide range of foods",
+          "SUPER CONVECTION TECHNOLOGY: Electric air fryer's 2 speed convection fan (super & regular) offers more cooking control; Super convection provides greater volume of hot air to ensure fast and even heat distribution for air frying, dehydration and roasting",
+          "13 COOKING FUNCTIONS: Versatile countertop oven and air fryer with 13 functions for your kitchen; Toast, Bagel, Broil, Bake, Roast, Warm, Pizza, Proof, Air Fry, Reheat, Cookies, Slow Cook, and Dehydrate; Like having a toaster, pizza oven and more in one"
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Ember Temperature Control Mug",
+        "productId": "B0B6JTX6NB",
+        "productName": "Ember Temperature Control Mug",
+        "filename": "B0B6JTX6NB.mp4",
+        "asin": "B0B6JTX6NB",
+        "clipDuration": 60.03,
+        "estimatedAudioSeconds": 19,
+        "framework": "dato_numerico",
+        "narracionSegments": null,
+        "content": [
+          "La Ember Temperature Control Mug mantiene tu bebida caliente a la temperatura perfecta durante horas con tecnología de luces LED y batería duradera.",
+          "Su precio actual en Amazon ronda los 120 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Ember Temperature Control Mug"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0B6JTX6NB_combined.mp4",
+        "precio": "$120",
+        "productPhoto": "https://m.media-amazon.com/images/I/71D51fALypL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0B6JTX6NB\\scenes_v1\\B0B6JTX6NB_scene_01.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "mug inteligente",
+            "raw": "9|mug inteligente"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0B6JTX6NB\\scenes_v1\\B0B6JTX6NB_scene_03.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "mug inteligente",
+            "raw": "9|mug inteligente"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0B6JTX6NB\\scenes_v1\\B0B6JTX6NB_scene_05.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "mug inteligente",
+            "raw": "9|mug inteligente"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0B6JTX6NB\\scenes_v1\\B0B6JTX6NB_scene_09.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "mug inteligente",
+            "raw": "9|mug inteligente"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0B6JTX6NB\\scenes_v1\\B0B6JTX6NB_scene_11.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "mujer usando taza",
+            "raw": "9|mujer usando taza"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0B6JTX6NB\\scenes_v1\\B0B6JTX6NB_scene_07.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "taza inteligente",
+            "raw": "8|taza inteligente"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0B6JTX6NB\\scenes_v1\\B0B6JTX6NB_scene_02.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "tazas de café",
+            "raw": "5|tazas de café"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0B6JTX6NB\\scenes_v1\\B0B6JTX6NB_scene_04.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "mug en mesa",
+            "raw": "5|mug en mesa"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0B6JTX6NB\\scenes_v1\\B0B6JTX6NB_scene_08.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "taza negra",
+            "raw": "5|taza negra"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0B6JTX6NB\\scenes_v1\\B0B6JTX6NB_scene_10.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "mujer con taza",
+            "raw": "5|mujer con taza"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0B6JTX6NB\\scenes_v2\\B0B6JTX6NB_v2_scene_01.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "taza calefaccionada",
+            "raw": "8|taza calefaccionada"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0B6JTX6NB\\scenes_v3\\B0B6JTX6NB_v3_scene_01.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "mug inteligente",
+            "raw": "9|mug inteligente"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0B6JTX6NB\\scenes_v3\\B0B6JTX6NB_v3_scene_03.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0B6JTX6NB\\scenes_v3\\B0B6JTX6NB_v3_scene_02.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "mug inteligente",
+            "raw": "9|mug inteligente"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0B6JTX6NB\\scenes_v3\\B0B6JTX6NB_v3_scene_04.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0B6JTX6NB\\scenes_v3\\B0B6JTX6NB_v3_scene_05.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Tecnología inteligente",
+            "raw": "9|Tecnología inteligente"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0B6JTX6NB\\scenes_v3\\B0B6JTX6NB_v3_scene_08.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0B6JTX6NB\\scenes_v3\\B0B6JTX6NB_v3_scene_07.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0B6JTX6NB\\scenes_v3\\B0B6JTX6NB_v3_scene_09.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "mug inteligente",
+            "raw": "9|mug inteligente"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0B6JTX6NB\\scenes_v3\\B0B6JTX6NB_v3_scene_10.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "mug inteligente",
+            "raw": "9|mug inteligente"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0B6JTX6NB\\scenes_v3\\B0B6JTX6NB_v3_scene_11.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "mug inteligente",
+            "raw": "9|mug inteligente"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0B6JTX6NB\\scenes_v3\\B0B6JTX6NB_v3_scene_06.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "taza negra",
+            "raw": "5|taza negra"
+          }
+        ],
+        "features": [
+          "ALWAYS THE PERFECT TEMPERATURE – The Nextmug will keep your hot coffee, tea or preferred beverage at the perfect temperature wherever you are. Simply select Warm (130° F), Hot (140° F), or Piping (150° F) and enjoy for hours.",
+          "SMART MUG TECHNOLOGY – Long-lasting battery maintains your ideal temperature. LED lights display battery life & real-time temperature. Includes Spill-Resistant Lid & Charging Coaster.",
+          "SUPER SIMPLE – On-board Control Button easily turns mug On/Off & sets the temperature. Takes only seconds to set the mug to your perfect temperature. No app required - no passwords, re-booting or security concerns.",
+          "THE PERFECT GIFT - Give the gift for him and the gift for her that is certain to delight. Perfect for everyone on your list…moms, dads, grandmas, grandpas, teachers, birthdays, graduations and more!",
+          "NEXTMUG CARES - Nextmug cares about our communities and our customers. We care by donating Nextmugs to teachers and first responders . We’re also committed to sustainable packaging by using 100% recyclable materials with all our products. Our dedicated customer service agents are based in the USA and always ready to help."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Ninja Foodi Grill",
+        "productId": "B07S76WBGF",
+        "productName": "Ninja Foodi Grill",
+        "filename": "B07S76WBGF.mp4",
+        "asin": "B07S76WBGF",
+        "clipDuration": 60.03,
+        "estimatedAudioSeconds": 24,
+        "framework": "experiencia_sensorial",
+        "narracionSegments": null,
+        "content": [
+          "El Ninja Foodi Grill ofrece una experiencia sensorial única al asar y freír al aire con tecnología ciclónica a 500°F, brindando poder de asado exterior en tu encimera.",
+          "Su precio actual en Amazon ronda los 190 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Ninja Foodi Grill"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07S76WBGF_combined.mp4",
+        "precio": "$190",
+        "productPhoto": "https://m.media-amazon.com/images/I/71pesv1jI9L.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07S76WBGF\\scenes_v1\\B07S76WBGF_scene_02.mp4",
+            "type": "video",
+            "score": 10,
+            "tag": "carne asada",
+            "raw": "10|carne asada"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07S76WBGF\\scenes_v1\\B07S76WBGF_scene_05.mp4",
+            "type": "video",
+            "score": 10,
+            "tag": "camarones asados",
+            "raw": "10|camarones asados"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07S76WBGF\\scenes_v1\\B07S76WBGF_scene_14.mp4",
+            "type": "video",
+            "score": 10,
+            "tag": "pollo asado",
+            "raw": "10|pollo asado"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07S76WBGF\\scenes_v1\\B07S76WBGF_scene_01.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Grill visible",
+            "raw": "9|Grill visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07S76WBGF\\scenes_v1\\B07S76WBGF_scene_03.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "carne asada",
+            "raw": "9|carne asada"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07S76WBGF\\scenes_v1\\B07S76WBGF_scene_04.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "cocción mariscos",
+            "raw": "9|cocción mariscos"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07S76WBGF\\scenes_v1\\B07S76WBGF_scene_12.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "hamburguesas asadas",
+            "raw": "9|hamburguesas asadas"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07S76WBGF\\scenes_v1\\B07S76WBGF_scene_13.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07S76WBGF\\scenes_v1\\B07S76WBGF_scene_17.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "hamburguesas",
+            "raw": "9|hamburguesas"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07S76WBGF\\scenes_v1\\B07S76WBGF_scene_20.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Grill visible",
+            "raw": "9|Grill visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07S76WBGF\\scenes_v1\\B07S76WBGF_scene_06.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "papas fritas",
+            "raw": "8|papas fritas"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07S76WBGF\\scenes_v1\\B07S76WBGF_scene_07.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Aros de cebolla",
+            "raw": "8|Aros de cebolla"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07S76WBGF\\scenes_v1\\B07S76WBGF_scene_11.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Grill visible",
+            "raw": "8|Grill visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07S76WBGF\\scenes_v1\\B07S76WBGF_scene_18.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "salmón asado",
+            "raw": "8|salmón asado"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07S76WBGF\\scenes_v2\\B07S76WBGF_v2_scene_02.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "grill visible",
+            "raw": "9|grill visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07S76WBGF\\scenes_v2\\B07S76WBGF_v2_scene_03.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funciones visibles",
+            "raw": "9|funciones visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07S76WBGF\\scenes_v2\\B07S76WBGF_v2_scene_01.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07S76WBGF\\scenes_v2\\B07S76WBGF_v2_scene_04.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Grill visible",
+            "raw": "9|Grill visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07S76WBGF\\scenes_v2\\B07S76WBGF_v2_scene_06.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción visible",
+            "raw": "9|interacción visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07S76WBGF\\scenes_v2\\B07S76WBGF_v2_scene_05.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          }
+        ],
+        "features": [
+          "THE ORIGINAL NINJA FOODI GRILL: The grill that sears, sizzles, and air fry crisps. Indoor grill and air fryer.",
+          "CYCLONIC GRILLING TECHNOLOGY: Uses 500°F cyclonic air to perfectly cook or char grill your food to your desired doneness on the grill grate for delicious, char-grilled marks and flavors.",
+          "OUTDOOR GRILLING POWER ON YOUR COUNTERTOP: With the BTU cooking power of an outdoor grill, it brings outdoor grill flavors conveniently to your countertop any day of the year.",
+          "FORGET ABOUT DEFROSTING: Transform foods from frozen to perfectly char grilled in under 25 minutes.",
+          "UP TO 75% LESS FAT: Air fry crisp with up to 75% less fat than deep frying (tested against hand-cut, deep-fried French fries), using the included 4-qt crisper basket."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Meater Plus Smart Meat Thermometer",
+        "productId": "B07H8WTFHW",
+        "productName": "Meater Plus Smart Meat Thermometer",
+        "filename": "B07H8WTFHW.mp4",
+        "asin": "B07H8WTFHW",
+        "clipDuration": 60.03,
+        "estimatedAudioSeconds": 60,
+        "framework": "problema_solucion",
+        "narracionSegments": null,
+        "content": [
+          "Cocina con total libertad gracias al Meater Plus, un termómetro inalámbrico que te permite monitorear tus carnes desde cualquier lugar de tu hogar. Sus sensores duales proporcionan mediciones precisas tanto de la carne como del ambiente, asegurando resultados perfectos cada vez.",
+          "Su precio actual en Amazon ronda los... 80 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Meater Plus Smart Meat Thermometer"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07H8WTFHW_combined.mp4",
+        "precio": "$80",
+        "productPhoto": "https://m.media-amazon.com/images/I/61C9DAvebML.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07H8WTFHW\\scenes_v1\\B07H8WTFHW_scene_03.mp4",
+            "type": "video",
+            "score": 10,
+            "tag": "interacción real",
+            "raw": "10|interacción real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07H8WTFHW\\scenes_v1\\B07H8WTFHW_scene_17.mp4",
+            "type": "video",
+            "score": 10,
+            "tag": "interacción real",
+            "raw": "10|interacción real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07H8WTFHW\\scenes_v1\\B07H8WTFHW_scene_19.mp4",
+            "type": "video",
+            "score": 10,
+            "tag": "interacción real",
+            "raw": "10|interacción real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07H8WTFHW\\scenes_v1\\B07H8WTFHW_scene_02.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "termómetro visible",
+            "raw": "9|termómetro visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07H8WTFHW\\scenes_v1\\B07H8WTFHW_scene_05.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07H8WTFHW\\scenes_v1\\B07H8WTFHW_scene_09.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07H8WTFHW\\scenes_v1\\B07H8WTFHW_scene_13.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07H8WTFHW\\scenes_v1\\B07H8WTFHW_scene_16.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07H8WTFHW\\scenes_v1\\B07H8WTFHW_scene_20.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Termómetro inteligente",
+            "raw": "9|Termómetro inteligente"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07H8WTFHW\\scenes_v1\\B07H8WTFHW_scene_01.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "producto visible",
+            "raw": "8|producto visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07H8WTFHW\\scenes_v1\\B07H8WTFHW_scene_07.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "cocinando carne",
+            "raw": "8|cocinando carne"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07H8WTFHW\\scenes_v1\\B07H8WTFHW_scene_10.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "persona cocinando",
+            "raw": "8|persona cocinando"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07H8WTFHW\\scenes_v1\\B07H8WTFHW_scene_18.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "carne asada",
+            "raw": "8|carne asada"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07H8WTFHW\\scenes_v1\\B07H8WTFHW_scene_08.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "persona cocinando",
+            "raw": "5|persona cocinando"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07H8WTFHW\\scenes_v2\\B07H8WTFHW_v2_scene_03.mp4",
+            "type": "video",
+            "score": 10,
+            "tag": "interacción real",
+            "raw": "10|interacción real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07H8WTFHW\\scenes_v2\\B07H8WTFHW_v2_scene_02.mp4",
+            "type": "video",
+            "score": 10,
+            "tag": "interacción real",
+            "raw": "10|interacción real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07H8WTFHW\\scenes_v2\\B07H8WTFHW_v2_scene_01.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07H8WTFHW\\scenes_v2\\B07H8WTFHW_v2_scene_05.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07H8WTFHW\\scenes_v2\\B07H8WTFHW_v2_scene_10.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07H8WTFHW\\scenes_v2\\B07H8WTFHW_v2_scene_13.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07H8WTFHW\\scenes_v2\\B07H8WTFHW_v2_scene_19.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07H8WTFHW\\scenes_v2\\B07H8WTFHW_v2_scene_21.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07H8WTFHW\\scenes_v2\\B07H8WTFHW_v2_scene_20.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07H8WTFHW\\scenes_v2\\B07H8WTFHW_v2_scene_22.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07H8WTFHW\\scenes_v2\\B07H8WTFHW_v2_scene_23.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07H8WTFHW\\scenes_v2\\B07H8WTFHW_v2_scene_26.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "pantalla encendida",
+            "raw": "9|pantalla encendida"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07H8WTFHW\\scenes_v2\\B07H8WTFHW_v2_scene_32.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07H8WTFHW\\scenes_v2\\B07H8WTFHW_v2_scene_08.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "pollo asado",
+            "raw": "8|pollo asado"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07H8WTFHW\\scenes_v2\\B07H8WTFHW_v2_scene_24.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "pantalla MEATER",
+            "raw": "8|pantalla MEATER"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07H8WTFHW\\scenes_v2\\B07H8WTFHW_v2_scene_25.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "pantalla MEATER",
+            "raw": "8|pantalla MEATER"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07H8WTFHW\\scenes_v2\\B07H8WTFHW_v2_scene_27.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "carne asada",
+            "raw": "8|carne asada"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07H8WTFHW\\scenes_v2\\B07H8WTFHW_v2_scene_29.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "carne asada",
+            "raw": "8|carne asada"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07H8WTFHW\\scenes_v2\\B07H8WTFHW_v2_scene_31.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "carne cocinada",
+            "raw": "8|carne cocinada"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07H8WTFHW\\scenes_v2\\B07H8WTFHW_v2_scene_07.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "producto en horno",
+            "raw": "5|producto en horno"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07H8WTFHW\\scenes_v2\\B07H8WTFHW_v2_scene_09.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "pantalla termómetro",
+            "raw": "5|pantalla termómetro"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07H8WTFHW\\scenes_v3\\B07H8WTFHW_v3_scene_03.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "termómetro carne",
+            "raw": "9|termómetro carne"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07H8WTFHW\\scenes_v3\\B07H8WTFHW_v3_scene_04.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07H8WTFHW\\scenes_v3\\B07H8WTFHW_v3_scene_06.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "pantalla encendida",
+            "raw": "9|pantalla encendida"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07H8WTFHW\\scenes_v3\\B07H8WTFHW_v3_scene_10.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07H8WTFHW\\scenes_v3\\B07H8WTFHW_v3_scene_14.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07H8WTFHW\\scenes_v3\\B07H8WTFHW_v3_scene_01.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "producto visible",
+            "raw": "8|producto visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07H8WTFHW\\scenes_v3\\B07H8WTFHW_v3_scene_12.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "app MEATER",
+            "raw": "8|app MEATER"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07H8WTFHW\\scenes_v3\\B07H8WTFHW_v3_scene_17.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "termómetro MEATER",
+            "raw": "8|termómetro MEATER"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07H8WTFHW\\scenes_v3\\B07H8WTFHW_v3_scene_02.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "pavo asado",
+            "raw": "5|pavo asado"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07H8WTFHW\\scenes_v3\\B07H8WTFHW_v3_scene_05.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "pollo asado",
+            "raw": "5|pollo asado"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07H8WTFHW\\scenes_v3\\B07H8WTFHW_v3_scene_15.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "pavo asado",
+            "raw": "5|pavo asado"
+          }
+        ],
+        "features": [
+          "Truly Wireless Food & Meat Thermometer: 100% wire-free, the MEATER Plus gives you complete flexibility and freedom in your cooking. Monitor everything from steak and chicken to turkey and roasts with precision, all guided through the MEATER app.",
+          "Freedom to Cook Anywhere: With a built-in Bluetooth repeater in the charger, MEATER Plus extends wireless range, allowing you to monitor your cook from virtually anywhere in your home. Get 2 hours of cook time on just a 5-minute charge.",
+          "Dual Sensor Accuracy: Equipped with dual temperature sensors, it monitors both internal meat temperature (up to 212°F) and ambient temperature (up to 527°F) simultaneously for precise cooking.",
+          "Cook with Confidence: With the MEATER Plus, get access to the MEATER app and the Guided Cook System that provides step-by-step instructions, real-time alerts, and estimated finish times, taking the guesswork out of cooking.",
+          "Dishwasher Safe: When it comes to cleaning up, MEATER Plus is dishwasher safe, so just toss it in so it’s ready for your next cook."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Dash Rapid Egg Cooker",
+        "productId": "B0D3W6XGLR",
+        "productName": "Dash Rapid Egg Cooker",
+        "filename": "B0D3W6XGLR.mp4",
+        "asin": "B0D3W6XGLR",
+        "clipDuration": 60.03,
+        "estimatedAudioSeconds": 60,
+        "framework": "enfoque_caracteristica",
+        "narracionSegments": null,
+        "content": [
+          "Con el Dash Rapid Egg Cooker, prepara huevos duros, blandos, escalfados y revueltos en minutos. Su sensor térmico garantiza cocción perfecta y su diseño compacto facilita su almacenamiento.",
+          "Su precio actual en Amazon ronda los... 20 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Dash Rapid Egg Cooker"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0D3W6XGLR_combined.mp4",
+        "precio": "$20",
+        "productPhoto": "https://m.media-amazon.com/images/I/51lILkbQ4zL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D3W6XGLR\\scenes_v1\\B0D3W6XGLR_scene_03.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "cocinando huevos",
+            "raw": "9|cocinando huevos"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D3W6XGLR\\scenes_v1\\B0D3W6XGLR_scene_02.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "cocinando huevos",
+            "raw": "9|cocinando huevos"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D3W6XGLR\\scenes_v1\\B0D3W6XGLR_scene_08.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "cocción de huevos",
+            "raw": "9|cocción de huevos"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D3W6XGLR\\scenes_v1\\B0D3W6XGLR_scene_01.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "cocedor de huevos",
+            "raw": "8|cocedor de huevos"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D3W6XGLR\\scenes_v2\\B0D3W6XGLR_v2_scene_01.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "cocina huevos",
+            "raw": "9|cocina huevos"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D3W6XGLR\\scenes_v3\\B0D3W6XGLR_v3_scene_01.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "cocinador de huevos",
+            "raw": "9|cocinador de huevos"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D3W6XGLR\\scenes_v3\\B0D3W6XGLR_v3_scene_02.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "cocinando huevos",
+            "raw": "9|cocinando huevos"
+          }
+        ],
+        "features": [
+          "Eggs in a Dash: Use the Dash Rapid Egg Cooker to make hard-boiled eggs, soft-boiled eggs, poached eggs, scrambled eggs, and individual omelets, all within minutes",
+          "Effortless Cooking Experience: Enjoy perfectly cooked eggs every time with the built-in precision thermal sensor of this multi-egg cooker",
+          "Easy-to-Store Electric Egg Cooker: The egg cooker accessories store conveniently in the appliance for space-saving storage",
+          "Quick Cleanup Guaranteed: Designed to be easy to clean for your convenience, the Dash Egg Cooker features non-electric parts that are dishwasher-safe",
+          "Happiness Is Homemade: Dash products invite families to gather together for the joy of cooking and eating at home"
+        ]
+      },
+      {
+        "type": "content",
+        "title": "OXO Good Grips Salad Spinner",
+        "productId": "B00004OCKR",
+        "productName": "OXO Good Grips Salad Spinner",
+        "filename": "B00004OCKR.mp4",
+        "asin": "B00004OCKR",
+        "clipDuration": 60.03,
+        "estimatedAudioSeconds": 60,
+        "framework": "beneficio_oculto",
+        "narracionSegments": null,
+        "content": [
+          "El OXO Good Grips Salad Spinner es ideal para secar tus verduras con un solo toque. Su base antideslizante y su sistema de freno patentado lo hacen fácil y eficiente, mientras que también funciona como colador y bol para servir.",
+          "Su precio actual en Amazon ronda los... 33 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: OXO Good Grips Salad Spinner"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B00004OCKR_combined.mp4",
+        "precio": "$33",
+        "productPhoto": "https://m.media-amazon.com/images/I/818Y0pTgRrL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B00004OCKR\\scenes_v1\\B00004OCKR_scene_01.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "ensaladera OXO",
+            "raw": "9|ensaladera OXO"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B00004OCKR\\scenes_v1\\B00004OCKR_scene_03.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "ensaladera OXO",
+            "raw": "9|ensaladera OXO"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B00004OCKR\\scenes_v1\\B00004OCKR_scene_02.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "ensaladera OXO",
+            "raw": "9|ensaladera OXO"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B00004OCKR\\scenes_v2\\B00004OCKR_v2_scene_04.mp4",
+            "type": "video",
+            "score": 10,
+            "tag": "ensaladera OXO",
+            "raw": "10|ensaladera OXO"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B00004OCKR\\scenes_v2\\B00004OCKR_v2_scene_03.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B00004OCKR\\scenes_v2\\B00004OCKR_v2_scene_02.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "ensalada girando",
+            "raw": "9|ensalada girando"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B00004OCKR\\scenes_v2\\B00004OCKR_v2_scene_05.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "ensaladera OXO",
+            "raw": "9|ensaladera OXO"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B00004OCKR\\scenes_v2\\B00004OCKR_v2_scene_06.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "centrifugadora ensaladas",
+            "raw": "9|centrifugadora ensaladas"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B00004OCKR\\scenes_v2\\B00004OCKR_v2_scene_07.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "ensaladera OXO",
+            "raw": "9|ensaladera OXO"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B00004OCKR\\scenes_v2\\B00004OCKR_v2_scene_08.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "ensalada spinner",
+            "raw": "9|ensalada spinner"
+          }
+        ],
+        "features": [
+          "One-Touch OXO Salad Spinner: Did you know that OXO invented the one-touch salad spinner? Its one-handed pump gives you maximum drying of lettuce with minimum effort",
+          "What Makes the OXO Salad Spinner OXO Better: This salad spinner has been designed to be the best - from the one-touch press to pump with force to the patented brake to stop the basket immediately with a simple press. And the non-skid base keeps it firmly in place",
+          "Store Salad Spinner Neatly After Use: When you're done using the spinner as a fruit and vegetable cleaner, press the pump handle down, then slide the storage lock into place. This holds the pump flush with the lid for stacking and storing",
+          "Multi-Tasker Not Just For Lettuce: The OXO salad spinner doubles as a vegetable and fruit strainer, and as a serving bowl. Spin lettuce, herbs, beans or fruit. Or use it for meal prep as a lettuce keeper - wash your lettuce before dinner, pop it in the fridge and take it out when ready to serve",
+          "Lid Comes Apart for Easy Clean: The lid comes apart on this salad spinner, so moisture won't build up. All parts are dishwasher safe - top rack is recommended"
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Tovala Smart Oven",
+        "productId": "B0BGMDK564",
+        "productName": "Tovala Smart Oven",
+        "filename": "B0BGMDK564.mp4",
+        "asin": "B0BGMDK564",
+        "clipDuration": 60.03,
+        "estimatedAudioSeconds": null,
+        "framework": "comparacion_precio",
+        "narracionSegments": null,
+        "content": [
+          "El Tovala Smart Oven combina seis funciones en uno: freír al aire, vaporizar, hornear y más. Controlado por app móvil, te ofrece recetas perfectas al instante sin necesidad de precalentamiento.",
+          "\"Su precio actual en Amazon ronda los... 350 dólares. ¡Link en el primer comentario!\""
+        ],
+        "visuals": [
+          "Product image: Tovala Smart Oven"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0BGMDK564_combined.mp4",
+        "precio": "$350",
+        "productPhoto": "https://m.media-amazon.com/images/I/713hEHhS-0L.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BGMDK564\\scenes_v1\\B0BGMDK564_scene_01.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Horno inteligente",
+            "raw": "9|Horno inteligente"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BGMDK564\\scenes_v1\\B0BGMDK564_scene_02.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Horno inteligente",
+            "raw": "9|Horno inteligente"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BGMDK564\\scenes_v1\\B0BGMDK564_scene_04.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Horno inteligente",
+            "raw": "9|Horno inteligente"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BGMDK564\\scenes_v1\\B0BGMDK564_scene_05.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BGMDK564\\scenes_v1\\B0BGMDK564_scene_06.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BGMDK564\\scenes_v1\\B0BGMDK564_scene_07.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Horno inteligente",
+            "raw": "9|Horno inteligente"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BGMDK564\\scenes_v1\\B0BGMDK564_scene_09.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Horno inteligente",
+            "raw": "9|Horno inteligente"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BGMDK564\\scenes_v2\\B0BGMDK564_v2_scene_03.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BGMDK564\\scenes_v2\\B0BGMDK564_v2_scene_02.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BGMDK564\\scenes_v2\\B0BGMDK564_v2_scene_05.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción horno",
+            "raw": "9|interacción horno"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BGMDK564\\scenes_v2\\B0BGMDK564_v2_scene_06.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BGMDK564\\scenes_v2\\B0BGMDK564_v2_scene_08.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Horno multifuncional",
+            "raw": "9|Horno multifuncional"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BGMDK564\\scenes_v2\\B0BGMDK564_v2_scene_07.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BGMDK564\\scenes_v2\\B0BGMDK564_v2_scene_01.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Horno Tovala",
+            "raw": "8|Horno Tovala"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BGMDK564\\scenes_v2\\B0BGMDK564_v2_scene_04.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "papas fritas",
+            "raw": "5|papas fritas"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BGMDK564\\scenes_v3\\B0BGMDK564_v3_scene_05.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BGMDK564\\scenes_v3\\B0BGMDK564_v3_scene_06.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción cocina",
+            "raw": "9|interacción cocina"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BGMDK564\\scenes_v3\\B0BGMDK564_v3_scene_01.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "horno tostador",
+            "raw": "8|horno tostador"
+          }
+        ],
+        "features": [
+          "Versatile 6-in-1 Toaster Oven Air Fryer Combo - Unleash your culinary skills with our air fryer toaster oven combo that can switch between Air Fry, Steam, Bake, Broil, Reheat, and Toast cooking methods. Create custom, automated cook cycles with 1 or more modes for perfectly cooked meals every time.",
+          "Controlled by Integrated Smartphone App - Easily set your microwave air fryer combo to use one or multiple modes, receive notifications when your meal is ready, enjoy the convenience of Tovala Meals (sold separately), and browse a wide selection of over 1,000 scannable groceries for an effortless cooking experience.",
+          "Effortless Cooking at Your Fingertips: With the smartphone app, access hundreds of presets and make chef-perfected recipes with ease. Simply follow the prep steps in the Tovala app and press \"cook\" to let the convection countertop oven using air fry, steam, and other cooking modes do the rest.",
+          "1,000+ Name Brands at Your Fingertips - Discover a wide selection of well-known pantry essentials and frozen foods for quick and delicious meals. No need to preheat your airfryer toaster oven! Make the most of the spacious air fryer basket and compact sheet pan included with the air fryer toaster oven for ultimate convenience.",
+          "Effortless Meal Subscription Made Easy - Enjoy fresh, pre-prepared meals with just a touch of a button. Our convection oven countertop is compatible with Tovala's meal subscription service, delivering perfect cooking results with minimal prep. You have the flexibility to pause, skip, or cancel your subscription at any time (sold separately)."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Gourmia Digital Air Fryer",
+        "productId": "B09CB7SMSD",
+        "productName": "Gourmia Digital Air Fryer",
+        "filename": "B09CB7SMSD.mp4",
+        "asin": "B09CB7SMSD",
+        "clipDuration": 60.03,
+        "estimatedAudioSeconds": 60.03,
+        "framework": "dato_numerico",
+        "narracionSegments": null,
+        "content": [
+          "Olvídate de las largas filas en el drive-through. Con el Hamilton Beach Breakfast Sandwich Maker, prepara deliciosos desayunos en casa en solo 5 minutos, usando tus ingredientes frescos favoritos.",
+          "Su precio actual en Amazon ronda los 30 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Gourmia Digital Air Fryer"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B09CB7SMSD_combined.mp4",
+        "precio": "$60",
+        "productPhoto": "https://m.media-amazon.com/images/I/815TiCIdxFL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B09CB7SMSD\\scenes_v1\\B09CB7SMSD_scene_03.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "cocción visible",
+            "raw": "9|cocción visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B09CB7SMSD\\scenes_v1\\B09CB7SMSD_scene_01.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Horno tostador",
+            "raw": "9|Horno tostador"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B09CB7SMSD\\scenes_v1\\B09CB7SMSD_scene_06.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "pantalla encendida",
+            "raw": "9|pantalla encendida"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B09CB7SMSD\\scenes_v1\\B09CB7SMSD_scene_07.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "pantalla encendida",
+            "raw": "9|pantalla encendida"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B09CB7SMSD\\scenes_v1\\B09CB7SMSD_scene_08.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interior visible",
+            "raw": "9|interior visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B09CB7SMSD\\scenes_v1\\B09CB7SMSD_scene_09.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "freidora horno",
+            "raw": "9|freidora horno"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B09CB7SMSD\\scenes_v1\\B09CB7SMSD_scene_12.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Horno tostador",
+            "raw": "9|Horno tostador"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B09CB7SMSD\\scenes_v1\\B09CB7SMSD_scene_13.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "pantalla encendida",
+            "raw": "9|pantalla encendida"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B09CB7SMSD\\scenes_v1\\B09CB7SMSD_scene_14.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "horno tostador",
+            "raw": "9|horno tostador"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B09CB7SMSD\\scenes_v1\\B09CB7SMSD_scene_16.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "pantalla encendida",
+            "raw": "9|pantalla encendida"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B09CB7SMSD\\scenes_v1\\B09CB7SMSD_scene_17.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B09CB7SMSD\\scenes_v1\\B09CB7SMSD_scene_20.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "pantalla encendida",
+            "raw": "9|pantalla encendida"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B09CB7SMSD\\scenes_v1\\B09CB7SMSD_scene_22.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Horno tostador",
+            "raw": "9|Horno tostador"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B09CB7SMSD\\scenes_v1\\B09CB7SMSD_scene_19.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Horno tostador",
+            "raw": "8|Horno tostador"
+          }
+        ],
+        "features": [
+          "Spacious French Door Design – Dual doors allow for easy loading of family-size meals, its 25 quart capacity fits a 12-inch pizza, 6 slices of toast, or a whole chicken",
+          "Multi-Use Cooking Power – Air fry, bake, broil, roast, dehydrate, and toast with 17 presets for easy cooking, from crispy fries to roasted chicken and fresh-baked pizza",
+          "Precision Digital Controls – Easy-to-use digital display with adjustable time (1–99 min) and temperature (90°F–450°F) for perfect results",
+          "FryForce Convection Technology – 1700W convection airflow circulates heat for crispy, oil-free frying results",
+          "Convenient Accessories – Includes stainless steel fry basket, baking pan, oven rack, and crumb tray for easy cleanup"
+        ]
+      }
+    ],
+    "totalDuration": 250
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      null
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "4:40",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "cocina",
+    "agotan",
+    "rpido"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 12 Gadgets de Cocina que se Agotan Rápido",
+      "angle": "Top 12 Gadgets de Cocina que se Agotan Rápido",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 12,
+      "introScript": "¿Un gadget que cocina con aire y ahorra calorías? ¿O quizás una taza que calienta tu café para siempre? Hoy te traigo los gadgets de cocina más alucinantes que querrás tener antes de que vuelen de los estantes.",
+      "keywords": [
+        "gadgets",
+        "cocina",
+        "agotan",
+        "rpido"
+      ],
+      "estimatedViews": 4284,
+      "bestPublishTime": "2026-05-31T15:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Instant Pot Duo Plus",
+          "searchTermEn": "Instant Pot Duo Plus",
+          "id": "B01NBKTPTS",
+          "filename": "B01NBKTPTS.mp4"
+        },
+        {
+          "nombre": "Anova Precision Cooker",
+          "searchTermEn": "Anova Precision Cooker",
+          "id": "B0BQ9F56WV",
+          "filename": "B0BQ9F56WV.mp4"
+        },
+        {
+          "nombre": "Breville Smart Oven",
+          "searchTermEn": "Breville Smart Oven",
+          "id": "B01N5UPTZS",
+          "filename": "B01N5UPTZS.mp4"
+        },
+        {
+          "nombre": "Ember Temperature Control Mug",
+          "searchTermEn": "Ember Temperature Control Mug",
+          "id": "B0B6JTX6NB",
+          "filename": "B0B6JTX6NB.mp4"
+        },
+        {
+          "nombre": "Ninja Foodi Grill",
+          "searchTermEn": "Ninja Foodi Grill",
+          "id": "B07S76WBGF",
+          "filename": "B07S76WBGF.mp4"
+        },
+        {
+          "nombre": "Meater Plus Smart Meat Thermometer",
+          "searchTermEn": "Meater Plus Smart Meat Thermometer",
+          "id": "B07H8WTFHW",
+          "filename": "B07H8WTFHW.mp4"
+        },
+        {
+          "nombre": "Dash Rapid Egg Cooker",
+          "searchTermEn": "Dash Rapid Egg Cooker",
+          "id": "B0D3W6XGLR",
+          "filename": "B0D3W6XGLR.mp4"
+        },
+        {
+          "nombre": "OXO Good Grips Salad Spinner",
+          "searchTermEn": "OXO Good Grips Salad Spinner",
+          "id": "B00004OCKR",
+          "filename": "B00004OCKR.mp4"
+        },
+        {
+          "nombre": "Tovala Smart Oven",
+          "searchTermEn": "Tovala Smart Oven",
+          "id": "B0BGMDK564",
+          "filename": "B0BGMDK564.mp4"
+        },
+        {
+          "nombre": "Gourmia Digital Air Fryer",
+          "searchTermEn": "Gourmia Digital Air Fryer",
+          "id": "B09CB7SMSD",
+          "filename": "B09CB7SMSD.mp4"
+        },
+        {
+          "nombre": "Prepara Herb Savor Pod",
+          "searchTermEn": "Prepara Herb Savor Pod",
+          "id": "B00ERE2RLK",
+          "filename": "B00ERE2RLK.mp4"
+        },
+        {
+          "nombre": "Hamilton Beach Breakfast Sandwich Maker",
+          "searchTermEn": "Hamilton Beach Breakfast Sandwich Maker",
+          "id": "B00BTIUYOO",
+          "filename": "B00BTIUYOO.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-05-28T22:33:42.454Z",
+      "_requestedCount": 12,
+      "_adaptedCount": 12,
+      "introProductsOrder": [
+        {
+          "nombre": "Meater Plus Smart Meat Thermometer",
+          "id": "B07H8WTFHW",
+          "filename": "B07H8WTFHW_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07H8WTFHW_combined.mp4"
+        },
+        {
+          "nombre": "Tovala Smart Oven",
+          "id": "B0BGMDK564",
+          "filename": "B0BGMDK564_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0BGMDK564_combined.mp4"
+        },
+        {
+          "nombre": "OXO Good Grips Salad Spinner",
+          "id": "B00004OCKR",
+          "filename": "B00004OCKR_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B00004OCKR_combined.mp4"
+        },
+        {
+          "nombre": "Ember Temperature Control Mug",
+          "id": "B0B6JTX6NB",
+          "filename": "B0B6JTX6NB_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0B6JTX6NB_combined.mp4"
+        },
+        {
+          "nombre": "Dash Rapid Egg Cooker",
+          "id": "B0D3W6XGLR",
+          "filename": "B0D3W6XGLR_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0D3W6XGLR_combined.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1780011061869_adpj7q"
+    },
+    "generatedAt": "2026-05-28T23:32:02.979Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Instant Pot Duo Plus",
+        "searchTermEn": "Instant Pot Duo Plus",
+        "id": "B01NBKTPTS",
+        "filename": "B01NBKTPTS.mp4"
+      },
+      {
+        "nombre": "Anova Precision Cooker",
+        "searchTermEn": "Anova Precision Cooker",
+        "id": "B0BQ9F56WV",
+        "filename": "B0BQ9F56WV.mp4"
+      },
+      {
+        "nombre": "Breville Smart Oven",
+        "searchTermEn": "Breville Smart Oven",
+        "id": "B01N5UPTZS",
+        "filename": "B01N5UPTZS.mp4"
+      },
+      {
+        "nombre": "Ember Temperature Control Mug",
+        "searchTermEn": "Ember Temperature Control Mug",
+        "id": "B0B6JTX6NB",
+        "filename": "B0B6JTX6NB.mp4"
+      },
+      {
+        "nombre": "Ninja Foodi Grill",
+        "searchTermEn": "Ninja Foodi Grill",
+        "id": "B07S76WBGF",
+        "filename": "B07S76WBGF.mp4"
+      },
+      {
+        "nombre": "Meater Plus Smart Meat Thermometer",
+        "searchTermEn": "Meater Plus Smart Meat Thermometer",
+        "id": "B07H8WTFHW",
+        "filename": "B07H8WTFHW.mp4"
+      },
+      {
+        "nombre": "Dash Rapid Egg Cooker",
+        "searchTermEn": "Dash Rapid Egg Cooker",
+        "id": "B0D3W6XGLR",
+        "filename": "B0D3W6XGLR.mp4"
+      },
+      {
+        "nombre": "OXO Good Grips Salad Spinner",
+        "searchTermEn": "OXO Good Grips Salad Spinner",
+        "id": "B00004OCKR",
+        "filename": "B00004OCKR.mp4"
+      },
+      {
+        "nombre": "Tovala Smart Oven",
+        "searchTermEn": "Tovala Smart Oven",
+        "id": "B0BGMDK564",
+        "filename": "B0BGMDK564.mp4"
+      },
+      {
+        "nombre": "Gourmia Digital Air Fryer",
+        "searchTermEn": "Gourmia Digital Air Fryer",
+        "id": "B09CB7SMSD",
+        "filename": "B09CB7SMSD.mp4"
+      },
+      {
+        "nombre": "Prepara Herb Savor Pod",
+        "searchTermEn": "Prepara Herb Savor Pod",
+        "id": "B00ERE2RLK",
+        "filename": "B00ERE2RLK.mp4"
+      },
+      {
+        "nombre": "Hamilton Beach Breakfast Sandwich Maker",
+        "searchTermEn": "Hamilton Beach Breakfast Sandwich Maker",
+        "id": "B00BTIUYOO",
+        "filename": "B00BTIUYOO.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 12 Gadgets de Cocina que se Agotan Rápido\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\n¿Sin cables? ¿Todo automático? ¿Seca rápido? ¿Control absoluto de temperatura? ¿En minutos?\n\n[0:10-0:15] INTRODUCTION\n¿Cuál querrías tú? Los links están en el primer comentario.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] INSTANT POT DUO PLUS\nCon nueve funciones de cocción en un solo aparato, el Instant Pot Duo Plus redefine la versatilidad en la cocina. Sus programas inteligentes personalizables te permiten abordar cada receta con facilidad, desde sopas abundantes hasta pasteles decadentes. Su diseño intuitivo y conveniente presenta una pantalla fácil de leer que muestra tiempo, temperatura e indicadores de presión en tiempo real.\nSu precio actual en Amazon ronda los... 140 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Instant Pot Duo Plus]\n\n[0:25] ANOVA PRECISION COOKER\nDescubre el secreto mejor guardado para cocinar como un chef profesional con el Anova Precision Cooker. Este dispositivo te introduce al mundo del sous vide, garantizando resultados perfectos sin riesgo de sobrecocción. La pantalla táctil mejorada y conectividad WiFi mejorada hacen que alcanzar la perfección sea más fácil que nunca.\nSu precio actual en Amazon ronda los... 169 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Anova Precision Cooker]\n\n[0:25] BREVILLE SMART OVEN\n\"Por su tecnología Element iQ con cinco elementos independientes, este horno ofrece una cocción precisa sin puntos fríos. Aunque su precio es más alto, la capacidad de aire libre y deshidratado justifica cada centavo, haciendo que sus funciones innovadoras sobresalgan entre otros hornos.\"\n\"Su precio actual en Amazon ronda los... 400 dólares. ¡Link en el primer comentario!\"\n\n[VISUALS: Product image: Breville Smart Oven]\n\n[0:25] EMBER TEMPERATURE CONTROL MUG\nLa Ember Temperature Control Mug mantiene tu bebida caliente a la temperatura perfecta durante horas con tecnología de luces LED y batería duradera.\nSu precio actual en Amazon ronda los 120 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Ember Temperature Control Mug]\n\n[0:25] NINJA FOODI GRILL\nEl Ninja Foodi Grill ofrece una experiencia sensorial única al asar y freír al aire con tecnología ciclónica a 500°F, brindando poder de asado exterior en tu encimera.\nSu precio actual en Amazon ronda los 190 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Ninja Foodi Grill]\n\n[0:25] MEATER PLUS SMART MEAT THERMOMETER\nCocina con total libertad gracias al Meater Plus, un termómetro inalámbrico que te permite monitorear tus carnes desde cualquier lugar de tu hogar. Sus sensores duales proporcionan mediciones precisas tanto de la carne como del ambiente, asegurando resultados perfectos cada vez.\nSu precio actual en Amazon ronda los... 80 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Meater Plus Smart Meat Thermometer]\n\n[0:25] DASH RAPID EGG COOKER\nCon el Dash Rapid Egg Cooker, prepara huevos duros, blandos, escalfados y revueltos en minutos. Su sensor térmico garantiza cocción perfecta y su diseño compacto facilita su almacenamiento.\nSu precio actual en Amazon ronda los... 20 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Dash Rapid Egg Cooker]\n\n[0:25] OXO GOOD GRIPS SALAD SPINNER\nEl OXO Good Grips Salad Spinner es ideal para secar tus verduras con un solo toque. Su base antideslizante y su sistema de freno patentado lo hacen fácil y eficiente, mientras que también funciona como colador y bol para servir.\nSu precio actual en Amazon ronda los... 33 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: OXO Good Grips Salad Spinner]\n\n[0:25] TOVALA SMART OVEN\nEl Tovala Smart Oven combina seis funciones en uno: freír al aire, vaporizar, hornear y más. Controlado por app móvil, te ofrece recetas perfectas al instante sin necesidad de precalentamiento.\n\"Su precio actual en Amazon ronda los... 350 dólares. ¡Link en el primer comentario!\"\n\n[VISUALS: Product image: Tovala Smart Oven]\n\n[0:25] GOURMIA DIGITAL AIR FRYER\nOlvídate de las largas filas en el drive-through. Con el Hamilton Beach Breakfast Sandwich Maker, prepara deliciosos desayunos en casa en solo 5 minutos, usando tus ingredientes frescos favoritos.\nSu precio actual en Amazon ronda los 30 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Gourmia Digital Air Fryer]\n\n[10 seconds] CONCLUSION\nundefined\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 4:40\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, cocina, agotan, rpido\n"
+}

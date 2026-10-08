@@ -1,0 +1,188 @@
+{
+  "title": "Top 2 Teclados Mecánicos Increíbles para 2023",
+  "hook": {
+    "type": "statement",
+    "text": "",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "25s-35s"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Keychron K6 Wireless Keyboard",
+        "productId": "B0F9XWDXJT",
+        "productName": "Keychron K6 Wireless Keyboard",
+        "filename": "B0F9XWDXJT.mp4",
+        "asin": "B0F9XWDXJT",
+        "videoDuration": 31.666233,
+        "estimatedAudioSeconds": 35,
+        "framework": "experiencia_sensorial",
+        "narracionSegments": null,
+        "content": [
+          "¿Buscas el teclado definitivo para una experiencia sensorial única nunca antes vista? Keychron K6 Wireless Keyboard es la solución. Su presencia premium de escritorio negro y madera; garantiza un entorno de calidad. Ajusta la actuación de 0.2 a 3.8 mm y personaliza cada tecla para máxima eficiencia. Cambia entre Bluetooth; modo alámbrico USB-C o conexión rápida de 2.4 GHz para trabajar en Mac o Windows. Controla y siente cada pulsación con sus interruptores magnéticos Gateron.",
+          "Su precio actual ronda los cincuenta y dos dólares. Link en comentarios."
+        ],
+        "visuals": [
+          "Product image: Keychron K6 Wireless Keyboard"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0F9XWDXJT.mp4",
+        "precio": "$52",
+        "productPhoto": "https://m.media-amazon.com/images/I/61ya0LoFpYL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "\"\"\"Presencia premium de escritorio negro y madera: La K6 HE Special Edition combina la velocidad de interruptor magnético con un marco de aluminio y madera más refinado, lo que la convierte en una opción sólida para usuarios que buscan un rendimiento competitivo sin la típica apariencia ruidosa de un teclado gaming.\"\"\"",
+          "Actuación ajustable para juegos y trabajo de precisión: Ajusta la actuación de 0.2 a 3.8 mm y personaliza cada tecla para un movimiento más rápido, entradas deliberadas o perfiles de uso mixto en juegos, programación y trabajo diario.",
+          "Amigable para desarrolladores en flujos de trabajo modernos: El diseño del 65% mantiene tu ratón más cerca mientras preserva las teclas esenciales, y la configuración de QMK más Launcher facilita la creación de accesos directos, macros y capas para trabajo en terminal, uso de IDE y desarrollo asistido por IA.",
+          "Construido para sesiones de codificación con buena vibra y enfoque profundo: interruptores magnéticos de doble riel Gateron prelubricados, espumas acústicas y un diseño más limpio del 65% hacen que el teclado se sienta como en casa en largas sesiones de escritura de prompts, prototipado y codificación con buena vibra, donde la comodidad y el flujo son importantes.",
+          "Tri-modo inalámbrico con soporte para Mac y Windows: Usa 2.4 GHz con 1000 Hz de sondeo para una respuesta rápida, Bluetooth 5.2 para hasta 3 dispositivos, o modo cableado USB-C cuando desees una configuración de escritorio estable en macOS, Windows y Linux."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Anne Pro 2 Mechanical Keyboard",
+        "productId": "B07W41BGXD",
+        "productName": "Anne Pro 2 Mechanical Keyboard",
+        "filename": "B07W41BGXD.mp4",
+        "asin": "B07W41BGXD",
+        "videoDuration": 26.482033,
+        "estimatedAudioSeconds": 34,
+        "framework": "problema_solucion",
+        "narracionSegments": null,
+        "content": [
+          "Nunca creíste que un teclado pequeño fuera tan potente... Anne Pro Dos con Gateron Brown Switches. Ofrece ocho horas de uso inalámbrico gracias a su batería de mil novecientos miliamperios. Conéctalo vía Bluetooth. Tiene teclas de flecha integradas. ¿Necesitas más personalización? Usa el software companion para controlar luces RGB. Disfruta de la comodidad sin cables. Ahorra energía con su interruptor de encendido/apagado. Revoluciona tu escritorio. Transforma tu experiencia tipográfica con un teclado que hace todo.",
+          "Su precio actual ronda los 85 dólares. Link en comentarios."
+        ],
+        "visuals": [
+          "Product image: Anne Pro 2 Mechanical Keyboard"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07W41BGXD.mp4",
+        "precio": "$85",
+        "productPhoto": "https://m.media-amazon.com/images/I/41OcpnaS7AL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "GATERON Brown Switches",
+          "Requisitos del sistema Bluetooth: receptor Bluetooth LE5.0/Linux, Windows 8/10, Android 4.4 y superior / IOS 7.0 y superior / Mac OS 10.10 y superior. (Verifica la compatibilidad antes de comprar)",
+          "Uso prolongado inalámbrico. Anne pro 2 utiliza una batería de 1900mah que permite hasta 8 horas de uso inalámbrico en circunstancias normales, lo que significa un ciclo de vida de unos días con una sola carga. También cuenta con un interruptor de encendido/apagado incorporado para conservar la energía de la batería.",
+          "Teclas de flecha en el teclado. Probablemente el primer teclado 60% con teclas de flecha de vuelta. La funcionalidad de la tecla de toque permite que las teclas se comporten de manera diferente cuando se tocan o se mantienen presionadas. Por defecto, la tecla Shift derecha, Fn1, Fn2 y la tecla Control derecha se comportan como teclas de flecha cuando se tocan.",
+          "Maximiza tu imaginación: el software companion Anne pro starter permite a los usuarios personalizar completamente sus teclados. Las luces de fondo RGB son individualmente direccionables."
+        ]
+      }
+    ],
+    "totalDuration": 80
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      ""
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:50",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "teclados",
+    "mecnicos",
+    "increbles",
+    "para",
+    "2023"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 2 Teclados Mecánicos Increíbles para 2023",
+      "angle": "Top 5 Teclados Mecánicos Increíbles para 2023",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 2,
+      "introScript": "¿Imaginas un teclado que se adapta a tus dedos para escribir más rápido? O uno que cambia de color tan pronto como presionas una tecla. Hoy te mostraré cinco teclados mecánicos que no solo mejorarán tu escritura, sino que también transformarán tu espacio de trabajo en un espectáculo visual. Estos teclados financiados en plataformas de crowdfunding están disponibles ahora mismo y listos para revolucionar tu escritorio.",
+      "keywords": [
+        "teclados",
+        "mecnicos",
+        "increbles",
+        "para",
+        "2023"
+      ],
+      "estimatedViews": 6327,
+      "bestPublishTime": "2026-07-17T20:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Keychron K6 Wireless Keyboard",
+          "searchTermEn": "keychron K6 wireless keyboard",
+          "id": "B0F9XWDXJT",
+          "filename": "B0F9XWDXJT.mp4"
+        },
+        {
+          "nombre": "Anne Pro 2 Mechanical Keyboard",
+          "searchTermEn": "anne pro 2 mechanical keyboard",
+          "id": "B07W41BGXD",
+          "filename": "B07W41BGXD.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-07-15T17:15:21.098Z",
+      "_requestedCount": 5,
+      "_adaptedCount": 2,
+      "_adaptationNote": "ATENCIÓN: El usuario pidió 5 productos pero solo hay 2 clips de video disponibles. El guion, título y narrativa deben referirse EXCLUSIVAMENTE a 2 productos.",
+      "introProductsOrder": [
+        {
+          "nombre": "Anne Pro 2 Mechanical Keyboard",
+          "id": "B07W41BGXD",
+          "filename": "B07W41BGXD.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07W41BGXD.mp4"
+        },
+        {
+          "nombre": "Keychron K6 Wireless Keyboard",
+          "id": "B0F9XWDXJT",
+          "filename": "B0F9XWDXJT.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0F9XWDXJT.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1784136460119_367066"
+    },
+    "generatedAt": "2026-07-15T17:27:57.150Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Keychron K6 Wireless Keyboard",
+        "searchTermEn": "keychron K6 wireless keyboard",
+        "id": "B0F9XWDXJT",
+        "filename": "B0F9XWDXJT.mp4"
+      },
+      {
+        "nombre": "Anne Pro 2 Mechanical Keyboard",
+        "searchTermEn": "anne pro 2 mechanical keyboard",
+        "id": "B07W41BGXD",
+        "filename": "B07W41BGXD.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 2 Teclados Mecánicos Increíbles para 2023\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\n\n\n[25s-35s] INTRODUCTION\n\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] KEYCHRON K6 WIRELESS KEYBOARD\n¿Buscas el teclado definitivo para una experiencia sensorial única nunca antes vista? Keychron K6 Wireless Keyboard es la solución. Su presencia premium de escritorio negro y madera; garantiza un entorno de calidad. Ajusta la actuación de 0.2 a 3.8 mm y personaliza cada tecla para máxima eficiencia. Cambia entre Bluetooth; modo alámbrico USB-C o conexión rápida de 2.4 GHz para trabajar en Mac o Windows. Controla y siente cada pulsación con sus interruptores magnéticos Gateron.\nSu precio actual ronda los cincuenta y dos dólares. Link en comentarios.\n\n[VISUALS: Product image: Keychron K6 Wireless Keyboard]\n\n[0:25] ANNE PRO 2 MECHANICAL KEYBOARD\nNunca creíste que un teclado pequeño fuera tan potente... Anne Pro Dos con Gateron Brown Switches. Ofrece ocho horas de uso inalámbrico gracias a su batería de mil novecientos miliamperios. Conéctalo vía Bluetooth. Tiene teclas de flecha integradas. ¿Necesitas más personalización? Usa el software companion para controlar luces RGB. Disfruta de la comodidad sin cables. Ahorra energía con su interruptor de encendido/apagado. Revoluciona tu escritorio. Transforma tu experiencia tipográfica con un teclado que hace todo.\nSu precio actual ronda los 85 dólares. Link en comentarios.\n\n[VISUALS: Product image: Anne Pro 2 Mechanical Keyboard]\n\n[10 seconds] CONCLUSION\n\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:50\nTONE: engaging\nPACING: quick\nKEYWORDS: teclados, mecnicos, increbles, para, 2023\n"
+}

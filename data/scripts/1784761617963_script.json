@@ -1,0 +1,134 @@
+{
+  "title": "Top 1 Gadget Musical para Tus Fiestas Inolvidables",
+  "hook": {
+    "type": "statement",
+    "text": "",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "25s-35s"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "JBL Pulse 4",
+        "productId": "B07XK9L6XH",
+        "productName": "JBL Pulse 4",
+        "filename": "B07XK9L6XH.mp4",
+        "asin": "B07XK9L6XH",
+        "videoDuration": 50.8397,
+        "estimatedAudioSeconds": 34,
+        "framework": "enfoque_caracteristica",
+        "narracionSegments": null,
+        "content": [
+          "¿Buscas un espectáculo visual y sonoro impresionante? JBL Pulse 4... Es tu respuesta. Con su luz LED deslumbrante de trescientos sesenta grados. Llena tus noches de color y sonido. Emite el sonido Pro potente de JBL en todas las direcciones. Conéctalo sin cables; disfruta su transmisión Bluetooth inalámbrica desde cuarenta pies. Lleva la fiesta a la piscina o playa... Gracias a su diseño impermeable IPX7. ¿Listo para impresionar? El entretenimiento nunca fue tan vibrante.",
+          "Su precio actual ronda los... doscientos veinte dólares. Link en comentarios."
+        ],
+        "visuals": [
+          "Product image: JBL Pulse 4"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07XK9L6XH.mp4",
+        "precio": "$220",
+        "productPhoto": "https://m.media-amazon.com/images/I/61my+ad5OrL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "\"\"\"LUZ LED DESLUMBRANTE DE 360 GRADOS: Pulse 4 brilla durante la noche con un increíble espectáculo de luces LED de alta resolución de 360 grados.\"\"\"",
+          "SONIDO ORIGINAL PRO POTENTE DE JBL: Pulse 4 ofrece el sonido característico de JBL en todas las direcciones con su ingenioso arreglo de altavoces de 360 grados.",
+          "JBL Pulse 4 - Altavoz Bluetooth portátil resistente al agua con espectáculo de luces.",
+          "TRANSMISIÓN BLUETOOTH INALÁMBRICA: Transmite música de forma inalámbrica desde tu teléfono, tableta o cualquier otro dispositivo habilitado para Bluetooth, con un alcance inalámbrico de hasta 40ft.",
+          "IPX7 IMPERMEABLE: Lleva tus altavoces a cualquier lugar. ¿Fiesta en la piscina? Perfecto. ¿Lluvia repentina? Cubierto. ¿Fiesta en la playa? Pulse 4 es impermeable IPX7 para un entretenimiento al aire libre sin miedo."
+        ]
+      }
+    ],
+    "totalDuration": 40
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      ""
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:10",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadget",
+    "musical",
+    "para",
+    "fiestas",
+    "inolvidables"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 1 Gadget Musical para Tus Fiestas Inolvidables",
+      "angle": "Top 1 Gadget Musical para Tus Fiestas Inolvidables",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 1,
+      "introScript": "Imagina un altavoz que no solo ofrece sonido de alta calidad, sino que también crea un espectáculo visual impresionante. Este gadget es una revolución para cualquier fiesta. Además, cuenta con una batería de larga duración que te permitirá disfrutar de la música sin interrupciones durante horas. Hoy descubrirás cómo este increíble dispositivo puede transformar tu reunión en un evento épico.",
+      "keywords": [
+        "gadget",
+        "musical",
+        "para",
+        "fiestas",
+        "inolvidables"
+      ],
+      "estimatedViews": 5576,
+      "bestPublishTime": "2026-07-24T20:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "JBL Pulse 4",
+          "searchTermEn": "JBL Pulse 4 speaker",
+          "id": "B07XK9L6XH",
+          "filename": "B07XK9L6XH.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-07-22T23:05:19.972Z",
+      "_requestedCount": 1,
+      "_adaptedCount": 1,
+      "introProductsOrder": [
+        {
+          "nombre": "JBL Pulse 4",
+          "id": "B07XK9L6XH",
+          "filename": "B07XK9L6XH.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07XK9L6XH.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1784761596157_ohpo96"
+    },
+    "generatedAt": "2026-07-22T23:06:46.207Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "JBL Pulse 4",
+        "searchTermEn": "JBL Pulse 4 speaker",
+        "id": "B07XK9L6XH",
+        "filename": "B07XK9L6XH.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 1 Gadget Musical para Tus Fiestas Inolvidables\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\n\n\n[25s-35s] INTRODUCTION\n\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] JBL PULSE 4\n¿Buscas un espectáculo visual y sonoro impresionante? JBL Pulse 4... Es tu respuesta. Con su luz LED deslumbrante de trescientos sesenta grados. Llena tus noches de color y sonido. Emite el sonido Pro potente de JBL en todas las direcciones. Conéctalo sin cables; disfruta su transmisión Bluetooth inalámbrica desde cuarenta pies. Lleva la fiesta a la piscina o playa... Gracias a su diseño impermeable IPX7. ¿Listo para impresionar? El entretenimiento nunca fue tan vibrante.\nSu precio actual ronda los... doscientos veinte dólares. Link en comentarios.\n\n[VISUALS: Product image: JBL Pulse 4]\n\n[10 seconds] CONCLUSION\n\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:10\nTONE: engaging\nPACING: quick\nKEYWORDS: gadget, musical, para, fiestas, inolvidables\n"
+}

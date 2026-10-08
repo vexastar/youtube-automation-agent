@@ -1,0 +1,167 @@
+{
+  "title": "Top 3 Gadgets de Amazon que Sorprenden DEMASIADO",
+  "hook": {
+    "type": "statement",
+    "text": "Este arma lanza cientos de burbujas en segundos. Un soporte transforma tu portátil en un instante. Estas luces cambian cualquier ambiente al tocar un botón.",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "Suscríbete, los links están en el primer comentario. Empecemos.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0:10-0:15"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Bubble Machine Gun",
+        "productId": "B0GCMDFL62",
+        "productName": "Bubble Machine Gun",
+        "filename": "B0GCMDFL62.mp4",
+        "content": [
+          "Las fiestas al aire libre pueden ser aburridas sin algo especial. La Bubble Machine Gun convierte cualquier evento en un espectáculo burbujeante. Con su diseño de múltiples boquillas, llena el aire de diversión instantáneamente.",
+          "Su precio actual en Amazon ronda los... 16 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Bubble Machine Gun"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0GCMDFL62.mp4",
+        "precio": "$16",
+        "productPhoto": "https://m.media-amazon.com/images/I/7184sBY+e9L.jpg"
+      },
+      {
+        "type": "content",
+        "title": "ObVus Solutions Stand",
+        "productId": "B0B4NML9CZ",
+        "productName": "ObVus Solutions Stand",
+        "filename": "B0B4NML9CZ.mp4",
+        "content": [
+          "Trabajar en el portátil puede ser incómodo y causar dolor de cuello. El ObVus Solutions Stand eleva tu portátil a la altura perfecta para una visualización ergonómica. Es ajustable y portátil, ideal para cualquier espacio de trabajo.",
+          "Su precio actual en Amazon ronda los... 13 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: ObVus Solutions Stand"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0B4NML9CZ.mp4",
+        "precio": "$13",
+        "productPhoto": "https://m.media-amazon.com/images/I/51SuC6ji8LL.jpg"
+      },
+      {
+        "type": "content",
+        "title": "Govee LED Strip Lights",
+        "productId": "B0991Q94KP",
+        "productName": "Govee LED Strip Lights",
+        "filename": "B0991Q94KP.mp4",
+        "content": [
+          "Ambientes monótonos pueden afectar tu estado de ánimo. Las Govee LED Strip Lights iluminan cualquier espacio con colores vibrantes y ajustables. Se controlan fácilmente desde una app, personalizando la luz al instante.",
+          "Su precio actual en Amazon ronda los... 12 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Govee LED Strip Lights"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0991Q94KP.mp4",
+        "precio": "$12",
+        "productPhoto": "https://m.media-amazon.com/images/I/71tjdZg28vL.jpg"
+      }
+    ],
+    "totalDuration": 75
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "Dale like al video y recuerda que los links están en el primer comentario."
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:45",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "amazon",
+    "sorprenden",
+    "demasiado"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 3 Gadgets de Amazon que Sorprenden DEMASIADO",
+      "angle": "Top 3 Gadgets de Amazon que Sorprenden DEMASIADO",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 3,
+      "introScript": "¿Quieres presionar un botón y llenar instantáneamente tu sala de burbujas? ¿O un soporte de laptop que se ajusta mágicamente a cualquier ángulo? Prepara tu tarjeta de crédito porque estos gadgets de Amazon realmente te sorprenderán.",
+      "keywords": [
+        "gadgets",
+        "amazon",
+        "sorprenden",
+        "demasiado"
+      ],
+      "estimatedViews": 4750,
+      "bestPublishTime": "2026-05-02T15:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Bubble Machine Gun",
+          "searchTermEn": "bubble machine gun",
+          "id": "B0GCMDFL62",
+          "filename": "B0GCMDFL62.mp4"
+        },
+        {
+          "nombre": "ObVus Solutions Stand",
+          "searchTermEn": "obvus solutions laptop stand",
+          "id": "B0B4NML9CZ",
+          "filename": "B0B4NML9CZ.mp4"
+        },
+        {
+          "nombre": "Govee LED Strip Lights",
+          "searchTermEn": "govee led strip lights",
+          "id": "B0991Q94KP",
+          "filename": "B0991Q94KP.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-04-29T19:32:41.912Z",
+      "_requestedCount": 3,
+      "_adaptedCount": 3,
+      "_scriptNonce": "nonce_1777491287335_bvpdwd"
+    },
+    "generatedAt": "2026-04-29T19:34:51.235Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Bubble Machine Gun",
+        "searchTermEn": "bubble machine gun",
+        "id": "B0GCMDFL62",
+        "filename": "B0GCMDFL62.mp4"
+      },
+      {
+        "nombre": "ObVus Solutions Stand",
+        "searchTermEn": "obvus solutions laptop stand",
+        "id": "B0B4NML9CZ",
+        "filename": "B0B4NML9CZ.mp4"
+      },
+      {
+        "nombre": "Govee LED Strip Lights",
+        "searchTermEn": "govee led strip lights",
+        "id": "B0991Q94KP",
+        "filename": "B0991Q94KP.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 3 Gadgets de Amazon que Sorprenden DEMASIADO\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\nEste arma lanza cientos de burbujas en segundos. Un soporte transforma tu portátil en un instante. Estas luces cambian cualquier ambiente al tocar un botón.\n\n[0:10-0:15] INTRODUCTION\nSuscríbete, los links están en el primer comentario. Empecemos.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] BUBBLE MACHINE GUN\nLas fiestas al aire libre pueden ser aburridas sin algo especial. La Bubble Machine Gun convierte cualquier evento en un espectáculo burbujeante. Con su diseño de múltiples boquillas, llena el aire de diversión instantáneamente.\nSu precio actual en Amazon ronda los... 16 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Bubble Machine Gun]\n\n[0:25] OBVUS SOLUTIONS STAND\nTrabajar en el portátil puede ser incómodo y causar dolor de cuello. El ObVus Solutions Stand eleva tu portátil a la altura perfecta para una visualización ergonómica. Es ajustable y portátil, ideal para cualquier espacio de trabajo.\nSu precio actual en Amazon ronda los... 13 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: ObVus Solutions Stand]\n\n[0:25] GOVEE LED STRIP LIGHTS\nAmbientes monótonos pueden afectar tu estado de ánimo. Las Govee LED Strip Lights iluminan cualquier espacio con colores vibrantes y ajustables. Se controlan fácilmente desde una app, personalizando la luz al instante.\nSu precio actual en Amazon ronda los... 12 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Govee LED Strip Lights]\n\n[10 seconds] CONCLUSION\nDale like al video y recuerda que los links están en el primer comentario.\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:45\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, amazon, sorprenden, demasiado\n"
+}

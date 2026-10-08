@@ -1,0 +1,132 @@
+{
+  "title": "Top 1 Gadget Espía Futurista",
+  "hook": {
+    "type": "statement",
+    "text": "He seleccionado los mejores productos para hacer tu día a día más cómodo y organizado. Estos son inventos que probablemente querrás tener desde el momento en que los veas. Descubre la lista completa de links en el primer comentario. Aquí vamos.",
+    "duration": "0:00-0:15"
+  },
+  "introduction": {
+    "greeting": "",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0s"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Cámara Oculta con Audio",
+        "productId": "B0HJZMCFKT",
+        "productName": "Cámara Oculta con Audio",
+        "filename": "B0HJZMCFKT.mp4",
+        "asin": "B0HJZMCFKT",
+        "videoDuration": 15.116367,
+        "estimatedAudioSeconds": 26,
+        "framework": "comparacion_precio",
+        "narracionSegments": null,
+        "content": [
+          "Impresionante calidad. La cámara oculta ofrece video nítido en cuatro k HD. Captura cada detalle incluso en la oscuridad gracias a sus LEDs infrarrojos. Con tecnología avanzada, detecta movimiento y envía alertas instantáneas a tu teléfono. Garantiza seguridad continua en casa, estés donde estés.",
+          "Sorprende su precio: solo treinta dólares en Amazon. Mira los comentarios para más detalles y el enlace de compra."
+        ],
+        "visuals": [
+          "Product image: Cámara Oculta con Audio"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0HJZMCFKT.mp4",
+        "precio": "$30",
+        "productPhoto": "https://m.media-amazon.com/images/I/51NXLo3Bc7L.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "【Captura de Video de Alta Definición】Esta cámara de vigilancia compacta ofrece video nítido en 4k full HD, capturando cada detalle con una claridad excepcional. Los LEDs infrarrojos integrados se encienden automáticamente en entornos con poca luz, cambiando suavemente al modo de visión nocturna. Incluso en condiciones de poca luz o casi oscuras, las luces IR de alto rendimiento aseguran que obtengas grabaciones claras y estables en alta definición sin distorsión.",
+          "【Alertas de Detección de Movimiento Inteligente】Con tecnología de detección de movimiento confiable y de largo alcance, esta cámara interior se activa inmediatamente cuando se detecta movimiento. En el momento en que cualquier objeto o persona entra en el rango de monitoreo, comienza a grabar automáticamente y envía una alerta en tiempo real con una instantánea directamente a tu aplicación móvil. Mantente informado sobre lo que está sucediendo en casa—ya sean tus hijos, mascotas o invitados inesperados—sin importar dónde te encuentres.",
+          "【Instalación fácil y suministro de energía flexible】No se requieren cableados complicados: esta cámara interior inalámbrica está lista para usar justo después de sacarla de la caja. Se conecta a tu smartphone a través de un punto de acceso Wi-Fi privado, con un rango de conexión estable de 33 a 49 pies. Una batería de gran capacidad incorporada proporciona hasta 2.5 horas de tiempo de espera continuo. Para un uso prolongado, simplemente conéctala a cualquier fuente de alimentación USB (como un cargador de coche, adaptador de pared o banco de energía portátil) para mantenerla funcionando 24/7.",
+          "【Modos de Almacenamiento de Grabación Dual】Elige tu forma preferida de almacenar las grabaciones. Esta cámara de vigilancia admite almacenamiento local a través de una tarjeta microSD (TF) (expandible hasta 128GB) y también sincroniza las grabaciones directamente con tu aplicación móvil. Conecta tu teléfono al punto de acceso de la cámara para ver transmisiones en vivo o revisar clips históricos en cualquier momento. Además, con la grabación en bucle habilitada, cuando la tarjeta de memoria esté llena, los nuevos archivos sobrescribirán automáticamente los más antiguos, asegurando que nunca te pierdas momentos importantes.",
+          "【Aplicación Multi-Escenario】Ideal para seguridad en el hogar, monitoreo de oficinas, supervisión de comercios o grabación de la vida diaria—esta cámara HD inalámbrica compacta se adapta a tus diversas necesidades. Úsala para prevenir robos, monitorear cuidadores, grabar viajes por carretera o capturar momentos maravillosos de actividades al aire libre. Siempre que tengas una conexión a internet, puedes revisar imágenes en vivo en cualquier momento y lugar, manteniendo un ojo en lo que más te importa."
+        ],
+        "originalVideoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0HJZMCFKT.mp4"
+      }
+    ],
+    "totalDuration": 40
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "Gracias por llegar hasta aquí, el próximo top será aún más loco. Recuerda los links en el primer comentario."
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "",
+    "like": "",
+    "comment": "",
+    "nextVideo": "",
+    "duration": "0 seconds"
+  },
+  "duration": "1:10",
+  "tone": "engaging",
+  "tone_variant": "directo y urgente, como si el producto se agotara mañana",
+  "pacing": "quick",
+  "keywords": [
+    "gadget",
+    "espa",
+    "futurista"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 1 Gadget Espía Futurista",
+      "angle": "Top 1 Gadget Espía Futurista",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 1,
+      "introScript": "¿Qué tienen en común un reloj que parece de película de espías y unos auriculares que no solo reproducen música? Te presentamos un gadget que combina lo mejor del espionaje con la tecnología futurista. Imagina poder grabar conversaciones mientras haces tus tareas diarias sin que nadie lo note. Este dispositivo no solo es atractivo por su diseño, sino que también es increíblemente útil para esos momentos donde la discreción es clave. Si alguna vez soñaste con sentirte como un verdadero agente secreto, este gadget te sorprenderá.",
+      "keywords": [
+        "gadget",
+        "espa",
+        "futurista"
+      ],
+      "estimatedViews": 5055,
+      "bestPublishTime": "2026-09-25T18:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Cámara Oculta con Audio",
+          "searchTermEn": "FeTam wireless spy camera",
+          "id": "B0HJZMCFKT",
+          "filename": "B0HJZMCFKT.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-09-24T22:32:58.899Z",
+      "_requestedCount": 1,
+      "_adaptedCount": 1,
+      "introProductsOrder": [
+        {
+          "nombre": "Cámara Oculta con Audio",
+          "id": "B0HJZMCFKT",
+          "filename": "B0HJZMCFKT.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0HJZMCFKT.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1790289246765_mdf7v0"
+    },
+    "generatedAt": "2026-09-24T22:34:13.441Z",
+    "version": "4.0-dynamic-rotator",
+    "productos": [
+      {
+        "nombre": "Cámara Oculta con Audio",
+        "searchTermEn": "FeTam wireless spy camera",
+        "id": "B0HJZMCFKT",
+        "filename": "B0HJZMCFKT.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 1 Gadget Espía Futurista\n\n══════════════════════════════════════════════════\n\n[0:00-0:15] HOOK\nHe seleccionado los mejores productos para hacer tu día a día más cómodo y organizado. Estos son inventos que probablemente querrás tener desde el momento en que los veas. Descubre la lista completa de links en el primer comentario. Aquí vamos.\n\n[0s] INTRODUCTION\n\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] CÁMARA OCULTA CON AUDIO\nImpresionante calidad. La cámara oculta ofrece video nítido en cuatro k HD. Captura cada detalle incluso en la oscuridad gracias a sus LEDs infrarrojos. Con tecnología avanzada, detecta movimiento y envía alertas instantáneas a tu teléfono. Garantiza seguridad continua en casa, estés donde estés.\nSorprende su precio: solo treinta dólares en Amazon. Mira los comentarios para más detalles y el enlace de compra.\n\n[VISUALS: Product image: Cámara Oculta con Audio]\n\n[10 seconds] CONCLUSION\nGracias por llegar hasta aquí, el próximo top será aún más loco. Recuerda los links en el primer comentario.\n\n\n\n[0 seconds] CALL TO ACTION\n\n\n\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:10\nTONE: engaging\nPACING: quick\nKEYWORDS: gadget, espa, futurista\n"
+}

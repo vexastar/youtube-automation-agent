@@ -1,0 +1,136 @@
+{
+  "title": "Top 2 gadgets innovadores para tu carro",
+  "hook": {
+    "type": "statement",
+    "text": "Este cargador inteligente maximiza la eficiencia de carga. Este proyector muestra direcciones en el parabrisas.",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "Suscríbete, los links están en el primer comentario. Empecemos.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0:10-0:15"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "ZUS Smart Car Charger",
+        "productId": "B08HYQLH1C",
+        "productName": "ZUS Smart Car Charger",
+        "filename": "B08HYQLH1C.mp4",
+        "content": [
+          "Cargar tu teléfono en el coche puede ser lento y frustrante. El ZUS Smart Car Charger carga tus dispositivos hasta dos veces más rápido. Además, tiene un sistema para localizar tu coche fácilmente.",
+          "Su precio actual en Amazon ronda los... 10 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: ZUS Smart Car Charger"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B08HYQLH1C.mp4",
+        "precio": "$10"
+      },
+      {
+        "type": "content",
+        "title": "Hudway Cast",
+        "productId": "B0GL69HFHZ",
+        "productName": "Hudway Cast",
+        "filename": "B0GL69HFHZ.mp4",
+        "content": [
+          "Conducir siguiendo las direcciones del móvil puede ser peligroso y distraer. El Hudway Cast proyecta las direcciones directamente en tu parabrisas, manteniendo tus ojos en la carretera. Su fácil instalación es compatible con cualquier coche.",
+          "Su precio actual en Amazon ronda los... 16 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Hudway Cast"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0GL69HFHZ.mp4",
+        "precio": "$16"
+      }
+    ],
+    "totalDuration": 50
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "Dale like y recuerda que los links están en el primer comentario."
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:20",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "innovadores",
+    "para",
+    "carro"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 2 gadgets innovadores para tu carro",
+      "angle": "Top 3 gadgets innovadores para tu carro",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 2,
+      "introScript": "¿Un cargador solar para tus viajes largos? ¿Un espejo retrovisor que elimina puntos ciegos? Hoy te muestro los gadgets para auto más sorprendentes y funcionales que puedes comprar ahora mismo.",
+      "keywords": [
+        "gadgets",
+        "innovadores",
+        "para",
+        "carro"
+      ],
+      "estimatedViews": 5320,
+      "bestPublishTime": "2026-04-24T20:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "ZUS Smart Car Charger",
+          "searchTermEn": "ZUS smart car charger",
+          "id": "B08HYQLH1C",
+          "filename": "B08HYQLH1C.mp4"
+        },
+        {
+          "nombre": "Hudway Cast",
+          "searchTermEn": "Hudway Cast head up display",
+          "id": "B0GL69HFHZ",
+          "filename": "B0GL69HFHZ.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-04-21T21:57:27.468Z",
+      "_requestedCount": 3,
+      "_adaptedCount": 2,
+      "_adaptationNote": "ATENCIÓN: El usuario pidió 3 productos pero solo hay 2 clips de video disponibles. El guion, título y narrativa deben referirse EXCLUSIVAMENTE a 2 productos.",
+      "_scriptNonce": "nonce_1776808763002_4na8kj"
+    },
+    "generatedAt": "2026-04-21T21:59:27.430Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "ZUS Smart Car Charger",
+        "searchTermEn": "ZUS smart car charger",
+        "id": "B08HYQLH1C",
+        "filename": "B08HYQLH1C.mp4"
+      },
+      {
+        "nombre": "Hudway Cast",
+        "searchTermEn": "Hudway Cast head up display",
+        "id": "B0GL69HFHZ",
+        "filename": "B0GL69HFHZ.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 2 gadgets innovadores para tu carro\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\nEste cargador inteligente maximiza la eficiencia de carga. Este proyector muestra direcciones en el parabrisas.\n\n[0:10-0:15] INTRODUCTION\nSuscríbete, los links están en el primer comentario. Empecemos.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] ZUS SMART CAR CHARGER\nCargar tu teléfono en el coche puede ser lento y frustrante. El ZUS Smart Car Charger carga tus dispositivos hasta dos veces más rápido. Además, tiene un sistema para localizar tu coche fácilmente.\nSu precio actual en Amazon ronda los... 10 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: ZUS Smart Car Charger]\n\n[0:25] HUDWAY CAST\nConducir siguiendo las direcciones del móvil puede ser peligroso y distraer. El Hudway Cast proyecta las direcciones directamente en tu parabrisas, manteniendo tus ojos en la carretera. Su fácil instalación es compatible con cualquier coche.\nSu precio actual en Amazon ronda los... 16 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Hudway Cast]\n\n[10 seconds] CONCLUSION\nDale like y recuerda que los links están en el primer comentario.\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:20\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, innovadores, para, carro\n"
+}

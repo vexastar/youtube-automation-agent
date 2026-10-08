@@ -1,0 +1,132 @@
+{
+  "title": "Top 1 Gadget Imprescindible para Gamers",
+  "hook": {
+    "type": "statement",
+    "text": "",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "25s-35s"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Razer Kishi Controller",
+        "productId": "B0B16PJ31L",
+        "productName": "Razer Kishi Controller",
+        "filename": "B0B16PJ31L.mp4",
+        "asin": "B0B16PJ31L",
+        "videoDuration": 30.119,
+        "estimatedAudioSeconds": 33,
+        "framework": "problema_solucion",
+        "narracionSegments": null,
+        "content": [
+          "¿Cansado de controles móviles mediocres? El Razer Kishi Controller ofrece controles de juego móvil de calidad de consola. Con botones de microswitch; gatillos analógicos y macros programables, transforma tu iPhone en una consola portátil. Su puente extensible asegura un ajuste perfecto; incluso para iPhone catorce. Conéctalo y elimina la latencia con su conexión lightning. Descubre juegos sin fin con la app Razer Nexus. Explora, graba y comparte tu jugabilidad.",
+          "Su precio actual ronda los treinta y ocho dólares. Link en comentarios."
+        ],
+        "visuals": [
+          "Product image: Razer Kishi Controller"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0B16PJ31L.mp4",
+        "precio": "$38",
+        "productPhoto": "https://m.media-amazon.com/images/I/71wXyhvukiL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "CONTROLES DE JUEGO MÓVIL DE CALIDAD DE CONSOLA — Diseñados con botones de microswitch de última generación, gatillos analógicos y macros programables para llevar el control de calidad de consola al teléfono.",
+          "AJUSTE UNIVERSAL CON PUENTE EXTENSIBLE — Cuenta con un puente estable y extensible que proporciona un ajuste seguro que sostiene perfectamente todos los modelos modernos de iPhone, incluidos los últimos modelos de iPhone 14 con conectores lightning.",
+          "DESCUBRE LOS MEJORES JUEGOS EN UN SOLO LUGAR Y GRATIS — Explora miles de juegos compatibles, graba y comparte tu jugabilidad, y mantén Kishi actualizado con una aplicación integrada Razer Nexus que permite una personalización completa.",
+          "TRANSMITE JUEGOS DE PC Y CONSOLA — Juega juegos completos de PC, Xbox y PlayStation directamente en el teléfono, con soporte para las aplicaciones de streaming de juegos más grandes.",
+          "OPTIMIZADO PARA UN RENDIMIENTO MÁXIMO — Utiliza la conexión lightning del iPhone para eliminar la latencia de entrada, permitir un control fluido y carga passthrough para una compatibilidad iOS definitiva."
+        ]
+      }
+    ],
+    "totalDuration": 40
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      ""
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:10",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadget",
+    "imprescindible",
+    "para",
+    "gamers"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 1 Gadget Imprescindible para Gamers",
+      "angle": "Top 1 Gadget Imprescindible para Gamers",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 1,
+      "introScript": "¿Te imaginas mejorar tu experiencia de juego con un solo dispositivo? Hoy te presento un gadget que no solo te permitirá jugar cómodamente durante horas sino que también transformará tu espacio de juego en algo salido de una película de ciencia ficción. Prepárate para descubrir un accesorio que todos los gamers querrán tener en sus manos. ¿Listo para conocerlo? Vamos allá.",
+      "keywords": [
+        "gadget",
+        "imprescindible",
+        "para",
+        "gamers"
+      ],
+      "estimatedViews": 3686,
+      "bestPublishTime": "2026-07-29T19:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Razer Kishi Controller",
+          "searchTermEn": "Razer Kishi mobile controller",
+          "id": "B0B16PJ31L",
+          "filename": "B0B16PJ31L.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-07-28T20:39:43.804Z",
+      "_requestedCount": 1,
+      "_adaptedCount": 1,
+      "introProductsOrder": [
+        {
+          "nombre": "Razer Kishi Controller",
+          "id": "B0B16PJ31L",
+          "filename": "B0B16PJ31L.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0B16PJ31L.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1785271269496_p9audt"
+    },
+    "generatedAt": "2026-07-28T20:41:17.590Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Razer Kishi Controller",
+        "searchTermEn": "Razer Kishi mobile controller",
+        "id": "B0B16PJ31L",
+        "filename": "B0B16PJ31L.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 1 Gadget Imprescindible para Gamers\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\n\n\n[25s-35s] INTRODUCTION\n\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] RAZER KISHI CONTROLLER\n¿Cansado de controles móviles mediocres? El Razer Kishi Controller ofrece controles de juego móvil de calidad de consola. Con botones de microswitch; gatillos analógicos y macros programables, transforma tu iPhone en una consola portátil. Su puente extensible asegura un ajuste perfecto; incluso para iPhone catorce. Conéctalo y elimina la latencia con su conexión lightning. Descubre juegos sin fin con la app Razer Nexus. Explora, graba y comparte tu jugabilidad.\nSu precio actual ronda los treinta y ocho dólares. Link en comentarios.\n\n[VISUALS: Product image: Razer Kishi Controller]\n\n[10 seconds] CONCLUSION\n\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:10\nTONE: engaging\nPACING: quick\nKEYWORDS: gadget, imprescindible, para, gamers\n"
+}

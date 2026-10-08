@@ -1,0 +1,134 @@
+{
+  "title": "1 Gadget de Locura en Amazon: Ekster Parliament Wallet",
+  "hook": {
+    "type": "statement",
+    "text": "Después de analizar decenas de artículos, hemos llegado a esta selección definitiva de productos, incluyendo la Ekster Parliament Wallet. En este video no hay exageraciones ni relleno, solo utilidad real. Los enlaces están en el primer comentario. Comencemos.",
+    "duration": "0:00-0:15"
+  },
+  "introduction": {
+    "greeting": "",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0s"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Ekster Parliament Wallet",
+        "productId": "prod_1",
+        "productName": "Ekster Parliament Wallet",
+        "filename": "B07PVMK5NJ.mp4",
+        "asin": "B07PVMK5NJ",
+        "videoDuration": 47.5475,
+        "estimatedAudioSeconds": 30,
+        "framework": "comparacion_precio",
+        "narracionSegments": null,
+        "content": [
+          "Espectacularmente elegante. Radicalmente funcional. Este es el Ekster Parliament Wallet, una cartera que redefine la simplicidad con su sistema de expulsión rápida para tus tarjetas favoritas. Despliega tarjetas con solo pulsar un botón y sorprende a tus amigos en cada instante. Lleva siempre lo esencial y olvídate del desorden gracias al espacio optimizado para billetes y monedas.",
+          "Consíguela en Amazon por tan solo 89 dólares. Echa un vistazo al enlace en el primer comentario."
+        ],
+        "visuals": [
+          "Product image: Ekster Parliament Wallet"
+        ],
+        "duration": 25,
+        "precio": "$89",
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07PVMK5NJ.mp4",
+        "productPhoto": null,
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [],
+        "originalVideoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07PVMK5NJ.mp4"
+      }
+    ],
+    "totalDuration": 40
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "Reto: ¿puedes encontrar productos mejores que estos? Suscríbete y recuerda los links está en el primer comentario."
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "",
+    "like": "",
+    "comment": "",
+    "nextVideo": "",
+    "duration": "0 seconds"
+  },
+  "duration": "1:10",
+  "tone": "engaging",
+  "tone_variant": "conversacional y cercano, como si le contaras a un amigo algo increíble que descubriste",
+  "pacing": "quick",
+  "keywords": [
+    "gadget",
+    "locura",
+    "amazon",
+    "ekster",
+    "parliament",
+    "wallet"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "1 Gadget de Locura en Amazon: Ekster Parliament Wallet",
+      "angle": "1 Gadget de Locura en Amazon: Ekster Parliament Wallet",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 1,
+      "introScript": "¿Estás cansado de las billeteras tradicionales y buscando algo innovador? Descubre el Ekster Parliament Wallet, un gadget revolucionario que cambiará la forma en que llevas tus tarjetas. Con su diseño inteligente y tecnología avanzada, este producto promete hacer tu vida más fácil y segura. ¡No te lo pierdas!",
+      "keywords": [
+        "gadget",
+        "locura",
+        "amazon",
+        "ekster",
+        "parliament",
+        "wallet"
+      ],
+      "estimatedViews": 5700,
+      "bestPublishTime": "2026-09-20T15:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "id": "B07PVMK5NJ",
+          "nombre": "La traducción del texto \"Ekster Parliament",
+          "filename": "B07PVMK5NJ.mp4",
+          "precio": 89,
+          "searchTermEn": "Ekster Parliament Wallet"
+        }
+      ],
+      "_sourceFile": "productos_locales.json",
+      "createdAt": "2026-09-18T16:16:01.885Z",
+      "_requestedCount": 1,
+      "_adaptedCount": 1,
+      "introProductsOrder": [
+        {
+          "nombre": "La traducción del texto \"Ekster Parliament",
+          "id": "B07PVMK5NJ",
+          "filename": "B07PVMK5NJ.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07PVMK5NJ.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1789748163518_4vcygy"
+    },
+    "generatedAt": "2026-09-18T16:16:11.026Z",
+    "version": "4.0-dynamic-rotator",
+    "productos": [
+      {
+        "id": "B07PVMK5NJ",
+        "nombre": "La traducción del texto \"Ekster Parliament",
+        "filename": "B07PVMK5NJ.mp4",
+        "precio": 89,
+        "searchTermEn": "Ekster Parliament Wallet"
+      }
+    ]
+  },
+  "fullScript": "TITLE: 1 Gadget de Locura en Amazon: Ekster Parliament Wallet\n\n══════════════════════════════════════════════════\n\n[0:00-0:15] HOOK\nDespués de analizar decenas de artículos, hemos llegado a esta selección definitiva de productos, incluyendo la Ekster Parliament Wallet. En este video no hay exageraciones ni relleno, solo utilidad real. Los enlaces están en el primer comentario. Comencemos.\n\n[0s] INTRODUCTION\n\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] EKSTER PARLIAMENT WALLET\nEspectacularmente elegante. Radicalmente funcional. Este es el Ekster Parliament Wallet, una cartera que redefine la simplicidad con su sistema de expulsión rápida para tus tarjetas favoritas. Despliega tarjetas con solo pulsar un botón y sorprende a tus amigos en cada instante. Lleva siempre lo esencial y olvídate del desorden gracias al espacio optimizado para billetes y monedas.\nConsíguela en Amazon por tan solo 89 dólares. Echa un vistazo al enlace en el primer comentario.\n\n[VISUALS: Product image: Ekster Parliament Wallet]\n\n[10 seconds] CONCLUSION\nReto: ¿puedes encontrar productos mejores que estos? Suscríbete y recuerda los links está en el primer comentario.\n\n\n\n[0 seconds] CALL TO ACTION\n\n\n\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:10\nTONE: engaging\nPACING: quick\nKEYWORDS: gadget, locura, amazon, ekster, parliament, wallet\n"
+}

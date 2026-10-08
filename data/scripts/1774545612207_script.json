@@ -1,0 +1,135 @@
+{
+  "title": "Los 5 Robots Más Avanzados que Cambiarán el Mundo en 2026",
+  "hook": {
+    "type": "statement",
+    "text": "En 2026, los robots no solo actuarán como humanos, ¡sino que pensarán como ellos!",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "Bienvenidos a Mente Futura.",
+    "topicIntro": "Hoy exploraremos los robots más avanzados que están redefiniendo la inteligencia artificial en 2026.",
+    "valueProposition": "Aprenderás sobre las innovaciones que impulsan el futuro de la robótica.",
+    "credibility": "Este contenido es valioso porque te mantiene al tanto de los avances que lideran el cambio tecnológico.",
+    "duration": "0:10-0:30"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "list_items",
+        "title": "Robot Sophia 2.0",
+        "content": [
+          "Sophia 2.0, desarrollada por Hanson Robotics, ha mejorado su capacidad de interacción social, ahora con inteligencia emocional avanzada.",
+          "Utiliza reconocimiento de emociones y adapta sus respuestas para ofrecer compañía virtual más humanizada.",
+          "Sophia 2.0 está siendo utilizada en sectores educativos y de salud mental, proporcionando asistencia psicológica y educativa personalizada."
+        ],
+        "visuals": [
+          "Imágenes de Sophia 2.0 interactuando con personas en un entorno de aprendizaje"
+        ],
+        "duration": 60
+      },
+      {
+        "type": "list_items",
+        "title": "Atlas de Boston Dynamics",
+        "content": [
+          "Atlas ha llevado la locura del parkour al siguiente nivel con capacidades de movimiento casi humanas.",
+          "Recientemente integró inteligencia artificial avanzada que le permite aprender movimientos nuevos por sí mismo.",
+          "Atlas se emplea en tareas de rescate en lugares peligrosos, superando obstáculos con agilidad y precisión."
+        ],
+        "visuals": [
+          "Videos de Atlas realizando parkour en un entorno urbano complejo"
+        ],
+        "duration": 60
+      },
+      {
+        "type": "list_items",
+        "title": "Digit de Agility Robotics",
+        "content": [
+          "Digit es un robot bípede diseñado para labores logísticas en almacenes, entregas y manufactura.",
+          "Su capacidad de adaptarse a entornos cambiantes y manipular objetos lo hace indispensable para empresas líderes.",
+          "Implementa algoritmos de aprendizaje que optimizan rutas y mejoran su eficiencia operativa diaria."
+        ],
+        "visuals": [
+          "Imágenes de Digit trabajando en un almacén, cargando cajas y navegando entre estanterías"
+        ],
+        "duration": 60
+      },
+      {
+        "type": "list_items",
+        "title": "Spot de Boston Dynamics",
+        "content": [
+          "Spot es un robot cuadrúpedo que se ha vuelto vital en la industria de la construcción y seguridad.",
+          "Equipado con cámaras térmicas y sensores LIDAR, Spot realiza inspecciones eficientes y seguras.",
+          "Su uso se ha expandido a servicios de patrullaje y vigilancia en áreas de difícil acceso."
+        ],
+        "visuals": [
+          "Videos de Spot patrullando un sitio de construcción y realizando inspecciones"
+        ],
+        "duration": 60
+      },
+      {
+        "type": "list_items",
+        "title": "Ameca de Engineered Arts",
+        "content": [
+          "Ameca es el robot humanoide más avanzado en términos de expresividad facial y gestual.",
+          "Diseñado para interactuar en entornos públicos como museos y centros de servicio al cliente.",
+          "Sus algoritmos de IA le permiten aprender de interacciones y optimizar su comunicación de manera autónoma."
+        ],
+        "visuals": [
+          "Clips de Ameca interactuando en un museo con visitantes, respondiendo preguntas"
+        ],
+        "duration": 60
+      }
+    ],
+    "totalDuration": 300
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Cierre",
+    "recap": [
+      "Sophia 2.0 está revolucionando la interacción social con inteligencia emocional.",
+      "Atlas y su capacidad asombrosa para el parkour están haciendo historia en robótica de rescate.",
+      "Spot y Digit están transformando la logística y la seguridad con eficiencia inteligente."
+    ],
+    "finalThought": "El futuro de la robótica es emocionante y lleno de posibilidades, depende de nosotros abrazar estos cambios y liderar con innovación.",
+    "duration": "30 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "Si te apasiona la inteligencia artificial, suscríbete para más contenido como este.",
+    "like": "Dale un like si te impresionaron estos robots.",
+    "comment": "¿Cuál de estos robots crees que cambiará más el mundo? Déjanos tu opinión en los comentarios.",
+    "nextVideo": "No te pierdas nuestro próximo video sobre las predicciones tecnológicas para 2030.",
+    "duration": "15 seconds"
+  },
+  "duration": "6:05",
+  "tone": "conversational",
+  "pacing": "moderate",
+  "keywords": [
+    "robots",
+    "avanzados",
+    "mundo",
+    "2026"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Los 5 robots m�s avanzados del mundo en 2026",
+      "angle": "Robots 2026: Innovaciones que Redefinirán la Inteligencia Artificial",
+      "targetAudience": "General audience, entertainment seekers",
+      "contentType": "Explainer",
+      "keywords": [
+        "robots",
+        "avanzados",
+        "mundo",
+        "2026"
+      ],
+      "estimatedViews": 4212,
+      "bestPublishTime": "2026-03-29T15:00:00.000Z",
+      "competitorAnalysis": [],
+      "createdAt": "2026-03-26T17:19:50.091Z"
+    },
+    "generatedAt": "2026-03-26T17:20:12.076Z",
+    "version": "2.0-ai",
+    "model": "gpt-4o"
+  },
+  "fullScript": "TITLE: Los 5 Robots Más Avanzados que Cambiarán el Mundo en 2026\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\nEn 2026, los robots no solo actuarán como humanos, ¡sino que pensarán como ellos!\n\n[0:10-0:30] INTRODUCTION\nBienvenidos a Mente Futura.\nHoy exploraremos los robots más avanzados que están redefiniendo la inteligencia artificial en 2026.\nAprenderás sobre las innovaciones que impulsan el futuro de la robótica.\nEste contenido es valioso porque te mantiene al tanto de los avances que lideran el cambio tecnológico.\n\nMAIN CONTENT\n──────────────────────────────\n\n[1:00] ROBOT SOPHIA 2.0\nSophia 2.0, desarrollada por Hanson Robotics, ha mejorado su capacidad de interacción social, ahora con inteligencia emocional avanzada.\nUtiliza reconocimiento de emociones y adapta sus respuestas para ofrecer compañía virtual más humanizada.\nSophia 2.0 está siendo utilizada en sectores educativos y de salud mental, proporcionando asistencia psicológica y educativa personalizada.\n\n[VISUALS: Imágenes de Sophia 2.0 interactuando con personas en un entorno de aprendizaje]\n\n[1:00] ATLAS DE BOSTON DYNAMICS\nAtlas ha llevado la locura del parkour al siguiente nivel con capacidades de movimiento casi humanas.\nRecientemente integró inteligencia artificial avanzada que le permite aprender movimientos nuevos por sí mismo.\nAtlas se emplea en tareas de rescate en lugares peligrosos, superando obstáculos con agilidad y precisión.\n\n[VISUALS: Videos de Atlas realizando parkour en un entorno urbano complejo]\n\n[1:00] DIGIT DE AGILITY ROBOTICS\nDigit es un robot bípede diseñado para labores logísticas en almacenes, entregas y manufactura.\nSu capacidad de adaptarse a entornos cambiantes y manipular objetos lo hace indispensable para empresas líderes.\nImplementa algoritmos de aprendizaje que optimizan rutas y mejoran su eficiencia operativa diaria.\n\n[VISUALS: Imágenes de Digit trabajando en un almacén, cargando cajas y navegando entre estanterías]\n\n[1:00] SPOT DE BOSTON DYNAMICS\nSpot es un robot cuadrúpedo que se ha vuelto vital en la industria de la construcción y seguridad.\nEquipado con cámaras térmicas y sensores LIDAR, Spot realiza inspecciones eficientes y seguras.\nSu uso se ha expandido a servicios de patrullaje y vigilancia en áreas de difícil acceso.\n\n[VISUALS: Videos de Spot patrullando un sitio de construcción y realizando inspecciones]\n\n[1:00] AMECA DE ENGINEERED ARTS\nAmeca es el robot humanoide más avanzado en términos de expresividad facial y gestual.\nDiseñado para interactuar en entornos públicos como museos y centros de servicio al cliente.\nSus algoritmos de IA le permiten aprender de interacciones y optimizar su comunicación de manera autónoma.\n\n[VISUALS: Clips de Ameca interactuando en un museo con visitantes, respondiendo preguntas]\n\n[30 seconds] CONCLUSION\nSophia 2.0 está revolucionando la interacción social con inteligencia emocional.\nAtlas y su capacidad asombrosa para el parkour están haciendo historia en robótica de rescate.\nSpot y Digit están transformando la logística y la seguridad con eficiencia inteligente.\n\nEl futuro de la robótica es emocionante y lleno de posibilidades, depende de nosotros abrazar estos cambios y liderar con innovación.\n\n[15 seconds] CALL TO ACTION\nSi te apasiona la inteligencia artificial, suscríbete para más contenido como este.\nDale un like si te impresionaron estos robots.\n¿Cuál de estos robots crees que cambiará más el mundo? Déjanos tu opinión en los comentarios.\nNo te pierdas nuestro próximo video sobre las predicciones tecnológicas para 2030.\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 6:05\nTONE: conversational\nPACING: moderate\nKEYWORDS: robots, avanzados, mundo, 2026\n"
+}

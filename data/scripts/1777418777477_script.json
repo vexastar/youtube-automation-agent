@@ -1,0 +1,140 @@
+{
+  "title": "Top 2 Gadgets Imprescindibles para Jardineros Modernos",
+  "hook": {
+    "type": "statement",
+    "text": "Controla el riego de tu jardín desde el celular. Cultiva hierbas frescas con solo un botón.",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "Suscríbete, los links están en el primer comentario. Empecemos.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0:10-0:15"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Rachio Smart Sprinkler",
+        "productId": "B01D15HOTU",
+        "productName": "Rachio Smart Sprinkler",
+        "filename": "B01D15HOTU.mp4",
+        "content": [
+          "Regar tu jardín manualmente es tedioso y poco preciso. El Rachio Smart Sprinkler permite gestionar el riego de forma automática y eficiente desde tu smartphone. Además, ajusta el riego según el clima para optimizar el uso de agua.",
+          "Su precio actual en Amazon ronda los... 199 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Rachio Smart Sprinkler"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B01D15HOTU.mp4",
+        "precio": "$199",
+        "productPhoto": "https://m.media-amazon.com/images/I/71xWw3VkecL.jpg"
+      },
+      {
+        "type": "content",
+        "title": "Click and Grow Smart Garden",
+        "productId": "B01MRVMKQH",
+        "productName": "Click and Grow Smart Garden",
+        "filename": "B01MRVMKQH.mp4",
+        "content": [
+          "Cultivar plantas en casa puede ser complicado y requiere tiempo. El Click and Grow Smart Garden simplifica el proceso permitiéndote cultivar con un sistema automatizado de luz y agua. Es perfecto para hierbas, flores y pequeños vegetales.",
+          "Su precio actual en Amazon ronda los... 100 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Click and Grow Smart Garden"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B01MRVMKQH.mp4",
+        "precio": "$100",
+        "productPhoto": "https://m.media-amazon.com/images/I/61UwoekP5nL.jpg"
+      }
+    ],
+    "totalDuration": 50
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "Dale like y recuerda que los links están en el primer comentario."
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:20",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "imprescindibles",
+    "para",
+    "jardineros",
+    "modernos"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 2 Gadgets Imprescindibles para Jardineros Modernos",
+      "angle": "Top 3 Gadgets Imprescindibles para Jardineros Modernos",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 2,
+      "introScript": "¿Un sensor que te avisa cuando tus plantas tienen sed? ¿Un sistema de riego que se adapta automáticamente al clima? Estos inventos están revolucionando el jardín. Hoy exploramos tecnologías que harán florecer tu pasión por la jardinería.",
+      "keywords": [
+        "gadgets",
+        "imprescindibles",
+        "para",
+        "jardineros",
+        "modernos"
+      ],
+      "estimatedViews": 5928,
+      "bestPublishTime": "2026-04-30T19:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Rachio Smart Sprinkler",
+          "searchTermEn": "Rachio smart sprinkler system",
+          "id": "B01D15HOTU",
+          "filename": "B01D15HOTU.mp4"
+        },
+        {
+          "nombre": "Click and Grow Smart Garden",
+          "searchTermEn": "Click and Grow indoor garden",
+          "id": "B01MRVMKQH",
+          "filename": "B01MRVMKQH.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-04-28T23:23:59.140Z",
+      "_requestedCount": 3,
+      "_adaptedCount": 2,
+      "_adaptationNote": "ATENCIÓN: El usuario pidió 3 productos pero solo hay 2 clips de video disponibles. El guion, título y narrativa deben referirse EXCLUSIVAMENTE a 2 productos.",
+      "_scriptNonce": "nonce_1777418771971_xqzr9o"
+    },
+    "generatedAt": "2026-04-28T23:26:16.346Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Rachio Smart Sprinkler",
+        "searchTermEn": "Rachio smart sprinkler system",
+        "id": "B01D15HOTU",
+        "filename": "B01D15HOTU.mp4"
+      },
+      {
+        "nombre": "Click and Grow Smart Garden",
+        "searchTermEn": "Click and Grow indoor garden",
+        "id": "B01MRVMKQH",
+        "filename": "B01MRVMKQH.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 2 Gadgets Imprescindibles para Jardineros Modernos\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\nControla el riego de tu jardín desde el celular. Cultiva hierbas frescas con solo un botón.\n\n[0:10-0:15] INTRODUCTION\nSuscríbete, los links están en el primer comentario. Empecemos.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] RACHIO SMART SPRINKLER\nRegar tu jardín manualmente es tedioso y poco preciso. El Rachio Smart Sprinkler permite gestionar el riego de forma automática y eficiente desde tu smartphone. Además, ajusta el riego según el clima para optimizar el uso de agua.\nSu precio actual en Amazon ronda los... 199 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Rachio Smart Sprinkler]\n\n[0:25] CLICK AND GROW SMART GARDEN\nCultivar plantas en casa puede ser complicado y requiere tiempo. El Click and Grow Smart Garden simplifica el proceso permitiéndote cultivar con un sistema automatizado de luz y agua. Es perfecto para hierbas, flores y pequeños vegetales.\nSu precio actual en Amazon ronda los... 100 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Click and Grow Smart Garden]\n\n[10 seconds] CONCLUSION\nDale like y recuerda que los links están en el primer comentario.\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:20\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, imprescindibles, para, jardineros, modernos\n"
+}

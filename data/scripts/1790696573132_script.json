@@ -1,0 +1,137 @@
+{
+  "title": "Top 1 Gadgets Imprescindibles para Primeros Auxilios",
+  "hook": {
+    "type": "statement",
+    "text": "¿Una herramienta que se adapta a cualquier lesión y un utensilio que hace de todo menos volar? Sumérgete en un mundo de inventos sorprendentes que prometen cambiante nuestra rutina médica. Encuentra todos los detalles escandalosamente reveladores en el primer comentario. Suscríbete, empecemos.",
+    "duration": "0:00-0:15"
+  },
+  "introduction": {
+    "greeting": "",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0s"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Sam Splint",
+        "productId": "B001J5H92C",
+        "productName": "Sam Splint",
+        "filename": "B001J5H92C.mp4",
+        "asin": "B001J5H92C",
+        "videoDuration": 190.424833,
+        "estimatedAudioSeconds": 40,
+        "framework": "enfoque_caracteristica",
+        "narracionSegments": null,
+        "content": [
+          "Lidiar con lesiones inesperadas sin equipo adecuado puede complicar situaciones ya tensas en actividades cotidianas o al aire libre. El Sam Splint ofrece una solución práctica e inmediata para estos eventos con su capacidad de inmovilización firme y personalizable, empleando un núcleo de aluminio ligero laminado. Integra espuma de celda cerrada para comodidad, es versátil para usar en brazos, piernas e incluso contornos irregulares del cuerpo. Además, su diseño radiolúcido permite su uso sin interferencias durante los rayos X y es resistente al agua y reutilizable.",
+          "Está disponible por unos quince dólares en Amazon. No te quedes sin él."
+        ],
+        "visuals": [
+          "Product image: Sam Splint"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B001J5H92C.mp4",
+        "precio": "$15",
+        "productPhoto": "https://m.media-amazon.com/images/I/51tJPPGNubL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "1. Los Moldable SAM Splints proporcionan una inmovilización firme y personalizable para fracturas, esguinces y distensiones utilizando un núcleo de aluminio liviano laminado con espuma de celda cerrada para comodidad y durabilidad.",
+          "2. Inmovilizador de emergencia versátil que se adapta a las extremidades: brazos, piernas, muñecas, tobillos, cuello y contornos corporales irregulares; ideal para botiquines de primeros auxilios, EMS, equipos deportivos, aventuras al aire libre, respuesta táctica y uso en viajes.",
+          "3. La construcción reutilizable y resistente al agua es radiolúcida para rayos X, fácil de limpiar y se almacena enrollada para un transporte compacto; los materiales duraderos soportan la flexión repetida y las condiciones de campo. Se puede recortar con tijeras al tamaño deseado.",
+          "4. Aplicación rápida y sin herramientas que se dobla y se bloquea en su forma para estabilizar lesiones de manera rápida y segura; se combina con cinta, vendajes o correas para inmovilización profesional temporal o a corto plazo.",
+          "5. HECHO EN EE. UU. Calidad confiable de SAM Medical en naranja/azul de alta visibilidad tamaño adulto — paquete de conteo único diseñado para profesionales médicos, EMTs, respondedores de áreas silvestres, entrenadores y primeros auxilios en el hogar."
+        ],
+        "originalVideoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B001J5H92C.mp4"
+      }
+    ],
+    "totalDuration": 40
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "Atrévete a encontrar productos más impactantes que estos, suscríbete y revisa los enlaces en el primer comentario."
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "",
+    "like": "",
+    "comment": "",
+    "nextVideo": "",
+    "duration": "0 seconds"
+  },
+  "duration": "1:10",
+  "tone": "engaging",
+  "tone_variant": "directo y urgente, como si el producto se agotara mañana",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "imprescindibles",
+    "para",
+    "primeros",
+    "auxilios"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 1 Gadgets Imprescindibles para Primeros Auxilios",
+      "angle": "Top 2 Gadgets Imprescindibles para Primeros Auxilios",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 1,
+      "introScript": "Hoy te mostramos dos inventos que transforman la forma en que afrontamos emergencias. Imagina un dispositivo que se infla al instante para inmovilizar cualquier fractura mientras esperas ayuda, y un guante revolucionario que, al colocar tu mano en una herida, proyecta un diagnóstico inmediato. Estos dos gadgets rediseñan el concepto de seguridad y eficacia en primeros auxilios, asegurándose de que estés preparado para lo inesperado. Quédate para descubrir cómo estos dispositivos están cambiando las reglas del juego en emergencias médicas.",
+      "keywords": [
+        "gadgets",
+        "imprescindibles",
+        "para",
+        "primeros",
+        "auxilios"
+      ],
+      "estimatedViews": 3713,
+      "bestPublishTime": "2026-09-30T19:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Sam Splint",
+          "searchTermEn": "Sam Medical Emergency Splint",
+          "id": "B001J5H92C",
+          "filename": "B001J5H92C.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-09-29T15:39:32.275Z",
+      "_requestedCount": 2,
+      "_adaptedCount": 1,
+      "_adaptationNote": "ATENCIÓN: El usuario pidió 2 productos pero solo hay 1 clips de video disponibles. El guion, título y narrativa deben referirse EXCLUSIVAMENTE a 1 productos.",
+      "introProductsOrder": [
+        {
+          "nombre": "Sam Splint",
+          "id": "B001J5H92C",
+          "filename": "B001J5H92C.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B001J5H92C.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1790696551940_p1yhke"
+    },
+    "generatedAt": "2026-09-29T15:42:41.662Z",
+    "version": "4.0-dynamic-rotator",
+    "productos": [
+      {
+        "nombre": "Sam Splint",
+        "searchTermEn": "Sam Medical Emergency Splint",
+        "id": "B001J5H92C",
+        "filename": "B001J5H92C.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 1 Gadgets Imprescindibles para Primeros Auxilios\n\n══════════════════════════════════════════════════\n\n[0:00-0:15] HOOK\n¿Una herramienta que se adapta a cualquier lesión y un utensilio que hace de todo menos volar? Sumérgete en un mundo de inventos sorprendentes que prometen cambiante nuestra rutina médica. Encuentra todos los detalles escandalosamente reveladores en el primer comentario. Suscríbete, empecemos.\n\n[0s] INTRODUCTION\n\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] SAM SPLINT\nLidiar con lesiones inesperadas sin equipo adecuado puede complicar situaciones ya tensas en actividades cotidianas o al aire libre. El Sam Splint ofrece una solución práctica e inmediata para estos eventos con su capacidad de inmovilización firme y personalizable, empleando un núcleo de aluminio ligero laminado. Integra espuma de celda cerrada para comodidad, es versátil para usar en brazos, piernas e incluso contornos irregulares del cuerpo. Además, su diseño radiolúcido permite su uso sin interferencias durante los rayos X y es resistente al agua y reutilizable.\nEstá disponible por unos quince dólares en Amazon. No te quedes sin él.\n\n[VISUALS: Product image: Sam Splint]\n\n[10 seconds] CONCLUSION\nAtrévete a encontrar productos más impactantes que estos, suscríbete y revisa los enlaces en el primer comentario.\n\n\n\n[0 seconds] CALL TO ACTION\n\n\n\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:10\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, imprescindibles, para, primeros, auxilios\n"
+}

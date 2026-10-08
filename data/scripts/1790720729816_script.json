@@ -1,0 +1,136 @@
+{
+  "title": "Top 1 Gadget para Potenciar tu Productividad en el Trabajo",
+  "hook": {
+    "type": "statement",
+    "text": "He seleccionado los mejores productos capaces de hacer tu día a día más cómodo y organizado. Son innovaciones que probablemente querrás tener desde el momento en que los veas. Todos los enlaces están listados en el primer comentario. Aquí vamos.",
+    "duration": "0:00-0:15"
+  },
+  "introduction": {
+    "greeting": "",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0s"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "ASUS ZenScreen MB169CK Monitor Portátil de",
+        "productId": "B0CPFYVPBG",
+        "productName": "ASUS ZenScreen MB169CK Monitor Portátil de",
+        "filename": "B0CPFYVPBG.mp4",
+        "asin": "B0CPFYVPBG",
+        "videoDuration": 75.510033,
+        "estimatedAudioSeconds": 32,
+        "framework": "problema_solucion",
+        "narracionSegments": null,
+        "content": [
+          "Trabajar desde lugares externos como cafeterías o espacios de coworking se convierte en una tarea engorrosa por las limitaciones espaciales. El ASUS ZenScreen MB169CK se despliega con una pantalla FHD de 15.6 pulgadas que elimina los reflejos molestos, permitiéndote centrarte. Presenta conectividad USB-C eficiente mientras su perfil ultra delgado y el soporte versátil maximizan la movilidad y ángulos de visualización. Espacio reducido, conectividad máxima, y ajustes dinámicos garantizados.",
+          "Puedes obtenerlo por solo ciento nueve dólares, siempre disponible en Amazon."
+        ],
+        "visuals": [
+          "Product image: ASUS ZenScreen MB169CK Monitor Portátil de"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0CPFYVPBG.mp4",
+        "precio": "$109",
+        "productPhoto": "https://m.media-amazon.com/images/I/71qMcpksvGL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "15.6\" FHD IPS Pantalla Antirreflejo: Disfruta de visuales nítidos y vibrantes mientras trabajas de forma remota desde cafeterías o espacios de coworking. Este monitor portátil de 15.6 pulgadas para laptop proporciona una configuración de doble monitor de viaje impecable sin reflejos de pantalla que distraigan.",
+          "Conectividad USB-C única: Despeja tu escritorio al instante con la simplicidad de plug-and-play. Un monitor portátil usb c premium que ofrece tanto energía como video a través de un solo cable, creando una configuración de monitor de viaje limpia y eficiente.",
+          "0.78kg Perfil Ultra Delgado: Desliza este monitor sin esfuerzo en cualquier mochila o maletín estándar para libertad en movimiento. Con solo 11.8mm de grosor, es un monitor de viaje ligero y una pantalla portátil para trabajadores remotos y nómadas digitales.",
+          "360 Kickstand y Socket de Trípode: Logra el ángulo de visión que necesitas en cualquier escritorio de hotel o mesa de cocina. Crea una configuración ergonómica de doble monitor en cualquier lugar utilizando el versátil kickstand o conéctalo fácilmente a un soporte de monitor portátil estándar.",
+          "Auto-Rotate DisplayWidget Software: Lee documentos largos o escribe código sin esfuerzo sin ajustar manualmente la configuración. Cambia automáticamente entre los modos retrato y paisaje en tu pantalla portátil para laptop para maximizar tu multitarea diaria."
+        ],
+        "originalVideoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0CPFYVPBG.mp4"
+      }
+    ],
+    "totalDuration": 40
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "¿Puedes encontrar mejores productos que estos? Suscríbete y no olvides los enlaces en el primer comentario."
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "",
+    "like": "",
+    "comment": "",
+    "nextVideo": "",
+    "duration": "0 seconds"
+  },
+  "duration": "1:10",
+  "tone": "engaging",
+  "tone_variant": "entusiasta y acelerado, como un presentador de teletienda pero sin relleno ni repetición",
+  "pacing": "quick",
+  "keywords": [
+    "gadget",
+    "para",
+    "potenciar",
+    "productividad",
+    "trabajo"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 1 Gadget para Potenciar tu Productividad en el Trabajo",
+      "angle": "Top 1 Gadget para Potenciar tu Productividad en el Trabajo",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 1,
+      "introScript": "¿Te imaginas un solo dispositivo que combine elegancia y funcionalidad para revolucionar tu área de trabajo? Hoy te presentamos un gadget que lleva la productividad a otro nivel. Con una pantalla secundaria portátil de alta resolución que se conecta sin cables y un soporte minimalista que se adapta a cualquier escritorio, este innovador complemento es perfecto para quienes necesitan más espacio visual sin sacrificar estilo. No te pierdas cómo este invento puede cambiar tu rutina laboral con solo un clic. ¡Vamos a descubrirlo!",
+      "keywords": [
+        "gadget",
+        "para",
+        "potenciar",
+        "productividad",
+        "trabajo"
+      ],
+      "estimatedViews": 6158,
+      "bestPublishTime": "2026-09-30T19:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "ASUS ZenScreen MB169CK Monitor Portátil de",
+          "searchTermEn": "Asus ZenScreen portable monitor",
+          "id": "B0CPFYVPBG",
+          "filename": "B0CPFYVPBG.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-09-29T22:23:59.358Z",
+      "_requestedCount": 1,
+      "_adaptedCount": 1,
+      "introProductsOrder": [
+        {
+          "nombre": "ASUS ZenScreen MB169CK Monitor Portátil de",
+          "id": "B0CPFYVPBG",
+          "filename": "B0CPFYVPBG.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0CPFYVPBG.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1790720710507_mwy4f7"
+    },
+    "generatedAt": "2026-09-29T22:25:18.792Z",
+    "version": "4.0-dynamic-rotator",
+    "productos": [
+      {
+        "nombre": "ASUS ZenScreen MB169CK Monitor Portátil de",
+        "searchTermEn": "Asus ZenScreen portable monitor",
+        "id": "B0CPFYVPBG",
+        "filename": "B0CPFYVPBG.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 1 Gadget para Potenciar tu Productividad en el Trabajo\n\n══════════════════════════════════════════════════\n\n[0:00-0:15] HOOK\nHe seleccionado los mejores productos capaces de hacer tu día a día más cómodo y organizado. Son innovaciones que probablemente querrás tener desde el momento en que los veas. Todos los enlaces están listados en el primer comentario. Aquí vamos.\n\n[0s] INTRODUCTION\n\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] ASUS ZENSCREEN MB169CK MONITOR PORTÁTIL DE\nTrabajar desde lugares externos como cafeterías o espacios de coworking se convierte en una tarea engorrosa por las limitaciones espaciales. El ASUS ZenScreen MB169CK se despliega con una pantalla FHD de 15.6 pulgadas que elimina los reflejos molestos, permitiéndote centrarte. Presenta conectividad USB-C eficiente mientras su perfil ultra delgado y el soporte versátil maximizan la movilidad y ángulos de visualización. Espacio reducido, conectividad máxima, y ajustes dinámicos garantizados.\nPuedes obtenerlo por solo ciento nueve dólares, siempre disponible en Amazon.\n\n[VISUALS: Product image: ASUS ZenScreen MB169CK Monitor Portátil de]\n\n[10 seconds] CONCLUSION\n¿Puedes encontrar mejores productos que estos? Suscríbete y no olvides los enlaces en el primer comentario.\n\n\n\n[0 seconds] CALL TO ACTION\n\n\n\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:10\nTONE: engaging\nPACING: quick\nKEYWORDS: gadget, para, potenciar, productividad, trabajo\n"
+}

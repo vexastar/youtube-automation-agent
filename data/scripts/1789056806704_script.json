@@ -1,0 +1,132 @@
+{
+  "title": "Top 1 Gadget Espía que Debes Conocer",
+  "hook": {
+    "type": "statement",
+    "text": "Observa en uso real a: SIRGAWAIN Cámara de Cuerpo Premium —.",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "¿Cuál querrías tú? Los links están en el primer comentario.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "25s-35s"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "SIRGAWAIN Cámara de Cuerpo Premium —",
+        "productId": "B0GVPW1S33",
+        "productName": "SIRGAWAIN Cámara de Cuerpo Premium —",
+        "filename": "B0GVPW1S33.mp4",
+        "asin": "B0GVPW1S33",
+        "videoDuration": 68.069267,
+        "estimatedAudioSeconds": 35,
+        "framework": "experiencia_sensorial",
+        "narracionSegments": null,
+        "content": [
+          "Aprieta el botón. Captura imágenes nítidas. Graba en Full HD. La SIRGAWAIN Cámara de Cuerpo Premium transforma cada momento en alta definición con un solo toque. Su exclusivo diseño en forma de pluma se camufla; oculta lo obvio; portátil y discreto. Guarda tus grabaciones directamente en microSD sin complicaciones de Wi-Fi ni apps; seguridad offline. Conecta al instante a tu Mac o PC con el lector USB incluido; accede a tus archivos en segundos.",
+          "Su precio actual ronda los treinta y ocho dólares. Link en comentarios."
+        ],
+        "visuals": [
+          "Product image: SIRGAWAIN Cámara de Cuerpo Premium —"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0GVPW1S33.mp4",
+        "precio": "$38",
+        "productPhoto": "https://m.media-amazon.com/images/I/71sxSRiELnL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "✓ GRABACIÓN Y FOTOS EN FULL HD 1080P CON UN SOLO TOQUE: Un toque inicia la grabación. Soporta grabación continua o detección de movimiento.",
+          "✓ PRO-PEN FORM — DISEÑO DE PLUMA REALISTA: Silueta de pluma verdadera con un clip de acero—listo para llevar en el bolsillo y colocación limpia y profesional en el escritorio.",
+          "✓ ALMACENAMIENTO OFFLINE (SIN APP / SIN WI-FI): Sin emparejamiento, sin cuentas, sin tarifas de suscripción. Guarda directamente en microSD para reproducción local—sin necesidad de nube; microSD se vende por separado o incluida con opciones seleccionadas.",
+          "✓ TRANSFERENCIAS DE ARCHIVOS RÁPIDAS — SIN CONTROLADOR: Conexión plug-and-play para Mac/PC con el lector USB incluido—acceso rápido a tus archivos en segundos."
+        ]
+      }
+    ],
+    "totalDuration": 40
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      ""
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:10",
+  "tone": "engaging",
+  "tone_variant": "directo y urgente, como si el producto se agotara mañana",
+  "pacing": "quick",
+  "keywords": [
+    "gadget",
+    "espa",
+    "debes",
+    "conocer"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 1 Gadget Espía que Debes Conocer",
+      "angle": "Top 1 Gadget Espía que Debes Conocer",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 1,
+      "introScript": "¿Imagina tener la capacidad de grabar conversaciones sin ser detectado o registrar video sin que nadie lo sepa? Hoy te revelamos un pequeño pero poderoso dispositivo que hará que te sientas como un agente secreto. Este gadget espía es tan discreto que podrías llevarlo en el bolsillo de tu camisa sin levantar sospechas. Con funcionalidades sorprendentes y un diseño completamente camuflado, descubre cómo este dispositivo revoluciona el espionaje moderno justo al alcance de tus manos.",
+      "keywords": [
+        "gadget",
+        "espa",
+        "debes",
+        "conocer"
+      ],
+      "estimatedViews": 6299,
+      "bestPublishTime": "2026-09-13T15:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "SIRGAWAIN Cámara de Cuerpo Premium —",
+          "searchTermEn": "Sirgawain mini spy camera",
+          "id": "B0GVPW1S33",
+          "filename": "B0GVPW1S33.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-09-10T16:11:10.466Z",
+      "_requestedCount": 1,
+      "_adaptedCount": 1,
+      "introProductsOrder": [
+        {
+          "nombre": "SIRGAWAIN Cámara de Cuerpo Premium —",
+          "id": "B0GVPW1S33",
+          "filename": "B0GVPW1S33.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0GVPW1S33.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1789056780440_z6o7nb"
+    },
+    "generatedAt": "2026-09-10T16:13:07.937Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "SIRGAWAIN Cámara de Cuerpo Premium —",
+        "searchTermEn": "Sirgawain mini spy camera",
+        "id": "B0GVPW1S33",
+        "filename": "B0GVPW1S33.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 1 Gadget Espía que Debes Conocer\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\nObserva en uso real a: SIRGAWAIN Cámara de Cuerpo Premium —.\n\n[25s-35s] INTRODUCTION\n¿Cuál querrías tú? Los links están en el primer comentario.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] SIRGAWAIN CÁMARA DE CUERPO PREMIUM —\nAprieta el botón. Captura imágenes nítidas. Graba en Full HD. La SIRGAWAIN Cámara de Cuerpo Premium transforma cada momento en alta definición con un solo toque. Su exclusivo diseño en forma de pluma se camufla; oculta lo obvio; portátil y discreto. Guarda tus grabaciones directamente en microSD sin complicaciones de Wi-Fi ni apps; seguridad offline. Conecta al instante a tu Mac o PC con el lector USB incluido; accede a tus archivos en segundos.\nSu precio actual ronda los treinta y ocho dólares. Link en comentarios.\n\n[VISUALS: Product image: SIRGAWAIN Cámara de Cuerpo Premium —]\n\n[10 seconds] CONCLUSION\n\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:10\nTONE: engaging\nPACING: quick\nKEYWORDS: gadget, espa, debes, conocer\n"
+}

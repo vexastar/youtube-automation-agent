@@ -1,0 +1,147 @@
+{
+  "title": "3 gadgets para tu cocina que no creerás lo útiles que son",
+  "hook": {
+    "type": "statement",
+    "text": "Este cargador se adhiere al tablero sin cables y carga tu dispositivo al instante. Esta aspiradora puede con todas las migas de tu carro. Y este soporte mantiene tu teléfono visible y seguro mientras conduces. Hoy te mostraré estos inventos increíbles y dejaré el enlace de cada uno en el primer comentario. Suscríbete. Empecemos.",
+    "duration": "0:00-0:15"
+  },
+  "introduction": {
+    "greeting": "",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0:00-0:00"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Cargador inalámbrico para auto",
+        "productId": "B09XLG3YQB",
+        "productName": "Cargador inalámbrico para auto",
+        "content": [
+          "Siempre está el problema de cables enredados al cargar el teléfono en el carro. El cargador inalámbrico para auto elimina esos cables al cargar tu teléfono de manera eficiente y sin contacto. Además, se adapta a cualquier modelo de smartphone compatible con carga Qi.",
+          "Su precio actual en Amazon ronda los... 25 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Cargador inalámbrico para auto"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B09XLG3YQB.mp4",
+        "precio": "$25"
+      },
+      {
+        "type": "content",
+        "title": "Aspiradora portátil para carro",
+        "productId": "B0CHZ69ZFN",
+        "productName": "Aspiradora portátil para carro",
+        "content": [
+          "Las molestas migas y el polvo en los rincones del auto pueden ser difíciles de eliminar. La aspiradora portátil para carro es la solución perfecta, absorbiendo hasta la última partícula con gran potencia. Es compacta y cabe en el portavasos para un uso fácil en cualquier momento.",
+          "Su precio actual en Amazon ronda los... 30 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Aspiradora portátil para carro"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0CHZ69ZFN.mp4",
+        "precio": "$30"
+      },
+      {
+        "type": "content",
+        "title": "Soporte magnético de teléfono",
+        "productId": "B0FBR9XKHX",
+        "productName": "Soporte magnético de teléfono",
+        "content": [
+          "Mirar el teléfono mientras conduces puede ser inseguro y complicado. El soporte magnético de teléfono asegura tu dispositivo al tablero de manera firme y visible. Su diseño permite una rotación de 360 grados para un ángulo de visión óptimo.",
+          "Su precio actual en Amazon ronda los... 15 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Soporte magnético de teléfono"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0FBR9XKHX.mp4",
+        "precio": "$15"
+      }
+    ],
+    "totalDuration": 75
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "Si te gustó, da like y recuerda que los links están en el primer comentario."
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:45",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "para",
+    "cocina",
+    "creers",
+    "tiles"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "3 gadgets para tu cocina que no creerás lo útiles que son",
+      "angle": "3 gadgets para tu cocina que no creerás lo útiles que son",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 3,
+      "introScript": "¿Buscas revolucionar tu cocina con tecnología inesperada? Descubre cómo un cargador inalámbrico para auto, una aspiradora portátil para carro y un soporte magnético de teléfono pueden transformar tu espacio culinario de formas sorprendentes. ¡Prepárate para ver estos gadgets bajo una nueva luz!",
+      "keywords": [
+        "gadgets",
+        "para",
+        "cocina",
+        "creers",
+        "tiles"
+      ],
+      "estimatedViews": 4894,
+      "bestPublishTime": "2026-04-09T19:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Cargador inalámbrico para auto",
+          "searchTermEn": "wireless car charger mount"
+        },
+        {
+          "nombre": "Aspiradora portátil para carro",
+          "searchTermEn": "portable car vacuum cleaner"
+        },
+        {
+          "nombre": "Soporte magnético de teléfono",
+          "searchTermEn": "magnetic phone car mount"
+        }
+      ],
+      "createdAt": "2026-04-08T16:25:49.513Z"
+    },
+    "generatedAt": "2026-04-08T16:25:57.378Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Cargador inalámbrico para auto",
+        "searchTermEn": "wireless car charger mount"
+      },
+      {
+        "nombre": "Aspiradora portátil para carro",
+        "searchTermEn": "portable car vacuum cleaner"
+      },
+      {
+        "nombre": "Soporte magnético de teléfono",
+        "searchTermEn": "magnetic phone car mount"
+      }
+    ]
+  },
+  "fullScript": "TITLE: 3 gadgets para tu cocina que no creerás lo útiles que son\n\n══════════════════════════════════════════════════\n\n[0:00-0:15] HOOK\nEste cargador se adhiere al tablero sin cables y carga tu dispositivo al instante. Esta aspiradora puede con todas las migas de tu carro. Y este soporte mantiene tu teléfono visible y seguro mientras conduces. Hoy te mostraré estos inventos increíbles y dejaré el enlace de cada uno en el primer comentario. Suscríbete. Empecemos.\n\n[0:00-0:00] INTRODUCTION\n\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] CARGADOR INALÁMBRICO PARA AUTO\nSiempre está el problema de cables enredados al cargar el teléfono en el carro. El cargador inalámbrico para auto elimina esos cables al cargar tu teléfono de manera eficiente y sin contacto. Además, se adapta a cualquier modelo de smartphone compatible con carga Qi.\nSu precio actual en Amazon ronda los... 25 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Cargador inalámbrico para auto]\n\n[0:25] ASPIRADORA PORTÁTIL PARA CARRO\nLas molestas migas y el polvo en los rincones del auto pueden ser difíciles de eliminar. La aspiradora portátil para carro es la solución perfecta, absorbiendo hasta la última partícula con gran potencia. Es compacta y cabe en el portavasos para un uso fácil en cualquier momento.\nSu precio actual en Amazon ronda los... 30 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Aspiradora portátil para carro]\n\n[0:25] SOPORTE MAGNÉTICO DE TELÉFONO\nMirar el teléfono mientras conduces puede ser inseguro y complicado. El soporte magnético de teléfono asegura tu dispositivo al tablero de manera firme y visible. Su diseño permite una rotación de 360 grados para un ángulo de visión óptimo.\nSu precio actual en Amazon ronda los... 15 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Soporte magnético de teléfono]\n\n[10 seconds] CONCLUSION\nSi te gustó, da like y recuerda que los links están en el primer comentario.\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:45\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, para, cocina, creers, tiles\n"
+}

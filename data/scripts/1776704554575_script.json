@@ -1,0 +1,166 @@
+{
+  "title": "Top 3 Gadgets Innovadores en Amazon que Cambiarán tu Vida",
+  "hook": {
+    "type": "statement",
+    "text": "Este cargador revive tus dispositivos al instante. Esta libreta digitaliza tus notas mágicamente. Estos audífonos te sumergen en música sin cables.",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "Suscríbete, los links están en el primer comentario. Empecemos.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0:10-0:15"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "MAGFAST Life",
+        "productId": "B0G6D9SPND",
+        "productName": "MAGFAST Life",
+        "filename": "B0G6D9SPND.mp4",
+        "content": [
+          "Estar sin batería puede arruinar tu día por completo. El MAGFAST Life es un cargador portátil que tiene potencia para todo el día. Su diseño compacto cabe en cualquier bolsillo.",
+          "Su precio actual en Amazon ronda los... 25 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: MAGFAST Life"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0G6D9SPND.mp4",
+        "precio": "$25"
+      },
+      {
+        "type": "content",
+        "title": "Rocketbook Fusion",
+        "productId": "B07RTN4F7D",
+        "productName": "Rocketbook Fusion",
+        "filename": "B07RTN4F7D.mp4",
+        "content": [
+          "Tomar notas a mano y digitalizarlas suele ser un proceso tedioso. La Rocketbook Fusion te permite escribir y borrar infinitamente, enviando tus notas a la nube con un simple escaneo. Incluye plantillas reutilizables para cada necesidad.",
+          "Su precio actual en Amazon ronda los... 40 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Rocketbook Fusion"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07RTN4F7D.mp4",
+        "precio": "$40"
+      },
+      {
+        "type": "content",
+        "title": "JBL Reflect Flow Pro",
+        "productId": "B09CVCRYZZ",
+        "productName": "JBL Reflect Flow Pro",
+        "filename": "B09CVCRYZZ.mp4",
+        "content": [
+          "Los cables de audífonos siempre se enredan en el peor momento. Los JBL Reflect Flow Pro son audífonos inalámbricos que ofrecen un sonido envolvente y ajuste seguro. Resistentes al agua para cualquier actividad.",
+          "Su precio actual en Amazon ronda los... 80 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: JBL Reflect Flow Pro"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B09CVCRYZZ.mp4",
+        "precio": "$80"
+      }
+    ],
+    "totalDuration": 75
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "Dale like y recuerda que los links están en el primer comentario. ¡Gracias por ver!"
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:45",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "innovadores",
+    "amazon",
+    "cambiarn",
+    "vida"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 3 Gadgets Innovadores en Amazon que Cambiarán tu Vida",
+      "angle": "Top 3 Gadgets Innovadores en Amazon que Cambiarán tu Vida",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 3,
+      "introScript": "¿Un cargador que se adhiere a tu portátil como un imán? ¿Un bolígrafo que digitaliza tus notas al instante? ¿O unos auriculares que se cargan mientras caminas? Hoy te traigo los gadgets más innovadores que están revolucionando nuestra forma de vivir.",
+      "keywords": [
+        "gadgets",
+        "innovadores",
+        "amazon",
+        "cambiarn",
+        "vida"
+      ],
+      "estimatedViews": 5168,
+      "bestPublishTime": "2026-04-22T19:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "MAGFAST Life",
+          "searchTermEn": "MAGFAST Life powerbank",
+          "id": "B0G6D9SPND",
+          "filename": "B0G6D9SPND.mp4"
+        },
+        {
+          "nombre": "Rocketbook Fusion",
+          "searchTermEn": "Rocketbook Fusion smart notebook",
+          "id": "B07RTN4F7D",
+          "filename": "B07RTN4F7D.mp4"
+        },
+        {
+          "nombre": "JBL Reflect Flow Pro",
+          "searchTermEn": "JBL Reflect Flow Pro earbuds",
+          "id": "B09CVCRYZZ",
+          "filename": "B09CVCRYZZ.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-04-20T17:00:21.333Z",
+      "_requestedCount": 3,
+      "_adaptedCount": 3,
+      "_scriptNonce": "nonce_1776704549339_49ixkl"
+    },
+    "generatedAt": "2026-04-20T17:02:34.347Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "MAGFAST Life",
+        "searchTermEn": "MAGFAST Life powerbank",
+        "id": "B0G6D9SPND",
+        "filename": "B0G6D9SPND.mp4"
+      },
+      {
+        "nombre": "Rocketbook Fusion",
+        "searchTermEn": "Rocketbook Fusion smart notebook",
+        "id": "B07RTN4F7D",
+        "filename": "B07RTN4F7D.mp4"
+      },
+      {
+        "nombre": "JBL Reflect Flow Pro",
+        "searchTermEn": "JBL Reflect Flow Pro earbuds",
+        "id": "B09CVCRYZZ",
+        "filename": "B09CVCRYZZ.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 3 Gadgets Innovadores en Amazon que Cambiarán tu Vida\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\nEste cargador revive tus dispositivos al instante. Esta libreta digitaliza tus notas mágicamente. Estos audífonos te sumergen en música sin cables.\n\n[0:10-0:15] INTRODUCTION\nSuscríbete, los links están en el primer comentario. Empecemos.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] MAGFAST LIFE\nEstar sin batería puede arruinar tu día por completo. El MAGFAST Life es un cargador portátil que tiene potencia para todo el día. Su diseño compacto cabe en cualquier bolsillo.\nSu precio actual en Amazon ronda los... 25 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: MAGFAST Life]\n\n[0:25] ROCKETBOOK FUSION\nTomar notas a mano y digitalizarlas suele ser un proceso tedioso. La Rocketbook Fusion te permite escribir y borrar infinitamente, enviando tus notas a la nube con un simple escaneo. Incluye plantillas reutilizables para cada necesidad.\nSu precio actual en Amazon ronda los... 40 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Rocketbook Fusion]\n\n[0:25] JBL REFLECT FLOW PRO\nLos cables de audífonos siempre se enredan en el peor momento. Los JBL Reflect Flow Pro son audífonos inalámbricos que ofrecen un sonido envolvente y ajuste seguro. Resistentes al agua para cualquier actividad.\nSu precio actual en Amazon ronda los... 80 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: JBL Reflect Flow Pro]\n\n[10 seconds] CONCLUSION\nDale like y recuerda que los links están en el primer comentario. ¡Gracias por ver!\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:45\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, innovadores, amazon, cambiarn, vida\n"
+}

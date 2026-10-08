@@ -1,0 +1,175 @@
+1
+00:00:00,000 --> 00:00:30,000
+  
+
+2
+00:00:30,000 --> 00:00:34,285
+{
+  "narracion": "¿Cansado de soportes voluminosos para
+
+3
+00:00:34,285 --> 00:00:38,571
+tu laptop? Descubre el MOFT-Z Soporte Portátil, un
+
+4
+00:00:38,571 --> 00:00:42,857
+soporte [Paper-Thin] que redefine la portabilidad con tan
+
+5
+00:00:42,857 --> 00:00:47,142
+solo 0.1 in de grosor. Pequeño pero [Fiablemente
+
+6
+00:00:47,142 --> 00:00:51,428
+Fuerte], su marco de PU y fibra de
+
+7
+00:00:51,428 --> 00:00:55,714
+vidrio puede apoyar hasta 11lbs. Ángulos ajustables Su
+
+8
+00:00:55,714 --> 00:00:59,999
+precio actual ronda los... 25 dólares. ¡Link ya!
+
+9
+00:01:00,000 --> 00:01:03,444
+¿Dolor lumbar persistente por mala postura? El ErgoFoam
+
+10
+00:01:03,492 --> 00:01:06,937
+Reposapiés ajustable a la altura óptima es respaldado
+
+11
+00:01:06,985 --> 00:01:10,430
+por quiroprácticos, brindando soporte duradero. Ajusta sin esfuerzo.
+
+12
+00:01:10,478 --> 00:01:13,923
+Transformalo en un balancín para mejorar la circulación.
+
+13
+00:01:13,971 --> 00:01:17,416
+Simplemente coloca debajo del escritorio; el fondo antideslizante
+
+14
+00:01:17,464 --> 00:01:20,909
+mantiene todo en su sitio. Da la vuelta
+
+15
+00:01:20,957 --> 00:01:24,402
+para usarlo como mecedor. Nota menos dolor de
+
+16
+00:01:24,450 --> 00:01:27,895
+espalda y mejor postura al instante. Su precio
+
+17
+00:01:27,943 --> 00:01:31,388
+actual ronda los... 42 dólares. ¡Link ya!
+
+18
+00:01:31,000 --> 00:01:35,285
+{
+  "narracion": "¿Harto de distracciones en tu
+
+19
+00:01:35,705 --> 00:01:39,991
+escritorio? \n\nEl DeskView Escritorio Compacto incorpora una Sombrilla
+
+20
+00:01:40,411 --> 00:01:44,697
+Ajustable. Bloquea eficazmente la luz solar intensa desde
+
+21
+00:01:45,117 --> 00:01:49,403
+las ventanas laterales o frontales, protegiendo tu concentración
+
+22
+00:01:49,823 --> 00:01:54,109
+y privacidad.\n\nColoca la sombra de tela plateada en
+
+23
+00:01:54,529 --> 00:01:58,815
+tu Su precio actual ronda los... Revisa el
+
+24
+00:01:59,235 --> 00:02:03,521
+enlace. ¡Link ya!
+
+25
+00:02:01,000 --> 00:02:04,181
+¿Tu espalda te pide un descanso? El Varidesk
+
+26
+00:02:04,414 --> 00:02:07,596
+ProPlus redefine la oficina moderna con su sistema
+
+27
+00:02:07,829 --> 00:02:11,011
+ergonómico. Ajusta sin esfuerzo este innovador escritorio elevable,
+
+28
+00:02:11,243 --> 00:02:14,425
+que se adapta a todas tus necesidades con
+
+29
+00:02:14,658 --> 00:02:17,840
+dos niveles amplios, perfecto para monitores, ratones y
+
+30
+00:02:18,073 --> 00:02:21,254
+ese imprescindible café matutino. Simplemente empuja las manijas
+
+31
+00:02:21,487 --> 00:02:24,669
+y el resorte lo eleva a la altura
+
+32
+00:02:24,902 --> 00:02:28,084
+deseada. Comienza tu día cómodamente, ya sea en
+
+33
+00:02:28,317 --> 00:02:31,498
+casa o la oficina, sin comprometer calidad ni
+
+34
+00:02:31,731 --> 00:02:34,913
+espacio. Su precio actual ronda los... 369 dólares.
+
+35
+00:02:35,146 --> 00:02:38,328
+¡Link ya!
+
+36
+00:02:36,000 --> 00:02:40,285
+{
+  "narracion": "¿Tensión en las muñecas al
+
+37
+00:02:40,528 --> 00:02:44,814
+escribir? Balance Ergonomic Keyboard revoluciona con diseño ergonómico
+
+38
+00:02:45,056 --> 00:02:49,342
+de tamaño completo. Un reposamuñecas integrado y patas
+
+39
+00:02:49,584 --> 00:02:53,870
+inclinadas fomentan una postura ideal. Con 14 teclas
+
+40
+00:02:54,113 --> 00:02:58,398
+programables y Tecla Copilot AI, elimina el estrés
+
+41
+00:02:58,641 --> 00:03:02,927
+del multitasking en segun Su precio actual ronda
+
+42
+00:03:03,169 --> 00:03:07,455
+los... 379 dólares. ¡Link ya!
+
+43
+00:03:06,000 --> 00:03:36,000
+ 
+

@@ -1,0 +1,143 @@
+{
+  "title": "Top 5 Gadgets Holográficos que Transforman tu Espacio en el Futuro",
+  "hook": {
+    "type": "statement",
+    "text": "¡Transforma tu hogar con hologramas sorprendentes! Prepárate para descubrir tecnología de otro nivel.",
+    "duration": "0:00-0:05"
+  },
+  "introduction": {
+    "greeting": "¿Alguna vez soñaste con vivir en un espacio futurista lleno de hologramas? Hoy te traemos los 5 gadgets holográficos más increíbles que harán de tu hogar un verdadero santuario del futuro. Desde marcos de fotos hasta espejos portátiles, descubre cómo la tecnología holográfica está a tu alcance.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0:05-0:15"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Marco de Fotos Holográfico LED",
+        "content": [
+          "Comenzamos con el Marco de Fotos Holográfico LED, un dispositivo que lleva tus recuerdos a una nueva dimensión. Proyecta imágenes en 3D que parecen flotar en el aire, ideal para decorar cualquier espacio con un toque futurista. Perfecto para quienes aman mostrar sus fotos de manera innovadora.",
+          "Revisa el enlace en la descripción para ver su precio actualizado."
+        ],
+        "visuals": [
+          "Product image: Marco de Fotos Holográfico LED"
+        ],
+        "duration": 25
+      },
+      {
+        "type": "content",
+        "title": "Pantalla Táctil Holográfica de Escritorio",
+        "content": [
+          "En el número 4 tenemos la Pantalla Táctil Holográfica de Escritorio. Esta pantalla transforma tus proyectos y presentaciones con imágenes tridimensionales que puedes controlar con simples toques. Ideal para profesionales creativos y amantes de la tecnología que buscan impresionar.",
+          "Descubre su precio en el enlace de la descripción."
+        ],
+        "visuals": [
+          "Product image: Pantalla Táctil Holográfica de Escritorio"
+        ],
+        "duration": 25
+      },
+      {
+        "type": "content",
+        "title": "Altavoz Holográfico Interactivo",
+        "content": [
+          "El Altavoz Holográfico Interactivo es más que un simple dispositivo de sonido. Proyecta visualizaciones holográficas que responden a tus canciones y comandos de voz, convirtiendo cada escucha en una experiencia visual envolvente. Perfecto para fiestas o reuniones.",
+          "Te dejo el enlace con el precio en la descripción."
+        ],
+        "visuals": [
+          "Product image: Altavoz Holográfico Interactivo"
+        ],
+        "duration": 25
+      },
+      {
+        "type": "content",
+        "title": "Reloj Proyector de Hologramas",
+        "content": [
+          "En el segundo puesto, el Reloj Proyector de Hologramas no solo te dice la hora, sino que proyecta hologramas personalizados en 3D sobre tu pared. Es un gadget que asombrará a tus invitados y te hará sentir en una película de ciencia ficción.",
+          "Echa un vistazo a su precio en el enlace de la descripción."
+        ],
+        "visuals": [
+          "Product image: Reloj Proyector de Hologramas"
+        ],
+        "duration": 25
+      },
+      {
+        "type": "content",
+        "title": "Espejo Holográfico Portátil 3D",
+        "content": [
+          "Y en el puesto número uno, el Espejo Holográfico Portátil 3D. Este dispositivo no solo refleja tu imagen, sino que puede proyectar información, gráficos y hasta asistentes virtuales en hologramas. Es el complemento definitivo para cualquier techie que quiera viajar al futuro desde su propio hogar.",
+          "Revisa el enlace en la descripción para conocer su precio."
+        ],
+        "visuals": [
+          "Product image: Espejo Holográfico Portátil 3D"
+        ],
+        "duration": 25
+      }
+    ],
+    "totalDuration": 125
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "Gracias por acompañarnos en este viaje holográfico. Si te ha gustado el video, no olvides darle like, suscribirte y dejar tus comentarios sobre cuál gadget te sorprendió más. ¡Nos vemos en el futuro!"
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "2:35",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "hologrficos",
+    "transforman",
+    "espacio",
+    "futuro"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 5 Gadgets Holográficos que Transforman tu Espacio en el Futuro",
+      "angle": "Top 5 Gadgets Holográficos que Transforman tu Espacio en el Futuro",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "keywords": [
+        "gadgets",
+        "hologrficos",
+        "transforman",
+        "espacio",
+        "futuro"
+      ],
+      "estimatedViews": 4506,
+      "bestPublishTime": "2026-04-02T19:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        "Espejo Holográfico Portátil 3D",
+        "Reloj Proyector de Hologramas",
+        "Altavoz Holográfico Interactivo",
+        "Pantalla Táctil Holográfica de Escritorio",
+        "Marco de Fotos Holográfico LED"
+      ],
+      "createdAt": "2026-03-28T19:12:19.743Z"
+    },
+    "generatedAt": "2026-03-28T19:13:14.200Z",
+    "version": "2.0-listicle",
+    "productos": [
+      "Espejo Holográfico Portátil 3D",
+      "Reloj Proyector de Hologramas",
+      "Altavoz Holográfico Interactivo",
+      "Pantalla Táctil Holográfica de Escritorio",
+      "Marco de Fotos Holográfico LED"
+    ]
+  },
+  "fullScript": "TITLE: Top 5 Gadgets Holográficos que Transforman tu Espacio en el Futuro\n\n══════════════════════════════════════════════════\n\n[0:00-0:05] HOOK\n¡Transforma tu hogar con hologramas sorprendentes! Prepárate para descubrir tecnología de otro nivel.\n\n[0:05-0:15] INTRODUCTION\n¿Alguna vez soñaste con vivir en un espacio futurista lleno de hologramas? Hoy te traemos los 5 gadgets holográficos más increíbles que harán de tu hogar un verdadero santuario del futuro. Desde marcos de fotos hasta espejos portátiles, descubre cómo la tecnología holográfica está a tu alcance.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] MARCO DE FOTOS HOLOGRÁFICO LED\nComenzamos con el Marco de Fotos Holográfico LED, un dispositivo que lleva tus recuerdos a una nueva dimensión. Proyecta imágenes en 3D que parecen flotar en el aire, ideal para decorar cualquier espacio con un toque futurista. Perfecto para quienes aman mostrar sus fotos de manera innovadora.\nRevisa el enlace en la descripción para ver su precio actualizado.\n\n[VISUALS: Product image: Marco de Fotos Holográfico LED]\n\n[0:25] PANTALLA TÁCTIL HOLOGRÁFICA DE ESCRITORIO\nEn el número 4 tenemos la Pantalla Táctil Holográfica de Escritorio. Esta pantalla transforma tus proyectos y presentaciones con imágenes tridimensionales que puedes controlar con simples toques. Ideal para profesionales creativos y amantes de la tecnología que buscan impresionar.\nDescubre su precio en el enlace de la descripción.\n\n[VISUALS: Product image: Pantalla Táctil Holográfica de Escritorio]\n\n[0:25] ALTAVOZ HOLOGRÁFICO INTERACTIVO\nEl Altavoz Holográfico Interactivo es más que un simple dispositivo de sonido. Proyecta visualizaciones holográficas que responden a tus canciones y comandos de voz, convirtiendo cada escucha en una experiencia visual envolvente. Perfecto para fiestas o reuniones.\nTe dejo el enlace con el precio en la descripción.\n\n[VISUALS: Product image: Altavoz Holográfico Interactivo]\n\n[0:25] RELOJ PROYECTOR DE HOLOGRAMAS\nEn el segundo puesto, el Reloj Proyector de Hologramas no solo te dice la hora, sino que proyecta hologramas personalizados en 3D sobre tu pared. Es un gadget que asombrará a tus invitados y te hará sentir en una película de ciencia ficción.\nEcha un vistazo a su precio en el enlace de la descripción.\n\n[VISUALS: Product image: Reloj Proyector de Hologramas]\n\n[0:25] ESPEJO HOLOGRÁFICO PORTÁTIL 3D\nY en el puesto número uno, el Espejo Holográfico Portátil 3D. Este dispositivo no solo refleja tu imagen, sino que puede proyectar información, gráficos y hasta asistentes virtuales en hologramas. Es el complemento definitivo para cualquier techie que quiera viajar al futuro desde su propio hogar.\nRevisa el enlace en la descripción para conocer su precio.\n\n[VISUALS: Product image: Espejo Holográfico Portátil 3D]\n\n[10 seconds] CONCLUSION\nGracias por acompañarnos en este viaje holográfico. Si te ha gustado el video, no olvides darle like, suscribirte y dejar tus comentarios sobre cuál gadget te sorprendió más. ¡Nos vemos en el futuro!\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 2:35\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, hologrficos, transforman, espacio, futuro\n"
+}

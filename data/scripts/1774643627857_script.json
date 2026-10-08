@@ -1,0 +1,116 @@
+{
+  "title": "¡Descubre el Lápiz Inteligente que Transforma tus Dibujos en 3D al Instante!",
+  "hook": {
+    "type": "question",
+    "text": "¿Alguna vez imaginaste que un simple lápiz podría revolucionar el diseño 3D?",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "Hola, bienvenidos a Mente Futura.",
+    "topicIntro": "Hoy exploraremos un dispositivo que está cambiando la forma en que concebimos el diseño tridimensional.",
+    "valueProposition": "Aprenderás cómo funciona este lápiz inteligente y por qué es una herramienta revolucionaria para creativos y diseñadores.",
+    "credibility": "Si estás interesado en la tecnología que está llevando la creatividad al siguiente nivel, estás en el lugar correcto.",
+    "duration": "0:10-0:30"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "explanation",
+        "title": "¿Qué es el Lápiz Inteligente Oficial?",
+        "content": [
+          "El lápiz inteligente oficial es un dispositivo que combina funcionalidades de dibujo tradicional con tecnología avanzada para convertir tus trazos en modelos 3D instantáneamente.",
+          "Está diseñado no solo para profesionales del diseño, sino también para estudiantes y amantes del arte que desean materializar sus ideas de manera más tangible.",
+          "Este lápiz utiliza sensores de alta precisión y un software avanzado que interpreta cada movimiento y lo transforma en un entorno virtual tridimensional."
+        ],
+        "visuals": [
+          "Primer plano del lápiz inteligente y su interfaz de usuario"
+        ],
+        "duration": 60
+      },
+      {
+        "type": "solution_steps",
+        "title": "¿Cómo Funciona?",
+        "content": [
+          "Primero, conecta el lápiz a tu dispositivo a través de Bluetooth. Está diseñado para ser compatible con la mayoría de las tabletas y ordenadores.",
+          "Una vez conectado, selecciona el programa de diseño compatible. Algunas de las opciones más populares incluyen Autodesk y SketchUp.",
+          "Comienza a dibujar como lo harías con un lápiz normal. Los sensores del lápiz capturan el movimiento y el software lo transforma al instante en un modelo 3D que puedes ver en tu pantalla."
+        ],
+        "visuals": [
+          "Demostración en pantalla del proceso de conexión y uso del lápiz"
+        ],
+        "duration": 60
+      },
+      {
+        "type": "examples",
+        "title": "Casos de Uso Impactantes",
+        "content": [
+          "En la arquitectura, diseñadores utilizan el lápiz para crear maquetas digitales de edificios antes de pasar al modelado físico.",
+          "En el mundo del entretenimiento, animadores realizan bocetos conceptuales que se convierten en personajes 3D listos para ser animados.",
+          "En educación, los profesores utilizan el lápiz para enseñar conceptos de geometría y diseño de una manera más interactiva y visual."
+        ],
+        "visuals": [
+          "Ejemplos de proyectos realizados con el lápiz"
+        ],
+        "duration": 60
+      },
+      {
+        "type": "list_items",
+        "title": "Ventajas del Lápiz Inteligente",
+        "content": [
+          "Aumenta la precisión y la eficiencia en el diseño gracias a su tecnología avanzada de sensores.",
+          "Reduce el tiempo de transición entre la etapa de boceto y el modelado 3D completo.",
+          "Fomenta la creatividad al permitir una expresión artística más directa y tangible."
+        ],
+        "visuals": [
+          "Lista visual animada de las ventajas"
+        ],
+        "duration": 60
+      }
+    ],
+    "totalDuration": 300
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Cierre",
+    "recap": [
+      "Hemos visto cómo el lápiz inteligente convierte trazos en 3D.",
+      "Exploramos su funcionamiento y aplicaciones prácticas.",
+      "Destacamos las ventajas de su uso en diseño y creatividad."
+    ],
+    "finalThought": "El futuro del diseño está en nuestras manos, literalmente. Con herramientas como esta, la creatividad no tiene límites.",
+    "duration": "30 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "Si te interesa estar a la vanguardia de la tecnología, suscríbete a Mente Futura.",
+    "like": "Dale like si te sorprendió lo que este lápiz puede hacer.",
+    "comment": "¿Cómo usarías esta tecnología en tu vida diaria? Cuéntanos en los comentarios.",
+    "nextVideo": "No te pierdas nuestro próximo video sobre la inteligencia artificial en el arte.",
+    "duration": "15 seconds"
+  },
+  "duration": "5:05",
+  "tone": "conversational",
+  "pacing": "moderate",
+  "keywords": [
+    "official"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "official",
+      "angle": "¡El Lápiz Inteligente Oficial que Transforma Dibujos en 3D al Instante!",
+      "targetAudience": "General audience, entertainment seekers",
+      "contentType": "Explainer",
+      "keywords": [
+        "official"
+      ],
+      "estimatedViews": 42527,
+      "bestPublishTime": "2026-03-29T15:00:00.000Z",
+      "competitorAnalysis": [],
+      "createdAt": "2026-03-27T20:33:36.455Z"
+    },
+    "generatedAt": "2026-03-27T20:33:47.716Z",
+    "version": "2.0-ai",
+    "model": "gpt-4o"
+  },
+  "fullScript": "TITLE: ¡Descubre el Lápiz Inteligente que Transforma tus Dibujos en 3D al Instante!\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\n¿Alguna vez imaginaste que un simple lápiz podría revolucionar el diseño 3D?\n\n[0:10-0:30] INTRODUCTION\nHola, bienvenidos a Mente Futura.\nHoy exploraremos un dispositivo que está cambiando la forma en que concebimos el diseño tridimensional.\nAprenderás cómo funciona este lápiz inteligente y por qué es una herramienta revolucionaria para creativos y diseñadores.\nSi estás interesado en la tecnología que está llevando la creatividad al siguiente nivel, estás en el lugar correcto.\n\nMAIN CONTENT\n──────────────────────────────\n\n[1:00] ¿QUÉ ES EL LÁPIZ INTELIGENTE OFICIAL?\nEl lápiz inteligente oficial es un dispositivo que combina funcionalidades de dibujo tradicional con tecnología avanzada para convertir tus trazos en modelos 3D instantáneamente.\nEstá diseñado no solo para profesionales del diseño, sino también para estudiantes y amantes del arte que desean materializar sus ideas de manera más tangible.\nEste lápiz utiliza sensores de alta precisión y un software avanzado que interpreta cada movimiento y lo transforma en un entorno virtual tridimensional.\n\n[VISUALS: Primer plano del lápiz inteligente y su interfaz de usuario]\n\n[1:00] ¿CÓMO FUNCIONA?\nPrimero, conecta el lápiz a tu dispositivo a través de Bluetooth. Está diseñado para ser compatible con la mayoría de las tabletas y ordenadores.\nUna vez conectado, selecciona el programa de diseño compatible. Algunas de las opciones más populares incluyen Autodesk y SketchUp.\nComienza a dibujar como lo harías con un lápiz normal. Los sensores del lápiz capturan el movimiento y el software lo transforma al instante en un modelo 3D que puedes ver en tu pantalla.\n\n[VISUALS: Demostración en pantalla del proceso de conexión y uso del lápiz]\n\n[1:00] CASOS DE USO IMPACTANTES\nEn la arquitectura, diseñadores utilizan el lápiz para crear maquetas digitales de edificios antes de pasar al modelado físico.\nEn el mundo del entretenimiento, animadores realizan bocetos conceptuales que se convierten en personajes 3D listos para ser animados.\nEn educación, los profesores utilizan el lápiz para enseñar conceptos de geometría y diseño de una manera más interactiva y visual.\n\n[VISUALS: Ejemplos de proyectos realizados con el lápiz]\n\n[1:00] VENTAJAS DEL LÁPIZ INTELIGENTE\nAumenta la precisión y la eficiencia en el diseño gracias a su tecnología avanzada de sensores.\nReduce el tiempo de transición entre la etapa de boceto y el modelado 3D completo.\nFomenta la creatividad al permitir una expresión artística más directa y tangible.\n\n[VISUALS: Lista visual animada de las ventajas]\n\n[30 seconds] CONCLUSION\nHemos visto cómo el lápiz inteligente convierte trazos en 3D.\nExploramos su funcionamiento y aplicaciones prácticas.\nDestacamos las ventajas de su uso en diseño y creatividad.\n\nEl futuro del diseño está en nuestras manos, literalmente. Con herramientas como esta, la creatividad no tiene límites.\n\n[15 seconds] CALL TO ACTION\nSi te interesa estar a la vanguardia de la tecnología, suscríbete a Mente Futura.\nDale like si te sorprendió lo que este lápiz puede hacer.\n¿Cómo usarías esta tecnología en tu vida diaria? Cuéntanos en los comentarios.\nNo te pierdas nuestro próximo video sobre la inteligencia artificial en el arte.\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 5:05\nTONE: conversational\nPACING: moderate\nKEYWORDS: official\n"
+}

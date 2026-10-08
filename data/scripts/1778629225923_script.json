@@ -1,0 +1,629 @@
+{
+  "title": "Top 3 Gadgets Esenciales para Jardineros en Amazon",
+  "hook": {
+    "type": "statement",
+    "text": "Sorprendente precisión en el control del riego. Eficiencia incomparable triturando hojas.",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "Suscríbete para más gadgets. Links en el primer comentario.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0:10-0:15"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Xiaomi MiFlora Sensor",
+        "productId": "B0BN8M43CN",
+        "productName": "Xiaomi MiFlora Sensor",
+        "filename": "B0BN8M43CN.mp4",
+        "asin": "B0BN8M43CN",
+        "clipDuration": 55.36,
+        "estimatedAudioSeconds": 51,
+        "framework": "problema_solucion",
+        "narracionSegments": null,
+        "content": [
+          "¿Tienes problemas al regar tus plantas correctamente? El Xiaomi MiFlora Sensor te ofrece lecturas precisas de humedad del suelo al instante, permitiéndote evitar el exceso de riego y la pudrición de raíces. Con un dial fácil de leer y su capacidad para monitorear dos plantas simultáneamente, no tendrás más preocupaciones sobre el riego desigual.",
+          "Su precio actual en Amazon ronda los... 9 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Xiaomi MiFlora Sensor"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0BN8M43CN_combined.mp4",
+        "precio": "$9",
+        "productPhoto": "https://m.media-amazon.com/images/I/81wo9N8EtnL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BN8M43CN\\scenes_v1\\B0BN8M43CN_scene_03.mp4",
+            "type": "video",
+            "score": 10,
+            "tag": "persona usando producto",
+            "raw": "10|persona usando producto"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BN8M43CN\\scenes_v2\\B0BN8M43CN_v2_scene_01.mp4",
+            "type": "video",
+            "score": 10,
+            "tag": "uso del producto",
+            "raw": "10|uso del producto"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BN8M43CN\\scenes_v1\\B0BN8M43CN_scene_04.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Medidor humedad",
+            "raw": "9|Medidor humedad"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BN8M43CN\\scenes_v3\\B0BN8M43CN_v3_scene_02.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Medidor humedad",
+            "raw": "9|Medidor humedad"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BN8M43CN\\scenes_v1\\B0BN8M43CN_scene_01.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Medidores de humedad",
+            "raw": "8|Medidores de humedad"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BN8M43CN\\scenes_v1\\B0BN8M43CN_scene_02.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "medidor humedad",
+            "raw": "8|medidor humedad"
+          }
+        ],
+        "features": [
+          "【Instant & Accurate Moisture Reading, No More Guesswork】 This plant moisture meter gives precise soil moisture readings in seconds! The responsive pointer instantly tells you if soil is dry, moist, or wet. It helps avoid overwatering & root rot, letting you water plants like a pro with confidence",
+          "【3 Simple Steps to Use】 Using this plant water meter is easy! ① Remove probe protector. ② Insert probe near roots, ensuring full soil contact till pointer swings ③ Read the moisture level. If some spots are wet and others dry, that's uneven watering—water evenly across the topsoil.",
+          "【Clear, Easy - to - Read Dial】 This soil moisture sensor has a dial with color - coded zones (red=DRY, green=MOIST, blue=WET) & 10 scales. You can read moisture at a glance. No complex settings or learning needed, great for all gardeners",
+          "【2-Pack Value & Indoor Outdoor Use】 Monitor two plants at once with these moisture meters for plants. The 7.6-inch long probe reaches deep roots, ideal for indoor & outdoor plants. A watering guide is printed right on the packaging box for quick reference.",
+          "【Root - Friendly Single Probe & Battery - Free】 Unlike bulkier double-probe designs, this single probe easily penetrates soil with minimal root disturbance and won't pull out much soil. No batteries required, always ready to use. Just remove and wipe clean after each test to extend its lifespan."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Worx Leaf Mulcher",
+        "productId": "B002MAPZYC",
+        "productName": "Worx Leaf Mulcher",
+        "filename": "B002MAPZYC.mp4",
+        "asin": "B002MAPZYC",
+        "clipDuration": 359.09,
+        "estimatedAudioSeconds": 373,
+        "framework": "enfoque_caracteristica",
+        "narracionSegments": null,
+        "content": [
+          "-Mulcha- hasta 53 galones por minuto gracias a su potente motor de 13 amperios. El Worx Leaf Mulcher convierte once bolsas de hojas en una sola, utilizando un sistema innovador sin cuchillas. Su diseño resistente pero portátil facilita su uso en cualquier parte del jardín.",
+          "...150 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Worx Leaf Mulcher"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B002MAPZYC_combined.mp4",
+        "precio": "$150",
+        "productPhoto": "https://m.media-amazon.com/images/I/51tbmqpR+BL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B002MAPZYC\\scenes_v1\\B002MAPZYC_scene_04.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B002MAPZYC\\scenes_v1\\B002MAPZYC_scene_14.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "mulchadora eléctrica",
+            "raw": "9|mulchadora eléctrica"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B002MAPZYC\\scenes_v1\\B002MAPZYC_scene_17.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "mulchador eléctrico",
+            "raw": "9|mulchador eléctrico"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B002MAPZYC\\scenes_v1\\B002MAPZYC_scene_18.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "mulchadora eléctrica",
+            "raw": "9|mulchadora eléctrica"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B002MAPZYC\\scenes_v1\\B002MAPZYC_scene_28.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción real",
+            "raw": "9|interacción real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B002MAPZYC\\scenes_v1\\B002MAPZYC_scene_30.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "mulch hojas",
+            "raw": "9|mulch hojas"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B002MAPZYC\\scenes_v1\\B002MAPZYC_scene_29.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B002MAPZYC\\scenes_v1\\B002MAPZYC_scene_39.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B002MAPZYC\\scenes_v2\\B002MAPZYC_v2_scene_03.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "mulchadora eléctrica",
+            "raw": "9|mulchadora eléctrica"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B002MAPZYC\\scenes_v2\\B002MAPZYC_v2_scene_09.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B002MAPZYC\\scenes_v3\\B002MAPZYC_v3_scene_01.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "mulchadora eléctrica",
+            "raw": "9|mulchadora eléctrica"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B002MAPZYC\\scenes_v1\\B002MAPZYC_scene_05.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "mulchadora eléctrica",
+            "raw": "8|mulchadora eléctrica"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B002MAPZYC\\scenes_v1\\B002MAPZYC_scene_06.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "producto visible",
+            "raw": "8|producto visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B002MAPZYC\\scenes_v1\\B002MAPZYC_scene_10.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "producto visible",
+            "raw": "8|producto visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B002MAPZYC\\scenes_v1\\B002MAPZYC_scene_16.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "mulchadoras eléctricas",
+            "raw": "8|mulchadoras eléctricas"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B002MAPZYC\\scenes_v1\\B002MAPZYC_scene_21.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "producto en uso",
+            "raw": "8|producto en uso"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B002MAPZYC\\scenes_v1\\B002MAPZYC_scene_22.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "mulch hojas",
+            "raw": "8|mulch hojas"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B002MAPZYC\\scenes_v1\\B002MAPZYC_scene_26.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "mulchadora hojas",
+            "raw": "8|mulchadora hojas"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B002MAPZYC\\scenes_v1\\B002MAPZYC_scene_02.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "producto pequeño",
+            "raw": "5|producto pequeño"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B002MAPZYC\\scenes_v1\\B002MAPZYC_scene_08.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "producto pequeño",
+            "raw": "5|producto pequeño"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B002MAPZYC\\scenes_v1\\B002MAPZYC_scene_12.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "producto pequeño",
+            "raw": "5|producto pequeño"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B002MAPZYC\\scenes_v1\\B002MAPZYC_scene_15.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "producto parcial",
+            "raw": "5|producto parcial"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B002MAPZYC\\scenes_v1\\B002MAPZYC_scene_20.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "producto pequeño",
+            "raw": "5|producto pequeño"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B002MAPZYC\\scenes_v1\\B002MAPZYC_scene_25.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "producto pequeño",
+            "raw": "5|producto pequeño"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B002MAPZYC\\scenes_v2\\B002MAPZYC_v2_scene_07.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "producto pequeño",
+            "raw": "5|producto pequeño"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B002MAPZYC\\scenes_v2\\B002MAPZYC_v2_scene_11.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "producto pequeño",
+            "raw": "5|producto pequeño"
+          }
+        ],
+        "features": [
+          "53 GALLONS/MIN: That’s right, the 13.0 Amp motor mulches up to 53 gallons of leaves per minute.",
+          "RIGHT INTO THE BAG: Disposes of leaves and debris into a bag you can attach beneath (bag not included).",
+          "11:1 MULCH RATIO: That’s 11 bags chopped down into 1, all due to the innovative blade-less flex-a-line mulching system.",
+          "STURDY YET PORTABLE: At 20 lbs., this tool is substantial and stays in place during use, but isn’t so heavy that you can’t move it around the yard easily.",
+          "DO IT YOURSELF. DO IT BETTER. DO IT WITH WORX: WORX tools are engineered with cutting-edge technology, and above modern efficiency standards, so you can build a cost-effective tool collection that’s been designed to last."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Gardena Smart Water Control",
+        "productId": "B0G5WZH3DH",
+        "productName": "Gardena Smart Water Control",
+        "filename": "B0G5WZH3DH.mp4",
+        "asin": "B0G5WZH3DH",
+        "clipDuration": 180.41,
+        "estimatedAudioSeconds": 186,
+        "framework": "beneficio_oculto",
+        "narracionSegments": null,
+        "content": [
+          "-Lo que pocos saben- es que puedes controlar tu sistema de riego desde cualquier lugar gracias a la conectividad WiFi avanzada del Gardena Smart Water Control. Este dispositivo admite programación dual para distintas zonas y modos especiales como Sprinkler Mode, asegurando un riego eficiente y personalizado.",
+          "...90 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Gardena Smart Water Control"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0G5WZH3DH_combined.mp4",
+        "precio": "$90",
+        "productPhoto": "https://m.media-amazon.com/images/I/71DgSf7a3aL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0G5WZH3DH\\scenes_v1\\B0G5WZH3DH_scene_01.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Timer visible",
+            "raw": "9|Timer visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0G5WZH3DH\\scenes_v1\\B0G5WZH3DH_scene_04.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Instalación timer",
+            "raw": "9|Instalación timer"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0G5WZH3DH\\scenes_v1\\B0G5WZH3DH_scene_05.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0G5WZH3DH\\scenes_v1\\B0G5WZH3DH_scene_11.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción timer",
+            "raw": "9|interacción timer"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0G5WZH3DH\\scenes_v1\\B0G5WZH3DH_scene_14.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "temporizador riego",
+            "raw": "9|temporizador riego"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0G5WZH3DH\\scenes_v1\\B0G5WZH3DH_scene_17.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Funcionalidades visibles",
+            "raw": "9|Funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0G5WZH3DH\\scenes_v2\\B0G5WZH3DH_v2_scene_04.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "producto visible",
+            "raw": "9|producto visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0G5WZH3DH\\scenes_v3\\B0G5WZH3DH_v3_scene_02.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "temporizador riego",
+            "raw": "9|temporizador riego"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0G5WZH3DH\\scenes_v1\\B0G5WZH3DH_scene_02.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Temporizador riego",
+            "raw": "8|Temporizador riego"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0G5WZH3DH\\scenes_v1\\B0G5WZH3DH_scene_06.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "producto visible",
+            "raw": "8|producto visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0G5WZH3DH\\scenes_v1\\B0G5WZH3DH_scene_10.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Timer visible",
+            "raw": "8|Timer visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0G5WZH3DH\\scenes_v1\\B0G5WZH3DH_scene_12.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Timer WiFi",
+            "raw": "8|Timer WiFi"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0G5WZH3DH\\scenes_v1\\B0G5WZH3DH_scene_13.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "producto visible",
+            "raw": "8|producto visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0G5WZH3DH\\scenes_v1\\B0G5WZH3DH_scene_16.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Pantalla timer",
+            "raw": "8|Pantalla timer"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0G5WZH3DH\\scenes_v1\\B0G5WZH3DH_scene_19.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Timer WiFi",
+            "raw": "8|Timer WiFi"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0G5WZH3DH\\scenes_v1\\B0G5WZH3DH_scene_21.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Temporizador riego",
+            "raw": "8|Temporizador riego"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0G5WZH3DH\\scenes_v1\\B0G5WZH3DH_scene_22.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "pantalla timer",
+            "raw": "8|pantalla timer"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0G5WZH3DH\\scenes_v2\\B0G5WZH3DH_v2_scene_05.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "producto visible",
+            "raw": "8|producto visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0G5WZH3DH\\scenes_v2\\B0G5WZH3DH_v2_scene_12.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "controlador riego",
+            "raw": "8|controlador riego"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0G5WZH3DH\\scenes_v1\\B0G5WZH3DH_scene_08.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "producto pequeño",
+            "raw": "5|producto pequeño"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0G5WZH3DH\\scenes_v1\\B0G5WZH3DH_scene_18.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "pantalla timer",
+            "raw": "5|pantalla timer"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0G5WZH3DH\\scenes_v2\\B0G5WZH3DH_v2_scene_06.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "producto pequeño",
+            "raw": "5|producto pequeño"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0G5WZH3DH\\scenes_v2\\B0G5WZH3DH_v2_scene_10.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "app móvil",
+            "raw": "5|app móvil"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0G5WZH3DH\\scenes_v2\\B0G5WZH3DH_v2_scene_11.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "irrigación jardín",
+            "raw": "5|irrigación jardín"
+          }
+        ],
+        "features": [
+          "Long-Range Stable Connectivity: This 2.4GHz WiFi sprinkler timer utilizes advanced RF wireless technology with an effective range of up to 1700 FT, allowing you to easily control your irrigation system from anywhere on your small farm or estate. No matter where you are on the property, managing your watering needs is effortless. It also supports Alexa, Google Voice, and the \"Smart Life\" app for control.",
+          "2 Zone Irrigation: The wifi water timer supports independent dual-zone programming to meet the unique watering needs of different areas or crops. Each zone is pre-configured with five irrigation programs, and you can adjust the watering duration as needed. The system supports watering intervals from 1 to 7 days, with watering durations ranging from 1 second to 12 hours, making it ideal for extensive deep watering applications.",
+          "Sprinkler Mode: In Sprinkler Mode, the smart water timer cycles between on and off for intermittent watering. You can set the start and end times, spray duration, and interval frequency (Monday through Sunday), with duration adjustable from 1 second to 59 minutes and 59 seconds. This mode is perfect for cooling down and removing dust from your yard during hot summer days.",
+          "Manual Watering Option: If you need to water manually, you can simply override the preset schedule without interrupting the program operation. The smart hose timer allows a manual watering duration range from 1 minute to 240 minutes and is compatible with standard 3/4-inch hose fittings. Water Pressure: 0.5-8 Bar (7-116 PSI); Flow Rate: 5 L/min - 35 L/min (1.3 GPM - 10 GPM).",
+          "Smart Rain Delay: This wifi hose timer a rain delay function that can be manually set from 1 to 7 days. Furthermore, the timer automatically adjusts watering schedules using real-time weather forecasts, helping you conserve water every month."
+        ]
+      }
+    ],
+    "totalDuration": 75
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "-Dale a like- y encuentra los links en el primer comentario."
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:45",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "esenciales",
+    "para",
+    "jardineros",
+    "amazon"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 3 Gadgets Esenciales para Jardineros en Amazon",
+      "angle": "Top 3 Gadgets Esenciales para Jardineros en Amazon",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 3,
+      "introScript": "¿Un sensor que te avisa cuando tus plantas necesitan agua? ¿Una herramienta que desmenuza hojas sin esfuerzo? Hoy te presento tres gadgets que todo amante de la jardinería desearía tener. Estos dispositivos harán que tu jardín luzca espectacular sin complicaciones.",
+      "keywords": [
+        "gadgets",
+        "esenciales",
+        "para",
+        "jardineros",
+        "amazon"
+      ],
+      "estimatedViews": 3884,
+      "bestPublishTime": "2026-05-13T19:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Xiaomi MiFlora Sensor",
+          "searchTermEn": "Xiaomi MiFlora Plant Sensor",
+          "id": "B0BN8M43CN",
+          "filename": "B0BN8M43CN.mp4"
+        },
+        {
+          "nombre": "Worx Leaf Mulcher",
+          "searchTermEn": "Worx WG430 Leaf Mulcher",
+          "id": "B002MAPZYC",
+          "filename": "B002MAPZYC.mp4"
+        },
+        {
+          "nombre": "Gardena Smart Water Control",
+          "searchTermEn": "Gardena Smart Water Control",
+          "id": "B0G5WZH3DH",
+          "filename": "B0G5WZH3DH.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-05-12T23:19:09.354Z",
+      "_requestedCount": 3,
+      "_adaptedCount": 3,
+      "introProductsOrder": [
+        {
+          "nombre": "Gardena Smart Water Control",
+          "id": "B0G5WZH3DH",
+          "filename": "B0G5WZH3DH_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0G5WZH3DH_combined.mp4"
+        },
+        {
+          "nombre": "Worx Leaf Mulcher",
+          "id": "B002MAPZYC",
+          "filename": "B002MAPZYC_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B002MAPZYC_combined.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1778629175218_54quew"
+    },
+    "generatedAt": "2026-05-12T23:39:53.323Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Xiaomi MiFlora Sensor",
+        "searchTermEn": "Xiaomi MiFlora Plant Sensor",
+        "id": "B0BN8M43CN",
+        "filename": "B0BN8M43CN.mp4"
+      },
+      {
+        "nombre": "Worx Leaf Mulcher",
+        "searchTermEn": "Worx WG430 Leaf Mulcher",
+        "id": "B002MAPZYC",
+        "filename": "B002MAPZYC.mp4"
+      },
+      {
+        "nombre": "Gardena Smart Water Control",
+        "searchTermEn": "Gardena Smart Water Control",
+        "id": "B0G5WZH3DH",
+        "filename": "B0G5WZH3DH.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 3 Gadgets Esenciales para Jardineros en Amazon\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\nSorprendente precisión en el control del riego. Eficiencia incomparable triturando hojas.\n\n[0:10-0:15] INTRODUCTION\nSuscríbete para más gadgets. Links en el primer comentario.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] XIAOMI MIFLORA SENSOR\n¿Tienes problemas al regar tus plantas correctamente? El Xiaomi MiFlora Sensor te ofrece lecturas precisas de humedad del suelo al instante, permitiéndote evitar el exceso de riego y la pudrición de raíces. Con un dial fácil de leer y su capacidad para monitorear dos plantas simultáneamente, no tendrás más preocupaciones sobre el riego desigual.\nSu precio actual en Amazon ronda los... 9 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Xiaomi MiFlora Sensor]\n\n[0:25] WORX LEAF MULCHER\n-Mulcha- hasta 53 galones por minuto gracias a su potente motor de 13 amperios. El Worx Leaf Mulcher convierte once bolsas de hojas en una sola, utilizando un sistema innovador sin cuchillas. Su diseño resistente pero portátil facilita su uso en cualquier parte del jardín.\n...150 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Worx Leaf Mulcher]\n\n[0:25] GARDENA SMART WATER CONTROL\n-Lo que pocos saben- es que puedes controlar tu sistema de riego desde cualquier lugar gracias a la conectividad WiFi avanzada del Gardena Smart Water Control. Este dispositivo admite programación dual para distintas zonas y modos especiales como Sprinkler Mode, asegurando un riego eficiente y personalizado.\n...90 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Gardena Smart Water Control]\n\n[10 seconds] CONCLUSION\n-Dale a like- y encuentra los links en el primer comentario.\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:45\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, esenciales, para, jardineros, amazon\n"
+}

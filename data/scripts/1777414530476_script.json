@@ -1,0 +1,140 @@
+{
+  "title": "Top 2 gadgets tecnológicos para mejorar tu entrenamiento",
+  "hook": {
+    "type": "statement",
+    "text": "Auriculares que se ajustan incluso al sudar. Cuerda para saltar que registra cada salto.",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "Suscríbete, los links están en el primer comentario. Empecemos.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0:10-0:15"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Jabra Elite Active 75t",
+        "productId": "B083XQRYRL",
+        "productName": "Jabra Elite Active 75t",
+        "filename": "B083XQRYRL.mp4",
+        "content": [
+          "¿Te molesta cuando los auriculares se caen al correr? Los Jabra Elite Active 75t se ajustan firmemente y resisten el sudor. Ofrecen una calidad de sonido -excepcional- mientras te mueves.",
+          "Su precio actual en Amazon ronda los... 75 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Jabra Elite Active 75t"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B083XQRYRL.mp4",
+        "precio": "$75",
+        "productPhoto": "https://m.media-amazon.com/images/I/71oSdXFwLDL.jpg"
+      },
+      {
+        "type": "content",
+        "title": "Tangram Smart Rope",
+        "productId": "B076GVQT6Q",
+        "productName": "Tangram Smart Rope",
+        "filename": "B076GVQT6Q.mp4",
+        "content": [
+          "Contar saltos en tu rutina de ejercicios puede ser tedioso. La Tangram Smart Rope lleva la cuenta por ti con su tecnología LED integrada. Además, se sincroniza con tu smartphone para un seguimiento detallado.",
+          "Su precio actual en Amazon ronda los... 75 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Tangram Smart Rope"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B076GVQT6Q.mp4",
+        "precio": "$75",
+        "productPhoto": "https://m.media-amazon.com/images/I/51nZqyNDclL.jpg"
+      }
+    ],
+    "totalDuration": 50
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "Dale like y recuerda que los links están en el primer comentario."
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:20",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "tecnolgicos",
+    "para",
+    "mejorar",
+    "entrenamiento"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 2 gadgets tecnológicos para mejorar tu entrenamiento",
+      "angle": "Top 3 gadgets tecnológicos para mejorar tu entrenamiento",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 2,
+      "introScript": "¿Un dispositivo que analiza tus movimientos en tiempo real? ¿Auriculares que no se caen ni con la rutina más intensa? Descubre cómo llevar tu entrenamiento al siguiente nivel con estos tres gadgets innovadores y disponibles ahora mismo.",
+      "keywords": [
+        "gadgets",
+        "tecnolgicos",
+        "para",
+        "mejorar",
+        "entrenamiento"
+      ],
+      "estimatedViews": 4895,
+      "bestPublishTime": "2026-05-03T15:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Jabra Elite Active 75t",
+          "searchTermEn": "Jabra Elite Active 75t earbuds",
+          "id": "B083XQRYRL",
+          "filename": "B083XQRYRL.mp4"
+        },
+        {
+          "nombre": "Tangram Smart Rope",
+          "searchTermEn": "Tangram Smart Rope LED jump rope",
+          "id": "B076GVQT6Q",
+          "filename": "B076GVQT6Q.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-04-28T22:13:42.980Z",
+      "_requestedCount": 3,
+      "_adaptedCount": 2,
+      "_adaptationNote": "ATENCIÓN: El usuario pidió 3 productos pero solo hay 2 clips de video disponibles. El guion, título y narrativa deben referirse EXCLUSIVAMENTE a 2 productos.",
+      "_scriptNonce": "nonce_1777414511574_v3darn"
+    },
+    "generatedAt": "2026-04-28T22:15:15.629Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Jabra Elite Active 75t",
+        "searchTermEn": "Jabra Elite Active 75t earbuds",
+        "id": "B083XQRYRL",
+        "filename": "B083XQRYRL.mp4"
+      },
+      {
+        "nombre": "Tangram Smart Rope",
+        "searchTermEn": "Tangram Smart Rope LED jump rope",
+        "id": "B076GVQT6Q",
+        "filename": "B076GVQT6Q.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 2 gadgets tecnológicos para mejorar tu entrenamiento\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\nAuriculares que se ajustan incluso al sudar. Cuerda para saltar que registra cada salto.\n\n[0:10-0:15] INTRODUCTION\nSuscríbete, los links están en el primer comentario. Empecemos.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] JABRA ELITE ACTIVE 75T\n¿Te molesta cuando los auriculares se caen al correr? Los Jabra Elite Active 75t se ajustan firmemente y resisten el sudor. Ofrecen una calidad de sonido -excepcional- mientras te mueves.\nSu precio actual en Amazon ronda los... 75 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Jabra Elite Active 75t]\n\n[0:25] TANGRAM SMART ROPE\nContar saltos en tu rutina de ejercicios puede ser tedioso. La Tangram Smart Rope lleva la cuenta por ti con su tecnología LED integrada. Además, se sincroniza con tu smartphone para un seguimiento detallado.\nSu precio actual en Amazon ronda los... 75 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Tangram Smart Rope]\n\n[10 seconds] CONCLUSION\nDale like y recuerda que los links están en el primer comentario.\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:20\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, tecnolgicos, para, mejorar, entrenamiento\n"
+}

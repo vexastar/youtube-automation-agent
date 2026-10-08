@@ -1,0 +1,169 @@
+{
+  "title": "Top 3 Gadgets Tecnológicos e Industriales que Deberías Conocer",
+  "hook": {
+    "type": "statement",
+    "text": "Este dispositivo monitorea la calidad del aire. Este gadget mide el radón en tu hogar. Este robot abre tus cortinas automáticamente.",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "Suscríbete, los links están en el primer comentario. Empecemos.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0:10-0:15"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Awair Element",
+        "productId": "B0CLYRBRSB",
+        "productName": "Awair Element",
+        "filename": "B0CLYRBRSB.mp4",
+        "content": [
+          "La calidad del aire en interiores puede afectar tu salud más de lo que imaginas. El Awair Element te informa sobre los niveles de contaminación en tiempo real. Sus sensores detectan partículas, CO2 y humedad.",
+          "Su precio actual en Amazon ronda los... 70 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Awair Element"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0CLYRBRSB.mp4",
+        "precio": "$70",
+        "productPhoto": "https://m.media-amazon.com/images/I/61LpARNodUL._AC_UY654_QL65_.jpg"
+      },
+      {
+        "type": "content",
+        "title": "Airthings Wave Plus",
+        "productId": "B07JB8QWH6",
+        "productName": "Airthings Wave Plus",
+        "filename": "B07JB8QWH6.mp4",
+        "content": [
+          "El gas radón es invisible y puede ser perjudicial si no se controla. Airthings Wave Plus te alerta sobre la presencia de radón en tu hogar de manera continua. Además, mide temperatura, humedad y CO2.",
+          "Su precio actual en Amazon ronda los... 212 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Airthings Wave Plus"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07JB8QWH6.mp4",
+        "precio": "$212",
+        "productPhoto": "https://m.media-amazon.com/images/I/51fQP-40oOL._AC_UY654_QL65_.jpg"
+      },
+      {
+        "type": "content",
+        "title": "SwitchBot Curtain",
+        "productId": "B0F9W85LWF",
+        "productName": "SwitchBot Curtain",
+        "filename": "B0F9W85LWF.mp4",
+        "content": [
+          "Abrir las cortinas manualmente puede ser tedioso y poco práctico. SwitchBot Curtain automatiza el movimiento de tus cortinas con un solo toque desde tu teléfono. Compatible con la mayoría de rieles y barras de cortina.",
+          "Su precio actual en Amazon ronda los... 149 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: SwitchBot Curtain"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0F9W85LWF.mp4",
+        "precio": "$149",
+        "productPhoto": "https://m.media-amazon.com/images/I/613WH+JQb+L._AC_UL960_QL65_.jpg"
+      }
+    ],
+    "totalDuration": 75
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "Dale like y recuerda que los links están en el primer comentario."
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:45",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "tecnolgicos",
+    "industriales",
+    "deberas",
+    "conocer"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 3 Gadgets Tecnológicos e Industriales que Deberías Conocer",
+      "angle": "Top 3 Gadgets Tecnológicos e Industriales que Deberías Conocer",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 3,
+      "introScript": "¿Un dispositivo que controla la humedad del aire en grandes espacios? ¿Un gadget que mide la calidad del aire en tiempo real? Estos son los inventos industriales que están revolucionando el mundo y que puedes conseguir ahora mismo.",
+      "keywords": [
+        "gadgets",
+        "tecnolgicos",
+        "industriales",
+        "deberas",
+        "conocer"
+      ],
+      "estimatedViews": 6122,
+      "bestPublishTime": "2026-04-24T20:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Awair Element",
+          "searchTermEn": "Awair Element air quality monitor",
+          "id": "B0CLYRBRSB",
+          "filename": "B0CLYRBRSB.mp4"
+        },
+        {
+          "nombre": "Airthings Wave Plus",
+          "searchTermEn": "Airthings Wave Plus radon detector",
+          "id": "B07JB8QWH6",
+          "filename": "B07JB8QWH6.mp4"
+        },
+        {
+          "nombre": "SwitchBot Curtain",
+          "searchTermEn": "SwitchBot Curtain smart home",
+          "id": "B0F9W85LWF",
+          "filename": "B0F9W85LWF.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-04-21T23:02:07.608Z",
+      "_requestedCount": 3,
+      "_adaptedCount": 3,
+      "_scriptNonce": "nonce_1776812665754_vq5jf5"
+    },
+    "generatedAt": "2026-04-21T23:04:32.309Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Awair Element",
+        "searchTermEn": "Awair Element air quality monitor",
+        "id": "B0CLYRBRSB",
+        "filename": "B0CLYRBRSB.mp4"
+      },
+      {
+        "nombre": "Airthings Wave Plus",
+        "searchTermEn": "Airthings Wave Plus radon detector",
+        "id": "B07JB8QWH6",
+        "filename": "B07JB8QWH6.mp4"
+      },
+      {
+        "nombre": "SwitchBot Curtain",
+        "searchTermEn": "SwitchBot Curtain smart home",
+        "id": "B0F9W85LWF",
+        "filename": "B0F9W85LWF.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 3 Gadgets Tecnológicos e Industriales que Deberías Conocer\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\nEste dispositivo monitorea la calidad del aire. Este gadget mide el radón en tu hogar. Este robot abre tus cortinas automáticamente.\n\n[0:10-0:15] INTRODUCTION\nSuscríbete, los links están en el primer comentario. Empecemos.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] AWAIR ELEMENT\nLa calidad del aire en interiores puede afectar tu salud más de lo que imaginas. El Awair Element te informa sobre los niveles de contaminación en tiempo real. Sus sensores detectan partículas, CO2 y humedad.\nSu precio actual en Amazon ronda los... 70 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Awair Element]\n\n[0:25] AIRTHINGS WAVE PLUS\nEl gas radón es invisible y puede ser perjudicial si no se controla. Airthings Wave Plus te alerta sobre la presencia de radón en tu hogar de manera continua. Además, mide temperatura, humedad y CO2.\nSu precio actual en Amazon ronda los... 212 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Airthings Wave Plus]\n\n[0:25] SWITCHBOT CURTAIN\nAbrir las cortinas manualmente puede ser tedioso y poco práctico. SwitchBot Curtain automatiza el movimiento de tus cortinas con un solo toque desde tu teléfono. Compatible con la mayoría de rieles y barras de cortina.\nSu precio actual en Amazon ronda los... 149 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: SwitchBot Curtain]\n\n[10 seconds] CONCLUSION\nDale like y recuerda que los links están en el primer comentario.\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:45\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, tecnolgicos, industriales, deberas, conocer\n"
+}

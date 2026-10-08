@@ -1,0 +1,132 @@
+{
+  "title": "Top 1 Gadget Revolucionario para tu Cocina",
+  "hook": {
+    "type": "statement",
+    "text": "",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "25s-35s"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Instant Pot Duo Plus",
+        "productId": "B01NBKTPTS",
+        "productName": "Instant Pot Duo Plus",
+        "filename": "B01NBKTPTS.mp4",
+        "asin": "B01NBKTPTS",
+        "videoDuration": 15.104,
+        "estimatedAudioSeconds": 32,
+        "framework": "comparacion_precio",
+        "narracionSegments": null,
+        "content": [
+          "¿Por qué pagar más por múltiples electrodomésticos? Instant Pot Duo Plus fusiona nueve funciones; cocción a presión, lenta y más, todo en uno. Su pantalla intuitiva te guía con programas inteligentes; desde sopas hasta pasteles. Imagina presionar el botón. Preparas un chili perfecto sin esfuerzo. Su liberación de vapor segura y fácil añade tranquilidad; cocinas como un profesional con su robusto acero inoxidable. Todo por solo ciento cuarenta dólares.",
+          "Su precio actual ronda los ciento cuarenta dólares. Link en comentarios."
+        ],
+        "visuals": [
+          "Product image: Instant Pot Duo Plus"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B01NBKTPTS.mp4",
+        "precio": "$140",
+        "productPhoto": "https://m.media-amazon.com/images/I/71nx65qZq6L.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "9 Funciones de Cocción: Cocción a presión, cocción lenta, saltear, sous vide, vaporizar, esterilizar, mantener caliente, hacer arroz y yogur—todo en un solo aparato.",
+          "Programas inteligentes personalizables: Aborda cada receta con 15 opciones de un solo toque, desde sopas sustanciosas hasta pasteles decadentes.",
+          "Diseño Intuitivo y Conveniente: Una pantalla fácil de leer con indicadores dedicados de tiempo de cocción, temperatura y presión te mantiene informado en tiempo real. Y cuando es hora de guardarlo, el cable de alimentación desmontable facilita el almacenamiento.",
+          "Liberación de vapor segura y fácil: El interruptor de vapor Easy-Release garantiza una liberación de vapor rápida, segura y sencilla en cada ocasión.",
+          "Pro-Grade Cooking Pot: Fabricado con acero inoxidable 18/8 duradero y un fondo tri-ply anti-giro—perfecto para sellar y saltear como un profesional."
+        ]
+      }
+    ],
+    "totalDuration": 40
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      ""
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:10",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadget",
+    "revolucionario",
+    "para",
+    "cocina"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 1 Gadget Revolucionario para tu Cocina",
+      "angle": "Top 1 Gadget Revolucionario para tu Cocina",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 1,
+      "introScript": "¿Te imaginas un dispositivo que acelera tus tareas culinarias y te deja más tiempo para disfrutar? Hoy te presentamos un gadget que está redefiniendo la eficiencia en la cocina. Descubre cómo este invento puede cambiar por completo la forma en que preparas tus comidas. Desde su diseño compacto hasta su sorprendente funcionalidad, no querrás volver a cocinar sin él. Prepárate para conocer el futuro de la cocina moderna con un solo clic.",
+      "keywords": [
+        "gadget",
+        "revolucionario",
+        "para",
+        "cocina"
+      ],
+      "estimatedViews": 4996,
+      "bestPublishTime": "2026-08-02T15:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Instant Pot Duo Plus",
+          "searchTermEn": "Instant Pot Duo Plus",
+          "id": "B01NBKTPTS",
+          "filename": "B01NBKTPTS.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-07-27T18:36:46.123Z",
+      "_requestedCount": 1,
+      "_adaptedCount": 1,
+      "introProductsOrder": [
+        {
+          "nombre": "Instant Pot Duo Plus",
+          "id": "B01NBKTPTS",
+          "filename": "B01NBKTPTS.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B01NBKTPTS.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1785177505191_nv2k0p"
+    },
+    "generatedAt": "2026-07-27T18:38:34.708Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Instant Pot Duo Plus",
+        "searchTermEn": "Instant Pot Duo Plus",
+        "id": "B01NBKTPTS",
+        "filename": "B01NBKTPTS.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 1 Gadget Revolucionario para tu Cocina\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\n\n\n[25s-35s] INTRODUCTION\n\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] INSTANT POT DUO PLUS\n¿Por qué pagar más por múltiples electrodomésticos? Instant Pot Duo Plus fusiona nueve funciones; cocción a presión, lenta y más, todo en uno. Su pantalla intuitiva te guía con programas inteligentes; desde sopas hasta pasteles. Imagina presionar el botón. Preparas un chili perfecto sin esfuerzo. Su liberación de vapor segura y fácil añade tranquilidad; cocinas como un profesional con su robusto acero inoxidable. Todo por solo ciento cuarenta dólares.\nSu precio actual ronda los ciento cuarenta dólares. Link en comentarios.\n\n[VISUALS: Product image: Instant Pot Duo Plus]\n\n[10 seconds] CONCLUSION\n\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:10\nTONE: engaging\nPACING: quick\nKEYWORDS: gadget, revolucionario, para, cocina\n"
+}

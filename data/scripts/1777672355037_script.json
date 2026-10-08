@@ -1,0 +1,159 @@
+{
+  "title": "Top 2 Gadgets Imprescindibles para Tu Carro",
+  "hook": {
+    "type": "statement",
+    "text": "Carga rápida para todos tus dispositivos mientras conduces. Sujeta tu teléfono fácilmente con una sola mano.",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "Suscríbete, los links están en el primer comentario. Empecemos.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0:10-0:15"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Anker PowerDrive III",
+        "productId": "B0843SCLYH",
+        "productName": "Anker PowerDrive III",
+        "filename": "B0843SCLYH.mp4",
+        "asin": "B0843SCLYH",
+        "clipDuration": 20.99,
+        "estimatedAudioSeconds": 12,
+        "framework": "beneficio_oculto",
+        "content": [
+          "Lo que nadie te dice del Anker PowerDrive III es que su diseño ultra-compacto no solo ahorra espacio, sino que también ofrece carga rápida USB-C. Esto mejora tu experiencia sin sacrificar la funcionalidad del tablero.",
+          "Su precio actual en Amazon ronda los... 17 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Anker PowerDrive III"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0843SCLYH.mp4",
+        "precio": "$17",
+        "productPhoto": "https://m.media-amazon.com/images/I/61POG9nvHuL.jpg"
+      },
+      {
+        "type": "content",
+        "title": "iOttie Easy One Touch 5",
+        "productId": "B0C1HP8N5D",
+        "productName": "iOttie Easy One Touch 5",
+        "filename": "B0C1HP8N5D.mp4",
+        "asin": "B0C1HP8N5D",
+        "clipDuration": 53.05,
+        "estimatedAudioSeconds": 55,
+        "framework": "problema_solucion",
+        "content": [
+          "¿Cansado de manipular tu teléfono mientras conduces? El iOttie Easy One Touch 5 soluciona tu problema con su mecanismo que sujeta tu dispositivo de manera segura con una simple acción. Además, organiza tus cables con su sistema incorporado y ofrece ajustes de visualización personalizados gracias a su brazo telescópico mejorado.",
+          "Su precio actual en Amazon ronda los... 19 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: iOttie Easy One Touch 5"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0C1HP8N5D.mp4",
+        "precio": "$19",
+        "productPhoto": "https://m.media-amazon.com/images/I/612zyhPZCOL.jpg"
+      }
+    ],
+    "totalDuration": 50
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "Deja un like y recuerda que los links están en el primer comentario."
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:20",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "imprescindibles",
+    "para",
+    "carro"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 2 Gadgets Imprescindibles para Tu Carro",
+      "angle": "Top 2 Gadgets Imprescindibles para Tu Carro",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 2,
+      "introScript": "¿Un cargador que llena tu batería en minutos o un soporte de teléfono que se ajusta magnéticamente? Descubre los gadgets más eficientes para transformar tu experiencia al volante.",
+      "keywords": [
+        "gadgets",
+        "imprescindibles",
+        "para",
+        "carro"
+      ],
+      "estimatedViews": 4918,
+      "bestPublishTime": "2026-05-08T20:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Anker PowerDrive III",
+          "searchTermEn": "Anker PowerDrive III car charger",
+          "id": "B0843SCLYH",
+          "filename": "B0843SCLYH.mp4"
+        },
+        {
+          "nombre": "iOttie Easy One Touch 5",
+          "searchTermEn": "iOttie Easy One Touch 5 phone mount",
+          "id": "B0C1HP8N5D",
+          "filename": "B0C1HP8N5D.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-05-01T21:49:27.483Z",
+      "_requestedCount": 2,
+      "_adaptedCount": 2,
+      "introProductsOrder": [
+        {
+          "nombre": "Anker PowerDrive III",
+          "id": "B0843SCLYH",
+          "filename": "B0843SCLYH.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0843SCLYH_clean.mp4"
+        },
+        {
+          "nombre": "iOttie Easy One Touch 5",
+          "id": "B0C1HP8N5D",
+          "filename": "B0C1HP8N5D.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0C1HP8N5D_clean.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1777672320306_8rqlde"
+    },
+    "generatedAt": "2026-05-01T21:52:05.775Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Anker PowerDrive III",
+        "searchTermEn": "Anker PowerDrive III car charger",
+        "id": "B0843SCLYH",
+        "filename": "B0843SCLYH.mp4"
+      },
+      {
+        "nombre": "iOttie Easy One Touch 5",
+        "searchTermEn": "iOttie Easy One Touch 5 phone mount",
+        "id": "B0C1HP8N5D",
+        "filename": "B0C1HP8N5D.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 2 Gadgets Imprescindibles para Tu Carro\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\nCarga rápida para todos tus dispositivos mientras conduces. Sujeta tu teléfono fácilmente con una sola mano.\n\n[0:10-0:15] INTRODUCTION\nSuscríbete, los links están en el primer comentario. Empecemos.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] ANKER POWERDRIVE III\nLo que nadie te dice del Anker PowerDrive III es que su diseño ultra-compacto no solo ahorra espacio, sino que también ofrece carga rápida USB-C. Esto mejora tu experiencia sin sacrificar la funcionalidad del tablero.\nSu precio actual en Amazon ronda los... 17 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Anker PowerDrive III]\n\n[0:25] IOTTIE EASY ONE TOUCH 5\n¿Cansado de manipular tu teléfono mientras conduces? El iOttie Easy One Touch 5 soluciona tu problema con su mecanismo que sujeta tu dispositivo de manera segura con una simple acción. Además, organiza tus cables con su sistema incorporado y ofrece ajustes de visualización personalizados gracias a su brazo telescópico mejorado.\nSu precio actual en Amazon ronda los... 19 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: iOttie Easy One Touch 5]\n\n[10 seconds] CONCLUSION\nDeja un like y recuerda que los links están en el primer comentario.\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:20\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, imprescindibles, para, carro\n"
+}

@@ -1,0 +1,185 @@
+{
+  "title": "Top 2 gadgets futuristas para tu mascota",
+  "hook": {
+    "type": "statement",
+    "text": "",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "25s-35s"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Petcube Bites 2",
+        "productId": "B07R3G87RG",
+        "productName": "Petcube Bites 2",
+        "filename": "B07R3G87RG.mp4",
+        "asin": "B07R3G87RG",
+        "videoDuration": 103.138633,
+        "estimatedAudioSeconds": 34,
+        "framework": "problema_solucion",
+        "narracionSegments": null,
+        "content": [
+          "¿Tu mascota sola en casa... preocupándote? El Petcube Bites 2, monitor todo en uno, cambia eso. Verifica a tu mascota en cualquier momento. Tiene video en 1080p HD, vista gran angular de ciento sesenta grados y visión nocturna. Incluso recibe alertas de sonido y movimiento en tiempo real. Juega con láser desde tu teléfono; entretén a tu compañero peludo con modo automático. Habla y escucha con audio bidireccional. Configúralo fácil en un minuto.",
+          "Su precio actual ronda los setenta dólares. Link en comentarios."
+        ],
+        "visuals": [
+          "Product image: Petcube Bites 2"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07R3G87RG.mp4",
+        "precio": "$70",
+        "productPhoto": "https://m.media-amazon.com/images/I/61f22RxgkoL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "TU MONITOR DE MASCOTAS TODO EN UNO — Con la cámara para mascotas Petcube Play 2 Wi-Fi, verifica a tu mascota en cualquier momento desde tu teléfono con video en 1080p HD, vista ultra gran angular de 160° y visión nocturna. Acércate con un zoom de 8x. Recibe alertas de sonido y movimiento en tiempo real.",
+          "JUEGA CON LÁSER DESDE TU TELÉFONO — Con un juguete láser integrado, seguro para mascotas y humanos, controlado desde tu teléfono, o configurado en modo de reproducción automática para entretener a tu mascota mientras no estás. Compatible con Alexa.",
+          "CHAT CON TU MASCOTA — Con audio bidireccional de alta calidad, puedes escuchar y hablar con tu mascota cuando estás fuera, y ella puede responderte. Disfruta de una excelente calidad de sonido con una barra de altavoces mejorada.",
+          "\"\"\"CONFIGURACIÓN FÁCIL EN 1 MINUTO Y ENCRIPTACIÓN AVANZADA — Prepara tu Petcube Play 2 para usar en menos de 60 segundos. Compatible con WiFi de 2.4GHz (no soporta Wi-Fi de 5GHz). Requiere iOS 11.4 o superior o Android 8.10 o superior. Medidas de encriptación de vanguardia para proteger tus datos.\"\"\"",
+          "ALERTAS EN TIEMPO REAL IMPULSADAS POR IA (RECONOCIMIENTO DE MOVIMIENTO Y SONIDO) — Recibe notificaciones instantáneas por cualquier actividad en casa. Nuestro avanzado sistema de IA, diseñado específicamente para mascotas y sus compañeros humanos, garantiza tranquilidad. Confía en tecnología de alta calidad que ofrece alertas en tiempo real tanto para la identificación de humanos como de mascotas."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Litter-Robot 3",
+        "productId": "B0FFDNZSHT",
+        "productName": "Litter-Robot 3",
+        "filename": "B0FFDNZSHT.mp4",
+        "asin": "B0FFDNZSHT",
+        "videoDuration": 124.158633,
+        "estimatedAudioSeconds": 33,
+        "framework": "enfoque_caracteristica",
+        "narracionSegments": null,
+        "content": [
+          "¿Cansado de limpiar la caja de arena? Litter-Robot 4 Bundle revoluciona el cuidado de tu gato. Caja de arena autolimpiante. Apenas vacías el cajón. Su sistema de tamizado patentado separa los desechos; manteniendo limpia la arena. Monitorea desde la app Whisker. Control total sobre niveles de desechos y actividad. Reduce olores con OdorTrap Packs entre ciclos automáticos. Perfecto para hasta cuatro gatos. Simplifica tu vida... y la de ellos.",
+          "Su precio actual ronda los setecientos cuarenta y nueve dólares. Link en comentarios."
+        ],
+        "visuals": [
+          "Product image: Litter-Robot 3"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0FFDNZSHT.mp4",
+        "precio": "$749",
+        "productPhoto": "https://m.media-amazon.com/images/I/71ddCGhP6vL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "BUNDLE DE SUMINISTROS LITTER-ROBOT: Ahorra en el Litter-Robot 4 Bundle, que viene completo con la caja de arena automática Litter-Robot 4, 3 recargas OdorTrap, 10 forros para el cajón de desechos, 30 toallitas limpiadoras, 2 filtros de carbono y el tapete LitterTrap.",
+          "Caja de arena autolimpiante: Nunca más tendrás que rastrillar con Litter-Robot 4, la caja de arena automática y autolimpiante para gatos. El proceso de tamizado patentado separa automáticamente los desechos de tu gato de la arena limpia. Simplemente vacía el cajón de desechos cuando esté lleno.",
+          "MONITOR + CONTROL VIA APP: Controla la caja de arena inteligente directamente desde la aplicación Whisker. Monitorea los niveles de desechos y arena en tiempo real, observa la actividad de la caja de arena y rastrea el peso de tu gato después de cada uso. Compatible con cualquier arena aglomerante.",
+          "REDUCE LOS OLORES DE LA CAJA DE ARENA Y EL RASTREO: El ciclo de limpieza automático y los OdorTrap Packs reducen significativamente los olores en comparación con las cajas de arena estándar.",
+          "SEGURIDAD Y USO: Apto para hasta 4 gatos; cada gato debe pesar al menos 3 lbs (1.4 kg) para usar Litter-Robot de manera segura en Modo Automático. La tecnología de la balanza de peso es más precisa cuando la unidad se encuentra sobre una superficie firme, no sobre alfombra o superficies irregulares."
+        ]
+      }
+    ],
+    "totalDuration": 80
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      ""
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:50",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "futuristas",
+    "para",
+    "mascota"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 2 gadgets futuristas para tu mascota",
+      "angle": "Top 2 gadgets futuristas para tu mascota",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 2,
+      "introScript": "Imagina un dispositivo que juega con tu perro mientras estás en el trabajo o un innovador arenero automático que limpia por sí solo. Hoy te presentamos dos gadgets que transformarán la vida de tus mascotas. No te los puedes perder, son el futuro hecho realidad.",
+      "keywords": [
+        "gadgets",
+        "futuristas",
+        "para",
+        "mascota"
+      ],
+      "estimatedViews": 4443,
+      "bestPublishTime": "2026-07-23T19:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Petcube Bites 2",
+          "searchTermEn": "Petcube Bites 2 pet camera",
+          "id": "B07R3G87RG",
+          "filename": "B07R3G87RG.mp4"
+        },
+        {
+          "nombre": "Litter-Robot 3",
+          "searchTermEn": "Litter-Robot 3 automatic litter box",
+          "id": "B0FFDNZSHT",
+          "filename": "B0FFDNZSHT.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-07-17T21:57:50.937Z",
+      "_requestedCount": 2,
+      "_adaptedCount": 2,
+      "introProductsOrder": [
+        {
+          "nombre": "Litter-Robot 3",
+          "id": "B0FFDNZSHT",
+          "filename": "B0FFDNZSHT.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0FFDNZSHT.mp4"
+        },
+        {
+          "nombre": "Petcube Bites 2",
+          "id": "B07R3G87RG",
+          "filename": "B07R3G87RG.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07R3G87RG.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1784325739574_qye9vl"
+    },
+    "generatedAt": "2026-07-17T22:02:40.414Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Petcube Bites 2",
+        "searchTermEn": "Petcube Bites 2 pet camera",
+        "id": "B07R3G87RG",
+        "filename": "B07R3G87RG.mp4"
+      },
+      {
+        "nombre": "Litter-Robot 3",
+        "searchTermEn": "Litter-Robot 3 automatic litter box",
+        "id": "B0FFDNZSHT",
+        "filename": "B0FFDNZSHT.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 2 gadgets futuristas para tu mascota\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\n\n\n[25s-35s] INTRODUCTION\n\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] PETCUBE BITES 2\n¿Tu mascota sola en casa... preocupándote? El Petcube Bites 2, monitor todo en uno, cambia eso. Verifica a tu mascota en cualquier momento. Tiene video en 1080p HD, vista gran angular de ciento sesenta grados y visión nocturna. Incluso recibe alertas de sonido y movimiento en tiempo real. Juega con láser desde tu teléfono; entretén a tu compañero peludo con modo automático. Habla y escucha con audio bidireccional. Configúralo fácil en un minuto.\nSu precio actual ronda los setenta dólares. Link en comentarios.\n\n[VISUALS: Product image: Petcube Bites 2]\n\n[0:25] LITTER-ROBOT 3\n¿Cansado de limpiar la caja de arena? Litter-Robot 4 Bundle revoluciona el cuidado de tu gato. Caja de arena autolimpiante. Apenas vacías el cajón. Su sistema de tamizado patentado separa los desechos; manteniendo limpia la arena. Monitorea desde la app Whisker. Control total sobre niveles de desechos y actividad. Reduce olores con OdorTrap Packs entre ciclos automáticos. Perfecto para hasta cuatro gatos. Simplifica tu vida... y la de ellos.\nSu precio actual ronda los setecientos cuarenta y nueve dólares. Link en comentarios.\n\n[VISUALS: Product image: Litter-Robot 3]\n\n[10 seconds] CONCLUSION\n\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:50\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, futuristas, para, mascota\n"
+}

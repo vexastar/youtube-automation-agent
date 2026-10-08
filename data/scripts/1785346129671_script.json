@@ -1,0 +1,281 @@
+{
+  "title": "Top 4 Gadgets Asombrosos Financiados en Kickstarter",
+  "hook": {
+    "type": "statement",
+    "text": "",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "25s-35s"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Smart Reusable Notebook",
+        "productId": "B0DP3HLY4J",
+        "productName": "Smart Reusable Notebook",
+        "filename": "B0DP3HLY4J.mp4",
+        "asin": "B0DP3HLY4J",
+        "videoDuration": 31.165733,
+        "estimatedAudioSeconds": 33,
+        "framework": "problema_solucion",
+        "narracionSegments": null,
+        "content": [
+          "¿Cansado de llenar cuadernos de papel? Descubre el Smart Reusable Notebook. Su nuevo y mejorado núcleo ofrece papel reutilizable con una sensación inigualable al escribir. Su diseño resistente a rayones garantiza durabilidad; mientras que sus Smart Titles y Smart Tags te ayudan a organizar tus notas. Escribe con el bolígrafo Pilot Frixion. Digitaliza tus apuntes a la nube con la app Rocketbook. Limpia las páginas y reescribe; una y otra vez.",
+          "Su precio actual ronda los veintiséis dólares. Link en comentarios."
+        ],
+        "visuals": [
+          "Product image: Smart Reusable Notebook"
+        ],
+        "duration": 25,
+        "precio": "$26",
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0DP3HLY4J.mp4",
+        "productPhoto": "https://m.media-amazon.com/images/I/81txybq7ShL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "Nuevo y Mejorado Núcleo: Presenta papel reutilizable de primera calidad, con una mejor sensación al escribir, encuadernación en espiral y una cubierta rediseñada de manera elegante y resistente a rayones. Las hojas con regla de colegio ahora incluyen Smart Titles y Smart Tags para nombrar y organizar archivos de manera eficiente.",
+          "Habilitado por App para la Organización Digital: Escanea y sube tu trabajo escrito directamente a plataformas en la nube como Google Drive, Dropbox, OneNote, etc. y accede a tus notas desde cualquier lugar. Utiliza Smart Titles y Smart Tags para nombrar y organizar archivos de manera eficiente.",
+          "Escribe, Digitaliza, Borra y Reescribe: Escribe notas con el Pilot Frixion Pen incluido, digitaliza sin esfuerzo usando la aplicación Rocketbook, almacena en tu servicio de nube preferido. Cuando termines, simplemente limpia las páginas con un paño húmedo y comienza de nuevo.",
+          "Tamaños Portátiles y Versátiles: Disponible en dos tamaños—Letter (8.5 x 11 pulgadas) y Executive (6 x 8.8 pulgadas)—el Rocketbook Core es lo suficientemente compacto como para caber en mochilas, bolsos o maletines. Este cuaderno ofrece portabilidad y versatilidad.",
+          "Reusabilidad Ecológica: Diseñados con la sostenibilidad en mente, los cuadernos Rocketbook ayudan a reducir el desperdicio de papel con una alternativa reutilizable. Disfruta de un cuaderno similar al papel que se puede usar repetidamente, permitiéndote guardar tu trabajo y borrar todo lo demás."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Nebula Capsule Proyector",
+        "productId": "B0CHW11C8H",
+        "productName": "Nebula Capsule Proyector",
+        "filename": "B0CHW11C8H.mp4",
+        "asin": "B0CHW11C8H",
+        "videoDuration": 58.993533,
+        "estimatedAudioSeconds": 37,
+        "framework": "beneficio_oculto",
+        "narracionSegments": null,
+        "content": [
+          "¿Cansado de ver películas en pantallas pequeñas. aburrido? El Nebula Capsule Proyector transforma tu experiencia visual. con su diseño ultra-portátil y pantalla masiva de 120 pulgadas. Disfruta; de calidad cinematográfica a cualquier hora y lugar, gracias a su resolución de mil ochenta píxeles; y doscientos lúmenes de brillo. Simplemente; ábrelo, apunta, y disfruta del enfoque automático con ajuste en solo tres segundos. Mientras bajas la luces, su batería dura hasta ocho horas en modo económico. Vive el cine donde tú quieras.",
+          "Su precio actual ronda los... 400 dólares. Link en comentarios."
+        ],
+        "visuals": [
+          "Product image: Nebula Capsule Proyector"
+        ],
+        "duration": 25,
+        "precio": "$400",
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0CHW11C8H.mp4",
+        "productPhoto": "https://m.media-amazon.com/images/I/81WZMwYM93L.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "Pantalla de gran tamaño, diseño portátil: Capsule 3 es un proyector ultra-portátil de Google TV, con licencia de Netflix.",
+          "Lleva la Gran Pantalla a Cualquier Lugar: Con un tamaño de pantalla máximo de 120 inches, Capsule 3 ofrece una experiencia de nivel cinematográfico que puedes llevar contigo a cualquier parte.",
+          "Calidad de imagen de siguiente nivel: La pantalla de 1080p con 200 Lumens de brillo hace que las películas brillen para una experiencia de visualización inmersiva.",
+          "\"\"\"Larga duración de la batería: Termina una película completa de 2.5 horas o escucha 8 horas de música con una sola carga. (bajo modo eco)\"\"\"",
+          "Configúralo en segundos: Nuestra Tecnología de Adaptación Inteligente al Entorno realiza ajuste de pantalla, corrección automática de keystone, enfoque automático y evitación de obstáculos en solo 3 segundos."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Snapods Earbuds",
+        "productId": "B0F8J38VRR",
+        "productName": "Snapods Earbuds",
+        "filename": "B0F8J38VRR.mp4",
+        "asin": "B0F8J38VRR",
+        "videoDuration": 26.461033,
+        "estimatedAudioSeconds": 32,
+        "framework": "comparacion_precio",
+        "narracionSegments": null,
+        "content": [
+          "¿Buscas calidad musical sin romper la cartera? Snapods Earbuds redefine tu experiencia auditiva. Con Bluetooth seis punto cero; emparejamiento más rápido y sonido equilibrado, conquistan con su diseño liviano. Solo cuatro gramos por auricular; comodidad todo el día sin presión. Llama o escucha, incluso bajo la lluvia; gracias a su resistencia IP56 al agua. Presiona play. Cambia entre dispositivos sin interrupciones. Disfruta de hasta cuarenta horas de reproducción continua.",
+          "Su precio actual ronda los veinticinco dólares. Link en comentarios."
+        ],
+        "visuals": [
+          "Product image: Snapods Earbuds"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0F8J38VRR.mp4",
+        "precio": "$25",
+        "productPhoto": "https://m.media-amazon.com/images/I/71KxrwBkQWL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "\"\"\"Amados por más de 358K usuarios - Ahora completamente mejorados: Basados en los comentarios de más de 100,000 usuarios, los nuevos auriculares Kinglucky clip-on son más ligeros, claros e inteligentes que nunca. Cada detalle fue refinado con la comodidad y usabilidad del mundo real en mente - desde un 25% menos de peso hasta un equilibrio de sonido mejorado y un emparejamiento más rápido con Bluetooth 6.0. Ya sea que estés escuchando durante una caminata matutina, relajándote después del trabajo o preparándote para dormir, estos auriculares de oído abierto se integran perfectamente en tu ritmo diario. La misma comodidad amada - ahora redefinida para un mejor tú.\"\"\"",
+          "Confort inigualable para un uso durante todo el día: Di adiós al dolor y la presión en los oídos. Cada auricular pesa solo 4.0g, con un clip flexible en forma de C que se ajusta a tu oído de manera natural para una sensación segura y casi imperceptible. Ya sea que uses gafas, aretes o ambos, se adapta perfectamente: sin deslizamientos, sin pellizcos, sin fatiga. Diseñados para mujeres que se mueven entre carreras matutinas, desplazamientos y llamadas de trabajo, estos auriculares abiertos se mantienen cómodos desde el amanecer hasta la hora de dormir. Una vez que te los pongas, podrías olvidar que incluso los llevas puestos.",
+          "\"\"\"Sonido Dual-Diaphragm Gen 2 + Llamadas AI ENC: Impulsados por el sistema Hi-Pure SOUND Gen 2, estos auriculares ofrecen voces cristalinas, medios ricos y agudos equilibrados, adecuados para música, audiolibros o podcasts. Escucharás a tus artistas favoritos con un detalle realista mientras te mantienes consciente de lo que te rodea. Con micrófonos duales mejorados por AI ENC, cada llamada suena como cara a cara, incluso cuando estás caminando en el viento o charlando en una calle concurrida. Es audio diseñado para seguir el ritmo de tu voz, tu vida y tu estilo.\"\"\"",
+          "\"\"\"40H Tiempo de reproducción + Bluetooth 6.0 Cambio sin interrupciones: Disfruta de 6 horas por carga y hasta 40 horas con el estuche. Bluetooth 6.0 ofrece conexiones rápidas y estables. Cambia instantáneamente entre el teléfono, iPad o laptop - sin desconexiones, sin reemparejamiento. Sin caídas. Sin retrasos. Solo escucha sin interrupciones, todo el día. Nota: La duración de la batería puede variar según el nivel de volumen y las condiciones de uso. El tiempo de reproducción se basa en pruebas a un volumen del 60%.\"\"\"",
+          "IP56 a prueba de agua y listo para el día a día: La vida no se detiene, y estos auriculares tampoco. Con protección IP56 contra el agua y un recubrimiento nano hidrofóbico, manejan el sudor, la lluvia y las salpicaduras con facilidad. Sal a correr temprano, pasea a tu perro o déjate sorprender por una llovizna: tu música no se detendrá. El diseño de oído abierto te mantiene consciente de tu entorno mientras ofrece un sonido rico y equilibrado, para que te mantengas seguro y conectado en cada momento. Kinglucky hace que la comodidad y la confianza sean parte de tu banda sonora diaria."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "QooCam 8K 360 Camera",
+        "productId": "B0CMQB3PW4",
+        "productName": "QooCam 8K 360 Camera",
+        "filename": "B0CMQB3PW4.mp4",
+        "asin": "B0CMQB3PW4",
+        "videoDuration": 140.0288,
+        "estimatedAudioSeconds": 35,
+        "framework": "dato_numerico",
+        "narracionSegments": null,
+        "content": [
+          "¿Crees que tus videos son impresionantes? La KanDao QooCam 8K lleva tus grabaciones al siguiente nivel. Con sensores duales de casi dos pulgadas, captura cada detalle. Su resolución de cinco puntos siete K a treinta frames por segundo garantiza calidad profesional. Enciende la QooCam; gira para explorar sin límites. Sumérgete con su resistencia al agua. Captura fotos panorámicas de sesenta y dos megapíxeles; ilumina la noche con su gran apertura Funo punto seis...",
+          "Su precio actual ronda los... cuatrocientos setenta y nueve dólares. Link en comentarios."
+        ],
+        "visuals": [
+          "Product image: QooCam 8K 360 Camera"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0CMQB3PW4.mp4",
+        "precio": "$479",
+        "productPhoto": "https://m.media-amazon.com/images/I/614wsRkU9zL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "Cámara de acción KanDao QooCam 3 con sensores duales de 1/1.55\", cámara deportiva 360 de 5.7K 30FPS, video HDR, foto panorámica de 62MP, DNG8, gran apertura F1.6, estabilización, resistente al agua, toma nocturna superior."
+        ]
+      }
+    ],
+    "totalDuration": 160
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      ""
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "3:50",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "asombrosos",
+    "financiados",
+    "kickstarter"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 5 Gadgets Asombrosos Financiados en Kickstarter",
+      "angle": "Top 5 Gadgets Asombrosos Financiados en Kickstarter",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 5,
+      "introScript": "¿Te imaginas un cargador que sigue a tu dispositivo al moverse? O tal vez un diario inteligente que puedes reutilizar infinitamente. Estos innovadores gadgets, nacidos en plataformas de crowdfunding, te mostrarán el futuro hoy. Desde audífonos que se adaptan a tus oídos hasta gafas que revolucionan cómo ves el mundo. Descubre cómo estas maravillas tecnológicas pueden transformar tu rutina diaria con diseño y funcionalidad inigualables.",
+      "keywords": [
+        "gadgets",
+        "asombrosos",
+        "financiados",
+        "kickstarter"
+      ],
+      "estimatedViews": 3926,
+      "bestPublishTime": "2026-07-30T19:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Rocketbook Everlast Notebook",
+          "searchTermEn": "Rocketbook Everlast Notebook",
+          "id": "B0DP3HLY4J",
+          "filename": "B0DP3HLY4J.mp4"
+        },
+        {
+          "nombre": "Ekster Parliament Wallet",
+          "searchTermEn": "Ekster Parliament Wallet",
+          "id": "B07PXM8HX7",
+          "filename": "B07PXM8HX7.mp4"
+        },
+        {
+          "nombre": "Nebula Capsule Projector",
+          "searchTermEn": "Nebula Capsule Projector",
+          "id": "B0CHW11C8H",
+          "filename": "B0CHW11C8H.mp4"
+        },
+        {
+          "nombre": "Snapods Earbuds",
+          "searchTermEn": "Snapods Earbuds",
+          "id": "B0F8J38VRR",
+          "filename": "B0F8J38VRR.mp4"
+        },
+        {
+          "nombre": "QooCam 8K 360 Camera",
+          "searchTermEn": "QooCam 8K 360 Camera",
+          "id": "B0CMQB3PW4",
+          "filename": "B0CMQB3PW4.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-07-29T17:17:23.286Z",
+      "_requestedCount": 5,
+      "_adaptedCount": 5,
+      "introProductsOrder": [
+        {
+          "nombre": "QooCam 8K 360 Camera",
+          "id": "B0CMQB3PW4",
+          "filename": "B0CMQB3PW4.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0CMQB3PW4.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1785346065465_68kzdo"
+    },
+    "generatedAt": "2026-07-29T17:28:34.344Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Rocketbook Everlast Notebook",
+        "searchTermEn": "Rocketbook Everlast Notebook",
+        "id": "B0DP3HLY4J",
+        "filename": "B0DP3HLY4J.mp4"
+      },
+      {
+        "nombre": "Ekster Parliament Wallet",
+        "searchTermEn": "Ekster Parliament Wallet",
+        "id": "B07PXM8HX7",
+        "filename": "B07PXM8HX7.mp4"
+      },
+      {
+        "nombre": "Nebula Capsule Projector",
+        "searchTermEn": "Nebula Capsule Projector",
+        "id": "B0CHW11C8H",
+        "filename": "B0CHW11C8H.mp4"
+      },
+      {
+        "nombre": "Snapods Earbuds",
+        "searchTermEn": "Snapods Earbuds",
+        "id": "B0F8J38VRR",
+        "filename": "B0F8J38VRR.mp4"
+      },
+      {
+        "nombre": "QooCam 8K 360 Camera",
+        "searchTermEn": "QooCam 8K 360 Camera",
+        "id": "B0CMQB3PW4",
+        "filename": "B0CMQB3PW4.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 5 Gadgets Asombrosos Financiados en Kickstarter\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\n\n\n[25s-35s] INTRODUCTION\n\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] SMART REUSABLE NOTEBOOK\n¿Cansado de llenar cuadernos de papel? Descubre el Smart Reusable Notebook. Su nuevo y mejorado núcleo ofrece papel reutilizable con una sensación inigualable al escribir. Su diseño resistente a rayones garantiza durabilidad; mientras que sus Smart Titles y Smart Tags te ayudan a organizar tus notas. Escribe con el bolígrafo Pilot Frixion. Digitaliza tus apuntes a la nube con la app Rocketbook. Limpia las páginas y reescribe; una y otra vez.\nSu precio actual ronda los veintiséis dólares. Link en comentarios.\n\n[VISUALS: Product image: Smart Reusable Notebook]\n\n[0:25] EKSTER PARLIAMENT WALLET\n¿Cansado de hurgar en tu antigua cartera? Ekster Parliament Wallet revoluciona el acceso a tus tarjetas con su mecanismo de expulsión patentado. Presiona un botón. Las tarjetas emergen al instante. La protección RFID previene robos inalámbricos; protege tus datos como nunca antes. Hecha a mano, con cuero premium y aluminio resistente, asegura durabilidad y estilo superior para tu día a día. Guarda hasta diez tarjetas mientras mantienes un perfil ultradelgado. Nunca pierdas tu billetera gracias a la compatibilidad con Ekster Tracker Card.\nSu precio actual ronda los noventa y nueve dólares. Link en comentarios.\n\n[VISUALS: Product image: Ekster Parliament Wallet]\n\n[0:25] NEBULA CAPSULE PROYECTOR\n¿Cansado de ver películas en pantallas pequeñas. aburrido? El Nebula Capsule Proyector transforma tu experiencia visual. con su diseño ultra-portátil y pantalla masiva de 120 pulgadas. Disfruta; de calidad cinematográfica a cualquier hora y lugar, gracias a su resolución de mil ochenta píxeles; y doscientos lúmenes de brillo. Simplemente; ábrelo, apunta, y disfruta del enfoque automático con ajuste en solo tres segundos. Mientras bajas la luces, su batería dura hasta ocho horas en modo económico. Vive el cine donde tú quieras.\nSu precio actual ronda los... 400 dólares. Link en comentarios.\n\n[VISUALS: Product image: Nebula Capsule Proyector]\n\n[0:25] SNAPODS EARBUDS\n¿Buscas calidad musical sin romper la cartera? Snapods Earbuds redefine tu experiencia auditiva. Con Bluetooth seis punto cero; emparejamiento más rápido y sonido equilibrado, conquistan con su diseño liviano. Solo cuatro gramos por auricular; comodidad todo el día sin presión. Llama o escucha, incluso bajo la lluvia; gracias a su resistencia IP56 al agua. Presiona play. Cambia entre dispositivos sin interrupciones. Disfruta de hasta cuarenta horas de reproducción continua.\nSu precio actual ronda los veinticinco dólares. Link en comentarios.\n\n[VISUALS: Product image: Snapods Earbuds]\n\n[0:25] QOOCAM 8K 360 CAMERA\n¿Crees que tus videos son impresionantes? La KanDao QooCam 8K lleva tus grabaciones al siguiente nivel. Con sensores duales de casi dos pulgadas, captura cada detalle. Su resolución de cinco puntos siete K a treinta frames por segundo garantiza calidad profesional. Enciende la QooCam; gira para explorar sin límites. Sumérgete con su resistencia al agua. Captura fotos panorámicas de sesenta y dos megapíxeles; ilumina la noche con su gran apertura Funo punto seis...\nSu precio actual ronda los... cuatrocientos setenta y nueve dólares. Link en comentarios.\n\n[VISUALS: Product image: QooCam 8K 360 Camera]\n\n[10 seconds] CONCLUSION\n\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 3:50\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, asombrosos, financiados, kickstarter\n"
+}

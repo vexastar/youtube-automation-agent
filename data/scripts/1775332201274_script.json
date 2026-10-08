@@ -1,0 +1,131 @@
+{
+  "title": "Top 3 Gadgets de Cocina que No Conocías",
+  "hook": {
+    "type": "statement",
+    "text": "¿Quieres transformar tu cocina con los gadgets más innovadores? Descubre estos productos que cambiarán tu forma de cocinar.",
+    "duration": "0:00-0:05"
+  },
+  "introduction": {
+    "greeting": "La cocina es el corazón del hogar, y hoy te traemos los 3 gadgets que revolucionarán tu manera de preparar alimentos. Desde eficiencia hasta innovación, estos productos son los secretos mejor guardados de los chefs modernos.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0:05-0:15"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Dispensador Automático de Aceite",
+        "content": [
+          "Comenzamos con el dispensador automático de aceite, un gadget que cambia el juego a la hora de cocinar. Imagina controlar exactamente la cantidad de aceite que usas con solo un toque. Este dispositivo es perfecto para aquellos que buscan cocinar de manera más saludable y precisa. Además, su diseño elegante se adapta a cualquier cocina moderna.",
+          "Consíguelo ahora por solo 23.99 dólares en el enlace de la descripción."
+        ],
+        "visuals": [
+          "Product image: Dispensador Automático de Aceite"
+        ],
+        "duration": 25
+      },
+      {
+        "type": "content",
+        "title": "Tabla de Cortar Digital",
+        "content": [
+          "En el puesto número dos, tenemos la tabla de cortar digital. No es una tabla cualquiera, ya que incorpora sensores que pesan tus ingredientes al instante y te ofrecen información nutricional. Ideal para los amantes de la cocina saludable y los que disfrutan de la tecnología en su día a día culinario.",
+          "Revisa su precio actualizado de 29.99 dólares en el primer comentario."
+        ],
+        "visuals": [
+          "Product image: Tabla de Cortar Digital"
+        ],
+        "duration": 25
+      },
+      {
+        "type": "content",
+        "title": "Pelador Eléctrico de Verduras",
+        "content": [
+          "Finalmente, el pelador eléctrico de verduras se lleva el primer lugar. Es un asistente indispensable para ahorrar tiempo en la cocina, pelando todo tipo de vegetales en segundos. Si odias perder tiempo pelando manualmente, este gadget es para ti. Su facilidad de uso y eficiencia te sorprenderán.",
+          "Te dejo el enlace con descuento por 29.19 dólares en la descripción."
+        ],
+        "visuals": [
+          "Product image: Pelador Eléctrico de Verduras"
+        ],
+        "duration": 25
+      }
+    ],
+    "totalDuration": 75
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "Espero que hayas disfrutado de este viaje por la innovación en la cocina. No olvides dejar un like si te ha gustado, suscribirte para más contenido y comentar cuál de estos gadgets te ha sorprendido más."
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:45",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "cocina",
+    "conocas"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 3 Gadgets de Cocina que No Conocías",
+      "angle": "Top 3 Gadgets de Cocina que No Conocías",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 3,
+      "introScript": "¿Un dispositivo que pela y corta tus verduras en segundos? ¿Una tabla de cortar que pesa tus ingredientes mientras cocinas? Descubre los gadgets de cocina que transformarán tu manera de preparar alimentos.",
+      "keywords": [
+        "gadgets",
+        "cocina",
+        "conocas"
+      ],
+      "estimatedViews": 4698,
+      "bestPublishTime": "2026-04-11T15:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Pelador eléctrico de verduras",
+          "searchTermEn": "electric vegetable peeler"
+        },
+        {
+          "nombre": "Tabla de cortar digital",
+          "searchTermEn": "digital cutting board scale"
+        },
+        {
+          "nombre": "Dispensador automático de aceite",
+          "searchTermEn": "automatic oil dispenser"
+        }
+      ],
+      "createdAt": "2026-04-04T19:47:38.083Z"
+    },
+    "generatedAt": "2026-04-04T19:50:01.140Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Pelador eléctrico de verduras",
+        "searchTermEn": "electric vegetable peeler"
+      },
+      {
+        "nombre": "Tabla de cortar digital",
+        "searchTermEn": "digital cutting board scale"
+      },
+      {
+        "nombre": "Dispensador automático de aceite",
+        "searchTermEn": "automatic oil dispenser"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 3 Gadgets de Cocina que No Conocías\n\n══════════════════════════════════════════════════\n\n[0:00-0:05] HOOK\n¿Quieres transformar tu cocina con los gadgets más innovadores? Descubre estos productos que cambiarán tu forma de cocinar.\n\n[0:05-0:15] INTRODUCTION\nLa cocina es el corazón del hogar, y hoy te traemos los 3 gadgets que revolucionarán tu manera de preparar alimentos. Desde eficiencia hasta innovación, estos productos son los secretos mejor guardados de los chefs modernos.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] DISPENSADOR AUTOMÁTICO DE ACEITE\nComenzamos con el dispensador automático de aceite, un gadget que cambia el juego a la hora de cocinar. Imagina controlar exactamente la cantidad de aceite que usas con solo un toque. Este dispositivo es perfecto para aquellos que buscan cocinar de manera más saludable y precisa. Además, su diseño elegante se adapta a cualquier cocina moderna.\nConsíguelo ahora por solo 23.99 dólares en el enlace de la descripción.\n\n[VISUALS: Product image: Dispensador Automático de Aceite]\n\n[0:25] TABLA DE CORTAR DIGITAL\nEn el puesto número dos, tenemos la tabla de cortar digital. No es una tabla cualquiera, ya que incorpora sensores que pesan tus ingredientes al instante y te ofrecen información nutricional. Ideal para los amantes de la cocina saludable y los que disfrutan de la tecnología en su día a día culinario.\nRevisa su precio actualizado de 29.99 dólares en el primer comentario.\n\n[VISUALS: Product image: Tabla de Cortar Digital]\n\n[0:25] PELADOR ELÉCTRICO DE VERDURAS\nFinalmente, el pelador eléctrico de verduras se lleva el primer lugar. Es un asistente indispensable para ahorrar tiempo en la cocina, pelando todo tipo de vegetales en segundos. Si odias perder tiempo pelando manualmente, este gadget es para ti. Su facilidad de uso y eficiencia te sorprenderán.\nTe dejo el enlace con descuento por 29.19 dólares en la descripción.\n\n[VISUALS: Product image: Pelador Eléctrico de Verduras]\n\n[10 seconds] CONCLUSION\nEspero que hayas disfrutado de este viaje por la innovación en la cocina. No olvides dejar un like si te ha gustado, suscribirte para más contenido y comentar cuál de estos gadgets te ha sorprendido más.\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:45\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, cocina, conocas\n"
+}

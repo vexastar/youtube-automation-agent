@@ -1,0 +1,167 @@
+{
+  "title": "Top 3 Gadgets de Amazon que Sorprenden DEMASIADO",
+  "hook": {
+    "type": "statement",
+    "text": "Este teclado proyecta letras sobre cualquier superficie. Un cine de bolsillo que cabe en tu mano. Energía solar portátil que se desenrolla en segundos.",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "Suscríbete, los links están en el primer comentario. Empecemos.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0:10-0:15"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Teclado láser AGS",
+        "productId": "B0F145ZPNT",
+        "productName": "Teclado láser AGS",
+        "filename": "B0F145ZPNT.mp4",
+        "content": [
+          "Escribir en pantallas táctiles puede ser tedioso y lento. Con el teclado láser AGS, proyecta un teclado completo en cualquier superficie. Es compacto y se conecta por Bluetooth a tus dispositivos.",
+          "Su precio actual en Amazon ronda los... 60 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Teclado láser AGS"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0F145ZPNT.mp4",
+        "precio": "$60",
+        "productPhoto": "https://m.media-amazon.com/images/I/51CIYAsaZeL.jpg"
+      },
+      {
+        "type": "content",
+        "title": "Mini proyector Anker Nebula",
+        "productId": "B0BCWNQPQ7",
+        "productName": "Mini proyector Anker Nebula",
+        "filename": "B0BCWNQPQ7.mp4",
+        "content": [
+          "Ver tus series favoritas en pantalla pequeña puede ser frustrante. El mini proyector Anker Nebula convierte cualquier pared en un cine personal. Es portátil y ofrece una imagen nítida de hasta 100 pulgadas.",
+          "Su precio actual en Amazon ronda los... 600 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Mini proyector Anker Nebula"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0BCWNQPQ7.mp4",
+        "precio": "$600",
+        "productPhoto": "https://m.media-amazon.com/images/I/619NJGBXTvL.jpg"
+      },
+      {
+        "type": "content",
+        "title": "Cargador solar Rollable",
+        "productId": "B07FDXDB3W",
+        "productName": "Cargador solar Rollable",
+        "filename": "B07FDXDB3W.mp4",
+        "content": [
+          "Quedarse sin batería al aire libre es un problema común. El cargador solar Rollable se desenrolla y capta energía del sol en cualquier lugar. Ligero y flexible, es ideal para aventuras al aire libre.",
+          "Su precio actual en Amazon ronda los... 27 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Cargador solar Rollable"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07FDXDB3W.mp4",
+        "precio": "$27",
+        "productPhoto": "https://m.media-amazon.com/images/I/81tlfqNVYWL.jpg"
+      }
+    ],
+    "totalDuration": 75
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "Dale like si te gustó y recuerda que los links están en el primer comentario."
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:45",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "amazon",
+    "sorprenden",
+    "demasiado"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 3 Gadgets de Amazon que Sorprenden DEMASIADO",
+      "angle": "Top 3 Gadgets de Amazon que Sorprenden DEMASIADO",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 3,
+      "introScript": "¿Un teclado que se proyecta en cualquier superficie? ¿Un proyector de bolsillo que cabe en tu mano? ¿Un cargador solar que se enrolla como un pergamino? Descubre estas maravillas tecnológicas que parecen sacadas del futuro pero ya están a la venta.",
+      "keywords": [
+        "gadgets",
+        "amazon",
+        "sorprenden",
+        "demasiado"
+      ],
+      "estimatedViews": 4065,
+      "bestPublishTime": "2026-05-01T20:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Teclado láser AGS",
+          "searchTermEn": "AGS laser projection keyboard",
+          "id": "B0F145ZPNT",
+          "filename": "B0F145ZPNT.mp4"
+        },
+        {
+          "nombre": "Mini proyector Anker Nebula",
+          "searchTermEn": "Anker Nebula Capsule",
+          "id": "B0BCWNQPQ7",
+          "filename": "B0BCWNQPQ7.mp4"
+        },
+        {
+          "nombre": "Cargador solar Rollable",
+          "searchTermEn": "rollable solar charger",
+          "id": "B07FDXDB3W",
+          "filename": "B07FDXDB3W.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-04-29T21:17:38.946Z",
+      "_requestedCount": 3,
+      "_adaptedCount": 3,
+      "_scriptNonce": "nonce_1777497644696_6yltrh"
+    },
+    "generatedAt": "2026-04-29T21:20:50.132Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Teclado láser AGS",
+        "searchTermEn": "AGS laser projection keyboard",
+        "id": "B0F145ZPNT",
+        "filename": "B0F145ZPNT.mp4"
+      },
+      {
+        "nombre": "Mini proyector Anker Nebula",
+        "searchTermEn": "Anker Nebula Capsule",
+        "id": "B0BCWNQPQ7",
+        "filename": "B0BCWNQPQ7.mp4"
+      },
+      {
+        "nombre": "Cargador solar Rollable",
+        "searchTermEn": "rollable solar charger",
+        "id": "B07FDXDB3W",
+        "filename": "B07FDXDB3W.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 3 Gadgets de Amazon que Sorprenden DEMASIADO\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\nEste teclado proyecta letras sobre cualquier superficie. Un cine de bolsillo que cabe en tu mano. Energía solar portátil que se desenrolla en segundos.\n\n[0:10-0:15] INTRODUCTION\nSuscríbete, los links están en el primer comentario. Empecemos.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] TECLADO LÁSER AGS\nEscribir en pantallas táctiles puede ser tedioso y lento. Con el teclado láser AGS, proyecta un teclado completo en cualquier superficie. Es compacto y se conecta por Bluetooth a tus dispositivos.\nSu precio actual en Amazon ronda los... 60 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Teclado láser AGS]\n\n[0:25] MINI PROYECTOR ANKER NEBULA\nVer tus series favoritas en pantalla pequeña puede ser frustrante. El mini proyector Anker Nebula convierte cualquier pared en un cine personal. Es portátil y ofrece una imagen nítida de hasta 100 pulgadas.\nSu precio actual en Amazon ronda los... 600 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Mini proyector Anker Nebula]\n\n[0:25] CARGADOR SOLAR ROLLABLE\nQuedarse sin batería al aire libre es un problema común. El cargador solar Rollable se desenrolla y capta energía del sol en cualquier lugar. Ligero y flexible, es ideal para aventuras al aire libre.\nSu precio actual en Amazon ronda los... 27 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Cargador solar Rollable]\n\n[10 seconds] CONCLUSION\nDale like si te gustó y recuerda que los links están en el primer comentario.\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:45\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, amazon, sorprenden, demasiado\n"
+}

@@ -1,0 +1,139 @@
+{
+  "title": "Top 3 Gadgets Imprescindibles para Tu Carro",
+  "hook": {
+    "type": "statement",
+    "text": "¿Quieres transformar la experiencia de estar en tu coche? ¡Quédate para descubrir cómo!",
+    "duration": "0:00-0:05"
+  },
+  "introduction": {
+    "greeting": "Hoy te traemos tres gadgets que no solo harán tu vida más fácil, sino que también te sorprenderán con su ingenio. Desde mantener tu carro limpio hasta asegurar que siempre estés conectado, estos productos son indispensables.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0:05-0:15"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Aspiradora portátil",
+        "content": [
+          "¿Te imaginas un dispositivo que puede eliminar esas migajas y polvo en segundos mientras estás en el camino? La aspiradora portátil es tu solución ideal para mantener tu carro impecable sin esfuerzo.",
+          "Consíguela por solo 35.99 dólares en Amazon, el enlace está en la descripción."
+        ],
+        "visuals": [
+          "Product image: Aspiradora portátil"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0FHQM1D6W.mp4",
+        "precio": "35.99"
+      },
+      {
+        "type": "content",
+        "title": "Cargador solar coche",
+        "content": [
+          "¿Alguna vez has quedado varado con una batería muerta y sin un enchufe a la vista? El cargador solar para coche te garantiza energía ilimitada utilizando solo la luz del sol.",
+          "Disponible por 35.99 dólares en Amazon, ¡no te quedes sin el tuyo!"
+        ],
+        "visuals": [
+          "Product image: Cargador solar coche"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07JLWFPX6.mp4",
+        "precio": "35.99"
+      },
+      {
+        "type": "content",
+        "title": "Soporte móvil magnético",
+        "content": [
+          "¿Y si te dijera que puedes tener tu móvil siempre a la vista y al alcance sin complicaciones? El soporte móvil magnético mantiene tu dispositivo seguro en cualquier viaje.",
+          "Puedes adquirirlo por 25.60 dólares en Amazon, ¡echa un vistazo al enlace en la descripción!"
+        ],
+        "visuals": [
+          "Product image: Soporte móvil magnético"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0DN1S1YLV.mp4",
+        "precio": "25.60"
+      }
+    ],
+    "totalDuration": 75
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "Espero que estos gadgets te hayan sorprendido tanto como a mí. No olvides darle like al video, suscribirte para más contenido y comentar cuál de estos productos te gustaría probar primero."
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:45",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "imprescindibles",
+    "para",
+    "carro"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 3 Gadgets Imprescindibles para Tu Carro",
+      "angle": "Top 3 Gadgets Imprescindibles para Tu Carro",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 3,
+      "introScript": "¿Una aspiradora que cabe en la guantera? ¿Un cargador solar que nunca te deja sin energía? Prepárate para transformar tu experiencia de viaje con estos sorprendentes gadgets para tu carro.",
+      "keywords": [
+        "gadgets",
+        "imprescindibles",
+        "para",
+        "carro"
+      ],
+      "estimatedViews": 5038,
+      "bestPublishTime": "2026-04-07T19:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Aspiradora portátil",
+          "searchTermEn": "portable car vacuum"
+        },
+        {
+          "nombre": "Cargador solar coche",
+          "searchTermEn": "solar car charger"
+        },
+        {
+          "nombre": "Soporte móvil magnético",
+          "searchTermEn": "magnetic phone car mount"
+        }
+      ],
+      "createdAt": "2026-04-06T18:02:31.113Z"
+    },
+    "generatedAt": "2026-04-06T18:05:05.890Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Aspiradora portátil",
+        "searchTermEn": "portable car vacuum"
+      },
+      {
+        "nombre": "Cargador solar coche",
+        "searchTermEn": "solar car charger"
+      },
+      {
+        "nombre": "Soporte móvil magnético",
+        "searchTermEn": "magnetic phone car mount"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 3 Gadgets Imprescindibles para Tu Carro\n\n══════════════════════════════════════════════════\n\n[0:00-0:05] HOOK\n¿Quieres transformar la experiencia de estar en tu coche? ¡Quédate para descubrir cómo!\n\n[0:05-0:15] INTRODUCTION\nHoy te traemos tres gadgets que no solo harán tu vida más fácil, sino que también te sorprenderán con su ingenio. Desde mantener tu carro limpio hasta asegurar que siempre estés conectado, estos productos son indispensables.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] ASPIRADORA PORTÁTIL\n¿Te imaginas un dispositivo que puede eliminar esas migajas y polvo en segundos mientras estás en el camino? La aspiradora portátil es tu solución ideal para mantener tu carro impecable sin esfuerzo.\nConsíguela por solo 35.99 dólares en Amazon, el enlace está en la descripción.\n\n[VISUALS: Product image: Aspiradora portátil]\n\n[0:25] CARGADOR SOLAR COCHE\n¿Alguna vez has quedado varado con una batería muerta y sin un enchufe a la vista? El cargador solar para coche te garantiza energía ilimitada utilizando solo la luz del sol.\nDisponible por 35.99 dólares en Amazon, ¡no te quedes sin el tuyo!\n\n[VISUALS: Product image: Cargador solar coche]\n\n[0:25] SOPORTE MÓVIL MAGNÉTICO\n¿Y si te dijera que puedes tener tu móvil siempre a la vista y al alcance sin complicaciones? El soporte móvil magnético mantiene tu dispositivo seguro en cualquier viaje.\nPuedes adquirirlo por 25.60 dólares en Amazon, ¡echa un vistazo al enlace en la descripción!\n\n[VISUALS: Product image: Soporte móvil magnético]\n\n[10 seconds] CONCLUSION\nEspero que estos gadgets te hayan sorprendido tanto como a mí. No olvides darle like al video, suscribirte para más contenido y comentar cuál de estos productos te gustaría probar primero.\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:45\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, imprescindibles, para, carro\n"
+}

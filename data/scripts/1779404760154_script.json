@@ -1,0 +1,631 @@
+{
+  "title": "Top 3 Gadgets Novedosos que Puedes Comprar en Amazon",
+  "hook": {
+    "type": "statement",
+    "text": "Carga hasta cuatro dispositivos a la vez. Proyecta una espectacular llama ambiental. Digitaliza tus notas con facilidad. Borra y reescribe con un paño húmedo. Ilumina cada rincón para tus videollamadas.",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "Suscríbete para más gadgets increíbles. Links de compra en el primer comentario.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0:10-0:15"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Ekster Parliament Wallet",
+        "productId": "B07PVMK5NJ",
+        "productName": "Ekster Parliament Wallet",
+        "filename": "B07PVMK5NJ.mp4",
+        "asin": "B07PVMK5NJ",
+        "clipDuration": 60.03,
+        "estimatedAudioSeconds": 50,
+        "framework": "enfoque_caracteristica",
+        "narracionSegments": null,
+        "content": [
+          "Con construcción de cuero premium y aluminio, el Ekster Parliament Wallet no solo permite un acceso rápido a tus tarjetas, sino que también protege contra robos inalámbricos con su protección RFID incorporada. Su diseño delgado puede almacenar hasta diez tarjetas sin perder su estilo compacto. Perfecto para quienes buscan almacenamiento y seguridad en un solo lugar.",
+          "Su precio actual en Amazon ronda los... 89 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Ekster Parliament Wallet"
+        ],
+        "duration": 25,
+        "precio": "$69",
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07PVMK5NJ_combined.mp4",
+        "productPhoto": "https://m.media-amazon.com/images/I/61GQ7PfGudL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07PVMK5NJ\\scenes_v1\\B07PVMK5NJ_scene_04.mp4",
+            "type": "video",
+            "score": 10,
+            "tag": "interacción real",
+            "raw": "10|interacción real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07PVMK5NJ\\scenes_v1\\B07PVMK5NJ_scene_10.mp4",
+            "type": "video",
+            "score": 10,
+            "tag": "interacción real",
+            "raw": "10|interacción real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07PVMK5NJ\\scenes_v1\\B07PVMK5NJ_scene_12.mp4",
+            "type": "video",
+            "score": 10,
+            "tag": "interacción real",
+            "raw": "10|interacción real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07PVMK5NJ\\scenes_v1\\B07PVMK5NJ_scene_03.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07PVMK5NJ\\scenes_v1\\B07PVMK5NJ_scene_05.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "cartera minimalista",
+            "raw": "9|cartera minimalista"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07PVMK5NJ\\scenes_v1\\B07PVMK5NJ_scene_08.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "cartera minimalista",
+            "raw": "9|cartera minimalista"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07PVMK5NJ\\scenes_v1\\B07PVMK5NJ_scene_13.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "cartera minimalista",
+            "raw": "9|cartera minimalista"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07PVMK5NJ\\scenes_v1\\B07PVMK5NJ_scene_14.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "carteras en manos",
+            "raw": "9|carteras en manos"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07PVMK5NJ\\scenes_v1\\B07PVMK5NJ_scene_15.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "cartera minimalista",
+            "raw": "9|cartera minimalista"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07PVMK5NJ\\scenes_v1\\B07PVMK5NJ_scene_02.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "cartera minimalista",
+            "raw": "8|cartera minimalista"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07PVMK5NJ\\scenes_v1\\B07PVMK5NJ_scene_16.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Billetera minimalista",
+            "raw": "8|Billetera minimalista"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07PVMK5NJ\\scenes_v1\\B07PVMK5NJ_scene_11.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "cartera minimalista",
+            "raw": "5|cartera minimalista"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07PVMK5NJ\\scenes_v2\\B07PVMK5NJ_v2_scene_01.mp4",
+            "type": "video",
+            "score": 10,
+            "tag": "cartera minimalista",
+            "raw": "10|cartera minimalista"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07PVMK5NJ\\scenes_v3\\B07PVMK5NJ_v3_scene_01.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "cartera minimalista",
+            "raw": "8|cartera minimalista"
+          }
+        ],
+        "features": [
+          "The Next Generation Wallet: This minimalist wallet for men gives you easier access to your cards and comes with built in rfid data protection to prevent wireless theft. Forget about rummaging through a bifold wallet, by using our patented card ejection mechanism, you can instantly pop out your cards at the click of a button.",
+          "Sustainable Materials: The Ekster Parliament leather wallet is a men’s metal trigger wallet handcrafted from premium top-grain leather, tanned under silver-rated Lwg-certified protocols, and 6063 T5 Aluminium. Durably designed for daily use, this mens wallet slim design requires minimal upkeep to for a lifetime of use.",
+          "Slim Storage: Store up to 10+ cards, fitting 4-6 in the data protected cardholder while keeping a slim profile. You can also store extras in the cash strap and additional hidden pockets. The Parliament minimalist wallet for men is compact and slim without sacrificing storage space.",
+          "Make It Unloseable: Perfectly fits the Ekster Tracker Card to make sure you never lose your wallet again. Misplaced or lost your Ekster? Ring it from your phone or see where you last had it on a map. Tracking device is sold separately and works with any model; the Ekster Parliament, Ekster Aluminum Cardholder or Ekster Senate mens wallets.",
+          "Our Promise: We create better gear for life on the move and your satisfaction is our top priority; if we don’t meet your expectations just send it back. Depending on the number of cards and bills stored in the wallet, the flap may not close entirely in the first weeks of use. After 1-2 weeks of usage, your wallet will take the natural shape of your pocket and will remain closed naturally."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Snapods",
+        "productId": "B0FKSV2GW2",
+        "productName": "Snapods",
+        "filename": "B0FKSV2GW2.mp4",
+        "asin": "B0FKSV2GW2",
+        "clipDuration": 60.06,
+        "estimatedAudioSeconds": null,
+        "framework": "comparacion_precio",
+        "narracionSegments": null,
+        "content": [
+          "",
+          ""
+        ],
+        "visuals": [
+          "Product image: Snapods"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0FKSV2GW2_combined.mp4",
+        "precio": "$14",
+        "productPhoto": "https://m.media-amazon.com/images/I/61R-NgdII1L.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": []
+      },
+      {
+        "type": "content",
+        "title": "Nebula Capsule",
+        "productId": "B0BCWNQPQ7",
+        "productName": "Nebula Capsule",
+        "filename": "B0BCWNQPQ7.mp4",
+        "asin": "B0BCWNQPQ7",
+        "clipDuration": 60.03,
+        "estimatedAudioSeconds": null,
+        "framework": "dato_numerico",
+        "narracionSegments": null,
+        "content": [
+          "",
+          ""
+        ],
+        "visuals": [
+          "Product image: Nebula Capsule"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0BCWNQPQ7_combined.mp4",
+        "precio": "$540",
+        "productPhoto": "https://m.media-amazon.com/images/I/619NJGBXTvL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BCWNQPQ7\\scenes_v1\\B0BCWNQPQ7_scene_03.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "proyector portátil",
+            "raw": "9|proyector portátil"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BCWNQPQ7\\scenes_v1\\B0BCWNQPQ7_scene_02.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Proyector portátil",
+            "raw": "9|Proyector portátil"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BCWNQPQ7\\scenes_v1\\B0BCWNQPQ7_scene_04.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "proyector portátil",
+            "raw": "9|proyector portátil"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BCWNQPQ7\\scenes_v1\\B0BCWNQPQ7_scene_05.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Proyector portátil",
+            "raw": "9|Proyector portátil"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BCWNQPQ7\\scenes_v1\\B0BCWNQPQ7_scene_08.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "proyector láser",
+            "raw": "9|proyector láser"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BCWNQPQ7\\scenes_v1\\B0BCWNQPQ7_scene_07.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "proyector encendido",
+            "raw": "9|proyector encendido"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BCWNQPQ7\\scenes_v1\\B0BCWNQPQ7_scene_09.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "proyector láser",
+            "raw": "9|proyector láser"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BCWNQPQ7\\scenes_v1\\B0BCWNQPQ7_scene_12.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "proyector exterior",
+            "raw": "9|proyector exterior"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BCWNQPQ7\\scenes_v1\\B0BCWNQPQ7_scene_13.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "proyector láser",
+            "raw": "9|proyector láser"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BCWNQPQ7\\scenes_v1\\B0BCWNQPQ7_scene_17.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "proyector láser",
+            "raw": "9|proyector láser"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BCWNQPQ7\\scenes_v1\\B0BCWNQPQ7_scene_22.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "proyector láser",
+            "raw": "9|proyector láser"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BCWNQPQ7\\scenes_v1\\B0BCWNQPQ7_scene_23.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "proyector láser",
+            "raw": "9|proyector láser"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BCWNQPQ7\\scenes_v1\\B0BCWNQPQ7_scene_01.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "proyector láser",
+            "raw": "8|proyector láser"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BCWNQPQ7\\scenes_v1\\B0BCWNQPQ7_scene_25.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "proyector portátil",
+            "raw": "8|proyector portátil"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BCWNQPQ7\\scenes_v1\\B0BCWNQPQ7_scene_26.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "proyector portátil",
+            "raw": "8|proyector portátil"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BCWNQPQ7\\scenes_v1\\B0BCWNQPQ7_scene_19.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "proyector borroso",
+            "raw": "5|proyector borroso"
+          }
+        ],
+        "features": [
+          "Laser Engine to Illuminate Your World: Experience vibrant visuals with this laser projector, featuring a laser light source delivering 300 ANSI Lumens of brightness in 1080p HD, ensuring your images stay bright and clear.",
+          "Travel Light, Project Big: At just 2 lb (900 g) and 90% smaller than others with similar brightness, NEBULA Capsule 3 Laser projects up to a 120-inch screen and easily slips into your bag for presentations or movie nights anywhere.",
+          "Marathon Viewing Sessions: Watch a full 2.5-hour movie or listen to 8 hours of music on a single charge with Capsule 3 Laser, making it perfect for extended viewing. It supports PD charging, so you can easily use a power bank for convenient portable charging on the go.",
+          "Get All the Content You Need: Elevate your entertainment with Google TV, Google Assistant, Google Cast, and officially-licensed Netflix.",
+          "Sound That Surrounds: 8W Dolby Digital speakers fill the room with crisp, immersive audio, making every viewing a sonic delight with this Capsule 3 laser projector."
+        ]
+      }
+    ],
+    "totalDuration": 75
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      null
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "2:10",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "novedosos",
+    "puedes",
+    "comprar",
+    "amazon"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 20 Gadgets Novedosos que Puedes Comprar en Amazon",
+      "angle": "Top 20 Gadgets Novedosos que Puedes Comprar en Amazon",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 20,
+      "introScript": "¿Un gadget que congela tu bebida en 60 segundos? ¿Una lámpara que flota en el aire? Hoy te traigo los inventos más locos que puedes comprar ahora mismo. Desde teclados virtuales hasta impresoras portátiles. Todo al alcance de un clic. Mantente atento, porque estos dispositivos están revolucionando la forma en que interactuamos con el mundo.",
+      "keywords": [
+        "gadgets",
+        "novedosos",
+        "puedes",
+        "comprar",
+        "amazon"
+      ],
+      "estimatedViews": 4567,
+      "bestPublishTime": "2026-05-28T19:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Ekster Parliament Wallet",
+          "searchTermEn": "Ekster Parliament Wallet",
+          "id": "B07PVMK5NJ",
+          "filename": "B07PVMK5NJ.mp4"
+        },
+        {
+          "nombre": "Rocketbook Smart Notebook",
+          "searchTermEn": "Rocketbook Smart Notebook",
+          "id": "B0DP3J346V",
+          "filename": "B0DP3J346V.mp4"
+        },
+        {
+          "nombre": "Snapods",
+          "searchTermEn": "Snapods magnetic earbuds",
+          "id": "B0FKSV2GW2",
+          "filename": "B0FKSV2GW2.mp4"
+        },
+        {
+          "nombre": "Nebula Capsule",
+          "searchTermEn": "Nebula Capsule projector",
+          "id": "B0BCWNQPQ7",
+          "filename": "B0BCWNQPQ7.mp4"
+        },
+        {
+          "nombre": "Lámpara magnética levitación",
+          "searchTermEn": "magnetic levitation lamp",
+          "id": "B09833QPYR",
+          "filename": "B09833QPYR.mp4"
+        },
+        {
+          "nombre": "Teclado láser virtual",
+          "searchTermEn": "virtual laser keyboard",
+          "id": "B0DGGJVWVR",
+          "filename": "B0DGGJVWVR.mp4"
+        },
+        {
+          "nombre": "Tile Pro",
+          "searchTermEn": "Tile Pro tracker",
+          "id": "B0D636MDW7",
+          "filename": "B0D636MDW7.mp4"
+        },
+        {
+          "nombre": "Oura Ring",
+          "searchTermEn": "Oura Ring fitness tracker",
+          "id": "B0D9WWB3WX",
+          "filename": "B0D9WWB3WX.mp4"
+        },
+        {
+          "nombre": "Nomad Base Station",
+          "searchTermEn": "Nomad Base Station Hub",
+          "id": "B0FM8KGLJV",
+          "filename": "B0FM8KGLJV.mp4"
+        },
+        {
+          "nombre": "Aqara Smart Hub",
+          "searchTermEn": "Aqara Smart Hub",
+          "id": "B0CWLHSKYC",
+          "filename": "B0CWLHSKYC.mp4"
+        },
+        {
+          "nombre": "Govee LED Strip Lights",
+          "searchTermEn": "Govee LED Strip Lights",
+          "id": "B0991Q94KP",
+          "filename": "B0991Q94KP.mp4"
+        },
+        {
+          "nombre": "Anker PowerCore 10000",
+          "searchTermEn": "Anker PowerCore 10000",
+          "id": "B0D12T6R7M",
+          "filename": "B0D12T6R7M.mp4"
+        },
+        {
+          "nombre": "Portable Blender PopBabies",
+          "searchTermEn": "PopBabies Portable Blender",
+          "id": "B0CXDLCVJV",
+          "filename": "B0CXDLCVJV.mp4"
+        },
+        {
+          "nombre": "Humidificador de llama",
+          "searchTermEn": "flame humidifier",
+          "id": "B0C2VZXQYV",
+          "filename": "B0C2VZXQYV.mp4"
+        },
+        {
+          "nombre": "Wacaco Nanopresso",
+          "searchTermEn": "Wacaco Nanopresso portable espresso",
+          "id": "B0797T2FYL",
+          "filename": "B0797T2FYL.mp4"
+        },
+        {
+          "nombre": "Smart Reusable Notebook",
+          "searchTermEn": "smart reusable notebook",
+          "id": "B0DP3HLY4J",
+          "filename": "B0DP3HLY4J.mp4"
+        },
+        {
+          "nombre": "Litra Glow Logitech",
+          "searchTermEn": "Litra Glow streaming light",
+          "id": "B0DGPVLHD5",
+          "filename": "B0DGPVLHD5.mp4"
+        },
+        {
+          "nombre": "Impresora portátil Kodak",
+          "searchTermEn": "Kodak Step Printer",
+          "id": "B08C72V1LB",
+          "filename": "B08C72V1LB.mp4"
+        },
+        {
+          "nombre": "Amazfit Bip U Pro",
+          "searchTermEn": "Amazfit Bip U Pro",
+          "id": "B0DYJKTHYF",
+          "filename": "B0DYJKTHYF.mp4"
+        },
+        {
+          "nombre": "Muama Enence Translator",
+          "searchTermEn": "Muama Enence Instant Translator",
+          "id": "B0GVH6V2DV",
+          "filename": "B0GVH6V2DV.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-05-21T21:40:13.281Z",
+      "_requestedCount": 20,
+      "_adaptedCount": 20,
+      "introProductsOrder": [],
+      "_scriptNonce": "nonce_1779404634009_07ohm6"
+    },
+    "generatedAt": "2026-05-21T23:05:38.597Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Ekster Parliament Wallet",
+        "searchTermEn": "Ekster Parliament Wallet",
+        "id": "B07PVMK5NJ",
+        "filename": "B07PVMK5NJ.mp4"
+      },
+      {
+        "nombre": "Rocketbook Smart Notebook",
+        "searchTermEn": "Rocketbook Smart Notebook",
+        "id": "B0DP3J346V",
+        "filename": "B0DP3J346V.mp4"
+      },
+      {
+        "nombre": "Snapods",
+        "searchTermEn": "Snapods magnetic earbuds",
+        "id": "B0FKSV2GW2",
+        "filename": "B0FKSV2GW2.mp4"
+      },
+      {
+        "nombre": "Nebula Capsule",
+        "searchTermEn": "Nebula Capsule projector",
+        "id": "B0BCWNQPQ7",
+        "filename": "B0BCWNQPQ7.mp4"
+      },
+      {
+        "nombre": "Lámpara magnética levitación",
+        "searchTermEn": "magnetic levitation lamp",
+        "id": "B09833QPYR",
+        "filename": "B09833QPYR.mp4"
+      },
+      {
+        "nombre": "Teclado láser virtual",
+        "searchTermEn": "virtual laser keyboard",
+        "id": "B0DGGJVWVR",
+        "filename": "B0DGGJVWVR.mp4"
+      },
+      {
+        "nombre": "Tile Pro",
+        "searchTermEn": "Tile Pro tracker",
+        "id": "B0D636MDW7",
+        "filename": "B0D636MDW7.mp4"
+      },
+      {
+        "nombre": "Oura Ring",
+        "searchTermEn": "Oura Ring fitness tracker",
+        "id": "B0D9WWB3WX",
+        "filename": "B0D9WWB3WX.mp4"
+      },
+      {
+        "nombre": "Nomad Base Station",
+        "searchTermEn": "Nomad Base Station Hub",
+        "id": "B0FM8KGLJV",
+        "filename": "B0FM8KGLJV.mp4"
+      },
+      {
+        "nombre": "Aqara Smart Hub",
+        "searchTermEn": "Aqara Smart Hub",
+        "id": "B0CWLHSKYC",
+        "filename": "B0CWLHSKYC.mp4"
+      },
+      {
+        "nombre": "Govee LED Strip Lights",
+        "searchTermEn": "Govee LED Strip Lights",
+        "id": "B0991Q94KP",
+        "filename": "B0991Q94KP.mp4"
+      },
+      {
+        "nombre": "Anker PowerCore 10000",
+        "searchTermEn": "Anker PowerCore 10000",
+        "id": "B0D12T6R7M",
+        "filename": "B0D12T6R7M.mp4"
+      },
+      {
+        "nombre": "Portable Blender PopBabies",
+        "searchTermEn": "PopBabies Portable Blender",
+        "id": "B0CXDLCVJV",
+        "filename": "B0CXDLCVJV.mp4"
+      },
+      {
+        "nombre": "Humidificador de llama",
+        "searchTermEn": "flame humidifier",
+        "id": "B0C2VZXQYV",
+        "filename": "B0C2VZXQYV.mp4"
+      },
+      {
+        "nombre": "Wacaco Nanopresso",
+        "searchTermEn": "Wacaco Nanopresso portable espresso",
+        "id": "B0797T2FYL",
+        "filename": "B0797T2FYL.mp4"
+      },
+      {
+        "nombre": "Smart Reusable Notebook",
+        "searchTermEn": "smart reusable notebook",
+        "id": "B0DP3HLY4J",
+        "filename": "B0DP3HLY4J.mp4"
+      },
+      {
+        "nombre": "Litra Glow Logitech",
+        "searchTermEn": "Litra Glow streaming light",
+        "id": "B0DGPVLHD5",
+        "filename": "B0DGPVLHD5.mp4"
+      },
+      {
+        "nombre": "Impresora portátil Kodak",
+        "searchTermEn": "Kodak Step Printer",
+        "id": "B08C72V1LB",
+        "filename": "B08C72V1LB.mp4"
+      },
+      {
+        "nombre": "Amazfit Bip U Pro",
+        "searchTermEn": "Amazfit Bip U Pro",
+        "id": "B0DYJKTHYF",
+        "filename": "B0DYJKTHYF.mp4"
+      },
+      {
+        "nombre": "Muama Enence Translator",
+        "searchTermEn": "Muama Enence Instant Translator",
+        "id": "B0GVH6V2DV",
+        "filename": "B0GVH6V2DV.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 20 Gadgets Novedosos que Puedes Comprar en Amazon\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\nCarga hasta cuatro dispositivos a la vez. Proyecta una espectacular llama ambiental. Digitaliza tus notas con facilidad. Borra y reescribe con un paño húmedo. Ilumina cada rincón para tus videollamadas.\n\n[0:10-0:15] INTRODUCTION\nSuscríbete para más gadgets increíbles. Links de compra en el primer comentario.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] EKSTER PARLIAMENT WALLET\nCon construcción de cuero premium y aluminio, el Ekster Parliament Wallet no solo permite un acceso rápido a tus tarjetas, sino que también protege contra robos inalámbricos con su protección RFID incorporada. Su diseño delgado puede almacenar hasta diez tarjetas sin perder su estilo compacto. Perfecto para quienes buscan almacenamiento y seguridad en un solo lugar.\nSu precio actual en Amazon ronda los... 89 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Ekster Parliament Wallet]\n\n[0:25] ROCKETBOOK SMART NOTEBOOK\nMuchos subestiman el Rocketbook Smart Notebook, pero su secreto radica en la capacidad de digitalizar y reutilizar sus páginas infinitamente. Guarda tus notas en la nube y luego límpialas para nuevas ideas usando solo agua. Olvida las pilas de cuadernos usados.\nSu precio actual en Amazon ronda los... 35 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Rocketbook Smart Notebook]\n\n[0:25] SNAPODS\n\n\n\n[VISUALS: Product image: Snapods]\n\n[0:25] NEBULA CAPSULE\n\n\n\n[VISUALS: Product image: Nebula Capsule]\n\n[10 seconds] CONCLUSION\nundefined\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 2:10\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, novedosos, puedes, comprar, amazon\n"
+}

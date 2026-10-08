@@ -1,0 +1,557 @@
+{
+  "title": "Top 3 gadgets que todo arquitecto necesita",
+  "hook": {
+    "type": "statement",
+    "text": "Un lápiz escanea textos al instante. Un robot inteligente reconoce caras y responde.",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "Suscríbete, los links están en el primer comentario. Empecemos.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0:10-0:15"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Vector Robot AI",
+        "productId": "B07G3ZNK4Y",
+        "productName": "Vector Robot AI",
+        "filename": "B07G3ZNK4Y.mp4",
+        "asin": "B07G3ZNK4Y",
+        "clipDuration": 94.56,
+        "estimatedAudioSeconds": 95,
+        "framework": "enfoque_caracteristica",
+        "narracionSegments": null,
+        "content": [
+          "Con su cámara HD y sensores avanzados, el Vector Robot AI mapea en tiempo real, reconoce rostros y esquiva obstáculos. Este robot ya no necesita un control remoto, ya que su tecnología autónoma lo hace reaccionar de forma independiente. Ahora, con la integración de ChatGPT, Vector no solo responde preguntas complejas, sino que también participa en conversaciones significativas en múltiples idiomas, desde inglés hasta alemán. Imagina un compañero inteligente que interactúa con su entorno y te acompaña en tu día a día.",
+          "Su precio actual en Amazon ronda los... 200 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Vector Robot AI"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07G3ZNK4Y_combined.mp4",
+        "precio": "$200",
+        "productPhoto": "https://m.media-amazon.com/images/I/71bIxyJiH6L.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07G3ZNK4Y\\scenes_v1\\B07G3ZNK4Y_scene_06.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Interacción clara",
+            "raw": "9|Interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07G3ZNK4Y\\scenes_v1\\B07G3ZNK4Y_scene_14.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07G3ZNK4Y\\scenes_v2\\B07G3ZNK4Y_v2_scene_01.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Vector cargando",
+            "raw": "9|Vector cargando"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07G3ZNK4Y\\scenes_v2\\B07G3ZNK4Y_v2_scene_03.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Robot autónomo",
+            "raw": "9|Robot autónomo"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07G3ZNK4Y\\scenes_v3\\B07G3ZNK4Y_v3_scene_01.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Robot autónomo",
+            "raw": "9|Robot autónomo"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07G3ZNK4Y\\scenes_v1\\B07G3ZNK4Y_scene_12.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Vector autónomo",
+            "raw": "8|Vector autónomo"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07G3ZNK4Y\\scenes_v1\\B07G3ZNK4Y_scene_16.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Robot autónomo",
+            "raw": "8|Robot autónomo"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07G3ZNK4Y\\scenes_v1\\B07G3ZNK4Y_scene_03.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "producto pequeño",
+            "raw": "5|producto pequeño"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07G3ZNK4Y\\scenes_v1\\B07G3ZNK4Y_scene_02.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "robot pequeño",
+            "raw": "5|robot pequeño"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07G3ZNK4Y\\scenes_v1\\B07G3ZNK4Y_scene_04.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "cargador Vector",
+            "raw": "5|cargador Vector"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07G3ZNK4Y\\scenes_v1\\B07G3ZNK4Y_scene_05.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "Interacción móvil",
+            "raw": "5|Interacción móvil"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07G3ZNK4Y\\scenes_v1\\B07G3ZNK4Y_scene_07.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "interacción parcial",
+            "raw": "5|interacción parcial"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07G3ZNK4Y\\scenes_v1\\B07G3ZNK4Y_scene_09.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "interacción móvil",
+            "raw": "5|interacción móvil"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07G3ZNK4Y\\scenes_v1\\B07G3ZNK4Y_scene_10.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "actualización Vector",
+            "raw": "5|actualización Vector"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07G3ZNK4Y\\scenes_v1\\B07G3ZNK4Y_scene_13.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "interacción móvil",
+            "raw": "5|interacción móvil"
+          }
+        ],
+        "features": [
+          "AI-Powered & Fully Autonomous: Vector navigates, recognizes faces, and reacts to his surroundings with lifelike independence — no remote control required.",
+          "Now Connected to ChatGPT (subscription required): Experience a new level of conversation! With ChatGPT integration, Vector can answer complex questions, hold meaningful chats, and offer more natural and intelligent responses.",
+          "Multilingual Support: Vector can now understand and speak in multiple languages, making him the perfect smart companion for global households and language learners. Vector can chat in English, Spanish, French, German, and more! Say “Hey Vector.”",
+          "Smart Camera & Sensors: Built with an HD camera and advanced sensors for real-time mapping, facial recognition, and obstacle detection.",
+          "Expressive Personality: Watch Vector come to life with animated eyes, emotions, and playful reactions that evolve as you interact with him."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Scanmarker Air Pen",
+        "productId": "B01N07J2AE",
+        "productName": "Scanmarker Air Pen",
+        "filename": "B01N07J2AE.mp4",
+        "asin": "B01N07J2AE",
+        "clipDuration": 15.92,
+        "estimatedAudioSeconds": 12,
+        "framework": "beneficio_oculto",
+        "narracionSegments": null,
+        "content": [
+          "Este lápiz traduce mientras escanea, perfecto para estudiantes y viajeros.",
+          "Su precio actual en Amazon ronda los... 149 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Scanmarker Air Pen"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B01N07J2AE_combined.mp4",
+        "precio": "$149",
+        "productPhoto": "https://m.media-amazon.com/images/I/81Pt5bqJ22L.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01N07J2AE\\scenes_v2\\B01N07J2AE_v2_scene_01.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "escáner portátil",
+            "raw": "9|escáner portátil"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01N07J2AE\\scenes_v1\\B01N07J2AE_scene_01.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "escáner portátil",
+            "raw": "9|escáner portátil"
+          }
+        ],
+        "features": [
+          "SAVE TIME & BOOST PRODUCTIVITY: Create summaries faster than ever! Simply open the web app, connect your pen scanner, and slide it across a line of printed text — watch it appear instantly on your screen! This versatile scanner pen is perfect for busy students and professionals. Note: Connection to a computer or mobile device is required to operate the scanner.",
+          "POWERFUL LANGUAGE TRANSLATOR DEVICE: Enjoy accurate and rapid multilingual OCR scanning. This translation pen supports over 140 languages, seamlessly integrating into our web app or applications like Microsoft Word. Whether you need a pen translator for travel or academic use, the Scanmarker Air is your go-to tool.",
+          "TEXT TO SPEECH FOR ENHANCED LEARNING: The Scanmarker app reads the text aloud in real-time while scanning! Perfect for memorization and reading comprehension, this reader pen also serves as an effective assistive tool for those with dyslexia or reading difficulties. Ideal as a reading pen for dyslexia or any learning challenge.",
+          "ULTRA PORTABLE & CONVENIENT: Scan and edit on the go! The Scanmarker Air is a lightweight, wireless translator pen, designed for ultimate portability. Easily connect to computers, smartphones, or tablets via Bluetooth 4.0 or higher, making it ideal for scanning, translating, and editing anywhere.",
+          "FREE SUPPORT & 1-YEAR WARRANTY: Questions or concerns? We offer free software updates and 24/7 technical support for the lifetime of your product. With no hidden fees, we also provide a full one-year warranty, ensuring peace of mind with every purchase."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Ruler Digital Ink",
+        "productId": "B0CC21YWJ8",
+        "productName": "Ruler Digital Ink",
+        "filename": "B0CC21YWJ8.mp4",
+        "asin": "B0CC21YWJ8",
+        "clipDuration": 100.1,
+        "estimatedAudioSeconds": 100,
+        "framework": "problema_solucion",
+        "narracionSegments": null,
+        "content": [
+          "¿Cansado de buscar la escala perfecta en tus mediciones? El Ruler Digital Ink ofrece 93 escalas integradas y permite crear ilimitadas escalas personalizadas, ideal para arquitectos y diseñadores. Además, con su función de divisor de espacio, puedes segmentar cualquier distancia sin complicadas cuentas. Y no solo mide: su aplicación gratuita vía Bluetooth transfiere datos a tu smartphone para editar y compartir en formatos como CAD o PDF. Este dispositivo transforma la manera en que gestionas tus proyectos.",
+          "Su precio actual en Amazon ronda los... 110 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Ruler Digital Ink"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0CC21YWJ8_combined.mp4",
+        "precio": "$110",
+        "productPhoto": "https://m.media-amazon.com/images/I/71Vmv9SmroL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CC21YWJ8\\scenes_v1\\B0CC21YWJ8_scene_02.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CC21YWJ8\\scenes_v1\\B0CC21YWJ8_scene_01.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CC21YWJ8\\scenes_v1\\B0CC21YWJ8_scene_04.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "pantalla encendida",
+            "raw": "9|pantalla encendida"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CC21YWJ8\\scenes_v1\\B0CC21YWJ8_scene_06.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "pantalla encendida",
+            "raw": "9|pantalla encendida"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CC21YWJ8\\scenes_v1\\B0CC21YWJ8_scene_05.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "pantalla encendida",
+            "raw": "9|pantalla encendida"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CC21YWJ8\\scenes_v1\\B0CC21YWJ8_scene_07.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CC21YWJ8\\scenes_v1\\B0CC21YWJ8_scene_08.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CC21YWJ8\\scenes_v1\\B0CC21YWJ8_scene_09.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CC21YWJ8\\scenes_v2\\B0CC21YWJ8_v2_scene_02.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "regla digital",
+            "raw": "9|regla digital"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CC21YWJ8\\scenes_v2\\B0CC21YWJ8_v2_scene_03.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CC21YWJ8\\scenes_v2\\B0CC21YWJ8_v2_scene_04.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CC21YWJ8\\scenes_v2\\B0CC21YWJ8_v2_scene_07.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CC21YWJ8\\scenes_v2\\B0CC21YWJ8_v2_scene_09.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CC21YWJ8\\scenes_v2\\B0CC21YWJ8_v2_scene_13.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "pantalla encendida",
+            "raw": "9|pantalla encendida"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CC21YWJ8\\scenes_v2\\B0CC21YWJ8_v2_scene_14.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CC21YWJ8\\scenes_v2\\B0CC21YWJ8_v2_scene_20.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "pantalla encendida",
+            "raw": "9|pantalla encendida"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CC21YWJ8\\scenes_v2\\B0CC21YWJ8_v2_scene_24.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CC21YWJ8\\scenes_v2\\B0CC21YWJ8_v2_scene_25.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CC21YWJ8\\scenes_v2\\B0CC21YWJ8_v2_scene_26.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CC21YWJ8\\scenes_v2\\B0CC21YWJ8_v2_scene_28.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "regla digital",
+            "raw": "9|regla digital"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CC21YWJ8\\scenes_v2\\B0CC21YWJ8_v2_scene_30.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CC21YWJ8\\scenes_v2\\B0CC21YWJ8_v2_scene_34.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CC21YWJ8\\scenes_v2\\B0CC21YWJ8_v2_scene_36.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "regla digital",
+            "raw": "9|regla digital"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CC21YWJ8\\scenes_v2\\B0CC21YWJ8_v2_scene_54.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CC21YWJ8\\scenes_v2\\B0CC21YWJ8_v2_scene_60.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CC21YWJ8\\scenes_v2\\B0CC21YWJ8_v2_scene_67.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CC21YWJ8\\scenes_v1\\B0CC21YWJ8_scene_03.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "regla digital",
+            "raw": "8|regla digital"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CC21YWJ8\\scenes_v2\\B0CC21YWJ8_v2_scene_22.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "regla digital",
+            "raw": "8|regla digital"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CC21YWJ8\\scenes_v2\\B0CC21YWJ8_v2_scene_11.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "producto pequeño",
+            "raw": "5|producto pequeño"
+          }
+        ],
+        "features": [
+          "93 BUILT-IN SCALES: NeoRuler provides 93 built-in scales for maximum versatility. Multiple units; decimal feet, feet-inches, decimal inches, yards, millimeters, meters, kilometers",
+          "CUSTOMIZE INFINITE SCALES: NeoRuler allows you to define unlimited scales when missing or out-of-plan scales. Perfect match for work of architect, interior designer, civil engineers, real estate, and any DIY projects.",
+          "SPACE DIVIDER: Equally divide space quickly to any length without any calculation, and divides a certain distance into 2-12 sections with LED light indicator on NeoRuler.",
+          "FREE APP via BLUETOOTH: Transfer measured data to MEAZOR APP and continue further editing & drawing to track data. Export to CAD files dxf. pdf. jpg. to share at ease. Create and save unlimited scale lists on MEAZOR APP and upload them on NeoRuler anytime.",
+          "MODULAR DESIGN:5 sets of modules to assist with reading, drafting, collecting, and even transforming into a scale caliper(Need to Purchase Additional Accessories）"
+        ]
+      }
+    ],
+    "totalDuration": 75
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "¡Dale like y recuerda que los links están en el primer comentario!"
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:45",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "todo",
+    "arquitecto",
+    "necesita"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 3 gadgets que todo arquitecto necesita",
+      "angle": "Top 3 gadgets que todo arquitecto necesita",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 3,
+      "introScript": "Herramientas de diseño que caben en tu bolsillo y dispositivos que transforman planos en realidad. Estos son los gadgets imprescindibles que todo arquitecto querrá tener. Prepárate para descubrir las innovaciones más útiles para dar vida a tus proyectos.",
+      "keywords": [
+        "gadgets",
+        "todo",
+        "arquitecto",
+        "necesita"
+      ],
+      "estimatedViews": 5128,
+      "bestPublishTime": "2026-05-14T19:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Vector Robot AI",
+          "searchTermEn": "Anki Vector Robot AI",
+          "id": "B07G3ZNK4Y",
+          "filename": "B07G3ZNK4Y.mp4"
+        },
+        {
+          "nombre": "Scanmarker Air Pen",
+          "searchTermEn": "Scanmarker Air Pen Scanner",
+          "id": "B01N07J2AE",
+          "filename": "B01N07J2AE.mp4"
+        },
+        {
+          "nombre": "Ruler Digital Ink",
+          "searchTermEn": "Neo Smartpen Ruler Digital",
+          "id": "B0CC21YWJ8",
+          "filename": "B0CC21YWJ8.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-05-08T23:07:08.221Z",
+      "_requestedCount": 3,
+      "_adaptedCount": 3,
+      "introProductsOrder": [
+        {
+          "nombre": "Scanmarker Air Pen",
+          "id": "B01N07J2AE",
+          "filename": "B01N07J2AE_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B01N07J2AE_combined.mp4"
+        },
+        {
+          "nombre": "Vector Robot AI",
+          "id": "B07G3ZNK4Y",
+          "filename": "B07G3ZNK4Y_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07G3ZNK4Y_combined.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1778282298358_ix2gbd"
+    },
+    "generatedAt": "2026-05-08T23:18:23.842Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Vector Robot AI",
+        "searchTermEn": "Anki Vector Robot AI",
+        "id": "B07G3ZNK4Y",
+        "filename": "B07G3ZNK4Y.mp4"
+      },
+      {
+        "nombre": "Scanmarker Air Pen",
+        "searchTermEn": "Scanmarker Air Pen Scanner",
+        "id": "B01N07J2AE",
+        "filename": "B01N07J2AE.mp4"
+      },
+      {
+        "nombre": "Ruler Digital Ink",
+        "searchTermEn": "Neo Smartpen Ruler Digital",
+        "id": "B0CC21YWJ8",
+        "filename": "B0CC21YWJ8.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 3 gadgets que todo arquitecto necesita\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\nUn lápiz escanea textos al instante. Un robot inteligente reconoce caras y responde.\n\n[0:10-0:15] INTRODUCTION\nSuscríbete, los links están en el primer comentario. Empecemos.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] VECTOR ROBOT AI\nCon su cámara HD y sensores avanzados, el Vector Robot AI mapea en tiempo real, reconoce rostros y esquiva obstáculos. Este robot ya no necesita un control remoto, ya que su tecnología autónoma lo hace reaccionar de forma independiente. Ahora, con la integración de ChatGPT, Vector no solo responde preguntas complejas, sino que también participa en conversaciones significativas en múltiples idiomas, desde inglés hasta alemán. Imagina un compañero inteligente que interactúa con su entorno y te acompaña en tu día a día.\nSu precio actual en Amazon ronda los... 200 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Vector Robot AI]\n\n[0:25] SCANMARKER AIR PEN\nEste lápiz traduce mientras escanea, perfecto para estudiantes y viajeros.\nSu precio actual en Amazon ronda los... 149 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Scanmarker Air Pen]\n\n[0:25] RULER DIGITAL INK\n¿Cansado de buscar la escala perfecta en tus mediciones? El Ruler Digital Ink ofrece 93 escalas integradas y permite crear ilimitadas escalas personalizadas, ideal para arquitectos y diseñadores. Además, con su función de divisor de espacio, puedes segmentar cualquier distancia sin complicadas cuentas. Y no solo mide: su aplicación gratuita vía Bluetooth transfiere datos a tu smartphone para editar y compartir en formatos como CAD o PDF. Este dispositivo transforma la manera en que gestionas tus proyectos.\nSu precio actual en Amazon ronda los... 110 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Ruler Digital Ink]\n\n[10 seconds] CONCLUSION\n¡Dale like y recuerda que los links están en el primer comentario!\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:45\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, todo, arquitecto, necesita\n"
+}

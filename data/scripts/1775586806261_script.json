@@ -1,0 +1,95 @@
+{
+  "title": "Top 2 Gadgets Increíbles para tu Alcoba",
+  "hook": {
+    "type": "statement",
+    "text": "Un despertador que simula el amanecer para despertarte suavemente... una lámpara que flota mágicamente en el aire... y un dispositivo que transforma tu techo en un cielo estrellado.",
+    "duration": "0:00-0:05"
+  },
+  "introduction": {
+    "greeting": "Dale a suscribirse para más hallazgos como estos, y tranquilo, todos los links están en el primer comentario fijado.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0:05-0:10"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Despertador amanecer",
+        "content": [
+          "Despertarte bruscamente puede arruinar tu día desde el primer minuto. El despertador amanecer te despierta simulando la luz natural del sol. Con múltiples configuraciones de intensidad de luz para adaptarse a tus preferencias.",
+          "Su precio actual en Amazon ronda los... 49.99. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Despertador amanecer"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0DGXD6WVW.mp4",
+        "precio": "49.99"
+      }
+    ],
+    "totalDuration": 25
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "Si te gustó, danos un like y recuerda que los links están en el primer comentario."
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "0:55",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "increbles",
+    "para",
+    "alcoba"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 2 Gadgets Increíbles para tu Alcoba",
+      "angle": "Top 2 Gadgets Increíbles para tu Alcoba",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 2,
+      "introScript": "¿Una almohada que se adapta a tu postura en tiempo real? ¿O un despertador que simula un amanecer para que despiertes revitalizado? Descubre los gadgets más sorprendentes para transformar tu descanso.",
+      "keywords": [
+        "gadgets",
+        "increbles",
+        "para",
+        "alcoba"
+      ],
+      "estimatedViews": 5796,
+      "bestPublishTime": "2026-04-11T15:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Despertador amanecer",
+          "searchTermEn": "sunrise alarm clock"
+        }
+      ],
+      "createdAt": "2026-04-07T18:32:28.393Z"
+    },
+    "generatedAt": "2026-04-07T18:33:26.121Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Despertador amanecer",
+        "searchTermEn": "sunrise alarm clock"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 2 Gadgets Increíbles para tu Alcoba\n\n══════════════════════════════════════════════════\n\n[0:00-0:05] HOOK\nUn despertador que simula el amanecer para despertarte suavemente... una lámpara que flota mágicamente en el aire... y un dispositivo que transforma tu techo en un cielo estrellado.\n\n[0:05-0:10] INTRODUCTION\nDale a suscribirse para más hallazgos como estos, y tranquilo, todos los links están en el primer comentario fijado.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] DESPERTADOR AMANECER\nDespertarte bruscamente puede arruinar tu día desde el primer minuto. El despertador amanecer te despierta simulando la luz natural del sol. Con múltiples configuraciones de intensidad de luz para adaptarse a tus preferencias.\nSu precio actual en Amazon ronda los... 49.99. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Despertador amanecer]\n\n[10 seconds] CONCLUSION\nSi te gustó, danos un like y recuerda que los links están en el primer comentario.\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 0:55\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, increbles, para, alcoba\n"
+}

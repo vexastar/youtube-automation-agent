@@ -1,0 +1,133 @@
+{
+  "title": "Top 1 Gadget Imprescindible para tu Coche",
+  "hook": {
+    "type": "statement",
+    "text": "Atento a los detalles de: LENCENT Transmisor FM.",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "¿Cuál querrías tú? Los links están en el primer comentario.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "25s-35s"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "LENCENT Transmisor FM",
+        "productId": "B07VFT4D6B",
+        "productName": "LENCENT Transmisor FM",
+        "filename": "B07VFT4D6B.mp4",
+        "asin": "B07VFT4D6B",
+        "videoDuration": 50.084633,
+        "estimatedAudioSeconds": 34,
+        "framework": "enfoque_caracteristica",
+        "narracionSegments": null,
+        "content": [
+          "Increíblemente funcional. Jamás imaginaste tanto en un transmisor FM. El LENCENT Transmisor FM transforma tu conducción. ¿Cómo? Su tecnología antiestática y CVC ofrece música cristalina, combatiendo viento y ruido; transmite vía Bluetooth, USB o microSD. Con dos puertos USB, carga segura garantizada. Recarga simultáneamente con protección total contra sobrecorriente y cortocircuitos. Presiona el botón de sincronización Bluetooth. Conecta automáticamente; llamadas manos libres habilitadas. Verifica el voltaje del coche fácilmente en su pantalla; mantente seguro siempre.",
+          "Su precio actual ronda los... quince dólares. Link en comentarios."
+        ],
+        "visuals": [
+          "Product image: LENCENT Transmisor FM"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07VFT4D6B.mp4",
+        "precio": "$15",
+        "productPhoto": "https://m.media-amazon.com/images/I/61PwfA5KTeL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "Streaming de música cristalina: LENCENT T25 está diseñado para ser antiestático y equipado con tecnología CVC que suprime el ruido y el viento, lo que puede lograr una calidad de sonido dúplex completa. Puedes transmitir música en el estéreo de tu coche a través de Bluetooth/ USB Flash Drive (≤32GB) / microSD Card (≤32GB). Se admiten todos los formatos de música WMA MP3 WAV APE FLAC.",
+          "Puertos USB Duales Inteligentes y Carga Segura: Con 2 puertos USB (5V-2.4A y 5V-1A), puedes cargar dos dispositivos simultáneamente. Con protección contra sobrecorriente, protección contra sobretensión, control inteligente de temperatura y protección contra cortocircuitos, garantizará de manera efectiva una carga segura.",
+          "Llamadas manos libres y navegación por voz: Bluetooth proporciona una conexión estable, mientras que la tecnología de Supresión de Ruido (CVC) y la cancelación de eco ofrecen una increíble experiencia de llamadas manos libres. Además, también puedes obtener navegación por voz clara desde la aplicación de tu teléfono, lo que significa que conducir será más seguro.",
+          "Detección de Voltaje de Batería de Coche y Luz Ambiental Azul: El transmisor FM mostrará el voltaje del coche cuando esté conectado al encendedor. Mantente al tanto de la salud de la batería del coche en todo momento para evitar problemas al conducir. Con el círculo de luz de fondo azul alrededor de este cargador de coche, simplificará enormemente tu operación para una conducción más segura. (Por favor, compara el tamaño entre el transmisor y el encendedor de tu coche).",
+          "Rango y Compatibilidad Más Amplios: Este transmisor Bluetooth es compatible con la mayoría de los smartphones y más dispositivos que cuentan con función Bluetooth. Se conectará automáticamente a su dispositivo Bluetooth emparejado memorizado al encenderlo. Además, con el rango más amplio de 88.1MHz - 107.9 MHz, puedes disfrutar de una experiencia musical más estable y continua sin interferencias."
+        ]
+      }
+    ],
+    "totalDuration": 40
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      ""
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:10",
+  "tone": "engaging",
+  "tone_variant": "conversacional y cercano, como si le contaras a un amigo algo increíble que descubriste",
+  "pacing": "quick",
+  "keywords": [
+    "gadget",
+    "imprescindible",
+    "para",
+    "coche"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 1 Gadget Imprescindible para tu Coche",
+      "angle": "Top 1 Gadget Imprescindible para tu Coche",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 1,
+      "introScript": "¿Imaginas poder cargar todos tus dispositivos en el coche sin líos de cables? Hoy te presentamos un gadget que está revolucionando los viajes en carretera. Este dispositivo no solo te ofrece carga rápida y segura, sino que también lo hace de manera eficiente con el estilo más minimalista que puedas imaginar. No te pierdas cómo esta innovación financiada en crowdfunding ya está cambiando la forma en que viajamos. Prepárate para descubrir cómo este pequeño invento puede potenciar tu experiencia al volante.",
+      "keywords": [
+        "gadget",
+        "imprescindible",
+        "para",
+        "coche"
+      ],
+      "estimatedViews": 4114,
+      "bestPublishTime": "2026-09-13T15:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "LENCENT Transmisor FM",
+          "searchTermEn": "Anker Roav Bluetooth FM transmitter",
+          "id": "B07VFT4D6B",
+          "filename": "B07VFT4D6B.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-09-11T00:43:17.457Z",
+      "_requestedCount": 1,
+      "_adaptedCount": 1,
+      "introProductsOrder": [
+        {
+          "nombre": "LENCENT Transmisor FM",
+          "id": "B07VFT4D6B",
+          "filename": "B07VFT4D6B.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07VFT4D6B.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1789088174333_wbi81p"
+    },
+    "generatedAt": "2026-09-11T00:56:26.724Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "LENCENT Transmisor FM",
+        "searchTermEn": "Anker Roav Bluetooth FM transmitter",
+        "id": "B07VFT4D6B",
+        "filename": "B07VFT4D6B.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 1 Gadget Imprescindible para tu Coche\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\nAtento a los detalles de: LENCENT Transmisor FM.\n\n[25s-35s] INTRODUCTION\n¿Cuál querrías tú? Los links están en el primer comentario.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] LENCENT TRANSMISOR FM\nIncreíblemente funcional. Jamás imaginaste tanto en un transmisor FM. El LENCENT Transmisor FM transforma tu conducción. ¿Cómo? Su tecnología antiestática y CVC ofrece música cristalina, combatiendo viento y ruido; transmite vía Bluetooth, USB o microSD. Con dos puertos USB, carga segura garantizada. Recarga simultáneamente con protección total contra sobrecorriente y cortocircuitos. Presiona el botón de sincronización Bluetooth. Conecta automáticamente; llamadas manos libres habilitadas. Verifica el voltaje del coche fácilmente en su pantalla; mantente seguro siempre.\nSu precio actual ronda los... quince dólares. Link en comentarios.\n\n[VISUALS: Product image: LENCENT Transmisor FM]\n\n[10 seconds] CONCLUSION\n\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:10\nTONE: engaging\nPACING: quick\nKEYWORDS: gadget, imprescindible, para, coche\n"
+}

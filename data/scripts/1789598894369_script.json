@@ -1,0 +1,137 @@
+{
+  "title": "Top 1 Gadgets para mejor cuidado personal",
+  "hook": {
+    "type": "statement",
+    "text": "¿Sabías que el cepillo de dientes eléctrico Quip Sonic revoluciona tu higiene bucal? Este dispositivo elimina la placa con vibración sónica. En este video vas a descubrir inventos increíbles para mejorar tu día a día. Todos los enlaces están en el primer comentario. No olvides suscribirte, ¡empecemos!",
+    "duration": "0:00-0:15"
+  },
+  "introduction": {
+    "greeting": "",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0s"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Cepillo de dientes eléctrico Quip Sonic",
+        "productId": "B0DW5Z1S47",
+        "productName": "Cepillo de dientes eléctrico Quip Sonic",
+        "filename": "B0DW5Z1S47.mp4",
+        "asin": "B0DW5Z1S47",
+        "videoDuration": 43.846067,
+        "estimatedAudioSeconds": 30,
+        "framework": "experiencia_sensorial",
+        "narracionSegments": null,
+        "content": [
+          "¿Cepillado perfecto en minutos? ¿Todo sin esfuerzo? Quip Sonic: técnica guiada que hace la diferencia. Vibraciones sónicas modulares, suaves cerdas para cuidar dientes y encías. Temporizador de dos minutos más pulsos de 30 segundos aseguran una rutina completa. Cabezal extra reemplazable, batería AAA de tres meses. Funda multiusos para llevarlo donde necesites.",
+          "Encuentra este aliado dental en Amazon por solo 28 dólares. Consulta los detalles a través del enlace anclado en los comentarios."
+        ],
+        "visuals": [
+          "Product image: Cepillo de dientes eléctrico Quip Sonic"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0DW5Z1S47.mp4",
+        "precio": "$28",
+        "productPhoto": "https://m.media-amazon.com/images/I/719pEOptJjL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "Técnica de Cepillado Guiada: La salud bucal es muy importante, y la técnica adecuada marca la diferencia. El cepillo de dientes quip tiene un temporizador incorporado de 2 minutos para una rutina completa + pulsos de 30 segundos para una limpieza uniforme. Cabezal de cepillo adicional incluido.",
+          "Vibraciones Sónicas Temporizadas: Las cerdas suaves ayudan a limpiar espacios reducidos y dientes y encías sensibles con suaves vibraciones sónicas para un cepillo de dientes eléctrico seguro y efectivo para adultos. Mantén tu sonrisa saludable y libre de placa.",
+          "Cabezal reemplazable y batería AAA: Los dentistas recomiendan reemplazar los cabezales del cepillo cada 3 meses antes de que las cerdas se desgasten y dejen de cepillar adecuadamente. La carga de la batería dura hasta 3 meses (cuando se usa 2 minutos, 2 veces al día).",
+          "Sutil y listo para viajar: Sin cargadores o soportes voluminosos. La funda multiusos para cepillo de dientes de quip se monta en espejos, vidrio y azulejos y cubre las cerdas para empacar y llevar contigo, convirtiéndolo en el cepillo de dientes de viaje definitivo.",
+          "Creado con Dentistas y Diseñadores: Diseñamos productos que guían buenos hábitos de cuidado oral (y excluyen los trucos que no), para simplificar una rutina saludable. Simplifica aún más con nuestras recargas de cabezales de cepillo quip verificadas. ¡Hemos incluido una extra para que empieces!"
+        ],
+        "originalVideoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0DW5Z1S47.mp4"
+      }
+    ],
+    "totalDuration": 40
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "Comenta cuál fue tu favorito, da like, suscríbete, y recuerda que los links están en los comentarios."
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "",
+    "like": "",
+    "comment": "",
+    "nextVideo": "",
+    "duration": "0 seconds"
+  },
+  "duration": "1:10",
+  "tone": "engaging",
+  "tone_variant": "analítico y preciso, como un ingeniero que explica por qué esto es superior",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "para",
+    "mejor",
+    "cuidado",
+    "personal"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 1 Gadgets para mejor cuidado personal",
+      "angle": "Top 2 Gadgets para mejor cuidado personal",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 1,
+      "introScript": "¿Te imaginas un cepillo de dientes que se carga en solo tres horas y dura un mes entero? ¿O un dispositivo que monitorea tu hidratación y te avisa cuando necesitas beber agua? Hoy exploramos los dos gadgets de cuidado personal más innovadores y disponibles ahora mismo que no querrás perderte. Desde cepillos de dientes eléctricos ultramodernos hasta sensores inteligentes que te ayudan a mantenerte saludable de una manera que nunca has visto antes.",
+      "keywords": [
+        "gadgets",
+        "para",
+        "mejor",
+        "cuidado",
+        "personal"
+      ],
+      "estimatedViews": 6186,
+      "bestPublishTime": "2026-09-19T15:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Cepillo de dientes eléctrico Quip Sonic",
+          "searchTermEn": "Quip Electric Toothbrush",
+          "id": "B0DW5Z1S47",
+          "filename": "B0DW5Z1S47.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-09-16T22:45:10.594Z",
+      "_requestedCount": 2,
+      "_adaptedCount": 1,
+      "_adaptationNote": "ATENCIÓN: El usuario pidió 2 productos pero solo hay 1 clips de video disponibles. El guion, título y narrativa deben referirse EXCLUSIVAMENTE a 1 productos.",
+      "introProductsOrder": [
+        {
+          "nombre": "Cepillo de dientes eléctrico Quip Sonic",
+          "id": "B0DW5Z1S47",
+          "filename": "B0DW5Z1S47.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0DW5Z1S47.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1789598873822_r0ekkr"
+    },
+    "generatedAt": "2026-09-16T22:48:01.590Z",
+    "version": "3.0-ezetech",
+    "productos": [
+      {
+        "nombre": "Cepillo de dientes eléctrico Quip Sonic",
+        "searchTermEn": "Quip Electric Toothbrush",
+        "id": "B0DW5Z1S47",
+        "filename": "B0DW5Z1S47.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 1 Gadgets para mejor cuidado personal\n\n══════════════════════════════════════════════════\n\n[0:00-0:15] HOOK\n¿Sabías que el cepillo de dientes eléctrico Quip Sonic revoluciona tu higiene bucal? Este dispositivo elimina la placa con vibración sónica. En este video vas a descubrir inventos increíbles para mejorar tu día a día. Todos los enlaces están en el primer comentario. No olvides suscribirte, ¡empecemos!\n\n[0s] INTRODUCTION\n\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] CEPILLO DE DIENTES ELÉCTRICO QUIP SONIC\n¿Cepillado perfecto en minutos? ¿Todo sin esfuerzo? Quip Sonic: técnica guiada que hace la diferencia. Vibraciones sónicas modulares, suaves cerdas para cuidar dientes y encías. Temporizador de dos minutos más pulsos de 30 segundos aseguran una rutina completa. Cabezal extra reemplazable, batería AAA de tres meses. Funda multiusos para llevarlo donde necesites.\nEncuentra este aliado dental en Amazon por solo 28 dólares. Consulta los detalles a través del enlace anclado en los comentarios.\n\n[VISUALS: Product image: Cepillo de dientes eléctrico Quip Sonic]\n\n[10 seconds] CONCLUSION\nComenta cuál fue tu favorito, da like, suscríbete, y recuerda que los links están en los comentarios.\n\n\n\n[0 seconds] CALL TO ACTION\n\n\n\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:10\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, para, mejor, cuidado, personal\n"
+}

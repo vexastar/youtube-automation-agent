@@ -1,0 +1,436 @@
+{
+  "title": "Top 3 Gadgets para tu Oficina en Casa",
+  "hook": {
+    "type": "statement",
+    "text": "Llama flotante relaja espacio. Luz suspendida gira mágicamente. Teclado hecho de luz escribe todo.",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "Todo está en el primer comentario. Vamos.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0:10-0:15"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Teclado láser virtual",
+        "productId": "B0DGGJVWVR",
+        "productName": "Teclado láser virtual",
+        "filename": "B0DGGJVWVR.mp4",
+        "asin": "B0DGGJVWVR",
+        "clipDuration": 60.06,
+        "estimatedAudioSeconds": 51,
+        "framework": "problema_solucion",
+        "narracionSegments": null,
+        "content": [
+          "-Harto- de los teclados tradicionales ocupando espacio? El Teclado láser virtual proyecta un teclado QWERTY completo sobre cualquier superficie plana y conecta con tus dispositivos Bluetooth, ofreciendo portabilidad máxima y horas de uso con su batería integrada.",
+          "Su precio actual en Amazon ronda los... 40 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Teclado láser virtual"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0DGGJVWVR_combined.mp4",
+        "precio": "$40",
+        "productPhoto": "https://m.media-amazon.com/images/I/41Re7sT2UdL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "PROJECTION: Virtual bluetooth keyboard projects a laser keyboard on any flat surface, including tables, sheets, and other surfaces.",
+          "COMPATIBILITY: Works with iPhone, Samsung, Sony, HTC, LG, iPad, Nexus, tablets, laptops, desktops, PCs, Macs, and any Bluetooth-enabled device.",
+          "BATTERY: Built-in 1000mAh Li-polymer rechargeable battery with 200 minutes of working time.",
+          "KEYBOARD LAYOUT: QWERTY layout with about 19 mm tilt, projected size 100 x 240 mm."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Lámpara magnética levitación",
+        "productId": "B09833QPYR",
+        "productName": "Lámpara magnética levitación",
+        "filename": "B09833QPYR.mp4",
+        "asin": "B09833QPYR",
+        "clipDuration": 60.03,
+        "estimatedAudioSeconds": 46,
+        "framework": "enfoque_caracteristica",
+        "narracionSegments": null,
+        "content": [
+          "-Levitar- es la palabra. La Lámpara magnética levitación utiliza tecnología de levitación magnética y una bombilla LED suave para lograr un efecto visual impresionante sin cables ni ruido. Ya sea como lámpara de escritorio o luz ambiental, eleva cualquier espacio con estilo.",
+          "Su precio actual en Amazon ronda los... 71 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Lámpara magnética levitación"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B09833QPYR_combined.mp4",
+        "precio": "$71",
+        "productPhoto": "https://m.media-amazon.com/images/I/71zK+2otJ0L.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B09833QPYR\\scenes_v3\\B09833QPYR_v3_scene_01.mp4",
+            "type": "video",
+            "score": 10,
+            "tag": "lámpara levitante",
+            "raw": "10|lámpara levitante"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B09833QPYR\\scenes_v1\\B09833QPYR_scene_06.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "lámpara levitante",
+            "raw": "9|lámpara levitante"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B09833QPYR\\scenes_v1\\B09833QPYR_scene_05.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "lámpara levitante",
+            "raw": "9|lámpara levitante"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B09833QPYR\\scenes_v1\\B09833QPYR_scene_08.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "lámpara levitante",
+            "raw": "9|lámpara levitante"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B09833QPYR\\scenes_v2\\B09833QPYR_v2_scene_01.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "lámpara levitante",
+            "raw": "9|lámpara levitante"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B09833QPYR\\scenes_v3\\B09833QPYR_v3_scene_02.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "lámpara levitante",
+            "raw": "9|lámpara levitante"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B09833QPYR\\scenes_v3\\B09833QPYR_v3_scene_03.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "lámpara levitante",
+            "raw": "9|lámpara levitante"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B09833QPYR\\scenes_v1\\B09833QPYR_scene_04.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Lámpara levitante",
+            "raw": "8|Lámpara levitante"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B09833QPYR\\scenes_v1\\B09833QPYR_scene_07.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "lámpara levitante",
+            "raw": "8|lámpara levitante"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B09833QPYR\\scenes_v1\\B09833QPYR_scene_01.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "producto pequeño",
+            "raw": "5|producto pequeño"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B09833QPYR\\scenes_v1\\B09833QPYR_scene_03.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "producto pequeño",
+            "raw": "5|producto pequeño"
+          }
+        ],
+        "features": [
+          "Light meets levitation: The floating bulb uses magnetic levitation technology, and it can float and rotate freely in the air without any contact or support, and without any noise during operation. The magnetic floating led light can automatically rotate 360 degrees, has a unique visual effect, attracts your attention, and allows you to immerse yourself in this soft light.",
+          "The levitation bulb is powered by electromagnetic induction and does not require cables or built-in batteries. Lights controlled by the touch button: on/off on the wooden base. The lamp is made of environmentally friendly materials. LED is very soft, we use a super bright 60 lumens LED bulb, which is harmless to the eyes. Long service life (proper use can last for several years), and the rated use time is 50,000 hours.",
+          "Once the power is cut off, the magnetic force of the base firmly attracts the bulb and will not fall off, so there is no need to worry about damaging the bulb.",
+          "You can think of it as a desk lamp, table lamp, night light, etc., and put it in the office, hotel lobby, home, living room, study, bedroom, bar, Coffee shop, etc. Catch everyone's sight.",
+          "It can also be used as birthday gifts, Mother's Day Gifts, Christmas gifts, Valentine's Day gifts, etc. to family, lovers, friends, and colleagues, etc. Imagine when they receive and open the box, it will bring them much surprise!"
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Humidificador de llama",
+        "productId": "B0C2VZXQYV",
+        "productName": "Humidificador de llama",
+        "filename": "B0C2VZXQYV.mp4",
+        "asin": "B0C2VZXQYV",
+        "clipDuration": 60.03,
+        "estimatedAudioSeconds": 40,
+        "framework": "beneficio_oculto",
+        "narracionSegments": null,
+        "content": [
+          "¿Quién sabía que un humidificador podía crear una atmósfera tan acogedora? El Humidificador de llama no solo refresca el aire, sino que también te transporta a un entorno de paz visual, con su encantador efecto de llama. Ideal para un ambiente cálido y relajante.",
+          "Su precio actual en Amazon ronda los... 25 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Humidificador de llama"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0C2VZXQYV_combined.mp4",
+        "precio": "$25",
+        "productPhoto": "https://m.media-amazon.com/images/I/71+SDMHPVGL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0C2VZXQYV\\scenes_v1\\B0C2VZXQYV_scene_03.mp4",
+            "type": "video",
+            "score": 10,
+            "tag": "interacción real",
+            "raw": "10|interacción real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0C2VZXQYV\\scenes_v1\\B0C2VZXQYV_scene_01.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "difusor funcional",
+            "raw": "9|difusor funcional"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0C2VZXQYV\\scenes_v1\\B0C2VZXQYV_scene_02.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "difusor aroma",
+            "raw": "9|difusor aroma"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0C2VZXQYV\\scenes_v1\\B0C2VZXQYV_scene_04.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "difusor aroma",
+            "raw": "9|difusor aroma"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0C2VZXQYV\\scenes_v1\\B0C2VZXQYV_scene_05.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción visible",
+            "raw": "9|interacción visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0C2VZXQYV\\scenes_v1\\B0C2VZXQYV_scene_06.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "difusor funcional",
+            "raw": "9|difusor funcional"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0C2VZXQYV\\scenes_v1\\B0C2VZXQYV_scene_07.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0C2VZXQYV\\scenes_v2\\B0C2VZXQYV_v2_scene_02.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "difusor aroma",
+            "raw": "9|difusor aroma"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0C2VZXQYV\\scenes_v2\\B0C2VZXQYV_v2_scene_01.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "difusor aroma",
+            "raw": "9|difusor aroma"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0C2VZXQYV\\scenes_v2\\B0C2VZXQYV_v2_scene_03.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "difusor funcional",
+            "raw": "9|difusor funcional"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0C2VZXQYV\\scenes_v2\\B0C2VZXQYV_v2_scene_05.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0C2VZXQYV\\scenes_v2\\B0C2VZXQYV_v2_scene_08.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "difusor aroma",
+            "raw": "9|difusor aroma"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0C2VZXQYV\\scenes_v2\\B0C2VZXQYV_v2_scene_07.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "difusor funcional",
+            "raw": "9|difusor funcional"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0C2VZXQYV\\scenes_v3\\B0C2VZXQYV_v3_scene_01.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "difusor aroma",
+            "raw": "9|difusor aroma"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0C2VZXQYV\\scenes_v3\\B0C2VZXQYV_v3_scene_02.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "difusor funcional",
+            "raw": "9|difusor funcional"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0C2VZXQYV\\scenes_v3\\B0C2VZXQYV_v3_scene_03.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "difusor funcional",
+            "raw": "9|difusor funcional"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0C2VZXQYV\\scenes_v2\\B0C2VZXQYV_v2_scene_04.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "difusor visible",
+            "raw": "8|difusor visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0C2VZXQYV\\scenes_v2\\B0C2VZXQYV_v2_scene_06.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "producto pequeño",
+            "raw": "5|producto pequeño"
+          }
+        ],
+        "features": []
+      }
+    ],
+    "totalDuration": 75
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "&iexcl;Dale like y recuerda que los links están en el primer comentario!"
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:45",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "para",
+    "oficina",
+    "casa"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 3 Gadgets para tu Oficina en Casa",
+      "angle": "Top 3 Gadgets para tu Oficina en Casa",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 3,
+      "introScript": "¿Un teclado que proyecta sus teclas en cualquier superficie? ¿Una lámpara flotante para tu escritorio? Hoy te traigo tres gadgets que transformarán tu oficina en un futurista espacio de trabajo.",
+      "keywords": [
+        "gadgets",
+        "para",
+        "oficina",
+        "casa"
+      ],
+      "estimatedViews": 4204,
+      "bestPublishTime": "2026-05-22T20:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Teclado láser virtual",
+          "searchTermEn": "virtual laser keyboard",
+          "id": "B0DGGJVWVR",
+          "filename": "B0DGGJVWVR.mp4"
+        },
+        {
+          "nombre": "Lámpara magnética levitación",
+          "searchTermEn": "magnetic levitation lamp",
+          "id": "B09833QPYR",
+          "filename": "B09833QPYR.mp4"
+        },
+        {
+          "nombre": "Humidificador de llama",
+          "searchTermEn": "flame humidifier",
+          "id": "B0C2VZXQYV",
+          "filename": "B0C2VZXQYV.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-05-21T02:03:24.829Z",
+      "_requestedCount": 3,
+      "_adaptedCount": 3,
+      "introProductsOrder": [
+        {
+          "nombre": "Humidificador de llama",
+          "id": "B0C2VZXQYV",
+          "filename": "B0C2VZXQYV_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0C2VZXQYV_combined.mp4"
+        },
+        {
+          "nombre": "Lámpara magnética levitación",
+          "id": "B09833QPYR",
+          "filename": "B09833QPYR_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B09833QPYR_combined.mp4"
+        },
+        {
+          "nombre": "Teclado láser virtual",
+          "id": "B0DGGJVWVR",
+          "filename": "B0DGGJVWVR_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0DGGJVWVR_combined.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1779329513320_t56wjz"
+    },
+    "generatedAt": "2026-05-21T02:12:17.629Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Teclado láser virtual",
+        "searchTermEn": "virtual laser keyboard",
+        "id": "B0DGGJVWVR",
+        "filename": "B0DGGJVWVR.mp4"
+      },
+      {
+        "nombre": "Lámpara magnética levitación",
+        "searchTermEn": "magnetic levitation lamp",
+        "id": "B09833QPYR",
+        "filename": "B09833QPYR.mp4"
+      },
+      {
+        "nombre": "Humidificador de llama",
+        "searchTermEn": "flame humidifier",
+        "id": "B0C2VZXQYV",
+        "filename": "B0C2VZXQYV.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 3 Gadgets para tu Oficina en Casa\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\nLlama flotante relaja espacio. Luz suspendida gira mágicamente. Teclado hecho de luz escribe todo.\n\n[0:10-0:15] INTRODUCTION\nTodo está en el primer comentario. Vamos.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] TECLADO LÁSER VIRTUAL\n-Harto- de los teclados tradicionales ocupando espacio? El Teclado láser virtual proyecta un teclado QWERTY completo sobre cualquier superficie plana y conecta con tus dispositivos Bluetooth, ofreciendo portabilidad máxima y horas de uso con su batería integrada.\nSu precio actual en Amazon ronda los... 40 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Teclado láser virtual]\n\n[0:25] LÁMPARA MAGNÉTICA LEVITACIÓN\n-Levitar- es la palabra. La Lámpara magnética levitación utiliza tecnología de levitación magnética y una bombilla LED suave para lograr un efecto visual impresionante sin cables ni ruido. Ya sea como lámpara de escritorio o luz ambiental, eleva cualquier espacio con estilo.\nSu precio actual en Amazon ronda los... 71 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Lámpara magnética levitación]\n\n[0:25] HUMIDIFICADOR DE LLAMA\n¿Quién sabía que un humidificador podía crear una atmósfera tan acogedora? El Humidificador de llama no solo refresca el aire, sino que también te transporta a un entorno de paz visual, con su encantador efecto de llama. Ideal para un ambiente cálido y relajante.\nSu precio actual en Amazon ronda los... 25 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Humidificador de llama]\n\n[10 seconds] CONCLUSION\n&iexcl;Dale like y recuerda que los links están en el primer comentario!\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:45\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, para, oficina, casa\n"
+}

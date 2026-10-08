@@ -1,0 +1,193 @@
+{
+  "title": "Top 6 Gadgets de Cocina que Transformarán tu Experiencia Culinaria",
+  "hook": {
+    "type": "statement",
+    "text": "¿Quieres llevar tu cocina al siguiente nivel? Descubre gadgets que harán tu vida más fácil.",
+    "duration": "0:00-0:05"
+  },
+  "introduction": {
+    "greeting": "La cocina es un lugar de creatividad y sabor, pero a veces necesitamos un poco de ayuda para que todo salga perfecto. Hoy te presentamos seis gadgets que cambiarán la forma en que cocinas para siempre.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0:05-0:15"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Organizador magnético para especias",
+        "content": [
+          "Mantén tus especias siempre al alcance con este organizador magnético. Diseñado para adherirse a cualquier superficie metálica, maximiza el espacio y facilita encontrar justo lo que necesitas. Ideal para cocineros organizados y despistados por igual.",
+          "Revisa su precio actualizado en el enlace de la descripción."
+        ],
+        "visuals": [
+          "Product image: Organizador magnético para especias"
+        ],
+        "duration": 25
+      },
+      {
+        "type": "content",
+        "title": "Batidor eléctrico recargable",
+        "content": [
+          "Despídete del cansancio de batir a mano. Este batidor eléctrico recargable es compacto pero potente, perfecto para mezclar desde huevos hasta masas ligeras. Ideal para los que aman hornear sin complicaciones.",
+          "Visita el enlace para conocer su precio."
+        ],
+        "visuals": [
+          "Product image: Batidor eléctrico recargable"
+        ],
+        "duration": 25
+      },
+      {
+        "type": "content",
+        "title": "Tijeras de hierbas con 5 hojas",
+        "content": [
+          "Corta hierbas como un chef profesional con estas tijeras de cinco hojas. Multiplica tu eficiencia y consigue cortes perfectos para guarniciones y ensaladas en segundos. Una herramienta esencial para los amantes de las hierbas frescas.",
+          "Encuéntralas a un precio especial en la descripción."
+        ],
+        "visuals": [
+          "Product image: Tijeras de hierbas con 5 hojas"
+        ],
+        "duration": 25
+      },
+      {
+        "type": "content",
+        "title": "Dispositivo para hacer sushi",
+        "content": [
+          "Crea sushi casero sin esfuerzo con este ingenioso dispositivo. Simplemente añade tus ingredientes favoritos y enrolla para tener sushi perfecto cada vez, ideal para cenas temáticas o comidas rápidas.",
+          "Revisa su precio en el enlace de la descripción."
+        ],
+        "visuals": [
+          "Product image: Dispositivo para hacer sushi"
+        ],
+        "duration": 25
+      },
+      {
+        "type": "content",
+        "title": "Termómetro de cocina Bluetooth",
+        "content": [
+          "Cocina a la perfección con este termómetro Bluetooth que se conecta a tu smartphone. Monitorea temperaturas en tiempo real sin estar pegado a la cocina. Perfecto para asados o recetas delicadas.",
+          "Descubre su precio en el primer comentario."
+        ],
+        "visuals": [
+          "Product image: Termómetro de cocina Bluetooth"
+        ],
+        "duration": 25
+      },
+      {
+        "type": "content",
+        "title": "Cuchillo eléctrico inalámbrico",
+        "content": [
+          "Corta con precisión y sin esfuerzo con este cuchillo eléctrico inalámbrico. Ideal para carnes, panes y más, te asegura cortes limpios y exactos en cada uso. Perfecto para quienes buscan eficacia y comodidad en la cocina.",
+          "Te dejo el enlace con su precio en la descripción."
+        ],
+        "visuals": [
+          "Product image: Cuchillo eléctrico inalámbrico"
+        ],
+        "duration": 25
+      }
+    ],
+    "totalDuration": 150
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "Eso es todo por hoy. Si te gustó el video, dale like, suscríbete para más contenido y déjanos tus comentarios sobre cuál gadget te gustaría probar."
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "3:00",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "cocina",
+    "transformarn",
+    "experiencia",
+    "culinaria"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 6 Gadgets de Cocina que Transformarán tu Experiencia Culinaria",
+      "angle": "Top 6 Gadgets de Cocina que Transformarán tu Experiencia Culinaria",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "keywords": [
+        "gadgets",
+        "cocina",
+        "transformarn",
+        "experiencia",
+        "culinaria"
+      ],
+      "estimatedViews": 5826,
+      "bestPublishTime": "2026-04-03T20:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Cuchillo eléctrico inalámbrico",
+          "searchTermEn": "cordless electric knife"
+        },
+        {
+          "nombre": "Termómetro de cocina Bluetooth",
+          "searchTermEn": "bluetooth kitchen thermometer"
+        },
+        {
+          "nombre": "Dispositivo para hacer sushi",
+          "searchTermEn": "sushi making kit"
+        },
+        {
+          "nombre": "Tijeras de hierbas con 5 hojas",
+          "searchTermEn": "5-blade herb scissors"
+        },
+        {
+          "nombre": "Batidor eléctrico recargable",
+          "searchTermEn": "rechargeable electric whisk"
+        },
+        {
+          "nombre": "Organizador magnético para especias",
+          "searchTermEn": "magnetic spice rack"
+        }
+      ],
+      "createdAt": "2026-03-31T19:49:01.563Z"
+    },
+    "generatedAt": "2026-03-31T19:49:21.089Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Cuchillo eléctrico inalámbrico",
+        "searchTermEn": "cordless electric knife"
+      },
+      {
+        "nombre": "Termómetro de cocina Bluetooth",
+        "searchTermEn": "bluetooth kitchen thermometer"
+      },
+      {
+        "nombre": "Dispositivo para hacer sushi",
+        "searchTermEn": "sushi making kit"
+      },
+      {
+        "nombre": "Tijeras de hierbas con 5 hojas",
+        "searchTermEn": "5-blade herb scissors"
+      },
+      {
+        "nombre": "Batidor eléctrico recargable",
+        "searchTermEn": "rechargeable electric whisk"
+      },
+      {
+        "nombre": "Organizador magnético para especias",
+        "searchTermEn": "magnetic spice rack"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 6 Gadgets de Cocina que Transformarán tu Experiencia Culinaria\n\n══════════════════════════════════════════════════\n\n[0:00-0:05] HOOK\n¿Quieres llevar tu cocina al siguiente nivel? Descubre gadgets que harán tu vida más fácil.\n\n[0:05-0:15] INTRODUCTION\nLa cocina es un lugar de creatividad y sabor, pero a veces necesitamos un poco de ayuda para que todo salga perfecto. Hoy te presentamos seis gadgets que cambiarán la forma en que cocinas para siempre.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] ORGANIZADOR MAGNÉTICO PARA ESPECIAS\nMantén tus especias siempre al alcance con este organizador magnético. Diseñado para adherirse a cualquier superficie metálica, maximiza el espacio y facilita encontrar justo lo que necesitas. Ideal para cocineros organizados y despistados por igual.\nRevisa su precio actualizado en el enlace de la descripción.\n\n[VISUALS: Product image: Organizador magnético para especias]\n\n[0:25] BATIDOR ELÉCTRICO RECARGABLE\nDespídete del cansancio de batir a mano. Este batidor eléctrico recargable es compacto pero potente, perfecto para mezclar desde huevos hasta masas ligeras. Ideal para los que aman hornear sin complicaciones.\nVisita el enlace para conocer su precio.\n\n[VISUALS: Product image: Batidor eléctrico recargable]\n\n[0:25] TIJERAS DE HIERBAS CON 5 HOJAS\nCorta hierbas como un chef profesional con estas tijeras de cinco hojas. Multiplica tu eficiencia y consigue cortes perfectos para guarniciones y ensaladas en segundos. Una herramienta esencial para los amantes de las hierbas frescas.\nEncuéntralas a un precio especial en la descripción.\n\n[VISUALS: Product image: Tijeras de hierbas con 5 hojas]\n\n[0:25] DISPOSITIVO PARA HACER SUSHI\nCrea sushi casero sin esfuerzo con este ingenioso dispositivo. Simplemente añade tus ingredientes favoritos y enrolla para tener sushi perfecto cada vez, ideal para cenas temáticas o comidas rápidas.\nRevisa su precio en el enlace de la descripción.\n\n[VISUALS: Product image: Dispositivo para hacer sushi]\n\n[0:25] TERMÓMETRO DE COCINA BLUETOOTH\nCocina a la perfección con este termómetro Bluetooth que se conecta a tu smartphone. Monitorea temperaturas en tiempo real sin estar pegado a la cocina. Perfecto para asados o recetas delicadas.\nDescubre su precio en el primer comentario.\n\n[VISUALS: Product image: Termómetro de cocina Bluetooth]\n\n[0:25] CUCHILLO ELÉCTRICO INALÁMBRICO\nCorta con precisión y sin esfuerzo con este cuchillo eléctrico inalámbrico. Ideal para carnes, panes y más, te asegura cortes limpios y exactos en cada uso. Perfecto para quienes buscan eficacia y comodidad en la cocina.\nTe dejo el enlace con su precio en la descripción.\n\n[VISUALS: Product image: Cuchillo eléctrico inalámbrico]\n\n[10 seconds] CONCLUSION\nEso es todo por hoy. Si te gustó el video, dale like, suscríbete para más contenido y déjanos tus comentarios sobre cuál gadget te gustaría probar.\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 3:00\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, cocina, transformarn, experiencia, culinaria\n"
+}

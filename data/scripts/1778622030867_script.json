@@ -1,0 +1,636 @@
+{
+  "title": "Top 3 Gadgets para Dormir Mejor que Puedes Comprar Ahora",
+  "hook": {
+    "type": "statement",
+    "text": "Ofrece sonido blanco en cualquier lugar. Controla tu entorno de sueño con luz y sonido.",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "Suscríbete, los links están en el primer comentario. Empecemos.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0:10-0:15"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Hatch Restore",
+        "productId": "B0DLLSCVZW",
+        "productName": "Hatch Restore",
+        "filename": "B0DLLSCVZW.mp4",
+        "asin": "B0DLLSCVZW",
+        "clipDuration": 261.56,
+        "estimatedAudioSeconds": 115,
+        "framework": "enfoque_caracteristica",
+        "narracionSegments": null,
+        "content": [
+          "Equipado con un sistema de luz personalizada, el Hatch Restore transforma cualquier habitación en un refugio de descanso. La combinación de luces suaves y sonidos relajantes permite un control total sobre el ambiente para dormir. Este dispositivo no solo mejora la calidad del sueño, sino que también actúa como una alarma natural que simula el amanecer.",
+          "Su precio actual en Amazon ronda los... 170 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Hatch Restore"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0DLLSCVZW_combined.mp4",
+        "precio": "$170",
+        "productPhoto": "https://m.media-amazon.com/images/I/814DUVqPmJL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DLLSCVZW\\scenes_v1\\B0DLLSCVZW_scene_33.mp4",
+            "type": "video",
+            "score": 10,
+            "tag": "interacción real",
+            "raw": "10|interacción real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DLLSCVZW\\scenes_v1\\B0DLLSCVZW_scene_02.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DLLSCVZW\\scenes_v1\\B0DLLSCVZW_scene_03.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DLLSCVZW\\scenes_v1\\B0DLLSCVZW_scene_05.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Interacción clara",
+            "raw": "9|Interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DLLSCVZW\\scenes_v1\\B0DLLSCVZW_scene_07.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DLLSCVZW\\scenes_v1\\B0DLLSCVZW_scene_09.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DLLSCVZW\\scenes_v1\\B0DLLSCVZW_scene_11.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DLLSCVZW\\scenes_v1\\B0DLLSCVZW_scene_13.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DLLSCVZW\\scenes_v1\\B0DLLSCVZW_scene_16.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DLLSCVZW\\scenes_v1\\B0DLLSCVZW_scene_17.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DLLSCVZW\\scenes_v1\\B0DLLSCVZW_scene_20.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DLLSCVZW\\scenes_v1\\B0DLLSCVZW_scene_19.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DLLSCVZW\\scenes_v1\\B0DLLSCVZW_scene_21.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DLLSCVZW\\scenes_v1\\B0DLLSCVZW_scene_23.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DLLSCVZW\\scenes_v1\\B0DLLSCVZW_scene_22.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DLLSCVZW\\scenes_v1\\B0DLLSCVZW_scene_25.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DLLSCVZW\\scenes_v1\\B0DLLSCVZW_scene_26.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DLLSCVZW\\scenes_v1\\B0DLLSCVZW_scene_28.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Reloj despertador",
+            "raw": "9|Reloj despertador"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DLLSCVZW\\scenes_v1\\B0DLLSCVZW_scene_27.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DLLSCVZW\\scenes_v1\\B0DLLSCVZW_scene_29.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DLLSCVZW\\scenes_v1\\B0DLLSCVZW_scene_32.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DLLSCVZW\\scenes_v1\\B0DLLSCVZW_scene_30.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DLLSCVZW\\scenes_v1\\B0DLLSCVZW_scene_34.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DLLSCVZW\\scenes_v2\\B0DLLSCVZW_v2_scene_02.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DLLSCVZW\\scenes_v2\\B0DLLSCVZW_v2_scene_04.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DLLSCVZW\\scenes_v2\\B0DLLSCVZW_v2_scene_06.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DLLSCVZW\\scenes_v3\\B0DLLSCVZW_v3_scene_02.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DLLSCVZW\\scenes_v2\\B0DLLSCVZW_v2_scene_08.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Reloj despertador",
+            "raw": "9|Reloj despertador"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DLLSCVZW\\scenes_v3\\B0DLLSCVZW_v3_scene_04.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DLLSCVZW\\scenes_v3\\B0DLLSCVZW_v3_scene_03.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DLLSCVZW\\scenes_v3\\B0DLLSCVZW_v3_scene_05.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DLLSCVZW\\scenes_v1\\B0DLLSCVZW_scene_15.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Reloj despertador",
+            "raw": "8|Reloj despertador"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DLLSCVZW\\scenes_v1\\B0DLLSCVZW_scene_18.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Reloj despertador",
+            "raw": "8|Reloj despertador"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DLLSCVZW\\scenes_v1\\B0DLLSCVZW_scene_24.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Reloj despertador",
+            "raw": "8|Reloj despertador"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DLLSCVZW\\scenes_v2\\B0DLLSCVZW_v2_scene_05.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "producto visible",
+            "raw": "8|producto visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DLLSCVZW\\scenes_v3\\B0DLLSCVZW_v3_scene_06.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "producto visible",
+            "raw": "8|producto visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DLLSCVZW\\scenes_v1\\B0DLLSCVZW_scene_06.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "producto pequeño",
+            "raw": "5|producto pequeño"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DLLSCVZW\\scenes_v1\\B0DLLSCVZW_scene_10.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "producto pequeño",
+            "raw": "5|producto pequeño"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DLLSCVZW\\scenes_v1\\B0DLLSCVZW_scene_12.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "producto pequeño",
+            "raw": "5|producto pequeño"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DLLSCVZW\\scenes_v1\\B0DLLSCVZW_scene_31.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "producto pequeño",
+            "raw": "5|producto pequeño"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DLLSCVZW\\scenes_v2\\B0DLLSCVZW_v2_scene_03.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "producto pequeño",
+            "raw": "5|producto pequeño"
+          }
+        ],
+        "features": []
+      },
+      {
+        "type": "content",
+        "title": "LectroFan Micro2",
+        "productId": "B00E6D6LQY",
+        "productName": "LectroFan Micro2",
+        "filename": "B00E6D6LQY.mp4",
+        "asin": "B00E6D6LQY",
+        "clipDuration": 99.67,
+        "estimatedAudioSeconds": 40,
+        "framework": "beneficio_oculto",
+        "narracionSegments": null,
+        "content": [
+          "Este pequeño dispositivo de sonido blanco es también un altavoz Bluetooth portátil. Lo que pocos saben es que su versatilidad permite usarlo como herramienta de relajación y concentración en el trabajo. Además, combina la calidad de sonido con la comodidad de llevarlo a cualquier parte.",
+          "Su precio actual en Amazon ronda los... 48 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: LectroFan Micro2"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B00E6D6LQY_combined.mp4",
+        "precio": "$48",
+        "productPhoto": "https://m.media-amazon.com/images/I/51E316urhTL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B00E6D6LQY\\scenes_v1\\B00E6D6LQY_scene_01.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B00E6D6LQY\\scenes_v1\\B00E6D6LQY_scene_03.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B00E6D6LQY\\scenes_v1\\B00E6D6LQY_scene_02.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B00E6D6LQY\\scenes_v1\\B00E6D6LQY_scene_04.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B00E6D6LQY\\scenes_v3\\B00E6D6LQY_v3_scene_01.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funciones visibles",
+            "raw": "9|funciones visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B00E6D6LQY\\scenes_v2\\B00E6D6LQY_v2_scene_01.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "producto visible",
+            "raw": "8|producto visible"
+          }
+        ],
+        "features": []
+      },
+      {
+        "type": "content",
+        "title": "Manta Sleep Mask",
+        "productId": "B07PRG2CQY",
+        "productName": "Manta Sleep Mask",
+        "filename": "B07PRG2CQY.mp4",
+        "asin": "B07PRG2CQY",
+        "clipDuration": 62.03,
+        "estimatedAudioSeconds": 46,
+        "framework": "problema_solucion",
+        "narracionSegments": null,
+        "content": [
+          "¿Cansado de la luz que interrumpe tu sueño? La Manta Sleep Mask ofrece un ajuste personalizado que bloquea toda la luz, brindando oscuridad total. Con su diseño cómodo y material suave, es la solución perfecta para dormir mejor donde sea.",
+          "Su precio actual en Amazon ronda los... 39 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Manta Sleep Mask"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07PRG2CQY_combined.mp4",
+        "precio": "$39",
+        "productPhoto": "https://m.media-amazon.com/images/I/91j-EDBgLGL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07PRG2CQY\\scenes_v1\\B07PRG2CQY_scene_06.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07PRG2CQY\\scenes_v1\\B07PRG2CQY_scene_10.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07PRG2CQY\\scenes_v1\\B07PRG2CQY_scene_09.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07PRG2CQY\\scenes_v2\\B07PRG2CQY_v2_scene_01.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07PRG2CQY\\scenes_v1\\B07PRG2CQY_scene_01.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "máscara de sueño",
+            "raw": "8|máscara de sueño"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07PRG2CQY\\scenes_v1\\B07PRG2CQY_scene_03.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "máscara sueño",
+            "raw": "8|máscara sueño"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07PRG2CQY\\scenes_v1\\B07PRG2CQY_scene_02.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "máscara de sueño",
+            "raw": "8|máscara de sueño"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07PRG2CQY\\scenes_v1\\B07PRG2CQY_scene_04.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "máscara negra",
+            "raw": "8|máscara negra"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07PRG2CQY\\scenes_v1\\B07PRG2CQY_scene_05.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "máscara sueño",
+            "raw": "8|máscara sueño"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07PRG2CQY\\scenes_v1\\B07PRG2CQY_scene_12.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "máscara de sueño",
+            "raw": "8|máscara de sueño"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07PRG2CQY\\scenes_v1\\B07PRG2CQY_scene_11.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "máscara sueño",
+            "raw": "5|máscara sueño"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07PRG2CQY\\scenes_v3\\B07PRG2CQY_v3_scene_01.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "producto pequeño",
+            "raw": "5|producto pequeño"
+          }
+        ],
+        "features": []
+      }
+    ],
+    "totalDuration": 75
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "Dale like y recuerda que los links están en el primer comentario."
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:45",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "para",
+    "dormir",
+    "mejor",
+    "puedes",
+    "comprar",
+    "ahora"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 3 Gadgets para Dormir Mejor que Puedes Comprar Ahora",
+      "angle": "Top 3 Gadgets para Dormir Mejor que Puedes Comprar Ahora",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 3,
+      "introScript": "¿Un despertador que simula el amanecer? ¿Una máquina de ruido blanco que cabe en tu bolsillo? Descubre los gadgets más innovadores para transformar tus noches de sueño en una experiencia revitalizante.",
+      "keywords": [
+        "gadgets",
+        "para",
+        "dormir",
+        "mejor",
+        "puedes",
+        "comprar",
+        "ahora"
+      ],
+      "estimatedViews": 3965,
+      "bestPublishTime": "2026-05-16T15:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Hatch Restore",
+          "searchTermEn": "Hatch Restore smart alarm",
+          "id": "B0DLLSCVZW",
+          "filename": "B0DLLSCVZW.mp4"
+        },
+        {
+          "nombre": "LectroFan Micro2",
+          "searchTermEn": "LectroFan Micro2 sound machine",
+          "id": "B00E6D6LQY",
+          "filename": "B00E6D6LQY.mp4"
+        },
+        {
+          "nombre": "Manta Sleep Mask",
+          "searchTermEn": "Manta sleep mask for sleeping",
+          "id": "B07PRG2CQY",
+          "filename": "B07PRG2CQY.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-05-12T21:24:40.171Z",
+      "_requestedCount": 3,
+      "_adaptedCount": 3,
+      "introProductsOrder": [
+        {
+          "nombre": "LectroFan Micro2",
+          "id": "B00E6D6LQY",
+          "filename": "B00E6D6LQY_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B00E6D6LQY_combined.mp4"
+        },
+        {
+          "nombre": "Hatch Restore",
+          "id": "B0DLLSCVZW",
+          "filename": "B0DLLSCVZW_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0DLLSCVZW_combined.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1778621994056_tzuhzn"
+    },
+    "generatedAt": "2026-05-12T21:39:58.495Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Hatch Restore",
+        "searchTermEn": "Hatch Restore smart alarm",
+        "id": "B0DLLSCVZW",
+        "filename": "B0DLLSCVZW.mp4"
+      },
+      {
+        "nombre": "LectroFan Micro2",
+        "searchTermEn": "LectroFan Micro2 sound machine",
+        "id": "B00E6D6LQY",
+        "filename": "B00E6D6LQY.mp4"
+      },
+      {
+        "nombre": "Manta Sleep Mask",
+        "searchTermEn": "Manta sleep mask for sleeping",
+        "id": "B07PRG2CQY",
+        "filename": "B07PRG2CQY.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 3 Gadgets para Dormir Mejor que Puedes Comprar Ahora\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\nOfrece sonido blanco en cualquier lugar. Controla tu entorno de sueño con luz y sonido.\n\n[0:10-0:15] INTRODUCTION\nSuscríbete, los links están en el primer comentario. Empecemos.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] HATCH RESTORE\nEquipado con un sistema de luz personalizada, el Hatch Restore transforma cualquier habitación en un refugio de descanso. La combinación de luces suaves y sonidos relajantes permite un control total sobre el ambiente para dormir. Este dispositivo no solo mejora la calidad del sueño, sino que también actúa como una alarma natural que simula el amanecer.\nSu precio actual en Amazon ronda los... 170 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Hatch Restore]\n\n[0:25] LECTROFAN MICRO2\nEste pequeño dispositivo de sonido blanco es también un altavoz Bluetooth portátil. Lo que pocos saben es que su versatilidad permite usarlo como herramienta de relajación y concentración en el trabajo. Además, combina la calidad de sonido con la comodidad de llevarlo a cualquier parte.\nSu precio actual en Amazon ronda los... 48 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: LectroFan Micro2]\n\n[0:25] MANTA SLEEP MASK\n¿Cansado de la luz que interrumpe tu sueño? La Manta Sleep Mask ofrece un ajuste personalizado que bloquea toda la luz, brindando oscuridad total. Con su diseño cómodo y material suave, es la solución perfecta para dormir mejor donde sea.\nSu precio actual en Amazon ronda los... 39 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Manta Sleep Mask]\n\n[10 seconds] CONCLUSION\nDale like y recuerda que los links están en el primer comentario.\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:45\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, para, dormir, mejor, puedes, comprar, ahora\n"
+}

@@ -1,0 +1,211 @@
+{
+  "title": "Top 7 Gadgets de Cocina que Simplifican Tu Vida",
+  "hook": {
+    "type": "statement",
+    "text": "¿Quieres transformar tu cocina en un espacio más práctico y moderno? ¡Estos gadgets lo hacen posible!",
+    "duration": "0:00-0:05"
+  },
+  "introduction": {
+    "greeting": "La cocina es el corazón del hogar, pero a veces puede ser un poco caótica. Hoy te presentamos los 7 gadgets de cocina que no solo simplificarán tus tareas, sino que también te harán lucir como un chef profesional. ¡Prepárate para la revolución culinaria!",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0:05-0:15"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Infusor de té magnético",
+        "content": [
+          "Comenzamos con un gadget imprescindible para los amantes del té: el infusor de té magnético. Su diseño innovador permite que se adhiera a cualquier superficie metálica, manteniéndolo siempre al alcance. Además, su sistema de filtrado garantiza una infusión perfecta, liberando todo el sabor de tus hojas favoritas. Ideal para aquellos que no pueden comenzar el día sin una buena taza de té.",
+          "Consíguelo por 34.95 dólares siguiendo el enlace en la descripción."
+        ],
+        "visuals": [
+          "Product image: Infusor de té magnético"
+        ],
+        "duration": 25
+      },
+      {
+        "type": "content",
+        "title": "Organizador de tapas telescópico",
+        "content": [
+          "Olvídate del caos en los cajones de tu cocina con este organizador de tapas telescópico. Su diseño ajustable se adapta a cualquier espacio, permitiendo almacenar tapas de diferentes tamaños de manera ordenada. Perfecto para quienes buscan mantener la cocina impecable y funcional.",
+          "Disponible por 22.99 dólares. ¡Echa un vistazo al enlace en la descripción!"
+        ],
+        "visuals": [
+          "Product image: Organizador de tapas telescópico"
+        ],
+        "duration": 25
+      },
+      {
+        "type": "content",
+        "title": "Cortador de frutas rápido",
+        "content": [
+          "¿Quién no ama un tazón de frutas frescas por la mañana? Este cortador de frutas rápido hace que prepararlas sea tarea de segundos. Con solo un movimiento, tendrás rebanadas perfectas sin esfuerzo, ideal para meriendas saludables y rápidas.",
+          "Llévatelo por solo 9.99 dólares en el enlace de la descripción."
+        ],
+        "visuals": [
+          "Product image: Cortador de frutas rápido"
+        ],
+        "duration": 25
+      },
+      {
+        "type": "content",
+        "title": "Pinzas con luz integrada",
+        "content": [
+          "Estas pinzas son el sueño de cualquier cocinero. Con una luz LED integrada, podrás cocinar con precisión incluso en ambientes oscuros. Son el complemento perfecto para esos asados nocturnos o para cuando necesitas un poco de luz extra en la cocina.",
+          "Revisa su precio actualizado en el primer comentario."
+        ],
+        "visuals": [
+          "Product image: Pinzas con luz integrada"
+        ],
+        "duration": 25
+      },
+      {
+        "type": "content",
+        "title": "Rallador giratorio multifunción",
+        "content": [
+          "El rallador giratorio multifunción es el aliado perfecto para preparar todo tipo de comidas. Con sus diferentes cuchillas, podrás rallar, cortar y picar una variedad de ingredientes con facilidad. Es ideal para quienes disfrutan de la cocina casera sin el desorden y el tiempo que lleva hacerlo manualmente.",
+          "Encuéntralo por 24.99 dólares, ¡aprovecha la oferta!"
+        ],
+        "visuals": [
+          "Product image: Rallador giratorio multifunción"
+        ],
+        "duration": 25
+      },
+      {
+        "type": "content",
+        "title": "Tapa de silicona ajustable",
+        "content": [
+          "Evita el uso de papel aluminio y plástico con la tapa de silicona ajustable. Se adapta a diferentes tamaños de recipientes, manteniendo tus alimentos frescos y evitando derrames. Excelente para aquellos que buscan ser más ecológicos en la cocina.",
+          "Consíguela por 16.95 dólares en la descripción."
+        ],
+        "visuals": [
+          "Product image: Tapa de silicona ajustable"
+        ],
+        "duration": 25
+      },
+      {
+        "type": "content",
+        "title": "Báscula digital plegable",
+        "content": [
+          "Finalizamos con la báscula digital plegable, perfecta para quienes tienen poco espacio en la cocina. Su diseño compacto te permite guardarla fácilmente, mientras que su precisión es ideal para cualquier receta. Un gadget imprescindible para cualquier amante de la repostería.",
+          "Disponible por solo 15.99 dólares en el enlace de la descripción."
+        ],
+        "visuals": [
+          "Product image: Báscula digital plegable"
+        ],
+        "duration": 25
+      }
+    ],
+    "totalDuration": 175
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "¿Cuál de estos gadgets te gustaría tener en tu cocina? Cuéntanos en los comentarios y no olvides darle like al video, suscribirte al canal y activar la campanita para más contenido como este. ¡Hasta la próxima!"
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "3:25",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "cocina",
+    "simplifican",
+    "vida"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 7 Gadgets de Cocina que Simplifican Tu Vida",
+      "angle": "Top 7 Gadgets de Cocina que Simplifican Tu Vida",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "keywords": [
+        "gadgets",
+        "cocina",
+        "simplifican",
+        "vida"
+      ],
+      "estimatedViews": 4928,
+      "bestPublishTime": "2026-04-05T15:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Báscula digital plegable",
+          "searchTermEn": "foldable digital kitchen scale"
+        },
+        {
+          "nombre": "Tapa de silicona ajustable",
+          "searchTermEn": "adjustable silicone lid"
+        },
+        {
+          "nombre": "Rallador giratorio multifunción",
+          "searchTermEn": "rotary multi-function grater"
+        },
+        {
+          "nombre": "Pinzas con luz integrada",
+          "searchTermEn": "tongs with built-in light"
+        },
+        {
+          "nombre": "Cortador de frutas rápido",
+          "searchTermEn": "quick fruit slicer"
+        },
+        {
+          "nombre": "Organizador de tapas telescópico",
+          "searchTermEn": "telescopic lid organizer"
+        },
+        {
+          "nombre": "Infusor de té magnético",
+          "searchTermEn": "magnetic tea infuser"
+        }
+      ],
+      "createdAt": "2026-04-01T20:12:01.040Z"
+    },
+    "generatedAt": "2026-04-01T20:14:24.256Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Báscula digital plegable",
+        "searchTermEn": "foldable digital kitchen scale"
+      },
+      {
+        "nombre": "Tapa de silicona ajustable",
+        "searchTermEn": "adjustable silicone lid"
+      },
+      {
+        "nombre": "Rallador giratorio multifunción",
+        "searchTermEn": "rotary multi-function grater"
+      },
+      {
+        "nombre": "Pinzas con luz integrada",
+        "searchTermEn": "tongs with built-in light"
+      },
+      {
+        "nombre": "Cortador de frutas rápido",
+        "searchTermEn": "quick fruit slicer"
+      },
+      {
+        "nombre": "Organizador de tapas telescópico",
+        "searchTermEn": "telescopic lid organizer"
+      },
+      {
+        "nombre": "Infusor de té magnético",
+        "searchTermEn": "magnetic tea infuser"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 7 Gadgets de Cocina que Simplifican Tu Vida\n\n══════════════════════════════════════════════════\n\n[0:00-0:05] HOOK\n¿Quieres transformar tu cocina en un espacio más práctico y moderno? ¡Estos gadgets lo hacen posible!\n\n[0:05-0:15] INTRODUCTION\nLa cocina es el corazón del hogar, pero a veces puede ser un poco caótica. Hoy te presentamos los 7 gadgets de cocina que no solo simplificarán tus tareas, sino que también te harán lucir como un chef profesional. ¡Prepárate para la revolución culinaria!\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] INFUSOR DE TÉ MAGNÉTICO\nComenzamos con un gadget imprescindible para los amantes del té: el infusor de té magnético. Su diseño innovador permite que se adhiera a cualquier superficie metálica, manteniéndolo siempre al alcance. Además, su sistema de filtrado garantiza una infusión perfecta, liberando todo el sabor de tus hojas favoritas. Ideal para aquellos que no pueden comenzar el día sin una buena taza de té.\nConsíguelo por 34.95 dólares siguiendo el enlace en la descripción.\n\n[VISUALS: Product image: Infusor de té magnético]\n\n[0:25] ORGANIZADOR DE TAPAS TELESCÓPICO\nOlvídate del caos en los cajones de tu cocina con este organizador de tapas telescópico. Su diseño ajustable se adapta a cualquier espacio, permitiendo almacenar tapas de diferentes tamaños de manera ordenada. Perfecto para quienes buscan mantener la cocina impecable y funcional.\nDisponible por 22.99 dólares. ¡Echa un vistazo al enlace en la descripción!\n\n[VISUALS: Product image: Organizador de tapas telescópico]\n\n[0:25] CORTADOR DE FRUTAS RÁPIDO\n¿Quién no ama un tazón de frutas frescas por la mañana? Este cortador de frutas rápido hace que prepararlas sea tarea de segundos. Con solo un movimiento, tendrás rebanadas perfectas sin esfuerzo, ideal para meriendas saludables y rápidas.\nLlévatelo por solo 9.99 dólares en el enlace de la descripción.\n\n[VISUALS: Product image: Cortador de frutas rápido]\n\n[0:25] PINZAS CON LUZ INTEGRADA\nEstas pinzas son el sueño de cualquier cocinero. Con una luz LED integrada, podrás cocinar con precisión incluso en ambientes oscuros. Son el complemento perfecto para esos asados nocturnos o para cuando necesitas un poco de luz extra en la cocina.\nRevisa su precio actualizado en el primer comentario.\n\n[VISUALS: Product image: Pinzas con luz integrada]\n\n[0:25] RALLADOR GIRATORIO MULTIFUNCIÓN\nEl rallador giratorio multifunción es el aliado perfecto para preparar todo tipo de comidas. Con sus diferentes cuchillas, podrás rallar, cortar y picar una variedad de ingredientes con facilidad. Es ideal para quienes disfrutan de la cocina casera sin el desorden y el tiempo que lleva hacerlo manualmente.\nEncuéntralo por 24.99 dólares, ¡aprovecha la oferta!\n\n[VISUALS: Product image: Rallador giratorio multifunción]\n\n[0:25] TAPA DE SILICONA AJUSTABLE\nEvita el uso de papel aluminio y plástico con la tapa de silicona ajustable. Se adapta a diferentes tamaños de recipientes, manteniendo tus alimentos frescos y evitando derrames. Excelente para aquellos que buscan ser más ecológicos en la cocina.\nConsíguela por 16.95 dólares en la descripción.\n\n[VISUALS: Product image: Tapa de silicona ajustable]\n\n[0:25] BÁSCULA DIGITAL PLEGABLE\nFinalizamos con la báscula digital plegable, perfecta para quienes tienen poco espacio en la cocina. Su diseño compacto te permite guardarla fácilmente, mientras que su precisión es ideal para cualquier receta. Un gadget imprescindible para cualquier amante de la repostería.\nDisponible por solo 15.99 dólares en el enlace de la descripción.\n\n[VISUALS: Product image: Báscula digital plegable]\n\n[10 seconds] CONCLUSION\n¿Cuál de estos gadgets te gustaría tener en tu cocina? Cuéntanos en los comentarios y no olvides darle like al video, suscribirte al canal y activar la campanita para más contenido como este. ¡Hasta la próxima!\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 3:25\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, cocina, simplifican, vida\n"
+}

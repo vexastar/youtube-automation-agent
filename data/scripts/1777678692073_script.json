@@ -1,0 +1,539 @@
+{
+  "title": "Top 2 Gadgets para tu Computadora Portátil",
+  "hook": {
+    "type": "statement",
+    "text": "Ilumina tu espacio sin reflejos molestos. Eleva tu laptop a una altura perfecta para trabajar.",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "Suscríbete, los links están en el primer comentario. Empecemos.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0:10-0:15"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Lámpara BenQ ScreenBar",
+        "productId": "B0CZ9P1QW9",
+        "productName": "Lámpara BenQ ScreenBar",
+        "filename": "B0CZ9P1QW9.mp4",
+        "asin": "B0CZ9P1QW9",
+        "clipDuration": 42.58,
+        "estimatedAudioSeconds": 58,
+        "framework": "problema_solucion",
+        "narracionSegments": [
+          {
+            "text": "¿Ejercitas la vista cada noche con una iluminación deficiente en tu escritorio?",
+            "asset_hint": "uso real"
+          },
+          {
+            "text": "La Lámpara BenQ ScreenBar es la solución perfecta.",
+            "asset_hint": "primer plano"
+          },
+          {
+            "text": "Su tecnología asimétrica elimina reflejos en la pantalla, maximizando la comodidad ocular.",
+            "asset_hint": "pantalla"
+          },
+          {
+            "text": "Con un sensor de movimiento, se enciende automáticamente cuando detecta presencia, ahorrando energía.",
+            "asset_hint": "detector de movimiento"
+          },
+          {
+            "text": "Además, se adapta a cualquier monitor gracias a su diseño de pinza patentado.",
+            "asset_hint": "instalación"
+          }
+        ],
+        "content": [
+          "¿Ejercitas la vista cada noche con una iluminación deficiente en tu escritorio? La Lámpara BenQ ScreenBar es la solución perfecta. Su tecnología asimétrica elimina reflejos en la pantalla, maximizando la comodidad ocular. Con un sensor de movimiento, se enciende automáticamente cuando detecta presencia, ahorrando energía. Además, se adapta a cualquier monitor gracias a su diseño de pinza patentado. Todo esto asegura una experiencia de trabajo más productiva y sin fatiga visual.",
+          "Su precio actual en Amazon ronda los... 139 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Lámpara BenQ ScreenBar"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0CZ9P1QW9.mp4",
+        "precio": "$139",
+        "productPhoto": "https://m.media-amazon.com/images/I/51NidtzAMBL.jpg",
+        "assets": {
+          "images": [
+            "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CZ9P1QW9\\img_01.jpg",
+            "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CZ9P1QW9\\img_02.jpg",
+            "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CZ9P1QW9\\img_03.jpg",
+            "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CZ9P1QW9\\img_04.jpg",
+            "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CZ9P1QW9\\img_05.jpg",
+            "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CZ9P1QW9\\img_06.jpg"
+          ],
+          "videos": [
+            "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CZ9P1QW9\\vid_02.mp4",
+            "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CZ9P1QW9\\vid_03.mp4"
+          ]
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CZ9P1QW9\\img_01.jpg",
+            "type": "image",
+            "score": 10,
+            "tag": "producto visible",
+            "raw": "10|producto visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CZ9P1QW9\\img_03.jpg",
+            "type": "image",
+            "score": 10,
+            "tag": "iluminación ultrawide",
+            "raw": "10|iluminación ultrawide"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CZ9P1QW9\\scenes\\B0CZ9P1QW9_scene_12.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "ajuste brillo",
+            "raw": "8|ajuste brillo"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CZ9P1QW9\\scenes\\B0CZ9P1QW9_scene_13.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "primer plano",
+            "raw": "8|primer plano"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CZ9P1QW9\\img_02.jpg",
+            "type": "image",
+            "score": 8,
+            "tag": "uso real",
+            "raw": "8|uso real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CZ9P1QW9\\img_05.jpg",
+            "type": "image",
+            "score": 8,
+            "tag": "compatibilidad monitor",
+            "raw": "8|compatibilidad monitor"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CZ9P1QW9\\img_06.jpg",
+            "type": "image",
+            "score": 8,
+            "tag": "accesorio webcam",
+            "raw": "8|accesorio webcam"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CZ9P1QW9\\scenes\\B0CZ9P1QW9_scene_08.mp4",
+            "type": "video",
+            "score": 7,
+            "tag": "uso real",
+            "raw": "7|uso real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CZ9P1QW9\\img_04.jpg",
+            "type": "image",
+            "score": 7,
+            "tag": "uso real",
+            "raw": "7|uso real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CZ9P1QW9\\scenes\\B0CZ9P1QW9_scene_03.mp4",
+            "type": "video",
+            "score": 6,
+            "tag": "uso real",
+            "raw": "6|uso real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CZ9P1QW9\\scenes\\B0CZ9P1QW9_scene_07.mp4",
+            "type": "video",
+            "score": 6,
+            "tag": "uso real",
+            "raw": "6|uso real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CZ9P1QW9\\scenes\\B0CZ9P1QW9_scene_04.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "uso real",
+            "raw": "5|uso real"
+          }
+        ],
+        "features": [
+          "BRIGHT AND ULTRAWIDE ILLUMINATION – ScreenBar Pro offers over 1000lx central brightness and a 500lx range within 33\"x20\" (85cmx50cm), outperforming most desk lamps and enhancing eye comfort with ample illumination.",
+          "HIGH COMPATIBILITY – Fits monitors 0.17\" - 2.56\" (0.43cm-6.5cm) thick and curvature 1000-1800R. Patented clamp design accommodates monitors with special back designs or non-flat top bezel. Easy setup and no blocking to camera lens.",
+          "MOTION SENSOR – The ultrasonic motion sensor detects movements within a 24\"±4\" (60cm±10cm) diameter range, automatically lighting up when you're nearby and shutting down after 5 mins of absence to save energy.",
+          "ASYM-LIGHT TECHNOLOGY– ScreenBar Pro's unique asymmetrical optics prevents screen reflection and direct glare, lighting up the desktop for enhanced productivity while reducing eye strain.",
+          "SPACE SAVING – ScreenBar Pro integrates convenient function buttons for easy adjustments and sits directly on monitors to save desk space. Powered via USB-C or with the included adapter for flexible use."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Soporte de Laptop MOFT",
+        "productId": "B089GQFCNC",
+        "productName": "Soporte de Laptop MOFT",
+        "filename": "B089GQFCNC.mp4",
+        "asin": "B089GQFCNC",
+        "clipDuration": 68.64,
+        "estimatedAudioSeconds": 72,
+        "framework": "enfoque_caracteristica",
+        "narracionSegments": [
+          {
+            "text": "El soporte de laptop MOFT impresiona con su diseño del tamaño de una revista que se almacena fácilmente.",
+            "asset_hint": "embalaje"
+          },
+          {
+            "text": "Ofrece una estación de trabajo elevada, posicionando tu pantalla a la altura de los ojos para una mejor postura.",
+            "asset_hint": "uso real"
+          },
+          {
+            "text": "Sus modos versátiles permiten ajustar el ángulo para diferentes tareas, y su estructura en Z garantiza estabilidad, soportando hasta 22 libras.",
+            "asset_hint": "primer plano"
+          },
+          {
+            "text": "Este soporte transforma cualquier espacio en un entorno de trabajo ergonómico y cómodo.",
+            "asset_hint": "entorno de trabajo"
+          }
+        ],
+        "content": [
+          "El soporte de laptop MOFT impresiona con su diseño del tamaño de una revista que se almacena fácilmente. Ofrece una estación de trabajo elevada, posicionando tu pantalla a la altura de los ojos para una mejor postura. Sus modos versátiles permiten ajustar el ángulo para diferentes tareas, y su estructura en Z garantiza estabilidad, soportando hasta 22 libras. Este soporte transforma cualquier espacio en un entorno de trabajo ergonómico y cómodo.",
+          "Su precio actual en Amazon ronda los... 21 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Soporte de Laptop MOFT"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B089GQFCNC.mp4",
+        "precio": "$21",
+        "productPhoto": "https://m.media-amazon.com/images/I/61zkNdRyS-L.jpg",
+        "assets": {
+          "images": [
+            "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B089GQFCNC\\img_01.jpg",
+            "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B089GQFCNC\\img_02.jpg",
+            "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B089GQFCNC\\img_03.jpg",
+            "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B089GQFCNC\\img_04.jpg",
+            "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B089GQFCNC\\img_05.jpg",
+            "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B089GQFCNC\\img_06.jpg"
+          ],
+          "videos": [
+            "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B089GQFCNC\\vid_02.mp4",
+            "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B089GQFCNC\\vid_03.mp4"
+          ]
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B089GQFCNC\\img_01.jpg",
+            "type": "image",
+            "score": 9,
+            "tag": "producto visible",
+            "raw": "9|producto visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B089GQFCNC\\img_04.jpg",
+            "type": "image",
+            "score": 9,
+            "tag": "producto visible",
+            "raw": "9|producto visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B089GQFCNC\\scenes\\B089GQFCNC_scene_05.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "uso real",
+            "raw": "8|uso real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B089GQFCNC\\scenes\\B089GQFCNC_scene_09.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "uso real",
+            "raw": "8|uso real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B089GQFCNC\\scenes\\B089GQFCNC_scene_15.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "producto visible",
+            "raw": "8|producto visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B089GQFCNC\\scenes\\B089GQFCNC_scene_20.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "uso real",
+            "raw": "8|uso real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B089GQFCNC\\scenes\\B089GQFCNC_scene_21.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "uso real",
+            "raw": "8|uso real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B089GQFCNC\\scenes\\B089GQFCNC_scene_22.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "uso real",
+            "raw": "8|uso real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B089GQFCNC\\scenes\\B089GQFCNC_scene_23.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "uso real",
+            "raw": "8|uso real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B089GQFCNC\\scenes\\B089GQFCNC_scene_24.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "uso real",
+            "raw": "8|uso real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B089GQFCNC\\vid_02.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "uso real",
+            "raw": "8|uso real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B089GQFCNC\\vid_03.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "uso real",
+            "raw": "8|uso real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B089GQFCNC\\img_03.jpg",
+            "type": "image",
+            "score": 8,
+            "tag": "uso real",
+            "raw": "8|uso real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B089GQFCNC\\img_02.jpg",
+            "type": "image",
+            "score": 8,
+            "tag": "uso real",
+            "raw": "8|uso real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B089GQFCNC\\img_06.jpg",
+            "type": "image",
+            "score": 8,
+            "tag": "uso real",
+            "raw": "8|uso real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B089GQFCNC\\scenes\\B089GQFCNC_scene_02.mp4",
+            "type": "video",
+            "score": 7,
+            "tag": "uso real",
+            "raw": "7|uso real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B089GQFCNC\\scenes\\B089GQFCNC_scene_10.mp4",
+            "type": "video",
+            "score": 7,
+            "tag": "uso real",
+            "raw": "7|uso real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B089GQFCNC\\scenes\\B089GQFCNC_scene_11.mp4",
+            "type": "video",
+            "score": 7,
+            "tag": "uso real",
+            "raw": "7|uso real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B089GQFCNC\\scenes\\B089GQFCNC_scene_19.mp4",
+            "type": "video",
+            "score": 7,
+            "tag": "uso real",
+            "raw": "7|uso real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B089GQFCNC\\scenes\\B089GQFCNC_scene_26.mp4",
+            "type": "video",
+            "score": 7,
+            "tag": "uso real",
+            "raw": "7|uso real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B089GQFCNC\\scenes\\B089GQFCNC_scene_03.mp4",
+            "type": "video",
+            "score": 6,
+            "tag": "uso real",
+            "raw": "6|uso real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B089GQFCNC\\scenes\\B089GQFCNC_scene_18.mp4",
+            "type": "video",
+            "score": 6,
+            "tag": "uso real",
+            "raw": "6|uso real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B089GQFCNC\\scenes\\B089GQFCNC_scene_25.mp4",
+            "type": "video",
+            "score": 6,
+            "tag": "uso real",
+            "raw": "6|uso real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B089GQFCNC\\scenes\\B089GQFCNC_scene_27.mp4",
+            "type": "video",
+            "score": 6,
+            "tag": "uso real",
+            "raw": "6|uso real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B089GQFCNC\\scenes\\B089GQFCNC_scene_31.mp4",
+            "type": "video",
+            "score": 6,
+            "tag": "producto visible",
+            "raw": "6|producto visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B089GQFCNC\\img_05.jpg",
+            "type": "image",
+            "score": 6,
+            "tag": "estructura soporte",
+            "raw": "6|estructura soporte"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B089GQFCNC\\scenes\\B089GQFCNC_scene_01.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "uso real",
+            "raw": "5|uso real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B089GQFCNC\\scenes\\B089GQFCNC_scene_08.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "uso real",
+            "raw": "5|uso real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B089GQFCNC\\scenes\\B089GQFCNC_scene_12.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "uso real",
+            "raw": "5|uso real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B089GQFCNC\\scenes\\B089GQFCNC_scene_13.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "producto en manos",
+            "raw": "5|producto en manos"
+          }
+        ],
+        "features": [
+          "[Magzine-Sized] Its dimensions are 9.4*11*0.5in, so it can be easily stored in a bookshelf without being noticed or a bag before heading out.",
+          "[A Standing Workstation] The desk offers a natural height of 10in to raise your laptop, allowing you to work with your palm rested onto the laptop and the screen at eye level.",
+          "[Versatile Modes] There are four modes in sitting modes including 25°, 35°, 45° and 60° for every kind of needs when you sit at your desk, be it comfortable typing, working with peripherals or browsing.",
+          "[Rocky-Steady] Its unique Z structure and tri-angle bottom support ensures its stability and heavy-duty use. It can hold up to 22 lbs.",
+          "[Premium Materials] It’s constructed with customized PU and stiff fiberglass, making it tough enough for your daily usage and comfortable to touch."
+        ]
+      }
+    ],
+    "totalDuration": 50
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "Dale like y recuerda que los links están en el primer comentario."
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:20",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "para",
+    "computadora",
+    "porttil"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 2 Gadgets para tu Computadora Portátil",
+      "angle": "Top 2 Gadgets para tu Computadora Portátil",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 2,
+      "introScript": "¿Una lámpara LED sin cables que ilumina cualquier superficie metálica? ¿O un soporte plegable que adapta tu laptop a cualquier ángulo? Descubre dos gadgets que revolucionarán cómo usas tu portátil, convirtiendo tu espacio en un entorno de trabajo más eficiente y cómodo.",
+      "keywords": [
+        "gadgets",
+        "para",
+        "computadora",
+        "porttil"
+      ],
+      "estimatedViews": 4616,
+      "bestPublishTime": "2026-05-03T15:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Lámpara BenQ ScreenBar",
+          "searchTermEn": "BenQ ScreenBar LED lamp",
+          "id": "B0CZ9P1QW9",
+          "filename": "B0CZ9P1QW9.mp4"
+        },
+        {
+          "nombre": "Soporte de Laptop MOFT",
+          "searchTermEn": "MOFT laptop stand adjustable",
+          "id": "B089GQFCNC",
+          "filename": "B089GQFCNC.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-05-01T23:32:29.894Z",
+      "_requestedCount": 2,
+      "_adaptedCount": 2,
+      "introProductsOrder": [
+        {
+          "nombre": "Lámpara BenQ ScreenBar",
+          "id": "B0CZ9P1QW9",
+          "filename": "B0CZ9P1QW9.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0CZ9P1QW9_clean.mp4"
+        },
+        {
+          "nombre": "Soporte de Laptop MOFT",
+          "id": "B089GQFCNC",
+          "filename": "B089GQFCNC.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B089GQFCNC_clean.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1777678650363_g1iovc"
+    },
+    "generatedAt": "2026-05-01T23:37:38.755Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Lámpara BenQ ScreenBar",
+        "searchTermEn": "BenQ ScreenBar LED lamp",
+        "id": "B0CZ9P1QW9",
+        "filename": "B0CZ9P1QW9.mp4"
+      },
+      {
+        "nombre": "Soporte de Laptop MOFT",
+        "searchTermEn": "MOFT laptop stand adjustable",
+        "id": "B089GQFCNC",
+        "filename": "B089GQFCNC.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 2 Gadgets para tu Computadora Portátil\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\nIlumina tu espacio sin reflejos molestos. Eleva tu laptop a una altura perfecta para trabajar.\n\n[0:10-0:15] INTRODUCTION\nSuscríbete, los links están en el primer comentario. Empecemos.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] LÁMPARA BENQ SCREENBAR\n¿Ejercitas la vista cada noche con una iluminación deficiente en tu escritorio? La Lámpara BenQ ScreenBar es la solución perfecta. Su tecnología asimétrica elimina reflejos en la pantalla, maximizando la comodidad ocular. Con un sensor de movimiento, se enciende automáticamente cuando detecta presencia, ahorrando energía. Además, se adapta a cualquier monitor gracias a su diseño de pinza patentado. Todo esto asegura una experiencia de trabajo más productiva y sin fatiga visual.\nSu precio actual en Amazon ronda los... 139 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Lámpara BenQ ScreenBar]\n\n[0:25] SOPORTE DE LAPTOP MOFT\nEl soporte de laptop MOFT impresiona con su diseño del tamaño de una revista que se almacena fácilmente. Ofrece una estación de trabajo elevada, posicionando tu pantalla a la altura de los ojos para una mejor postura. Sus modos versátiles permiten ajustar el ángulo para diferentes tareas, y su estructura en Z garantiza estabilidad, soportando hasta 22 libras. Este soporte transforma cualquier espacio en un entorno de trabajo ergonómico y cómodo.\nSu precio actual en Amazon ronda los... 21 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Soporte de Laptop MOFT]\n\n[10 seconds] CONCLUSION\nDale like y recuerda que los links están en el primer comentario.\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:20\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, para, computadora, porttil\n"
+}

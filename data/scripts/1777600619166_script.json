@@ -1,0 +1,794 @@
+{
+  "title": "19 gadgets que no te puedes perder en Amazon",
+  "hook": {
+    "type": "statement",
+    "text": "Este dispositivo controla tu hogar desde cualquier lugar. Graba videos estabilizados con facilidad. Encuentra tus objetos perdidos al instante. Proyecta un teclado virtual en cualquier superficie. Toma notas y borra como en papel.",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "Suscríbete, los links están en el primer comentario. Empecemos.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0:10-0:15"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Ekster Parliament Wallet",
+        "productId": "prod_1",
+        "productName": "Ekster Parliament Wallet",
+        "filename": "B07PVMK5NJ.mp4",
+        "asin": "B07PVMK5NJ",
+        "clipDuration": 37.19,
+        "estimatedAudioSeconds": 34,
+        "framework": "problema_solucion",
+        "content": [
+          "¿Cansado de buscar tarjetas en tu cartera? La Ekster Parliament Wallet te permite acceder a ellas con solo presionar un botón. Además, su diseño elegante protege contra el robo de datos RFID.",
+          "Su precio actual en Amazon ronda los... 89 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Ekster Parliament Wallet"
+        ],
+        "duration": 25,
+        "precio": "$89",
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07PVMK5NJ.mp4",
+        "productPhoto": null
+      },
+      {
+        "type": "content",
+        "title": "Rocketbook Smart Notebook",
+        "productId": "prod_2",
+        "productName": "Rocketbook Smart Notebook",
+        "filename": "B0DP3HRDC2.mp4",
+        "asin": "B0DP3HRDC2",
+        "clipDuration": 1013.31,
+        "estimatedAudioSeconds": 1020,
+        "framework": "enfoque_caracteristica",
+        "content": [
+          "Fabricado con páginas sintéticas, el Rocketbook Smart Notebook es reutilizable y compatible con aplicaciones en la nube. Puedes escribir con cualquier bolígrafo Pilot Frixion, borrar con un paño húmedo y almacenar tus notas de forma digital. Este cuaderno revoluciona la manera de tomar notas, combinando la experiencia tradicional de escritura con la tecnología moderna.",
+          "Su precio actual en Amazon ronda los... 35 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Rocketbook Smart Notebook"
+        ],
+        "duration": 25,
+        "precio": "$35",
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0DP3HRDC2.mp4",
+        "productPhoto": null
+      },
+      {
+        "type": "content",
+        "title": "Snapods Auriculares Magnéticos",
+        "productId": "prod_3",
+        "productName": "Snapods Auriculares Magnéticos",
+        "filename": "B0FZT9D21Y.mp4",
+        "asin": "B0FZT9D21Y",
+        "clipDuration": 54.89,
+        "estimatedAudioSeconds": 50,
+        "framework": "beneficio_oculto",
+        "content": [
+          "Lo que pocos saben de los Snapods Auriculares Magnéticos es su diseño de carga magnética, que ofrece una experiencia sin cables y una calidad de sonido excepcional. Su estuche compacto permite llevarlos a cualquier lugar.",
+          "Su precio actual en Amazon ronda los... 80 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Snapods Auriculares Magnéticos"
+        ],
+        "duration": 25,
+        "precio": "$80",
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0FZT9D21Y.mp4",
+        "productPhoto": null
+      },
+      {
+        "type": "content",
+        "title": "Nebula Capsule Proyector",
+        "productId": "prod_4",
+        "productName": "Nebula Capsule Proyector",
+        "filename": "B0CHW11C8H.mp4",
+        "asin": "B0CHW11C8H",
+        "clipDuration": 58.99,
+        "estimatedAudioSeconds": 78,
+        "framework": "problema_solucion",
+        "content": [
+          "¿Quieres llevar el cine a cualquier parte? El Nebula Capsule Proyector transforma cualquier lugar en una sala de cine portátil. Con su diseño compacto y batería integrada, puedes disfrutar de hasta 4 horas de proyección continua.",
+          "Su precio actual en Amazon ronda los... 349 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Nebula Capsule Proyector"
+        ],
+        "duration": 25,
+        "precio": "$349",
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0CHW11C8H.mp4",
+        "productPhoto": null
+      },
+      {
+        "type": "content",
+        "title": "Tile Pro Rastreador Bluetooth",
+        "productId": "prod_5",
+        "productName": "Tile Pro Rastreador Bluetooth",
+        "filename": "B0D637HWC5.mp4",
+        "asin": "B0D637HWC5",
+        "clipDuration": 28.56,
+        "estimatedAudioSeconds": 24,
+        "framework": "enfoque_caracteristica",
+        "content": [
+          "Con un alcance de hasta 400 pies, el Tile Pro Rastreador Bluetooth es el dispositivo perfecto para nunca más perder tus objetos. Puedes usar la app para localizarlos fácilmente.",
+          "Su precio actual en Amazon ronda los... 35 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Tile Pro Rastreador Bluetooth"
+        ],
+        "duration": 25,
+        "precio": "$35",
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0D637HWC5.mp4",
+        "productPhoto": null
+      },
+      {
+        "type": "content",
+        "title": "Oura Ring Monitor Salud",
+        "productId": "prod_6",
+        "productName": "Oura Ring Monitor Salud",
+        "filename": "B0D9WT1S2T.mp4",
+        "asin": "B0D9WT1S2T",
+        "clipDuration": 88.59,
+        "estimatedAudioSeconds": 84,
+        "framework": "beneficio_oculto",
+        "content": [
+          "Más que un simple anillo, el Oura Ring Monitor Salud rastrea tus patrones de sueño, actividad y salud diaria. Este pequeño dispositivo proporciona datos precisos y personalizados, ideal para mejorar tu bienestar.",
+          "Su precio actual en Amazon ronda los... 299 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Oura Ring Monitor Salud"
+        ],
+        "duration": 25,
+        "precio": "$299",
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0D9WT1S2T.mp4",
+        "productPhoto": null
+      },
+      {
+        "type": "content",
+        "title": "Peak Design Tech Pouch",
+        "productId": "prod_7",
+        "productName": "Peak Design Tech Pouch",
+        "filename": "B0BBV76LS7.mp4",
+        "asin": "B0BBV76LS7",
+        "clipDuration": 34.26,
+        "estimatedAudioSeconds": 44,
+        "framework": "problema_solucion",
+        "content": [
+          "¿Tienes problemas para organizar tus gadgets? El Peak Design Tech Pouch soluciona esto con su diseño de múltiples compartimentos, ideal para mantener todo en orden y accesible.",
+          "Su precio actual en Amazon ronda los... 60 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Peak Design Tech Pouch"
+        ],
+        "duration": 25,
+        "precio": "$60",
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0BBV76LS7.mp4",
+        "productPhoto": null
+      },
+      {
+        "type": "content",
+        "title": "Aqara Smart Home Hub M2",
+        "productId": "prod_8",
+        "productName": "Aqara Smart Home Hub M2",
+        "filename": "B0CWLHSKYC.mp4",
+        "asin": "B0CWLHSKYC",
+        "clipDuration": 71.27,
+        "estimatedAudioSeconds": 84,
+        "framework": "enfoque_caracteristica",
+        "content": [
+          "El Aqara Smart Home Hub M2 es la solución central para automatizar tu hogar inteligente. Compatible con múltiples dispositivos, permite controlar luces, cámaras y sensores desde un solo lugar.",
+          "Su precio actual en Amazon ronda los... 40 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Aqara Smart Home Hub M2"
+        ],
+        "duration": 25,
+        "precio": "$40",
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0CWLHSKYC.mp4",
+        "productPhoto": null
+      },
+      {
+        "type": "content",
+        "title": "Luminoodle LED Light Rope",
+        "productId": "prod_9",
+        "productName": "Luminoodle LED Light Rope",
+        "filename": "B01LG99NW4.mp4",
+        "asin": "B01LG99NW4",
+        "clipDuration": 73.36,
+        "estimatedAudioSeconds": 78,
+        "framework": "beneficio_oculto",
+        "content": [
+          "La Luminoodle LED Light Rope no solo ilumina, sino que también transforma cualquier ambiente. Este cable flexible es perfecto para acampar, decorar o emergencias, proporcionando luz instantánea donde sea necesario.",
+          "Su precio actual en Amazon ronda los... 25 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Luminoodle LED Light Rope"
+        ],
+        "duration": 25,
+        "precio": "$25",
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B01LG99NW4.mp4",
+        "productPhoto": null
+      },
+      {
+        "type": "content",
+        "title": "Anker PowerCore 10000",
+        "productId": "prod_10",
+        "productName": "Anker PowerCore 10000",
+        "filename": "B0D5CLSMFB.mp4",
+        "asin": "B0D5CLSMFB",
+        "clipDuration": 69.6,
+        "estimatedAudioSeconds": 82,
+        "framework": "problema_solucion",
+        "content": [
+          "¿Quedarte sin batería es un problema común? El Anker PowerCore 10000 ofrece una carga rápida y confiable para tus dispositivos, asegurando que siempre estés conectado.",
+          "Su precio actual en Amazon ronda los... 35 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Anker PowerCore 10000"
+        ],
+        "duration": 25,
+        "precio": "$35",
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0D5CLSMFB.mp4",
+        "productPhoto": null
+      },
+      {
+        "type": "content",
+        "title": "Meater Termómetro Inalámbrico",
+        "productId": "prod_11",
+        "productName": "Meater Termómetro Inalámbrico",
+        "filename": "B0D2LQGJ2V.mp4",
+        "asin": "B0D2LQGJ2V",
+        "clipDuration": 30.1,
+        "estimatedAudioSeconds": 26,
+        "framework": "enfoque_caracteristica",
+        "content": [
+          "El Meater Termómetro Inalámbrico está diseñado para cocinar a la perfección. Sin cables, ofrece lecturas precisas que aseguran resultados deliciosos cada vez.",
+          "Su precio actual en Amazon ronda los... 70 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Meater Termómetro Inalámbrico"
+        ],
+        "duration": 25,
+        "precio": "$70",
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0D2LQGJ2V.mp4",
+        "productPhoto": null
+      },
+      {
+        "type": "content",
+        "title": "LIFX Smart Bulb Color",
+        "productId": "prod_12",
+        "productName": "LIFX Smart Bulb Color",
+        "filename": "B08FWH238Y.mp4",
+        "asin": "B08FWH238Y",
+        "clipDuration": 69.49,
+        "estimatedAudioSeconds": 82,
+        "framework": "beneficio_oculto",
+        "content": [
+          "Lo que no sabes de la LIFX Smart Bulb Color es su capacidad de ofrecer millones de colores personalizables. Controla la luz de tu hogar desde cualquier lugar con facilidad.",
+          "Su precio actual en Amazon ronda los... 45 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: LIFX Smart Bulb Color"
+        ],
+        "duration": 25,
+        "precio": "$45",
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B08FWH238Y.mp4",
+        "productPhoto": null
+      },
+      {
+        "type": "content",
+        "title": "Ember Mug² Taza Inteligente",
+        "productId": "prod_13",
+        "productName": "Ember Mug² Taza Inteligente",
+        "filename": "B0CMJQZ5PL.mp4",
+        "asin": "B0CMJQZ5PL",
+        "clipDuration": 58.01,
+        "estimatedAudioSeconds": 66,
+        "framework": "problema_solucion",
+        "content": [
+          "¿Tu café se enfría antes de terminarlo? La Ember Mug² Taza Inteligente mantiene tu bebida a la temperatura perfecta durante horas.",
+          "Su precio actual en Amazon ronda los... 150 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Ember Mug² Taza Inteligente"
+        ],
+        "duration": 25,
+        "precio": "$150",
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0CMJQZ5PL.mp4",
+        "productPhoto": null
+      },
+      {
+        "type": "content",
+        "title": "Kasa Smart Plug Mini",
+        "productId": "prod_14",
+        "productName": "Kasa Smart Plug Mini",
+        "filename": "B091FXLMS8.mp4",
+        "asin": "B091FXLMS8",
+        "clipDuration": 85.07,
+        "estimatedAudioSeconds": 86,
+        "framework": "enfoque_caracteristica",
+        "content": [
+          "El Kasa Smart Plug Mini es un enchufe inteligente compacto que permite controlar tus dispositivos desde cualquier lugar. Su integración con asistentes de voz facilita aún más su uso diario, creando un hogar realmente conectado.",
+          "Su precio actual en Amazon ronda los... 15 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Kasa Smart Plug Mini"
+        ],
+        "duration": 25,
+        "precio": "$15",
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B091FXLMS8.mp4",
+        "productPhoto": null
+      },
+      {
+        "type": "content",
+        "title": "KeySmart Pro Organizador de Llaves",
+        "productId": "prod_15",
+        "productName": "KeySmart Pro Organizador de Llaves",
+        "filename": "B00JXQQXNU.mp4",
+        "asin": "B00JXQQXNU",
+        "clipDuration": 88.28,
+        "estimatedAudioSeconds": 95,
+        "framework": "beneficio_oculto",
+        "content": [
+          "El KeySmart Pro Organizador de Llaves es más que un llavero; incorpora un rastreador Tile que te permite localizar tus llaves en segundos. Además, cuenta con una linterna LED integrada.",
+          "Su precio actual en Amazon ronda los... 30 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: KeySmart Pro Organizador de Llaves"
+        ],
+        "duration": 25,
+        "precio": "$30",
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B00JXQQXNU.mp4",
+        "productPhoto": null
+      },
+      {
+        "type": "content",
+        "title": "Furbo Dog Camera",
+        "productId": "prod_16",
+        "productName": "Furbo Dog Camera",
+        "filename": "B09GDQZLD1.mp4",
+        "asin": "B09GDQZLD1",
+        "clipDuration": 21.92,
+        "estimatedAudioSeconds": 34,
+        "framework": "problema_solucion",
+        "content": [
+          "¿Preocupado por dejar a tu mascota sola en casa? La Furbo Dog Camera te permite vigilar y comunicarte con tu perro, lanzando incluso premios a distancia.",
+          "Su precio actual en Amazon ronda los... 169 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Furbo Dog Camera"
+        ],
+        "duration": 25,
+        "precio": "$169",
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B09GDQZLD1.mp4",
+        "productPhoto": null
+      },
+      {
+        "type": "content",
+        "title": "Wemo Mini Smart Plug",
+        "productId": "prod_17",
+        "productName": "Wemo Mini Smart Plug",
+        "filename": "B0CHDCYSW7.mp4",
+        "asin": "B0CHDCYSW7",
+        "clipDuration": 85.07,
+        "estimatedAudioSeconds": 88,
+        "framework": "enfoque_caracteristica",
+        "content": [
+          "Con su diseño compacto, el Wemo Mini Smart Plug permite controlar tus dispositivos desde cualquier lugar. Compatible con asistentes de voz, ofrece tecnología avanzada en la palma de tu mano.",
+          "Su precio actual en Amazon ronda los... 20 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Wemo Mini Smart Plug"
+        ],
+        "duration": 25,
+        "precio": "$20",
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0CHDCYSW7.mp4",
+        "productPhoto": null
+      },
+      {
+        "type": "content",
+        "title": "DJI Osmo Mobile 3",
+        "productId": "prod_18",
+        "productName": "DJI Osmo Mobile 3",
+        "filename": "B07FSS4R16.mp4",
+        "asin": "B07FSS4R16",
+        "clipDuration": 353.52,
+        "estimatedAudioSeconds": 391,
+        "framework": "beneficio_oculto",
+        "content": [
+          "Lo que pocos saben del DJI Osmo Mobile 3 es su capacidad de estabilización avanzada que transforma tus grabaciones en videos profesionales. Además, su diseño plegable lo hace ideal para llevar a cualquier lugar.",
+          "Su precio actual en Amazon ronda los... 99 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: DJI Osmo Mobile 3"
+        ],
+        "duration": 25,
+        "precio": "$99",
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07FSS4R16.mp4",
+        "productPhoto": null
+      },
+      {
+        "type": "content",
+        "title": "Teclado Láser AGS Virtual",
+        "productId": "prod_19",
+        "productName": "Teclado Láser AGS Virtual",
+        "filename": "B0F145ZPNT.mp4",
+        "asin": "B0F145ZPNT",
+        "clipDuration": 28.9,
+        "estimatedAudioSeconds": 44,
+        "framework": "problema_solucion",
+        "content": [
+          "¿Cansado de teclados voluminosos? El Teclado Láser AGS Virtual proyecta un teclado en cualquier superficie, ahorrando espacio y ofreciendo comodidad.",
+          "Su precio actual en Amazon ronda los... 50 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Teclado Láser AGS Virtual"
+        ],
+        "duration": 25,
+        "precio": "$50",
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0F145ZPNT.mp4",
+        "productPhoto": null
+      }
+    ],
+    "totalDuration": 475
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "Dale like y recuerda que los links están en el primer comentario."
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "8:25",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "puedes",
+    "perder",
+    "amazon"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "19 gadgets que no te puedes perder en Amazon",
+      "angle": "19 gadgets que no te puedes perder en Amazon",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 19,
+      "introScript": "Descubre los productos más innovadores que transformarán tu día a día. Desde la billetera inteligente Ekster Parliament hasta el fascinante Teclado Láser AGS Virtual, estos 19 gadgets están arrasando en Amazon. ¿Listo para revolucionar tu vida con estilo y tecnología de vanguardia?",
+      "keywords": [
+        "gadgets",
+        "puedes",
+        "perder",
+        "amazon"
+      ],
+      "estimatedViews": 6069,
+      "bestPublishTime": "2026-05-06T19:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "id": "B07PVMK5NJ",
+          "nombre": "Ekster Parliament Wallet",
+          "filename": "B07PVMK5NJ.mp4",
+          "precio": 89,
+          "searchTermEn": "Ekster Parliament Wallet"
+        },
+        {
+          "id": "B0DP3HRDC2",
+          "nombre": "Rocketbook Smart Notebook",
+          "filename": "B0DP3HRDC2.mp4",
+          "precio": 35,
+          "searchTermEn": "Rocketbook Smart Notebook"
+        },
+        {
+          "id": "B0FZT9D21Y",
+          "nombre": "Snapods Auriculares Magnéticos",
+          "filename": "B0FZT9D21Y.mp4",
+          "precio": 80,
+          "searchTermEn": "Snapods Auriculares Magnéticos"
+        },
+        {
+          "id": "B0CHW11C8H",
+          "nombre": "Nebula Capsule Proyector",
+          "filename": "B0CHW11C8H.mp4",
+          "precio": 349,
+          "searchTermEn": "Nebula Capsule Proyector"
+        },
+        {
+          "id": "B0D637HWC5",
+          "nombre": "Tile Pro Rastreador Bluetooth",
+          "filename": "B0D637HWC5.mp4",
+          "precio": 35,
+          "searchTermEn": "Tile Pro Rastreador Bluetooth"
+        },
+        {
+          "id": "B0D9WT1S2T",
+          "nombre": "Oura Ring Monitor Salud",
+          "filename": "B0D9WT1S2T.mp4",
+          "precio": 299,
+          "searchTermEn": "Oura Ring Monitor Salud"
+        },
+        {
+          "id": "B0BBV76LS7",
+          "nombre": "Peak Design Tech Pouch",
+          "filename": "B0BBV76LS7.mp4",
+          "precio": 60,
+          "searchTermEn": "Peak Design Tech Pouch"
+        },
+        {
+          "id": "B0CWLHSKYC",
+          "nombre": "Aqara Smart Home Hub M2",
+          "filename": "B0CWLHSKYC.mp4",
+          "precio": 40,
+          "searchTermEn": "Aqara Smart Home Hub M2"
+        },
+        {
+          "id": "B01LG99NW4",
+          "nombre": "Luminoodle LED Light Rope",
+          "filename": "B01LG99NW4.mp4",
+          "precio": 25,
+          "searchTermEn": "Luminoodle LED Light Rope"
+        },
+        {
+          "id": "B0D5CLSMFB",
+          "nombre": "Anker PowerCore 10000",
+          "filename": "B0D5CLSMFB.mp4",
+          "precio": 35,
+          "searchTermEn": "Anker PowerCore 10000"
+        },
+        {
+          "id": "B0D2LQGJ2V",
+          "nombre": "Meater Termómetro Inalámbrico",
+          "filename": "B0D2LQGJ2V.mp4",
+          "precio": 70,
+          "searchTermEn": "Meater Termómetro Inalámbrico"
+        },
+        {
+          "id": "B08FWH238Y",
+          "nombre": "LIFX Smart Bulb Color",
+          "filename": "B08FWH238Y.mp4",
+          "precio": 45,
+          "searchTermEn": "LIFX Smart Bulb Color"
+        },
+        {
+          "id": "B0CMJQZ5PL",
+          "nombre": "Ember Mug² Taza Inteligente",
+          "filename": "B0CMJQZ5PL.mp4",
+          "precio": 150,
+          "searchTermEn": "Ember Mug² Taza Inteligente"
+        },
+        {
+          "id": "B091FXLMS8",
+          "nombre": "Kasa Smart Plug Mini",
+          "filename": "B091FXLMS8.mp4",
+          "precio": 15,
+          "searchTermEn": "Kasa Smart Plug Mini"
+        },
+        {
+          "id": "B00JXQQXNU",
+          "nombre": "KeySmart Pro Organizador de Llaves",
+          "filename": "B00JXQQXNU.mp4",
+          "precio": 30,
+          "searchTermEn": "KeySmart Pro Organizador de Llaves"
+        },
+        {
+          "id": "B09GDQZLD1",
+          "nombre": "Furbo Dog Camera",
+          "filename": "B09GDQZLD1.mp4",
+          "precio": 169,
+          "searchTermEn": "Furbo Dog Camera"
+        },
+        {
+          "id": "B0CHDCYSW7",
+          "nombre": "Wemo Mini Smart Plug",
+          "filename": "B0CHDCYSW7.mp4",
+          "precio": 20,
+          "searchTermEn": "Wemo Mini Smart Plug"
+        },
+        {
+          "id": "B07FSS4R16",
+          "nombre": "DJI Osmo Mobile 3",
+          "filename": "B07FSS4R16.mp4",
+          "precio": 99,
+          "searchTermEn": "DJI Osmo Mobile 3"
+        },
+        {
+          "id": "B0F145ZPNT",
+          "nombre": "Teclado Láser AGS Virtual",
+          "filename": "B0F145ZPNT.mp4",
+          "precio": 50,
+          "searchTermEn": "Teclado Láser AGS Virtual"
+        }
+      ],
+      "_sourceFile": "productos_locales.json",
+      "createdAt": "2026-05-01T01:56:22.477Z",
+      "_requestedCount": 20,
+      "_adaptedCount": 19,
+      "_adaptationNote": "ATENCIÓN: El usuario pidió 20 productos pero solo hay 19 clips de video disponibles. El guion, título y narrativa deben referirse EXCLUSIVAMENTE a 19 productos.",
+      "introProductsOrder": [
+        {
+          "nombre": "Wemo Mini Smart Plug",
+          "id": "B0CHDCYSW7",
+          "filename": "B0CHDCYSW7.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0CHDCYSW7.mp4"
+        },
+        {
+          "nombre": "DJI Osmo Mobile 3",
+          "id": "B07FSS4R16",
+          "filename": "B07FSS4R16.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07FSS4R16.mp4"
+        },
+        {
+          "nombre": "Tile Pro Rastreador Bluetooth",
+          "id": "B0D637HWC5",
+          "filename": "B0D637HWC5.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0D637HWC5.mp4"
+        },
+        {
+          "nombre": "Teclado Láser AGS Virtual",
+          "id": "B0F145ZPNT",
+          "filename": "B0F145ZPNT.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0F145ZPNT.mp4"
+        },
+        {
+          "nombre": "Rocketbook Smart Notebook",
+          "id": "B0DP3HRDC2",
+          "filename": "B0DP3HRDC2.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0DP3HRDC2.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1777600584170_4lsd1q"
+    },
+    "generatedAt": "2026-05-01T01:56:47.987Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "id": "B07PVMK5NJ",
+        "nombre": "Ekster Parliament Wallet",
+        "filename": "B07PVMK5NJ.mp4",
+        "precio": 89,
+        "searchTermEn": "Ekster Parliament Wallet"
+      },
+      {
+        "id": "B0DP3HRDC2",
+        "nombre": "Rocketbook Smart Notebook",
+        "filename": "B0DP3HRDC2.mp4",
+        "precio": 35,
+        "searchTermEn": "Rocketbook Smart Notebook"
+      },
+      {
+        "id": "B0FZT9D21Y",
+        "nombre": "Snapods Auriculares Magnéticos",
+        "filename": "B0FZT9D21Y.mp4",
+        "precio": 80,
+        "searchTermEn": "Snapods Auriculares Magnéticos"
+      },
+      {
+        "id": "B0CHW11C8H",
+        "nombre": "Nebula Capsule Proyector",
+        "filename": "B0CHW11C8H.mp4",
+        "precio": 349,
+        "searchTermEn": "Nebula Capsule Proyector"
+      },
+      {
+        "id": "B0D637HWC5",
+        "nombre": "Tile Pro Rastreador Bluetooth",
+        "filename": "B0D637HWC5.mp4",
+        "precio": 35,
+        "searchTermEn": "Tile Pro Rastreador Bluetooth"
+      },
+      {
+        "id": "B0D9WT1S2T",
+        "nombre": "Oura Ring Monitor Salud",
+        "filename": "B0D9WT1S2T.mp4",
+        "precio": 299,
+        "searchTermEn": "Oura Ring Monitor Salud"
+      },
+      {
+        "id": "B0BBV76LS7",
+        "nombre": "Peak Design Tech Pouch",
+        "filename": "B0BBV76LS7.mp4",
+        "precio": 60,
+        "searchTermEn": "Peak Design Tech Pouch"
+      },
+      {
+        "id": "B0CWLHSKYC",
+        "nombre": "Aqara Smart Home Hub M2",
+        "filename": "B0CWLHSKYC.mp4",
+        "precio": 40,
+        "searchTermEn": "Aqara Smart Home Hub M2"
+      },
+      {
+        "id": "B01LG99NW4",
+        "nombre": "Luminoodle LED Light Rope",
+        "filename": "B01LG99NW4.mp4",
+        "precio": 25,
+        "searchTermEn": "Luminoodle LED Light Rope"
+      },
+      {
+        "id": "B0D5CLSMFB",
+        "nombre": "Anker PowerCore 10000",
+        "filename": "B0D5CLSMFB.mp4",
+        "precio": 35,
+        "searchTermEn": "Anker PowerCore 10000"
+      },
+      {
+        "id": "B0D2LQGJ2V",
+        "nombre": "Meater Termómetro Inalámbrico",
+        "filename": "B0D2LQGJ2V.mp4",
+        "precio": 70,
+        "searchTermEn": "Meater Termómetro Inalámbrico"
+      },
+      {
+        "id": "B08FWH238Y",
+        "nombre": "LIFX Smart Bulb Color",
+        "filename": "B08FWH238Y.mp4",
+        "precio": 45,
+        "searchTermEn": "LIFX Smart Bulb Color"
+      },
+      {
+        "id": "B0CMJQZ5PL",
+        "nombre": "Ember Mug² Taza Inteligente",
+        "filename": "B0CMJQZ5PL.mp4",
+        "precio": 150,
+        "searchTermEn": "Ember Mug² Taza Inteligente"
+      },
+      {
+        "id": "B091FXLMS8",
+        "nombre": "Kasa Smart Plug Mini",
+        "filename": "B091FXLMS8.mp4",
+        "precio": 15,
+        "searchTermEn": "Kasa Smart Plug Mini"
+      },
+      {
+        "id": "B00JXQQXNU",
+        "nombre": "KeySmart Pro Organizador de Llaves",
+        "filename": "B00JXQQXNU.mp4",
+        "precio": 30,
+        "searchTermEn": "KeySmart Pro Organizador de Llaves"
+      },
+      {
+        "id": "B09GDQZLD1",
+        "nombre": "Furbo Dog Camera",
+        "filename": "B09GDQZLD1.mp4",
+        "precio": 169,
+        "searchTermEn": "Furbo Dog Camera"
+      },
+      {
+        "id": "B0CHDCYSW7",
+        "nombre": "Wemo Mini Smart Plug",
+        "filename": "B0CHDCYSW7.mp4",
+        "precio": 20,
+        "searchTermEn": "Wemo Mini Smart Plug"
+      },
+      {
+        "id": "B07FSS4R16",
+        "nombre": "DJI Osmo Mobile 3",
+        "filename": "B07FSS4R16.mp4",
+        "precio": 99,
+        "searchTermEn": "DJI Osmo Mobile 3"
+      },
+      {
+        "id": "B0F145ZPNT",
+        "nombre": "Teclado Láser AGS Virtual",
+        "filename": "B0F145ZPNT.mp4",
+        "precio": 50,
+        "searchTermEn": "Teclado Láser AGS Virtual"
+      }
+    ]
+  },
+  "fullScript": "TITLE: 19 gadgets que no te puedes perder en Amazon\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\nEste dispositivo controla tu hogar desde cualquier lugar. Graba videos estabilizados con facilidad. Encuentra tus objetos perdidos al instante. Proyecta un teclado virtual en cualquier superficie. Toma notas y borra como en papel.\n\n[0:10-0:15] INTRODUCTION\nSuscríbete, los links están en el primer comentario. Empecemos.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] EKSTER PARLIAMENT WALLET\n¿Cansado de buscar tarjetas en tu cartera? La Ekster Parliament Wallet te permite acceder a ellas con solo presionar un botón. Además, su diseño elegante protege contra el robo de datos RFID.\nSu precio actual en Amazon ronda los... 89 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Ekster Parliament Wallet]\n\n[0:25] ROCKETBOOK SMART NOTEBOOK\nFabricado con páginas sintéticas, el Rocketbook Smart Notebook es reutilizable y compatible con aplicaciones en la nube. Puedes escribir con cualquier bolígrafo Pilot Frixion, borrar con un paño húmedo y almacenar tus notas de forma digital. Este cuaderno revoluciona la manera de tomar notas, combinando la experiencia tradicional de escritura con la tecnología moderna.\nSu precio actual en Amazon ronda los... 35 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Rocketbook Smart Notebook]\n\n[0:25] SNAPODS AURICULARES MAGNÉTICOS\nLo que pocos saben de los Snapods Auriculares Magnéticos es su diseño de carga magnética, que ofrece una experiencia sin cables y una calidad de sonido excepcional. Su estuche compacto permite llevarlos a cualquier lugar.\nSu precio actual en Amazon ronda los... 80 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Snapods Auriculares Magnéticos]\n\n[0:25] NEBULA CAPSULE PROYECTOR\n¿Quieres llevar el cine a cualquier parte? El Nebula Capsule Proyector transforma cualquier lugar en una sala de cine portátil. Con su diseño compacto y batería integrada, puedes disfrutar de hasta 4 horas de proyección continua.\nSu precio actual en Amazon ronda los... 349 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Nebula Capsule Proyector]\n\n[0:25] TILE PRO RASTREADOR BLUETOOTH\nCon un alcance de hasta 400 pies, el Tile Pro Rastreador Bluetooth es el dispositivo perfecto para nunca más perder tus objetos. Puedes usar la app para localizarlos fácilmente.\nSu precio actual en Amazon ronda los... 35 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Tile Pro Rastreador Bluetooth]\n\n[0:25] OURA RING MONITOR SALUD\nMás que un simple anillo, el Oura Ring Monitor Salud rastrea tus patrones de sueño, actividad y salud diaria. Este pequeño dispositivo proporciona datos precisos y personalizados, ideal para mejorar tu bienestar.\nSu precio actual en Amazon ronda los... 299 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Oura Ring Monitor Salud]\n\n[0:25] PEAK DESIGN TECH POUCH\n¿Tienes problemas para organizar tus gadgets? El Peak Design Tech Pouch soluciona esto con su diseño de múltiples compartimentos, ideal para mantener todo en orden y accesible.\nSu precio actual en Amazon ronda los... 60 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Peak Design Tech Pouch]\n\n[0:25] AQARA SMART HOME HUB M2\nEl Aqara Smart Home Hub M2 es la solución central para automatizar tu hogar inteligente. Compatible con múltiples dispositivos, permite controlar luces, cámaras y sensores desde un solo lugar.\nSu precio actual en Amazon ronda los... 40 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Aqara Smart Home Hub M2]\n\n[0:25] LUMINOODLE LED LIGHT ROPE\nLa Luminoodle LED Light Rope no solo ilumina, sino que también transforma cualquier ambiente. Este cable flexible es perfecto para acampar, decorar o emergencias, proporcionando luz instantánea donde sea necesario.\nSu precio actual en Amazon ronda los... 25 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Luminoodle LED Light Rope]\n\n[0:25] ANKER POWERCORE 10000\n¿Quedarte sin batería es un problema común? El Anker PowerCore 10000 ofrece una carga rápida y confiable para tus dispositivos, asegurando que siempre estés conectado.\nSu precio actual en Amazon ronda los... 35 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Anker PowerCore 10000]\n\n[0:25] MEATER TERMÓMETRO INALÁMBRICO\nEl Meater Termómetro Inalámbrico está diseñado para cocinar a la perfección. Sin cables, ofrece lecturas precisas que aseguran resultados deliciosos cada vez.\nSu precio actual en Amazon ronda los... 70 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Meater Termómetro Inalámbrico]\n\n[0:25] LIFX SMART BULB COLOR\nLo que no sabes de la LIFX Smart Bulb Color es su capacidad de ofrecer millones de colores personalizables. Controla la luz de tu hogar desde cualquier lugar con facilidad.\nSu precio actual en Amazon ronda los... 45 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: LIFX Smart Bulb Color]\n\n[0:25] EMBER MUG² TAZA INTELIGENTE\n¿Tu café se enfría antes de terminarlo? La Ember Mug² Taza Inteligente mantiene tu bebida a la temperatura perfecta durante horas.\nSu precio actual en Amazon ronda los... 150 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Ember Mug² Taza Inteligente]\n\n[0:25] KASA SMART PLUG MINI\nEl Kasa Smart Plug Mini es un enchufe inteligente compacto que permite controlar tus dispositivos desde cualquier lugar. Su integración con asistentes de voz facilita aún más su uso diario, creando un hogar realmente conectado.\nSu precio actual en Amazon ronda los... 15 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Kasa Smart Plug Mini]\n\n[0:25] KEYSMART PRO ORGANIZADOR DE LLAVES\nEl KeySmart Pro Organizador de Llaves es más que un llavero; incorpora un rastreador Tile que te permite localizar tus llaves en segundos. Además, cuenta con una linterna LED integrada.\nSu precio actual en Amazon ronda los... 30 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: KeySmart Pro Organizador de Llaves]\n\n[0:25] FURBO DOG CAMERA\n¿Preocupado por dejar a tu mascota sola en casa? La Furbo Dog Camera te permite vigilar y comunicarte con tu perro, lanzando incluso premios a distancia.\nSu precio actual en Amazon ronda los... 169 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Furbo Dog Camera]\n\n[0:25] WEMO MINI SMART PLUG\nCon su diseño compacto, el Wemo Mini Smart Plug permite controlar tus dispositivos desde cualquier lugar. Compatible con asistentes de voz, ofrece tecnología avanzada en la palma de tu mano.\nSu precio actual en Amazon ronda los... 20 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Wemo Mini Smart Plug]\n\n[0:25] DJI OSMO MOBILE 3\nLo que pocos saben del DJI Osmo Mobile 3 es su capacidad de estabilización avanzada que transforma tus grabaciones en videos profesionales. Además, su diseño plegable lo hace ideal para llevar a cualquier lugar.\nSu precio actual en Amazon ronda los... 99 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: DJI Osmo Mobile 3]\n\n[0:25] TECLADO LÁSER AGS VIRTUAL\n¿Cansado de teclados voluminosos? El Teclado Láser AGS Virtual proyecta un teclado en cualquier superficie, ahorrando espacio y ofreciendo comodidad.\nSu precio actual en Amazon ronda los... 50 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Teclado Láser AGS Virtual]\n\n[10 seconds] CONCLUSION\nDale like y recuerda que los links están en el primer comentario.\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 8:25\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, puedes, perder, amazon\n"
+}

@@ -1,0 +1,194 @@
+{
+  "title": "4 Gadgets Increíbles para Tu Alcoba",
+  "hook": {
+    "type": "statement",
+    "text": "Ilumina tu noche con colores vibrantes. Carga tu móvil mientras iluminas. Este espejo te muestra y guía. Aromatiza tu espacio con tecnología avanzada.",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "Suscríbete, los links están en el primer comentario. Empecemos.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0:10-0:15"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Luz nocturna inteligente",
+        "productId": "B0CLRPTGGY",
+        "productName": "Luz nocturna inteligente",
+        "filename": "B0CLRPTGGY.mp4",
+        "content": [
+          "Cuando te levantas en medio de la noche, la oscuridad puede ser un obstáculo. La luz nocturna inteligente te ilumina con colores relajantes y control por voz. Cambia la atmósfera de tu habitación con solo un comando.",
+          "Su precio actual en Amazon ronda los... 20 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Luz nocturna inteligente"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0CLRPTGGY.mp4",
+        "precio": "$20"
+      },
+      {
+        "type": "content",
+        "title": "Cargador inalámbrico lámpara",
+        "productId": "B09W4G455K",
+        "productName": "Cargador inalámbrico lámpara",
+        "filename": "B09W4G455K.mp4",
+        "content": [
+          "Tu mesa de noche es un caos de cables al cargar tus dispositivos. El cargador inalámbrico lámpara combina carga rápida y luz ambiental en un solo gadget. Diseñado para simplificar y decorar tu espacio.",
+          "Su precio actual en Amazon ronda los... 100 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Cargador inalámbrico lámpara"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B09W4G455K.mp4",
+        "precio": "$100"
+      },
+      {
+        "type": "content",
+        "title": "Espejo con pantalla LED",
+        "productId": "B07P468RFV",
+        "productName": "Espejo con pantalla LED",
+        "filename": "B07P468RFV.mp4",
+        "content": [
+          "Maquillarte o afeitarte en poca luz nunca es ideal. El espejo con pantalla LED te ofrece iluminación perfecta y un diseño moderno. Incluye una pantalla para mostrarte el tiempo y la temperatura.",
+          "Su precio actual en Amazon ronda los... 16 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Espejo con pantalla LED"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07P468RFV.mp4",
+        "precio": "$16"
+      },
+      {
+        "type": "content",
+        "title": "Difusor aromático bluetooth",
+        "productId": "B0D99NXV1Z",
+        "productName": "Difusor aromático bluetooth",
+        "filename": "B0D99NXV1Z.mp4",
+        "content": [
+          "Tu habitación podría beneficiarse de un ambiente más acogedor. El difusor aromático bluetooth no solo esparce aromas, sino que también se conecta a tu música favorita. Personaliza el aroma y la melodía desde tu móvil.",
+          "Su precio actual en Amazon ronda los... 28 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Difusor aromático bluetooth"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0D99NXV1Z.mp4",
+        "precio": "$28"
+      }
+    ],
+    "totalDuration": 100
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "Dale like si te gustó y recuerda que los links están en el primer comentario."
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "2:10",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "increbles",
+    "para",
+    "alcoba"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "5 Gadgets Increíbles para Tu Alcoba",
+      "angle": "5 Gadgets Increíbles para Tu Alcoba",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 4,
+      "introScript": "¿Una almohada que reproduce música relajante? ¿Un espejo que muestra el clima? Descubre estos alucinantes gadgets que transformarán tu alcoba en un oasis de tecnología futurista.",
+      "keywords": [
+        "gadgets",
+        "increbles",
+        "para",
+        "alcoba"
+      ],
+      "estimatedViews": 6154,
+      "bestPublishTime": "2026-04-18T15:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Luz nocturna inteligente",
+          "searchTermEn": "smart night light",
+          "id": "B0CLRPTGGY",
+          "filename": "B0CLRPTGGY.mp4"
+        },
+        {
+          "nombre": "Cargador inalámbrico lámpara",
+          "searchTermEn": "wireless charging lamp",
+          "id": "B09W4G455K",
+          "filename": "B09W4G455K.mp4"
+        },
+        {
+          "nombre": "Espejo con pantalla LED",
+          "searchTermEn": "led mirror display",
+          "id": "B07P468RFV",
+          "filename": "B07P468RFV.mp4"
+        },
+        {
+          "nombre": "Difusor aromático bluetooth",
+          "searchTermEn": "bluetooth aroma diffuser",
+          "id": "B0D99NXV1Z",
+          "filename": "B0D99NXV1Z.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-04-17T15:44:04.381Z",
+      "_requestedCount": 5,
+      "_adaptedCount": 4,
+      "_adaptationNote": "ATENCIÓN: El usuario pidió 5 productos pero solo hay 4 clips de video disponibles. El guion, título y narrativa deben referirse EXCLUSIVAMENTE a 4 productos.",
+      "_scriptNonce": "nonce_1776440836872_qet4iy"
+    },
+    "generatedAt": "2026-04-17T15:47:25.614Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Luz nocturna inteligente",
+        "searchTermEn": "smart night light",
+        "id": "B0CLRPTGGY",
+        "filename": "B0CLRPTGGY.mp4"
+      },
+      {
+        "nombre": "Cargador inalámbrico lámpara",
+        "searchTermEn": "wireless charging lamp",
+        "id": "B09W4G455K",
+        "filename": "B09W4G455K.mp4"
+      },
+      {
+        "nombre": "Espejo con pantalla LED",
+        "searchTermEn": "led mirror display",
+        "id": "B07P468RFV",
+        "filename": "B07P468RFV.mp4"
+      },
+      {
+        "nombre": "Difusor aromático bluetooth",
+        "searchTermEn": "bluetooth aroma diffuser",
+        "id": "B0D99NXV1Z",
+        "filename": "B0D99NXV1Z.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: 4 Gadgets Increíbles para Tu Alcoba\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\nIlumina tu noche con colores vibrantes. Carga tu móvil mientras iluminas. Este espejo te muestra y guía. Aromatiza tu espacio con tecnología avanzada.\n\n[0:10-0:15] INTRODUCTION\nSuscríbete, los links están en el primer comentario. Empecemos.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] LUZ NOCTURNA INTELIGENTE\nCuando te levantas en medio de la noche, la oscuridad puede ser un obstáculo. La luz nocturna inteligente te ilumina con colores relajantes y control por voz. Cambia la atmósfera de tu habitación con solo un comando.\nSu precio actual en Amazon ronda los... 20 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Luz nocturna inteligente]\n\n[0:25] CARGADOR INALÁMBRICO LÁMPARA\nTu mesa de noche es un caos de cables al cargar tus dispositivos. El cargador inalámbrico lámpara combina carga rápida y luz ambiental en un solo gadget. Diseñado para simplificar y decorar tu espacio.\nSu precio actual en Amazon ronda los... 100 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Cargador inalámbrico lámpara]\n\n[0:25] ESPEJO CON PANTALLA LED\nMaquillarte o afeitarte en poca luz nunca es ideal. El espejo con pantalla LED te ofrece iluminación perfecta y un diseño moderno. Incluye una pantalla para mostrarte el tiempo y la temperatura.\nSu precio actual en Amazon ronda los... 16 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Espejo con pantalla LED]\n\n[0:25] DIFUSOR AROMÁTICO BLUETOOTH\nTu habitación podría beneficiarse de un ambiente más acogedor. El difusor aromático bluetooth no solo esparce aromas, sino que también se conecta a tu música favorita. Personaliza el aroma y la melodía desde tu móvil.\nSu precio actual en Amazon ronda los... 28 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Difusor aromático bluetooth]\n\n[10 seconds] CONCLUSION\nDale like si te gustó y recuerda que los links están en el primer comentario.\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 2:10\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, increbles, para, alcoba\n"
+}

@@ -1,0 +1,726 @@
+{
+  "title": "Top 3 Laptops Futuristas que Puedes Comprar en Amazon",
+  "hook": {
+    "type": "statement",
+    "text": "Sorprendentemente avanzado, ofrece IA de última generación. Asombrosamente versátil, permite una escritura precisa y fluida.",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "Suscríbete ahora. Los links están en el primer comentario.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0:10-0:15"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "HP Spectre x360",
+        "productId": "B07YTGX96J",
+        "productName": "HP Spectre x360",
+        "filename": "B07YTGX96J.mp4",
+        "asin": "B07YTGX96J",
+        "clipDuration": 57.76,
+        "estimatedAudioSeconds": 32,
+        "framework": "problema_solucion",
+        "narracionSegments": null,
+        "content": [
+          "¿Cansado de los rastros digitales al usar tu laptop? El HP Spectre x360 resuelve este problema con su tecnología inteligente Palm Rejection, permitiendo apoyarte naturalmente sin manchas. Con 1024 niveles de presión, convierte tu laptop en un laboratorio creativo a un precio asequible.",
+          "Su precio actual en Amazon ronda los... 10 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: HP Spectre x360"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07YTGX96J_combined.mp4",
+        "precio": "$10",
+        "productPhoto": "https://m.media-amazon.com/images/I/51wJ1MTtmXL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07YTGX96J\\scenes_v1\\B07YTGX96J_scene_02.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07YTGX96J\\scenes_v1\\B07YTGX96J_scene_03.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07YTGX96J\\scenes_v3\\B07YTGX96J_v3_scene_01.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07YTGX96J\\scenes_v1\\B07YTGX96J_scene_01.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "stylus pen",
+            "raw": "8|stylus pen"
+          }
+        ],
+        "features": [
+          "【Instant Stylus for HP Touchscreen Laptops】 Engineered for seamless compatibility with most HP models, including Omnibook X Flip, Envy x360, Spectre x360, and Pavilion x360 (Please refer to the compatibility chart before purchase). Simply insert a battery and start writing—no Bluetooth pairing, driver installation, or software setup required.",
+          "【Smart Palm Rejection Technology】 Write and draw naturally with your hand resting flat on the screen. The stylus automatically detects and ignores accidental skin contact, eliminating smudges and distractions for a true paper-like creative experience.",
+          "【Professional 1024 Pressure Sensitivity】 Experience pixel-perfect precision with 1024 levels of pressure sensitivity, delivering natural line variation from light sketches to bold strokes. Whether you're drawing, note-taking, photo editing, or studying, this stylus transforms your HP laptop into a powerful creative tablet.",
+          "【2 Quick-Access Shortcut Buttons】 Speed up your workflow with dedicated left-click erase and right-click functions—perfect for quick edits, note-taking, and presentations. Built-in pen clip keeps your stylus securely attached to notebooks, bags, or pockets, always within reach.",
+          "【2-Year Endurance - Create Without Limits】Never worry about your stylus dying mid-task. Powered by a single, widely-available AAAA battery (included), it delivers up to 2 years of uninterrupted use (based on 3 hours of daily use)—so it’s always ready when creativity strikes."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "ASUS ROG Zephyrus G14",
+        "productId": "B088PDB63Z",
+        "productName": "ASUS ROG Zephyrus G14",
+        "filename": "B088PDB63Z.mp4",
+        "asin": "B088PDB63Z",
+        "clipDuration": 2671.2,
+        "estimatedAudioSeconds": 53,
+        "framework": "enfoque_caracteristica",
+        "narracionSegments": null,
+        "content": [
+          "- Increíblemente potente - gracias a su procesador Ryzen 9 y gráficos NVIDIA. El ASUS ROG Zephyrus G14 ofrece un rendimiento extremo que redefine tus expectativas gaming y profesionales, garantizando fluidez inigualable con una pantalla OLED de 120Hz.",
+          "Su precio actual en Amazon ronda los... 1860 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: ASUS ROG Zephyrus G14"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B088PDB63Z_combined.mp4",
+        "precio": "$1860",
+        "productPhoto": "https://m.media-amazon.com/images/I/71zNU5UBINL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "14.0\" OLED 2.8K (2880x1800) 120Hz Display; 802.11be, Bluetooth 5.4, Webcam, RGB KB Standard Keyboard",
+          "Zen 4 Gen Ryzen 9 270 4.0GHz Processor (upto 5.2 GHz, 16MB Cache, 8-Cores, 16-Threads, ); NVIDIA GeForce RTX 5060 8GB GDDR7 Dual (Integrated+Dedicated) Graphics",
+          "16GB OnBoard RAM; 200W PSU, 4-Cell 73 WHr Battery; Platinum White Color",
+          "1TB PCIe NVMe SSD; HDMI, USB 3.2 Type-C, Micro SD Reader, Headphone/Microphone Combo Jack, Windows 11 Home-64, 1 Year Manufacturer warranty from GreatPriceTech (Professionally upgraded by GreatPriceTech)",
+          "[Includes] Authorized Dockztorm Portable USB Hub(Portable Dockztorm Data Hub;Data Rate up to 5Gbps)"
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Dell XPS 13",
+        "productId": "B0GYDC2H2T",
+        "productName": "Dell XPS 13",
+        "filename": "B0GYDC2H2T.mp4",
+        "asin": "B0GYDC2H2T",
+        "clipDuration": 260.59,
+        "estimatedAudioSeconds": null,
+        "framework": "beneficio_oculto",
+        "narracionSegments": null,
+        "content": [
+          "- Nadie te dice - lo revolucionario que es el Dell XPS 13, brindándote acceso a AI sobre la marcha con su Snapdragon X Elite. Disfruta de autonomía sin precedentes y rendimiento potente dondequiera que vayas.",
+          "\nSu precio actual en Amazon ronda los... 1300 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Dell XPS 13"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0GYDC2H2T_combined.mp4",
+        "precio": "$1300",
+        "productPhoto": "https://m.media-amazon.com/images/I/71rLpZlR5hL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GYDC2H2T\\scenes_v1\\B0GYDC2H2T_scene_02.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Interacción clara",
+            "raw": "9|Interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GYDC2H2T\\scenes_v1\\B0GYDC2H2T_scene_05.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "pantalla encendida",
+            "raw": "9|pantalla encendida"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GYDC2H2T\\scenes_v2\\B0GYDC2H2T_photos_combined_scene_11.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "pantalla encendida",
+            "raw": "9|pantalla encendida"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GYDC2H2T\\scenes_v2\\B0GYDC2H2T_photos_combined_scene_12.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "pantalla encendida",
+            "raw": "9|pantalla encendida"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GYDC2H2T\\scenes_v2\\B0GYDC2H2T_photos_combined_scene_16.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "pantalla encendida",
+            "raw": "9|pantalla encendida"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GYDC2H2T\\scenes_v2\\B0GYDC2H2T_photos_combined_scene_24.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "pantalla encendida",
+            "raw": "9|pantalla encendida"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GYDC2H2T\\scenes_v2\\B0GYDC2H2T_photos_combined_scene_30.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "pantalla encendida",
+            "raw": "9|pantalla encendida"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GYDC2H2T\\scenes_v2\\B0GYDC2H2T_photos_combined_scene_32.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "pantalla encendida",
+            "raw": "9|pantalla encendida"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GYDC2H2T\\scenes_v2\\B0GYDC2H2T_photos_combined_scene_33.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "pantalla encendida",
+            "raw": "9|pantalla encendida"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GYDC2H2T\\scenes_v2\\B0GYDC2H2T_photos_combined_scene_38.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "pantalla encendida",
+            "raw": "9|pantalla encendida"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GYDC2H2T\\scenes_v2\\B0GYDC2H2T_photos_combined_scene_76.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "pantalla encendida",
+            "raw": "9|pantalla encendida"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GYDC2H2T\\scenes_v2\\B0GYDC2H2T_photos_combined_scene_01.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Laptop visible",
+            "raw": "8|Laptop visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GYDC2H2T\\scenes_v2\\B0GYDC2H2T_photos_combined_scene_02.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Laptop visible",
+            "raw": "8|Laptop visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GYDC2H2T\\scenes_v2\\B0GYDC2H2T_photos_combined_scene_03.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Laptop visible",
+            "raw": "8|Laptop visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GYDC2H2T\\scenes_v2\\B0GYDC2H2T_photos_combined_scene_04.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "laptop visible",
+            "raw": "8|laptop visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GYDC2H2T\\scenes_v2\\B0GYDC2H2T_photos_combined_scene_05.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Laptop visible",
+            "raw": "8|Laptop visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GYDC2H2T\\scenes_v2\\B0GYDC2H2T_photos_combined_scene_06.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Laptop visible",
+            "raw": "8|Laptop visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GYDC2H2T\\scenes_v2\\B0GYDC2H2T_photos_combined_scene_08.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Laptop visible",
+            "raw": "8|Laptop visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GYDC2H2T\\scenes_v2\\B0GYDC2H2T_photos_combined_scene_09.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "laptop visible",
+            "raw": "8|laptop visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GYDC2H2T\\scenes_v2\\B0GYDC2H2T_photos_combined_scene_07.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Laptop visible",
+            "raw": "8|Laptop visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GYDC2H2T\\scenes_v2\\B0GYDC2H2T_photos_combined_scene_10.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "producto visible",
+            "raw": "8|producto visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GYDC2H2T\\scenes_v2\\B0GYDC2H2T_photos_combined_scene_13.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "laptop visible",
+            "raw": "8|laptop visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GYDC2H2T\\scenes_v2\\B0GYDC2H2T_photos_combined_scene_14.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "laptop visible",
+            "raw": "8|laptop visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GYDC2H2T\\scenes_v2\\B0GYDC2H2T_photos_combined_scene_15.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Laptop visible",
+            "raw": "8|Laptop visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GYDC2H2T\\scenes_v2\\B0GYDC2H2T_photos_combined_scene_17.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Laptop visible",
+            "raw": "8|Laptop visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GYDC2H2T\\scenes_v2\\B0GYDC2H2T_photos_combined_scene_18.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Laptop visible",
+            "raw": "8|Laptop visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GYDC2H2T\\scenes_v2\\B0GYDC2H2T_photos_combined_scene_19.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Laptop visible",
+            "raw": "8|Laptop visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GYDC2H2T\\scenes_v2\\B0GYDC2H2T_photos_combined_scene_20.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "laptop visible",
+            "raw": "8|laptop visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GYDC2H2T\\scenes_v2\\B0GYDC2H2T_photos_combined_scene_21.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Laptop visible",
+            "raw": "8|Laptop visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GYDC2H2T\\scenes_v2\\B0GYDC2H2T_photos_combined_scene_22.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "laptop visible",
+            "raw": "8|laptop visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GYDC2H2T\\scenes_v2\\B0GYDC2H2T_photos_combined_scene_25.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Laptop visible",
+            "raw": "8|Laptop visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GYDC2H2T\\scenes_v2\\B0GYDC2H2T_photos_combined_scene_26.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Laptop visible",
+            "raw": "8|Laptop visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GYDC2H2T\\scenes_v2\\B0GYDC2H2T_photos_combined_scene_23.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "laptop visible",
+            "raw": "8|laptop visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GYDC2H2T\\scenes_v2\\B0GYDC2H2T_photos_combined_scene_28.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "laptop visible",
+            "raw": "8|laptop visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GYDC2H2T\\scenes_v2\\B0GYDC2H2T_photos_combined_scene_27.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Laptop visible",
+            "raw": "8|Laptop visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GYDC2H2T\\scenes_v2\\B0GYDC2H2T_photos_combined_scene_29.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Laptop visible",
+            "raw": "8|Laptop visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GYDC2H2T\\scenes_v2\\B0GYDC2H2T_photos_combined_scene_31.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Laptop visible",
+            "raw": "8|Laptop visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GYDC2H2T\\scenes_v2\\B0GYDC2H2T_photos_combined_scene_34.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Laptop visible",
+            "raw": "8|Laptop visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GYDC2H2T\\scenes_v2\\B0GYDC2H2T_photos_combined_scene_35.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "laptop visible",
+            "raw": "8|laptop visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GYDC2H2T\\scenes_v2\\B0GYDC2H2T_photos_combined_scene_37.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "laptop visible",
+            "raw": "8|laptop visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GYDC2H2T\\scenes_v2\\B0GYDC2H2T_photos_combined_scene_36.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Laptop visible",
+            "raw": "8|Laptop visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GYDC2H2T\\scenes_v2\\B0GYDC2H2T_photos_combined_scene_41.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "laptop visible",
+            "raw": "8|laptop visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GYDC2H2T\\scenes_v2\\B0GYDC2H2T_photos_combined_scene_42.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Laptop visible",
+            "raw": "8|Laptop visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GYDC2H2T\\scenes_v2\\B0GYDC2H2T_photos_combined_scene_46.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Laptop visible",
+            "raw": "8|Laptop visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GYDC2H2T\\scenes_v2\\B0GYDC2H2T_photos_combined_scene_50.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Laptop visible",
+            "raw": "8|Laptop visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GYDC2H2T\\scenes_v2\\B0GYDC2H2T_photos_combined_scene_49.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "laptop visible",
+            "raw": "8|laptop visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GYDC2H2T\\scenes_v2\\B0GYDC2H2T_photos_combined_scene_69.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Laptop visible",
+            "raw": "8|Laptop visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GYDC2H2T\\scenes_v2\\B0GYDC2H2T_photos_combined_scene_72.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "laptop visible",
+            "raw": "8|laptop visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GYDC2H2T\\scenes_v2\\B0GYDC2H2T_photos_combined_scene_77.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Laptop visible",
+            "raw": "8|Laptop visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GYDC2H2T\\scenes_v2\\B0GYDC2H2T_photos_combined_scene_81.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "laptop visible",
+            "raw": "8|laptop visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GYDC2H2T\\scenes_v2\\B0GYDC2H2T_photos_combined_scene_93.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Laptop visible",
+            "raw": "8|Laptop visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GYDC2H2T\\scenes_v2\\B0GYDC2H2T_photos_combined_scene_96.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Laptop visible",
+            "raw": "8|Laptop visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GYDC2H2T\\scenes_v2\\B0GYDC2H2T_photos_combined_scene_123.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "pantalla clara",
+            "raw": "8|pantalla clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GYDC2H2T\\scenes_v2\\B0GYDC2H2T_photos_combined_scene_136.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "pantalla laptop",
+            "raw": "8|pantalla laptop"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GYDC2H2T\\scenes_v2\\B0GYDC2H2T_photos_combined_scene_145.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "pantalla laptop",
+            "raw": "8|pantalla laptop"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GYDC2H2T\\scenes_v2\\B0GYDC2H2T_photos_combined_scene_163.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Laptop visible",
+            "raw": "8|Laptop visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GYDC2H2T\\scenes_v2\\B0GYDC2H2T_photos_combined_scene_171.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "pantalla laptop",
+            "raw": "8|pantalla laptop"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GYDC2H2T\\scenes_v2\\B0GYDC2H2T_photos_combined_scene_178.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "laptop visible",
+            "raw": "8|laptop visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GYDC2H2T\\scenes_v2\\B0GYDC2H2T_photos_combined_scene_184.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "pantalla clara",
+            "raw": "8|pantalla clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GYDC2H2T\\scenes_v2\\B0GYDC2H2T_photos_combined_scene_187.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "pantalla laptop",
+            "raw": "8|pantalla laptop"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GYDC2H2T\\scenes_v2\\B0GYDC2H2T_photos_combined_scene_193.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "pantalla laptop",
+            "raw": "8|pantalla laptop"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GYDC2H2T\\scenes_v2\\B0GYDC2H2T_photos_combined_scene_208.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "pantalla laptop",
+            "raw": "8|pantalla laptop"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GYDC2H2T\\scenes_v1\\B0GYDC2H2T_scene_04.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "Laptop fondo",
+            "raw": "5|Laptop fondo"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GYDC2H2T\\scenes_v2\\B0GYDC2H2T_photos_combined_scene_119.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "pantalla laptop",
+            "raw": "5|pantalla laptop"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GYDC2H2T\\scenes_v2\\B0GYDC2H2T_photos_combined_scene_189.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "pantalla paisaje",
+            "raw": "5|pantalla paisaje"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GYDC2H2T\\scenes_v2\\B0GYDC2H2T_photos_combined_scene_214.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "teclado visible",
+            "raw": "5|teclado visible"
+          }
+        ],
+        "features": [
+          "【Ultimate On-Device AI Performance & Power】Meet the new Dell XPS 13 9345 laptop, the first Copilot+ PC powered by the Snapdragon X Elite. This 12-core beast with a 45 TOPS NPU delivers desktop-class responsiveness for heavy multitasking and professional creation. Enjoy seamless AI acceleration, lightning-fast app launches, and unprecedented efficiency. Your new XPS laptop isn't just smart—it's a powerhouse designed to think ahead.",
+          "【Industry-Leading Multi-Day Battery Life】Engineered to be the longest-lasting in its class, this Dell XPS 13 lets you work, stream, and create for a full day and beyond on a single charge. Tackle back-to-back meetings, cross-country flights, and demanding workloads without ever hunting for an outlet. This XPS 13 laptop delivers the exceptional, all-day power that mobile professionals need.",
+          "【Vibrant FHD+ InfinityEdge Display with 120Hz】 Experience a brilliant 13.4-inch screen that brings your work and entertainment to life. The sharp FHD+ (1920x1200) resolution, combined with a buttery-smooth 120Hz refresh rate and ultra-slim InfinityEdge borders, makes everything from scrolling documents to streaming videos look incredibly fluid. With 500 nits of peak brightness, it stays clear and vivid, even in well-lit rooms or by a window.",
+          "【Sleek, Premium Design with Advanced Connectivity】Experience the future in your hands with our thinnest and lightest XPS laptop ever. Crafted from CNC aluminum, it combines unmatched portability with robust durability. Stay on the cutting edge with Wi-Fi 7 and Bluetooth 5.4 for rock-solid connections, and utilize two versatile USB4 ports (40Gbps) for charging, data transfer, and connecting dual 4K monitors.",
+          "【Enhanced Productivity & Security Features】This business-ready Dell XPS laptop is built to protect and perform. A seamless glass haptic touchpad and backlit keyboard offer a premium typing experience. Log in instantly and securely with the integrated fingerprint reader. With Windows 11 Pro, a 1080p IR camera, and advanced on-device AI, your efficiency and data are safeguarded, making this the ultimate XPS 13 laptop for professionals."
+        ]
+      }
+    ],
+    "totalDuration": 75
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      null
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:45",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "laptops",
+    "futuristas",
+    "puedes",
+    "comprar",
+    "amazon"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 3 Laptops Futuristas que Puedes Comprar en Amazon",
+      "angle": "Top 3 Laptops Futuristas que Puedes Comprar en Amazon",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 3,
+      "introScript": "¿Una laptop que actúa como un centro de videojuegos? ¿O prefieres una que se pliega para convertirse en tablet? Hoy te mostramos las computadoras portátiles más avanzadas y versátiles que puedes encontrar ahora mismo en Amazon.",
+      "keywords": [
+        "laptops",
+        "futuristas",
+        "puedes",
+        "comprar",
+        "amazon"
+      ],
+      "estimatedViews": 6452,
+      "bestPublishTime": "2026-05-14T19:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "HP Spectre x360",
+          "searchTermEn": "HP Spectre x360 laptop",
+          "id": "B07YTGX96J",
+          "filename": "B07YTGX96J.mp4"
+        },
+        {
+          "nombre": "ASUS ROG Zephyrus G14",
+          "searchTermEn": "ASUS ROG Zephyrus G14 gaming",
+          "id": "B088PDB63Z",
+          "filename": "B088PDB63Z.mp4"
+        },
+        {
+          "nombre": "Dell XPS 13",
+          "searchTermEn": "Dell XPS 13 laptop",
+          "id": "B0GYDC2H2T",
+          "filename": "B0GYDC2H2T.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-05-13T00:39:07.304Z",
+      "_requestedCount": 3,
+      "_adaptedCount": 3,
+      "introProductsOrder": [
+        {
+          "nombre": "Dell XPS 13",
+          "id": "B0GYDC2H2T",
+          "filename": "B0GYDC2H2T_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0GYDC2H2T_combined.mp4"
+        },
+        {
+          "nombre": "HP Spectre x360",
+          "id": "B07YTGX96J",
+          "filename": "B07YTGX96J_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07YTGX96J_combined.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1778635259341_2zmpd6"
+    },
+    "generatedAt": "2026-05-13T01:24:11.598Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "HP Spectre x360",
+        "searchTermEn": "HP Spectre x360 laptop",
+        "id": "B07YTGX96J",
+        "filename": "B07YTGX96J.mp4"
+      },
+      {
+        "nombre": "ASUS ROG Zephyrus G14",
+        "searchTermEn": "ASUS ROG Zephyrus G14 gaming",
+        "id": "B088PDB63Z",
+        "filename": "B088PDB63Z.mp4"
+      },
+      {
+        "nombre": "Dell XPS 13",
+        "searchTermEn": "Dell XPS 13 laptop",
+        "id": "B0GYDC2H2T",
+        "filename": "B0GYDC2H2T.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 3 Laptops Futuristas que Puedes Comprar en Amazon\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\nSorprendentemente avanzado, ofrece IA de última generación. Asombrosamente versátil, permite una escritura precisa y fluida.\n\n[0:10-0:15] INTRODUCTION\nSuscríbete ahora. Los links están en el primer comentario.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] HP SPECTRE X360\n¿Cansado de los rastros digitales al usar tu laptop? El HP Spectre x360 resuelve este problema con su tecnología inteligente Palm Rejection, permitiendo apoyarte naturalmente sin manchas. Con 1024 niveles de presión, convierte tu laptop en un laboratorio creativo a un precio asequible.\nSu precio actual en Amazon ronda los... 10 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: HP Spectre x360]\n\n[0:25] ASUS ROG ZEPHYRUS G14\n- Increíblemente potente - gracias a su procesador Ryzen 9 y gráficos NVIDIA. El ASUS ROG Zephyrus G14 ofrece un rendimiento extremo que redefine tus expectativas gaming y profesionales, garantizando fluidez inigualable con una pantalla OLED de 120Hz.\nSu precio actual en Amazon ronda los... 1860 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: ASUS ROG Zephyrus G14]\n\n[0:25] DELL XPS 13\n- Nadie te dice - lo revolucionario que es el Dell XPS 13, brindándote acceso a AI sobre la marcha con su Snapdragon X Elite. Disfruta de autonomía sin precedentes y rendimiento potente dondequiera que vayas.\n\nSu precio actual en Amazon ronda los... 1300 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Dell XPS 13]\n\n[10 seconds] CONCLUSION\nundefined\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:45\nTONE: engaging\nPACING: quick\nKEYWORDS: laptops, futuristas, puedes, comprar, amazon\n"
+}

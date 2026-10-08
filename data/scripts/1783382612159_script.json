@@ -1,0 +1,312 @@
+{
+  "title": "Top 4 Gadgets más Extraños que Puedes Comprar en Amazon",
+  "hook": {
+    "type": "statement",
+    "text": "Rocía intensamente y ahorra agua. Flota mágicamente en el aire. Ilumina sin baterías ni cables.",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "Suscríbete. Los links están en el primer comentario.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "25s-35s"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Levitating Plant Pot",
+        "productId": "B096TJV4DP",
+        "productName": "Levitating Plant Pot",
+        "filename": "B096TJV4DP.mp4",
+        "asin": "B096TJV4DP",
+        "videoDuration": 59.926533,
+        "estimatedAudioSeconds": 50,
+        "framework": "comparacion_precio",
+        "narracionSegments": null,
+        "content": [
+          "¿Te imaginas tener una maceta que flota en el aire? El Levitating Plant Pot lo hace posible con tecnología magnética, girando a 360 grados. Este sistema no solo es visualmente atractivo sino también un gran alivio para el estrés, creando una atmósfera de calma donde lo coloques. Su base mide 7.48 por 6.7 pulgadas y soporta hasta 300 gramos, ideal para bonsáis o suculentas. Recibirás la base levitante y todo lo necesario para empezar a usarla de inmediato. Además, la calidad de su resina asegura durabilidad y seguridad. Incluye un adaptador, garantizando que nunca se queda sin energía.",
+          "Su precio actual en Amazon ronda los... 59 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Levitating Plant Pot"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B096TJV4DP_combined.mp4",
+        "precio": "$59",
+        "productPhoto": "https://m.media-amazon.com/images/I/61HuG1jaQ0L.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B096TJV4DP.mp4",
+            "type": "video",
+            "score": 10,
+            "tag": "maceta flotante",
+            "raw": "10|maceta flotante"
+          }
+        ],
+        "features": [
+          "Maceta flotante: Nuestro tazón de bonsái flotante mágico magnético adopta tecnología de levitación magnética, que puede flotar en el aire y rotar automáticamente 360° cuando se enciende la energía. ¡Es realmente asombroso!",
+          "Cómo usar: Cuando sientas la fuerza magnética tirar o empujar la planta, ajusta la posición adecuadamente al centro de la base. Cuando sientas que la fuerza desaparece, mantén la planta estable durante 3-5 segundos. Luego, suelta lentamente las manos hasta que la planta se mantenga por sí sola.",
+          "Tamaño de la base: 7.48 * 6.7 * 1.18 pulgadas, tamaño de la maceta: 3.54 pulgadas (diámetro) * 1.78 pulgadas (altura). Hecho de material de resina, seguro y duradero, fácil de instalar, mantener y usar. Puede soportar un peso de 300 g. Adecuado para bonsáis, suculentas y muchos otros.",
+          "Paquete incluido: 1 x base levitante, 1 x soporte para flores, 1 x adaptador de corriente US con cable, 1 x manual del usuario. El cable proporciona energía a la base y permite la flotación y rotación. No flotará sin estar conectado.",
+          "Alivio del estrés y relajación: el paisaje de plantas en miniatura puede crear una atmósfera natural y tranquila después de colgarlo. Cuando te sientas cansado en el trabajo, atraerá tu atención y despejará tu mente. Adecuado para el hogar y la oficina."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Snapods Magnetic Earbuds",
+        "productId": "B08L6ZYW21",
+        "productName": "Snapods Magnetic Earbuds",
+        "filename": "B08L6ZYW21.mp4",
+        "asin": "B08L6ZYW21",
+        "videoDuration": 59.926533,
+        "estimatedAudioSeconds": 50,
+        "framework": "dato_numerico",
+        "narracionSegments": null,
+        "content": [
+          "\"Hasta 12 horas de música ininterrumpida\" es un titular que impresiona a cualquier amante del sonido. Los Snapods Magnetic Earbuds no solo prometen esta duración; además, garantizan comodidad durante todo el día gracias a su ajuste personalizado con diferentes almohadillas y cable Flex-Form. Alimentados por el chip Apple W1, ofrecen conectividad impecable con dispositivos de la manzana mordida. Y como si fuera poco, su función de Auto-Play/Pause detiene la música automáticamente al quitártelo, permitiéndote compartir melodías con otros Beats o AirPods gracias a su Audio Sharing.",
+          "Su precio actual en Amazon ronda los... 49 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Snapods Magnetic Earbuds"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B08L6ZYW21_combined.mp4",
+        "precio": "$49",
+        "productPhoto": "https://m.media-amazon.com/images/I/61rFK7dfbUL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B08L6ZYW21.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          }
+        ],
+        "features": [
+          "VIDA DE LA BATERÍA - Hasta 12 horas de tiempo de escucha",
+          "AJUSTE PERSONALIZADO - Comodidad durante todo el día con cable Flex-Form y cuatro opciones de eartip.",
+          "CHIP DE AURICULARES APPLE - Alimentado por el chip de auriculares Apple W1 para una conectividad sin interrupciones.",
+          "\"LA MÚSICA SE DETIENE CUANDO TÚ LO HACES - Auriculares magnéticos con Auto-Play/Pause\"",
+          "\"ESCUCHA CON UN AMIGO - Audio Sharing te permite compartir audio de forma inalámbrica con otro par de auriculares Beats o AirPods.\""
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Nebia by Moen Shower",
+        "productId": "B0DCQ94QW2",
+        "productName": "Nebia by Moen Shower",
+        "filename": "B0DCQ94QW2.mp4",
+        "asin": "B0DCQ94QW2",
+        "videoDuration": 59.9599,
+        "estimatedAudioSeconds": 49,
+        "framework": "experiencia_sensorial",
+        "narracionSegments": null,
+        "content": [
+          "\"Nebia by Moen Shower\" transforma tu rutina diaria con una experiencia sensorial única al incorporar tecnología de spray patentada que ahorra hasta un 40% más de agua. Su diseño ofrece una fuerza excepcional del agua mientras te duchas bajo uno de sus cuatro modos personalizados: Hard, Focused, Power y Angel Hair. Su sistema doble permite ajustar la altura y ofrece instalación sin complicaciones; sus innovaciones se enfocan tanto en confort como en sostenibilidad económica, permitiéndote disfrutar mientras cuidas del planeta.",
+          "Su precio actual en Amazon ronda los... 86 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Nebia by Moen Shower"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0DCQ94QW2_combined.mp4",
+        "precio": "$86",
+        "productPhoto": "https://m.media-amazon.com/images/I/517CSXc5iJL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0DCQ94QW2.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "ducha mano",
+            "raw": "9|ducha mano"
+          }
+        ],
+        "features": [
+          "TECNOLOGÍA DE SPRAY NEBIA PATENTADA: Yuba ofrece hasta un 40% más de ahorro de agua en comparación con un cabezal de ducha estándar de 2.5 gpm y rocía con hasta un 75% más de fuerza cuando se mide contra las especificaciones de rendimiento de EPA WaterSense.",
+          "TU LAVADO, A TU MANERA: Sumérgete en uno de los 4 lujosos rociadores: Hard, Focused, Power y Angel Hair; los 5 ajustes de Yuba incluyen un botón de Pausa integrado para reducir aún más el flujo de agua, ahorrando agua adicional mientras te enjabonas o te afeitas.",
+          "SISTEMA DE DOBLE DOCKING HALONETIC: Ajusta fácilmente la altura del rociador para perfeccionar tu experiencia de ducha; El seguro muelle magnético se coloca en su lugar con facilidad, mientras que el docking tradicional en cuna añade altura adicional sobre tu ducha.",
+          "FÁCIL INSTALACIÓN, GRAN IMPACTO: Yuba se instala en minutos en tu brazo de ducha existente—sin necesidad de herramientas ni experiencia en fontanería; Menos agua calentada significa más energía ahorrada: Con una tasa de flujo de 1.5 gpm, Yuba puede ayudar a reducir el uso de recursos.",
+          "DISEÑAMOS PRODUCTOS QUE AYUDAN A PROTEGER LOS RECURSOS ESENCIALES DE NUESTRO PLANETA: Desde bidets y duchas que ahorran agua hasta purificadores de aire, sistemas de filtración de agua y más, Brondell ayuda a brindar una mejor higiene y comodidad consciente del medio ambiente a cada espacio. Estamos comprometidos a ayudarte a vivir una vida más feliz y saludable, un día a la vez."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Luci Solar Light",
+        "productId": "B0C7GNNZZ8",
+        "productName": "Luci Solar Light",
+        "filename": "B0C7GNNZZ8.mp4",
+        "asin": "B0C7GNNZZ8",
+        "videoDuration": 59.9599,
+        "estimatedAudioSeconds": null,
+        "framework": "problema_solucion",
+        "narracionSegments": null,
+        "content": [
+          "¿Harto de quedarte sin batería durante tus aventuras al aire libre? La Luci Solar Light es la solución perfecta: se carga completamente con energía solar en tan solo ocho horas e ilumina intensamente cualquier entorno sin necesidad de pilas o cables engorrosos gracias a sus LED super brillantes—ideal como linterna camping o emergencia después huracanes incluso brezoso usos interiores como luz lectura nocturna ocio social eventos.Su resistente pantalla impermeable IP55 desafía los elementos climáticos extremos asegurándote nunca más temer apagones.",
+          "Su precio actual Amazon ronda…30 dólares!Link primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Luci Solar Light"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0C7GNNZZ8_combined.mp4",
+        "precio": "$30",
+        "productPhoto": "https://m.media-amazon.com/images/I/61p0dRKdDvL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "Tamaño: 13*13*3CM / Batería: 1000mAh / 3.7V",
+          "Completamente Solar y Nunca Necesita Baterías. El panel solar de alta eficiencia integrado significa que no se necesitan baterías, nunca. Se recarga completamente a través de solar en 8-10 horas. Siempre estará listo para cualquier aventura.",
+          "Material Fuerte y Duradero: La pantalla de la lámpara está hecha de material de película de PVC, que es muy suave. Grado de impermeabilidad IP55.",
+          "Linterna LED solar super brillante. Sus diferentes modos de iluminación la hacen perfecta para iluminar tanto en interiores como en exteriores.",
+          "\"\"\"Ampliamente utilizado: Ideal para luz interior y exterior. Luz exterior como linterna de camping, luz de navegación, luz de emergencia, luz SOS, luz de jardín, luz de tienda. Luz interior como luz de lectura, luz nocturna, luz de fiesta, etc... artículo adecuado para cortes de energía causados por desastres naturales como huracanes y tifones.\"\"\""
+        ]
+      }
+    ],
+    "totalDuration": 160
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      null
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "3:10",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "extraos",
+    "puedes",
+    "comprar",
+    "amazon"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 4 Gadgets más Extraños que Puedes Comprar en Amazon",
+      "angle": "Top 5 Gadgets más Extraños que Puedes Comprar en Amazon",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 4,
+      "introScript": "Prepárate para descubrir cinco gadgets que parecen sacados de una película de ciencia ficción. Desde un cargador que parece una piedra hasta un bolígrafo que escribe en el aire. ¿Imaginaste una lámpara que flota? Quédate hasta el final para ver cómo estos inventos aparentemente imposibles ya son una realidad que puedes tener en casa.",
+      "keywords": [
+        "gadgets",
+        "extraos",
+        "puedes",
+        "comprar",
+        "amazon"
+      ],
+      "estimatedViews": 4536,
+      "bestPublishTime": "2026-07-08T19:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Levitating Plant Pot",
+          "searchTermEn": "floating plant pot",
+          "id": "B096TJV4DP",
+          "filename": "B096TJV4DP.mp4"
+        },
+        {
+          "nombre": "Snapods Magnetic Earbuds",
+          "searchTermEn": "Snapods magnetic earbuds",
+          "id": "B08L6ZYW21",
+          "filename": "B08L6ZYW21.mp4"
+        },
+        {
+          "nombre": "Nebia by Moen Shower",
+          "searchTermEn": "Nebia shower system",
+          "id": "B0DCQ94QW2",
+          "filename": "B0DCQ94QW2.mp4"
+        },
+        {
+          "nombre": "Luci Solar Light",
+          "searchTermEn": "Luci inflatable solar light",
+          "id": "B0C7GNNZZ8",
+          "filename": "B0C7GNNZZ8.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-07-06T23:46:38.949Z",
+      "_requestedCount": 5,
+      "_adaptedCount": 4,
+      "_adaptationNote": "ATENCIÓN: El usuario pidió 5 productos pero solo hay 4 clips de video disponibles. El guion, título y narrativa deben referirse EXCLUSIVAMENTE a 4 productos.",
+      "introProductsOrder": [
+        {
+          "nombre": "Nebia by Moen Shower",
+          "id": "B0DCQ94QW2",
+          "filename": "B0DCQ94QW2_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0DCQ94QW2_combined.mp4"
+        },
+        {
+          "nombre": "Levitating Plant Pot",
+          "id": "B096TJV4DP",
+          "filename": "B096TJV4DP_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B096TJV4DP_combined.mp4"
+        },
+        {
+          "nombre": "Luci Solar Light",
+          "id": "B0C7GNNZZ8",
+          "filename": "B0C7GNNZZ8_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0C7GNNZZ8_combined.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1783382087190_qu2iwh"
+    },
+    "generatedAt": "2026-07-07T00:03:08.333Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Levitating Plant Pot",
+        "searchTermEn": "floating plant pot",
+        "id": "B096TJV4DP",
+        "filename": "B096TJV4DP.mp4"
+      },
+      {
+        "nombre": "Snapods Magnetic Earbuds",
+        "searchTermEn": "Snapods magnetic earbuds",
+        "id": "B08L6ZYW21",
+        "filename": "B08L6ZYW21.mp4"
+      },
+      {
+        "nombre": "Nebia by Moen Shower",
+        "searchTermEn": "Nebia shower system",
+        "id": "B0DCQ94QW2",
+        "filename": "B0DCQ94QW2.mp4"
+      },
+      {
+        "nombre": "Luci Solar Light",
+        "searchTermEn": "Luci inflatable solar light",
+        "id": "B0C7GNNZZ8",
+        "filename": "B0C7GNNZZ8.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 4 Gadgets más Extraños que Puedes Comprar en Amazon\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\nRocía intensamente y ahorra agua. Flota mágicamente en el aire. Ilumina sin baterías ni cables.\n\n[25s-35s] INTRODUCTION\nSuscríbete. Los links están en el primer comentario.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] LEVITATING PLANT POT\n¿Te imaginas tener una maceta que flota en el aire? El Levitating Plant Pot lo hace posible con tecnología magnética, girando a 360 grados. Este sistema no solo es visualmente atractivo sino también un gran alivio para el estrés, creando una atmósfera de calma donde lo coloques. Su base mide 7.48 por 6.7 pulgadas y soporta hasta 300 gramos, ideal para bonsáis o suculentas. Recibirás la base levitante y todo lo necesario para empezar a usarla de inmediato. Además, la calidad de su resina asegura durabilidad y seguridad. Incluye un adaptador, garantizando que nunca se queda sin energía.\nSu precio actual en Amazon ronda los... 59 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Levitating Plant Pot]\n\n[0:25] SNAPODS MAGNETIC EARBUDS\n\"Hasta 12 horas de música ininterrumpida\" es un titular que impresiona a cualquier amante del sonido. Los Snapods Magnetic Earbuds no solo prometen esta duración; además, garantizan comodidad durante todo el día gracias a su ajuste personalizado con diferentes almohadillas y cable Flex-Form. Alimentados por el chip Apple W1, ofrecen conectividad impecable con dispositivos de la manzana mordida. Y como si fuera poco, su función de Auto-Play/Pause detiene la música automáticamente al quitártelo, permitiéndote compartir melodías con otros Beats o AirPods gracias a su Audio Sharing.\nSu precio actual en Amazon ronda los... 49 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Snapods Magnetic Earbuds]\n\n[0:25] NEBIA BY MOEN SHOWER\n\"Nebia by Moen Shower\" transforma tu rutina diaria con una experiencia sensorial única al incorporar tecnología de spray patentada que ahorra hasta un 40% más de agua. Su diseño ofrece una fuerza excepcional del agua mientras te duchas bajo uno de sus cuatro modos personalizados: Hard, Focused, Power y Angel Hair. Su sistema doble permite ajustar la altura y ofrece instalación sin complicaciones; sus innovaciones se enfocan tanto en confort como en sostenibilidad económica, permitiéndote disfrutar mientras cuidas del planeta.\nSu precio actual en Amazon ronda los... 86 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Nebia by Moen Shower]\n\n[0:25] LUCI SOLAR LIGHT\n¿Harto de quedarte sin batería durante tus aventuras al aire libre? La Luci Solar Light es la solución perfecta: se carga completamente con energía solar en tan solo ocho horas e ilumina intensamente cualquier entorno sin necesidad de pilas o cables engorrosos gracias a sus LED super brillantes—ideal como linterna camping o emergencia después huracanes incluso brezoso usos interiores como luz lectura nocturna ocio social eventos.Su resistente pantalla impermeable IP55 desafía los elementos climáticos extremos asegurándote nunca más temer apagones.\nSu precio actual Amazon ronda…30 dólares!Link primer comentario!\n\n[VISUALS: Product image: Luci Solar Light]\n\n[10 seconds] CONCLUSION\nundefined\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 3:10\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, extraos, puedes, comprar, amazon\n"
+}

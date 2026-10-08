@@ -1,0 +1,744 @@
+{
+  "title": "Los 5 Mejores Gadgets que No Puedes Perderte para tu Motocicleta",
+  "hook": {
+    "type": "statement",
+    "text": "¿Dónde está tu moto? ¿Sin cables pero con música?",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "¡Descubre gadgets increíbles! Los links están en el primer comentario.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "25s-35s"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Domio Pro",
+        "productId": "B0GF8DWWS8",
+        "productName": "Domio Pro",
+        "filename": "B0GF8DWWS8.mp4",
+        "asin": "B0GF8DWWS8",
+        "videoDuration": 59.8598,
+        "estimatedAudioSeconds": 50,
+        "framework": "experiencia_sensorial",
+        "narracionSegments": null,
+        "content": [
+          "Sumérgete en el sonido con los altavoces HD de 43mm, diseñados para cascos de motocicleta. Con reducción de ruido triple, la música y las llamadas serán más claras. Mantente siempre conectado gracias a su sistema de intercomunicador de dos vías. La perilla amigable con guantes permite un control sin complicaciones. Comparte música y disfruta de la radio FM integrada junto a sus cuatro modos de ecualización. Y no te preocupes por el clima, ya que es impermeable IP67 y ultraligero para máxima comodidad.",
+          "Su precio actual en Amazon ronda los... 112 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Domio Pro"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0GF8DWWS8_combined.mp4",
+        "precio": "$112",
+        "productPhoto": "https://m.media-amazon.com/images/I/71XY7H8USIL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GF8DWWS8\\scenes_v1\\B0GF8DWWS8_scene_01.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "dispositivos bluetooth",
+            "raw": "5|dispositivos bluetooth"
+          }
+        ],
+        "features": [
+          "\"\"\"Altavoces para casco de motocicleta de 43mm HD y triple reducción de ruido – Disfruta de un volumen más alto, graves más profundos y un sonido más claro con los altavoces para casco de motocicleta de 43mm HD mejorados. Construido con tecnología de reducción de ruido DSP, CVC y ENC, este auricular bluetooth para motocicleta ayuda a reducir el ruido del viento y de la carretera para una música, llamadas y navegación GPS más claras. Ideal para desplazamientos, turismo y conducción diaria.\"\"\"",
+          "Sistema de Intercomunicador para Casco de Motocicleta de 2 Vías - Mantente conectado con un sistema de intercomunicación para motocicletas confiable que soporta comunicación de piloto a pasajero o de piloto a piloto hasta 1000m (0.6 milla). La antena mejorada proporciona una conexión estable en carreteras y calles de la ciudad. El emparejamiento universal permite que este sistema de comunicación para motocicletas se conecte con dispositivos de intercomunicación de casco compatibles de otras marcas.",
+          "Perilla Amigable con Guantes – Control Fácil con una Mano - Ajusta fácilmente el volumen, cambia de pista, responde llamadas y activa Siri o Google Assistant mientras usas guantes de montar. La gran perilla rotativa hace que la operación sea simple y segura en la carretera.",
+          "Compartición de Música, Radio FM y 4 Modos de Ecualización – Disfruta de la música a través de potentes altavoces para casco de motocicleta y comparte audio con tu pasajero utilizando la Compartición de Música. La radio FM integrada te mantiene entretenido en viajes de larga distancia, mientras que los 4 modos de sonido EQ (Bass, Rock, Pop y Default) te permiten personalizar el audio de tu auricular bluetooth para motocicleta para paseos, desplazamientos y conducción diaria. (La Compartición de Música está disponible solo entre unidades CHUANYUE idénticas.)",
+          "IP67 Impermeable y Ultra-Ligero - Diseñado para motocicletas, ATVs, UTVs y motos de nieve, este auricular bluetooth para casco de motocicleta cuenta con un diseño impermeable IP67 para montar en cualquier clima. Incluye micrófonos de brazo y micrófonos con cable, y se adapta a cascos integrales, modulares, de cara abierta y de media cara. Su diseño ligero de 2.1oz (60g) garantiza una comodidad duradera en los desplazamientos diarios y en recorridos de larga distancia."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Garmin Zumo XT",
+        "productId": "B0BW4Y84R8",
+        "productName": "Garmin Zumo XT",
+        "filename": "B0BW4Y84R8.mp4",
+        "asin": "B0BW4Y84R8",
+        "videoDuration": 60.026633,
+        "estimatedAudioSeconds": 45,
+        "framework": "problema_solucion",
+        "narracionSegments": null,
+        "content": [
+          "Perderse es cosa del pasado con la pantalla brillante de 6 pulgadas del Garmin Zumo XT, legible incluso bajo el sol. Personaliza tus viajes y explora nuevas rutas con imágenes satelitales. Además, sigue la posición exacta de tus compañeros al emparejarlo con la aplicación Tread. No pierdas detalle: velocidad, elevación y más están siempre disponibles.",
+          "Su precio actual en Amazon ronda los... 600 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Garmin Zumo XT"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0BW4Y84R8_combined.mp4",
+        "precio": "$600",
+        "productPhoto": "https://m.media-amazon.com/images/I/61zrNeZiSPL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BW4Y84R8\\scenes_v1\\B0BW4Y84R8_scene_01.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "pantalla encendida",
+            "raw": "9|pantalla encendida"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BW4Y84R8\\scenes_v1\\B0BW4Y84R8_scene_03.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "pantalla encendida",
+            "raw": "9|pantalla encendida"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BW4Y84R8\\scenes_v1\\B0BW4Y84R8_scene_04.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "pantalla encendida",
+            "raw": "9|pantalla encendida"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BW4Y84R8\\scenes_v1\\B0BW4Y84R8_scene_05.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "pantalla encendida",
+            "raw": "9|pantalla encendida"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BW4Y84R8\\scenes_v1\\B0BW4Y84R8_scene_06.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "pantalla encendida",
+            "raw": "9|pantalla encendida"
+          }
+        ],
+        "features": [
+          "Pantalla más grande y brillante de 6”, legible a la luz del sol, diseñada para resistir las inclemencias del tiempo y las vibraciones del manillar con diseño IPX7.",
+          "Personaliza tu viaje con el nuevo planificador de rutas visual, y elige entre rutas eficientes o aventuras más emocionantes.",
+          "\"Ve rutas de moto populares y utiliza imágenes satelitales para descubrir nuevos lugares para montar.\"",
+          "Inicia un paseo en grupo para ver las posiciones de otros ciclistas en la pantalla del zūmo XT2; requiere emparejamiento con la aplicación para smartphone Tread.",
+          "Revisa y comparte los detalles del viaje, incluyendo tu velocidad, elevación, aceleración, desaceleración y más; requiere emparejamiento con la aplicación para smartphone Tread."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Invoxia GPS Tracker",
+        "productId": "B0B8K2CKDH",
+        "productName": "Invoxia GPS Tracker",
+        "filename": "B0B8K2CKDH.mp4",
+        "asin": "B0B8K2CKDH",
+        "videoDuration": 60.026,
+        "estimatedAudioSeconds": 47,
+        "framework": "enfoque_caracteristica",
+        "narracionSegments": null,
+        "content": [
+          "-Seguimiento GPS en tiempo real- garantiza que nunca pierdas la pista de tus activos valiosos. Las alertas de robo instantáneas te mantienen un paso adelante ante cualquier movimiento sospechoso. Con meses de autonomía por carga, preocúpate menos y disfruta más. Gracias al cubrimiento celular nacional, configúralo fácilmente sin necesidad de una tarjeta SIM extra.",
+          "\"Su precio actual en Amazon ronda los... 99 dólares.\" ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Invoxia GPS Tracker"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0B8K2CKDH_combined.mp4",
+        "precio": "$99",
+        "productPhoto": "https://m.media-amazon.com/images/I/610gWlDN0lL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0B8K2CKDH\\scenes_v1\\B0B8K2CKDH_scene_03.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Interacción clara",
+            "raw": "9|Interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0B8K2CKDH\\scenes_v1\\B0B8K2CKDH_scene_09.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción app",
+            "raw": "9|interacción app"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0B8K2CKDH\\scenes_v1\\B0B8K2CKDH_scene_12.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0B8K2CKDH\\scenes_v1\\B0B8K2CKDH_scene_04.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Invoxia GPS",
+            "raw": "8|Invoxia GPS"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0B8K2CKDH\\scenes_v1\\B0B8K2CKDH_scene_05.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "producto visible",
+            "raw": "8|producto visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0B8K2CKDH\\scenes_v1\\B0B8K2CKDH_scene_06.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "GPS Tracker",
+            "raw": "8|GPS Tracker"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0B8K2CKDH\\scenes_v1\\B0B8K2CKDH_scene_15.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "producto visible",
+            "raw": "8|producto visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0B8K2CKDH\\scenes_v1\\B0B8K2CKDH_scene_08.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "pantalla aplicación",
+            "raw": "5|pantalla aplicación"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0B8K2CKDH\\scenes_v1\\B0B8K2CKDH_scene_11.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "producto pequeño",
+            "raw": "5|producto pequeño"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0B8K2CKDH\\scenes_v1\\B0B8K2CKDH_scene_10.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "producto pequeño",
+            "raw": "5|producto pequeño"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0B8K2CKDH\\scenes_v1\\B0B8K2CKDH_scene_13.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "producto pequeño",
+            "raw": "5|producto pequeño"
+          }
+        ],
+        "features": [
+          "\"\"\"SEGUIMIENTO GPS EN TIEMPO REAL: Monitorea tu vehículo, motocicleta, remolque, RV, barco o equipo valioso con seguimiento GPS en vivo y actualizaciones de ubicación instantáneas a través de la aplicación móvil Invoxia. Mantente informado dondequiera que vayan tus activos.\"\"\"",
+          "ALERTAS DE ROBO INSTANTÁNEAS: Recibe notificaciones inmediatas cuando se detecta movimiento sospechoso. La avanzada detección de movimiento te ayuda a reaccionar rápidamente y a mantener un seguimiento de tu vehículo incluso cuando estás ausente.",
+          "\"\"\"DURACIÓN DE BATERÍA PROLONGADA: Disfruta de meses de autonomía con una sola carga. Diseñado para minimizar el mantenimiento, el rastreador protege continuamente tus activos sin requerir recargas frecuentes.\"\"\"",
+          "CUBRIMIENTO CELULAR A NIVEL NACIONAL: Realiza un seguimiento de tus activos en los Estados Unidos utilizando conectividad celular integrada. No se requiere instalación adicional de tarjeta SIM, lo que permite una configuración rápida y sencilla directamente desde la caja.",
+          "CARACTERÍSTICAS DE LA APLICACIÓN INTELIGENTE: Crea geocercas personalizadas, revisa el historial de ubicaciones y recibe notificaciones de movimiento directamente en tu smartphone. Ideal para proteger coches, motocicletas, vehículos recreativos (RVs), remolques, barcos, equipos de construcción y más."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Sena 50S",
+        "productId": "B09NWJ3XQB",
+        "productName": "Sena 50S",
+        "filename": "B09NWJ3XQB.mp4",
+        "asin": "B09NWJ3XQB",
+        "videoDuration": 60.026633,
+        "estimatedAudioSeconds": null,
+        "framework": "beneficio_oculto",
+        "narracionSegments": null,
+        "content": [
+          "Sena 50S es una solución completa que reúne lo mejor en innovación y funcionalidad. este producto destaca por sus características versátiles: el auricular de comunicación Sena 50S Mesh cuenta con altavoces y micrófono de primera calidad con SONIDO BY Harman Kardon.; intercomunicador Mesh de Conexión con un Clic, Fiabilidad Robusta.; \"Bluetooth 5 habilitado\"; acceso a asistente digital activado por voz (\"Hey Google\"/\"Hey Siri\"); y carga rápida, 20 minutos de carga equivalen a hasta 2 horas de intercomunicador Mesh o Bluetooth.. Cada aspecto está diseñado para ofrecerte la mejor experiencia posible. Descubre por qué miles de usuarios confían en esta solución.",
+          "Su precio actual en Amazon ronda los... 303 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Sena 50S"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B09NWJ3XQB_combined.mp4",
+        "precio": "$303",
+        "productPhoto": "https://m.media-amazon.com/images/I/61O5FXf-s3L.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B09NWJ3XQB\\scenes_v1\\B09NWJ3XQB_scene_02.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Interacción clara",
+            "raw": "9|Interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B09NWJ3XQB\\scenes_v1\\B09NWJ3XQB_scene_03.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Comunicación motera",
+            "raw": "9|Comunicación motera"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B09NWJ3XQB\\scenes_v1\\B09NWJ3XQB_scene_05.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Interacción clara",
+            "raw": "9|Interacción clara"
+          }
+        ],
+        "features": [
+          "El auricular de comunicación Sena 50S Mesh cuenta con altavoces y micrófono de primera calidad con SONIDO BY Harman Kardon.",
+          "Intercomunicador Mesh de Conexión con un Clic, Fiabilidad Robusta.",
+          "\"Bluetooth 5 habilitado\"",
+          "Acceso a asistente digital activado por voz (\"Hey Google\"/\"Hey Siri\")",
+          "Carga rápida, 20 minutos de carga equivalen a hasta 2 horas de intercomunicador Mesh o Bluetooth."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Quad Lock Mount",
+        "productId": "B08741BFFC",
+        "productName": "Quad Lock Mount",
+        "filename": "B08741BFFC.mp4",
+        "asin": "B08741BFFC",
+        "videoDuration": 60.026633,
+        "estimatedAudioSeconds": null,
+        "framework": "comparacion_precio",
+        "narracionSegments": null,
+        "content": [
+          "Quad Lock Mount es una solución completa que reúne lo mejor en innovación y funcionalidad. este producto destaca por sus características versátiles: el soporte para manillar de motocicleta para smartphone más fuerte, seguro y versátil.; \"\"\"El sistema de bloqueo de doble etapa patentado asegura que tu teléfono esté sujeto de manera segura a tu motocicleta. Agrega el Vibration Dampener opcional para proteger aún más tu Smartphone (recomendado)\"\"\"; rápido de adjuntar / desprender, proporcionando fácil acceso a tus aplicaciones sobre la marcha.; múltiples configuraciones de montaje. Se adapta a tamaños de barra de 7/8” (22mm), 1” (25mm), 1-1/8” (28mm), 1-1/4” (32mm).; y compatible exclusivamente con todas las Quad Lock Cases y Universal Adapters (se venden por separado). Solo las Quad Lock cases y adapters están certificadas para un rendimiento óptimo.. Cada aspecto está diseñado para ofrecerte la mejor experiencia posible. Descubre por qué miles de usuarios confían en esta solución.",
+          "Su precio actual en Amazon ronda los... 50 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Quad Lock Mount"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B08741BFFC_combined.mp4",
+        "precio": "$50",
+        "productPhoto": "https://m.media-amazon.com/images/I/518pe426S1L.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B08741BFFC\\scenes_v1\\B08741BFFC_scene_12.mp4",
+            "type": "video",
+            "score": 10,
+            "tag": "interacción real",
+            "raw": "10|interacción real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B08741BFFC\\scenes_v1\\B08741BFFC_scene_03.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "montaje teléfono",
+            "raw": "9|montaje teléfono"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B08741BFFC\\scenes_v1\\B08741BFFC_scene_01.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "montura teléfono",
+            "raw": "9|montura teléfono"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B08741BFFC\\scenes_v1\\B08741BFFC_scene_05.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "montura teléfono",
+            "raw": "9|montura teléfono"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B08741BFFC\\scenes_v1\\B08741BFFC_scene_06.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "montaje teléfono",
+            "raw": "9|montaje teléfono"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B08741BFFC\\scenes_v1\\B08741BFFC_scene_07.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B08741BFFC\\scenes_v1\\B08741BFFC_scene_08.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "montaje teléfono",
+            "raw": "9|montaje teléfono"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B08741BFFC\\scenes_v1\\B08741BFFC_scene_11.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "montura teléfono",
+            "raw": "9|montura teléfono"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B08741BFFC\\scenes_v1\\B08741BFFC_scene_13.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "montura teléfono",
+            "raw": "9|montura teléfono"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B08741BFFC\\scenes_v1\\B08741BFFC_scene_14.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción teléfono",
+            "raw": "9|interacción teléfono"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B08741BFFC\\scenes_v1\\B08741BFFC_scene_15.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "montaje teléfono",
+            "raw": "9|montaje teléfono"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B08741BFFC\\scenes_v1\\B08741BFFC_scene_20.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "montura teléfono",
+            "raw": "9|montura teléfono"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B08741BFFC\\scenes_v1\\B08741BFFC_scene_21.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "montaje teléfono",
+            "raw": "9|montaje teléfono"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B08741BFFC\\scenes_v1\\B08741BFFC_scene_23.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B08741BFFC\\scenes_v1\\B08741BFFC_scene_25.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B08741BFFC\\scenes_v1\\B08741BFFC_scene_28.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B08741BFFC\\scenes_v1\\B08741BFFC_scene_26.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "montura teléfono",
+            "raw": "9|montura teléfono"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B08741BFFC\\scenes_v1\\B08741BFFC_scene_31.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "montaje teléfono",
+            "raw": "9|montaje teléfono"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B08741BFFC\\scenes_v1\\B08741BFFC_scene_32.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "montaje teléfono",
+            "raw": "9|montaje teléfono"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B08741BFFC\\scenes_v1\\B08741BFFC_scene_38.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción mapa",
+            "raw": "9|interacción mapa"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B08741BFFC\\scenes_v1\\B08741BFFC_scene_39.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "montaje teléfono",
+            "raw": "9|montaje teléfono"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B08741BFFC\\scenes_v1\\B08741BFFC_scene_41.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "montaje teléfono",
+            "raw": "9|montaje teléfono"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B08741BFFC\\scenes_v1\\B08741BFFC_scene_42.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción teléfono",
+            "raw": "9|interacción teléfono"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B08741BFFC\\scenes_v1\\B08741BFFC_scene_43.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "montaje seguro",
+            "raw": "9|montaje seguro"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B08741BFFC\\scenes_v1\\B08741BFFC_scene_44.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "montura teléfono",
+            "raw": "9|montura teléfono"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B08741BFFC\\scenes_v1\\B08741BFFC_scene_45.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "montaje seguro",
+            "raw": "9|montaje seguro"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B08741BFFC\\scenes_v1\\B08741BFFC_scene_47.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "montaje teléfono",
+            "raw": "9|montaje teléfono"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B08741BFFC\\scenes_v1\\B08741BFFC_scene_48.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B08741BFFC\\scenes_v1\\B08741BFFC_scene_53.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "montura teléfono",
+            "raw": "9|montura teléfono"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B08741BFFC\\scenes_v1\\B08741BFFC_scene_04.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Soporte moto",
+            "raw": "8|Soporte moto"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B08741BFFC\\scenes_v1\\B08741BFFC_scene_09.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "montaje teléfono",
+            "raw": "8|montaje teléfono"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B08741BFFC\\scenes_v1\\B08741BFFC_scene_18.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Soporte teléfono",
+            "raw": "8|Soporte teléfono"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B08741BFFC\\scenes_v1\\B08741BFFC_scene_19.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Soporte teléfono",
+            "raw": "8|Soporte teléfono"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B08741BFFC\\scenes_v1\\B08741BFFC_scene_30.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Soporte motocicleta",
+            "raw": "8|Soporte motocicleta"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B08741BFFC\\scenes_v1\\B08741BFFC_scene_35.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Soporte teléfono",
+            "raw": "8|Soporte teléfono"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B08741BFFC\\scenes_v1\\B08741BFFC_scene_33.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Soporte motocicleta",
+            "raw": "8|Soporte motocicleta"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B08741BFFC\\scenes_v1\\B08741BFFC_scene_36.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Soporte teléfono",
+            "raw": "8|Soporte teléfono"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B08741BFFC\\scenes_v1\\B08741BFFC_scene_40.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Soporte moto",
+            "raw": "8|Soporte moto"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B08741BFFC\\scenes_v1\\B08741BFFC_scene_49.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Soporte teléfono",
+            "raw": "8|Soporte teléfono"
+          }
+        ],
+        "features": [
+          "El soporte para manillar de motocicleta para smartphone más fuerte, seguro y versátil.",
+          "\"\"\"El sistema de bloqueo de doble etapa patentado asegura que tu teléfono esté sujeto de manera segura a tu motocicleta. Agrega el Vibration Dampener opcional para proteger aún más tu Smartphone (recomendado)\"\"\"",
+          "Rápido de adjuntar / desprender, proporcionando fácil acceso a tus aplicaciones sobre la marcha.",
+          "Múltiples configuraciones de montaje. Se adapta a tamaños de barra de 7/8” (22mm), 1” (25mm), 1-1/8” (28mm), 1-1/4” (32mm).",
+          "Compatible exclusivamente con todas las Quad Lock Cases y Universal Adapters (se venden por separado). Solo las Quad Lock cases y adapters están certificadas para un rendimiento óptimo."
+        ]
+      }
+    ],
+    "totalDuration": 200
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      null
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "3:50",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "imprescindibles",
+    "para",
+    "motocicleta"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 5 Gadgets Imprescindibles para tu Motocicleta",
+      "angle": "Top 5 Gadgets Imprescindibles para tu Motocicleta",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 5,
+      "introScript": "¿Imagina un casco que te proyecta en tiempo real la ruta en el visor? ¿O un dispositivo que convierte cualquier casco en un sistema de comunicación manos libres? Hoy exploramos los gadgets más sorprendentes que harán cada viaje en tu motocicleta una experiencia inolvidable. Desde seguridad hasta conectividad, estos cinco productos transformarán el camino y cómo lo recorres.",
+      "keywords": [
+        "gadgets",
+        "imprescindibles",
+        "para",
+        "motocicleta"
+      ],
+      "estimatedViews": 4048,
+      "bestPublishTime": "2026-07-08T19:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Domio Pro",
+          "searchTermEn": "Domio Pro helmet audio",
+          "id": "B0GF8DWWS8",
+          "filename": "B0GF8DWWS8.mp4"
+        },
+        {
+          "nombre": "Garmin Zumo XT",
+          "searchTermEn": "Garmin Zumo XT motorcycle GPS",
+          "id": "B0BW4Y84R8",
+          "filename": "B0BW4Y84R8.mp4"
+        },
+        {
+          "nombre": "Invoxia GPS Tracker",
+          "searchTermEn": "Invoxia GPS Tracker motorcycle",
+          "id": "B0B8K2CKDH",
+          "filename": "B0B8K2CKDH.mp4"
+        },
+        {
+          "nombre": "Sena 50S",
+          "searchTermEn": "Sena 50S Bluetooth headset",
+          "id": "B09NWJ3XQB",
+          "filename": "B09NWJ3XQB.mp4"
+        },
+        {
+          "nombre": "Quad Lock Mount",
+          "searchTermEn": "Quad Lock motorcycle mount",
+          "id": "B08741BFFC",
+          "filename": "B08741BFFC.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-07-03T23:02:19.379Z",
+      "_requestedCount": 5,
+      "_adaptedCount": 5,
+      "introProductsOrder": [
+        {
+          "nombre": "Invoxia GPS Tracker",
+          "id": "B0B8K2CKDH",
+          "filename": "B0B8K2CKDH_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0B8K2CKDH_combined.mp4"
+        },
+        {
+          "nombre": "Domio Pro",
+          "id": "B0GF8DWWS8",
+          "filename": "B0GF8DWWS8_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0GF8DWWS8_combined.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1783120767559_dyi0li"
+    },
+    "generatedAt": "2026-07-03T23:23:15.596Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Domio Pro",
+        "searchTermEn": "Domio Pro helmet audio",
+        "id": "B0GF8DWWS8",
+        "filename": "B0GF8DWWS8.mp4"
+      },
+      {
+        "nombre": "Garmin Zumo XT",
+        "searchTermEn": "Garmin Zumo XT motorcycle GPS",
+        "id": "B0BW4Y84R8",
+        "filename": "B0BW4Y84R8.mp4"
+      },
+      {
+        "nombre": "Invoxia GPS Tracker",
+        "searchTermEn": "Invoxia GPS Tracker motorcycle",
+        "id": "B0B8K2CKDH",
+        "filename": "B0B8K2CKDH.mp4"
+      },
+      {
+        "nombre": "Sena 50S",
+        "searchTermEn": "Sena 50S Bluetooth headset",
+        "id": "B09NWJ3XQB",
+        "filename": "B09NWJ3XQB.mp4"
+      },
+      {
+        "nombre": "Quad Lock Mount",
+        "searchTermEn": "Quad Lock motorcycle mount",
+        "id": "B08741BFFC",
+        "filename": "B08741BFFC.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Los 5 Mejores Gadgets que No Puedes Perderte para tu Motocicleta\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\n¿Dónde está tu moto? ¿Sin cables pero con música?\n\n[25s-35s] INTRODUCTION\n¡Descubre gadgets increíbles! Los links están en el primer comentario.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] DOMIO PRO\nSumérgete en el sonido con los altavoces HD de 43mm, diseñados para cascos de motocicleta. Con reducción de ruido triple, la música y las llamadas serán más claras. Mantente siempre conectado gracias a su sistema de intercomunicador de dos vías. La perilla amigable con guantes permite un control sin complicaciones. Comparte música y disfruta de la radio FM integrada junto a sus cuatro modos de ecualización. Y no te preocupes por el clima, ya que es impermeable IP67 y ultraligero para máxima comodidad.\nSu precio actual en Amazon ronda los... 112 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Domio Pro]\n\n[0:25] GARMIN ZUMO XT\nPerderse es cosa del pasado con la pantalla brillante de 6 pulgadas del Garmin Zumo XT, legible incluso bajo el sol. Personaliza tus viajes y explora nuevas rutas con imágenes satelitales. Además, sigue la posición exacta de tus compañeros al emparejarlo con la aplicación Tread. No pierdas detalle: velocidad, elevación y más están siempre disponibles.\nSu precio actual en Amazon ronda los... 600 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Garmin Zumo XT]\n\n[0:25] INVOXIA GPS TRACKER\n-Seguimiento GPS en tiempo real- garantiza que nunca pierdas la pista de tus activos valiosos. Las alertas de robo instantáneas te mantienen un paso adelante ante cualquier movimiento sospechoso. Con meses de autonomía por carga, preocúpate menos y disfruta más. Gracias al cubrimiento celular nacional, configúralo fácilmente sin necesidad de una tarjeta SIM extra.\n\"Su precio actual en Amazon ronda los... 99 dólares.\" ¡Link en el primer comentario!\n\n[VISUALS: Product image: Invoxia GPS Tracker]\n\n[0:25] SENA 50S\nSena 50S es una solución completa que reúne lo mejor en innovación y funcionalidad. este producto destaca por sus características versátiles: el auricular de comunicación Sena 50S Mesh cuenta con altavoces y micrófono de primera calidad con SONIDO BY Harman Kardon.; intercomunicador Mesh de Conexión con un Clic, Fiabilidad Robusta.; \"Bluetooth 5 habilitado\"; acceso a asistente digital activado por voz (\"Hey Google\"/\"Hey Siri\"); y carga rápida, 20 minutos de carga equivalen a hasta 2 horas de intercomunicador Mesh o Bluetooth.. Cada aspecto está diseñado para ofrecerte la mejor experiencia posible. Descubre por qué miles de usuarios confían en esta solución.\nSu precio actual en Amazon ronda los... 303 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Sena 50S]\n\n[0:25] QUAD LOCK MOUNT\nQuad Lock Mount es una solución completa que reúne lo mejor en innovación y funcionalidad. este producto destaca por sus características versátiles: el soporte para manillar de motocicleta para smartphone más fuerte, seguro y versátil.; \"\"\"El sistema de bloqueo de doble etapa patentado asegura que tu teléfono esté sujeto de manera segura a tu motocicleta. Agrega el Vibration Dampener opcional para proteger aún más tu Smartphone (recomendado)\"\"\"; rápido de adjuntar / desprender, proporcionando fácil acceso a tus aplicaciones sobre la marcha.; múltiples configuraciones de montaje. Se adapta a tamaños de barra de 7/8” (22mm), 1” (25mm), 1-1/8” (28mm), 1-1/4” (32mm).; y compatible exclusivamente con todas las Quad Lock Cases y Universal Adapters (se venden por separado). Solo las Quad Lock cases y adapters están certificadas para un rendimiento óptimo.. Cada aspecto está diseñado para ofrecerte la mejor experiencia posible. Descubre por qué miles de usuarios confían en esta solución.\nSu precio actual en Amazon ronda los... 50 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Quad Lock Mount]\n\n[10 seconds] CONCLUSION\nundefined\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 3:50\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, imprescindibles, para, motocicleta\n"
+}

@@ -1,0 +1,315 @@
+{
+  "title": "Top 6 Gadgets Novedosos que Puedes Comprar en Amazon",
+  "hook": {
+    "type": "statement",
+    "text": "Traduce idiomas en tiempo real con precisión. Encuentra objetos perdidos al instante. Proyecta películas en cualquier lugar. Digitaliza tus notas fácilmente. Mantén tu bebida a la temperatura perfecta.",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "Suscríbete, los links están en el primer comentario. Empecemos.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0:10-0:15"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Muama Enence Translator",
+        "productId": "B0GQCYNCWC",
+        "productName": "Muama Enence Translator",
+        "filename": "B0GQCYNCWC.mp4",
+        "asin": "B0GQCYNCWC",
+        "clipDuration": 265.07,
+        "estimatedAudioSeconds": 279,
+        "framework": "enfoque_caracteristica",
+        "content": [
+          "Con 98% de precisión, el Muama Enence Translator ofrece traducción de voz instantánea en más de 150 idiomas. Su pantalla táctil de 4.1 pulgadas y cámara de 8MP permiten traducción de imágenes y texto. Además, incorpora interpretación simultánea y funciones avanzadas de AI para conversaciones en grupo.",
+          "Su precio actual en Amazon ronda los... 60 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Muama Enence Translator"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0GQCYNCWC.mp4",
+        "precio": "$60",
+        "productPhoto": "https://m.media-amazon.com/images/I/61PlS0TEKsL.jpg"
+      },
+      {
+        "type": "content",
+        "title": "Ember Temperature Control Mug",
+        "productId": "B0CMJQZ5PL",
+        "productName": "Ember Temperature Control Mug",
+        "filename": "B0CMJQZ5PL.mp4",
+        "asin": "B0CMJQZ5PL",
+        "clipDuration": 58.01,
+        "estimatedAudioSeconds": 86,
+        "framework": "beneficio_oculto",
+        "content": [
+          "Más que un simple termo, el Ember Mug mantiene tus bebidas a la temperatura perfecta por 80 minutos. Su diseño inteligente permite controlar la temperatura desde una app, pero su verdadero secreto es que recuerda la última configuración de calor incluso sin conexión.",
+          "Su precio actual en Amazon ronda los... 97 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Ember Temperature Control Mug"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0CMJQZ5PL.mp4",
+        "precio": "$97",
+        "productPhoto": "https://m.media-amazon.com/images/I/61vMR6lqOqL.jpg"
+      },
+      {
+        "type": "content",
+        "title": "Rocketbook Smart Notebook",
+        "productId": "B0DP3HQCV1",
+        "productName": "Rocketbook Smart Notebook",
+        "filename": "B0DP3HQCV1.mp4",
+        "asin": "B0DP3HQCV1",
+        "clipDuration": 31.17,
+        "estimatedAudioSeconds": 36,
+        "framework": "problema_solucion",
+        "content": [
+          "¿Demasiadas notas y poco espacio? El Rocketbook Smart Notebook te permite escribir y digitalizar tus ideas, borrarlas y comenzar de nuevo usando una simple toallita húmeda. Reduce el desorden y maximiza la eficiencia.",
+          "Su precio actual en Amazon ronda los... 24 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Rocketbook Smart Notebook"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0DP3HQCV1.mp4",
+        "precio": "$24",
+        "productPhoto": "https://m.media-amazon.com/images/I/811tKh0G9rL.jpg"
+      },
+      {
+        "type": "content",
+        "title": "Tile Mate Bluetooth Tracker",
+        "productId": "B0D635KHVH",
+        "productName": "Tile Mate Bluetooth Tracker",
+        "filename": "B0D635KHVH.mp4",
+        "asin": "B0D635KHVH",
+        "clipDuration": 30,
+        "estimatedAudioSeconds": 33,
+        "framework": "enfoque_caracteristica",
+        "content": [
+          "Con tecnología de rastreo avanzada, el Tile Mate Bluetooth Tracker asegura que nunca pierdas tus objetos valiosos. Conéctalo a tus pertenencias y localízalas fácilmente con un simple toque en tu smartphone.",
+          "Su precio actual en Amazon ronda los... 19 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Tile Mate Bluetooth Tracker"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0D635KHVH.mp4",
+        "precio": "$19",
+        "productPhoto": "https://m.media-amazon.com/images/I/71zsFyuQYJL.jpg"
+      },
+      {
+        "type": "content",
+        "title": "Anker Nebula Capsule",
+        "productId": "B0CHW11C8H",
+        "productName": "Anker Nebula Capsule",
+        "filename": "B0CHW11C8H.mp4",
+        "asin": "B0CHW11C8H",
+        "clipDuration": 58.99,
+        "estimatedAudioSeconds": 88,
+        "framework": "beneficio_oculto",
+        "content": [
+          "Más que un simple proyector, el Anker Nebula Capsule es un cine portátil con pantalla de hasta 120 pulgadas. Además, su batería te permite disfrutar de películas completas y horas de música en cualquier lugar.",
+          "Su precio actual en Amazon ronda los... 400 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Anker Nebula Capsule"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0CHW11C8H.mp4",
+        "precio": "$400",
+        "productPhoto": "https://m.media-amazon.com/images/I/81WZMwYM93L.jpg"
+      },
+      {
+        "type": "content",
+        "title": "Govee LED Light Strips",
+        "productId": "B0991Q94KP",
+        "productName": "Govee LED Light Strips",
+        "filename": "B0991Q94KP.mp4",
+        "asin": "B0991Q94KP",
+        "clipDuration": 48.77,
+        "estimatedAudioSeconds": 48,
+        "framework": "problema_solucion",
+        "content": [
+          "Cansado de la iluminación aburrida? Las Govee LED Light Strips ofrecen efectos RGBIC vibrantes controlados por app. Transforma tu espacio con colores dinámicos y sincroniza al ritmo de la música.",
+          "Su precio actual en Amazon ronda los... 12 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Govee LED Light Strips"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0991Q94KP.mp4",
+        "precio": "$12",
+        "productPhoto": "https://m.media-amazon.com/images/I/71tjdZg28vL.jpg"
+      }
+    ],
+    "totalDuration": 150
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "Dale like y recuerda que los links están en el primer comentario."
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "3:00",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "novedosos",
+    "puedes",
+    "comprar",
+    "amazon"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 6 Gadgets Novedosos que Puedes Comprar en Amazon",
+      "angle": "Top 6 Gadgets Novedosos que Puedes Comprar en Amazon",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 6,
+      "introScript": "¿Un dispositivo que traduce idiomas en tiempo real? ¿O quizás un vaso que ajusta la temperatura de tu bebida a la perfección? Hoy te presento gadgets que parecen de ciencia ficción, pero están a solo un clic de distancia.",
+      "keywords": [
+        "gadgets",
+        "novedosos",
+        "puedes",
+        "comprar",
+        "amazon"
+      ],
+      "estimatedViews": 5795,
+      "bestPublishTime": "2026-05-02T15:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Muama Enence Translator",
+          "searchTermEn": "Muama Enence instant translator",
+          "id": "B0GQCYNCWC",
+          "filename": "B0GQCYNCWC.mp4"
+        },
+        {
+          "nombre": "Ember Temperature Control Mug",
+          "searchTermEn": "Ember temperature control smart mug",
+          "id": "B0CMJQZ5PL",
+          "filename": "B0CMJQZ5PL.mp4"
+        },
+        {
+          "nombre": "Rocketbook Smart Notebook",
+          "searchTermEn": "Rocketbook smart reusable notebook",
+          "id": "B0DP3HQCV1",
+          "filename": "B0DP3HQCV1.mp4"
+        },
+        {
+          "nombre": "Tile Mate Bluetooth Tracker",
+          "searchTermEn": "Tile Mate key finder",
+          "id": "B0D635KHVH",
+          "filename": "B0D635KHVH.mp4"
+        },
+        {
+          "nombre": "Anker Nebula Capsule",
+          "searchTermEn": "Anker Nebula Capsule projector",
+          "id": "B0CHW11C8H",
+          "filename": "B0CHW11C8H.mp4"
+        },
+        {
+          "nombre": "Govee LED Light Strips",
+          "searchTermEn": "Govee LED strip lights",
+          "id": "B0991Q94KP",
+          "filename": "B0991Q94KP.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-04-30T15:45:26.754Z",
+      "_requestedCount": 6,
+      "_adaptedCount": 6,
+      "introProductsOrder": [
+        {
+          "nombre": "Muama Enence Translator",
+          "id": "B0GQCYNCWC",
+          "filename": "B0GQCYNCWC.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0GQCYNCWC.mp4"
+        },
+        {
+          "nombre": "Tile Mate Bluetooth Tracker",
+          "id": "B0D635KHVH",
+          "filename": "B0D635KHVH.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0D635KHVH.mp4"
+        },
+        {
+          "nombre": "Anker Nebula Capsule",
+          "id": "B0CHW11C8H",
+          "filename": "B0CHW11C8H.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0CHW11C8H.mp4"
+        },
+        {
+          "nombre": "Rocketbook Smart Notebook",
+          "id": "B0DP3HQCV1",
+          "filename": "B0DP3HQCV1.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0DP3HQCV1.mp4"
+        },
+        {
+          "nombre": "Ember Temperature Control Mug",
+          "id": "B0CMJQZ5PL",
+          "filename": "B0CMJQZ5PL.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0CMJQZ5PL.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1777564624518_sw78v8"
+    },
+    "generatedAt": "2026-04-30T15:57:19.116Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Muama Enence Translator",
+        "searchTermEn": "Muama Enence instant translator",
+        "id": "B0GQCYNCWC",
+        "filename": "B0GQCYNCWC.mp4"
+      },
+      {
+        "nombre": "Ember Temperature Control Mug",
+        "searchTermEn": "Ember temperature control smart mug",
+        "id": "B0CMJQZ5PL",
+        "filename": "B0CMJQZ5PL.mp4"
+      },
+      {
+        "nombre": "Rocketbook Smart Notebook",
+        "searchTermEn": "Rocketbook smart reusable notebook",
+        "id": "B0DP3HQCV1",
+        "filename": "B0DP3HQCV1.mp4"
+      },
+      {
+        "nombre": "Tile Mate Bluetooth Tracker",
+        "searchTermEn": "Tile Mate key finder",
+        "id": "B0D635KHVH",
+        "filename": "B0D635KHVH.mp4"
+      },
+      {
+        "nombre": "Anker Nebula Capsule",
+        "searchTermEn": "Anker Nebula Capsule projector",
+        "id": "B0CHW11C8H",
+        "filename": "B0CHW11C8H.mp4"
+      },
+      {
+        "nombre": "Govee LED Light Strips",
+        "searchTermEn": "Govee LED strip lights",
+        "id": "B0991Q94KP",
+        "filename": "B0991Q94KP.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 6 Gadgets Novedosos que Puedes Comprar en Amazon\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\nTraduce idiomas en tiempo real con precisión. Encuentra objetos perdidos al instante. Proyecta películas en cualquier lugar. Digitaliza tus notas fácilmente. Mantén tu bebida a la temperatura perfecta.\n\n[0:10-0:15] INTRODUCTION\nSuscríbete, los links están en el primer comentario. Empecemos.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] MUAMA ENENCE TRANSLATOR\nCon 98% de precisión, el Muama Enence Translator ofrece traducción de voz instantánea en más de 150 idiomas. Su pantalla táctil de 4.1 pulgadas y cámara de 8MP permiten traducción de imágenes y texto. Además, incorpora interpretación simultánea y funciones avanzadas de AI para conversaciones en grupo.\nSu precio actual en Amazon ronda los... 60 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Muama Enence Translator]\n\n[0:25] EMBER TEMPERATURE CONTROL MUG\nMás que un simple termo, el Ember Mug mantiene tus bebidas a la temperatura perfecta por 80 minutos. Su diseño inteligente permite controlar la temperatura desde una app, pero su verdadero secreto es que recuerda la última configuración de calor incluso sin conexión.\nSu precio actual en Amazon ronda los... 97 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Ember Temperature Control Mug]\n\n[0:25] ROCKETBOOK SMART NOTEBOOK\n¿Demasiadas notas y poco espacio? El Rocketbook Smart Notebook te permite escribir y digitalizar tus ideas, borrarlas y comenzar de nuevo usando una simple toallita húmeda. Reduce el desorden y maximiza la eficiencia.\nSu precio actual en Amazon ronda los... 24 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Rocketbook Smart Notebook]\n\n[0:25] TILE MATE BLUETOOTH TRACKER\nCon tecnología de rastreo avanzada, el Tile Mate Bluetooth Tracker asegura que nunca pierdas tus objetos valiosos. Conéctalo a tus pertenencias y localízalas fácilmente con un simple toque en tu smartphone.\nSu precio actual en Amazon ronda los... 19 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Tile Mate Bluetooth Tracker]\n\n[0:25] ANKER NEBULA CAPSULE\nMás que un simple proyector, el Anker Nebula Capsule es un cine portátil con pantalla de hasta 120 pulgadas. Además, su batería te permite disfrutar de películas completas y horas de música en cualquier lugar.\nSu precio actual en Amazon ronda los... 400 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Anker Nebula Capsule]\n\n[0:25] GOVEE LED LIGHT STRIPS\nCansado de la iluminación aburrida? Las Govee LED Light Strips ofrecen efectos RGBIC vibrantes controlados por app. Transforma tu espacio con colores dinámicos y sincroniza al ritmo de la música.\nSu precio actual en Amazon ronda los... 12 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Govee LED Light Strips]\n\n[10 seconds] CONCLUSION\nDale like y recuerda que los links están en el primer comentario.\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 3:00\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, novedosos, puedes, comprar, amazon\n"
+}

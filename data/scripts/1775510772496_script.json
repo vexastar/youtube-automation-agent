@@ -1,0 +1,93 @@
+{
+  "title": "Top 3 Gadgets que tu Carro Necesita",
+  "hook": {
+    "type": "statement",
+    "text": "¿Quieres llevar tu auto al siguiente nivel con gadgets increíbles? ¡No te lo pierdas!",
+    "duration": "0:00-0:05"
+  },
+  "introduction": {
+    "greeting": "Hoy te mostraremos tres gadgets que transformarán tu experiencia de conducir. Desde limpieza hasta tecnología avanzada, estos productos son el sueño de cualquier amante de los autos.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0:05-0:15"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Aspiradora de mano para auto",
+        "content": [
+          "¿Alguna vez has lidiado con migas y polvo imposibles de limpiar en tu auto? Este gadget es tu solución perfecta. Se llama Aspiradora de mano para auto y elimina cualquier rastro de suciedad con su potente succión.",
+          "Puedes encontrarla por solo 35.99 dólares en Amazon, ¡el enlace está en la descripción!"
+        ],
+        "visuals": [
+          "Product image: Aspiradora de mano para auto"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0GQHDQ7LD.mp4",
+        "precio": "35.99"
+      }
+    ],
+    "totalDuration": 25
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "Si te gustaron estos gadgets, no olvides darle like al video, suscribirte al canal y comentar cuál fue tu favorito. ¡Nos vemos en el próximo video!"
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "0:55",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "carro",
+    "necesita"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 3 Gadgets que tu Carro Necesita",
+      "angle": "Top 3 Gadgets que tu Carro Necesita",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 3,
+      "introScript": "Imagine tener una aspiradora que cabe en la guantera. O un cargador que enciende tu auto sin cables ni batería. Hoy te mostraré los gadgets más imprescindibles para tu carro que cambiarán tu manejo para siempre.",
+      "keywords": [
+        "gadgets",
+        "carro",
+        "necesita"
+      ],
+      "estimatedViews": 4764,
+      "bestPublishTime": "2026-04-07T19:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Aspiradora de mano para auto",
+          "searchTermEn": "handheld car vacuum cleaner"
+        }
+      ],
+      "createdAt": "2026-04-06T21:24:42.406Z"
+    },
+    "generatedAt": "2026-04-06T21:26:12.252Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Aspiradora de mano para auto",
+        "searchTermEn": "handheld car vacuum cleaner"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 3 Gadgets que tu Carro Necesita\n\n══════════════════════════════════════════════════\n\n[0:00-0:05] HOOK\n¿Quieres llevar tu auto al siguiente nivel con gadgets increíbles? ¡No te lo pierdas!\n\n[0:05-0:15] INTRODUCTION\nHoy te mostraremos tres gadgets que transformarán tu experiencia de conducir. Desde limpieza hasta tecnología avanzada, estos productos son el sueño de cualquier amante de los autos.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] ASPIRADORA DE MANO PARA AUTO\n¿Alguna vez has lidiado con migas y polvo imposibles de limpiar en tu auto? Este gadget es tu solución perfecta. Se llama Aspiradora de mano para auto y elimina cualquier rastro de suciedad con su potente succión.\nPuedes encontrarla por solo 35.99 dólares en Amazon, ¡el enlace está en la descripción!\n\n[VISUALS: Product image: Aspiradora de mano para auto]\n\n[10 seconds] CONCLUSION\nSi te gustaron estos gadgets, no olvides darle like al video, suscribirte al canal y comentar cuál fue tu favorito. ¡Nos vemos en el próximo video!\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 0:55\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, carro, necesita\n"
+}

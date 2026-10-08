@@ -1,0 +1,139 @@
+{
+  "title": "Top 3 Gadgets Geniales para tu Carro",
+  "hook": {
+    "type": "statement",
+    "text": "¿Quién diría que mejorar tu experiencia al volante podría ser tan fácil? Hoy te mostraré tres gadgets que transformarán por completo tu carro.",
+    "duration": "0:00-0:05"
+  },
+  "introduction": {
+    "greeting": "Conducir no solo se trata de llegar a tu destino, sino de disfrutar de cada kilómetro del viaje. Por eso, hemos seleccionado tres gadgets que no solo harán tus trayectos más cómodos, sino que además te sorprenderán con su innovación.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0:05-0:15"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Purificador aire USB",
+        "content": [
+          "¿Quién no ha deseado un aire fresco y limpio mientras maneja por la ciudad? Este pequeño pero poderoso dispositivo, el Purificador aire USB, elimina hasta las partículas más pequeñas para un ambiente puro en tu carro.",
+          "Está disponible por solo 39.99 dólares en Amazon, no te lo pierdas."
+        ],
+        "visuals": [
+          "Product image: Purificador aire USB"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0BKJQ13NT.mp4",
+        "precio": "39.99"
+      },
+      {
+        "type": "content",
+        "title": "Soporte espejo retrovisor",
+        "content": [
+          "Imagina tener tu teléfono a la mano, justo donde lo necesitas, sin distracciones. El Soporte espejo retrovisor te permite una mejor visibilidad y acceso seguro a tu smartphone mientras conduces.",
+          "Consíguelo por apenas 14.99 dólares en Amazon, es un gran negocio."
+        ],
+        "visuals": [
+          "Product image: Soporte espejo retrovisor"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0B5ZKF7KH.mp4",
+        "precio": "14.99"
+      },
+      {
+        "type": "content",
+        "title": "Parasol inteligente",
+        "content": [
+          "¿Cansado de entrar a un carro que parece un horno? El Parasol inteligente ayuda a mantener el interior de tu vehículo fresco y protegido del sol ardiente.",
+          "Por solo 18.99 dólares en Amazon, es una inversión en comodidad."
+        ],
+        "visuals": [
+          "Product image: Parasol inteligente"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0C9QBLXND.jpg",
+        "precio": "18.99"
+      }
+    ],
+    "totalDuration": 75
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "Espero que estos increíbles gadgets te hayan inspirado para mejorar tu experiencia al volante. No olvides darle like al video, suscribirte al canal y dejar un comentario contándonos cuál de estos productos te ha sorprendido más. ¡Hasta la próxima!"
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:45",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "geniales",
+    "para",
+    "carro"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 3 Gadgets Geniales para tu Carro",
+      "angle": "Top 3 Gadgets Geniales para tu Carro",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 3,
+      "introScript": "¿Un cargador que también es un purificador de aire? ¿Un gadget que transforma la pantalla de tu móvil en un panel de navegación? Prepárate para conocer los artefactos imprescindibles que elevarán tu experiencia al volante.",
+      "keywords": [
+        "gadgets",
+        "geniales",
+        "para",
+        "carro"
+      ],
+      "estimatedViews": 3770,
+      "bestPublishTime": "2026-04-09T19:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Purificador aire USB",
+          "searchTermEn": "usb car air purifier"
+        },
+        {
+          "nombre": "Soporte espejo retrovisor",
+          "searchTermEn": "rearview mirror phone mount"
+        },
+        {
+          "nombre": "Parasol inteligente",
+          "searchTermEn": "smart car sunshade"
+        }
+      ],
+      "createdAt": "2026-04-06T22:29:17.543Z"
+    },
+    "generatedAt": "2026-04-06T22:32:22.059Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Purificador aire USB",
+        "searchTermEn": "usb car air purifier"
+      },
+      {
+        "nombre": "Soporte espejo retrovisor",
+        "searchTermEn": "rearview mirror phone mount"
+      },
+      {
+        "nombre": "Parasol inteligente",
+        "searchTermEn": "smart car sunshade"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 3 Gadgets Geniales para tu Carro\n\n══════════════════════════════════════════════════\n\n[0:00-0:05] HOOK\n¿Quién diría que mejorar tu experiencia al volante podría ser tan fácil? Hoy te mostraré tres gadgets que transformarán por completo tu carro.\n\n[0:05-0:15] INTRODUCTION\nConducir no solo se trata de llegar a tu destino, sino de disfrutar de cada kilómetro del viaje. Por eso, hemos seleccionado tres gadgets que no solo harán tus trayectos más cómodos, sino que además te sorprenderán con su innovación.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] PURIFICADOR AIRE USB\n¿Quién no ha deseado un aire fresco y limpio mientras maneja por la ciudad? Este pequeño pero poderoso dispositivo, el Purificador aire USB, elimina hasta las partículas más pequeñas para un ambiente puro en tu carro.\nEstá disponible por solo 39.99 dólares en Amazon, no te lo pierdas.\n\n[VISUALS: Product image: Purificador aire USB]\n\n[0:25] SOPORTE ESPEJO RETROVISOR\nImagina tener tu teléfono a la mano, justo donde lo necesitas, sin distracciones. El Soporte espejo retrovisor te permite una mejor visibilidad y acceso seguro a tu smartphone mientras conduces.\nConsíguelo por apenas 14.99 dólares en Amazon, es un gran negocio.\n\n[VISUALS: Product image: Soporte espejo retrovisor]\n\n[0:25] PARASOL INTELIGENTE\n¿Cansado de entrar a un carro que parece un horno? El Parasol inteligente ayuda a mantener el interior de tu vehículo fresco y protegido del sol ardiente.\nPor solo 18.99 dólares en Amazon, es una inversión en comodidad.\n\n[VISUALS: Product image: Parasol inteligente]\n\n[10 seconds] CONCLUSION\nEspero que estos increíbles gadgets te hayan inspirado para mejorar tu experiencia al volante. No olvides darle like al video, suscribirte al canal y dejar un comentario contándonos cuál de estos productos te ha sorprendido más. ¡Hasta la próxima!\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:45\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, geniales, para, carro\n"
+}

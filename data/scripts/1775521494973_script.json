@@ -1,0 +1,183 @@
+{
+  "title": "5 Gadgets Esenciales para Streamers",
+  "hook": {
+    "type": "statement",
+    "text": "¿Un micrófono que elimina el ruido de fondo mientras transmites en vivo?",
+    "duration": "0:00-0:05"
+  },
+  "introduction": {
+    "greeting": "",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0:05-0:08"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Micrófono cancelador de ruido",
+        "content": [
+          "Un micrófono que aísla tu voz y elimina el ruido de fondo para transmisiones impecables. Se llama Micrófono Cancelador de Ruido y mejora instantáneamente la calidad de tu audio. Perfecto para cualquier entorno ruidoso.",
+          "Lo encuentras en Amazon por... solo 69.09 dólares. ¡El enlace está en la descripción!"
+        ],
+        "visuals": [
+          "Product image: Micrófono cancelador de ruido"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B00N1YPXW2.mp4",
+        "precio": "$69.09"
+      },
+      {
+        "type": "content",
+        "title": "Luz anular LED ajustable",
+        "content": [
+          "Ilumina tus streamings con una luz que se adapta a cualquier entorno. La Luz Anular LED Ajustable te permite ajustar la intensidad y el tono para lucir siempre impecable. Compacta y fácil de montar.",
+          "Disponible en Amazon por... apenas 26.99 dólares. ¡Mira el enlace en la descripción!"
+        ],
+        "visuals": [
+          "Product image: Luz anular LED ajustable"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0CZL35F2J.mp4",
+        "precio": "26.99"
+      },
+      {
+        "type": "content",
+        "title": "Cámara web seguimiento automático",
+        "content": [
+          "Una cámara que sigue cada movimiento para mantenerte siempre en cuadro. La Cámara Web con Seguimiento Automático revoluciona tu presencia en pantalla. Ideal para transmisiones dinámicas.",
+          "Consíguela en Amazon por... 89 dólares. ¡Más detalles en la descripción!"
+        ],
+        "visuals": [
+          "Product image: Cámara web seguimiento automático"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0DMF4GLR8.mp4",
+        "precio": "89.00"
+      },
+      {
+        "type": "content",
+        "title": "Stream deck personalizable",
+        "content": [
+          "Control total de tu transmisión con solo un toque. El Stream Deck Personalizable ofrece botones programables para maximizar tu eficiencia al transmitir. Compatible con múltiples plataformas.",
+          "Está en Amazon por... 54.99 dólares. ¡No te lo pierdas, chequea el enlace!"
+        ],
+        "visuals": [
+          "Product image: Stream deck personalizable"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0F59WH24Y.mp4",
+        "precio": "54.99"
+      },
+      {
+        "type": "content",
+        "title": "Montura de micrófono articulada",
+        "content": [
+          "Una montura que coloca el micrófono justo donde lo necesitas. La Montura de Micrófono Articulada te da flexibilidad total para ajustar la posición. Sólida y versátil.",
+          "Encuéntrala en Amazon por... 26.99 dólares. ¡El enlace está en la descripción!"
+        ],
+        "visuals": [
+          "Product image: Montura de micrófono articulada"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0DTTMSFMY.mp4",
+        "precio": "26.99"
+      }
+    ],
+    "totalDuration": 125
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "Si te gustó, no olvides darle like y suscribirte al canal. ¡Gracias!"
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "2:35",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "esenciales",
+    "para",
+    "streamers"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "5 Gadgets Esenciales para Streamers",
+      "angle": "5 Gadgets Esenciales para Streamers",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 5,
+      "introScript": "¿Un micrófono que cancela el ruido como por arte de magia? ¿O tal vez una cámara web que te sigue mientras te mueves? Descubre cinco gadgets que transformarán por completo tu experiencia de streaming.",
+      "keywords": [
+        "gadgets",
+        "esenciales",
+        "para",
+        "streamers"
+      ],
+      "estimatedViews": 6239,
+      "bestPublishTime": "2026-04-11T15:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Micrófono cancelador de ruido",
+          "searchTermEn": "noise cancelling microphone"
+        },
+        {
+          "nombre": "Luz anular LED ajustable",
+          "searchTermEn": "adjustable LED ring light"
+        },
+        {
+          "nombre": "Cámara web seguimiento automático",
+          "searchTermEn": "auto tracking webcam"
+        },
+        {
+          "nombre": "Stream deck personalizable",
+          "searchTermEn": "customizable stream deck"
+        },
+        {
+          "nombre": "Montura de micrófono articulada",
+          "searchTermEn": "articulating microphone mount"
+        }
+      ],
+      "createdAt": "2026-04-07T00:20:50.201Z"
+    },
+    "generatedAt": "2026-04-07T00:24:54.641Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Micrófono cancelador de ruido",
+        "searchTermEn": "noise cancelling microphone"
+      },
+      {
+        "nombre": "Luz anular LED ajustable",
+        "searchTermEn": "adjustable LED ring light"
+      },
+      {
+        "nombre": "Cámara web seguimiento automático",
+        "searchTermEn": "auto tracking webcam"
+      },
+      {
+        "nombre": "Stream deck personalizable",
+        "searchTermEn": "customizable stream deck"
+      },
+      {
+        "nombre": "Montura de micrófono articulada",
+        "searchTermEn": "articulating microphone mount"
+      }
+    ]
+  },
+  "fullScript": "TITLE: 5 Gadgets Esenciales para Streamers\n\n══════════════════════════════════════════════════\n\n[0:00-0:05] HOOK\n¿Un micrófono que elimina el ruido de fondo mientras transmites en vivo?\n\n[0:05-0:08] INTRODUCTION\n\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] MICRÓFONO CANCELADOR DE RUIDO\nUn micrófono que aísla tu voz y elimina el ruido de fondo para transmisiones impecables. Se llama Micrófono Cancelador de Ruido y mejora instantáneamente la calidad de tu audio. Perfecto para cualquier entorno ruidoso.\nLo encuentras en Amazon por... solo 69.09 dólares. ¡El enlace está en la descripción!\n\n[VISUALS: Product image: Micrófono cancelador de ruido]\n\n[0:25] LUZ ANULAR LED AJUSTABLE\nIlumina tus streamings con una luz que se adapta a cualquier entorno. La Luz Anular LED Ajustable te permite ajustar la intensidad y el tono para lucir siempre impecable. Compacta y fácil de montar.\nDisponible en Amazon por... apenas 26.99 dólares. ¡Mira el enlace en la descripción!\n\n[VISUALS: Product image: Luz anular LED ajustable]\n\n[0:25] CÁMARA WEB SEGUIMIENTO AUTOMÁTICO\nUna cámara que sigue cada movimiento para mantenerte siempre en cuadro. La Cámara Web con Seguimiento Automático revoluciona tu presencia en pantalla. Ideal para transmisiones dinámicas.\nConsíguela en Amazon por... 89 dólares. ¡Más detalles en la descripción!\n\n[VISUALS: Product image: Cámara web seguimiento automático]\n\n[0:25] STREAM DECK PERSONALIZABLE\nControl total de tu transmisión con solo un toque. El Stream Deck Personalizable ofrece botones programables para maximizar tu eficiencia al transmitir. Compatible con múltiples plataformas.\nEstá en Amazon por... 54.99 dólares. ¡No te lo pierdas, chequea el enlace!\n\n[VISUALS: Product image: Stream deck personalizable]\n\n[0:25] MONTURA DE MICRÓFONO ARTICULADA\nUna montura que coloca el micrófono justo donde lo necesitas. La Montura de Micrófono Articulada te da flexibilidad total para ajustar la posición. Sólida y versátil.\nEncuéntrala en Amazon por... 26.99 dólares. ¡El enlace está en la descripción!\n\n[VISUALS: Product image: Montura de micrófono articulada]\n\n[10 seconds] CONCLUSION\nSi te gustó, no olvides darle like y suscribirte al canal. ¡Gracias!\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 2:35\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, esenciales, para, streamers\n"
+}

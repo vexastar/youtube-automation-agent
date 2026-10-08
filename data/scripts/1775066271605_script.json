@@ -1,0 +1,213 @@
+{
+  "title": "Top 5 Gadgets Increíbles para el Hogar Inteligente",
+  "hook": {
+    "type": "statement",
+    "text": "¡Descubre cómo transformar tu casa en un hogar inteligente con estos gadgets imperdibles!",
+    "duration": "0:00-0:05"
+  },
+  "introduction": {
+    "greeting": "La tecnología del hogar inteligente no es solo una moda pasajera, ¡es el futuro! Hoy te traemos los 5 mejores gadgets que harán que tu vida sea más fácil, más segura y mucho más divertida. ¿Listo para el cambio?",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0:05-0:15"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Sensor de movimiento PIR",
+        "content": [
+          "Comenzamos con el Sensor de movimiento PIR para una seguridad sin igual. Este dispositivo detecta cualquier movimiento y te alerta al instante. Perfecto para proteger tu hogar o simplemente para encender las luces cuando entras a una habitación. Ideal para quienes buscan seguridad y comodidad.",
+          "Disponible por solo $34.99. Encuentra el enlace en la descripción."
+        ],
+        "visuals": [
+          "Product image: Sensor de movimiento PIR"
+        ],
+        "duration": 25
+      },
+      {
+        "type": "content",
+        "title": "Cámara de seguridad 360",
+        "content": [
+          "Nuestra siguiente parada es la Cámara de seguridad 360, que te permite vigilar cada rincón de tu casa desde tu smartphone. Con visión nocturna y detección de movimiento, nunca te perderás de nada importante. Perfecta para los que quieren tranquilidad mientras están fuera de casa.",
+          "Revisa su precio de $29.99 en el enlace de la descripción."
+        ],
+        "visuals": [
+          "Product image: Cámara de seguridad 360"
+        ],
+        "duration": 25
+      },
+      {
+        "type": "content",
+        "title": "Tira LED RGB",
+        "content": [
+          "Añade un toque de color y estilo a cualquier habitación con la Tira LED RGB. Controla el color y el brillo desde tu teléfono, creando el ambiente perfecto para cada ocasión. Ideal para fiestas o para relajarte después de un largo día.",
+          "Consíguela por solo $24.99 en el enlace de la descripción."
+        ],
+        "visuals": [
+          "Product image: Tira LED RGB"
+        ],
+        "duration": 25
+      },
+      {
+        "type": "content",
+        "title": "Enchufe inteligente WiFi",
+        "content": [
+          "El Enchufe inteligente WiFi es el gadget que necesitas para domotizar cualquier dispositivo. Controla tus electrodomésticos desde tu teléfono o con comandos de voz, haciendo tu hogar más eficiente y moderno. Perfecto para los amantes de la tecnología y la eficiencia.",
+          "Lo encuentras a $19.99 en la descripción del video."
+        ],
+        "visuals": [
+          "Product image: Enchufe inteligente WiFi"
+        ],
+        "duration": 25
+      },
+      {
+        "type": "content",
+        "title": "Cerradura inteligente WiFi",
+        "content": [
+          "Finalmente, la joya de la corona: la Cerradura inteligente WiFi. Olvídate de las llaves y abre la puerta de tu hogar con tu smartphone o incluso mediante comandos de voz. La tranquilidad de saber que tu hogar está seguro nunca ha sido tan accesible.",
+          "Compra la tuya por $14.99 en el enlace de la descripción."
+        ],
+        "visuals": [
+          "Product image: Cerradura inteligente WiFi"
+        ],
+        "duration": 25
+      }
+    ],
+    "totalDuration": 125
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "Gracias por acompañarnos en este recorrido por el futuro del hogar inteligente. Si te ha gustado el video, no olvides darle like, suscribirte al canal y comentar cuál de estos gadgets te gustaría tener. ¡Hasta la próxima!"
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "2:35",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "increbles",
+    "para",
+    "hogar",
+    "inteligente"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 10 Gadgets Increíbles para el Hogar Inteligente",
+      "angle": "Top 10 Gadgets Increíbles para el Hogar Inteligente",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "keywords": [
+        "gadgets",
+        "increbles",
+        "para",
+        "hogar",
+        "inteligente"
+      ],
+      "estimatedViews": 4216,
+      "bestPublishTime": "2026-04-07T19:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Cerradura inteligente WiFi",
+          "searchTermEn": "wifi smart lock"
+        },
+        {
+          "nombre": "Enchufe inteligente WiFi",
+          "searchTermEn": "wifi smart plug"
+        },
+        {
+          "nombre": "Tira LED RGB",
+          "searchTermEn": "rgb led strip"
+        },
+        {
+          "nombre": "Cámara de seguridad 360",
+          "searchTermEn": "360 security camera"
+        },
+        {
+          "nombre": "Sensor de movimiento PIR",
+          "searchTermEn": "pir motion sensor"
+        },
+        {
+          "nombre": "Termostato inteligente",
+          "searchTermEn": "smart thermostat"
+        },
+        {
+          "nombre": "Robot aspirador",
+          "searchTermEn": "robot vacuum"
+        },
+        {
+          "nombre": "Timbre inteligente WiFi",
+          "searchTermEn": "wifi smart doorbell"
+        },
+        {
+          "nombre": "Altavoz Bluetooth impermeable",
+          "searchTermEn": "waterproof bluetooth speaker"
+        },
+        {
+          "nombre": "Lámpara regulable táctil",
+          "searchTermEn": "touch dimmable lamp"
+        }
+      ],
+      "createdAt": "2026-04-01T17:57:42.124Z"
+    },
+    "generatedAt": "2026-04-01T17:57:51.468Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Cerradura inteligente WiFi",
+        "searchTermEn": "wifi smart lock"
+      },
+      {
+        "nombre": "Enchufe inteligente WiFi",
+        "searchTermEn": "wifi smart plug"
+      },
+      {
+        "nombre": "Tira LED RGB",
+        "searchTermEn": "rgb led strip"
+      },
+      {
+        "nombre": "Cámara de seguridad 360",
+        "searchTermEn": "360 security camera"
+      },
+      {
+        "nombre": "Sensor de movimiento PIR",
+        "searchTermEn": "pir motion sensor"
+      },
+      {
+        "nombre": "Termostato inteligente",
+        "searchTermEn": "smart thermostat"
+      },
+      {
+        "nombre": "Robot aspirador",
+        "searchTermEn": "robot vacuum"
+      },
+      {
+        "nombre": "Timbre inteligente WiFi",
+        "searchTermEn": "wifi smart doorbell"
+      },
+      {
+        "nombre": "Altavoz Bluetooth impermeable",
+        "searchTermEn": "waterproof bluetooth speaker"
+      },
+      {
+        "nombre": "Lámpara regulable táctil",
+        "searchTermEn": "touch dimmable lamp"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 5 Gadgets Increíbles para el Hogar Inteligente\n\n══════════════════════════════════════════════════\n\n[0:00-0:05] HOOK\n¡Descubre cómo transformar tu casa en un hogar inteligente con estos gadgets imperdibles!\n\n[0:05-0:15] INTRODUCTION\nLa tecnología del hogar inteligente no es solo una moda pasajera, ¡es el futuro! Hoy te traemos los 5 mejores gadgets que harán que tu vida sea más fácil, más segura y mucho más divertida. ¿Listo para el cambio?\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] SENSOR DE MOVIMIENTO PIR\nComenzamos con el Sensor de movimiento PIR para una seguridad sin igual. Este dispositivo detecta cualquier movimiento y te alerta al instante. Perfecto para proteger tu hogar o simplemente para encender las luces cuando entras a una habitación. Ideal para quienes buscan seguridad y comodidad.\nDisponible por solo $34.99. Encuentra el enlace en la descripción.\n\n[VISUALS: Product image: Sensor de movimiento PIR]\n\n[0:25] CÁMARA DE SEGURIDAD 360\nNuestra siguiente parada es la Cámara de seguridad 360, que te permite vigilar cada rincón de tu casa desde tu smartphone. Con visión nocturna y detección de movimiento, nunca te perderás de nada importante. Perfecta para los que quieren tranquilidad mientras están fuera de casa.\nRevisa su precio de $29.99 en el enlace de la descripción.\n\n[VISUALS: Product image: Cámara de seguridad 360]\n\n[0:25] TIRA LED RGB\nAñade un toque de color y estilo a cualquier habitación con la Tira LED RGB. Controla el color y el brillo desde tu teléfono, creando el ambiente perfecto para cada ocasión. Ideal para fiestas o para relajarte después de un largo día.\nConsíguela por solo $24.99 en el enlace de la descripción.\n\n[VISUALS: Product image: Tira LED RGB]\n\n[0:25] ENCHUFE INTELIGENTE WIFI\nEl Enchufe inteligente WiFi es el gadget que necesitas para domotizar cualquier dispositivo. Controla tus electrodomésticos desde tu teléfono o con comandos de voz, haciendo tu hogar más eficiente y moderno. Perfecto para los amantes de la tecnología y la eficiencia.\nLo encuentras a $19.99 en la descripción del video.\n\n[VISUALS: Product image: Enchufe inteligente WiFi]\n\n[0:25] CERRADURA INTELIGENTE WIFI\nFinalmente, la joya de la corona: la Cerradura inteligente WiFi. Olvídate de las llaves y abre la puerta de tu hogar con tu smartphone o incluso mediante comandos de voz. La tranquilidad de saber que tu hogar está seguro nunca ha sido tan accesible.\nCompra la tuya por $14.99 en el enlace de la descripción.\n\n[VISUALS: Product image: Cerradura inteligente WiFi]\n\n[10 seconds] CONCLUSION\nGracias por acompañarnos en este recorrido por el futuro del hogar inteligente. Si te ha gustado el video, no olvides darle like, suscribirte al canal y comentar cuál de estos gadgets te gustaría tener. ¡Hasta la próxima!\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 2:35\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, increbles, para, hogar, inteligente\n"
+}

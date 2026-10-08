@@ -1,0 +1,169 @@
+{
+  "title": "Top 3 Gadgets Virales para Streaming que Necesitas Ya",
+  "hook": {
+    "type": "statement",
+    "text": "Este micrófono ilumina y captura sonido impecable. Este panel controla tus apps con un toque. Estas luces ambientan tu espacio con estilo.",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "Suscríbete, los links están en el primer comentario. Empecemos.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0:10-0:15"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "HyperX QuadCast S",
+        "productId": "B0DG9X4WHW",
+        "productName": "HyperX QuadCast S",
+        "filename": "B0DG9X4WHW.mp4",
+        "content": [
+          "Las transmisiones con un audio pobre pueden hacer que tu audiencia se desconecte. El HyperX QuadCast S ofrece calidad de grabación cristalina con efectos de luz LED. Con su filtro anti-pop integrado y cuatro patrones polares, te garantiza sonido profesional.",
+          "Su precio actual en Amazon ronda los... 131 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: HyperX QuadCast S"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0DG9X4WHW.mp4",
+        "precio": "$131",
+        "productPhoto": "https://m.media-amazon.com/images/I/71yLcw8yj6L.jpg"
+      },
+      {
+        "type": "content",
+        "title": "Elgato Stream Deck MK.2",
+        "productId": "B07DYRS1WH",
+        "productName": "Elgato Stream Deck MK.2",
+        "filename": "B07DYRS1WH.mp4",
+        "content": [
+          "Configurar cada función de tu stream manualmente es una pérdida de tiempo valioso. El Elgato Stream Deck MK.2 permite asignar comandos personalizados a sus botones. Compatible con numerosas aplicaciones, facilita la gestión de tus directos.",
+          "Su precio actual en Amazon ronda los... 60 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Elgato Stream Deck MK.2"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07DYRS1WH.mp4",
+        "precio": "$60",
+        "productPhoto": "https://m.media-amazon.com/images/I/61w+a4IDpsL.jpg"
+      },
+      {
+        "type": "content",
+        "title": "Govee Glide Wall Light",
+        "productId": "B09H5VSKTZ",
+        "productName": "Govee Glide Wall Light",
+        "filename": "B09H5VSKTZ.mp4",
+        "content": [
+          "Un ambiente monótono puede aburrir a tus espectadores rápidamente. Las Govee Glide Wall Light transforman tu espacio con colores vibrantes y efectos dinámicos. Se sincronizan con la música para ofrecer una experiencia inmersiva.",
+          "Su precio actual en Amazon ronda los... 50 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Govee Glide Wall Light"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B09H5VSKTZ.mp4",
+        "precio": "$50",
+        "productPhoto": "https://m.media-amazon.com/images/I/716syWy9UeL.jpg"
+      }
+    ],
+    "totalDuration": 75
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "¡Dale like y recuerda que los links están en el primer comentario!"
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:45",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "virales",
+    "para",
+    "streaming",
+    "necesitas"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 3 Gadgets Virales para Streaming que Necesitas Ya",
+      "angle": "Top 3 Gadgets Virales para Streaming que Necesitas Ya",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 3,
+      "introScript": "¿Un micrófono que elimina el ruido de fondo automáticamente? ¿Una luz LED que cambia de color con tu voz? Descubre los gadgets más innovadores para llevar tu streaming al siguiente nivel, disponibles ahora en Amazon.",
+      "keywords": [
+        "gadgets",
+        "virales",
+        "para",
+        "streaming",
+        "necesitas"
+      ],
+      "estimatedViews": 4277,
+      "bestPublishTime": "2026-04-26T15:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "HyperX QuadCast S",
+          "searchTermEn": "HyperX QuadCast S microphone",
+          "id": "B0DG9X4WHW",
+          "filename": "B0DG9X4WHW.mp4"
+        },
+        {
+          "nombre": "Elgato Stream Deck MK.2",
+          "searchTermEn": "Elgato Stream Deck MK.2",
+          "id": "B07DYRS1WH",
+          "filename": "B07DYRS1WH.mp4"
+        },
+        {
+          "nombre": "Govee Glide Wall Light",
+          "searchTermEn": "Govee Glide Wall Light",
+          "id": "B09H5VSKTZ",
+          "filename": "B09H5VSKTZ.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-04-22T23:03:23.620Z",
+      "_requestedCount": 3,
+      "_adaptedCount": 3,
+      "_scriptNonce": "nonce_1776899147760_w5p4qm"
+    },
+    "generatedAt": "2026-04-22T23:05:53.478Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "HyperX QuadCast S",
+        "searchTermEn": "HyperX QuadCast S microphone",
+        "id": "B0DG9X4WHW",
+        "filename": "B0DG9X4WHW.mp4"
+      },
+      {
+        "nombre": "Elgato Stream Deck MK.2",
+        "searchTermEn": "Elgato Stream Deck MK.2",
+        "id": "B07DYRS1WH",
+        "filename": "B07DYRS1WH.mp4"
+      },
+      {
+        "nombre": "Govee Glide Wall Light",
+        "searchTermEn": "Govee Glide Wall Light",
+        "id": "B09H5VSKTZ",
+        "filename": "B09H5VSKTZ.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 3 Gadgets Virales para Streaming que Necesitas Ya\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\nEste micrófono ilumina y captura sonido impecable. Este panel controla tus apps con un toque. Estas luces ambientan tu espacio con estilo.\n\n[0:10-0:15] INTRODUCTION\nSuscríbete, los links están en el primer comentario. Empecemos.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] HYPERX QUADCAST S\nLas transmisiones con un audio pobre pueden hacer que tu audiencia se desconecte. El HyperX QuadCast S ofrece calidad de grabación cristalina con efectos de luz LED. Con su filtro anti-pop integrado y cuatro patrones polares, te garantiza sonido profesional.\nSu precio actual en Amazon ronda los... 131 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: HyperX QuadCast S]\n\n[0:25] ELGATO STREAM DECK MK.2\nConfigurar cada función de tu stream manualmente es una pérdida de tiempo valioso. El Elgato Stream Deck MK.2 permite asignar comandos personalizados a sus botones. Compatible con numerosas aplicaciones, facilita la gestión de tus directos.\nSu precio actual en Amazon ronda los... 60 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Elgato Stream Deck MK.2]\n\n[0:25] GOVEE GLIDE WALL LIGHT\nUn ambiente monótono puede aburrir a tus espectadores rápidamente. Las Govee Glide Wall Light transforman tu espacio con colores vibrantes y efectos dinámicos. Se sincronizan con la música para ofrecer una experiencia inmersiva.\nSu precio actual en Amazon ronda los... 50 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Govee Glide Wall Light]\n\n[10 seconds] CONCLUSION\n¡Dale like y recuerda que los links están en el primer comentario!\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:45\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, virales, para, streaming, necesitas\n"
+}

@@ -1,0 +1,236 @@
+{
+  "title": "Top 3 Portátiles Novedosos en Amazon",
+  "hook": {
+    "type": "statement",
+    "text": "Sorprendentemente grande. Asombrosamente versátil. Impresionantemente claro.",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "Todo está en el primer comentario. Vamos.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0:10-0:15"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Lenovo Yoga 9i",
+        "productId": "B0FTBSZ4TD",
+        "productName": "Lenovo Yoga 9i",
+        "filename": "B0FTBSZ4TD.mp4",
+        "asin": "B0FTBSZ4TD",
+        "clipDuration": 60.06,
+        "estimatedAudioSeconds": 68,
+        "framework": "experiencia_sensorial",
+        "narracionSegments": null,
+        "content": [
+          "-Sumérgete- en una experiencia visual sin precedentes con el Lenovo Yoga 9i. Su pantalla OLED táctil de 14” ofrece una claridad excepcional y colores intensos, incluso bajo plena luz solar gracias a sus impresionantes hasta 1,100 nits de brillo. Equipado con el procesador Intel Core Ultra y memoria abundante, este portátil se convierte en tu aliado ideal tanto para la creatividad como para la multitarea eficiente.",
+          "-Su precio actual en Amazon ronda los... 2200 dólares. ¡Link en el primer comentario!-"
+        ],
+        "visuals": [
+          "Product image: Lenovo Yoga 9i"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0FTBSZ4TD_combined.mp4",
+        "precio": "$2200",
+        "productPhoto": "https://m.media-amazon.com/images/I/511Fr7bmAML.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "Unopened retail packaging, sold as configured by Lenovo. One Year Courier or Carry-in Lenovo Warranty. Add up to 5 years of coverage when you register your computer with Lenovo.",
+          "Powered by the high performing Intel Core Ultra 7 258V processor, the Yoga 9i 2-in-1 laptop is ready to take on any challenge, big or small. It unlocks maximum performance and creative efficiency, it has plenty of memory with 32 GB and even more storage with 1 TB.",
+          "The 14″ 2.8K OLED touchscreen display brings sharp clarity and bold colors, with 100% P3 for spot-on color accuracy. The adaptive refresh rate (30Hz-120Hz) adapts to your flow, and with up to 1,100 nits of brightness, even sunlight won’t dull your screen.",
+          "Ports: 1x USB-A (USB 10Gbps / USB 3.2 Gen 2), Always On; 1x USB-C (USB 20Gbps / USB4 Gen 2x2), with USB PD 3.0 and DisplayPort 1.4; 2x USB-C (Thunderbolt 4 / USB4 40Gbps), with USB PD 3.0 and DisplayPort 2.1; and 1x Headphone / microphone combo jack (3.5mm).",
+          "The new Yoga Pen, with tilt and pressure detection, low latency, and magnetic attachment to the lid, extends your flexibility, offering precise control and smooth drawing."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "ASUS ZenBook Duo",
+        "productId": "B0GDRZFJMM",
+        "productName": "ASUS ZenBook Duo",
+        "filename": "B0GDRZFJMM.mp4",
+        "asin": "B0GDRZFJMM",
+        "clipDuration": 60.06,
+        "estimatedAudioSeconds": 66,
+        "framework": "problema_solucion",
+        "narracionSegments": null,
+        "content": [
+          "¿Batallas constantemente con la insuficiencia de espacio visual para tus tareas múltiples? El ASUS ZenBook Duo te ofrece la solución perfecta con su función de Dual Screen. Maximiza tu productividad con sus pantallas táctiles duales Lumina OLED, que ofrecen una integración visual sin interrupciones y un color vibrante sin igual.",
+          "Su precio actual en Amazon ronda los... 2000 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: ASUS ZenBook Duo"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0GDRZFJMM_combined.mp4",
+        "precio": "$2000",
+        "productPhoto": "https://m.media-amazon.com/images/I/61BXijMvzAL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "Multi-Screen Versatility — Find the mode that best suits your task and seamlessly switch between them. Expand your workspace with Dual Screen or Desktop Mode, share content effortlessly in Sharing Mode, or snap everything back into one for Laptop Mode",
+          "Everything-Built-In Portability — At 3.64 lb and a mere 0.57” thin, the DUO elevates portable dual-screen setups to the next level. With a detachable Bluetooth keyboard and built-in kickstand, you can take the Zenbook DUO just as you would with any laptop — plus a FHD IR front camera",
+          "Powerfully Productive — The Zenbook DUO delivers powerful performance and AI-ready features on Windows 11. The ultra-fast Intel Core Ultra 9 285H processor with Intel AI Boost NPU paired with Intel Arc graphics, enhances tasks with AI capabilities. With 1TB SSD storage and 32GB LPDDR5x RAM, you can explore more seamlessly",
+          "Dual 14” Lumina OLED Displays — Immerse yourself in unparalleled visuals with the Zenbook DUO's dual 16:10 touch displays boasting a 2880 x 1800 resolution, vibrant 500-nit HDR peak brightness, smooth 120Hz refresh rate, and Pantone validated 100% DCI-P3 color accuracy",
+          "Military-Grade Durability — Meeting US MIL-STD 810H military standards1, the Zenbook DUO ensures unmatched reliability in harsh conditions. Rigorous testing enhances longevity, guaranteeing that your laptop is ready for work, travel, or relaxation both today and in the future"
+        ]
+      },
+      {
+        "type": "content",
+        "title": "LG Gram 17",
+        "productId": "B0G2WM8JG1",
+        "productName": "LG Gram 17",
+        "filename": "B0G2WM8JG1.mp4",
+        "asin": "B0G2WM8JG1",
+        "clipDuration": 60.06,
+        "estimatedAudioSeconds": 64,
+        "framework": "enfoque_caracteristica",
+        "narracionSegments": null,
+        "content": [
+          "La impresionante pantalla WQXGA de 17 pulgadas del LG Gram redefine lo que esperas de un portátil. Con soporte para DCI-P3 al 99%, ofrece una vivacidad de color que revive tus películas y juegos favoritos con una claridad sin igual. Disfruta además de los beneficios de su procesador Intel Evo Core Ultra, diseñado para un rendimiento rápido y eficiente.",
+          "Su precio actual en Amazon ronda los... 1598 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: LG Gram 17"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0G2WM8JG1_combined.mp4",
+        "precio": "$1598",
+        "productPhoto": "https://m.media-amazon.com/images/I/71lX-n34cVL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "LG gram 17 inch Laptop Touchscreen: LG gram laptop 17inch touchscreen features WQXGA (2560 x 1600) Display with DCI-P3 99% color gamut support shows and movies come to life in true-to-life color and crisp, clear details.【Bundled with Mouse】",
+          "LG Laptop AI Copilot PC 2025: LG laptop gram powered by the Series 2 Intel Evo Core Ultra 7-258V Processor 47 NPU TOPS divides computing and background tasks; Enjoy instant responsiveness, smoother gaming experiences and efficient multitasking capabilities.",
+          "LG Gram 17inch Touchscreen Laptop 32GB RAM DDR5: Business laptop 32GB DDR5 RAM, 2TB PCIe SSD. Original Seal is opened for upgrade Professionally ONLY. We do provide a 1-year standard warranty on upgraded SSD.",
+          "LG Laptop with Microsoft Office included: Windows 11 Laptop. It has all the power and security of Windows 10 with a redesigned and refreshed look. It also comes with new tools, sounds, and apps.【Bundled with Office365 One Year】",
+          "Features: 17 inch laptop with Backlit Keyboard, Wireless Wi-Fi 7, Two Thunderbolt 4 USB Type-C, HDMI 2.1, Long Battery Life, FHD Camera, Narrow Bezel, Stereo Speakers. Super slim Ultra thin lightweight laptop."
+        ]
+      }
+    ],
+    "totalDuration": 75
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "-Dale like si te gustó y recuerda que los links están en el primer comentario.-"
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:45",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "porttiles",
+    "novedosas",
+    "amazon"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 3 Portátiles Novedosas en Amazon",
+      "angle": "Top 3 Portátiles Novedosas en Amazon",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 3,
+      "introScript": "¿Alguna vez has soñado con un portátil de pantalla táctil que se pliega como un libro? ¿O qué tal uno que dura días sin recargar? Prepárate para descubrir las computadoras portátiles más innovadoras del mercado actual, que harán que tu experiencia de trabajo y entretenimiento sea como nunca antes.",
+      "keywords": [
+        "porttiles",
+        "novedosas",
+        "amazon"
+      ],
+      "estimatedViews": 4188,
+      "bestPublishTime": "2026-05-19T19:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Lenovo Yoga 9i",
+          "searchTermEn": "Lenovo Yoga 9i laptop",
+          "id": "B0FTBSZ4TD",
+          "filename": "B0FTBSZ4TD.mp4"
+        },
+        {
+          "nombre": "ASUS ZenBook Duo",
+          "searchTermEn": "ASUS ZenBook Duo laptop",
+          "id": "B0GDRZFJMM",
+          "filename": "B0GDRZFJMM.mp4"
+        },
+        {
+          "nombre": "LG Gram 17",
+          "searchTermEn": "LG Gram 17 laptop",
+          "id": "B0G2WM8JG1",
+          "filename": "B0G2WM8JG1.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-05-15T17:17:13.260Z",
+      "_requestedCount": 3,
+      "_adaptedCount": 3,
+      "introProductsOrder": [
+        {
+          "nombre": "LG Gram 17",
+          "id": "B0G2WM8JG1",
+          "filename": "B0G2WM8JG1_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0G2WM8JG1_combined.mp4"
+        },
+        {
+          "nombre": "ASUS ZenBook Duo",
+          "id": "B0GDRZFJMM",
+          "filename": "B0GDRZFJMM_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0GDRZFJMM_combined.mp4"
+        },
+        {
+          "nombre": "Lenovo Yoga 9i",
+          "id": "B0FTBSZ4TD",
+          "filename": "B0FTBSZ4TD_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0FTBSZ4TD_combined.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1778865755420_ygtsim"
+    },
+    "generatedAt": "2026-05-15T17:22:58.482Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Lenovo Yoga 9i",
+        "searchTermEn": "Lenovo Yoga 9i laptop",
+        "id": "B0FTBSZ4TD",
+        "filename": "B0FTBSZ4TD.mp4"
+      },
+      {
+        "nombre": "ASUS ZenBook Duo",
+        "searchTermEn": "ASUS ZenBook Duo laptop",
+        "id": "B0GDRZFJMM",
+        "filename": "B0GDRZFJMM.mp4"
+      },
+      {
+        "nombre": "LG Gram 17",
+        "searchTermEn": "LG Gram 17 laptop",
+        "id": "B0G2WM8JG1",
+        "filename": "B0G2WM8JG1.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 3 Portátiles Novedosos en Amazon\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\nSorprendentemente grande. Asombrosamente versátil. Impresionantemente claro.\n\n[0:10-0:15] INTRODUCTION\nTodo está en el primer comentario. Vamos.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] LENOVO YOGA 9I\n-Sumérgete- en una experiencia visual sin precedentes con el Lenovo Yoga 9i. Su pantalla OLED táctil de 14” ofrece una claridad excepcional y colores intensos, incluso bajo plena luz solar gracias a sus impresionantes hasta 1,100 nits de brillo. Equipado con el procesador Intel Core Ultra y memoria abundante, este portátil se convierte en tu aliado ideal tanto para la creatividad como para la multitarea eficiente.\n-Su precio actual en Amazon ronda los... 2200 dólares. ¡Link en el primer comentario!-\n\n[VISUALS: Product image: Lenovo Yoga 9i]\n\n[0:25] ASUS ZENBOOK DUO\n¿Batallas constantemente con la insuficiencia de espacio visual para tus tareas múltiples? El ASUS ZenBook Duo te ofrece la solución perfecta con su función de Dual Screen. Maximiza tu productividad con sus pantallas táctiles duales Lumina OLED, que ofrecen una integración visual sin interrupciones y un color vibrante sin igual.\nSu precio actual en Amazon ronda los... 2000 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: ASUS ZenBook Duo]\n\n[0:25] LG GRAM 17\nLa impresionante pantalla WQXGA de 17 pulgadas del LG Gram redefine lo que esperas de un portátil. Con soporte para DCI-P3 al 99%, ofrece una vivacidad de color que revive tus películas y juegos favoritos con una claridad sin igual. Disfruta además de los beneficios de su procesador Intel Evo Core Ultra, diseñado para un rendimiento rápido y eficiente.\nSu precio actual en Amazon ronda los... 1598 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: LG Gram 17]\n\n[10 seconds] CONCLUSION\n-Dale like si te gustó y recuerda que los links están en el primer comentario.-\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:45\nTONE: engaging\nPACING: quick\nKEYWORDS: porttiles, novedosas, amazon\n"
+}

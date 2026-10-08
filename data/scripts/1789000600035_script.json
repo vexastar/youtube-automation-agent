@@ -1,0 +1,187 @@
+{
+  "title": "Top 2 Gadgets Imprescindibles para tu Motocicleta",
+  "hook": {
+    "type": "statement",
+    "text": "No creerás lo que Life360 Tile Pro puede hacer. No creerás lo que Oxford puede hacer.",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "Los links de compra están en el primer comentario. Empezamos.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "25s-35s"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Oxford",
+        "productId": "B07K7SLSPB",
+        "productName": "Oxford",
+        "filename": "B07K7SLSPB.mp4",
+        "asin": "B07K7SLSPB",
+        "videoDuration": 60,
+        "estimatedAudioSeconds": 34,
+        "framework": "problema_solucion",
+        "narracionSegments": null,
+        "content": [
+          "Increíblemente frío en tus paseos matutinos. ¿Cansado de manos congeladas? ¡Conoce Oxford! Con su memoria de ajuste de temperatura inteligente, olvida ajustes cada día. Nueve configuraciones de calor te mantienen cómodo; incluso se adapta a manillares estándar de veintidós milímetros. Enchufa y ajusta fácilmente la longitud entre ciento veintidós a ciento treinta y dos milímetros. Gira el control rediseñado y siente cómo el calor transforma tu viaje. Ya no más sufrimiento por el frío...",
+          "Su precio actual ronda los... ciento veinte dólares. Link en comentarios."
+        ],
+        "visuals": [
+          "Product image: Oxford"
+        ],
+        "duration": 25,
+        "videoPath": null,
+        "precio": "$120",
+        "productPhoto": "https://m.media-amazon.com/images/I/51JzKwbk7yL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "\"9 configuraciones de calor\"",
+          "Interfaz de control rediseñada",
+          "La traducción de \"Intelligent heat setting memory\" al español es: \"Memoria de ajuste de temperatura inteligente\".",
+          "Se adapta a manillares de 22mm (0.86\")",
+          "Longitud ajustable Max 132mm - Min 122mm (5.19\" - 4.80\")"
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Tile Pro Rastreador Bluetooth",
+        "productId": "B0D637HWC5",
+        "productName": "Tile Pro Rastreador Bluetooth",
+        "filename": "B0D637HWC5.mp4",
+        "asin": "B0D637HWC5",
+        "videoDuration": 60,
+        "estimatedAudioSeconds": 35,
+        "framework": "enfoque_caracteristica",
+        "narracionSegments": null,
+        "content": [
+          "Impresionantemente confiable. ¿Pierdes las llaves o el teléfono? El Tile Pro, rastreador Bluetooth, devuelve la tranquilidad. Localiza objetos con un solo clic. Llama a tu Tile o localízalo desde la app gratuita. Tu teléfono desaparecido suena, incluso en silencio. Adjúntalo a llaves del coche, bolsas de golf o equipo de cámara. ¿En peligro? Activa una alerta SOS para tus seres queridos. Sincroniza con Life Tres Sesenta y mantén todo visible en un solo mapa.",
+          "Su precio actual ronda los... treinta y cinco dólares. Link en comentarios."
+        ],
+        "visuals": [
+          "Product image: Tile Pro Rastreador Bluetooth"
+        ],
+        "duration": 25,
+        "precio": "$35",
+        "videoPath": null,
+        "productPhoto": "https://m.media-amazon.com/images/I/81KzRmjoY5L.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "NUESTRO RASTREADOR MÁS PODEROSO: Protege objetos perdidos o robados y facilita la vida familiar. Adjunta a objetos de valor como llaves del coche, bolsas de golf y equipo de cámara.",
+          "MANTENTE SEGURO CON SOS: Activa discretamente una alerta SOS para tus seres queridos en situaciones inseguras.",
+          "ENCUENTRA TUS COSAS: Llama a tu Tile extraviado o localízalo en la app gratuita.",
+          "ENCUENTRA TU TELÉFONO: ¿Teléfono escondido bajo un cojín? Usa tu Tile para hacerlo sonar, incluso cuando está en silencio.",
+          "USAR CON LIFE360: Agrega tus Tiles a Life360, una de las mejores aplicaciones de conexión familiar y seguridad, para ver todo y a todos en el mismo mapa."
+        ]
+      }
+    ],
+    "totalDuration": 80
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      ""
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:50",
+  "tone": "engaging",
+  "tone_variant": "entusiasta y acelerado, como un presentador de teletienda pero sin relleno ni repetición",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "imprescindibles",
+    "para",
+    "motocicleta"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 2 Gadgets Imprescindibles para tu Motocicleta",
+      "angle": "Top 3 Gadgets Imprescindibles para tu Motocicleta",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 2,
+      "introScript": "¿Un gadget que mantiene tus manos cálidas incluso en las rutas más frías? ¿Otra que hace que encontrar tus llaves sea cosa del pasado? Hoy te presentamos tres innovaciones para motocicletas que podrían cambiar tu experiencia de conducción para siempre. ¿Listo para conocer qué secretos esconden estos inventos revolucionarios? No querrás perderte cómo la tecnología está transformando el mundo de las dos ruedas.",
+      "keywords": [
+        "gadgets",
+        "imprescindibles",
+        "para",
+        "motocicleta"
+      ],
+      "estimatedViews": 4809,
+      "bestPublishTime": "2026-09-10T19:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Oxford",
+          "searchTermEn": "INBIKE heated motorcycle grips",
+          "id": "B07K7SLSPB",
+          "filename": "B07K7SLSPB.mp4"
+        },
+        {
+          "nombre": "Life360 Tile Pro",
+          "searchTermEn": "Tile Pro Bluetooth tracker",
+          "id": "B0D637HWC5",
+          "filename": "B0D637HWC5.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-09-10T00:29:33.193Z",
+      "_requestedCount": 3,
+      "_adaptedCount": 2,
+      "_adaptationNote": "ATENCIÓN: El usuario pidió 3 productos pero solo hay 2 clips de video disponibles. El guion, título y narrativa deben referirse EXCLUSIVAMENTE a 2 productos.",
+      "introProductsOrder": [
+        {
+          "nombre": "Life360 Tile Pro",
+          "id": "B0D637HWC5",
+          "filename": "B0D637HWC5.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0D637HWC5.mp4"
+        },
+        {
+          "nombre": "Oxford",
+          "id": "B07K7SLSPB",
+          "filename": "B07K7SLSPB.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07K7SLSPB.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1789000572877_pqq11z"
+    },
+    "generatedAt": "2026-09-10T00:36:28.886Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Oxford",
+        "searchTermEn": "INBIKE heated motorcycle grips",
+        "id": "B07K7SLSPB",
+        "filename": "B07K7SLSPB.mp4"
+      },
+      {
+        "nombre": "Life360 Tile Pro",
+        "searchTermEn": "Tile Pro Bluetooth tracker",
+        "id": "B0D637HWC5",
+        "filename": "B0D637HWC5.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 2 Gadgets Imprescindibles para tu Motocicleta\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\nNo creerás lo que Life360 Tile Pro puede hacer. No creerás lo que Oxford puede hacer.\n\n[25s-35s] INTRODUCTION\nLos links de compra están en el primer comentario. Empezamos.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] OXFORD\nIncreíblemente frío en tus paseos matutinos. ¿Cansado de manos congeladas? ¡Conoce Oxford! Con su memoria de ajuste de temperatura inteligente, olvida ajustes cada día. Nueve configuraciones de calor te mantienen cómodo; incluso se adapta a manillares estándar de veintidós milímetros. Enchufa y ajusta fácilmente la longitud entre ciento veintidós a ciento treinta y dos milímetros. Gira el control rediseñado y siente cómo el calor transforma tu viaje. Ya no más sufrimiento por el frío...\nSu precio actual ronda los... ciento veinte dólares. Link en comentarios.\n\n[VISUALS: Product image: Oxford]\n\n[0:25] TILE PRO RASTREADOR BLUETOOTH\nImpresionantemente confiable. ¿Pierdes las llaves o el teléfono? El Tile Pro, rastreador Bluetooth, devuelve la tranquilidad. Localiza objetos con un solo clic. Llama a tu Tile o localízalo desde la app gratuita. Tu teléfono desaparecido suena, incluso en silencio. Adjúntalo a llaves del coche, bolsas de golf o equipo de cámara. ¿En peligro? Activa una alerta SOS para tus seres queridos. Sincroniza con Life Tres Sesenta y mantén todo visible en un solo mapa.\nSu precio actual ronda los... treinta y cinco dólares. Link en comentarios.\n\n[VISUALS: Product image: Tile Pro Rastreador Bluetooth]\n\n[10 seconds] CONCLUSION\n\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:50\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, imprescindibles, para, motocicleta\n"
+}

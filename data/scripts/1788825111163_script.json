@@ -1,0 +1,339 @@
+{
+  "title": "Top 5 Gadgets Increíbles para Tu Auto",
+  "hook": {
+    "type": "statement",
+    "text": "Mira lo que hace Lanmodo Vast Pro en acción. Mira lo que hace Nexar Beam en acción. Mira lo que hace iOttie Easy One Touch 4 en acción. Mira lo que hace Garmin Speak en acción.",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "Los links de compra están en el primer comentario. Empezamos.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "25s-35s"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Garmin Speak",
+        "productId": "B07RR166P1",
+        "productName": "Garmin Speak",
+        "filename": "B07RR166P1.mp4",
+        "asin": "B07RR166P1",
+        "videoDuration": 90.09,
+        "estimatedAudioSeconds": 32,
+        "framework": "enfoque_caracteristica",
+        "narracionSegments": null,
+        "content": [
+          "¿Necesitas conducir sin distracciones? Garmin Speak. Pantalla de seis punto noventa y cinco pulgadas. Alta resolución; disfruta del navegador GPS controlado por voz. Alexa integrada transforma tu auto. Solicita reproducciones de Amazon Music, agenda tus citas o consulta el clima... todo. Sin usar las manos; concéntrate en la carretera. Conecta con casa inteligente mientras conduces; controla luces y más desde tu asiento. Basta de mirar el móvil al viajar.",
+          "Su precio actual ronda los doscientos diez dólares. Link en comentarios."
+        ],
+        "visuals": [
+          "Product image: Garmin Speak"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07RR166P1.mp4",
+        "precio": "$210",
+        "productPhoto": "https://m.media-amazon.com/images/I/61qD1P0yBLS.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "\"Disfruta de la experiencia definitiva controlada por voz y manos libres.\"",
+          "Navegador GPS premium con una pantalla de 6.95” de borde a borde y alta resolución.",
+          "\"\"\"Alexa integrada; pide a Alexa que reproduzca música de Amazon Music, Pandora, Sirius XM, iHeartRadio y más (La aplicación Garmin Drive debe estar abierta y en funcionamiento en el smartphone del usuario)\"\"\"",
+          "Usa Alexa para crear listas de tareas, revisar tu calendario, noticias, clima y tráfico, controlar dispositivos inteligentes del hogar y jugar juegos interactivos (los conductores siempre deben concentrarse en conducir de manera segura).",
+          "\"Pide a Garmin control por voz direcciones, puntos de interés (POIs) a lo largo de la ruta y más.\""
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Nexar Beam",
+        "productId": "B09K4FDK81",
+        "productName": "Nexar Beam",
+        "filename": "B09K4FDK81.mp4",
+        "asin": "B09K4FDK81",
+        "videoDuration": 54.676867,
+        "estimatedAudioSeconds": 34,
+        "framework": "beneficio_oculto",
+        "narracionSegments": null,
+        "content": [
+          "¿Nunca imaginaste grabar todo mientras conduces? La cámara de salpicadero Nexar Beam es la solución. Con su diseño compacto y oculto detrás del espejo retrovisor, captura video nítido en ángulo amplio de ciento treinta y cinco grados. Graba en Full HD. Detecta colisiones y frenadas bruscas, guardando clips en la nube ilimitada. Enciende el modo de estacionamiento; recibe notificaciones al más mínimo impacto. Mantén evidencias directas en tu teléfono; simple y efectivo.",
+          "Su precio actual ronda los ciento quince dólares. Link en comentarios."
+        ],
+        "visuals": [
+          "Product image: Nexar Beam"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B09K4FDK81.mp4",
+        "precio": "$115",
+        "productPhoto": "https://m.media-amazon.com/images/I/8161vz90c+L.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "Teléfono inteligente requerido: Todas las cámaras de tablero Nexar requieren una conexión a un teléfono inteligente. Nuestras cámaras de tablero son compatibles con iPhones 7 y superiores, así como con la mayoría de los modelos Android. Para asegurarte de que tu dispositivo sea compatible, consulta la lista completa en la sección de preguntas frecuentes a continuación. También ten en cuenta que Nexar no opera en conjunto con Apple CarPlay.",
+          "La mejor cámara de salpicadero para conductores cotidianos: The Beam es la cámara de salpicadero más compacta de Nexar, fácilmente ocultable detrás del espejo retrovisor. La cámara graba video nítido en un ángulo amplio de 135° en calidad 1080p Full HD.",
+          "Detección Inteligente y Copia de Seguridad en la Nube Ilimitada: La cámara detecta situaciones críticas en la carretera (como colisiones o frenadas bruscas) y las guarda como clips cortos en la aplicación Nexar. Estos clips también se respaldan automáticamente en tu cuenta de nube ilimitada de Nexar.",
+          "Modo de Estacionamiento para Protección 24/7: Nexar detecta incluso el más mínimo impacto y comienza a grabar de inmediato, incluso cuando tu coche está estacionado. Recibe notificaciones y mira los incidentes grabados de estacionamiento tan pronto como tu teléfono esté cerca y conectado a la dash cam.",
+          "\"\"\"Evidencia Instantánea Directo a Tu Teléfono: La cámara de tablero Nexar Pro transmite en vivo imágenes a tu teléfono cada vez que conduces, por lo que la evidencia en video siempre está a solo un toque de distancia si la necesitas. La aplicación Nexar funciona en segundo plano, así que puedes usar otras aplicaciones (como navegación) mientras conduces. Para evitar el drenaje de la batería, considera conectar tu teléfono mientras conduces.\"\"\""
+        ]
+      },
+      {
+        "type": "content",
+        "title": "iOttie Easy One Touch 4",
+        "productId": "B0C1HP8N5D",
+        "productName": "iOttie Easy One Touch 4",
+        "filename": "B0C1HP8N5D.mp4",
+        "asin": "B0C1HP8N5D",
+        "videoDuration": 53.0209,
+        "estimatedAudioSeconds": 34,
+        "framework": "comparacion_precio",
+        "narracionSegments": null,
+        "content": [
+          "¿Tu soporte para teléfono no se adapta a todo? El iOttie Easy One Touch cuatro, con su Mecanismo Easy One Touch, sujeta cualquier teléfono al instante. Su brazo telescópico se extiende hasta ocho pulgadas y pivota doscientos sesenta grados. ¿Y qué tal un organizador de cordones integrado? Presiona los brazos; coloca el teléfono... perfectamente sujeto. Compatible con fundas de cualquier tamaño; ajustes personalizados de visualización. Con justa razón... elige un soporte universal confiable.",
+          "Su precio actual ronda los veintisiete dólares. Link en comentarios."
+        ],
+        "visuals": [
+          "Product image: iOttie Easy One Touch 4"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0C1HP8N5D.mp4",
+        "precio": "$27",
+        "productPhoto": "https://m.media-amazon.com/images/I/612zyhPZCOL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "MECANISMO EASY ONE TOUCH: Presiona los brazos laterales de bloqueo con un rápido movimiento de una sola mano y coloca tu teléfono contra el botón de disparo. Los brazos del soporte se cerrarán automáticamente, sujetando tu dispositivo de forma segura mientras conduces. Monta o quita tu teléfono en segundos con el Mecanismo Easy One Touch.",
+          "\"\"\"AMPLIA COMPATIBILIDAD: Nuevo botón Easy One Touch más grande, con un soporte universal que se adapta a smartphones y fundas de cualquier tamaño.\"\"\"",
+          "ORGANIZADOR DE CORDONES: Mantén los cables de carga organizados de manera ordenada con un sistema de gestión de cordones integrado.",
+          "BRAZO TELESCÓPICO: El brazo telescópico mejorado ahora se extiende de 5 inches a 8 inches y pivota 260 grados para una multitud de ángulos de visualización personalizados mientras estás en la carretera.",
+          "PIE INFERIOR AJUSTABLE: Puedes ajustar fácilmente y de manera segura el pie inferior para asegurar smartphones de todos los tamaños."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Lanmodo Vast Pro",
+        "productId": "B093WV9C46",
+        "productName": "Lanmodo Vast Pro",
+        "filename": "B093WV9C46.mp4",
+        "asin": "B093WV9C46",
+        "videoDuration": 45.501033,
+        "estimatedAudioSeconds": 33,
+        "framework": "dato_numerico",
+        "narracionSegments": null,
+        "content": [
+          "¿Conduces de noche sin ver nada? El Lanmodo Vast Pro es tu solución. Su Visión Nocturna Doble Super ofrece imágenes claras a 0.0001 lux con sensor Sony SMOS. Enciende la pantalla FHD IPS de ocho pulgadas. Cambia de WDR a HDR. Llega hasta mil trescientos cincuenta pies de alcance; ideal para carreteras oscuras. Usa su cámara trasera impermeable IP67 sin miedo a lluvia o nieve; el G-sensor ajustable captura impactos repentinos.",
+          "Su precio actual ronda los... 300 dólares. Link en comentarios."
+        ],
+        "visuals": [
+          "Product image: Lanmodo Vast Pro"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B093WV9C46.mp4",
+        "precio": "$300",
+        "productPhoto": "https://m.media-amazon.com/images/I/61e6q7JyRXL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "\"\"\"Visión Nocturna Doble Super: Con un sensor de imagen Sony SMOS integrado, la cámara de salpicadero logra una visión nocturna de nivel estrellado de 0.0001lux al equilibrar automáticamente la exposición en escenarios de oscuridad extrema, para obtener imágenes claras y nítidas. Con una apertura ultra grande de F1.0 y lentes de 7 capas, la cámara de visión nocturna para coche optimiza el brillo y los detalles de la imagen. La cámara de salpicadero con visión nocturna está integrada con una pantalla FHD IPS de 8\", permitiendo a los conductores cambiar de WDR a HDR, mejorando la alta resolución y el contraste de las imágenes.\"\"\"",
+          "\"\"\"Visión Nocturna 1350FT: Hasta 1350ft=411m de distancia de visión nocturna, los conductores ven mucho más profundo y lejos que con las luces altas para informar sobre la situación de la carretera con anticipación. Ya sea en caminos rurales poco iluminados, estrechas carreteras de montaña con animales salvajes, incluso en fuertes lluvias, nieve, tormentas o niebla, la visión nocturna de la dash cam ayuda a borrar la visión borrosa y reducir el punto ciego. La visión nocturna de la cámara de salpicadero también es una excelente opción para los ancianos que tienen mala visión o visión deteriorada por degeneración macular de la mayoría de los tipos.\"\"\"",
+          "Cámara trasera impermeable IP67: Con una carcasa metálica completa resistente a la intemperie IP67, la cámara trasera puede mantener fuera el polvo, la humedad, el agua y el aire para una fiabilidad robusta. La visión nocturna de la cámara del salpicadero funciona bien incluso en días de lluvia torrencial, nieve y aguanieve. Se incluye un kit de cable de extensión de 8.5m para la cámara trasera.",
+          "Grabación en bucle de Audio+Video: La grabación en ciclo de bucle sobrescribe automáticamente las grabaciones más antiguas y cicla nuevo material cuando la memoria alcanza el límite de almacenamiento. Los archivos de grabación en bucle en tiempo real se guardan como archivos separados de 1/3/5 minutos para evitar cualquier pérdida o falta de material. La tecnología de compresión de video H.265+ ayuda a ahorrar hasta un 80% del espacio de almacenamiento y mejora la calidad de imagen. La tarjeta de memoria es compatible con Micro SDXC de hasta 128GB (no incluida).",
+          "G-sensor Ajustable: G-sensor con sensibilidad variable que detecta automáticamente un impacto o colisión repentina. Los conductores pueden ajustar las opciones de sensibilidad: Bajo/ Medio/ Alto. El G-sensor activa una grabación de eventos y un bloqueo de video de emergencia para incidentes y golpes; los videos bloqueados se mantendrán sin ser sobrescritos. En caso de un accidente automovilístico, las grabaciones del accidente bloqueadas serán una evidencia poderosa para tu reclamo de seguro."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "FIXD Sensor Automotriz",
+        "productId": "B0BY1TS725",
+        "productName": "FIXD Sensor Automotriz",
+        "filename": "B0BY1TS725.mp4",
+        "asin": "B0BY1TS725",
+        "videoDuration": 309.043333,
+        "estimatedAudioSeconds": 34,
+        "framework": "experiencia_sensorial",
+        "narracionSegments": null,
+        "content": [
+          "¿Problemas con el auto que no puedes resolver? Conecta el FIXD Sensor Automotriz al puerto OBDII. Él trabaja en segundos. Pregunta: ¿Qué está mal? Responde: Todo lo necesario para tu tranquilidad. Lee códigos (DTCs). Muestra definiciones automáticamente. Información en pantalla clara. Datos en vivo desde sensores vitales como RPM y temperatura de aire. Borra fallos. Previene sorpresas en carretera o inspección. Empieza a entender más de tu motor... antes de que él te hable inesperadamente.",
+          "Su precio actual ronda los 40 dólares. Link en comentarios."
+        ],
+        "visuals": [
+          "Product image: FIXD Sensor Automotriz"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0BY1TS725.mp4",
+        "precio": "$40",
+        "productPhoto": "https://m.media-amazon.com/images/I/61VZXoBoDKL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "【UNA HERRAMIENTA IMPRESCINDIBLE PARA LOS AFICIONADOS AL HÁBIL】 - El VDIAGTOOL VD10 lector de códigos de coche es un escáner OBD increíblemente útil para cada propietario de un coche o aficionado, incluso para aquellos con poca o ninguna experiencia en mecánica de vehículos. Similar a una herramienta de diagnóstico de coche fixd, usar este escáner de diagnóstico de coche es extremadamente fácil. ¡Todo lo que tienes que hacer es conectarlo al puerto OBDII de tu coche y podrás diagnosticar problemas del vehículo en segundos! Leer Códigos (DTCs); Borrar Códigos; Datos en Vivo; Ver Congelación de Marco; Preparación I/M; Información del Vehículo.",
+          "【MANTENIMIENTO DEL MOTOR EN BUEN ESTADO】 - El lector de códigos de motor VDIAGTOOL ofrece un acceso rápido para escanear, leer el código de falla del automóvil, mostrar su definición en la pantalla al instante, solucionar problemas para encontrar las causas raíz de los problemas, borrar el código de falla del motor y apagar el MIL (Luz de Indicador de Malfuncionamiento). Similar a una herramienta de diagnóstico de automóvil fixd, este lector de códigos de automóvil ayuda a garantizar que tu motor se mantenga en óptimas condiciones.",
+          "\"\"\"【LEER/BORRAR CÓDIGOS Y CONSULTA DE DTC】- Sin necesidad de buscar en línea y ahorrando tu tiempo, este lector de códigos de vehículo recupera códigos genéricos (P0, P2, P3 y U0), códigos específicos del fabricante (P1, P3 y U1), códigos pendientes y muestra las definiciones de DTC basadas en la base de datos incorporada (más de 3000 códigos) en la pantalla TFT, descubre las causas raíz y borra los códigos después de haber realizado las reparaciones.\"\"\"",
+          "【DATOS EN VIVO Y RECUPERAR IMAGEN CONGELADA】 - Esta herramienta de escaneo diagnóstico para un diagnóstico preciso te permite recuperar datos de los sensores del vehículo, como RPM del motor, temperatura del aire de admisión, combustible a corto/largo plazo, datos de fallos de encendido, etc. La imagen congelada se almacena en el PCM junto con el código de problema de diagnóstico (DTC) relacionado con la falla. Comparable a una herramienta de diagnóstico de automóvil fixd, el lector de códigos VD10 y escáner de automóvil puede ser una ayuda diagnóstica valiosa y práctica, y también ayuda enormemente al diagnosticar problemas intermitentes.",
+          "【I/M READINESS para la VERIFICACIÓN S-nn-0-g】 - Un vehículo OBDII puede no pasar la inspección anual a menos que los monitores requeridos desde el reinicio estén completos. Por lo tanto, deberías al menos leer los monitores de preparación y asegurarte de que estén listos. Esta herramienta de diagnóstico obd2 está equipada con la función de preparación I/M para verificar el funcionamiento del sistema de e-m-issi0n en vehículos compatibles con OBD2, realizar la prueba de preparación del monitor I/M, comprobando si el vehículo pasa la inspección s-m-0-g."
+        ]
+      }
+    ],
+    "totalDuration": 200
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      ""
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "3:50",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "increbles",
+    "para",
+    "auto"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 5 Gadgets Increíbles para Tu Auto",
+      "angle": "Top 6 Gadgets Increíbles para Tu Auto",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 5,
+      "introScript": "¿Cómo sería un dispositivo que te permite controlar tu auto con gestos? ¿O un espejo retrovisor con visión nocturna para una conducción más segura? Hoy te traigo seis innovaciones asombrosas que transformarán tu experiencia al volante. Desde gadgets que mantienen tu auto limpio hasta aquellos que mejoran la seguridad y comodidad, estos productos te dejarán con la boca abierta. ¡Acompáñame en este recorrido para convertir tu auto en una máquina del futuro sin tener que gastar una fortuna!",
+      "keywords": [
+        "gadgets",
+        "increbles",
+        "para",
+        "auto"
+      ],
+      "estimatedViews": 6071,
+      "bestPublishTime": "2026-09-13T15:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Garmin Speak",
+          "searchTermEn": "Garmin Speak with Alexa",
+          "id": "B07RR166P1",
+          "filename": "B07RR166P1.mp4"
+        },
+        {
+          "nombre": "Nexar Beam",
+          "searchTermEn": "Nexar Beam GPS dash cam",
+          "id": "B09K4FDK81",
+          "filename": "B09K4FDK81.mp4"
+        },
+        {
+          "nombre": "iOttie Easy One Touch 4",
+          "searchTermEn": "iOttie Easy One Touch 4 car mount",
+          "id": "B0C1HP8N5D",
+          "filename": "B0C1HP8N5D.mp4"
+        },
+        {
+          "nombre": "Lanmodo Vast Pro",
+          "searchTermEn": "Lanmodo Vast Pro night vision",
+          "id": "B093WV9C46",
+          "filename": "B093WV9C46.mp4"
+        },
+        {
+          "nombre": "FIXD Sensor Automotriz",
+          "searchTermEn": "FIXD OBD2 scanner sensor",
+          "id": "B0BY1TS725",
+          "filename": "B0BY1TS725.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-09-07T23:38:39.926Z",
+      "_requestedCount": 6,
+      "_adaptedCount": 5,
+      "_adaptationNote": "ATENCIÓN: El usuario pidió 6 productos pero solo hay 5 clips de video disponibles. El guion, título y narrativa deben referirse EXCLUSIVAMENTE a 5 productos.",
+      "introProductsOrder": [
+        {
+          "nombre": "Lanmodo Vast Pro",
+          "id": "B093WV9C46",
+          "filename": "B093WV9C46.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B093WV9C46.mp4"
+        },
+        {
+          "nombre": "Nexar Beam",
+          "id": "B09K4FDK81",
+          "filename": "B09K4FDK81.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B09K4FDK81.mp4"
+        },
+        {
+          "nombre": "iOttie Easy One Touch 4",
+          "id": "B0C1HP8N5D",
+          "filename": "B0C1HP8N5D.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0C1HP8N5D.mp4"
+        },
+        {
+          "nombre": "Garmin Speak",
+          "id": "B07RR166P1",
+          "filename": "B07RR166P1.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07RR166P1.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1788825067901_pq0wi1"
+    },
+    "generatedAt": "2026-09-07T23:51:37.829Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Garmin Speak",
+        "searchTermEn": "Garmin Speak with Alexa",
+        "id": "B07RR166P1",
+        "filename": "B07RR166P1.mp4"
+      },
+      {
+        "nombre": "Nexar Beam",
+        "searchTermEn": "Nexar Beam GPS dash cam",
+        "id": "B09K4FDK81",
+        "filename": "B09K4FDK81.mp4"
+      },
+      {
+        "nombre": "iOttie Easy One Touch 4",
+        "searchTermEn": "iOttie Easy One Touch 4 car mount",
+        "id": "B0C1HP8N5D",
+        "filename": "B0C1HP8N5D.mp4"
+      },
+      {
+        "nombre": "Lanmodo Vast Pro",
+        "searchTermEn": "Lanmodo Vast Pro night vision",
+        "id": "B093WV9C46",
+        "filename": "B093WV9C46.mp4"
+      },
+      {
+        "nombre": "FIXD Sensor Automotriz",
+        "searchTermEn": "FIXD OBD2 scanner sensor",
+        "id": "B0BY1TS725",
+        "filename": "B0BY1TS725.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 5 Gadgets Increíbles para Tu Auto\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\nMira lo que hace Lanmodo Vast Pro en acción. Mira lo que hace Nexar Beam en acción. Mira lo que hace iOttie Easy One Touch 4 en acción. Mira lo que hace Garmin Speak en acción.\n\n[25s-35s] INTRODUCTION\nLos links de compra están en el primer comentario. Empezamos.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] GARMIN SPEAK\n¿Necesitas conducir sin distracciones? Garmin Speak. Pantalla de seis punto noventa y cinco pulgadas. Alta resolución; disfruta del navegador GPS controlado por voz. Alexa integrada transforma tu auto. Solicita reproducciones de Amazon Music, agenda tus citas o consulta el clima... todo. Sin usar las manos; concéntrate en la carretera. Conecta con casa inteligente mientras conduces; controla luces y más desde tu asiento. Basta de mirar el móvil al viajar.\nSu precio actual ronda los doscientos diez dólares. Link en comentarios.\n\n[VISUALS: Product image: Garmin Speak]\n\n[0:25] NEXAR BEAM\n¿Nunca imaginaste grabar todo mientras conduces? La cámara de salpicadero Nexar Beam es la solución. Con su diseño compacto y oculto detrás del espejo retrovisor, captura video nítido en ángulo amplio de ciento treinta y cinco grados. Graba en Full HD. Detecta colisiones y frenadas bruscas, guardando clips en la nube ilimitada. Enciende el modo de estacionamiento; recibe notificaciones al más mínimo impacto. Mantén evidencias directas en tu teléfono; simple y efectivo.\nSu precio actual ronda los ciento quince dólares. Link en comentarios.\n\n[VISUALS: Product image: Nexar Beam]\n\n[0:25] IOTTIE EASY ONE TOUCH 4\n¿Tu soporte para teléfono no se adapta a todo? El iOttie Easy One Touch cuatro, con su Mecanismo Easy One Touch, sujeta cualquier teléfono al instante. Su brazo telescópico se extiende hasta ocho pulgadas y pivota doscientos sesenta grados. ¿Y qué tal un organizador de cordones integrado? Presiona los brazos; coloca el teléfono... perfectamente sujeto. Compatible con fundas de cualquier tamaño; ajustes personalizados de visualización. Con justa razón... elige un soporte universal confiable.\nSu precio actual ronda los veintisiete dólares. Link en comentarios.\n\n[VISUALS: Product image: iOttie Easy One Touch 4]\n\n[0:25] LANMODO VAST PRO\n¿Conduces de noche sin ver nada? El Lanmodo Vast Pro es tu solución. Su Visión Nocturna Doble Super ofrece imágenes claras a 0.0001 lux con sensor Sony SMOS. Enciende la pantalla FHD IPS de ocho pulgadas. Cambia de WDR a HDR. Llega hasta mil trescientos cincuenta pies de alcance; ideal para carreteras oscuras. Usa su cámara trasera impermeable IP67 sin miedo a lluvia o nieve; el G-sensor ajustable captura impactos repentinos.\nSu precio actual ronda los... 300 dólares. Link en comentarios.\n\n[VISUALS: Product image: Lanmodo Vast Pro]\n\n[0:25] FIXD SENSOR AUTOMOTRIZ\n¿Problemas con el auto que no puedes resolver? Conecta el FIXD Sensor Automotriz al puerto OBDII. Él trabaja en segundos. Pregunta: ¿Qué está mal? Responde: Todo lo necesario para tu tranquilidad. Lee códigos (DTCs). Muestra definiciones automáticamente. Información en pantalla clara. Datos en vivo desde sensores vitales como RPM y temperatura de aire. Borra fallos. Previene sorpresas en carretera o inspección. Empieza a entender más de tu motor... antes de que él te hable inesperadamente.\nSu precio actual ronda los 40 dólares. Link en comentarios.\n\n[VISUALS: Product image: FIXD Sensor Automotriz]\n\n[10 seconds] CONCLUSION\n\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 3:50\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, increbles, para, auto\n"
+}

@@ -1,0 +1,417 @@
+1
+00:00:00,000 --> 00:00:30,000
+  
+
+2
+00:00:30,000 --> 00:00:33,363
+¿Cansado de buscar tus llaves todos los días?
+
+3
+00:00:33,363 --> 00:00:36,727
+August Smart Lock Pro transforma tu cerradura tradicional
+
+4
+00:00:36,727 --> 00:00:40,090
+en una moderna maravilla tecnológica. Olvida las copias:
+
+5
+00:00:40,090 --> 00:00:43,454
+ahora, con la aplicación August, concede acceso instantáneo
+
+6
+00:00:43,454 --> 00:00:46,818
+y programado a quien elijas. Ajusta fácilmente el
+
+7
+00:00:46,818 --> 00:00:50,181
+dispositivo sobre cualquier puerta en solo 10 minutos.
+
+8
+00:00:50,181 --> 00:00:53,545
+Escucha el suave clic de tu puerta asegurándose
+
+9
+00:00:53,545 --> 00:00:56,909
+al salir con Auto-Lock, y experimenta la sensación
+
+10
+00:00:56,909 --> 00:01:00,272
+futurista del desbloqueo automático al regresar. Su precio
+
+11
+00:01:00,272 --> 00:01:03,636
+actual ronda los 300 dólares. ¡Link ya! Su
+
+12
+00:01:03,636 --> 00:01:07,000
+precio actual ronda los 300 dólares. ¡Link ya!
+
+13
+00:01:07,000 --> 00:01:10,400
+¿La misma luz aburrida cada noche? Philips Hue
+
+14
+00:01:10,400 --> 00:01:13,800
+Starter Kit transforma tu hogar con bombillas inteligentes
+
+15
+00:01:13,799 --> 00:01:17,200
+que cambian de color. Añade color a cualquier
+
+16
+00:01:17,200 --> 00:01:20,600
+habitación. Controla con voz o app desde cualquier
+
+17
+00:01:20,599 --> 00:01:24,000
+lugar. Enchufa el Hue Bridge, conecta las cuatro
+
+18
+00:01:24,000 --> 00:01:27,400
+bombillas de 75W, ilumina el ambiente. Configura escenas
+
+19
+00:01:27,400 --> 00:01:30,800
+predefinidas, desliza para efectos dinámicos. Cada lámpara mejora
+
+20
+00:01:30,799 --> 00:01:34,200
+tu ánimo y productividad sin esfuerzo. Personaliza y
+
+21
+00:01:34,200 --> 00:01:37,600
+automatiza con Matter para un hogar inteligente. Su
+
+22
+00:01:37,599 --> 00:01:41,000
+precio actual ronda los 115 dólares. ¡Link ya!
+
+23
+00:01:41,000 --> 00:01:43,909
+Nunca creíste que el control de temperatura podía
+
+24
+00:01:44,047 --> 00:01:46,956
+ser así. Google Nest Learning Thermostat, la evolución
+
+25
+00:01:47,095 --> 00:01:50,004
+más inteligente de termostato. Funciona con la mayoría
+
+26
+00:01:50,142 --> 00:01:53,051
+de los sistemas y no necesita cable C.
+
+27
+00:01:53,190 --> 00:01:56,099
+Desde tu app Google Home, ajusta la temperatura
+
+28
+00:01:56,238 --> 00:01:59,147
+desde cualquier lugar o usa comandos de voz
+
+29
+00:01:59,285 --> 00:02:02,194
+con Alexa o Siri. Mira cómo la pantalla
+
+30
+00:02:02,333 --> 00:02:05,242
+un 60% más grande te muestra el clima
+
+31
+00:02:05,380 --> 00:02:08,290
+desde lejos. Pide ajustes para ahorrar energía y
+
+32
+00:02:08,428 --> 00:02:11,337
+recíbelos al instante. Su precio actual ronda los...
+
+33
+00:02:11,476 --> 00:02:14,385
+230 dólares. ¡Link ya!
+
+34
+00:02:13,000 --> 00:02:16,500
+¿Buscas seguridad máxima con mínima instalación? Arlo Pro
+
+35
+00:02:16,500 --> 00:02:20,000
+4 Camera ofrece video en 2K HDR para
+
+36
+00:02:20,000 --> 00:02:23,500
+detalles nítidos, desde rostros hasta matrículas. Gracias a
+
+37
+00:02:23,500 --> 00:02:27,000
+su visión nocturna a color con foco, graba
+
+38
+00:02:27,000 --> 00:02:30,500
+imágenes claras después del anochecer. Simplemente instala, conecta
+
+39
+00:02:30,500 --> 00:02:34,000
+vía Wi-Fi y siente la tranquilidad. Sus alertas
+
+40
+00:02:34,000 --> 00:02:37,500
+inteligentes te notificarán de cualquier movimiento detectado, mientras
+
+41
+00:02:37,500 --> 00:02:41,000
+el audio bidireccional te permite comunicarte directamente a
+
+42
+00:02:41,000 --> 00:02:44,500
+través de la cámara para mayor control. Su
+
+43
+00:02:44,500 --> 00:02:48,000
+precio actual ronda los... 180 dólares. ¡Link ya!
+
+44
+00:02:48,000 --> 00:02:51,300
+¿Crees que todos los videoporteros son iguales? Con
+
+45
+00:02:51,341 --> 00:02:54,641
+Ring Video Doorbell 4, obtienes un 66% más
+
+46
+00:02:54,683 --> 00:02:57,983
+de cobertura vertical, ideal para vigilar tu hogar
+
+47
+00:02:58,025 --> 00:03:01,325
+o negocio. Su batería integrada se carga fácilmente
+
+48
+00:03:01,367 --> 00:03:04,667
+con USB-C. Solo desengancha y conecta. Observa cada
+
+49
+00:03:04,708 --> 00:03:08,008
+visita en vivo con Live View y habla
+
+50
+00:03:08,050 --> 00:03:11,350
+con quien toque tu puerta usando Two-Way Talk.
+
+51
+00:03:11,392 --> 00:03:14,692
+Comparado con otros costos similares, por solo 180
+
+52
+00:03:14,734 --> 00:03:18,034
+dólares, obtienes funciones de última generación. Su precio
+
+53
+00:03:18,075 --> 00:03:21,375
+actual ronda los... 180 dólares. ¡Link ya!
+
+54
+00:03:21,000 --> 00:03:24,750
+{
+  "narracion": "¿Sabías que puedes limpiar 2,000
+
+55
+00:03:25,137 --> 00:03:28,887
+pies cuadrados sin esfuerzo? El Ecovacs Deebot N79S
+
+56
+00:03:29,275 --> 00:03:33,025
+ofrece limpieza y fregado simultáneos gracias a su
+
+57
+00:03:33,413 --> 00:03:37,163
+tanque de agua de 240 ml. Además, su
+
+58
+00:03:37,551 --> 00:03:41,301
+sistema OZMO permite control preciso del agua. Presiona
+
+59
+00:03:41,689 --> 00:03:45,439
+un botón, observa cómo el Deebot escanea con
+
+60
+00:03:45,827 --> 00:03:49,577
+TrueMapp Su precio actual ronda los... 180 dólares.
+
+61
+00:03:49,965 --> 00:03:53,715
+¡Link ya!
+
+62
+00:03:51,000 --> 00:03:54,300
+¿Cansado de buscar llaves en la oscuridad? Eufy
+
+63
+00:03:54,428 --> 00:03:57,728
+Security Smart Lock ofrece desbloqueo por huella digital
+
+64
+00:03:57,857 --> 00:04:01,157
+en menos de 1.5 segundos. Con Wi-Fi integrado,
+
+65
+00:04:01,285 --> 00:04:04,585
+controla desde cualquier lugar. Desliza el dedo sobre
+
+66
+00:04:04,714 --> 00:04:08,014
+el escáner, siente la suavidad del metal mientras
+
+67
+00:04:08,142 --> 00:04:11,442
+la puerta se desbloquea sin esfuerzo. Usa su
+
+68
+00:04:11,571 --> 00:04:14,871
+aplicación para gestionar accesos o revisa notificaciones al
+
+69
+00:04:15,000 --> 00:04:18,300
+instante. Todo con una batería que dura 8
+
+70
+00:04:18,428 --> 00:04:21,728
+meses, garantizando comodidad prolongada. Su precio actual ronda
+
+71
+00:04:21,857 --> 00:04:25,157
+los 100 dólares. ¡Link ya!
+
+72
+00:04:24,000 --> 00:04:27,100
+¿Batallas con el costo de energía? Ecobee SmartThermostat
+
+73
+00:04:27,306 --> 00:04:30,406
+ahorra hasta un 26% al año. Integración energética
+
+74
+00:04:30,613 --> 00:04:33,713
+inteligente, certificada por ENERGY STAR. Coloca el SmartSensor
+
+75
+00:04:33,920 --> 00:04:37,020
+en cualquier habitación y disfrutarás confort sin puntos
+
+76
+00:04:37,226 --> 00:04:40,326
+fríos o calientes. Controla desde tu dispositivo iOS
+
+77
+00:04:40,533 --> 00:04:43,633
+o Android, y usa Siri o Alexa para
+
+78
+00:04:43,839 --> 00:04:46,939
+ajustes manos libres. Configura mientras descansas; ajusta la
+
+79
+00:04:47,146 --> 00:04:50,246
+temperatura a tu gusto desde la cama o
+
+80
+00:04:50,453 --> 00:04:53,553
+el sofá. Su precio actual ronda los 240
+
+81
+00:04:53,759 --> 00:04:56,860
+dólares. ¡Link ya!
+
+82
+00:04:55,000 --> 00:04:57,818
+¿Control total con solo tu voz? Kasa Smart
+
+83
+00:04:58,061 --> 00:05:00,879
+Plug te lo permite. Este enchufe inteligente permite
+
+84
+00:05:01,123 --> 00:05:03,941
+control por voz a través de Alexa y
+
+85
+00:05:04,185 --> 00:05:07,003
+Google Assistant. Con conexión Wi-Fi de 2.4GHz, puedes
+
+86
+00:05:07,246 --> 00:05:10,065
+enchufarlo, seguir las instrucciones en la app Kasa,
+
+87
+00:05:10,308 --> 00:05:13,126
+y tener el poder en tus manos. Enciende
+
+88
+00:05:13,370 --> 00:05:16,188
+o apaga desde cualquier lugar con tu smartphone,
+
+89
+00:05:16,432 --> 00:05:19,250
+ya sea que estés en casa o de
+
+90
+00:05:19,493 --> 00:05:22,312
+vacaciones. Programa encendidos automáticos y olvídate de preocupaciones.
+
+91
+00:05:22,555 --> 00:05:25,373
+Su precio actual ronda los 30 dólares. ¡Link
+
+92
+00:05:25,617 --> 00:05:28,435
+ya!
+
+93
+00:05:26,000 --> 00:05:28,909
+¿Cansado de perderte momentos cruciales? Wyze Cam Pan
+
+94
+00:05:29,160 --> 00:05:32,069
+descubre cada rincón con su cobertura 360° y
+
+95
+00:05:32,320 --> 00:05:35,230
+visión nocturna a color para una vigilancia total.
+
+96
+00:05:35,481 --> 00:05:38,390
+Sigue la acción, incluso de noche, gracias a
+
+97
+00:05:38,641 --> 00:05:41,551
+su sensor Starlight que ilumina escenas oscuras. Enchufa,
+
+98
+00:05:41,802 --> 00:05:44,711
+conecta y deja que siga el movimiento de
+
+99
+00:05:44,962 --> 00:05:47,872
+tu hogar. Habla desde cualquier lugar usando su
+
+100
+00:05:48,123 --> 00:05:51,032
+audio bidireccional. Presiona para activar una mini-sirena. Compatible
+
+101
+00:05:51,283 --> 00:05:54,193
+con Alexa y Google Assistant para más control.
+
+102
+00:05:54,444 --> 00:05:57,353
+Su precio actual ronda los... 42 dólares. ¡Link
+
+103
+00:05:57,604 --> 00:06:00,514
+ya!
+
+104
+00:05:58,000 --> 00:06:28,000
+ 
+

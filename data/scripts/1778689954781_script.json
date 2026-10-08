@@ -1,0 +1,420 @@
+{
+  "title": "Top 3 Computadoras Avanzadas en Amazon",
+  "hook": {
+    "type": "statement",
+    "text": "¿Cabe en tu bolsillo? ¿Pantalla OLED ultra vibrante?",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "Todo está en el primer comentario. Vamos.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0:10-0:15"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Framework Laptop 13",
+        "productId": "B0FS9WHNQJ",
+        "productName": "Framework Laptop 13",
+        "filename": "B0FS9WHNQJ.mp4",
+        "asin": "B0FS9WHNQJ",
+        "clipDuration": 15,
+        "estimatedAudioSeconds": 10,
+        "framework": "dato_numerico",
+        "narracionSegments": null,
+        "content": [
+          "-Un portátil con RAM ampliable- que tú controlas inclusivamente.",
+          "Su precio actual en Amazon ronda los... Revisa el enlace. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Framework Laptop 13"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0FS9WHNQJ_combined.mp4",
+        "precio": "Revisa el enlace",
+        "productPhoto": "https://m.media-amazon.com/images/I/71rLpZlR5hL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": []
+      },
+      {
+        "type": "content",
+        "title": "GPD Pocket 3",
+        "productId": "B0G47H8RM6",
+        "productName": "GPD Pocket 3",
+        "filename": "B0G47H8RM6.mp4",
+        "asin": "B0G47H8RM6",
+        "clipDuration": 60.17,
+        "estimatedAudioSeconds": 80,
+        "framework": "experiencia_sensorial",
+        "narracionSegments": null,
+        "content": [
+          "-Ligereza extrema- y diseño compacto, este portátil es más pequeño que un teléfono pero ofrece un increíble desempeño. Con un peso de solo 0.7 kg puedes usarlo desde tu bolsillo. Disfruta de enfriamiento activo con tuberías de calor de cobre puro, asegurando temperaturas confortables al toque humano. Explora hasta 8 horas de batería mientras navegas por la web, juegas o ves videos. Su estructura CNC de aleación de aluminio integra una pantalla FHD completa, demostrando su impecable desempeño ganador del Premio al Diseño Red Dot.",
+          "Su precio actual en Amazon ronda los... 1500 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: GPD Pocket 3"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0G47H8RM6_combined.mp4",
+        "precio": "$1500",
+        "productPhoto": "https://m.media-amazon.com/images/I/71UnnmnPZdL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "[Lighter, thinner, and smaller] A size similar to that of a cell phone and only 0.7kg in weight.Put it in your pocket at any time and use it at anywhere",
+          "[Active cooling]Built-in pure-copper heat pipe, large-diameter heat output pipeline,and increased fan power drive, keeping the machine body within the 35°C temperature range acceptable by human body",
+          "[6-8 hour long battery life]Pocket offers longer battery life. Whether you're surfing the Internet, playing games, or watching videos,Pocket is enough",
+          "[Compact body, outstanding performance]The CNC integrated aluminum alloy body, all-fit FHD screen,German Red Dot Design Award"
+        ]
+      },
+      {
+        "type": "content",
+        "title": "ASUS ZenBook 14X OLED",
+        "productId": "B0FPWWP83J",
+        "productName": "ASUS ZenBook 14X OLED",
+        "filename": "B0FPWWP83J.mp4",
+        "asin": "B0FPWWP83J",
+        "clipDuration": 107.51,
+        "estimatedAudioSeconds": 104,
+        "framework": "problema_solucion",
+        "narracionSegments": null,
+        "content": [
+          "-Una batería que se agota demasiado rápido- es frustrante, ¿verdad? Aquí entra el ASUS ZenBook 14X OLED como solución definitiva. Este dispositivo ultraportátil maximiza tu día con su batería de larga duración y procesador Intel Core Ultra para eficiencia optimizada. Sumérgete visualmente gracias a su pantalla táctil OLED de ASUS Lumina y altavoces superlineales potentes. La conectividad sin esfuerzos está asegurada con puertos HDMI y Thunderbolt para expandir tu espacio visual profesionalmente sin complicaciones extra.",
+          "-Su precio actual en Amazon ronda los... 1550 dólares-. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: ASUS ZenBook 14X OLED"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0FPWWP83J_combined.mp4",
+        "precio": "$1550",
+        "productPhoto": "https://m.media-amazon.com/images/I/61wwUozxWvL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FPWWP83J\\scenes_v1\\B0FPWWP83J_scene_05.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "laptop portátil",
+            "raw": "9|laptop portátil"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FPWWP83J\\scenes_v1\\B0FPWWP83J_scene_08.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "laptop abierta",
+            "raw": "9|laptop abierta"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FPWWP83J\\scenes_v1\\B0FPWWP83J_scene_14.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Laptop OLED",
+            "raw": "9|Laptop OLED"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FPWWP83J\\scenes_v1\\B0FPWWP83J_scene_15.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Puertos visibles",
+            "raw": "9|Puertos visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FPWWP83J\\scenes_v1\\B0FPWWP83J_scene_16.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "pantalla encendida",
+            "raw": "9|pantalla encendida"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FPWWP83J\\scenes_v1\\B0FPWWP83J_scene_20.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "pantalla encendida",
+            "raw": "9|pantalla encendida"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FPWWP83J\\scenes_v1\\B0FPWWP83J_scene_21.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción teclado",
+            "raw": "9|interacción teclado"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FPWWP83J\\scenes_v1\\B0FPWWP83J_scene_22.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "laptop OLED",
+            "raw": "9|laptop OLED"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FPWWP83J\\scenes_v1\\B0FPWWP83J_scene_23.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "laptop en acción",
+            "raw": "9|laptop en acción"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FPWWP83J\\scenes_v1\\B0FPWWP83J_scene_24.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Zenbook OLED",
+            "raw": "9|Zenbook OLED"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FPWWP83J\\scenes_v3\\B0FPWWP83J_photos_combined_scene_01.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "pantalla encendida",
+            "raw": "9|pantalla encendida"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FPWWP83J\\scenes_v3\\B0FPWWP83J_photos_combined_scene_05.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "pantalla encendida",
+            "raw": "9|pantalla encendida"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FPWWP83J\\scenes_v1\\B0FPWWP83J_scene_03.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Zenbook OLED",
+            "raw": "8|Zenbook OLED"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FPWWP83J\\scenes_v1\\B0FPWWP83J_scene_01.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Zenbook OLED",
+            "raw": "8|Zenbook OLED"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FPWWP83J\\scenes_v1\\B0FPWWP83J_scene_06.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Zenbook 14",
+            "raw": "8|Zenbook 14"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FPWWP83J\\scenes_v1\\B0FPWWP83J_scene_13.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "laptops elegantes",
+            "raw": "8|laptops elegantes"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FPWWP83J\\scenes_v2\\B0FPWWP83J_v2_scene_04.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Zenbook OLED",
+            "raw": "8|Zenbook OLED"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FPWWP83J\\scenes_v3\\B0FPWWP83J_photos_combined_scene_02.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Zenbook OLED",
+            "raw": "8|Zenbook OLED"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FPWWP83J\\scenes_v3\\B0FPWWP83J_photos_combined_scene_03.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "producto claro",
+            "raw": "8|producto claro"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FPWWP83J\\scenes_v3\\B0FPWWP83J_photos_combined_scene_04.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Zenbook OLED",
+            "raw": "8|Zenbook OLED"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FPWWP83J\\scenes_v3\\B0FPWWP83J_photos_combined_scene_06.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Zenbook 14 OLED",
+            "raw": "8|Zenbook 14 OLED"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FPWWP83J\\scenes_v3\\B0FPWWP83J_photos_combined_scene_07.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "puertos visibles",
+            "raw": "8|puertos visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FPWWP83J\\scenes_v1\\B0FPWWP83J_scene_02.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "producto pequeño",
+            "raw": "5|producto pequeño"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FPWWP83J\\scenes_v1\\B0FPWWP83J_scene_04.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "producto borroso",
+            "raw": "5|producto borroso"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FPWWP83J\\scenes_v1\\B0FPWWP83J_scene_07.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "laptop parcial",
+            "raw": "5|laptop parcial"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FPWWP83J\\scenes_v1\\B0FPWWP83J_scene_09.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "producto pequeño",
+            "raw": "5|producto pequeño"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FPWWP83J\\scenes_v2\\B0FPWWP83J_v2_scene_02.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "teclado portátil",
+            "raw": "5|teclado portátil"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FPWWP83J\\scenes_v3\\B0FPWWP83J_photos_combined_scene_09.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "producto pequeño",
+            "raw": "5|producto pequeño"
+          }
+        ],
+        "features": [
+          "PREMIUM PORTABILITY - Go the extra mile with the remarkably sleek Zenbook 14 OLED — the ultimate ultraportable laptop. Seize every moment using the enhanced extended-life battery, amplify your efficiency with the top-tier Intel Core Ultra processor Series 2, and achieve seamless connectivity via all the essential ports. Immerse your senses in the vivid ASUS Lumina OLED touchscreen and powerful new Super-linear speakers, while embracing the eco-elegance of the environmentally conscious design",
+          "POWERFUL PERFORMANCE - Powered by Intel Core Ultra 9 285H processor, with 16 cores, achieving superior efficiency and speed, the integrated NPU AI supports artificial intelligence technology, and AI-based apps will run more smoothly. Equipped with 32GB of DDR5 RAM for seamless multitasking, and a 1TB PCIe NVMe M.2 SSD for fast storage and reduced load times, ensuring smooth and responsive performance for all your tasks",
+          "CRISP DISPLAY & PRIVACY - Features a FHD IR webcam with privacy shutter for crystal-clear video calls and enhanced security, while the 14\" WUXGA (1920 x 1200) OLED 500nits 100% DCI-P3 touchscreen display with Intel Arc graphics delivers crisp visuals, supported by the ability to connect 3 external monitors via HDMI and Thunderbolt 4 ports at 4K (3840x2160) @60Hz (without docking station)",
+          "VERSATILE CONNECTIVITY - Features a backlit keyboard for enhanced productivity. Equipped with 2 x Thunderbolt 4 (support for display / power delivery), USB 3.2 Gen 1 Type-A, HDMI 2.1 TMDS and an Audio combo jack for versatile connectivity. Includes Wi-Fi 7(802.11be) and Bluetooth 5.4 for fast, reliable wireless performance",
+          "OPERATING SYSTEM - Windows 11 Professional 64-bit, with AI-powered Copilot, offers intelligent assistance for a variety of tasks. Ideal for School Education, Designers, Professionals, Small Business, Programmers, Casual Gaming, Streaming, Online Class, Remote Learning, Zoom Meeting, Video Conference, etc"
+        ]
+      }
+    ],
+    "totalDuration": 75
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "-Danos like- y recuerda que los links están en el primer comentario."
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:45",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "computadoras",
+    "avanzadas",
+    "amazon"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 3 Computadoras Avanzadas en Amazon",
+      "angle": "Top 3 Computadoras Avanzadas en Amazon",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 3,
+      "introScript": "¿Un ordenador que cabe en tu mano y tiene la potencia de un titan? ¿Una laptop que se carga con energía solar? Prepárate para descubrir las computadoras más avanzadas y sorprendentes que puedes comprar ahora mismo en Amazon.",
+      "keywords": [
+        "computadoras",
+        "avanzadas",
+        "amazon"
+      ],
+      "estimatedViews": 6377,
+      "bestPublishTime": "2026-05-14T19:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Framework Laptop 13",
+          "searchTermEn": "Framework Laptop 13 modular",
+          "id": "B0FS9WHNQJ",
+          "filename": "B0FS9WHNQJ.mp4"
+        },
+        {
+          "nombre": "GPD Pocket 3",
+          "searchTermEn": "GPD Pocket 3 mini laptop",
+          "id": "B0G47H8RM6",
+          "filename": "B0G47H8RM6.mp4"
+        },
+        {
+          "nombre": "ASUS ZenBook 14X OLED",
+          "searchTermEn": "ASUS ZenBook 14X OLED touchscreen",
+          "id": "B0FPWWP83J",
+          "filename": "B0FPWWP83J.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-05-13T16:23:37.971Z",
+      "_requestedCount": 3,
+      "_adaptedCount": 3,
+      "introProductsOrder": [
+        {
+          "nombre": "GPD Pocket 3",
+          "id": "B0G47H8RM6",
+          "filename": "B0G47H8RM6_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0G47H8RM6_combined.mp4"
+        },
+        {
+          "nombre": "ASUS ZenBook 14X OLED",
+          "id": "B0FPWWP83J",
+          "filename": "B0FPWWP83J_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0FPWWP83J_combined.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1778689893396_v1wd7s"
+    },
+    "generatedAt": "2026-05-13T16:31:54.633Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Framework Laptop 13",
+        "searchTermEn": "Framework Laptop 13 modular",
+        "id": "B0FS9WHNQJ",
+        "filename": "B0FS9WHNQJ.mp4"
+      },
+      {
+        "nombre": "GPD Pocket 3",
+        "searchTermEn": "GPD Pocket 3 mini laptop",
+        "id": "B0G47H8RM6",
+        "filename": "B0G47H8RM6.mp4"
+      },
+      {
+        "nombre": "ASUS ZenBook 14X OLED",
+        "searchTermEn": "ASUS ZenBook 14X OLED touchscreen",
+        "id": "B0FPWWP83J",
+        "filename": "B0FPWWP83J.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 3 Computadoras Avanzadas en Amazon\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\n¿Cabe en tu bolsillo? ¿Pantalla OLED ultra vibrante?\n\n[0:10-0:15] INTRODUCTION\nTodo está en el primer comentario. Vamos.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] FRAMEWORK LAPTOP 13\n-Un portátil con RAM ampliable- que tú controlas inclusivamente.\nSu precio actual en Amazon ronda los... Revisa el enlace. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Framework Laptop 13]\n\n[0:25] GPD POCKET 3\n-Ligereza extrema- y diseño compacto, este portátil es más pequeño que un teléfono pero ofrece un increíble desempeño. Con un peso de solo 0.7 kg puedes usarlo desde tu bolsillo. Disfruta de enfriamiento activo con tuberías de calor de cobre puro, asegurando temperaturas confortables al toque humano. Explora hasta 8 horas de batería mientras navegas por la web, juegas o ves videos. Su estructura CNC de aleación de aluminio integra una pantalla FHD completa, demostrando su impecable desempeño ganador del Premio al Diseño Red Dot.\nSu precio actual en Amazon ronda los... 1500 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: GPD Pocket 3]\n\n[0:25] ASUS ZENBOOK 14X OLED\n-Una batería que se agota demasiado rápido- es frustrante, ¿verdad? Aquí entra el ASUS ZenBook 14X OLED como solución definitiva. Este dispositivo ultraportátil maximiza tu día con su batería de larga duración y procesador Intel Core Ultra para eficiencia optimizada. Sumérgete visualmente gracias a su pantalla táctil OLED de ASUS Lumina y altavoces superlineales potentes. La conectividad sin esfuerzos está asegurada con puertos HDMI y Thunderbolt para expandir tu espacio visual profesionalmente sin complicaciones extra.\n-Su precio actual en Amazon ronda los... 1550 dólares-. ¡Link en el primer comentario!\n\n[VISUALS: Product image: ASUS ZenBook 14X OLED]\n\n[10 seconds] CONCLUSION\n-Danos like- y recuerda que los links están en el primer comentario.\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:45\nTONE: engaging\nPACING: quick\nKEYWORDS: computadoras, avanzadas, amazon\n"
+}

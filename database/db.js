@@ -318,7 +318,14 @@ class Database {
       `INSERT INTO productions (
         id, status, assets, timeline, scheduled_publish_time, 
         priority, estimated_duration
-      ) VALUES (?, ?, ?, ?, ?, ?, ?)`,
+      ) VALUES (?, ?, ?, ?, ?, ?, ?)
+      ON CONFLICT(id) DO UPDATE SET
+        status = excluded.status,
+        assets = excluded.assets,
+        timeline = excluded.timeline,
+        scheduled_publish_time = excluded.scheduled_publish_time,
+        priority = excluded.priority,
+        estimated_duration = excluded.estimated_duration`,
       [
         production.id,
         production.status,
@@ -329,6 +336,7 @@ class Database {
         production.estimatedDuration
       ]
     );
+    return production.id;
   }
 
   async updateProductionData(production) {
@@ -640,6 +648,141 @@ class Database {
       return `${(stats.size / 1024 / 1024).toFixed(2)} MB`;
     } catch (error) {
       return 'Unknown';
+    }
+  }
+
+  // ═══════════════════════════════════════════════════════════════════════
+  // MEMORIA DUAL: Historial de Productos & Patrones de Éxito
+  // ═══════════════════════════════════════════════════════════════════════
+
+  /**
+   * Carga historial de productos usados (lista negra)
+   * @returns {Promise<Array>} Array de {productName, category, publishDate, youtubeUrl}
+   */
+  async getUsedProductsHistory() {
+    try {
+      const historyFile = path.join(__dirname, '..', 'data', 'used_products_history.json');
+      if (!require('fs').existsSync(historyFile)) {
+        return [];
+      }
+      const data = await fs.readFile(historyFile, 'utf8');
+      return JSON.parse(data) || [];
+    } catch (error) {
+      this.logger.warn('Error loading used products history:', error.message);
+      return [];
+    }
+  }
+
+  /**
+   * Agrega un producto al historial tras publicación exitosa
+   * @param {Object} productData {productName, category, youtubeUrl, youtubeId}
+   * @returns {Promise<void>}
+   */
+  async addProductToHistory(productData) {
+    try {
+      const historyFile = path.join(__dirname, '..', 'data', 'used_products_history.json');
+      const history = await this.getUsedProductsHistory();
+      
+      const entry = {
+        productName: productData.productName || productData.nombre || 'Unknown',
+        category: productData.category || 'general',
+        publishDate: new Date().toISOString(),
+        youtubeUrl: productData.youtubeUrl || '',
+        youtubeId: productData.youtubeId || '',
+        title: productData.title || ''
+      };
+      
+      history.push(entry);
+      
+      // Limit to last 500 entries to prevent file bloat
+      if (history.length > 500) {
+        history.shift();
+      }
+      
+      await fs.writeFile(historyFile, JSON.stringify(history, null, 2), 'utf8');
+      this.logger.info(`✓ Added product to history: ${entry.productName}`);
+    } catch (error) {
+      this.logger.error('Error adding product to history:', error.message);
+    }
+  }
+
+  /**
+   * Carga patrones ganadores (categorías de alto desempeño)
+   * @returns {Promise<Object>} {topCategories: [], avgEngagement: {}, topPerformers: []}
+   */
+  async getWinningPatterns() {
+    try {
+      const patternsFile = path.join(__dirname, '..', 'data', 'winning_patterns.json');
+      if (!require('fs').existsSync(patternsFile)) {
+        return { topCategories: [], avgEngagement: {}, topPerformers: [] };
+      }
+      const data = await fs.readFile(patternsFile, 'utf8');
+      return JSON.parse(data) || { topCategories: [], avgEngagement: {}, topPerformers: [] };
+    } catch (error) {
+      this.logger.warn('Error loading winning patterns:', error.message);
+      return { topCategories: [], avgEngagement: {}, topPerformers: [] };
+    }
+  }
+
+  /**
+   * Actualiza patrones ganadores basado en historial de productos
+   * Analiza categorías más frecuentes y asume son "ganadoras"
+   * @param {Object} analyticsData Optional analytics para calcular engagement
+   * @returns {Promise<void>}
+   */
+  async updateWinningPatterns(analyticsData = {}) {
+    try {
+      const history = await this.getUsedProductsHistory();
+      
+      // Count categories
+      const categoryFreq = {};
+      history.forEach(item => {
+        const cat = item.category || 'general';
+        categoryFreq[cat] = (categoryFreq[cat] || 0) + 1;
+      });
+      
+      const topCategories = Object.entries(categoryFreq)
+        .sort((a, b) => b[1] - a[1])
+        .slice(0, 10)
+        .map(([cat, freq]) => ({ category: cat, frequency: freq }));
+      
+      // Build top performers list (last 10 successful products)
+      const topPerformers = history
+        .slice(-10)
+        .reverse()
+        .map(item => ({
+          productName: item.productName,
+          category: item.category,
+          publishDate: item.publishDate
+        }));
+      
+      const patterns = {
+        topCategories: topCategories,
+        avgEngagement: analyticsData || {},
+        topPerformers: topPerformers,
+        lastUpdated: new Date().toISOString(),
+        totalProductsPublished: history.length
+      };
+      
+      const patternsFile = path.join(__dirname, '..', 'data', 'winning_patterns.json');
+      await fs.writeFile(patternsFile, JSON.stringify(patterns, null, 2), 'utf8');
+      this.logger.info(`✓ Updated winning patterns: ${topCategories.length} categories tracked`);
+    } catch (error) {
+      this.logger.error('Error updating winning patterns:', error.message);
+    }
+  }
+
+  /**
+   * Obtiene lista de nombres de productos ya publicados (para comparación)
+   * @returns {Promise<Set<String>>} Set de nombres de productos usados
+   */
+  async getUsedProductNames() {
+    try {
+      const history = await this.getUsedProductsHistory();
+      return new Set(history.map(item => item.productName.toLowerCase().trim()));
+    } catch (error) {
+      this.logger.error('Error getting used product names:', error.message);
+      return new Set();
     }
   }
 }

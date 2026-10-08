@@ -1,0 +1,564 @@
+{
+  "title": "Las 3 Mejores Laptops Futuristas para Comprar",
+  "hook": {
+    "type": "statement",
+    "text": "Pantalla dual para multitarea perfecta. Procesador ultrarrápido para eficiencia máxima.",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "¿Cuál de estas te gustaría? Encuentra los links en el primer comentario.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0:10-0:15"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Dell XPS 13 Plus",
+        "productId": "B0FC2KXZZ2",
+        "productName": "Dell XPS 13 Plus",
+        "filename": "B0FC2KXZZ2.mp4",
+        "asin": "B0FC2KXZZ2",
+        "clipDuration": 68.2,
+        "estimatedAudioSeconds": 73,
+        "framework": "dato_numerico",
+        "narracionSegments": null,
+        "content": [
+          "Con la impresionante potencia del Snapdragon X Plus, el Dell XPS 13 Plus redefine la eficiencia. Equipado con 8 núcleos que alcanzan hasta 3.2GHz y capacidad para soportar múltiples monitores, este portátil garantiza un rendimiento sin precedentes. Además, su batería de larga duración te acompañará durante días, ofreciendo una experiencia incomparable en diseñadores y creadores. Expande tus horizontes creativos con esta increíble máquina.",
+          "Su precio actual en Amazon ronda los... 1300 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Dell XPS 13 Plus"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0FC2KXZZ2_combined.mp4",
+        "precio": "$1300",
+        "productPhoto": "https://m.media-amazon.com/images/I/71Nr-5xBFvL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FC2KXZZ2\\scenes_v1\\B0FC2KXZZ2_scene_02.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FC2KXZZ2\\scenes_v1\\B0FC2KXZZ2_scene_04.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FC2KXZZ2\\scenes_v1\\B0FC2KXZZ2_scene_05.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FC2KXZZ2\\scenes_v1\\B0FC2KXZZ2_scene_06.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FC2KXZZ2\\scenes_v1\\B0FC2KXZZ2_scene_07.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FC2KXZZ2\\scenes_v1\\B0FC2KXZZ2_scene_08.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "pantalla encendida",
+            "raw": "9|pantalla encendida"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FC2KXZZ2\\scenes_v1\\B0FC2KXZZ2_scene_09.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "pantalla encendida",
+            "raw": "9|pantalla encendida"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FC2KXZZ2\\scenes_v2\\B0FC2KXZZ2_v2_scene_01.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Laptop encendida",
+            "raw": "9|Laptop encendida"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FC2KXZZ2\\scenes_v2\\B0FC2KXZZ2_v2_scene_02.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FC2KXZZ2\\scenes_v3\\B0FC2KXZZ2_v3_scene_01.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FC2KXZZ2\\scenes_v3\\B0FC2KXZZ2_v3_scene_02.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "pantalla encendida",
+            "raw": "5|pantalla encendida"
+          }
+        ],
+        "features": [
+          "The first Copilot+ XPS has powerful, on-device AI that delivers cutting-edge responsiveness and unmatched speed for navigating demanding multitasking workloads, enhanced security and efficiency in our thinnest and lightest XPS. The XPS 13 powered by Snapdragon X Plus, effortlessly tackles complex workloads and offers groundbreaking multi-day[2] battery life; the longest runtime in its class",
+          "Snapdragon X Plus (8 Core up to 3.2GHz, NPU up to 45 TOPS) X1P-42-100; 16GB LPDDR5x 8448 MT/s RAM, 1TB PCIe NVMe M.2 SSD. Dell XPS 13 impresses with Snapdragon Plus X CPU for sleek design, vibrant display, and strong performance. Create like never before with XPS 13.",
+          "13.4\", Non-Touch, FHD+ 1920x1200, 30-120Hz, Anti-Glare, 500 nit, InfinityEdge; Integrated Qualcomm Adreno GPU, Excellent performance powered by Graphics; Expandable to 2 x 4K UHD monitors via USB-C 4 Ports",
+          "Qualcomm FastConnect 7800 Wi-Fi 7 2x2 + Bluetooth 5.4 Wireless Card; 2 x USB4 40Gbps USB Type-C with DisplayPort and Power Delivery (Thunderbolt 3 Technology)",
+          "Security Solutions: McAfee+ Premium 1-year, Fingerprint Reader, 1080P IR Webcam for facial recognition"
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Lenovo Yoga 9i",
+        "productId": "B0F3WWNXRZ",
+        "productName": "Lenovo Yoga 9i",
+        "filename": "B0F3WWNXRZ.mp4",
+        "asin": "B0F3WWNXRZ",
+        "clipDuration": 78.75,
+        "estimatedAudioSeconds": 79,
+        "framework": "experiencia_sensorial",
+        "narracionSegments": null,
+        "content": [
+          "La claridad visual del Lenovo Yoga 9i es simplemente espectacular. Su pantalla antirreflejos reduce las distracciones mientras su revestimiento anti-huellas mantiene la limpieza impecable incluso tras largas sesiones de uso. Este portátil transforma cada interacción en una experiencia sensorial única gracias a su acabado mate que mejora drásticamente la visibilidad general. Experimenta una calidad visual superior cada vez que lo uses.",
+          "Su precio actual en Amazon ronda los... 1799 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Lenovo Yoga 9i"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0F3WWNXRZ_combined.mp4",
+        "precio": "$1799",
+        "productPhoto": "https://m.media-amazon.com/images/I/71knwoOJQuL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0F3WWNXRZ\\scenes_v1\\B0F3WWNXRZ_scene_03.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Protector pantalla",
+            "raw": "9|Protector pantalla"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0F3WWNXRZ\\scenes_v1\\B0F3WWNXRZ_scene_04.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Protector pantalla",
+            "raw": "9|Protector pantalla"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0F3WWNXRZ\\scenes_v1\\B0F3WWNXRZ_scene_05.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Protector pantalla",
+            "raw": "9|Protector pantalla"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0F3WWNXRZ\\scenes_v1\\B0F3WWNXRZ_scene_06.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Protector pantalla",
+            "raw": "9|Protector pantalla"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0F3WWNXRZ\\scenes_v2\\B0F3WWNXRZ_photos_combined_scene_01.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Protector de pantalla",
+            "raw": "9|Protector de pantalla"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0F3WWNXRZ\\scenes_v2\\B0F3WWNXRZ_photos_combined_scene_05.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Protector de pantalla",
+            "raw": "9|Protector de pantalla"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0F3WWNXRZ\\scenes_v2\\B0F3WWNXRZ_photos_combined_scene_06.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Protector pantalla",
+            "raw": "9|Protector pantalla"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0F3WWNXRZ\\scenes_v1\\B0F3WWNXRZ_scene_02.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Protector pantalla",
+            "raw": "8|Protector pantalla"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0F3WWNXRZ\\scenes_v1\\B0F3WWNXRZ_scene_01.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "protector pantalla",
+            "raw": "8|protector pantalla"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0F3WWNXRZ\\scenes_v2\\B0F3WWNXRZ_photos_combined_scene_04.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Protector de pantalla",
+            "raw": "8|Protector de pantalla"
+          }
+        ],
+        "features": [
+          "Compatible with the Devices: Screen Protector for New 2026 2025 New Lenovo Yoga 9i Aura Edition 2-in-1 14-Inch Gen 11 Gen 10 14ILL10 14IPH11 Laptop, Please double-check your device model to avoid buying the wrong one !",
+          "Attention: (NOT Fitting Any Other Sizes or Models)-",
+          "Anti-Glare Coating: This screen protector features a matte finish that reduces glare and reflections for improved visibility.",
+          "Fingerprint Resistance: The anti-fingerprint coating helps keep the screen clean and smudge-free for a clearer viewing experience.",
+          "Scratch Protection: The durable material safeguards your screen against scratches, scuffs, and daily wear and tear."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "ASUS ZenBook Duo",
+        "productId": "B0GG9PP6ZN",
+        "productName": "ASUS ZenBook Duo",
+        "filename": "B0GG9PP6ZN.mp4",
+        "asin": "B0GG9PP6ZN",
+        "clipDuration": 99.57,
+        "estimatedAudioSeconds": 99,
+        "framework": "problema_solucion",
+        "narracionSegments": null,
+        "content": [
+          "-¿Cansado- de cambiar constantemente entre programas? El ASUS ZenBook Duo resuelve este inconveniente con su innovadora pantalla dual, optimizando tu flujo de trabajo como nunca antes. Su protector de pantalla con dureza 9H salvaguarda tu dispositivo de arañazos e impactos, brindando tranquilidad total mientras te permite disfrutar una claridad visual impecable.",
+          "-¿Quién no quiere maximizar su productividad?- Su precio actual en Amazon ronda los... 2482 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: ASUS ZenBook Duo"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0GG9PP6ZN_combined.mp4",
+        "precio": "$2482",
+        "productPhoto": "https://m.media-amazon.com/images/I/71q9IG13jiL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GG9PP6ZN\\scenes_v1\\B0GG9PP6ZN_scene_05.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Protector de pantalla",
+            "raw": "9|Protector de pantalla"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GG9PP6ZN\\scenes_v1\\B0GG9PP6ZN_scene_07.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Interacción clara",
+            "raw": "9|Interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GG9PP6ZN\\scenes_v1\\B0GG9PP6ZN_scene_10.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Interacción pantalla",
+            "raw": "9|Interacción pantalla"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GG9PP6ZN\\scenes_v1\\B0GG9PP6ZN_scene_09.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Interacción clara",
+            "raw": "9|Interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GG9PP6ZN\\scenes_v1\\B0GG9PP6ZN_scene_12.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Interacción pantalla",
+            "raw": "9|Interacción pantalla"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GG9PP6ZN\\scenes_v1\\B0GG9PP6ZN_scene_14.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Protector de pantalla",
+            "raw": "9|Protector de pantalla"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GG9PP6ZN\\scenes_v1\\B0GG9PP6ZN_scene_15.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Interacción pantalla",
+            "raw": "9|Interacción pantalla"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GG9PP6ZN\\scenes_v1\\B0GG9PP6ZN_scene_17.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Interacción pantalla",
+            "raw": "9|Interacción pantalla"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GG9PP6ZN\\scenes_v1\\B0GG9PP6ZN_scene_18.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Protector de pantalla",
+            "raw": "9|Protector de pantalla"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GG9PP6ZN\\scenes_v1\\B0GG9PP6ZN_scene_16.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Interacción pantalla",
+            "raw": "9|Interacción pantalla"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GG9PP6ZN\\scenes_v1\\B0GG9PP6ZN_scene_19.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Protector pantalla",
+            "raw": "9|Protector pantalla"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GG9PP6ZN\\scenes_v1\\B0GG9PP6ZN_scene_21.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Interacción pantalla",
+            "raw": "9|Interacción pantalla"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GG9PP6ZN\\scenes_v1\\B0GG9PP6ZN_scene_20.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Protector de pantalla",
+            "raw": "9|Protector de pantalla"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GG9PP6ZN\\scenes_v1\\B0GG9PP6ZN_scene_22.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Protector de pantalla",
+            "raw": "9|Protector de pantalla"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GG9PP6ZN\\scenes_v1\\B0GG9PP6ZN_scene_04.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Protector de pantalla",
+            "raw": "8|Protector de pantalla"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GG9PP6ZN\\scenes_v1\\B0GG9PP6ZN_scene_08.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Protector de pantalla",
+            "raw": "8|Protector de pantalla"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GG9PP6ZN\\scenes_v1\\B0GG9PP6ZN_scene_23.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Protector pantalla",
+            "raw": "8|Protector pantalla"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GG9PP6ZN\\scenes_v2\\B0GG9PP6ZN_photos_combined_scene_01.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Protector de pantalla",
+            "raw": "8|Protector de pantalla"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GG9PP6ZN\\scenes_v2\\B0GG9PP6ZN_photos_combined_scene_03.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Protector de pantalla",
+            "raw": "8|Protector de pantalla"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GG9PP6ZN\\scenes_v2\\B0GG9PP6ZN_photos_combined_scene_04.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Protector de pantalla",
+            "raw": "8|Protector de pantalla"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GG9PP6ZN\\scenes_v2\\B0GG9PP6ZN_photos_combined_scene_05.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Laptop visible",
+            "raw": "8|Laptop visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GG9PP6ZN\\scenes_v2\\B0GG9PP6ZN_photos_combined_scene_06.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Protector de pantalla",
+            "raw": "8|Protector de pantalla"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GG9PP6ZN\\scenes_v1\\B0GG9PP6ZN_scene_06.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "producto pequeño",
+            "raw": "5|producto pequeño"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GG9PP6ZN\\scenes_v1\\B0GG9PP6ZN_scene_11.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "Protector de pantalla",
+            "raw": "5|Protector de pantalla"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GG9PP6ZN\\scenes_v1\\B0GG9PP6ZN_scene_13.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "producto pequeño",
+            "raw": "5|producto pequeño"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GG9PP6ZN\\scenes_v1\\B0GG9PP6ZN_scene_25.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "pantalla laptop",
+            "raw": "5|pantalla laptop"
+          }
+        ],
+        "features": [
+          "Compatible with the Devices: Screen Protector for New 2026 ASUS Zenbook Duo UX8407 2-in-1 Laptop Dual 14-Inch, Please double-check your device model to avoid buying the wrong one !",
+          "Attention: (NOT Fitting Any Other Sizes or Models)-",
+          "9H Hardness Rating: Boasting a 9H hardness rating, it effectively protects your laptop screen from scratches and impacts.",
+          "Ultra Clarity: This tempered glass screen protector offers crystal clear transparency for optimal viewing experience.",
+          "Scratch Resistant: The ultra-tough surface ensures long-lasting protection against daily wear and tear."
+        ]
+      }
+    ],
+    "totalDuration": 75
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "-¡No olvides dar like y chequear los links que están en el primer comentario!"
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:45",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "laptop",
+    "futuristas",
+    "puedes",
+    "comprar"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 3 Laptop Futuristas que Puedes Comprar",
+      "angle": "Top 3 Laptop Futuristas que Puedes Comprar",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 3,
+      "introScript": "¿Una laptop que se carga inalámbricamente? ¿Otra que se convierte en tablet al instante? Prepárate para descubrir las laptops más innovadoras y sorprendentes que puedes tener en tus manos ahora mismo.",
+      "keywords": [
+        "laptop",
+        "futuristas",
+        "puedes",
+        "comprar"
+      ],
+      "estimatedViews": 6422,
+      "bestPublishTime": "2026-05-15T20:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Dell XPS 13 Plus",
+          "searchTermEn": "Dell XPS 13 Plus laptop",
+          "id": "B0FC2KXZZ2",
+          "filename": "B0FC2KXZZ2.mp4"
+        },
+        {
+          "nombre": "Lenovo Yoga 9i",
+          "searchTermEn": "Lenovo Yoga 9i 2-in-1",
+          "id": "B0F3WWNXRZ",
+          "filename": "B0F3WWNXRZ.mp4"
+        },
+        {
+          "nombre": "ASUS ZenBook Duo",
+          "searchTermEn": "ASUS ZenBook Duo dual screen",
+          "id": "B0GG9PP6ZN",
+          "filename": "B0GG9PP6ZN.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-05-14T22:51:48.012Z",
+      "_requestedCount": 3,
+      "_adaptedCount": 3,
+      "introProductsOrder": [
+        {
+          "nombre": "ASUS ZenBook Duo",
+          "id": "B0GG9PP6ZN",
+          "filename": "B0GG9PP6ZN_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0GG9PP6ZN_combined.mp4"
+        },
+        {
+          "nombre": "Dell XPS 13 Plus",
+          "id": "B0FC2KXZZ2",
+          "filename": "B0FC2KXZZ2_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0FC2KXZZ2_combined.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1778799783172_1dqr7f"
+    },
+    "generatedAt": "2026-05-14T23:03:24.643Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Dell XPS 13 Plus",
+        "searchTermEn": "Dell XPS 13 Plus laptop",
+        "id": "B0FC2KXZZ2",
+        "filename": "B0FC2KXZZ2.mp4"
+      },
+      {
+        "nombre": "Lenovo Yoga 9i",
+        "searchTermEn": "Lenovo Yoga 9i 2-in-1",
+        "id": "B0F3WWNXRZ",
+        "filename": "B0F3WWNXRZ.mp4"
+      },
+      {
+        "nombre": "ASUS ZenBook Duo",
+        "searchTermEn": "ASUS ZenBook Duo dual screen",
+        "id": "B0GG9PP6ZN",
+        "filename": "B0GG9PP6ZN.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Las 3 Mejores Laptops Futuristas para Comprar\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\nPantalla dual para multitarea perfecta. Procesador ultrarrápido para eficiencia máxima.\n\n[0:10-0:15] INTRODUCTION\n¿Cuál de estas te gustaría? Encuentra los links en el primer comentario.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] DELL XPS 13 PLUS\nCon la impresionante potencia del Snapdragon X Plus, el Dell XPS 13 Plus redefine la eficiencia. Equipado con 8 núcleos que alcanzan hasta 3.2GHz y capacidad para soportar múltiples monitores, este portátil garantiza un rendimiento sin precedentes. Además, su batería de larga duración te acompañará durante días, ofreciendo una experiencia incomparable en diseñadores y creadores. Expande tus horizontes creativos con esta increíble máquina.\nSu precio actual en Amazon ronda los... 1300 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Dell XPS 13 Plus]\n\n[0:25] LENOVO YOGA 9I\nLa claridad visual del Lenovo Yoga 9i es simplemente espectacular. Su pantalla antirreflejos reduce las distracciones mientras su revestimiento anti-huellas mantiene la limpieza impecable incluso tras largas sesiones de uso. Este portátil transforma cada interacción en una experiencia sensorial única gracias a su acabado mate que mejora drásticamente la visibilidad general. Experimenta una calidad visual superior cada vez que lo uses.\nSu precio actual en Amazon ronda los... 1799 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Lenovo Yoga 9i]\n\n[0:25] ASUS ZENBOOK DUO\n-¿Cansado- de cambiar constantemente entre programas? El ASUS ZenBook Duo resuelve este inconveniente con su innovadora pantalla dual, optimizando tu flujo de trabajo como nunca antes. Su protector de pantalla con dureza 9H salvaguarda tu dispositivo de arañazos e impactos, brindando tranquilidad total mientras te permite disfrutar una claridad visual impecable.\n-¿Quién no quiere maximizar su productividad?- Su precio actual en Amazon ronda los... 2482 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: ASUS ZenBook Duo]\n\n[10 seconds] CONCLUSION\n-¡No olvides dar like y chequear los links que están en el primer comentario!\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:45\nTONE: engaging\nPACING: quick\nKEYWORDS: laptop, futuristas, puedes, comprar\n"
+}

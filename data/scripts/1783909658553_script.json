@@ -1,0 +1,133 @@
+{
+  "title": "Top 1 Herramientas Futuristas para tu Casa",
+  "hook": {
+    "type": "statement",
+    "text": "",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "25s-35s"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Adjustable Bungee Organizer",
+        "productId": "B0DM58SV7D",
+        "productName": "Adjustable Bungee Organizer",
+        "filename": "B0DM58SV7D.mp4",
+        "asin": "B0DM58SV7D",
+        "videoDuration": 73.007533,
+        "estimatedAudioSeconds": 34,
+        "framework": "comparacion_precio",
+        "narracionSegments": null,
+        "content": [
+          "¿Necesitas la mejor opción para organizar cargas? El Adjustable Bungee Organizer revoluciona el almacenamiento exterior. Su ajuste de longitud de precisión, entre siete a sesenta pulgadas, mejora cualquier tarea. Conecta sus ganchos plásticos. Evita rayones; ofrece resistencia al óxido incluso en ambientes salinos. Extiende los cables diseñados con goma de grado industrial y poliéster resistente a UV; perfecto para cualquier clima extremo. Y lo mejor, por solo veinte dólares, obtienes almacenamiento organizado y portátil.",
+          "Su precio actual ronda los... veinte dólares. Link en comentarios."
+        ],
+        "visuals": [
+          "Product image: Adjustable Bungee Organizer"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0DM58SV7D.mp4",
+        "precio": "$20",
+        "productPhoto": "https://m.media-amazon.com/images/I/71bOxt5PiWL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "Ajuste de Longitud de Precisión - Estos bungee cords de 60 pulgadas cuentan con un diseño único basado en ganchos para ajustar manualmente la longitud de 7\" a 60\", ofreciendo flexibilidad para carga, lonas o tiendas de campaña—sin necesidad de estiramiento.",
+          "Ganchos de Plástico a Prueba de Rayones y Resistentes a la Oxidación - Ganchos de plástico duraderos que previenen rayones en la superficie y resisten la oxidación, incluso en entornos húmedos o salinos, garantizando un uso seguro y duradero. Más seguros y duraderos que los ganchos de metal desnudo.",
+          "Resistente a los UV y construcción exterior de alta resistencia - Fabricados con goma de grado industrial y una chaqueta de poliéster resistente a los UV, estos cables soportan sol extremo, lluvia y temperaturas (-40°F a 200°F). Ideal para un uso exterior exigente.",
+          "Uso al aire libre de propósito general - Ideal para camiones, bicicletas, tiendas de campaña, jardinería, equipaje, carga en el techo o reparaciones de emergencia—versátil para cualquier tarea.",
+          "Organizado y portátil - Incluye 7 tamaños desde el más corto de 18\" hasta el más largo de 80\" bungee cords en una bolsa de almacenamiento ligera y resistente al agua para satisfacer tus diversas necesidades."
+        ]
+      }
+    ],
+    "totalDuration": 40
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      ""
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:10",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "herramientas",
+    "futuristas",
+    "para",
+    "casa"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 1 Herramientas Futuristas para tu Casa",
+      "angle": "Top 2 Herramientas Futuristas para tu Casa",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 1,
+      "introScript": "¿Un destornillador que ilumina donde lo necesitas o un organizador que se adapta a tu espacio? Descubre las herramientas más innovadoras que transformarán tu hogar. Estas soluciones no solo son prácticas, sino que también aportan un toque de tecnología futurista que querrás tener ya mismo. Desde objetos que toman las riendas del orden hasta aquellos que facilitan tus reparaciones, estas herramientas son la solución ideal para cualquier amante de la tecnología en casa. Sigue viendo para saber más sobre estos gadgets revolucionarios y cómo pueden hacer tu vida mucho más fácil.",
+      "keywords": [
+        "herramientas",
+        "futuristas",
+        "para",
+        "casa"
+      ],
+      "estimatedViews": 4015,
+      "bestPublishTime": "2026-07-16T19:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Adjustable Bungee Organizer",
+          "searchTermEn": "Adjustable Bungee Organizer",
+          "id": "B0DM58SV7D",
+          "filename": "B0DM58SV7D.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-07-13T02:10:36.033Z",
+      "_requestedCount": 2,
+      "_adaptedCount": 1,
+      "_adaptationNote": "ATENCIÓN: El usuario pidió 2 productos pero solo hay 1 clips de video disponibles. El guion, título y narrativa deben referirse EXCLUSIVAMENTE a 1 productos.",
+      "introProductsOrder": [
+        {
+          "nombre": "Adjustable Bungee Organizer",
+          "id": "B0DM58SV7D",
+          "filename": "B0DM58SV7D.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0DM58SV7D.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1783909618235_yk9gdu"
+    },
+    "generatedAt": "2026-07-13T02:27:07.264Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Adjustable Bungee Organizer",
+        "searchTermEn": "Adjustable Bungee Organizer",
+        "id": "B0DM58SV7D",
+        "filename": "B0DM58SV7D.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 1 Herramientas Futuristas para tu Casa\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\n\n\n[25s-35s] INTRODUCTION\n\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] ADJUSTABLE BUNGEE ORGANIZER\n¿Necesitas la mejor opción para organizar cargas? El Adjustable Bungee Organizer revoluciona el almacenamiento exterior. Su ajuste de longitud de precisión, entre siete a sesenta pulgadas, mejora cualquier tarea. Conecta sus ganchos plásticos. Evita rayones; ofrece resistencia al óxido incluso en ambientes salinos. Extiende los cables diseñados con goma de grado industrial y poliéster resistente a UV; perfecto para cualquier clima extremo. Y lo mejor, por solo veinte dólares, obtienes almacenamiento organizado y portátil.\nSu precio actual ronda los... veinte dólares. Link en comentarios.\n\n[VISUALS: Product image: Adjustable Bungee Organizer]\n\n[10 seconds] CONCLUSION\n\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:10\nTONE: engaging\nPACING: quick\nKEYWORDS: herramientas, futuristas, para, casa\n"
+}

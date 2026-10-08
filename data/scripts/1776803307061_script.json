@@ -1,0 +1,134 @@
+{
+  "title": "Top 2 Gadgets Novedosos en Amazon",
+  "hook": {
+    "type": "statement",
+    "text": "Carga dispositivos en cualquier lugar con energía solar. Una lámpara flota mágicamente iluminando tu espacio.",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "Suscríbete, los links están en el primer comentario. Empecemos.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0:10-0:15"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Cargador solar portátil",
+        "productId": "B07FDXDB3W",
+        "productName": "Cargador solar portátil",
+        "filename": "B07FDXDB3W.mp4",
+        "content": [
+          "Te quedas sin batería cuando más lo necesitas. El Cargador solar portátil aprovecha la energía del sol para mantener tus dispositivos activos. Compacto y ligero, ideal para aventuras al aire libre.",
+          "Su precio actual en Amazon ronda los... 25 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Cargador solar portátil"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07FDXDB3W.mp4",
+        "precio": "$25"
+      },
+      {
+        "type": "content",
+        "title": "Lámpara magnética levitación",
+        "productId": "B09833QPYR",
+        "productName": "Lámpara magnética levitación",
+        "filename": "B09833QPYR.mp4",
+        "content": [
+          "Tu escritorio siempre se ve igual y aburrido. La Lámpara magnética levitación ofrece un espectáculo visual flotante que transforma cualquier ambiente. Con tecnología de levitación, ilumina mientras desafía la gravedad.",
+          "Su precio actual en Amazon ronda los... 71 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Lámpara magnética levitación"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B09833QPYR.mp4",
+        "precio": "$71"
+      }
+    ],
+    "totalDuration": 50
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "Dale like y recuerda que los links están en el primer comentario."
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:20",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "novedosos",
+    "amazon"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 2 Gadgets Novedosos en Amazon",
+      "angle": "Top 3 Gadgets Novedosos en Amazon",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 2,
+      "introScript": "¿Un teclado que proyecta letras en cualquier superficie? ¿Un cargador que funciona a energía solar? Prepárate para descubrir los gadgets más innovadores que ya puedes comprar en Amazon.",
+      "keywords": [
+        "gadgets",
+        "novedosos",
+        "amazon"
+      ],
+      "estimatedViews": 5875,
+      "bestPublishTime": "2026-04-23T19:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Cargador solar portátil",
+          "searchTermEn": "portable solar charger",
+          "id": "B07FDXDB3W",
+          "filename": "B07FDXDB3W.mp4"
+        },
+        {
+          "nombre": "Lámpara magnética levitación",
+          "searchTermEn": "magnetic levitation lamp",
+          "id": "B09833QPYR",
+          "filename": "B09833QPYR.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-04-21T20:25:43.675Z",
+      "_requestedCount": 3,
+      "_adaptedCount": 2,
+      "_adaptationNote": "ATENCIÓN: El usuario pidió 3 productos pero solo hay 2 clips de video disponibles. El guion, título y narrativa deben referirse EXCLUSIVAMENTE a 2 productos.",
+      "_scriptNonce": "nonce_1776803301527_ntok57"
+    },
+    "generatedAt": "2026-04-21T20:28:26.923Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Cargador solar portátil",
+        "searchTermEn": "portable solar charger",
+        "id": "B07FDXDB3W",
+        "filename": "B07FDXDB3W.mp4"
+      },
+      {
+        "nombre": "Lámpara magnética levitación",
+        "searchTermEn": "magnetic levitation lamp",
+        "id": "B09833QPYR",
+        "filename": "B09833QPYR.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 2 Gadgets Novedosos en Amazon\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\nCarga dispositivos en cualquier lugar con energía solar. Una lámpara flota mágicamente iluminando tu espacio.\n\n[0:10-0:15] INTRODUCTION\nSuscríbete, los links están en el primer comentario. Empecemos.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] CARGADOR SOLAR PORTÁTIL\nTe quedas sin batería cuando más lo necesitas. El Cargador solar portátil aprovecha la energía del sol para mantener tus dispositivos activos. Compacto y ligero, ideal para aventuras al aire libre.\nSu precio actual en Amazon ronda los... 25 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Cargador solar portátil]\n\n[0:25] LÁMPARA MAGNÉTICA LEVITACIÓN\nTu escritorio siempre se ve igual y aburrido. La Lámpara magnética levitación ofrece un espectáculo visual flotante que transforma cualquier ambiente. Con tecnología de levitación, ilumina mientras desafía la gravedad.\nSu precio actual en Amazon ronda los... 71 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Lámpara magnética levitación]\n\n[10 seconds] CONCLUSION\nDale like y recuerda que los links están en el primer comentario.\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:20\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, novedosos, amazon\n"
+}

@@ -1,0 +1,180 @@
+1
+00:00:00,000 --> 00:00:02,500
+En 2026, los robots no solo actuarán como
+
+2
+00:00:02,857 --> 00:00:05,357
+humanos, ¡sino que pensarán como ellos!
+
+3
+00:00:05,000 --> 00:00:08,750
+Bienvenidos a Mente Futura. Hoy exploraremos los robots
+
+4
+00:00:09,137 --> 00:00:12,887
+más avanzados que están redefiniendo la inteligencia artificial
+
+5
+00:00:13,275 --> 00:00:17,025
+en 2026. Aprenderás sobre las innovaciones que impulsan
+
+6
+00:00:17,413 --> 00:00:21,163
+el futuro de la robótica.
+
+7
+00:00:20,000 --> 00:00:28,571
+Sophia 2.0, desarrollada por Hanson Robotics, ha mejorado
+
+8
+00:00:29,600 --> 00:00:38,171
+su capacidad de interacción social, ahora con inteligencia
+
+9
+00:00:39,200 --> 00:00:47,771
+emocional avanzada. Utiliza reconocimiento de emociones y adapta
+
+10
+00:00:48,799 --> 00:00:57,371
+sus respuestas para ofrecer compañía virtual más humanizada.
+
+11
+00:00:58,399 --> 00:01:06,971
+Sophia 2.0 está siendo utilizada en sectores educativos
+
+12
+00:01:08,000 --> 00:01:16,571
+y de salud mental, proporcionando asistencia psicológica y
+
+13
+00:01:17,599 --> 00:01:26,171
+educativa personalizada.
+
+14
+00:01:20,000 --> 00:01:30,000
+Atlas ha llevado la locura del parkour al
+
+15
+00:01:30,434 --> 00:01:40,434
+siguiente nivel con capacidades de movimiento casi humanas.
+
+16
+00:01:40,869 --> 00:01:50,869
+Recientemente integró inteligencia artificial avanzada que le permite
+
+17
+00:01:51,304 --> 00:02:01,304
+aprender movimientos nuevos por sí mismo. Atlas se
+
+18
+00:02:01,739 --> 00:02:11,739
+emplea en tareas de rescate en lugares peligrosos,
+
+19
+00:02:12,173 --> 00:02:22,173
+superando obstáculos con agilidad y precisión.
+
+20
+00:02:20,000 --> 00:02:30,000
+Digit es un robot bípede diseñado para labores
+
+21
+00:02:31,162 --> 00:02:41,162
+logísticas en almacenes, entregas y manufactura. Su capacidad
+
+22
+00:02:42,325 --> 00:02:52,325
+de adaptarse a entornos cambiantes y manipular objetos
+
+23
+00:02:53,488 --> 00:03:03,488
+lo hace indispensable para empresas líderes. Implementa algoritmos
+
+24
+00:03:04,651 --> 00:03:14,651
+de aprendizaje que optimizan rutas y mejoran su
+
+25
+00:03:15,813 --> 00:03:25,813
+eficiencia operativa diaria.
+
+26
+00:03:20,000 --> 00:03:30,000
+Spot es un robot cuadrúpedo que se ha
+
+27
+00:03:30,212 --> 00:03:40,212
+vuelto vital en la industria de la construcción
+
+28
+00:03:40,425 --> 00:03:50,425
+y seguridad. Equipado con cámaras térmicas y sensores
+
+29
+00:03:50,638 --> 00:04:00,638
+LIDAR, Spot realiza inspecciones eficientes y seguras. Su
+
+30
+00:04:00,851 --> 00:04:10,851
+uso se ha expandido a servicios de patrullaje
+
+31
+00:04:11,063 --> 00:04:21,063
+y vigilancia en áreas de difícil acceso.
+
+32
+00:04:20,000 --> 00:04:30,000
+Ameca es el robot humanoide más avanzado en
+
+33
+00:04:30,909 --> 00:04:40,909
+términos de expresividad facial y gestual. Diseñado para
+
+34
+00:04:41,818 --> 00:04:51,818
+interactuar en entornos públicos como museos y centros
+
+35
+00:04:52,727 --> 00:05:02,727
+de servicio al cliente. Sus algoritmos de IA
+
+36
+00:05:03,636 --> 00:05:13,636
+le permiten aprender de interacciones y optimizar su
+
+37
+00:05:14,545 --> 00:05:24,545
+comunicación de manera autónoma.
+
+38
+00:05:20,000 --> 00:05:23,750
+Sophia 2.0 está revolucionando la interacción social con
+
+39
+00:05:24,067 --> 00:05:27,817
+inteligencia emocional. Atlas y su capacidad asombrosa para
+
+40
+00:05:28,135 --> 00:05:31,885
+el parkour están haciendo historia en robótica de
+
+41
+00:05:32,203 --> 00:05:35,953
+rescate. Spot y Digit están transformando la logística
+
+42
+00:05:36,271 --> 00:05:40,021
+y la seguridad con eficiencia inteligente. El futuro
+
+43
+00:05:40,338 --> 00:05:44,088
+de la robótica es emocionante y lleno de
+
+44
+00:05:44,406 --> 00:05:48,156
+posibilidades, depende de nosotros abrazar estos cambios y
+
+45
+00:05:48,474 --> 00:05:52,224
+liderar con innovación.
+

@@ -1,0 +1,202 @@
+{
+  "title": "Top 2 Gadgets Increíbles para tu Coche en Amazon",
+  "hook": {
+    "type": "statement",
+    "text": "Mantén tu teléfono seguro mientras conduces. Encuentra todo lo que amas desde una sola app.",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "Suscríbete, los links están en el primer comentario. Empecemos.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0:10-0:15"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "iOttie Easy One Touch",
+        "productId": "B088G1ZLN4",
+        "productName": "iOttie Easy One Touch",
+        "filename": "B088G1ZLN4.mp4",
+        "asin": "B088G1ZLN4",
+        "clipDuration": 49.9,
+        "estimatedAudioSeconds": 49,
+        "framework": "problema_solucion",
+        "narracionSegments": null,
+        "content": [
+          "¿Cansado de lidiar con móviles sueltos mientras conduces? El iOttie Easy One Touch tiene un mecanismo que permite asegurar tu dispositivo con una sola mano. Sus brazos se cierran automáticamente, manteniendo tu teléfono firme. Además, su organizador magnético para cables facilita mantener el orden en tu coche.",
+          "Su precio actual en Amazon ronda los... 25 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: iOttie Easy One Touch"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B088G1ZLN4.mp4",
+        "precio": "$25",
+        "productPhoto": "https://m.media-amazon.com/images/I/61R4VioAEgL.jpg",
+        "assets": {
+          "images": [
+            "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B088G1ZLN4\\img_01.jpg",
+            "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B088G1ZLN4\\img_02.jpg",
+            "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B088G1ZLN4\\img_03.jpg",
+            "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B088G1ZLN4\\img_04.jpg",
+            "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B088G1ZLN4\\img_05.jpg",
+            "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B088G1ZLN4\\img_06.jpg"
+          ],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "EASY ONE TOUCH MECHANISM: Press the locking side arms with a quick one-handed motion, and place your phone against the trigger button. The mount’s arms will close automatically, holding your device securely while you drive. Mount or remove your phone in seconds with the patented Easy One Touch mechanism.",
+          "WIDE COMPATIBILITY: The universal cradle fits smartphones and cases from 2.3\" - 3.5\" in width.",
+          "ADJUSTABLE BOTTOM FOOT: You can easily and securely adjust the bottom foot by squeezing the spring button.",
+          "MAGNETIC CORD ORGANIZER: Keep charging cables neatly organized with the magnetic tab located near the bottom foot.",
+          "ADJUSTABLE VIEWING ANGLES: A rotating ball allows you to easily mount your device in landscape or portrait mode, and adjust the angle for optimal viewing."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Tile Mate Essential",
+        "productId": "B0D6354JRF",
+        "productName": "Tile Mate Essential",
+        "filename": "B0D6354JRF.mp4",
+        "asin": "B0D6354JRF",
+        "clipDuration": 33.9,
+        "estimatedAudioSeconds": 53,
+        "framework": "enfoque_caracteristica",
+        "narracionSegments": null,
+        "content": [
+          "Este pequeño dispositivo te permite rastrear todo lo que amas desde una app en tu móvil. El Tile Mate Essential no solo te ayuda a encontrar tus pertenencias, sino que también hace sonar tu teléfono, incluso si está en silencio.",
+          "Su precio actual en Amazon ronda los... 58 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Tile Mate Essential"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0D6354JRF.mp4",
+        "precio": "$58",
+        "productPhoto": "https://m.media-amazon.com/images/I/71+aVLr7STL.jpg",
+        "assets": {
+          "images": [
+            "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D6354JRF\\img_01.jpg",
+            "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D6354JRF\\img_02.jpg",
+            "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D6354JRF\\img_03.jpg",
+            "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D6354JRF\\img_04.jpg",
+            "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D6354JRF\\img_05.jpg",
+            "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D6354JRF\\img_06.jpg"
+          ],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "LOCATE ALL YOU LOVE: Locate your family, furry-friends, and favorite stuff—all from one app. Get a selection of Tiles to track your keys, bikes, bags, and beyond. Get more family safety for less with a multi-pack, or gift to those you love",
+          "FIND YOUR THINGS: Ring your misplaced Tile, or track it down in the free app",
+          "FIND YOUR PHONE: Phone hiding under a cushion? Use your Tile to make it ring — even when silenced",
+          "STAY SAFE WITH SOS: Keep stuff safe, and people and pets protected. Discreetly trigger an SOS to keep your loved ones safe in any situation.",
+          "USE WITH LIFE360: Track everything—and everyone you love—a top family connection and safety app. Add your Tiles to see all you love on one map"
+        ]
+      }
+    ],
+    "totalDuration": 50
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "Dale like y recuerda que los links están en el primer comentario."
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:20",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "increbles",
+    "para",
+    "coche",
+    "amazon"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 2 Gadgets Increíbles para tu Coche en Amazon",
+      "angle": "Top 3 Gadgets Increíbles para tu Coche en Amazon",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 2,
+      "introScript": "¿Un cargador que localiza tu coche en el estacionamiento? ¿Un soporte que transforma tu móvil en un GPS de última generación? Descubre los gadgets que llevarán tu experiencia al volante a otro nivel.",
+      "keywords": [
+        "gadgets",
+        "increbles",
+        "para",
+        "coche",
+        "amazon"
+      ],
+      "estimatedViews": 5610,
+      "bestPublishTime": "2026-05-06T19:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "iOttie Easy One Touch",
+          "searchTermEn": "iOttie Easy One Touch",
+          "id": "B088G1ZLN4",
+          "filename": "B088G1ZLN4.mp4"
+        },
+        {
+          "nombre": "Tile Mate Essential",
+          "searchTermEn": "Tile Mate Essential",
+          "id": "B0D6354JRF",
+          "filename": "B0D6354JRF.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-05-05T22:31:25.242Z",
+      "_requestedCount": 3,
+      "_adaptedCount": 2,
+      "_adaptationNote": "ATENCIÓN: El usuario pidió 3 productos pero solo hay 2 clips de video disponibles. El guion, título y narrativa deben referirse EXCLUSIVAMENTE a 2 productos.",
+      "introProductsOrder": [
+        {
+          "nombre": "iOttie Easy One Touch",
+          "id": "B088G1ZLN4",
+          "filename": "B088G1ZLN4.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B088G1ZLN4_combined.mp4"
+        },
+        {
+          "nombre": "Tile Mate Essential",
+          "id": "B0D6354JRF",
+          "filename": "B0D6354JRF.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0D6354JRF_combined.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1778020647142_li56lg"
+    },
+    "generatedAt": "2026-05-05T22:37:31.234Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "iOttie Easy One Touch",
+        "searchTermEn": "iOttie Easy One Touch",
+        "id": "B088G1ZLN4",
+        "filename": "B088G1ZLN4.mp4"
+      },
+      {
+        "nombre": "Tile Mate Essential",
+        "searchTermEn": "Tile Mate Essential",
+        "id": "B0D6354JRF",
+        "filename": "B0D6354JRF.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 2 Gadgets Increíbles para tu Coche en Amazon\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\nMantén tu teléfono seguro mientras conduces. Encuentra todo lo que amas desde una sola app.\n\n[0:10-0:15] INTRODUCTION\nSuscríbete, los links están en el primer comentario. Empecemos.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] IOTTIE EASY ONE TOUCH\n¿Cansado de lidiar con móviles sueltos mientras conduces? El iOttie Easy One Touch tiene un mecanismo que permite asegurar tu dispositivo con una sola mano. Sus brazos se cierran automáticamente, manteniendo tu teléfono firme. Además, su organizador magnético para cables facilita mantener el orden en tu coche.\nSu precio actual en Amazon ronda los... 25 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: iOttie Easy One Touch]\n\n[0:25] TILE MATE ESSENTIAL\nEste pequeño dispositivo te permite rastrear todo lo que amas desde una app en tu móvil. El Tile Mate Essential no solo te ayuda a encontrar tus pertenencias, sino que también hace sonar tu teléfono, incluso si está en silencio.\nSu precio actual en Amazon ronda los... 58 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Tile Mate Essential]\n\n[10 seconds] CONCLUSION\nDale like y recuerda que los links están en el primer comentario.\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:20\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, increbles, para, coche, amazon\n"
+}

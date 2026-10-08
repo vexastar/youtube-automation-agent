@@ -1,0 +1,448 @@
+{
+  "title": "Top 5 Gadgets Imprescindibles para Barberos en Amazon",
+  "hook": {
+    "type": "statement",
+    "text": "Mantiene tu teléfono seguro con rotación libre. Perfecciona tus cortes con precisión impecable. Transforma cada sesión de peinado en un lujo sin cables. Resguarda la ropa de los clientes en todo momento. Organiza tus cuchillas de manera fácil y efectiva.",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "Suscríbete ahora y encuentra todos los links en el primer comentario.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "25s-35s"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "BarberMate Blade Holder",
+        "productId": "B09QD7V5Q1",
+        "productName": "BarberMate Blade Holder",
+        "filename": "B09QD7V5Q1.mp4",
+        "asin": "B09QD7V5Q1",
+        "videoDuration": 60.026633,
+        "estimatedAudioSeconds": 48,
+        "framework": "dato_numerico",
+        "narracionSegments": null,
+        "content": [
+          "¿Te preocupa que tu teléfono se moje mientras ves videos en la ducha? El Lamicall Soporte Pared es la solución perfecta con su diseño impermeable IPx6, protegiendo del agua y el vapor. Su rotación de 480 grados permite ajustar el ángulo a tu conveniencia, disfrutando del entretenimiento sin preocupaciones. La instalación es simple gracias al adhesivo fuerte y sin necesidad de taladros, siendo ideal para espejos o azulejos. Compatible con teléfonos desde cuatro hasta siete pulgadas, se adapta incluso a aquellos con fundas gruesas. La pantalla HD asegura una interacción fluida mientras permaneces seco.",
+          "Su precio actual en Amazon ronda los... 20 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: BarberMate Blade Holder"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B09QD7V5Q1_combined.mp4",
+        "precio": "$14",
+        "productPhoto": "https://m.media-amazon.com/images/I/41kuEwuxO-L.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B09QD7V5Q1\\scenes_v1\\B09QD7V5Q1_scene_01.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "soporte clipper",
+            "raw": "8|soporte clipper"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B09QD7V5Q1\\scenes_v1\\B09QD7V5Q1_scene_02.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "soporte clipper",
+            "raw": "8|soporte clipper"
+          }
+        ],
+        "features": [
+          "Almacena hasta 10 cuchillas de clipper.",
+          "Se puede montar fácilmente en la pared o colocar en una superficie plana.",
+          "Hecho de estireno de alto impacto.",
+          "Las medidas son 5″ x 7.5″."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "AliiPro Capa Impermeable",
+        "productId": "B00H78IR6W",
+        "productName": "AliiPro Capa Impermeable",
+        "filename": "B00H78IR6W.mp4",
+        "asin": "B00H78IR6W",
+        "videoDuration": 60.026633,
+        "estimatedAudioSeconds": null,
+        "framework": "experiencia_sensorial",
+        "narracionSegments": null,
+        "content": [
+          "Nada renueva más radicalmente la visita al salón que la AliiPro Capa Impermeable: garantiza protección completa resistiendo manchas y agua con vinilo sellado efectivamente manteniendo limpias prenda tras sesiones diversas dentro del salón profesionalizante imagen típica elegancia genuina admira algodón tierna cuelga: cierre fácil adecuado securely ajustándose alrededor tallas diversas manteniendo lugar formas procesos impulso general total incluso escollo tintura fiebre corte extenso gama procedimientos promoviendo éxitos.",
+          ""
+        ],
+        "visuals": [
+          "Product image: AliiPro Capa Impermeable"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B00H78IR6W_combined.mp4",
+        "precio": "$6",
+        "productPhoto": "https://m.media-amazon.com/images/I/61TQu2EViEL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B00H78IR6W\\scenes_v1\\B00H78IR6W_scene_02.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "capa de shampoo",
+            "raw": "9|capa de shampoo"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B00H78IR6W\\scenes_v1\\B00H78IR6W_scene_01.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "capa de shampoo",
+            "raw": "8|capa de shampoo"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B00H78IR6W\\scenes_v1\\B00H78IR6W_scene_03.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "capa de shampoo",
+            "raw": "8|capa de shampoo"
+          }
+        ],
+        "features": [
+          "AGUA Y MANCHAS RESISTENTE: La capa de champú Betty Dain Lustre está hecha de material de vinilo impermeable y resistente a las manchas, asegurando que se mantenga seca y limpia durante el lavado o cualquier proceso en el salón. Ayuda a proteger la ropa de manchas de agua y productos.",
+          "SEGURO Y AJUSTABLE: La capa cuenta con un cierre de toque y cierre que se sujeta de manera segura alrededor del cuello, manteniéndola en su lugar durante el proceso de lavado. La suave banda de nylon para el cuello garantiza un ajuste cómodo y se puede ajustar para adaptarse a diferentes tamaños de cuello.",
+          "ADECUADO PARA TODOS LOS PROCESOS DE SALÓN: Esta capa de shampoo está diseñada para ser segura en todos los procesos de salón, incluyendo coloración, decoloración, permanentes y más. Proporciona una protección confiable para la ropa y la piel de los clientes durante varios tratamientos de salón.",
+          "TAMAÑO GENEROSO: Midiendo 36 inches de ancho y 54 inches de largo, esta capa ofrece una amplia cobertura para proteger toda la espalda y los hombros del cliente. Proporciona una superficie grande y cómoda para un lavado efectivo y sin desorden.",
+          "ELEGANTE Y PROFESIONAL: El color negro de la capa de shampoo añade un toque de estilo y profesionalismo a cualquier entorno de salón. Mejora la experiencia general del salón tanto para los clientes como para los estilistas, creando una apariencia elegante y pulida."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Lamicall Soporte Pared",
+        "productId": "B0DDCKPZBX",
+        "productName": "Lamicall Soporte Pared",
+        "filename": "B0DDCKPZBX.mp4",
+        "asin": "B0DDCKPZBX",
+        "videoDuration": 60.026,
+        "estimatedAudioSeconds": 48,
+        "framework": "problema_solucion",
+        "narracionSegments": null,
+        "content": [
+          "Descubre un beneficio oculto significativo con el Andis Envy Li Clipper: su facilidad para lograr cortes a cero perfectos. Con un motor rotativo diseñado para uso profesional, ofrece una experiencia de corte suave y potente a través de sus cinco mil quinientas revoluciones por minuto. Su mecanismo ajustable proporciona un corte preciso, ya sea para cabello largo o corto, adaptándose perfectamente a tus necesidades. La operación simplificada gracias al botón controlado por el pulgar mejora la comodidad durante cada sesión de corte.",
+          "Su precio actual en Amazon ronda los... 116 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Lamicall Soporte Pared"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0DDCKPZBX_combined.mp4",
+        "precio": "$20",
+        "productPhoto": "https://m.media-amazon.com/images/I/71+t1XQbIVL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DDCKPZBX\\scenes_v1\\B0DDCKPZBX_scene_02.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "soporte impermeable",
+            "raw": "9|soporte impermeable"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DDCKPZBX\\scenes_v1\\B0DDCKPZBX_scene_05.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DDCKPZBX\\scenes_v1\\B0DDCKPZBX_scene_07.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "producto pequeño",
+            "raw": "5|producto pequeño"
+          }
+        ],
+        "features": [
+          "Soporte de pared 2-en-1 o soporte para bañera: Hecho de materiales ABS de alta calidad y con un círculo interno impermeable y un diseño de cierre, este soporte para teléfono de ducha es IPx6 impermeable e impermeable a las salpicaduras de la ducha y al vapor de agua, ayudándote a disfrutar de ver Youtube, Netflix, Tiktok y escuchar música mientras te duchas. !!!Nota: Por favor, no sumerjas completamente el soporte para el teléfono en agua.",
+          "Rotación de 480° y Ajustable: Con el diseño único de rotación y retracción, este soporte para teléfono de pared de ducha a prueba de agua permite un ajuste de ángulo de 120 grados y una rotación horizontal y vertical de 360 grados, ideal para cambiar la distancia y el ángulo de visión. Puedes jugar fácilmente en el teléfono en la posición que desees y proteger tu teléfono del agua mientras te duchas.",
+          "\"\"\"Pantalla HD y Toque Suave: La cubierta frontal del soporte para ducha está hecha de material TPU y con un diseño de esponja en el interior del soporte para teléfono de ducha, lo que garantiza la pantalla HD del teléfono y una alta sensibilidad al tacto. Este imprescindible para la ducha no interfiere con Face ID, permitiéndote deslizar suavemente la pantalla y enviar mensajes mientras te duchas en el baño.\"\"\"",
+          "Instalación Fácil - Adhesivo Transparente Resistente: Este soporte para teléfono en la ducha a prueba de agua viene con 3 ganchos adhesivos fuertes, soportando un peso de hasta 4.5 lbs. Con un diseño sin taladro, puedes elegir libremente diferentes posiciones de montaje y usar este soporte para teléfono en la pared para espejo, baño, bañera, cocina, ducha, piscina, etc. !!!Aviso: Por favor, asegúrate de que la pared esté seca antes de la instalación y deja reposar durante 24 horas antes de usar.",
+          "Funda Gruesa Amigable: Diseñada con una esponja interior, esta caja para teléfono impermeable es amigable con fundas de teléfono gruesas, anillos y sockets, se adapta a teléfonos móviles de 4 a 7 pulgadas, compatible con iPhone 16, 16 Pro, 16 Pro Max, 16 Plus, 15, 15 Pro, 15 Plus, 15 Pro Max, 14, 14 Pro, 14 Pro Max, 14 Plus, 13, 13 Pro, 13 Pro Max, 13 Mini, 12, 12 Pro, 12 Pro Max, 12 Mini, 11, 11 Pro, 11 Pro Max, XS, XS Max, XR, X, 8, SE, SE2, android y más dispositivos."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Wahl Cordless Combo",
+        "productId": "B01FRGOOWQ",
+        "productName": "Wahl Cordless Combo",
+        "filename": "B01FRGOOWQ.mp4",
+        "asin": "B01FRGOOWQ",
+        "videoDuration": 60.026,
+        "estimatedAudioSeconds": null,
+        "framework": "enfoque_caracteristica",
+        "narracionSegments": null,
+        "content": [
+          "\"Construido dentro del Wahl Cordless Combo hay una potencia incomparable.\" Este combo está especialmente diseñado para ofrecer desvanecidos suaves y precisos, permitiendo un trabajo detallado sin esfuerzo extra. Los motores V9000 y rotativo altamente potentes aseguran durabilidad prolongada en cualquier entorno profesional o casero. Incluye ocho guías de corte que abarcan largos desde uno dieciséis avos hasta una pulgada entera, haciéndolo versátil tanto para cortes detallados como generales.",
+          "\"Su precio actual en Amazon ronda los... 415 dólares.\" ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Wahl Cordless Combo"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B01FRGOOWQ_combined.mp4",
+        "precio": "$415",
+        "productPhoto": "https://m.media-amazon.com/images/I/81KKYlGCIAL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01FRGOOWQ\\scenes_v1\\B01FRGOOWQ_scene_01.mp4",
+            "type": "video",
+            "score": 10,
+            "tag": "cortadora y recortadora",
+            "raw": "10|cortadora y recortadora"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01FRGOOWQ\\scenes_v1\\B01FRGOOWQ_scene_02.mp4",
+            "type": "video",
+            "score": 10,
+            "tag": "corte de cabello",
+            "raw": "10|corte de cabello"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01FRGOOWQ\\scenes_v1\\B01FRGOOWQ_scene_05.mp4",
+            "type": "video",
+            "score": 10,
+            "tag": "interacción real",
+            "raw": "10|interacción real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01FRGOOWQ\\scenes_v1\\B01FRGOOWQ_scene_06.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01FRGOOWQ\\scenes_v1\\B01FRGOOWQ_scene_04.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "producto parcial",
+            "raw": "5|producto parcial"
+          }
+        ],
+        "features": [
+          "Precisión Profesional: Diseñado para desvanecimiento de líneas suaves, mezcla sin costuras y recortes detallados.",
+          "Motor potente: Legend Clipper cuenta con un motor V9000 y Hero Trimmer con un potente motor rotativo.",
+          "Diseño Duradero: Materiales de alta calidad garantizan un rendimiento duradero.",
+          "Kit Completo: Incluye 8 guías de corte para cortadoras (1/16” - 1”), 3 guías para recortadoras (1/16” - 3/16”), aceite, cepillo de limpieza y protectores de cuchilla rojos.",
+          "Uso versátil: Perfecto para cortes, recortes y detalles de vello facial."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Andis Envy Li Clipper",
+        "productId": "B0BXMTJ8YX",
+        "productName": "Andis Envy Li Clipper",
+        "filename": "B0BXMTJ8YX.mp4",
+        "asin": "B0BXMTJ8YX",
+        "videoDuration": 59.8598,
+        "estimatedAudioSeconds": 51,
+        "framework": "beneficio_oculto",
+        "narracionSegments": null,
+        "content": [
+          "La Andis Envy Li Clipper es una máquina de cortar pelo diseñada para recortar fácilmente a cero, ideal para crear estilos intrincados de cabello y barba. Con un motor rotativo potente de 5,500 cortes por minuto, ofrece un afeitado profesional con ruido mínimo. Su cuchilla ajustable permite un corte suave desde el tamaño 000 hasta 1. Cuenta con un botón de encendido controlado por el pulgar y viene con 11 peines de sujeción.",
+          "Su precio actual en Amazon ronda los 116 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Andis Envy Li Clipper"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0BXMTJ8YX_combined.mp4",
+        "precio": "$116",
+        "productPhoto": "https://m.media-amazon.com/images/I/51ANB5nA45L.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BXMTJ8YX\\scenes_v1\\B0BXMTJ8YX_scene_01.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "clipper ajustable",
+            "raw": "9|clipper ajustable"
+          }
+        ],
+        "features": [
+          "EASY ZERO GAP: Esta máquina de cortar pelo ha sido especialmente desarrollada para un fácil recorte a cero de cabello largo o corto para cualquier barbero o experto en cabello, permitiéndoles crear estilos intrincados de cabello y barba. Lo que incluye: Protector de cuchilla, Aceite para cuchilla, Enchufes de carga.",
+          "MOTOR ROTATIVO POTENTE: Ofrece 5,500 spm de corte con componentes de máquina superiores que permiten un afeitado de calidad profesional en casa o en el salón, con un ruido mínimo y disponibilidad a largo plazo.",
+          "\"\"\"CORTADORA DE CABELLO AJUSTABLE: Ajusta de tamaño 000 a 1 con la cuchilla superior, que proporciona una acción de alimentación rápida, es más robusta y se mantiene más afilada por más tiempo que otras cuchillas, ofreciendo un recorte suave de cabello/barba con un arreglo corporal completo.\"\"\"",
+          "CONVENIENTE: El botón controlado por el pulgar para la operación de encendido/apagado con una sola mano es fácil de usar durante el corte de cabello.",
+          "DETALLES DEL PRODUCTO: Este cortapelos profesional Envy Li Cordless mide 2.6 x 8 x 10 inches, pesa 1.4 pounds y funciona con un voltaje de 100-240V / 50-60 Hz, incluye 11 peines de sujeción y un adaptador de carga."
+        ]
+      }
+    ],
+    "totalDuration": 200
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      null
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "3:50",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "imprescindibles",
+    "para",
+    "barberos",
+    "amazon"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 5 Gadgets Imprescindibles para Barberos en Amazon",
+      "angle": "Top 5 Gadgets Imprescindibles para Barberos en Amazon",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 5,
+      "introScript": "¿Nunca te habías imaginado una máquina que guarda tus cuchillas automáticamente? ¿O una capa que recoge el cabello sin ensuciar el piso? Hoy exploraremos cinco gadgets increíbles que transformarán completamente la manera en que cortas el cabello. Desde herramientas de precisión hasta estaciones de carga perfectas, descubre cómo estos productos pueden hacer que tu día a día como barbero sea mucho más eficiente y profesional. No te pierdas estas innovaciones que ya puedes tener en tus manos.",
+      "keywords": [
+        "gadgets",
+        "imprescindibles",
+        "para",
+        "barberos",
+        "amazon"
+      ],
+      "estimatedViews": 4553,
+      "bestPublishTime": "2026-07-10T20:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "BarberMate Blade Holder",
+          "searchTermEn": "BarberMate blade holder",
+          "id": "B09QD7V5Q1",
+          "filename": "B09QD7V5Q1.mp4"
+        },
+        {
+          "nombre": "AliiPro Capa Impermeable",
+          "searchTermEn": "AliiPro waterproof cape",
+          "id": "B00H78IR6W",
+          "filename": "B00H78IR6W.mp4"
+        },
+        {
+          "nombre": "Lamicall Soporte Pared",
+          "searchTermEn": "Lamicall wall mount barber",
+          "id": "B0DDCKPZBX",
+          "filename": "B0DDCKPZBX.mp4"
+        },
+        {
+          "nombre": "Wahl Cordless Combo",
+          "searchTermEn": "Wahl cordless combo kit",
+          "id": "B01FRGOOWQ",
+          "filename": "B01FRGOOWQ.mp4"
+        },
+        {
+          "nombre": "Andis Envy Li Clipper",
+          "searchTermEn": "Andis Envy Li hair clipper",
+          "id": "B0BXMTJ8YX",
+          "filename": "B0BXMTJ8YX.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-07-04T00:09:49.058Z",
+      "_requestedCount": 5,
+      "_adaptedCount": 5,
+      "introProductsOrder": [
+        {
+          "nombre": "Lamicall Soporte Pared",
+          "id": "B0DDCKPZBX",
+          "filename": "B0DDCKPZBX_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0DDCKPZBX_combined.mp4"
+        },
+        {
+          "nombre": "Andis Envy Li Clipper",
+          "id": "B0BXMTJ8YX",
+          "filename": "B0BXMTJ8YX_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0BXMTJ8YX_combined.mp4"
+        },
+        {
+          "nombre": "Wahl Cordless Combo",
+          "id": "B01FRGOOWQ",
+          "filename": "B01FRGOOWQ_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B01FRGOOWQ_combined.mp4"
+        },
+        {
+          "nombre": "AliiPro Capa Impermeable",
+          "id": "B00H78IR6W",
+          "filename": "B00H78IR6W_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B00H78IR6W_combined.mp4"
+        },
+        {
+          "nombre": "BarberMate Blade Holder",
+          "id": "B09QD7V5Q1",
+          "filename": "B09QD7V5Q1_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B09QD7V5Q1_combined.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1783124414908_iywbw2"
+    },
+    "generatedAt": "2026-07-04T00:24:31.930Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "BarberMate Blade Holder",
+        "searchTermEn": "BarberMate blade holder",
+        "id": "B09QD7V5Q1",
+        "filename": "B09QD7V5Q1.mp4"
+      },
+      {
+        "nombre": "AliiPro Capa Impermeable",
+        "searchTermEn": "AliiPro waterproof cape",
+        "id": "B00H78IR6W",
+        "filename": "B00H78IR6W.mp4"
+      },
+      {
+        "nombre": "Lamicall Soporte Pared",
+        "searchTermEn": "Lamicall wall mount barber",
+        "id": "B0DDCKPZBX",
+        "filename": "B0DDCKPZBX.mp4"
+      },
+      {
+        "nombre": "Wahl Cordless Combo",
+        "searchTermEn": "Wahl cordless combo kit",
+        "id": "B01FRGOOWQ",
+        "filename": "B01FRGOOWQ.mp4"
+      },
+      {
+        "nombre": "Andis Envy Li Clipper",
+        "searchTermEn": "Andis Envy Li hair clipper",
+        "id": "B0BXMTJ8YX",
+        "filename": "B0BXMTJ8YX.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 5 Gadgets Imprescindibles para Barberos en Amazon\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\nMantiene tu teléfono seguro con rotación libre. Perfecciona tus cortes con precisión impecable. Transforma cada sesión de peinado en un lujo sin cables. Resguarda la ropa de los clientes en todo momento. Organiza tus cuchillas de manera fácil y efectiva.\n\n[25s-35s] INTRODUCTION\nSuscríbete ahora y encuentra todos los links en el primer comentario.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] BARBERMATE BLADE HOLDER\n¿Te preocupa que tu teléfono se moje mientras ves videos en la ducha? El Lamicall Soporte Pared es la solución perfecta con su diseño impermeable IPx6, protegiendo del agua y el vapor. Su rotación de 480 grados permite ajustar el ángulo a tu conveniencia, disfrutando del entretenimiento sin preocupaciones. La instalación es simple gracias al adhesivo fuerte y sin necesidad de taladros, siendo ideal para espejos o azulejos. Compatible con teléfonos desde cuatro hasta siete pulgadas, se adapta incluso a aquellos con fundas gruesas. La pantalla HD asegura una interacción fluida mientras permaneces seco.\nSu precio actual en Amazon ronda los... 20 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: BarberMate Blade Holder]\n\n[0:25] ALIIPRO CAPA IMPERMEABLE\nNada renueva más radicalmente la visita al salón que la AliiPro Capa Impermeable: garantiza protección completa resistiendo manchas y agua con vinilo sellado efectivamente manteniendo limpias prenda tras sesiones diversas dentro del salón profesionalizante imagen típica elegancia genuina admira algodón tierna cuelga: cierre fácil adecuado securely ajustándose alrededor tallas diversas manteniendo lugar formas procesos impulso general total incluso escollo tintura fiebre corte extenso gama procedimientos promoviendo éxitos.\n\n\n[VISUALS: Product image: AliiPro Capa Impermeable]\n\n[0:25] LAMICALL SOPORTE PARED\nDescubre un beneficio oculto significativo con el Andis Envy Li Clipper: su facilidad para lograr cortes a cero perfectos. Con un motor rotativo diseñado para uso profesional, ofrece una experiencia de corte suave y potente a través de sus cinco mil quinientas revoluciones por minuto. Su mecanismo ajustable proporciona un corte preciso, ya sea para cabello largo o corto, adaptándose perfectamente a tus necesidades. La operación simplificada gracias al botón controlado por el pulgar mejora la comodidad durante cada sesión de corte.\nSu precio actual en Amazon ronda los... 116 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Lamicall Soporte Pared]\n\n[0:25] WAHL CORDLESS COMBO\n\"Construido dentro del Wahl Cordless Combo hay una potencia incomparable.\" Este combo está especialmente diseñado para ofrecer desvanecidos suaves y precisos, permitiendo un trabajo detallado sin esfuerzo extra. Los motores V9000 y rotativo altamente potentes aseguran durabilidad prolongada en cualquier entorno profesional o casero. Incluye ocho guías de corte que abarcan largos desde uno dieciséis avos hasta una pulgada entera, haciéndolo versátil tanto para cortes detallados como generales.\n\"Su precio actual en Amazon ronda los... 415 dólares.\" ¡Link en el primer comentario!\n\n[VISUALS: Product image: Wahl Cordless Combo]\n\n[0:25] ANDIS ENVY LI CLIPPER\nLa Andis Envy Li Clipper es una máquina de cortar pelo diseñada para recortar fácilmente a cero, ideal para crear estilos intrincados de cabello y barba. Con un motor rotativo potente de 5,500 cortes por minuto, ofrece un afeitado profesional con ruido mínimo. Su cuchilla ajustable permite un corte suave desde el tamaño 000 hasta 1. Cuenta con un botón de encendido controlado por el pulgar y viene con 11 peines de sujeción.\nSu precio actual en Amazon ronda los 116 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Andis Envy Li Clipper]\n\n[10 seconds] CONCLUSION\nundefined\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 3:50\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, imprescindibles, para, barberos, amazon\n"
+}

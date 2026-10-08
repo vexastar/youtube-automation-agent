@@ -1,0 +1,333 @@
+{
+  "title": "Top 5 Gadgets para Mejorar tu Productividad en la Oficina",
+  "hook": {
+    "type": "statement",
+    "text": "",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "25s-35s"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Smart Reusable Notebook",
+        "productId": "B0DP3HLY4J",
+        "productName": "Smart Reusable Notebook",
+        "filename": "B0DP3HLY4J.mp4",
+        "asin": "B0DP3HLY4J",
+        "videoDuration": 31.165733,
+        "estimatedAudioSeconds": 31,
+        "framework": "comparacion_precio",
+        "narracionSegments": null,
+        "content": [
+          "¿Aún pagas por cuadernos que usas una sola vez? El Smart Reusable Notebook es la solución futurista. Con un papel reutilizable premium, digitaliza tus notas al instante a Google Drive u otras nubes. Escribe con el Pilot Frixion Pen, escanea con la app Rocketbook y borra con un paño húmedo. Lleva todo en tamaños portátiles Letter o Executive. Cambia el mundo del papel por solo 30 dólares.",
+          "Su precio actual ronda los... 30 dólares. ¡Link ya!"
+        ],
+        "visuals": [
+          "Product image: Smart Reusable Notebook"
+        ],
+        "duration": 25,
+        "precio": "$30",
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0DP3HLY4J.mp4",
+        "productPhoto": "https://m.media-amazon.com/images/I/81txybq7ShL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "Nuevo y Mejorado Núcleo: Presenta papel reutilizable de primera calidad, con una mejor sensación al escribir, encuadernación en espiral y una cubierta rediseñada de manera elegante y resistente a rayones. Las hojas con reglas de colegio ahora incluyen Smart Titles y Smart Tags para nombrar y organizar archivos de manera eficiente.",
+          "Habilitado por App para la Organización Digital: Escanea y sube tu trabajo escrito directamente a plataformas en la nube como Google Drive, Dropbox, OneNote, etc. y accede a tus notas desde cualquier lugar. Utiliza Smart Titles y Smart Tags para nombrar y organizar archivos de manera eficiente.",
+          "Escribe, Digitaliza, Borra y Reescribe: Escribe notas con el Pilot Frixion Pen incluido, digitaliza sin esfuerzo usando la aplicación Rocketbook, almacena en tu servicio de nube preferido. Cuando termines, simplemente limpia las páginas con un paño húmedo y comienza de nuevo.",
+          "Tamaños Portátiles y Versátiles: Disponible en dos tamaños—Letter (8.5 x 11 inches) y Executive (6 x 8.8 inches)—el Rocketbook Core es lo suficientemente compacto como para caber en mochilas, bolsos o maletines. Este cuaderno ofrece portabilidad y versatilidad.",
+          "Reusabilidad Ecológica: Diseñados con la sostenibilidad en mente, los cuadernos Rocketbook ayudan a reducir el desperdicio de papel con una alternativa reutilizable. Disfruta de un cuaderno similar al papel que se puede usar repetidamente, permitiéndote guardar el trabajo y borrar todo lo demás."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Anker PowerPort Atom III",
+        "productId": "B09C5RG6KV",
+        "productName": "Anker PowerPort Atom III",
+        "filename": "B09C5RG6KV.mp4",
+        "asin": "B09C5RG6KV",
+        "videoDuration": 224.224,
+        "estimatedAudioSeconds": 33,
+        "framework": "dato_numerico",
+        "narracionSegments": null,
+        "content": [
+          "¿Cansado de tantos cargadores? Anker PowerPort Atom III viene con una potencia futurista. Este único cargador tiene 65W, suficiente para cargar un MacBook Pro 13” a máxima velocidad. Además, puedes conectar hasta tres dispositivos y su tecnología GaN II asegura una carga eficiente sin perder potencia. Conecta tu teléfono, tableta y portátil USB-C fácilmente. El diseño compacto hace que sea del tamaño de unos AirPods Pro, ideal para llevar a cualquier lugar.",
+          "Su precio actual ronda los... 30 dólares. ¡Link ya!"
+        ],
+        "visuals": [
+          "Product image: Anker PowerPort Atom III"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B09C5RG6KV.mp4",
+        "precio": "$30",
+        "productPhoto": "https://m.media-amazon.com/images/I/5164giE9fFL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "El único cargador que necesitas: Di adiós a tus viejos cargadores. Anker 735 Charger (Nano II 65W) tiene la potencia que necesitas para cargar rápidamente tu teléfono, tableta y portátil USB-C desde un solo cargador.",
+          "Carga de alta velocidad: Conecta un solo dispositivo para obtener una carga máxima de 65W—eso es suficiente para cargar un MacBook Pro 13″ de 2020 a máxima velocidad. Y cuando conectas tres dispositivos, la energía se distribuirá de manera eficiente entre los puertos para asegurarte de que obtengas la mejor carga.",
+          "Diseño Compacto: Carga hasta 3 dispositivos con un cargador que tiene aproximadamente el tamaño de un estuche de AirPods Pro.",
+          "Impulsado por la tecnología GaN II: Con un aumento del 100% en la frecuencia de operación, un diseño apilado innovador y una estructura de placa de circuito mejorada, la tecnología GaN II hace que nuestro último cargador sea más pequeño sin sacrificar ni una gota de potencia.",
+          "Lo que obtienes: Anker 735 Charger (Nano II 65W) / PowerPort III 3-Port 65W Pod, guía de bienvenida, nuestra garantía de 18 meses sin preocupaciones y un servicio al cliente amable."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Twelve South Curve",
+        "productId": "B07377XVNY",
+        "productName": "Twelve South Curve",
+        "filename": "B07377XVNY.mp4",
+        "asin": "B07377XVNY",
+        "videoDuration": 32.632233,
+        "estimatedAudioSeconds": 31,
+        "framework": "experiencia_sensorial",
+        "narracionSegments": null,
+        "content": [
+          "¿Dolores de cuello al trabajar con tu laptop? Twelve South Curve eleva tu portátil 15 cm, mejorando la ergonomía y reduciendo tensiones. Siente la suavidad de las almohadillas de silicona antideslizantes, manteniendo todo en su lugar. Coloca tu portátil sobre el Curve, siente cómo encaja perfectamente. Combínalo con teclado y ratón para transformar tu escritorio. Disfruta la comodidad de una configuración personal adecuada mientras trabajas o ves contenido.",
+          "Su precio actual ronda los 60 dólares. ¡Link ya!"
+        ],
+        "visuals": [
+          "Product image: Twelve South Curve"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07377XVNY.mp4",
+        "precio": "$60",
+        "productPhoto": "https://m.media-amazon.com/images/I/71Edav343nL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "Diseñado, vendido y respaldado por Twelve South, un negocio familiar pequeño en Charleston, Carolina del Sur.",
+          "Protección - Las almohadillas de silicona antideslizantes y los brazos doblados mantienen la laptop en su lugar y previenen arañazos.",
+          "Mejor ergonomía: Curve eleva el portátil 6 inches (15cm) sobre tu escritorio para aliviar la tensión en el cuello y los hombros.",
+          "Múltiples Usos - Combínalo con un teclado y ratón de tamaño completo para una configuración de escritorio cómoda o úsalo con un monitor para funcionalidad de pantalla dual."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Logitech MX Master 3",
+        "productId": "B0FB21526X",
+        "productName": "Logitech MX Master 3",
+        "filename": "B0FB21526X.mp4",
+        "asin": "B0FB21526X",
+        "videoDuration": 15.083,
+        "estimatedAudioSeconds": 30,
+        "framework": "problema_solucion",
+        "narracionSegments": null,
+        "content": [
+          "¿Cansado de ratones incómodos e imprecisos? Logitech MX Master 3S Bluetooth Edition es la solución definitiva. Con seguimiento 8K DPI en cualquier superficie, incluso vidrio, y clicks silenciosos para una experiencia tranquila. Desplazamiento MagSpeed ofrece precisión y velocidad increíble, casi sin ruido. Enchufa y desliza sin esfuerzo gracias a su diseño ergonómico que cuida tu postura y optimiza el control con su forma adaptada al pulgar.",
+          "Su precio actual ronda los 80 dólares. ¡Link ya!"
+        ],
+        "visuals": [
+          "Product image: Logitech MX Master 3"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0FB21526X.mp4",
+        "precio": "$80",
+        "productPhoto": "https://m.media-amazon.com/images/I/61oEwT0WpSL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "La Logitech MX Master 3S Bluetooth Edition es un ratón solo Bluetooth y no viene con ningún receptor / adaptador USB ni cable de carga.",
+          "8K DPI Seguimiento en cualquier superficie: Usa el ratón inalámbrico MX Master 3S para trabajar en cualquier superficie - incluso vidrio (1) - con un sensor de 8000 DPI y sensibilidad personalizable.",
+          "Clicks silenciosos: ratón Bluetooth MX Master 3S con Clicks silenciosos - ofreciendo la misma sensación satisfactoria pero con un 90% menos de ruido al hacer clic (2).",
+          "Desplazamiento Magspeed: Un ratón de computadora con una velocidad, precisión y casi silencio notables - El desplazamiento MagSpeed es un 90% más rápido (3), un 87% más preciso (4) y ultra silencioso.",
+          "Diseño ergonómico: Trabaja cómodamente con un mouse de precisión que presenta una silueta diseñada para una postura de muñeca más natural y controles para el pulgar colocados de manera óptima."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Tile Mate Tracker",
+        "productId": "B0D636M1RN",
+        "productName": "Tile Mate Tracker",
+        "filename": "B0D636M1RN.mp4",
+        "asin": "B0D636M1RN",
+        "videoDuration": 156.353467,
+        "estimatedAudioSeconds": 30,
+        "framework": "enfoque_caracteristica",
+        "narracionSegments": null,
+        "content": [
+          "¿Siempre pierdes tus objetos? Tile Mate Tracker con tecnología avanzada te ayuda a encontrarlos. Activa una alerta desde la app gratuita y tu Tile llamará. Localiza tus pertenencias o encuentra tu teléfono, incluso cuando está en silencio. Integra con Life360 para tener todo visible en un solo mapa. Mantente seguro activando SOS discreto para tus seres queridos en emergencias. Ideal para llaves, billetera y más.",
+          "Su precio actual ronda los... 25 dólares. ¡Link ya!"
+        ],
+        "visuals": [
+          "Product image: Tile Mate Tracker"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0D636M1RN.mp4",
+        "precio": "$25",
+        "productPhoto": "https://m.media-amazon.com/images/I/717H--cYAXL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "NUESTRA COMBINACIÓN FAVORITA: Usa el Tile Mate y Slim para tus llaves, billetera, bolsas y más. Protege tus cosas perdidas o robadas y facilita la vida familiar.",
+          "ENCUENTRA TUS COSAS: Llama a tu Tile extraviado o localízalo en la app gratuita.",
+          "ENCUENTRA TU TELÉFONO: ¿Teléfono escondido bajo un cojín? Usa tu Tile para hacerlo sonar, incluso cuando está en silencio.",
+          "MANTENTE SEGURO CON SOS: Activa de manera discreta una alerta SOS para tus seres queridos en situaciones peligrosas.",
+          "USAR CON LIFE360: Agrega tus Tiles a Life360, una de las mejores aplicaciones de conexión familiar y seguridad, para ver todo y a todos en el mismo mapa."
+        ]
+      }
+    ],
+    "totalDuration": 200
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      ""
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "3:50",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "para",
+    "mejorar",
+    "productividad",
+    "oficina"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 5 Gadgets para Mejorar tu Productividad en la Oficina",
+      "angle": "Top 5 Gadgets para Mejorar tu Productividad en la Oficina",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 5,
+      "introScript": "Imagina un dispositivo que carga tu teléfono en minutos, o un cuaderno que digitaliza tus notas al instante. ¿Qué tal un soporte que eleva tu computadora portátil para evitar el dolor de cuello? Prepárate para descubrir los gadgets más ingeniosos que transformarán tu rutina de oficina en una experiencia eficiente y tecnológica. Desde cargar tus dispositivos más rápido hasta ayudarte a organizar tus ideas como nunca, estos inventos harán que te preguntes cómo has trabajado sin ellos hasta ahora.",
+      "keywords": [
+        "gadgets",
+        "para",
+        "mejorar",
+        "productividad",
+        "oficina"
+      ],
+      "estimatedViews": 5225,
+      "bestPublishTime": "2026-07-14T19:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Rocketbook Smart Notebook",
+          "searchTermEn": "rocketbook smart notebook reusable",
+          "id": "B0DP3HLY4J",
+          "filename": "B0DP3HLY4J.mp4"
+        },
+        {
+          "nombre": "Anker PowerPort Atom III",
+          "searchTermEn": "anker powerport atom iii charger",
+          "id": "B09C5RG6KV",
+          "filename": "B09C5RG6KV.mp4"
+        },
+        {
+          "nombre": "Twelve South Curve",
+          "searchTermEn": "twelve south curve laptop stand",
+          "id": "B07377XVNY",
+          "filename": "B07377XVNY.mp4"
+        },
+        {
+          "nombre": "Logitech MX Master 3",
+          "searchTermEn": "logitech mx master 3 mouse",
+          "id": "B0FB21526X",
+          "filename": "B0FB21526X.mp4"
+        },
+        {
+          "nombre": "Tile Mate Tracker",
+          "searchTermEn": "tile mate item locator",
+          "id": "B0D636M1RN",
+          "filename": "B0D636M1RN.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-07-09T01:18:36.664Z",
+      "_requestedCount": 5,
+      "_adaptedCount": 5,
+      "introProductsOrder": [
+        {
+          "nombre": "Anker PowerPort Atom III",
+          "id": "B09C5RG6KV",
+          "filename": "B09C5RG6KV.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B09C5RG6KV.mp4"
+        },
+        {
+          "nombre": "Rocketbook Smart Notebook",
+          "id": "B0DP3HLY4J",
+          "filename": "B0DP3HLY4J.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0DP3HLY4J.mp4"
+        },
+        {
+          "nombre": "Logitech MX Master 3",
+          "id": "B0FB21526X",
+          "filename": "B0FB21526X.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0FB21526X.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1783560879243_2cmosk"
+    },
+    "generatedAt": "2026-07-09T01:35:07.289Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Rocketbook Smart Notebook",
+        "searchTermEn": "rocketbook smart notebook reusable",
+        "id": "B0DP3HLY4J",
+        "filename": "B0DP3HLY4J.mp4"
+      },
+      {
+        "nombre": "Anker PowerPort Atom III",
+        "searchTermEn": "anker powerport atom iii charger",
+        "id": "B09C5RG6KV",
+        "filename": "B09C5RG6KV.mp4"
+      },
+      {
+        "nombre": "Twelve South Curve",
+        "searchTermEn": "twelve south curve laptop stand",
+        "id": "B07377XVNY",
+        "filename": "B07377XVNY.mp4"
+      },
+      {
+        "nombre": "Logitech MX Master 3",
+        "searchTermEn": "logitech mx master 3 mouse",
+        "id": "B0FB21526X",
+        "filename": "B0FB21526X.mp4"
+      },
+      {
+        "nombre": "Tile Mate Tracker",
+        "searchTermEn": "tile mate item locator",
+        "id": "B0D636M1RN",
+        "filename": "B0D636M1RN.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 5 Gadgets para Mejorar tu Productividad en la Oficina\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\n\n\n[25s-35s] INTRODUCTION\n\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] SMART REUSABLE NOTEBOOK\n¿Aún pagas por cuadernos que usas una sola vez? El Smart Reusable Notebook es la solución futurista. Con un papel reutilizable premium, digitaliza tus notas al instante a Google Drive u otras nubes. Escribe con el Pilot Frixion Pen, escanea con la app Rocketbook y borra con un paño húmedo. Lleva todo en tamaños portátiles Letter o Executive. Cambia el mundo del papel por solo 30 dólares.\nSu precio actual ronda los... 30 dólares. ¡Link ya!\n\n[VISUALS: Product image: Smart Reusable Notebook]\n\n[0:25] ANKER POWERPORT ATOM III\n¿Cansado de tantos cargadores? Anker PowerPort Atom III viene con una potencia futurista. Este único cargador tiene 65W, suficiente para cargar un MacBook Pro 13” a máxima velocidad. Además, puedes conectar hasta tres dispositivos y su tecnología GaN II asegura una carga eficiente sin perder potencia. Conecta tu teléfono, tableta y portátil USB-C fácilmente. El diseño compacto hace que sea del tamaño de unos AirPods Pro, ideal para llevar a cualquier lugar.\nSu precio actual ronda los... 30 dólares. ¡Link ya!\n\n[VISUALS: Product image: Anker PowerPort Atom III]\n\n[0:25] TWELVE SOUTH CURVE\n¿Dolores de cuello al trabajar con tu laptop? Twelve South Curve eleva tu portátil 15 cm, mejorando la ergonomía y reduciendo tensiones. Siente la suavidad de las almohadillas de silicona antideslizantes, manteniendo todo en su lugar. Coloca tu portátil sobre el Curve, siente cómo encaja perfectamente. Combínalo con teclado y ratón para transformar tu escritorio. Disfruta la comodidad de una configuración personal adecuada mientras trabajas o ves contenido.\nSu precio actual ronda los 60 dólares. ¡Link ya!\n\n[VISUALS: Product image: Twelve South Curve]\n\n[0:25] LOGITECH MX MASTER 3\n¿Cansado de ratones incómodos e imprecisos? Logitech MX Master 3S Bluetooth Edition es la solución definitiva. Con seguimiento 8K DPI en cualquier superficie, incluso vidrio, y clicks silenciosos para una experiencia tranquila. Desplazamiento MagSpeed ofrece precisión y velocidad increíble, casi sin ruido. Enchufa y desliza sin esfuerzo gracias a su diseño ergonómico que cuida tu postura y optimiza el control con su forma adaptada al pulgar.\nSu precio actual ronda los 80 dólares. ¡Link ya!\n\n[VISUALS: Product image: Logitech MX Master 3]\n\n[0:25] TILE MATE TRACKER\n¿Siempre pierdes tus objetos? Tile Mate Tracker con tecnología avanzada te ayuda a encontrarlos. Activa una alerta desde la app gratuita y tu Tile llamará. Localiza tus pertenencias o encuentra tu teléfono, incluso cuando está en silencio. Integra con Life360 para tener todo visible en un solo mapa. Mantente seguro activando SOS discreto para tus seres queridos en emergencias. Ideal para llaves, billetera y más.\nSu precio actual ronda los... 25 dólares. ¡Link ya!\n\n[VISUALS: Product image: Tile Mate Tracker]\n\n[10 seconds] CONCLUSION\n\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 3:50\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, para, mejorar, productividad, oficina\n"
+}

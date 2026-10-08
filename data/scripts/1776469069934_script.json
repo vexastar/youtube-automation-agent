@@ -1,0 +1,167 @@
+{
+  "title": "Top 3 Gadgets Increíbles de 2026 que Debes Conocer",
+  "hook": {
+    "type": "statement",
+    "text": "Este dispositivo purifica y carga a la vez. Esta boquilla convierte agua sucia en potable. Y este reloj usa el sol para funcionar.",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "Suscríbete, los links están en el primer comentario. Empecemos.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0:10-0:15"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Purificador y cargador",
+        "productId": "B0DG5S291H",
+        "productName": "Purificador y cargador",
+        "filename": "B0DG5S291H.mp4",
+        "content": [
+          "¿Cansado de llevar mil cables y dispositivos para mantener todo limpio y cargado? El Purificador y cargador resuelve eso al limpiar y cargar tus dispositivos simultáneamente. Perfecto para quienes se preocupan por la higiene y la carga sobre la marcha.",
+          "Su precio actual en Amazon ronda los... 180 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Purificador y cargador"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0DG5S291H.mp4",
+        "precio": "$180"
+      },
+      {
+        "type": "content",
+        "title": "Boquilla filtrante portátil",
+        "productId": "B0BY3CB961",
+        "productName": "Boquilla filtrante portátil",
+        "filename": "B0BY3CB961.mp4",
+        "content": [
+          "Beber agua en cualquier lugar puede ser un riesgo para tu salud. La Boquilla filtrante portátil purifica el agua directamente desde la fuente para que bebas con tranquilidad. Ideal para aventureros y viajeros frecuentes.",
+          "Su precio actual en Amazon ronda los... 40 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Boquilla filtrante portátil"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0BY3CB961.mp4",
+        "precio": "$40"
+      },
+      {
+        "type": "content",
+        "title": "Reloj solar inteligente",
+        "productId": "B0BW34M77J",
+        "productName": "Reloj solar inteligente",
+        "filename": "B0BW34M77J.mp4",
+        "content": [
+          "Cargar tu reloj cada noche es una molestia innecesaria. El Reloj solar inteligente utiliza energía solar para alimentarse, evitando así la preocupación de quedarte sin batería. Elegante, ecológico y siempre listo.",
+          "Su precio actual en Amazon ronda los... 379 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Reloj solar inteligente"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0BW34M77J.mp4",
+        "precio": "$379"
+      }
+    ],
+    "totalDuration": 75
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "Dale like si te gustó, y recuerda que los links están en el primer comentario."
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:45",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "increbles",
+    "2026",
+    "debes",
+    "conocer"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "5 Gadgets Increíbles de 2026 que Debes Conocer",
+      "angle": "5 Gadgets Increíbles de 2026 que Debes Conocer",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 3,
+      "introScript": "¿Te imaginas un dispositivo que purifica el aire y carga tu teléfono al mismo tiempo? ¿O una boquilla que convierte cualquier botella en una fuente de agua filtrada? Estos son solo algunos de los gadgets más innovadores del 2026 que te sorprenderán.",
+      "keywords": [
+        "gadgets",
+        "increbles",
+        "2026",
+        "debes",
+        "conocer"
+      ],
+      "estimatedViews": 5551,
+      "bestPublishTime": "2026-04-23T19:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Purificador y cargador",
+          "searchTermEn": "air purifier phone charger",
+          "id": "B0DG5S291H",
+          "filename": "B0DG5S291H.mp4"
+        },
+        {
+          "nombre": "Boquilla filtrante portátil",
+          "searchTermEn": "portable water bottle filter",
+          "id": "B0BY3CB961",
+          "filename": "B0BY3CB961.mp4"
+        },
+        {
+          "nombre": "Reloj solar inteligente",
+          "searchTermEn": "solar smart watch",
+          "id": "B0BW34M77J",
+          "filename": "B0BW34M77J.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-04-17T23:33:33.158Z",
+      "_requestedCount": 5,
+      "_adaptedCount": 3,
+      "_adaptationNote": "ATENCIÓN: El usuario pidió 5 productos pero solo hay 3 clips de video disponibles. El guion, título y narrativa deben referirse EXCLUSIVAMENTE a 3 productos.",
+      "_scriptNonce": "nonce_1776469064619_ikh02s"
+    },
+    "generatedAt": "2026-04-17T23:37:49.619Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Purificador y cargador",
+        "searchTermEn": "air purifier phone charger",
+        "id": "B0DG5S291H",
+        "filename": "B0DG5S291H.mp4"
+      },
+      {
+        "nombre": "Boquilla filtrante portátil",
+        "searchTermEn": "portable water bottle filter",
+        "id": "B0BY3CB961",
+        "filename": "B0BY3CB961.mp4"
+      },
+      {
+        "nombre": "Reloj solar inteligente",
+        "searchTermEn": "solar smart watch",
+        "id": "B0BW34M77J",
+        "filename": "B0BW34M77J.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 3 Gadgets Increíbles de 2026 que Debes Conocer\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\nEste dispositivo purifica y carga a la vez. Esta boquilla convierte agua sucia en potable. Y este reloj usa el sol para funcionar.\n\n[0:10-0:15] INTRODUCTION\nSuscríbete, los links están en el primer comentario. Empecemos.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] PURIFICADOR Y CARGADOR\n¿Cansado de llevar mil cables y dispositivos para mantener todo limpio y cargado? El Purificador y cargador resuelve eso al limpiar y cargar tus dispositivos simultáneamente. Perfecto para quienes se preocupan por la higiene y la carga sobre la marcha.\nSu precio actual en Amazon ronda los... 180 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Purificador y cargador]\n\n[0:25] BOQUILLA FILTRANTE PORTÁTIL\nBeber agua en cualquier lugar puede ser un riesgo para tu salud. La Boquilla filtrante portátil purifica el agua directamente desde la fuente para que bebas con tranquilidad. Ideal para aventureros y viajeros frecuentes.\nSu precio actual en Amazon ronda los... 40 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Boquilla filtrante portátil]\n\n[0:25] RELOJ SOLAR INTELIGENTE\nCargar tu reloj cada noche es una molestia innecesaria. El Reloj solar inteligente utiliza energía solar para alimentarse, evitando así la preocupación de quedarte sin batería. Elegante, ecológico y siempre listo.\nSu precio actual en Amazon ronda los... 379 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Reloj solar inteligente]\n\n[10 seconds] CONCLUSION\nDale like si te gustó, y recuerda que los links están en el primer comentario.\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:45\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, increbles, 2026, debes, conocer\n"
+}

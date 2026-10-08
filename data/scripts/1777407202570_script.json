@@ -1,0 +1,167 @@
+{
+  "title": "Top 3 Gadgets Increíbles para tu Jardín",
+  "hook": {
+    "type": "statement",
+    "text": "Luces LED transforman tu espacio al instante. Hidratante revolucionario conecta en segundos. Controla el riego desde tu smartphone.",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "Suscríbete, los links están en el primer comentario. Empecemos.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0:10-0:15"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Govee LED Outdoor String Lights",
+        "productId": "B0DX1WPB9J",
+        "productName": "Govee LED Outdoor String Lights",
+        "filename": "B0DX1WPB9J.mp4",
+        "content": [
+          "¿Tu patio se ve aburrido por la noche? Las Govee LED Outdoor String Lights iluminan tu jardín con múltiples colores. Son resistentes al agua y controlables vía app.",
+          "Su precio actual en Amazon ronda los... 600 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Govee LED Outdoor String Lights"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0DX1WPB9J.mp4",
+        "precio": "$600",
+        "productPhoto": "https://m.media-amazon.com/images/I/71zGM87UFOL.jpg"
+      },
+      {
+        "type": "content",
+        "title": "Aquor House Hydrant V2+",
+        "productId": "B084ZY2YJP",
+        "productName": "Aquor House Hydrant V2+",
+        "filename": "B084ZY2YJP.mp4",
+        "content": [
+          "Enroscar y desenroscar mangueras exteriores cada vez es tedioso. Con el Aquor House Hydrant V2+ conectas y desconectas en un simple clic. Hecho de acero inoxidable para máxima durabilidad.",
+          "Su precio actual en Amazon ronda los... 40 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Aquor House Hydrant V2+"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B084ZY2YJP.mp4",
+        "precio": "$40",
+        "productPhoto": "https://m.media-amazon.com/images/I/71JyJR8tiZL.jpg"
+      },
+      {
+        "type": "content",
+        "title": "Gardena Smart Water Control",
+        "productId": "B01D15HOIQ",
+        "productName": "Gardena Smart Water Control",
+        "filename": "B01D15HOIQ.mp4",
+        "content": [
+          "Regar el jardín manualmente puede ser un desafío. Gardena Smart Water Control te permite gestionar el riego desde tu smartphone. Compatible con asistentes inteligentes para automatización completa.",
+          "Su precio actual en Amazon ronda los... 125 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Gardena Smart Water Control"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B01D15HOIQ.mp4",
+        "precio": "$125",
+        "productPhoto": "https://m.media-amazon.com/images/I/71xWw3VkecL.jpg"
+      }
+    ],
+    "totalDuration": 75
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "¡Dale like al video y recuerda que los links están en el primer comentario!"
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:45",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "increbles",
+    "para",
+    "jardn"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 3 Gadgets Increíbles para tu Jardín",
+      "angle": "Top 3 Gadgets Increíbles para tu Jardín",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 3,
+      "introScript": "¿Una manguera que se enrolla sola con solo presionar un botón? ¿Luces que se encienden automáticamente al caer la noche? Hoy te muestro tres gadgets para convertir tu jardín en un oasis tecnológico.",
+      "keywords": [
+        "gadgets",
+        "increbles",
+        "para",
+        "jardn"
+      ],
+      "estimatedViews": 3690,
+      "bestPublishTime": "2026-04-30T19:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Govee LED Outdoor String Lights",
+          "searchTermEn": "Govee LED outdoor lights",
+          "id": "B0DX1WPB9J",
+          "filename": "B0DX1WPB9J.mp4"
+        },
+        {
+          "nombre": "Aquor House Hydrant V2+",
+          "searchTermEn": "Aquor House Hydrant V2 plus",
+          "id": "B084ZY2YJP",
+          "filename": "B084ZY2YJP.mp4"
+        },
+        {
+          "nombre": "Gardena Smart Water Control",
+          "searchTermEn": "Gardena smart water control",
+          "id": "B01D15HOIQ",
+          "filename": "B01D15HOIQ.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-04-28T20:09:41.096Z",
+      "_requestedCount": 3,
+      "_adaptedCount": 3,
+      "_scriptNonce": "nonce_1777407184612_ys31c5"
+    },
+    "generatedAt": "2026-04-28T20:13:10.251Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Govee LED Outdoor String Lights",
+        "searchTermEn": "Govee LED outdoor lights",
+        "id": "B0DX1WPB9J",
+        "filename": "B0DX1WPB9J.mp4"
+      },
+      {
+        "nombre": "Aquor House Hydrant V2+",
+        "searchTermEn": "Aquor House Hydrant V2 plus",
+        "id": "B084ZY2YJP",
+        "filename": "B084ZY2YJP.mp4"
+      },
+      {
+        "nombre": "Gardena Smart Water Control",
+        "searchTermEn": "Gardena smart water control",
+        "id": "B01D15HOIQ",
+        "filename": "B01D15HOIQ.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 3 Gadgets Increíbles para tu Jardín\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\nLuces LED transforman tu espacio al instante. Hidratante revolucionario conecta en segundos. Controla el riego desde tu smartphone.\n\n[0:10-0:15] INTRODUCTION\nSuscríbete, los links están en el primer comentario. Empecemos.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] GOVEE LED OUTDOOR STRING LIGHTS\n¿Tu patio se ve aburrido por la noche? Las Govee LED Outdoor String Lights iluminan tu jardín con múltiples colores. Son resistentes al agua y controlables vía app.\nSu precio actual en Amazon ronda los... 600 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Govee LED Outdoor String Lights]\n\n[0:25] AQUOR HOUSE HYDRANT V2+\nEnroscar y desenroscar mangueras exteriores cada vez es tedioso. Con el Aquor House Hydrant V2+ conectas y desconectas en un simple clic. Hecho de acero inoxidable para máxima durabilidad.\nSu precio actual en Amazon ronda los... 40 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Aquor House Hydrant V2+]\n\n[0:25] GARDENA SMART WATER CONTROL\nRegar el jardín manualmente puede ser un desafío. Gardena Smart Water Control te permite gestionar el riego desde tu smartphone. Compatible con asistentes inteligentes para automatización completa.\nSu precio actual en Amazon ronda los... 125 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Gardena Smart Water Control]\n\n[10 seconds] CONCLUSION\n¡Dale like al video y recuerda que los links están en el primer comentario!\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:45\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, increbles, para, jardn\n"
+}

@@ -1,0 +1,166 @@
+{
+  "title": "Top 3 Gadgets Nuevos en Amazon que la Están Rompiendo",
+  "hook": {
+    "type": "statement",
+    "text": "Recarga tus dispositivos con energía solar donde estés. Traduce conversaciones al instante con un dispositivo de bolsillo. Guarda tus tarjetas y localízalas fácilmente.",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "Suscríbete, los links están en el primer comentario. Empecemos.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0:10-0:15"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Anker PowerPort Solar",
+        "productId": "B0BX9FCSQQ",
+        "productName": "Anker PowerPort Solar",
+        "filename": "B0BX9FCSQQ.mp4",
+        "content": [
+          "¿Cansado de quedarte sin batería al aire libre? El Anker PowerPort Solar carga tus dispositivos usando solo la luz del sol. Compacto y resistente, es ideal para cualquier aventura.",
+          "Su precio actual en Amazon ronda los... 80 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Anker PowerPort Solar"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0BX9FCSQQ.mp4",
+        "precio": "$80"
+      },
+      {
+        "type": "content",
+        "title": "Pocketalk Traductor Instantáneo",
+        "productId": "B082VMWRFL",
+        "productName": "Pocketalk Traductor Instantáneo",
+        "filename": "B082VMWRFL.mp4",
+        "content": [
+          "¿Problemas para comunicarte en otro idioma durante tus viajes? El Pocketalk Traductor Instantáneo traduce en tiempo real más de 70 idiomas. Pequeño y portátil, te acompaña a todas partes.",
+          "Su precio actual en Amazon ronda los... 170 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Pocketalk Traductor Instantáneo"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B082VMWRFL.mp4",
+        "precio": "$170"
+      },
+      {
+        "type": "content",
+        "title": "Ekster Parliament Wallet",
+        "productId": "B07PXM8HX7",
+        "productName": "Ekster Parliament Wallet",
+        "filename": "B07PXM8HX7.mp4",
+        "content": [
+          "¿Pierdes tiempo buscando tus tarjetas en tu billetera? La Ekster Parliament Wallet organiza y expulsa tus tarjetas con un solo botón. Además, es compatible con un rastreador para nunca perderla de vista.",
+          "Su precio actual en Amazon ronda los... 99 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Ekster Parliament Wallet"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07PXM8HX7.mp4",
+        "precio": "$99"
+      }
+    ],
+    "totalDuration": 75
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "Dale like y recuerda que los links están en el primer comentario."
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:45",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "nuevos",
+    "amazon",
+    "estn",
+    "rompiendo"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 3 Gadgets Nuevos en Amazon que la Están Rompiendo",
+      "angle": "Top 3 Gadgets Nuevos en Amazon que la Están Rompiendo",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 3,
+      "introScript": "¿Un cargador que funciona a energía solar siendo más rápido de lo que imaginas? ¿O tal vez un traductor instantáneo en tiempo real que cabe en tu bolsillo? Hoy te traigo los gadgets más revolucionarios que están marcando tendencia en Amazon.",
+      "keywords": [
+        "gadgets",
+        "nuevos",
+        "amazon",
+        "estn",
+        "rompiendo"
+      ],
+      "estimatedViews": 4189,
+      "bestPublishTime": "2026-04-22T19:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Anker PowerPort Solar",
+          "searchTermEn": "Anker PowerPort Solar Charger",
+          "id": "B0BX9FCSQQ",
+          "filename": "B0BX9FCSQQ.mp4"
+        },
+        {
+          "nombre": "Pocketalk Traductor Instantáneo",
+          "searchTermEn": "Pocketalk Instant Translator",
+          "id": "B082VMWRFL",
+          "filename": "B082VMWRFL.mp4"
+        },
+        {
+          "nombre": "Ekster Parliament Wallet",
+          "searchTermEn": "Ekster Parliament Wallet",
+          "id": "B07PXM8HX7",
+          "filename": "B07PXM8HX7.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-04-20T19:11:14.937Z",
+      "_requestedCount": 3,
+      "_adaptedCount": 3,
+      "_scriptNonce": "nonce_1776712406707_rna3e7"
+    },
+    "generatedAt": "2026-04-20T19:13:32.038Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Anker PowerPort Solar",
+        "searchTermEn": "Anker PowerPort Solar Charger",
+        "id": "B0BX9FCSQQ",
+        "filename": "B0BX9FCSQQ.mp4"
+      },
+      {
+        "nombre": "Pocketalk Traductor Instantáneo",
+        "searchTermEn": "Pocketalk Instant Translator",
+        "id": "B082VMWRFL",
+        "filename": "B082VMWRFL.mp4"
+      },
+      {
+        "nombre": "Ekster Parliament Wallet",
+        "searchTermEn": "Ekster Parliament Wallet",
+        "id": "B07PXM8HX7",
+        "filename": "B07PXM8HX7.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 3 Gadgets Nuevos en Amazon que la Están Rompiendo\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\nRecarga tus dispositivos con energía solar donde estés. Traduce conversaciones al instante con un dispositivo de bolsillo. Guarda tus tarjetas y localízalas fácilmente.\n\n[0:10-0:15] INTRODUCTION\nSuscríbete, los links están en el primer comentario. Empecemos.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] ANKER POWERPORT SOLAR\n¿Cansado de quedarte sin batería al aire libre? El Anker PowerPort Solar carga tus dispositivos usando solo la luz del sol. Compacto y resistente, es ideal para cualquier aventura.\nSu precio actual en Amazon ronda los... 80 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Anker PowerPort Solar]\n\n[0:25] POCKETALK TRADUCTOR INSTANTÁNEO\n¿Problemas para comunicarte en otro idioma durante tus viajes? El Pocketalk Traductor Instantáneo traduce en tiempo real más de 70 idiomas. Pequeño y portátil, te acompaña a todas partes.\nSu precio actual en Amazon ronda los... 170 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Pocketalk Traductor Instantáneo]\n\n[0:25] EKSTER PARLIAMENT WALLET\n¿Pierdes tiempo buscando tus tarjetas en tu billetera? La Ekster Parliament Wallet organiza y expulsa tus tarjetas con un solo botón. Además, es compatible con un rastreador para nunca perderla de vista.\nSu precio actual en Amazon ronda los... 99 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Ekster Parliament Wallet]\n\n[10 seconds] CONCLUSION\nDale like y recuerda que los links están en el primer comentario.\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:45\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, nuevos, amazon, estn, rompiendo\n"
+}

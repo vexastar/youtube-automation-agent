@@ -1,0 +1,131 @@
+{
+  "title": "Top 1 Robots que Facilitan tu Día a Día",
+  "hook": {
+    "type": "statement",
+    "text": "Después de analizar decenas de artículos, he llegado a una selección definitiva de productos que harán tu vida más simple. Aquí no hay exageraciones ni relleno, solo utilidad real. Encuentra los enlaces en el primer comentario. Comencemos.",
+    "duration": "0:00-0:15"
+  },
+  "introduction": {
+    "greeting": "",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0s"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Tosima W5 Robot Limpiador de Ventanas",
+        "productId": "B0HJ1LJWK5",
+        "productName": "Tosima W5 Robot Limpiador de Ventanas",
+        "filename": "B0HJ1LJWK5.mp4",
+        "asin": "B0HJ1LJWK5",
+        "videoDuration": 81.9498,
+        "estimatedAudioSeconds": 22,
+        "framework": "enfoque_caracteristica",
+        "narracionSegments": null,
+        "content": [
+          "Conecta fácil. Coloca y enciende. Limpia automáticamente. Tosima W5 es compacto y ligero, ideal para hogares pequeños. Con navegación inteligente, se desplaza eficientemente por las ventanas sin esfuerzo adicional. La succión de seis mil cuatrocientos pascal asegura un agarre confiable mientras reduce el ruido.",
+          "Revisa los comentarios para conseguirlo en Amazon por ciento sesenta dólares."
+        ],
+        "visuals": [
+          "Product image: Tosima W5 Robot Limpiador de Ventanas"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0HJ1LJWK5.mp4",
+        "precio": "$160",
+        "productPhoto": "https://m.media-amazon.com/images/I/61c7mTQBzYL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "Tamaño pequeño, gran conveniencia: El robot limpiador de ventanas Tosima W5 cuenta con un diseño compacto y liviano que es ideal para apartamentos, condominios y casas más pequeñas. Fácil de manejar y almacenar, hace que la limpieza de ventanas diaria sea más conveniente sin equipos voluminosos o escaleras.",
+          "Fácil de usar desde el principio: Simplemente conecta el W5 a una fuente de energía, colócalo sobre el vidrio y enciéndelo; el robot comienza a limpiar automáticamente. No se requiere una configuración complicada ni curva de aprendizaje. La navegación inteligente guía al robot a lo largo de un camino de limpieza eficiente, mientras que el control remoto te permite seleccionar modos de limpieza o controlar manualmente el robot cuando sea necesario.",
+          "Limpieza potente con succión adaptativa: El diseño de limpieza de doble espiral funciona con un sistema de doble pulverización para entregar agua precisamente donde se necesita, ayudando a aflojar el polvo, las huellas dactilares y las manchas difíciles. La succión adaptativa de frecuencia variable alcanza hasta 6400Pa, ajustándose automáticamente a la superficie para un agarre seguro mientras ayuda a reducir el ruido de funcionamiento y proteger las superficies de vidrio.",
+          "Sensor de presión de aire y sistema de triple seguridad: Un sensor de presión de aire sensible detecta bordes y ayuda al robot limpiador de ventanas a limpiar de manera segura el vidrio sin marco. El sistema de triple seguridad combina una fuerte succión, una cuerda de seguridad de alta resistencia que soporta hasta 220kg, y una batería de respaldo de emergencia incorporada que proporciona hasta 25 minutos de energía durante un corte, añadiendo protección al limpiar ventanas en altura.",
+          "Partes reemplazables y embalaje reciclable: Los componentes reemplazables, incluyendo la boquilla de spray y la tapa del tanque de agua, facilitan el mantenimiento rutinario y ayudan a extender la vida útil del robot. El W5 también viene en un embalaje completamente reciclable, ayudando a reducir el desperdicio innecesario de embalaje."
+        ],
+        "originalVideoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0HJ1LJWK5.mp4"
+      }
+    ],
+    "totalDuration": 40
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "¿Cuál de estas innovaciones se lleva tu aprobación? Dale like y recuerda los enlaces en el primer comentario."
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "",
+    "like": "",
+    "comment": "",
+    "nextVideo": "",
+    "duration": "0 seconds"
+  },
+  "duration": "1:10",
+  "tone": "engaging",
+  "tone_variant": "directo y urgente, como si el producto se agotara mañana",
+  "pacing": "quick",
+  "keywords": [
+    "robots",
+    "facilitan"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 1 Robots que Facilitan tu Día a Día",
+      "angle": "Top 3 Robots que Facilitan tu Día a Día",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 1,
+      "introScript": "¿Te imaginas un robot que prepara tus comidas con precisión de chef estelar? ¿O uno que limpia tus ventanas con una eficiencia asombrosa, mientras te relajas viendo una película? Y no te pierdas el innovador robot que se encarga de tu jardín, asegurándose de que tus plantas estén perfectamente cuidadas. Estos son algunos de los robots del futuro que prometen simplificar tu vida de formas que no creías posibles. Descubre cómo estas maravillas tecnológicas están transformando nuestras rutinas diarias.",
+      "keywords": [
+        "robots",
+        "facilitan"
+      ],
+      "estimatedViews": 5099,
+      "bestPublishTime": "2026-09-26T18:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Tosima W5 Robot Limpiador de Ventanas",
+          "searchTermEn": "Gladwell Gecko Window Cleaning Robot",
+          "id": "B0HJ1LJWK5",
+          "filename": "B0HJ1LJWK5.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-09-25T23:02:16.852Z",
+      "_requestedCount": 3,
+      "_adaptedCount": 1,
+      "_adaptationNote": "ATENCIÓN: El usuario pidió 3 productos pero solo hay 1 clips de video disponibles. El guion, título y narrativa deben referirse EXCLUSIVAMENTE a 1 productos.",
+      "introProductsOrder": [
+        {
+          "nombre": "Tosima W5 Robot Limpiador de Ventanas",
+          "id": "B0HJ1LJWK5",
+          "filename": "B0HJ1LJWK5.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0HJ1LJWK5.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1790377591111_cf399m"
+    },
+    "generatedAt": "2026-09-25T23:06:38.206Z",
+    "version": "4.0-dynamic-rotator",
+    "productos": [
+      {
+        "nombre": "Tosima W5 Robot Limpiador de Ventanas",
+        "searchTermEn": "Gladwell Gecko Window Cleaning Robot",
+        "id": "B0HJ1LJWK5",
+        "filename": "B0HJ1LJWK5.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 1 Robots que Facilitan tu Día a Día\n\n══════════════════════════════════════════════════\n\n[0:00-0:15] HOOK\nDespués de analizar decenas de artículos, he llegado a una selección definitiva de productos que harán tu vida más simple. Aquí no hay exageraciones ni relleno, solo utilidad real. Encuentra los enlaces en el primer comentario. Comencemos.\n\n[0s] INTRODUCTION\n\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] TOSIMA W5 ROBOT LIMPIADOR DE VENTANAS\nConecta fácil. Coloca y enciende. Limpia automáticamente. Tosima W5 es compacto y ligero, ideal para hogares pequeños. Con navegación inteligente, se desplaza eficientemente por las ventanas sin esfuerzo adicional. La succión de seis mil cuatrocientos pascal asegura un agarre confiable mientras reduce el ruido.\nRevisa los comentarios para conseguirlo en Amazon por ciento sesenta dólares.\n\n[VISUALS: Product image: Tosima W5 Robot Limpiador de Ventanas]\n\n[10 seconds] CONCLUSION\n¿Cuál de estas innovaciones se lleva tu aprobación? Dale like y recuerda los enlaces en el primer comentario.\n\n\n\n[0 seconds] CALL TO ACTION\n\n\n\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:10\nTONE: engaging\nPACING: quick\nKEYWORDS: robots, facilitan\n"
+}

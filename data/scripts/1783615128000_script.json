@@ -1,0 +1,134 @@
+{
+  "title": "Top 1 Gadget para Mejorar la Vida en Casa",
+  "hook": {
+    "type": "statement",
+    "text": "",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "25s-35s"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Airthereal Purificador PA1K",
+        "productId": "B08V8N5XNQ",
+        "productName": "Airthereal Purificador PA1K",
+        "filename": "B08V8N5XNQ.mp4",
+        "asin": "B08V8N5XNQ",
+        "videoDuration": 78.008533,
+        "estimatedAudioSeconds": 34,
+        "framework": "enfoque_caracteristica",
+        "narracionSegments": null,
+        "content": [
+          "¿Odias esos olores persistentes? El Airthereal Purificador P.A., mil. K combate esto. Con una capacidad para espacios de hasta quinientos pies cuadrados, genera mil miligramos por hora de ozono. Funciona durante cuatro horas... ¡con una carga completa! Colócalo en tu coche, oficina o baño; transforma el aire; elimina olores de humo o mascotas. Sin cables y portátil, este purificador te sigue donde lo necesites. Activa sus cuatro modos; adapta según el mal olor presente.",
+          "Su precio actual ronda los... 65 dólares. Link en comentarios."
+        ],
+        "visuals": [
+          "Product image: Airthereal Purificador PA1K"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B08V8N5XNQ.mp4",
+        "precio": "$65",
+        "productPhoto": "https://m.media-amazon.com/images/I/616HvZA+r1L.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "ALTA CAPACIDAD: Mejor utilizado en espacios de hasta 500 sq ft, la salida de ozono de 1,000mg/h puede funcionar hasta 4 horas con una carga completa para eliminar olores difíciles y partículas dañinas en áreas pequeñas como tu coche, oficina, baño, habitación de mascotas y más.",
+          "\"\"\"TOTALMENTE PORTÁTIL: Sin cables y alimentado por batería, el PA1K-GO facilita su uso en tu vehículo o para desinfectar habitaciones de hotel, toallas, sábanas, ropa o equipaje mientras viajas.\"\"\"",
+          "\"\"\"ELIMINAR OLORES: Elimina todos los olores, incluyendo humo, mascotas, cocina, moho y hongos, productos de mejora del hogar, y compuestos orgánicos volátiles (VOCs) como formaldehído y amoníaco. Los cazadores pueden usar ozono en su equipo para prevenir que el olor humano alerte a los animales.\"\"\"",
+          "\"\"\"4 MODOS PARA ELEGIR: Haz funcionar el generador de ozono de forma continua hasta que lo apagues, ejecuta un ciclo repetitivo de 15 minutos seguido de un período de descanso de 45 minutos, o programa un temporizador para 1 o 2 horas. Dependiendo de cuán maloliente esté el área, tienes la configuración perfecta para eliminar cualquier olor.\"\"\"",
+          "\"\"\"PALABRA DE ADVERTENCIA: Todos los generadores de ozono deben ser utilizados únicamente en espacios desocupados. No permita que personas o mascotas ingresen al área hasta 30 minutos después de que finalice la generación de ozono. No disponible para la venta en California; EPA Est. No.: 94720-CHN-1.\"\"\""
+        ]
+      }
+    ],
+    "totalDuration": 40
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      ""
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:10",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadget",
+    "para",
+    "mejorar",
+    "vida",
+    "casa"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 1 Gadget para Mejorar la Vida en Casa",
+      "angle": "Top 1 Gadget para Mejorar la Vida en Casa",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 1,
+      "introScript": "Imagina un dispositivo que transforma tu hogar en un verdadero oasis de confort. Un gadget que no solo ilumina cualquier rincón de tu casa, sino que además purifica el aire eliminando alérgenos y malos olores. Y todo esto con un diseño elegante y moderno que se adapta a cualquier decoración. ¿Te sorprende? Hoy te presento una innovación que está revolucionando la forma en que vivimos en casa. No te lo pierdas y descubre cómo un solo dispositivo puede cambiar por completo tu ambiente cotidiano.",
+      "keywords": [
+        "gadget",
+        "para",
+        "mejorar",
+        "vida",
+        "casa"
+      ],
+      "estimatedViews": 4992,
+      "bestPublishTime": "2026-07-11T15:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Airthereal Purificador PA1K",
+          "searchTermEn": "Airthereal PA1K ozone generator",
+          "id": "B08V8N5XNQ",
+          "filename": "B08V8N5XNQ.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-07-09T16:36:12.346Z",
+      "_requestedCount": 1,
+      "_adaptedCount": 1,
+      "introProductsOrder": [
+        {
+          "nombre": "Airthereal Purificador PA1K",
+          "id": "B08V8N5XNQ",
+          "filename": "B08V8N5XNQ.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B08V8N5XNQ.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1783615090620_e286kv"
+    },
+    "generatedAt": "2026-07-09T16:38:21.379Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Airthereal Purificador PA1K",
+        "searchTermEn": "Airthereal PA1K ozone generator",
+        "id": "B08V8N5XNQ",
+        "filename": "B08V8N5XNQ.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 1 Gadget para Mejorar la Vida en Casa\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\n\n\n[25s-35s] INTRODUCTION\n\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] AIRTHEREAL PURIFICADOR PA1K\n¿Odias esos olores persistentes? El Airthereal Purificador P.A., mil. K combate esto. Con una capacidad para espacios de hasta quinientos pies cuadrados, genera mil miligramos por hora de ozono. Funciona durante cuatro horas... ¡con una carga completa! Colócalo en tu coche, oficina o baño; transforma el aire; elimina olores de humo o mascotas. Sin cables y portátil, este purificador te sigue donde lo necesites. Activa sus cuatro modos; adapta según el mal olor presente.\nSu precio actual ronda los... 65 dólares. Link en comentarios.\n\n[VISUALS: Product image: Airthereal Purificador PA1K]\n\n[10 seconds] CONCLUSION\n\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:10\nTONE: engaging\nPACING: quick\nKEYWORDS: gadget, para, mejorar, vida, casa\n"
+}

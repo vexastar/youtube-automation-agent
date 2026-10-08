@@ -1,0 +1,171 @@
+{
+  "title": "Top 3 Gadgets Asombrosos que Puedes Comprar Ahora Mismo",
+  "hook": {
+    "type": "statement",
+    "text": "Estos auriculares desaparecen en tus oídos. Este proyector convierte cualquier pared en un cine. Esta billetera evita que pierdas tu tiempo buscando tarjetas.",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "Suscríbete, los links están en el primer comentario. Empecemos.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0:10-0:15"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Snapods True Wireless",
+        "productId": "B0BTYCRJSS",
+        "productName": "Snapods True Wireless",
+        "filename": "B0BTYCRJSS.mp4",
+        "content": [
+          "Olvidar tus auriculares en casa y sufrir un día sin música es frustrante. Los Snapods True Wireless caben en cualquier bolsillo y siempre están listos para usar. Su diseño magnético garantiza que nunca se pierdan.",
+          "Su precio actual en Amazon ronda los... 20 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Snapods True Wireless"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0BTYCRJSS.mp4",
+        "precio": "$20",
+        "productPhoto": "https://m.media-amazon.com/images/I/51Yya2WtvkL.jpg"
+      },
+      {
+        "type": "content",
+        "title": "Nebula Capsule Proyector",
+        "productId": "B0CHW11C8H",
+        "productName": "Nebula Capsule Proyector",
+        "filename": "B0CHW11C8H.mp4",
+        "content": [
+          "Ver películas en una pantalla pequeña puede ser decepcionante. El Nebula Capsule Proyector transforma cualquier lugar en tu sala de cine personal. Proyecta imágenes de hasta 100 pulgadas con calidad HD.",
+          "Su precio actual en Amazon ronda los... 400 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Nebula Capsule Proyector"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0CHW11C8H.mp4",
+        "precio": "$400",
+        "productPhoto": "https://m.media-amazon.com/images/I/81WZMwYM93L.jpg"
+      },
+      {
+        "type": "content",
+        "title": "Ekster Parliament Wallet",
+        "productId": "B07PXM8HX7",
+        "productName": "Ekster Parliament Wallet",
+        "filename": "B07PXM8HX7.mp4",
+        "content": [
+          "Lidiar con una billetera desordenada y buscar tarjetas es un caos. La Ekster Parliament Wallet organiza tus tarjetas y las despliega con un solo clic. Además, su sistema RFID las protege del robo digital.",
+          "Su precio actual en Amazon ronda los... 99 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Ekster Parliament Wallet"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07PXM8HX7.mp4",
+        "precio": "$99",
+        "productPhoto": "https://m.media-amazon.com/images/I/51RE47h+DGL.jpg"
+      }
+    ],
+    "totalDuration": 75
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "Dale like y recuerda que los links están en el primer comentario."
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:45",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "asombrosos",
+    "puedes",
+    "comprar",
+    "ahora",
+    "mismo"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 3 Gadgets Asombrosos que Puedes Comprar Ahora Mismo",
+      "angle": "Top 3 Gadgets Asombrosos que Puedes Comprar Ahora Mismo",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 3,
+      "introScript": "¿Un cargador que se adhiere magnéticamente a tu portátil? ¿Un proyector de bolsillo que convierte cualquier pared en un cine? Prepárate para descubrir los gadgets más innovadores que te harán preguntar cómo vivías sin ellos.",
+      "keywords": [
+        "gadgets",
+        "asombrosos",
+        "puedes",
+        "comprar",
+        "ahora",
+        "mismo"
+      ],
+      "estimatedViews": 4909,
+      "bestPublishTime": "2026-05-03T15:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Snapods True Wireless",
+          "searchTermEn": "Snapods true wireless earbuds",
+          "id": "B0BTYCRJSS",
+          "filename": "B0BTYCRJSS.mp4"
+        },
+        {
+          "nombre": "Nebula Capsule Proyector",
+          "searchTermEn": "Nebula Capsule mini projector",
+          "id": "B0CHW11C8H",
+          "filename": "B0CHW11C8H.mp4"
+        },
+        {
+          "nombre": "Ekster Parliament Wallet",
+          "searchTermEn": "Ekster Parliament smart wallet",
+          "id": "B07PXM8HX7",
+          "filename": "B07PXM8HX7.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-04-29T16:38:39.255Z",
+      "_requestedCount": 3,
+      "_adaptedCount": 3,
+      "_scriptNonce": "nonce_1777480845418_4qvfo0"
+    },
+    "generatedAt": "2026-04-29T16:40:51.694Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Snapods True Wireless",
+        "searchTermEn": "Snapods true wireless earbuds",
+        "id": "B0BTYCRJSS",
+        "filename": "B0BTYCRJSS.mp4"
+      },
+      {
+        "nombre": "Nebula Capsule Proyector",
+        "searchTermEn": "Nebula Capsule mini projector",
+        "id": "B0CHW11C8H",
+        "filename": "B0CHW11C8H.mp4"
+      },
+      {
+        "nombre": "Ekster Parliament Wallet",
+        "searchTermEn": "Ekster Parliament smart wallet",
+        "id": "B07PXM8HX7",
+        "filename": "B07PXM8HX7.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 3 Gadgets Asombrosos que Puedes Comprar Ahora Mismo\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\nEstos auriculares desaparecen en tus oídos. Este proyector convierte cualquier pared en un cine. Esta billetera evita que pierdas tu tiempo buscando tarjetas.\n\n[0:10-0:15] INTRODUCTION\nSuscríbete, los links están en el primer comentario. Empecemos.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] SNAPODS TRUE WIRELESS\nOlvidar tus auriculares en casa y sufrir un día sin música es frustrante. Los Snapods True Wireless caben en cualquier bolsillo y siempre están listos para usar. Su diseño magnético garantiza que nunca se pierdan.\nSu precio actual en Amazon ronda los... 20 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Snapods True Wireless]\n\n[0:25] NEBULA CAPSULE PROYECTOR\nVer películas en una pantalla pequeña puede ser decepcionante. El Nebula Capsule Proyector transforma cualquier lugar en tu sala de cine personal. Proyecta imágenes de hasta 100 pulgadas con calidad HD.\nSu precio actual en Amazon ronda los... 400 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Nebula Capsule Proyector]\n\n[0:25] EKSTER PARLIAMENT WALLET\nLidiar con una billetera desordenada y buscar tarjetas es un caos. La Ekster Parliament Wallet organiza tus tarjetas y las despliega con un solo clic. Además, su sistema RFID las protege del robo digital.\nSu precio actual en Amazon ronda los... 99 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Ekster Parliament Wallet]\n\n[10 seconds] CONCLUSION\nDale like y recuerda que los links están en el primer comentario.\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:45\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, asombrosos, puedes, comprar, ahora, mismo\n"
+}

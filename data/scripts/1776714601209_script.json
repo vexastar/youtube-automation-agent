@@ -1,0 +1,164 @@
+{
+  "title": "Top 3 gadgets futuristas para tu alcoba",
+  "hook": {
+    "type": "statement",
+    "text": "Esta lámpara flota en el aire. Este despertador proyecta la hora en tu pared. Este aro de luz se controla desde tu teléfono.",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "Suscríbete, los links están en el primer comentario. Empecemos.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0:10-0:15"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Lámpara magnética Levitación",
+        "productId": "B09833QPYR",
+        "productName": "Lámpara magnética Levitación",
+        "filename": "B09833QPYR.mp4",
+        "content": [
+          "Iluminar el cuarto puede ser aburrido y común. La Lámpara magnética Levitación desafía la gravedad mientras ilumina tu espacio de forma mágica. Se activa al contacto y flota sin esfuerzo.",
+          "Su precio actual en Amazon ronda los... 71 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Lámpara magnética Levitación"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B09833QPYR.mp4",
+        "precio": "$71"
+      },
+      {
+        "type": "content",
+        "title": "Despertador de Proyección Mpow",
+        "productId": "B081HVK1BS",
+        "productName": "Despertador de Proyección Mpow",
+        "filename": "B081HVK1BS.mp4",
+        "content": [
+          "Despertar a tiempo sin buscar el reloj en la oscuridad es un reto diario. El Despertador de Proyección Mpow muestra la hora directamente en tu pared o techo. Ajusta el enfoque y la rotación para mayor comodidad.",
+          "Su precio actual en Amazon ronda los... 20 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Despertador de Proyección Mpow"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B081HVK1BS.mp4",
+        "precio": "$20"
+      },
+      {
+        "type": "content",
+        "title": "Aro de luz inteligente Govee",
+        "productId": "B0991Q94KP",
+        "productName": "Aro de luz inteligente Govee",
+        "filename": "B0991Q94KP.mp4",
+        "content": [
+          "Obtener la iluminación perfecta para cada ocasión es complicado. El Aro de luz inteligente Govee ofrece control total desde tu smartphone para ambientes personalizados. Cambia colores y brillo con un solo toque.",
+          "Su precio actual en Amazon ronda los... 13 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Aro de luz inteligente Govee"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0991Q94KP.mp4",
+        "precio": "$13"
+      }
+    ],
+    "totalDuration": 75
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "Dale like y recuerda que los links están en el primer comentario."
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:45",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "futuristas",
+    "para",
+    "alcoba"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 3 gadgets futuristas para tu alcoba",
+      "angle": "Top 3 gadgets futuristas para tu alcoba",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 3,
+      "introScript": "¿Te imaginas una lámpara que flota en el aire? ¿O un reloj que proyecta la hora en tu pared? Estos gadgets transformarán tu habitación en un rincón del futuro y están a solo un clic de distancia. Prepárate para descubrir tecnología que desafía la gravedad.",
+      "keywords": [
+        "gadgets",
+        "futuristas",
+        "para",
+        "alcoba"
+      ],
+      "estimatedViews": 4584,
+      "bestPublishTime": "2026-04-23T19:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Lámpara magnética Levitación",
+          "searchTermEn": "magnetic levitation lamp",
+          "id": "B09833QPYR",
+          "filename": "B09833QPYR.mp4"
+        },
+        {
+          "nombre": "Despertador de Proyección Mpow",
+          "searchTermEn": "Mpow projection clock",
+          "id": "B081HVK1BS",
+          "filename": "B081HVK1BS.mp4"
+        },
+        {
+          "nombre": "Aro de luz inteligente Govee",
+          "searchTermEn": "Govee smart light strip",
+          "id": "B0991Q94KP",
+          "filename": "B0991Q94KP.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-04-20T19:47:14.192Z",
+      "_requestedCount": 3,
+      "_adaptedCount": 3,
+      "_scriptNonce": "nonce_1776714594817_uubbqg"
+    },
+    "generatedAt": "2026-04-20T19:50:00.998Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Lámpara magnética Levitación",
+        "searchTermEn": "magnetic levitation lamp",
+        "id": "B09833QPYR",
+        "filename": "B09833QPYR.mp4"
+      },
+      {
+        "nombre": "Despertador de Proyección Mpow",
+        "searchTermEn": "Mpow projection clock",
+        "id": "B081HVK1BS",
+        "filename": "B081HVK1BS.mp4"
+      },
+      {
+        "nombre": "Aro de luz inteligente Govee",
+        "searchTermEn": "Govee smart light strip",
+        "id": "B0991Q94KP",
+        "filename": "B0991Q94KP.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 3 gadgets futuristas para tu alcoba\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\nEsta lámpara flota en el aire. Este despertador proyecta la hora en tu pared. Este aro de luz se controla desde tu teléfono.\n\n[0:10-0:15] INTRODUCTION\nSuscríbete, los links están en el primer comentario. Empecemos.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] LÁMPARA MAGNÉTICA LEVITACIÓN\nIluminar el cuarto puede ser aburrido y común. La Lámpara magnética Levitación desafía la gravedad mientras ilumina tu espacio de forma mágica. Se activa al contacto y flota sin esfuerzo.\nSu precio actual en Amazon ronda los... 71 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Lámpara magnética Levitación]\n\n[0:25] DESPERTADOR DE PROYECCIÓN MPOW\nDespertar a tiempo sin buscar el reloj en la oscuridad es un reto diario. El Despertador de Proyección Mpow muestra la hora directamente en tu pared o techo. Ajusta el enfoque y la rotación para mayor comodidad.\nSu precio actual en Amazon ronda los... 20 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Despertador de Proyección Mpow]\n\n[0:25] ARO DE LUZ INTELIGENTE GOVEE\nObtener la iluminación perfecta para cada ocasión es complicado. El Aro de luz inteligente Govee ofrece control total desde tu smartphone para ambientes personalizados. Cambia colores y brillo con un solo toque.\nSu precio actual en Amazon ronda los... 13 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Aro de luz inteligente Govee]\n\n[10 seconds] CONCLUSION\nDale like y recuerda que los links están en el primer comentario.\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:45\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, futuristas, para, alcoba\n"
+}

@@ -1,0 +1,604 @@
+{
+  "title": "Top 3 Laptops Increíbles que No Puedes Dejar de Ver",
+  "hook": {
+    "type": "statement",
+    "text": "Carga sin cables solares. Ultra-ligero, potencia artificial. Segunda pantalla oculta.",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "Links de compra en el primer comentario. Empezamos.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0:10-0:15"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Voltaic OffGrid Solar Laptop",
+        "productId": "B0FGJJGTWX",
+        "productName": "Voltaic OffGrid Solar Laptop",
+        "filename": "B0FGJJGTWX.mp4",
+        "asin": "B0FGJJGTWX",
+        "clipDuration": 136.3,
+        "estimatedAudioSeconds": 60,
+        "framework": "problema_solucion",
+        "narracionSegments": null,
+        "content": [
+          "¿Cansado de buscar enchufes? El Voltaic OffGrid Solar Laptop transforma la energía solar en carga para tus dispositivos con su panel solar integrado. Con materiales impermeables y resistentes a golpes, tu equipo estará siempre protegido. Además, su diseño permite conectar varios dispositivos simultáneamente, haciendo la vida más fácil para los viajeros frecuentes.",
+          "Su precio actual en Amazon ronda los... 159 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Voltaic OffGrid Solar Laptop"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0FGJJGTWX_combined.mp4",
+        "precio": "$159",
+        "productPhoto": "https://m.media-amazon.com/images/I/71dnC10L56L.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FGJJGTWX\\scenes_v1\\B0FGJJGTWX_scene_06.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "cargando dispositivos",
+            "raw": "9|cargando dispositivos"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FGJJGTWX\\scenes_v1\\B0FGJJGTWX_scene_09.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "carga USB",
+            "raw": "9|carga USB"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FGJJGTWX\\scenes_v1\\B0FGJJGTWX_scene_12.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "mochila cargando",
+            "raw": "9|mochila cargando"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FGJJGTWX\\scenes_v1\\B0FGJJGTWX_scene_14.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción mochila",
+            "raw": "9|interacción mochila"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FGJJGTWX\\scenes_v1\\B0FGJJGTWX_scene_15.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "mochila tecnológica",
+            "raw": "9|mochila tecnológica"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FGJJGTWX\\scenes_v1\\B0FGJJGTWX_scene_16.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FGJJGTWX\\scenes_v1\\B0FGJJGTWX_scene_18.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "mochila tecnológica",
+            "raw": "9|mochila tecnológica"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FGJJGTWX\\scenes_v1\\B0FGJJGTWX_scene_17.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "cargando mochila",
+            "raw": "9|cargando mochila"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FGJJGTWX\\scenes_v1\\B0FGJJGTWX_scene_19.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción mochila",
+            "raw": "9|interacción mochila"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FGJJGTWX\\scenes_v1\\B0FGJJGTWX_scene_24.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "mochila tecnológica",
+            "raw": "9|mochila tecnológica"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FGJJGTWX\\scenes_v1\\B0FGJJGTWX_scene_02.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "mochila tecnológica",
+            "raw": "8|mochila tecnológica"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FGJJGTWX\\scenes_v1\\B0FGJJGTWX_scene_05.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "mochila tecnológica",
+            "raw": "8|mochila tecnológica"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FGJJGTWX\\scenes_v1\\B0FGJJGTWX_scene_07.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "mochila tecnológica",
+            "raw": "8|mochila tecnológica"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FGJJGTWX\\scenes_v1\\B0FGJJGTWX_scene_08.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Puerto USB",
+            "raw": "8|Puerto USB"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FGJJGTWX\\scenes_v1\\B0FGJJGTWX_scene_13.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "mochila tecnológica",
+            "raw": "8|mochila tecnológica"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FGJJGTWX\\scenes_v1\\B0FGJJGTWX_scene_20.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "mochila tecnológica",
+            "raw": "8|mochila tecnológica"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FGJJGTWX\\scenes_v1\\B0FGJJGTWX_scene_21.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "mochila tecnológica",
+            "raw": "8|mochila tecnológica"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FGJJGTWX\\scenes_v1\\B0FGJJGTWX_scene_22.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "mochila tecnológica",
+            "raw": "8|mochila tecnológica"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FGJJGTWX\\scenes_v1\\B0FGJJGTWX_scene_23.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "mochila tecnológica",
+            "raw": "8|mochila tecnológica"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FGJJGTWX\\scenes_v2\\B0FGJJGTWX_photos_combined_scene_01.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "mochila tecnológica",
+            "raw": "8|mochila tecnológica"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FGJJGTWX\\scenes_v2\\B0FGJJGTWX_photos_combined_scene_02.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "mochila solar",
+            "raw": "8|mochila solar"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FGJJGTWX\\scenes_v2\\B0FGJJGTWX_photos_combined_scene_03.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "mochila tecnológica",
+            "raw": "8|mochila tecnológica"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FGJJGTWX\\scenes_v2\\B0FGJJGTWX_photos_combined_scene_04.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "mochila tecnológica",
+            "raw": "8|mochila tecnológica"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FGJJGTWX\\scenes_v2\\B0FGJJGTWX_photos_combined_scene_07.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "mochila tecnológica",
+            "raw": "8|mochila tecnológica"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FGJJGTWX\\scenes_v1\\B0FGJJGTWX_scene_03.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "mochila tech",
+            "raw": "5|mochila tech"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FGJJGTWX\\scenes_v1\\B0FGJJGTWX_scene_04.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "mochila tech",
+            "raw": "5|mochila tech"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FGJJGTWX\\scenes_v1\\B0FGJJGTWX_scene_11.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "mochila cargando",
+            "raw": "5|mochila cargando"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FGJJGTWX\\scenes_v1\\B0FGJJGTWX_scene_25.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "mochila parcial",
+            "raw": "5|mochila parcial"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FGJJGTWX\\scenes_v1\\B0FGJJGTWX_scene_26.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "mochila solar",
+            "raw": "5|mochila solar"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FGJJGTWX\\scenes_v2\\B0FGJJGTWX_photos_combined_scene_06.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "mochila solar",
+            "raw": "5|mochila solar"
+          }
+        ],
+        "features": [
+          "【Solar Panel = Portable Charger】This tech backpack is designed for college students and business users. It has a USB charging port and an integrated solar panel, allowing charging without a portable power bank. Featuring a monocrystalline silicon solar panel, it offers good conversion efficiency and a long service life of 25–30 years. (Note: Requires UV intensity, no energy storage)However, it can be charged by connecting to a power bank via the built-in USB data cable",
+          "【Waterproof & Shock-Resistant】Crafted from 1680D polyester and ABS materials,solar backpack’s solar panel TSA-friendly is exceptionally sturdy and durable.This laptop travel backpack features a sturdy built-in strap that securely attaches to suitcase telescopic handles. The backpack has a breathable honeycomb back pad for even pressure distribution.This waterproof backpack features reinforced fabric that protects your electronics, clothing and other essentials from sudden rain",
+          "【Charge Multiple Devices Simultaneously】This tech backpack men also features a solar panel (with 5V/2A output and dual AC port design), paired with external USB ports for flexible charging: connect the internal cable to the junction box first, then plug your devices into the external USB ports for solar charging. You can also connect devices directly to the built-in junction box for power, or use both methods at the same time. A practical solution for powering low-power devices",
+          "【TSA Lock Travel Backpack, Airline Approved】This backpack with laptop compartment also features a resettable TSA-friendly lock to secure your valuables and privacy, this tech backpack with luggage strap attaches securely to luggage for easier carrying, while its 13x8x18-inch size complies with airline carry-on standards and fits in overhead bins or under seats, making it a good travel companion",
+          "【Multi-Functional, Large-Capacity & Good Travel Gift】This solar backpack with solar panel features two separate laptop compartments and multiple pockets, easily accommodating all your daily essentials. Designed with a sleek, gender-neutral style, it is suitable for both men and women – and makes ideal travel gifts for women or men and loved ones for birthdays, travel, holidays and other special occasions. It’s a practical and stylish backpack ideal for daily use and travel"
+        ]
+      },
+      {
+        "type": "content",
+        "title": "LG Gram 16Z90R",
+        "productId": "B0F1Z2PSL9",
+        "productName": "LG Gram 16Z90R",
+        "filename": "B0F1Z2PSL9.mp4",
+        "asin": "B0F1Z2PSL9",
+        "clipDuration": 77.54,
+        "estimatedAudioSeconds": 54,
+        "framework": "enfoque_caracteristica",
+        "narracionSegments": null,
+        "content": [
+          "Pesando solo 2.7 libras, el LG Gram 16Z90R redefine la portabilidad sin sacrificar potencia. Equipado con un procesador Intel Core Ultra 7 y tecnología AI, te permite realizar multitarea eficiente y creativa dondequiera que estés.",
+          "Su precio actual en Amazon ronda los... 1934 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: LG Gram 16Z90R"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0F1Z2PSL9_combined.mp4",
+        "precio": "$1934",
+        "productPhoto": "https://m.media-amazon.com/images/I/617DY34HlmL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0F1Z2PSL9\\scenes_v1\\B0F1Z2PSL9_scene_06.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción teclado",
+            "raw": "9|interacción teclado"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0F1Z2PSL9\\scenes_v1\\B0F1Z2PSL9_scene_07.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "pantalla encendida",
+            "raw": "9|pantalla encendida"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0F1Z2PSL9\\scenes_v1\\B0F1Z2PSL9_scene_05.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0F1Z2PSL9\\scenes_v1\\B0F1Z2PSL9_scene_10.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0F1Z2PSL9\\scenes_v1\\B0F1Z2PSL9_scene_17.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "pantalla encendida",
+            "raw": "9|pantalla encendida"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0F1Z2PSL9\\scenes_v1\\B0F1Z2PSL9_scene_18.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0F1Z2PSL9\\scenes_v3\\B0F1Z2PSL9_v3_scene_02.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0F1Z2PSL9\\scenes_v3\\B0F1Z2PSL9_v3_scene_06.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción teclado",
+            "raw": "9|interacción teclado"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0F1Z2PSL9\\scenes_v3\\B0F1Z2PSL9_v3_scene_08.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "teclado visible",
+            "raw": "9|teclado visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0F1Z2PSL9\\scenes_v3\\B0F1Z2PSL9_v3_scene_07.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción teclado",
+            "raw": "9|interacción teclado"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0F1Z2PSL9\\scenes_v3\\B0F1Z2PSL9_v3_scene_09.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "pantalla encendida",
+            "raw": "9|pantalla encendida"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0F1Z2PSL9\\scenes_v3\\B0F1Z2PSL9_v3_scene_12.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "pantalla encendida",
+            "raw": "9|pantalla encendida"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0F1Z2PSL9\\scenes_v1\\B0F1Z2PSL9_scene_13.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "pantalla encendida",
+            "raw": "8|pantalla encendida"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0F1Z2PSL9\\scenes_v1\\B0F1Z2PSL9_scene_20.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Laptop en uso",
+            "raw": "8|Laptop en uso"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0F1Z2PSL9\\scenes_v2\\B0F1Z2PSL9_v2_scene_01.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "portátil ligero",
+            "raw": "8|portátil ligero"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0F1Z2PSL9\\scenes_v3\\B0F1Z2PSL9_v3_scene_10.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "laptop encendida",
+            "raw": "8|laptop encendida"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0F1Z2PSL9\\scenes_v3\\B0F1Z2PSL9_v3_scene_16.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "portátil ligero",
+            "raw": "8|portátil ligero"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0F1Z2PSL9\\scenes_v1\\B0F1Z2PSL9_scene_03.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "portátil ligero",
+            "raw": "5|portátil ligero"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0F1Z2PSL9\\scenes_v1\\B0F1Z2PSL9_scene_02.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "laptop en mano",
+            "raw": "5|laptop en mano"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0F1Z2PSL9\\scenes_v1\\B0F1Z2PSL9_scene_16.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "Laptop visible",
+            "raw": "5|Laptop visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0F1Z2PSL9\\scenes_v1\\B0F1Z2PSL9_scene_22.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "producto pequeño",
+            "raw": "5|producto pequeño"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0F1Z2PSL9\\scenes_v3\\B0F1Z2PSL9_v3_scene_05.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "laptop cerrada",
+            "raw": "5|laptop cerrada"
+          }
+        ],
+        "features": [
+          "Pro AI Anywhere - LG gram Pro pairs ultra-light design with powerful AI performance. Weighing 2.7 lbs. and featuring a 16” IPS display, it’s built for productivity anywhere. With the Intel Core Ultra 7 processor and LG gram AI solutions, experience both on-device and cloud-powered AI for versatile AI performance.",
+          "Reimagine Productivity with AI-Powered Copilot+ PC on Windows 11 - AI Copilot+ PC redefines what your laptop can do. Built with advanced AI hardware, Windows 11 tools, and long battery life, it’s the ultimate laptop optimized AI workloads, for smarter work, seamless multitasking, and creative breakthroughs",
+          "Hybrid AI: On-Device and Cloud Synergy - LG gram now includes a hybrid AI solution that blends on-device intelligence with the capabilities of cloud-based AI. gram chat On-Device manages local tasks like smart hard drive searches and system adjustments, while gram chat Cloud delivers generative AI responses for document creation, data analysis, and administrative tasks like scheduling—all through intuitive interactions.",
+          "Born for AI, perfectly paired with Intel Evo Edition Intel Core Ultra (Series 2) - Intel Evo Edition - Intel Core Ultra 7 processor (Series 2) with 47 NPU TOPS is a groundbreaking processor for PCs, delivering powerful AI performance compared to previous generations, enabling the capabilities required for an enhanced Copilot+ PC experience. With power and distinct performance of an AI-dedicated processor, this gram Pro efficiently handles AI and machine learning tasks.",
+          "Unbelievably Portable. Undeniably Strong. - The LG gram Pro laptop packs incredible performance into a half-inch-thin, 2.7 lbs. frame that’s passed seven military-grade standards for resilience and durability. From your desk to the road, gram Pro is built to go wherever you work and play."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "ASUS ZenBook Pro Duo",
+        "productId": "B0GJHNW3VK",
+        "productName": "ASUS ZenBook Pro Duo",
+        "filename": "B0GJHNW3VK.mp4",
+        "asin": "B0GJHNW3VK",
+        "clipDuration": 60.16,
+        "estimatedAudioSeconds": 47,
+        "framework": "beneficio_oculto",
+        "narracionSegments": null,
+        "content": [
+          "-Sorpresa-: doble pantalla táctil OLED para maximizar productividad sin esfuerzo extra. El ASUS ZenBook Pro Duo te ofrece una experiencia única para manejar varias tareas y tener amplia visibilidad con su diseño innovador.",
+          "Su precio actual en Amazon ronda los... 2110 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: ASUS ZenBook Pro Duo"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0GJHNW3VK_combined.mp4",
+        "precio": "$2110",
+        "productPhoto": "https://m.media-amazon.com/images/I/81ia-k8H-7L.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "14.0\" OLED WUXGA (1920x1200) 60Hz Touchscreen Display; 802.11be, Bluetooth 5.4, Webcam, Backlit KB Wireless Keyboard",
+          "15th Gen Ultra 9-285H 2.90GHz Processor (upto 5.4GHz, 24MB Cache, 16-Cores, 16-Threads, 6 Performance-cores); Intel Arc 140V Integrated Graphics",
+          "32GB OnBoard RAM; 65W PSU, Type-C Power-In, 4-Cell 75 WHr Battery; Inkwell Gray Color",
+          "2TB PCIe NVMe SSD; 1, 2 Thunderbolt 4, Headphone/Microphone Combo Jack, Windows 11 Pro-64, 1 Year Manufacturer warranty from GreatPriceTech (Professionally upgraded by GreatPriceTech)",
+          "[Includes] Authorized Dockztorm Portable USB Hub(Portable Dockztorm Data Hub;Data Rate up to 5Gbps)"
+        ]
+      }
+    ],
+    "totalDuration": 75
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "\u00101Recuerda darle like y revisa los links en el primer comentario!"
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:45",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "laptops",
+    "increbles",
+    "puedes",
+    "dejar"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 3 Laptops Increíbles que No Puedes Dejar de Ver",
+      "angle": "Top 3 Laptops Increíbles que No Puedes Dejar de Ver",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 3,
+      "introScript": "¿Una laptop que se carga sola con energía solar? ¿Un equipo tan ligero que apenas notarás que lo llevas en tu mochila? ¿Y qué tal una computadora que convierte tu escritorio en un estudio de edición profesional? Descubre las laptops más innovadoras que puedes encontrar ahora mismo en Amazon.",
+      "keywords": [
+        "laptops",
+        "increbles",
+        "puedes",
+        "dejar"
+      ],
+      "estimatedViews": 3520,
+      "bestPublishTime": "2026-05-20T19:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Voltaic OffGrid Solar Laptop",
+          "searchTermEn": "Voltaic OffGrid solar laptop backpack",
+          "id": "B0FGJJGTWX",
+          "filename": "B0FGJJGTWX.mp4"
+        },
+        {
+          "nombre": "LG Gram 16Z90R",
+          "searchTermEn": "LG Gram 16 ultra lightweight laptop",
+          "id": "B0F1Z2PSL9",
+          "filename": "B0F1Z2PSL9.mp4"
+        },
+        {
+          "nombre": "ASUS ZenBook Pro Duo",
+          "searchTermEn": "ASUS ZenBook Pro Duo dual screen laptop",
+          "id": "B0GJHNW3VK",
+          "filename": "B0GJHNW3VK.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-05-15T00:34:11.050Z",
+      "_requestedCount": 3,
+      "_adaptedCount": 3,
+      "introProductsOrder": [
+        {
+          "nombre": "Voltaic OffGrid Solar Laptop",
+          "id": "B0FGJJGTWX",
+          "filename": "B0FGJJGTWX_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0FGJJGTWX_combined.mp4"
+        },
+        {
+          "nombre": "LG Gram 16Z90R",
+          "id": "B0F1Z2PSL9",
+          "filename": "B0F1Z2PSL9_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0F1Z2PSL9_combined.mp4"
+        },
+        {
+          "nombre": "ASUS ZenBook Pro Duo",
+          "id": "B0GJHNW3VK",
+          "filename": "B0GJHNW3VK_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0GJHNW3VK_combined.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1778805864574_5aebrf"
+    },
+    "generatedAt": "2026-05-15T00:44:40.907Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Voltaic OffGrid Solar Laptop",
+        "searchTermEn": "Voltaic OffGrid solar laptop backpack",
+        "id": "B0FGJJGTWX",
+        "filename": "B0FGJJGTWX.mp4"
+      },
+      {
+        "nombre": "LG Gram 16Z90R",
+        "searchTermEn": "LG Gram 16 ultra lightweight laptop",
+        "id": "B0F1Z2PSL9",
+        "filename": "B0F1Z2PSL9.mp4"
+      },
+      {
+        "nombre": "ASUS ZenBook Pro Duo",
+        "searchTermEn": "ASUS ZenBook Pro Duo dual screen laptop",
+        "id": "B0GJHNW3VK",
+        "filename": "B0GJHNW3VK.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 3 Laptops Increíbles que No Puedes Dejar de Ver\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\nCarga sin cables solares. Ultra-ligero, potencia artificial. Segunda pantalla oculta.\n\n[0:10-0:15] INTRODUCTION\nLinks de compra en el primer comentario. Empezamos.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] VOLTAIC OFFGRID SOLAR LAPTOP\n¿Cansado de buscar enchufes? El Voltaic OffGrid Solar Laptop transforma la energía solar en carga para tus dispositivos con su panel solar integrado. Con materiales impermeables y resistentes a golpes, tu equipo estará siempre protegido. Además, su diseño permite conectar varios dispositivos simultáneamente, haciendo la vida más fácil para los viajeros frecuentes.\nSu precio actual en Amazon ronda los... 159 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Voltaic OffGrid Solar Laptop]\n\n[0:25] LG GRAM 16Z90R\nPesando solo 2.7 libras, el LG Gram 16Z90R redefine la portabilidad sin sacrificar potencia. Equipado con un procesador Intel Core Ultra 7 y tecnología AI, te permite realizar multitarea eficiente y creativa dondequiera que estés.\nSu precio actual en Amazon ronda los... 1934 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: LG Gram 16Z90R]\n\n[0:25] ASUS ZENBOOK PRO DUO\n-Sorpresa-: doble pantalla táctil OLED para maximizar productividad sin esfuerzo extra. El ASUS ZenBook Pro Duo te ofrece una experiencia única para manejar varias tareas y tener amplia visibilidad con su diseño innovador.\nSu precio actual en Amazon ronda los... 2110 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: ASUS ZenBook Pro Duo]\n\n[10 seconds] CONCLUSION\n\u00101Recuerda darle like y revisa los links en el primer comentario!\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:45\nTONE: engaging\nPACING: quick\nKEYWORDS: laptops, increbles, puedes, dejar\n"
+}

@@ -1,0 +1,521 @@
+{
+  "title": "Top 3 drones innovadores en Amazon que debes ver",
+  "hook": {
+    "type": "statement",
+    "text": "Vuelo automático sin esfuerzo con seguimiento preciso. Captura cinematográfica en alta resolución sin registro. Observa detalles increíbles incluso en la oscuridad.",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "Todo está en el primer comentario. Vamos.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0:10-0:15"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "DJI Mini 2",
+        "productId": "B0CXJDDJ9X",
+        "productName": "DJI Mini 2",
+        "filename": "B0CXJDDJ9X.mp4",
+        "asin": "B0CXJDDJ9X",
+        "clipDuration": 59.99,
+        "estimatedAudioSeconds": 55,
+        "framework": "experiencia_sensorial",
+        "narracionSegments": null,
+        "content": [
+          "-Increíble- calidad de imagen con su cámara UHD 4K y estabilizador de tres ejes que capturan cada momento con absoluta claridad. Perfecto para cualquier usuario que busque resultados profesionales sin complicaciones legales.",
+          "Su precio actual en Amazon ronda los... 299 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: DJI Mini 2"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0CXJDDJ9X_combined.mp4",
+        "precio": "$299",
+        "productPhoto": "https://m.media-amazon.com/images/I/61TcjJ4qDZL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CXJDDJ9X\\scenes_v1\\B0CXJDDJ9X_scene_03.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CXJDDJ9X\\scenes_v1\\B0CXJDDJ9X_scene_01.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "drone 4K",
+            "raw": "9|drone 4K"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CXJDDJ9X\\scenes_v1\\B0CXJDDJ9X_scene_02.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción drone",
+            "raw": "9|interacción drone"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CXJDDJ9X\\scenes_v1\\B0CXJDDJ9X_scene_05.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "controlador dron",
+            "raw": "9|controlador dron"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CXJDDJ9X\\scenes_v1\\B0CXJDDJ9X_scene_07.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "controlador dron",
+            "raw": "9|controlador dron"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CXJDDJ9X\\scenes_v1\\B0CXJDDJ9X_scene_09.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "control remoto",
+            "raw": "9|control remoto"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CXJDDJ9X\\scenes_v1\\B0CXJDDJ9X_scene_11.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "control remoto",
+            "raw": "9|control remoto"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CXJDDJ9X\\scenes_v1\\B0CXJDDJ9X_scene_13.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "control remoto",
+            "raw": "9|control remoto"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CXJDDJ9X\\scenes_v1\\B0CXJDDJ9X_scene_15.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "control remoto",
+            "raw": "9|control remoto"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CXJDDJ9X\\scenes_v1\\B0CXJDDJ9X_scene_17.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "control remoto",
+            "raw": "9|control remoto"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CXJDDJ9X\\scenes_v1\\B0CXJDDJ9X_scene_19.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "controlador dron",
+            "raw": "9|controlador dron"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CXJDDJ9X\\scenes_v1\\B0CXJDDJ9X_scene_21.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "controlador dron",
+            "raw": "9|controlador dron"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CXJDDJ9X\\scenes_v1\\B0CXJDDJ9X_scene_23.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "control remoto",
+            "raw": "9|control remoto"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CXJDDJ9X\\scenes_v1\\B0CXJDDJ9X_scene_25.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "control remoto",
+            "raw": "9|control remoto"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CXJDDJ9X\\scenes_v1\\B0CXJDDJ9X_scene_27.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "control remoto",
+            "raw": "9|control remoto"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CXJDDJ9X\\scenes_v1\\B0CXJDDJ9X_scene_29.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "control remoto",
+            "raw": "9|control remoto"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CXJDDJ9X\\scenes_v1\\B0CXJDDJ9X_scene_31.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "controlador dron",
+            "raw": "9|controlador dron"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CXJDDJ9X\\scenes_v1\\B0CXJDDJ9X_scene_33.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "control remoto",
+            "raw": "9|control remoto"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CXJDDJ9X\\scenes_v1\\B0CXJDDJ9X_scene_35.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "control remoto",
+            "raw": "9|control remoto"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CXJDDJ9X\\scenes_v1\\B0CXJDDJ9X_scene_37.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "controlador dron",
+            "raw": "9|controlador dron"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CXJDDJ9X\\scenes_v1\\B0CXJDDJ9X_scene_39.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "control remoto",
+            "raw": "9|control remoto"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CXJDDJ9X\\scenes_v1\\B0CXJDDJ9X_scene_41.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "controlador dron",
+            "raw": "9|controlador dron"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CXJDDJ9X\\scenes_v1\\B0CXJDDJ9X_scene_43.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "controlador dron",
+            "raw": "9|controlador dron"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CXJDDJ9X\\scenes_v1\\B0CXJDDJ9X_scene_45.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Control remoto",
+            "raw": "9|Control remoto"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CXJDDJ9X\\scenes_v1\\B0CXJDDJ9X_scene_47.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "control remoto",
+            "raw": "9|control remoto"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CXJDDJ9X\\scenes_v1\\B0CXJDDJ9X_scene_49.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "controlador dron",
+            "raw": "9|controlador dron"
+          }
+        ],
+        "features": [
+          "No Registration Needed - Under 249 g, this drone with camera for adults 4K does not require FAA registration or Remote ID for recreational use. Visit the FAA's official website for requirements related to drone registration and Remote ID. [1]",
+          "4K Ultra HD & 3-Axis Gimbal for Cinematic Quality Shooting - Capture stunning moments in any light—sunrises, sunsets, and night scenes with crystal-clear 4K resolution. Thanks to the 3-axis gimbal, you can achieve cinematic-quality footage with this advanced drone with camera.",
+          "38kph (Level 5) Wind Resistant - This drone for adults has a stable flight even in Level 5 winds. Brushless motors enhance power and allow takeoff at altitudes up to 4,000 meters.",
+          "Due to platform compatibility issue, the DJI Fly app has been removed from Google Play. To ensure a better product usage experience, please log in to the DJI official website to download the latest version of DJI Fly.",
+          "Uninterrupted Creation with Extended Battery Life - There are three sets available for you to choose from: 1-battery set (31-min), 2-battery set (62-min), or 3-battery set (93-min). [3] Say goodbye to battery anxiety and let nothing hold you back."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Skydio 2",
+        "productId": "B0FJ1QH15P",
+        "productName": "Skydio 2",
+        "filename": "B0FJ1QH15P.mp4",
+        "asin": "B0FJ1QH15P",
+        "clipDuration": 60.03,
+        "estimatedAudioSeconds": 30,
+        "framework": "problema_solucion",
+        "narracionSegments": null,
+        "content": [
+          "¿Frustrado por perder de vista el objeto a grabar? El Skydio 2 lo resuelve con ActiveTrack, manteniendo tu sujeto siempre enfocado. Además, su función SelfieShot asegura fotos memorables con un toque.",
+          "Su precio actual en Amazon ronda los... 599 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Skydio 2"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0FJ1QH15P_combined.mp4",
+        "precio": "$599",
+        "productPhoto": "https://m.media-amazon.com/images/I/61YXeuTsT-L.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FJ1QH15P\\scenes_v1\\B0FJ1QH15P_scene_03.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "drone volando",
+            "raw": "9|drone volando"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FJ1QH15P\\scenes_v1\\B0FJ1QH15P_scene_02.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Dron en mano",
+            "raw": "9|Dron en mano"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FJ1QH15P\\scenes_v1\\B0FJ1QH15P_scene_13.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Dron en vuelo",
+            "raw": "9|Dron en vuelo"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FJ1QH15P\\scenes_v1\\B0FJ1QH15P_scene_16.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "drone volando",
+            "raw": "8|drone volando"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FJ1QH15P\\scenes_v2\\B0FJ1QH15P_v3_scene_05.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "drone en manos",
+            "raw": "9|drone en manos"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FJ1QH15P\\scenes_v2\\B0FJ1QH15P_v3_scene_02.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "drone pequeño",
+            "raw": "5|drone pequeño"
+          }
+        ],
+        "features": [
+          "Lightweight & Portable Design - Weighing just 151g [9] and C0 certified, this compact drone features full-coverage propeller guards for safer, worry-free transport and flight.",
+          "Palm Takeoff & Landing [1], Gesture Control [2] - Enjoy easy palm takeoff and landing, plus intuitive gesture controls for hands-free operation and seamless flying experiences.",
+          "Smooth & Reliable Tracking - ActiveTrack [3] keeps your subject in focus, while Apple Watch lets you view live feed, check flight status, or use voice control to adjust tracking [17].",
+          "Easy Moment Capture With SelfieShot - Snap memorable moments easily with SelfieShot, allowing quick and convenient selfies anytime with just a simple tap.",
+          "All-Around Safety & Flexible Flight - Fly confidently with omnidirectional obstacle sensing [8] and enjoy versatile flight [13] for safer, more dynamic aerial adventures."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Autel Robotics EVO Lite+",
+        "productId": "B0GPVHT36Y",
+        "productName": "Autel Robotics EVO Lite+",
+        "filename": "B0GPVHT36Y.mp4",
+        "asin": "B0GPVHT36Y",
+        "clipDuration": 60.03,
+        "estimatedAudioSeconds": 62,
+        "framework": "enfoque_caracteristica",
+        "narracionSegments": null,
+        "content": [
+          "-Sorprendente- calidad visual gracias a su sensor CMOS de media pulgada y cámara térmica con resolución de hasta 640x512@30 fps. La claridad gráfica y los detalles son inigualables, elevando tus experiencias visuales a nuevas alturas.",
+          "Su precio actual en Amazon ronda los... 3879 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Autel Robotics EVO Lite+"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0GPVHT36Y_combined.mp4",
+        "precio": "$3879",
+        "productPhoto": "https://m.media-amazon.com/images/I/71Y1X8WA4ML.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GPVHT36Y\\scenes_v1\\B0GPVHT36Y_scene_02.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "pantalla encendida",
+            "raw": "9|pantalla encendida"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GPVHT36Y\\scenes_v2\\B0GPVHT36Y_v2_scene_02.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "dron volando",
+            "raw": "9|dron volando"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GPVHT36Y\\scenes_v2\\B0GPVHT36Y_v2_scene_03.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "pantalla encendida",
+            "raw": "9|pantalla encendida"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GPVHT36Y\\scenes_v3\\B0GPVHT36Y_v3_scene_03.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "pantalla encendida",
+            "raw": "9|pantalla encendida"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GPVHT36Y\\scenes_v3\\B0GPVHT36Y_v3_scene_04.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GPVHT36Y\\scenes_v3\\B0GPVHT36Y_v3_scene_05.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "pantalla térmica",
+            "raw": "8|pantalla térmica"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GPVHT36Y\\scenes_v3\\B0GPVHT36Y_v3_scene_02.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "pantalla encendida",
+            "raw": "5|pantalla encendida"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GPVHT36Y\\scenes_v3\\B0GPVHT36Y_v3_scene_06.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "pantalla encendida",
+            "raw": "5|pantalla encendida"
+          }
+        ],
+        "features": [
+          "🆕【 640x512@30 FPS】Autel EVO Lite 640T Enterprise has same t~h.ermal i.m.aging function as Autel EVO 2 dual 640t V3/Enterprise V3/RTK V3, but more cost-effective. It has a resolution of up to 640x512@30 fps. It also comes with a 9mm lens, 16X digital zoom, providing greater resolution than any c.a.mera in its class, enabling p.ilots to see deep detail in dark environments. 📣For ass.istance with packaging, accessories, usage, firmware updates, or any other issues, please rea.ch our te.ch su.pport team at 💌autelofficial @ outlook . com💌",
+          "🏆【1/2 Inch 48MP Visible Light C~a~mera】The 1/2 inch CMOS sensor and effective 48 million pixels, using to capture i.m.ages with a larger field of view within a relatively short shooting distance. It is equipped with a 3-axis stabilized gimbals with a high-precision power motor structure, which can ensure stable video recording when autel lite 640T is flying.",
+          "🏆【2026 AUTEL ENTERPRISE APP】The Autel Enterprise App goes beyond the Autel Explorer and Autel Sky apps with advanced features. AI target recognition and positioning enables the EVO Lite 640T enterprise to automatically detect and locate objects like people, vehicles, and boats—plotting them directly on the map. Designed for efficiency, the app offers a streamlined interface with customizable toolbars and integrates smart professional tools to maximize the industrial potential of your Autel EVO Lite Enterprise Series.",
+          "🏆【SKYLINK 2.0 & AUTEL SMART CONTROLLER SE V2 】Autel’s SkyLink 2.0 transmission system delivers enhanced stability and speed, supporting HD video up to 12 km. It automatically selects the optimal channel across 2.4GHz, 5.2GHz, and 5.8GHz bands for strong anti-interference performance. Included with the EVO Lite 640T Enterprise is the 6-inch Smart Controller SE V2, featuring 800 nits max brightness and a 1440×720 resolution display.",
+          "🏆【EXCELLENT PERFORMANCE】Weighing just 866g, the Autel EVO Lite 640T Enterprise is compact yet powerful. It delivers exceptional performance across diverse scenarios, enhancing efficiency for solo operations. Main features include: 40 min max fly time, 17m/s max speed, 12m/s wind resistance, 4000m max takeoff altitude."
+        ]
+      }
+    ],
+    "totalDuration": 75
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "-Dale like- al video y recuerda que los links están en el primer comentario."
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:45",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "drones",
+    "innovadores",
+    "amazon",
+    "debes"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 3 drones innovadores en Amazon que debes ver",
+      "angle": "Top 3 drones innovadores en Amazon que debes ver",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 3,
+      "introScript": "Imagina un dron que cabe en la palma de tu mano, otro que sigue tus movimientos sin necesidad de control remoto, y uno más que captura increíbles imágenes en 4K desde el cielo. Estos no son drones comunes, son el futuro de la tecnología en un solo dispositivo. No te pierdas estos tres modelos que te dejarán boquiabierto.",
+      "keywords": [
+        "drones",
+        "innovadores",
+        "amazon",
+        "debes"
+      ],
+      "estimatedViews": 4255,
+      "bestPublishTime": "2026-05-28T19:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "DJI Mini 2",
+          "searchTermEn": "DJI Mini 2 drone",
+          "id": "B0CXJDDJ9X",
+          "filename": "B0CXJDDJ9X.mp4"
+        },
+        {
+          "nombre": "Skydio 2",
+          "searchTermEn": "Skydio 2 drone",
+          "id": "B0FJ1QH15P",
+          "filename": "B0FJ1QH15P.mp4"
+        },
+        {
+          "nombre": "Autel Robotics EVO Lite+",
+          "searchTermEn": "Autel Robotics EVO Lite+ drone",
+          "id": "B0GPVHT36Y",
+          "filename": "B0GPVHT36Y.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-05-21T20:58:11.599Z",
+      "_requestedCount": 3,
+      "_adaptedCount": 3,
+      "introProductsOrder": [
+        {
+          "nombre": "Skydio 2",
+          "id": "B0FJ1QH15P",
+          "filename": "B0FJ1QH15P_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0FJ1QH15P_combined.mp4"
+        },
+        {
+          "nombre": "DJI Mini 2",
+          "id": "B0CXJDDJ9X",
+          "filename": "B0CXJDDJ9X_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0CXJDDJ9X_combined.mp4"
+        },
+        {
+          "nombre": "Autel Robotics EVO Lite+",
+          "id": "B0GPVHT36Y",
+          "filename": "B0GPVHT36Y_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0GPVHT36Y_combined.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1779398550916_cuir1h"
+    },
+    "generatedAt": "2026-05-21T21:23:18.596Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "DJI Mini 2",
+        "searchTermEn": "DJI Mini 2 drone",
+        "id": "B0CXJDDJ9X",
+        "filename": "B0CXJDDJ9X.mp4"
+      },
+      {
+        "nombre": "Skydio 2",
+        "searchTermEn": "Skydio 2 drone",
+        "id": "B0FJ1QH15P",
+        "filename": "B0FJ1QH15P.mp4"
+      },
+      {
+        "nombre": "Autel Robotics EVO Lite+",
+        "searchTermEn": "Autel Robotics EVO Lite+ drone",
+        "id": "B0GPVHT36Y",
+        "filename": "B0GPVHT36Y.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 3 drones innovadores en Amazon que debes ver\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\nVuelo automático sin esfuerzo con seguimiento preciso. Captura cinematográfica en alta resolución sin registro. Observa detalles increíbles incluso en la oscuridad.\n\n[0:10-0:15] INTRODUCTION\nTodo está en el primer comentario. Vamos.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] DJI MINI 2\n-Increíble- calidad de imagen con su cámara UHD 4K y estabilizador de tres ejes que capturan cada momento con absoluta claridad. Perfecto para cualquier usuario que busque resultados profesionales sin complicaciones legales.\nSu precio actual en Amazon ronda los... 299 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: DJI Mini 2]\n\n[0:25] SKYDIO 2\n¿Frustrado por perder de vista el objeto a grabar? El Skydio 2 lo resuelve con ActiveTrack, manteniendo tu sujeto siempre enfocado. Además, su función SelfieShot asegura fotos memorables con un toque.\nSu precio actual en Amazon ronda los... 599 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Skydio 2]\n\n[0:25] AUTEL ROBOTICS EVO LITE+\n-Sorprendente- calidad visual gracias a su sensor CMOS de media pulgada y cámara térmica con resolución de hasta 640x512@30 fps. La claridad gráfica y los detalles son inigualables, elevando tus experiencias visuales a nuevas alturas.\nSu precio actual en Amazon ronda los... 3879 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Autel Robotics EVO Lite+]\n\n[10 seconds] CONCLUSION\n-Dale like- al video y recuerda que los links están en el primer comentario.\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:45\nTONE: engaging\nPACING: quick\nKEYWORDS: drones, innovadores, amazon, debes\n"
+}

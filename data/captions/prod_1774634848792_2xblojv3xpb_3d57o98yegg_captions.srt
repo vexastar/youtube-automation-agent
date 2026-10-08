@@ -1,0 +1,204 @@
+1
+00:00:00,000 --> 00:00:02,500
+¿Alguna vez imaginaste tener tu propia inteligencia artificial
+
+2
+00:00:03,636 --> 00:00:06,136
+dentro de Minecraft?
+
+3
+00:00:05,000 --> 00:00:07,142
+Hola a todos los apasionados del futuro, ¡bienvenidos
+
+4
+00:00:07,222 --> 00:00:09,365
+a Mente Futura! Hoy nos sumergiremos en el
+
+5
+00:00:09,444 --> 00:00:11,587
+increíble mundo de Minecraft para explorar cómo podemos
+
+6
+00:00:11,666 --> 00:00:13,809
+construir y automatizar nuestro mundo virtual con inteligencia
+
+7
+00:00:13,888 --> 00:00:16,031
+artificial. Al final de este video, sabrás cómo
+
+8
+00:00:16,111 --> 00:00:18,253
+integrar una IA en Minecraft para automatizar tareas
+
+9
+00:00:18,333 --> 00:00:20,476
+y transformar tu experiencia de juego.
+
+10
+00:00:20,000 --> 00:00:26,666
+Una inteligencia artificial en Minecraft es un sistema
+
+11
+00:00:27,272 --> 00:00:33,939
+que puede realizar tareas automáticamente sin intervención constante
+
+12
+00:00:34,545 --> 00:00:41,212
+del jugador. Se trata de usar algoritmos y
+
+13
+00:00:41,818 --> 00:00:48,484
+programación para que ciertas funciones se ejecuten por
+
+14
+00:00:49,090 --> 00:00:55,757
+sí solas, como la recolección de recursos o
+
+15
+00:00:56,363 --> 00:01:03,030
+la construcción de estructuras. Esto no solo hace
+
+16
+00:01:03,636 --> 00:01:10,303
+el juego más interesante, sino que también libera
+
+17
+00:01:10,909 --> 00:01:17,575
+tu tiempo para enfocarte en otras actividades dentro
+
+18
+00:01:18,181 --> 00:01:24,848
+del juego.
+
+19
+00:01:20,000 --> 00:01:26,000
+El primer paso para crear una IA en
+
+20
+00:01:26,575 --> 00:01:32,575
+Minecraft es instalar mods y plugins adecuados. Modificaciones
+
+21
+00:01:33,150 --> 00:01:39,150
+como 'ComputerCraft' y 'OpenComputers' son perfectas para programar
+
+22
+00:01:39,726 --> 00:01:45,726
+dentro del juego. Estos mods añaden bloques computacionales
+
+23
+00:01:46,301 --> 00:01:52,301
+que puedes programar usando lenguajes como Lua, permitiéndote
+
+24
+00:01:52,876 --> 00:01:58,876
+escribir scripts que automatizan tareas. Instalar estos mods
+
+25
+00:01:59,452 --> 00:02:05,452
+es relativamente sencillo: descarga los archivos, colócalos en
+
+26
+00:02:06,027 --> 00:02:12,027
+la carpeta de mods de tu Minecraft y
+
+27
+00:02:12,602 --> 00:02:18,602
+asegúrate de estar usando la versión correcta de
+
+28
+00:02:19,178 --> 00:02:25,178
+Forge.
+
+29
+00:02:20,000 --> 00:02:26,000
+Imagina crear una máquina que automáticamente siembre y
+
+30
+00:02:26,575 --> 00:02:32,575
+coseche tus cultivos. Con ComputerCraft, puedes programar una
+
+31
+00:02:33,150 --> 00:02:39,150
+tortuga para que realice estas acciones regularmente. Otro
+
+32
+00:02:39,726 --> 00:02:45,726
+ejemplo es un sistema de minería automatizado. Con
+
+33
+00:02:46,301 --> 00:02:52,301
+la programación correcta, puedes hacer que una tortuga
+
+34
+00:02:52,876 --> 00:02:58,876
+minadora busque minerales mientras te ocupas de otras
+
+35
+00:02:59,452 --> 00:03:05,452
+construcciones. Finalmente, puedes crear un sistema de alarma
+
+36
+00:03:06,027 --> 00:03:12,027
+que te avise cuando un enemigo se acerque
+
+37
+00:03:12,602 --> 00:03:18,602
+a tu base, usando sensores y scripts en
+
+38
+00:03:19,178 --> 00:03:25,178
+OpenComputers.
+
+39
+00:03:20,000 --> 00:03:30,000
+Ahorro de tiempo: Automatizar tareas repetitivas te permite
+
+40
+00:03:30,212 --> 00:03:40,212
+enfocarte en explorar y construir. Aprendizaje de programación:
+
+41
+00:03:40,425 --> 00:03:50,425
+Usar mods como ComputerCraft te introduce al mundo
+
+42
+00:03:50,638 --> 00:04:00,638
+de la programación básica. Creatividad sin límites: La
+
+43
+00:04:00,851 --> 00:04:10,851
+habilidad de crear sistemas complejos te ofrece una
+
+44
+00:04:11,063 --> 00:04:21,063
+nueva dimensión de creatividad en el juego.
+
+45
+00:04:20,000 --> 00:04:24,285
+Cómo instalar mods para IA en Minecraft. Ejemplos
+
+46
+00:04:24,363 --> 00:04:28,649
+prácticos de automatización en el juego. Los beneficios
+
+47
+00:04:28,727 --> 00:04:33,012
+de integrar una IA en tu experiencia de
+
+48
+00:04:33,090 --> 00:04:37,376
+juego. La tecnología y la creatividad se unen
+
+49
+00:04:37,454 --> 00:04:41,740
+en Minecraft para ofrecerte una experiencia de juego
+
+50
+00:04:41,818 --> 00:04:46,103
+increíblemente enriquecedora. Atrévete a explorar estas posibilidades y
+
+51
+00:04:46,181 --> 00:04:50,467
+lleva tu mundo virtual al siguiente nivel.
+

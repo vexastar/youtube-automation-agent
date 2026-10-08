@@ -1,0 +1,134 @@
+{
+  "title": "Top 1 Gadget Musical que Debes Tener en Casa",
+  "hook": {
+    "type": "statement",
+    "text": "",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "25s-35s"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Artiphon INSTRUMENT 1",
+        "productId": "B00MRJ8LSU",
+        "productName": "Artiphon INSTRUMENT 1",
+        "filename": "B00MRJ8LSU.mp4",
+        "asin": "B00MRJ8LSU",
+        "videoDuration": 53.588133,
+        "estimatedAudioSeconds": 33,
+        "framework": "comparacion_precio",
+        "narracionSegments": null,
+        "content": [
+          "Nunca creíste que esto era posible. El Artiphon INSTRUMENT uno, por solo cuarenta dólares, es el favorito de Japón. Este sintetizador portátil tiene más de treinta diseños y es amado por todas las edades. ¿Por qué funciona? Porque es divertido y fácil de usar. Toca y desliza tus dedos para variar tonos; aprieta las mejillas para vibrato. Configúralo rápido con baterías triple A. Juega en cualquier lugar; disfruta creando música instantánea.",
+          "Su precio actual ronda los cuarenta dólares. Link en comentarios."
+        ],
+        "visuals": [
+          "Product image: Artiphon INSTRUMENT 1"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B00MRJ8LSU.mp4",
+        "precio": "$40",
+        "productPhoto": "https://m.media-amazon.com/images/I/719E2EikJVL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "EL FAVORITO DE JAPÓN - Uno de los juguetes sintetizadores portátiles más queridos de Japón, con más de 30 diseños, vendido a nivel mundial y disfrutado por todas las edades.",
+          "\"\"\"DIVERTIDO Y FÁCIL DE JUGAR - Toca o desliza tus dedos a lo largo del tallo para variar el tono y aprieta las mejillas para el vibrato. Juega en un tono bajo, medio o alto - ¡reúnete con amigos y crea una armonía!\"\"\"",
+          "DESATA TU CREATIVIDAD - ¡Exprésate y explora nuevas posibilidades musicales creando tus propios sonidos! Diviértete cantando y tocando junto a familiares y amigos en casa o al aire libre: el ligero y portátil Otamatone es el instrumento perfecto para llevar de camping y acompañar tus canciones junto a la fogata.",
+          "GRANDE PARA TODAS LAS EDADES - ¡A los niños, adolescentes y adultos les encanta el Otamatone! Ya seas nuevo en la música o un músico experto, el Otamatone ofrece una forma divertida y divertida de hacer música.",
+          "RÁPIDO Y FÁCIL DE CONFIGURAR - Funciona con baterías AAA ×3 (Batería NO incluida). Simplemente enciéndelo y ¡estás listo para jugar! Su tamaño compacto (Aproximadamente 10.6\" o 27 cm) lo hace perfecto para viajar y disfrutar de la música en movimiento."
+        ]
+      }
+    ],
+    "totalDuration": 40
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      ""
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:10",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadget",
+    "musical",
+    "debes",
+    "tener",
+    "casa"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 1 Gadget Musical que Debes Tener en Casa",
+      "angle": "Top 1 Gadget Musical que Debes Tener en Casa",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 1,
+      "introScript": "¿Te imaginas tener en casa un gadget musical que transforma tu forma de crear música de manera profesional? Un dispositivo que no solo mejora la acústica de tus grabaciones, sino que también es portátil y fácil de usar sin necesidad de cables complicados. Hoy te presentamos un invento que fusiona tecnología y música para todos los apasionados del sonido, elevando tus creaciones a un nivel superior. Si eres de los que buscan llevar la experiencia musical más allá, este es el gadget que no querrás perderte.",
+      "keywords": [
+        "gadget",
+        "musical",
+        "debes",
+        "tener",
+        "casa"
+      ],
+      "estimatedViews": 4432,
+      "bestPublishTime": "2026-07-25T15:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Artiphon INSTRUMENT 1",
+          "searchTermEn": "Artiphon INSTRUMENT 1 musical gadget",
+          "id": "B00MRJ8LSU",
+          "filename": "B00MRJ8LSU.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-07-22T23:15:13.604Z",
+      "_requestedCount": 1,
+      "_adaptedCount": 1,
+      "introProductsOrder": [
+        {
+          "nombre": "Artiphon INSTRUMENT 1",
+          "id": "B00MRJ8LSU",
+          "filename": "B00MRJ8LSU.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B00MRJ8LSU.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1784762288317_vjrjwf"
+    },
+    "generatedAt": "2026-07-22T23:18:16.554Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Artiphon INSTRUMENT 1",
+        "searchTermEn": "Artiphon INSTRUMENT 1 musical gadget",
+        "id": "B00MRJ8LSU",
+        "filename": "B00MRJ8LSU.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 1 Gadget Musical que Debes Tener en Casa\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\n\n\n[25s-35s] INTRODUCTION\n\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] ARTIPHON INSTRUMENT 1\nNunca creíste que esto era posible. El Artiphon INSTRUMENT uno, por solo cuarenta dólares, es el favorito de Japón. Este sintetizador portátil tiene más de treinta diseños y es amado por todas las edades. ¿Por qué funciona? Porque es divertido y fácil de usar. Toca y desliza tus dedos para variar tonos; aprieta las mejillas para vibrato. Configúralo rápido con baterías triple A. Juega en cualquier lugar; disfruta creando música instantánea.\nSu precio actual ronda los cuarenta dólares. Link en comentarios.\n\n[VISUALS: Product image: Artiphon INSTRUMENT 1]\n\n[10 seconds] CONCLUSION\n\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:10\nTONE: engaging\nPACING: quick\nKEYWORDS: gadget, musical, debes, tener, casa\n"
+}

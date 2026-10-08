@@ -1,0 +1,391 @@
+{
+  "title": "Top 6 Gadgets Imprescindibles para tu Auto",
+  "hook": {
+    "type": "statement",
+    "text": "",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "25s-35s"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Nonda ZUS Smart Tire",
+        "productId": "B0CPPDR25B",
+        "productName": "Nonda ZUS Smart Tire",
+        "filename": "B0CPPDR25B.mp4",
+        "asin": "B0CPPDR25B",
+        "videoDuration": 113.268733,
+        "estimatedAudioSeconds": 35,
+        "framework": "experiencia_sensorial",
+        "narracionSegments": null,
+        "content": [
+          "¿Preocupado por la seguridad de tus llantas? El Nonda ZUS Smart Tire ofrece monitoreo en tiempo real con multi-alertas precisas. Conéctalo al encendedor y observa las lecturas claras en su pantalla LCD a color. Sin cables complicados. Detecta presiones de cero a ciento cuarenta y cuatro PSI; ideal para viajes largos. Gira los sensores; ajusta la retroiluminación. La doble carga USB permite mantener tus dispositivos listos mientras conduces. Nunca fue tan fácil proteger tus llantas.",
+          "Su precio actual ronda los... Treinta y seis dólares. Link en comentarios."
+        ],
+        "visuals": [
+          "Product image: Nonda ZUS Smart Tire"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0CPPDR25B.mp4",
+        "precio": "$36",
+        "productPhoto": "https://m.media-amazon.com/images/I/71w63bHse4L.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "\"\"\"[Monitoreo en Tiempo Real Preciso y Sistema de Multi-Alerta]: El sensor Tymate TM7 tpms se puede utilizar para monitorear la presión y la temperatura de tus llantas con una precisión robusta de ±1.5 PSI o ±3°F (Las unidades se pueden mostrar como ℃ o ℉ y BAR o PSI). Diseñado con seis modos de alarma distintos: alta/baja presión, fuga rápida, alta temperatura, batería baja del sensor y señal del sensor perdida. Este sistema es una herramienta confiable para mantener la salud de las llantas, y es especialmente beneficioso para entusiastas del bricolaje y mercados de vehículos de segunda mano, donde la vigilancia constante sobre las condiciones de las llantas es fundamental para la seguridad y la longevidad del vehículo.\"\"\"",
+          "[Conexión fácil y carga dual por USB]: El conjunto de 4 sensores TPMS Tymate TM7 se alimenta sin esfuerzo al conectarse directamente al encendedor de su vehículo, eliminando la necesidad de cableado complejo o instalación profesional. Ideal para vehículos más antiguos que carecen de TPMS instalado de fábrica, proporcionando una actualización de seguridad rápida y eficiente para los conductores. Además, este innovador monitor de presión de neumáticos no solo garantiza su seguridad en la carretera, sino que también cuenta con dos salidas USB, lo que le permite cargar dispositivos móviles como smartphones y tablets. Una solución perfecta para operadores de vehículos comerciales y conductores conscientes del presupuesto que buscan funcionalidad adicional sin sacrificar el espacio o la comodidad del vehículo.",
+          "\"\"\"[Pantalla LCD a Color con Retroiluminación Ajustable]: Este dispositivo proporciona datos de presión y temperatura de los neumáticos claros y fáciles de leer en cualquier condición de luz, gracias a la vibrante pantalla LCD a color con retroiluminación ajustable. Esta característica está diseñada para todos los conductores, especialmente aquellos que viajan diariamente o emprenden viajes largos, asegurando visibilidad y legibilidad en todo momento.\"\"\"",
+          "\"\"\"[Detección de Amplio Rango de Presión & Larga Transmisión de Señal]: El TM7 TPMS de Tymate detecta con precisión las presiones de los neumáticos de 0 a 144 PSI, ofreciendo versatilidad para una variedad de vehículos como sedanes, SUV, MPV, camionetas, RV y remolques de viaje (el sistema se calibra automáticamente a la presión central de los neumáticos, utilizando la instalación de sensores emparejados como valores de referencia). Este sistema de monitoreo de presión de neumáticos cuenta con un rango de transmisión robusto y asegura una conexión consistente y confiable entre los sensores y el monitor. Nota: Sugerimos encarecidamente utilizar este sistema con el repetidor de Tymate para remolcar remolques más largos (longitud total ≥36ft); después de emparejar con el repetidor, el monitor mostrará el modo \"RV\".\"\"\"",
+          "\"\"\"[Fácil de Usar y Servicio Postventa Profesional]: Este Tymate TM7 TPMS es fácil de configurar en 5 minutos. La caja del paquete viene con un manual del usuario completo y hay videos guía disponibles en la página del producto para que sigas los pasos uno a uno en el proceso de emparejamiento de sensores. El video guía para reemplazar la batería de los sensores también está disponible en la lista, y la batería de reemplazo para el sensor es una batería de moneda CR1632 (se incluyen 4 baterías de moneda en el paquete original). Si aún tienes alguna pregunta sobre el producto, por favor contáctanos para más asistencia.\"\"\""
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Anker Roav Viva",
+        "productId": "B08FJGT216",
+        "productName": "Anker Roav Viva",
+        "filename": "B08FJGT216.mp4",
+        "asin": "B08FJGT216",
+        "videoDuration": 76.010533,
+        "estimatedAudioSeconds": 35,
+        "framework": "problema_solucion",
+        "narracionSegments": null,
+        "content": [
+          "¿Cansado de conducir desconectado Durante tus viajes. El Anker Roav Viva resuelve eso al instante. Este soporte para teléfono con Alexa integrado ofrece navegación con comandos de voz;. Solicita direcciones o consulta el clima sin apartar la vista del camino. Transmite música de Spotify o escucha tu estación favorita mientras conduces. Conéctalo a tu tablero; Personaliza su posición y extiende su brazo para una mejor visibilidad. Sus dos micrófonos con cancelación filtrarán el ruido para comandos claros.",
+          "Su precio actual ronda los cincuenta dólares. Link en comentarios."
+        ],
+        "visuals": [
+          "Product image: Anker Roav Viva"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B08FJGT216.mp4",
+        "precio": "$50",
+        "productPhoto": "https://m.media-amazon.com/images/I/61l98xjBuKL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "ALEXA INCORPORADO: Soporte para teléfono para iOS y Android con Alexa incorporado, para que puedas pedir direcciones de manera segura, hacer una llamada, consultar el informe del clima, controlar tus dispositivos del hogar y mucho más. El dispositivo no carga tu teléfono.",
+          "\"\"\"TRANSMITE MÚSICA: Ahora puedes acceder fácilmente a Spotify, además de Pandora, Sirius XM, NPR e iHeartRadio.\"\"\"",
+          "MFi CERTIFICADO: Mayor compatibilidad con iOS gracias a la certificación MFi.",
+          "REDUCCIÓN DE RUIDO: Dos micrófonos, software de cancelación de ruido y un sistema PCBA actualizado garantizan una comunicación fluida con Alexa.",
+          "NUEVA BASE DE DASH/WINDSHIELD: La base rediseñada permite una mayor extensión y ángulos de visión más personalizados."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Hudway Cast HUD",
+        "productId": "B0H9RQ91QJ",
+        "productName": "Hudway Cast HUD",
+        "filename": "B0H9RQ91QJ.mp4",
+        "asin": "B0H9RQ91QJ",
+        "videoDuration": 12.4804,
+        "estimatedAudioSeconds": 32,
+        "framework": "enfoque_caracteristica",
+        "narracionSegments": null,
+        "content": [
+          "¿Harto de no ver los datos al conducir? Hudway Cast HUD soluciona esto con recepción de señal fuerte. Capta hasta treinta y dos señales de satélite. Ajuste automático de brillo; al adaptarse a la luz externa. Conecta mediante USB. Instálalo fácilmente en cualquier vehículo. Muestra velocidad en millas por hora hasta ciento quince. Pantalla clara elimina reflejos no deseados. Disfruta conducción segura y datos visibles; día o noche.",
+          "Su precio actual ronda los dieciséis dólares. Link en comentarios."
+        ],
+        "visuals": [
+          "Product image: Hudway Cast HUD"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0H9RQ91QJ.mp4",
+        "precio": "$16",
+        "productPhoto": "https://m.media-amazon.com/images/I/618R+agTUkL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "Recepción de Señal Fuerte: Nuestro HUD para coche utiliza tecnología de chip de modo dual—señales GPS+BDS—con una alta tasa de refresco de 10 Hz para una recepción rápida y precisa. Puede captar hasta 32 señales de satélite, manteniendo una conexión estable para datos de velocidad precisos, ya sea que estés conduciendo en áreas urbanas o rurales.",
+          "Ajuste Automático de Brillo: El hud para coches cuenta con sensores de luz inteligentes que ajustan automáticamente el brillo de la pantalla según las condiciones de luz externas. Esto garantiza una visibilidad clara en diferentes situaciones de iluminación, ya sea en pleno día o en entornos poco iluminados por la noche, proporcionando una visualización cómoda para mejorar la seguridad al conducir.",
+          "Apto para todos los coches con puerto USB: Diseñado con simplicidad en mente, nuestro HUD es fácil de instalar y adecuado para todos los coches con puerto USB, incluyendo coches, motocicletas y camiones. Ya sea que conduzcas un sedán compacto o un gran vehículo comercial, la instalación es sencilla, lo que te permite disfrutar de la comodidad y los beneficios de seguridad de nuestro HUD.",
+          "Pantalla más clara: Nuestro HUD muestra la velocidad en MPH por defecto, con una velocidad máxima de visualización de 115 mph, y utiliza un diseño de fuente grande y tecnología de sombreado metálico que elimina eficazmente los reflejos no deseados y garantiza una visualización más clara, de modo que incluso los conductores mayores con mala vista o aquellos que usan gafas de sol pueden ver la velocidad con mucha claridad.",
+          "Recordatorio Amistoso: El rendimiento de este producto está estrechamente relacionado con el entorno del automóvil. Si el cristal de su coche tiene una película metálica a prueba de explosiones, puede afectar el efecto de recepción de la señal. Le recomendamos que elija con cuidado según la situación real."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Lifestraw Go",
+        "productId": "B0BY39M8GY",
+        "productName": "Lifestraw Go",
+        "filename": "B0BY39M8GY.mp4",
+        "asin": "B0BY39M8GY",
+        "videoDuration": 32.733967,
+        "estimatedAudioSeconds": 35,
+        "framework": "beneficio_oculto",
+        "narracionSegments": null,
+        "content": [
+          "¿Beber agua sin preocupaciones? Lifestraw Go transforma cualquier fuente en agua pura. Su microfiltro Membrane elimina el noventa y nueve punto noventa y nueve por ciento de bacterias y parásitos. Ideal para llenar en baños de aeropuertos o gasolineras. Simplemente llena la botella y bebe; olvídate del cloro y los olores. Su filtro de carbono mejorará el sabor al instante. Diseñado para durar; cada microfiltro rinde hasta mil galones. Olvídate de las botellas desechables.",
+          "Su precio actual ronda los treinta y siete dólares. Link en comentarios."
+        ],
+        "visuals": [
+          "Product image: Lifestraw Go"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0BY39M8GY.mp4",
+        "precio": "$37",
+        "productPhoto": "https://m.media-amazon.com/images/I/61ukI6KCbDL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "La serie LifeStraw Go es el COMPAÑERO DEFINITIVO. La botella libre de BPA filtra impurezas para que puedas llenarla en baños de aeropuertos, un grifo en México o una gasolinera mientras viajas por carretera.",
+          "MEJORA EL SABOR: el filtro de carbono reduce el cloro, los olores + materia química orgánica.",
+          "\"\"\"FILTRA CONTAMINANTES: el microfiltro de Membrane protege contra el 99.999999% de Bacterias (incluyendo E.coli + Salmonella), 99.999% de Parásitos (incluyendo Giardia y Cryptosporidium), 99.999% de Microplásticos, arena, suciedad y turbidez.\"\"\"",
+          "LARGA DURACIÓN: El microfiltro de membrana dura hasta 1,000 gal (4,000 L) - aproximadamente cinco años de uso diario. El filtro de carbono dura hasta 26 galones (100 L) - aproximadamente dos meses.",
+          "SAVES WASTE: El microfiltro de membrana dura hasta 4,000 litros. Eso son 8,000 botellas de agua de plástico de un solo uso fuera de nuestros parques, nuestros océanos y nuestras comunidades."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "AutoXscape 3-in-1",
+        "productId": "B07F9VWCP5",
+        "productName": "AutoXscape 3-in-1",
+        "filename": "B07F9VWCP5.mp4",
+        "asin": "B07F9VWCP5",
+        "videoDuration": 102.435667,
+        "estimatedAudioSeconds": 30,
+        "framework": "comparacion_precio",
+        "narracionSegments": null,
+        "content": [
+          "¿Siempre preparado para lo inesperado? AutoXscape 3-in-1 integra seguridad y salvamento en tu vehículo. Esta herramienta patentada ayuda a escapar de un coche en peligro. El punzón con resorte rompe ventanas en segundos. Corta cinturones con su hoja afilada; eficaz y rápida. Además, ofrece soporte magnético para tu smartphone. Desliza en la rejilla y asegura con sus cuatro imanes. Perfecta integración... sin complicaciones.",
+          "Su precio actual ronda los dieciocho dólares. Link en comentarios."
+        ],
+        "visuals": [
+          "Product image: AutoXscape 3-in-1"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07F9VWCP5.mp4",
+        "precio": "$18",
+        "productPhoto": "https://m.media-amazon.com/images/I/41wS9bjq1JL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "SEGURIDAD Y SALVAMENTO: La herramienta de emergencia 3 en 1 Stinger es una herramienta de escape de emergencia para automóviles única en su tipo y patentada, que se puede integrar en la vida cotidiana. Está diseñada para ayudar a escapar de un automóvil que se está hundiendo, volcado, chocado o en llamas.",
+          "ROMPE Y ESCAPA: El punzón de ventana con resorte funciona de manera fácil y rápida para darte la mejor oportunidad de escapar de tu vehículo. Puede romper la ventana del coche en un solo golpe. El Stinger solo romperá vidrio templado. No está diseñado para romper parabrisas o vidrio laminado.",
+          "CORTADOR DE CINTURÓN DE SEGURIDAD RAZOR SHARP: La herramienta de escape de emergencia viene con una hoja extremadamente afilada para ayudarte a cortar el cinturón de seguridad si te encuentras incapaz de soltarlo normalmente.",
+          "SIEMPRE A LA MANO: Nuestro diseño multifuncional mantiene la herramienta de emergencia al alcance razonable cuando se necesita. Cumple una función diaria, por lo que si hay una situación crítica, siempre estará fácilmente accesible para ti. Autoxscape, Crash Safe.",
+          "Soporte magnético para teléfono en el coche: se desliza el stinger en la rejilla de aire y se adhiere magnéticamente al teléfono celular que tiene la placa de metal preinstalada en la parte posterior o en la funda. Hay 4 potentes imanes integrados en la cabeza del soporte para asegurar que tu teléfono se mantenga de forma segura mientras conduces. El diseño universal se adapta a la mayoría de los smartphones en el mercado, incluyendo Apple iPhone, Samsung Galaxy, Blackberry y dispositivos Microsoft. Se incluye un imán."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Wynston Solar Charger",
+        "productId": "B07JLWFPX6",
+        "productName": "Wynston Solar Charger",
+        "filename": "B07JLWFPX6.mp4",
+        "asin": "B07JLWFPX6",
+        "videoDuration": 86.3752,
+        "estimatedAudioSeconds": 34,
+        "framework": "dato_numerico",
+        "narracionSegments": null,
+        "content": [
+          "¿Cansado de quedarte sin batería? El Wynston Solar Charger tiene un asombroso veinticinco por ciento de eficiencia. Su sistema de protección inteligente previene sobrecargas y asegura estabilidad. Con el Controlador de Carga Inteligente, optimiza la conversión solar. Conéctalo al encendedor del coche o utiliza los clips de cocodrilo directamente en la batería. Su vidrio resistente soporta nieve y viento. Añade resistencia con su marco ABS+PC. ¡Carga con confianza, en cualquier clima!",
+          "Su precio actual ronda los... treinta y seis dólares. Link en comentarios."
+        ],
+        "visuals": [
+          "Product image: Wynston Solar Charger"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07JLWFPX6.mp4",
+        "precio": "$36",
+        "productPhoto": "https://m.media-amazon.com/images/I/81DnkVJ6-FL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "\"\"\"Actualiza el Controlador de Carga Inteligente: Sistema de protección interno incorporado y carga rápida inteligente. Colabora con material de silicio solar de calidad que asegura una alta conversión y salida estable, la eficiencia de conversión de energía del panel solar es del 25-30%.\"\"\"",
+          "Sistema de Protección Interna Inteligente: La tecnología POWOXI del cargador solar de batería no dañará la batería ni la sobrecargará. El sistema de protección inteligente integrado y la estructura de diodo de bloqueo aseguran que no haya sobrevoltaje ni cortocircuito. Hace que la carga sea más segura.",
+          "Más fuerte y más duradero: El cargador de batería solar para automóviles de 7.5W adopta vidrio de alta transparencia, que es de alta resistencia, resistente a impactos y a la nieve y el viento, y de bajo contenido de hierro. Este cargador de batería solar impermeable no necesita mantenimiento adicional.",
+          "Diseño de Protección contra Rayones: El marco de ABS+PC es más fuerte que los paneles solares flexibles, por lo que no hay necesidad de preocuparse por la deformación de los paneles solares. La aleación de aluminio puede dañar la pintura del coche, pero con el marco de ABS+PC, por su durabilidad, esto no es una preocupación.",
+          "Fácil de instalar y usar: El mantenedor de batería solar es fácil de instalar y conveniente de usar, solo insértalo en el enchufe de alimentación del coche, también conocido como el socket del encendedor de cigarrillos, o conecta el panel solar a la batería directamente con los clips de cocodrilo."
+        ]
+      }
+    ],
+    "totalDuration": 240
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      ""
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "4:30",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "imprescindibles",
+    "para",
+    "auto"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 6 Gadgets Imprescindibles para tu Auto",
+      "angle": "Top 6 Gadgets Imprescindibles para tu Auto",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 6,
+      "introScript": "¿Imaginas un cargador que también es un humidificador portátil? ¿O un gadget que convierte el sol en energía para tu auto? Hoy te presentamos seis gadgets sorprendentemente útiles que transformarán tu experiencia de conducción. Desde un monitor de presión para tus llantas hasta un proyector que ilumina el camino en la noche. Prepárate para descubrir los dispositivos más fascinantes que puedes instalar en tu coche ahora mismo. ¡Vamos a verlos!",
+      "keywords": [
+        "gadgets",
+        "imprescindibles",
+        "para",
+        "auto"
+      ],
+      "estimatedViews": 4617,
+      "bestPublishTime": "2026-09-03T19:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Nonda ZUS Smart Tire",
+          "searchTermEn": "Nonda ZUS Smart Tire Monitor",
+          "id": "B0CPPDR25B",
+          "filename": "B0CPPDR25B.mp4"
+        },
+        {
+          "nombre": "Anker Roav Viva",
+          "searchTermEn": "Anker Roav Viva Alexa",
+          "id": "B08FJGT216",
+          "filename": "B08FJGT216.mp4"
+        },
+        {
+          "nombre": "Hudway Cast HUD",
+          "searchTermEn": "Hudway Cast Head Up Display",
+          "id": "B0H9RQ91QJ",
+          "filename": "B0H9RQ91QJ.mp4"
+        },
+        {
+          "nombre": "Lifestraw Go",
+          "searchTermEn": "Lifestraw Go Water Filter Bottle",
+          "id": "B0BY39M8GY",
+          "filename": "B0BY39M8GY.mp4"
+        },
+        {
+          "nombre": "AutoXscape 3-in-1",
+          "searchTermEn": "AutoXscape Car Emergency Tool",
+          "id": "B07F9VWCP5",
+          "filename": "B07F9VWCP5.mp4"
+        },
+        {
+          "nombre": "Wynston Solar Charger",
+          "searchTermEn": "Wynston Solar Car Battery Charger",
+          "id": "B07JLWFPX6",
+          "filename": "B07JLWFPX6.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-09-02T17:54:56.116Z",
+      "_requestedCount": 6,
+      "_adaptedCount": 6,
+      "introProductsOrder": [
+        {
+          "nombre": "Wynston Solar Charger",
+          "id": "B07JLWFPX6",
+          "filename": "B07JLWFPX6.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07JLWFPX6.mp4"
+        },
+        {
+          "nombre": "Hudway Cast HUD",
+          "id": "B0H9RQ91QJ",
+          "filename": "B0H9RQ91QJ.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0H9RQ91QJ.mp4"
+        },
+        {
+          "nombre": "AutoXscape 3-in-1",
+          "id": "B07F9VWCP5",
+          "filename": "B07F9VWCP5.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07F9VWCP5.mp4"
+        },
+        {
+          "nombre": "Anker Roav Viva",
+          "id": "B08FJGT216",
+          "filename": "B08FJGT216.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B08FJGT216.mp4"
+        },
+        {
+          "nombre": "Lifestraw Go",
+          "id": "B0BY39M8GY",
+          "filename": "B0BY39M8GY.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0BY39M8GY.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1788372442279_42bfhg"
+    },
+    "generatedAt": "2026-09-02T18:08:15.669Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Nonda ZUS Smart Tire",
+        "searchTermEn": "Nonda ZUS Smart Tire Monitor",
+        "id": "B0CPPDR25B",
+        "filename": "B0CPPDR25B.mp4"
+      },
+      {
+        "nombre": "Anker Roav Viva",
+        "searchTermEn": "Anker Roav Viva Alexa",
+        "id": "B08FJGT216",
+        "filename": "B08FJGT216.mp4"
+      },
+      {
+        "nombre": "Hudway Cast HUD",
+        "searchTermEn": "Hudway Cast Head Up Display",
+        "id": "B0H9RQ91QJ",
+        "filename": "B0H9RQ91QJ.mp4"
+      },
+      {
+        "nombre": "Lifestraw Go",
+        "searchTermEn": "Lifestraw Go Water Filter Bottle",
+        "id": "B0BY39M8GY",
+        "filename": "B0BY39M8GY.mp4"
+      },
+      {
+        "nombre": "AutoXscape 3-in-1",
+        "searchTermEn": "AutoXscape Car Emergency Tool",
+        "id": "B07F9VWCP5",
+        "filename": "B07F9VWCP5.mp4"
+      },
+      {
+        "nombre": "Wynston Solar Charger",
+        "searchTermEn": "Wynston Solar Car Battery Charger",
+        "id": "B07JLWFPX6",
+        "filename": "B07JLWFPX6.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 6 Gadgets Imprescindibles para tu Auto\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\n\n\n[25s-35s] INTRODUCTION\n\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] NONDA ZUS SMART TIRE\n¿Preocupado por la seguridad de tus llantas? El Nonda ZUS Smart Tire ofrece monitoreo en tiempo real con multi-alertas precisas. Conéctalo al encendedor y observa las lecturas claras en su pantalla LCD a color. Sin cables complicados. Detecta presiones de cero a ciento cuarenta y cuatro PSI; ideal para viajes largos. Gira los sensores; ajusta la retroiluminación. La doble carga USB permite mantener tus dispositivos listos mientras conduces. Nunca fue tan fácil proteger tus llantas.\nSu precio actual ronda los... Treinta y seis dólares. Link en comentarios.\n\n[VISUALS: Product image: Nonda ZUS Smart Tire]\n\n[0:25] ANKER ROAV VIVA\n¿Cansado de conducir desconectado Durante tus viajes. El Anker Roav Viva resuelve eso al instante. Este soporte para teléfono con Alexa integrado ofrece navegación con comandos de voz;. Solicita direcciones o consulta el clima sin apartar la vista del camino. Transmite música de Spotify o escucha tu estación favorita mientras conduces. Conéctalo a tu tablero; Personaliza su posición y extiende su brazo para una mejor visibilidad. Sus dos micrófonos con cancelación filtrarán el ruido para comandos claros.\nSu precio actual ronda los cincuenta dólares. Link en comentarios.\n\n[VISUALS: Product image: Anker Roav Viva]\n\n[0:25] HUDWAY CAST HUD\n¿Harto de no ver los datos al conducir? Hudway Cast HUD soluciona esto con recepción de señal fuerte. Capta hasta treinta y dos señales de satélite. Ajuste automático de brillo; al adaptarse a la luz externa. Conecta mediante USB. Instálalo fácilmente en cualquier vehículo. Muestra velocidad en millas por hora hasta ciento quince. Pantalla clara elimina reflejos no deseados. Disfruta conducción segura y datos visibles; día o noche.\nSu precio actual ronda los dieciséis dólares. Link en comentarios.\n\n[VISUALS: Product image: Hudway Cast HUD]\n\n[0:25] LIFESTRAW GO\n¿Beber agua sin preocupaciones? Lifestraw Go transforma cualquier fuente en agua pura. Su microfiltro Membrane elimina el noventa y nueve punto noventa y nueve por ciento de bacterias y parásitos. Ideal para llenar en baños de aeropuertos o gasolineras. Simplemente llena la botella y bebe; olvídate del cloro y los olores. Su filtro de carbono mejorará el sabor al instante. Diseñado para durar; cada microfiltro rinde hasta mil galones. Olvídate de las botellas desechables.\nSu precio actual ronda los treinta y siete dólares. Link en comentarios.\n\n[VISUALS: Product image: Lifestraw Go]\n\n[0:25] AUTOXSCAPE 3-IN-1\n¿Siempre preparado para lo inesperado? AutoXscape 3-in-1 integra seguridad y salvamento en tu vehículo. Esta herramienta patentada ayuda a escapar de un coche en peligro. El punzón con resorte rompe ventanas en segundos. Corta cinturones con su hoja afilada; eficaz y rápida. Además, ofrece soporte magnético para tu smartphone. Desliza en la rejilla y asegura con sus cuatro imanes. Perfecta integración... sin complicaciones.\nSu precio actual ronda los dieciocho dólares. Link en comentarios.\n\n[VISUALS: Product image: AutoXscape 3-in-1]\n\n[0:25] WYNSTON SOLAR CHARGER\n¿Cansado de quedarte sin batería? El Wynston Solar Charger tiene un asombroso veinticinco por ciento de eficiencia. Su sistema de protección inteligente previene sobrecargas y asegura estabilidad. Con el Controlador de Carga Inteligente, optimiza la conversión solar. Conéctalo al encendedor del coche o utiliza los clips de cocodrilo directamente en la batería. Su vidrio resistente soporta nieve y viento. Añade resistencia con su marco ABS+PC. ¡Carga con confianza, en cualquier clima!\nSu precio actual ronda los... treinta y seis dólares. Link en comentarios.\n\n[VISUALS: Product image: Wynston Solar Charger]\n\n[10 seconds] CONCLUSION\n\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 4:30\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, imprescindibles, para, auto\n"
+}

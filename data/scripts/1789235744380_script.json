@@ -1,0 +1,244 @@
+{
+  "title": "Top 3 Gadgets de Carpintería para Trabajos en Casa",
+  "hook": {
+    "type": "statement",
+    "text": "Observa en uso real a: Bosch GLM165. No vas a creer el potencial de: Guía de sierra circular Kreg KMA2685. Observa en uso real a: Sierra Circular DOVAMAN.",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "¿Cuál querrías tú? Los links están en el primer comentario.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "25s-35s"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Sierra Circular DOVAMAN",
+        "productId": "B0C4TJDHFJ",
+        "productName": "Sierra Circular DOVAMAN",
+        "filename": "B0C4TJDHFJ.mp4",
+        "asin": "B0C4TJDHFJ",
+        "videoDuration": 61.2501,
+        "estimatedAudioSeconds": null,
+        "framework": "comparacion_precio",
+        "narracionSegments": null,
+        "content": [
+          "",
+          "Lo encuentras en Amazon por 69 dólares. Link en el primer comentario."
+        ],
+        "visuals": [
+          "Product image: Sierra Circular DOVAMAN"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0C4TJDHFJ.mp4",
+        "precio": "$69",
+        "productPhoto": "https://m.media-amazon.com/images/I/71HfDVrqqLL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "\"\"\"6 CUCHILLAS PARA CORTES VARIOS: Incluye 2 piezas de cuchillas TCT de 4¾\" para cortar madera, 2 piezas de cuchillas TCT de 4½\" para cortar metal blando y plástico, y 2 piezas de cuchillas de 4½\" para cortar azulejos. Puedes satisfacer diferentes necesidades de corte de materiales (trabajo en madera, plástico, metal blando y azulejos) simplemente cambiando las cuchillas.\"\"\"",
+          "CORTE PRECISO: Esta sierra compacta ofrece una guía láser incorporada y una guía de borde, que pueden ayudarte a realizar cortes más rectos y precisos.",
+          "CORTES ESTABLES: Equipado con un mango auxiliar de metal extra que se puede instalar fácilmente en ambos lados, izquierdo y derecho, y una base mucho más grande de 3.5*9.5 inches, esta pequeña sierra te promete cortes más estables.",
+          "CORTES EN INGLETE A 45°: Solo se necesitan dos pasos para ajustar fácilmente el ángulo de inglete de 0 a 45°, y puedes obtener una profundidad de corte máxima de 1-1/8\" en el caso de cortes en inglete a 45°.",
+          "CORTADO A 90°: Con el Depth Adjustable Level, puedes variar la profundidad de corte hasta 1-11/16\" según tus necesidades de corte al realizar cortes transversales."
+        ],
+        "originalVideoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0C4TJDHFJ.mp4"
+      },
+      {
+        "type": "content",
+        "title": "Bosch GLM165",
+        "productId": "B0931YY9LZ",
+        "productName": "Bosch GLM165",
+        "filename": "B0931YY9LZ.mp4",
+        "asin": "B0931YY9LZ",
+        "videoDuration": 29.852067,
+        "estimatedAudioSeconds": null,
+        "framework": "dato_numerico",
+        "narracionSegments": null,
+        "content": [
+          "",
+          "Lo encuentras en Amazon por 135 dólares. Link en el primer comentario."
+        ],
+        "visuals": [
+          "Product image: Bosch GLM165"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0931YY9LZ.mp4",
+        "precio": "$135",
+        "productPhoto": "https://m.media-amazon.com/images/I/51v9CEdI3ZL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "\"\"\"LÁSER GREEN-BEAM: Esta herramienta de medición láser genera un punto/dot que es hasta 4 veces más brillante que los haces rojos estándar.\"\"\"",
+          "MODO DE MEDICIÓN EN TIEMPO REAL POR DEFECTO: Este medidor láser digital de cinta proporciona inmediatamente una medición precisa que se ajusta automáticamente más cerca o más lejos del objetivo.",
+          "CARACTERÍSTICAS MÚLTIPLES DE MEDICIÓN: Esta cinta métrica láser calcula distancia, área, volumen y mediciones indirectas.",
+          "BOTÓN DE REDONDEO: Este medidor láser BOSCH redondea la medida a la fracción que mejor se adapte a la aplicación.",
+          "JOBSITE TOUGH: La herramienta de medición láser tiene una clasificación ip65 y es capaz de soportar las condiciones del lugar de trabajo."
+        ],
+        "originalVideoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0931YY9LZ.mp4"
+      },
+      {
+        "type": "content",
+        "title": "Guía de sierra circular Kreg KMA2685",
+        "productId": "B073PFYN4T",
+        "productName": "Guía de sierra circular Kreg KMA2685",
+        "filename": "B073PFYN4T.mp4",
+        "asin": "B073PFYN4T",
+        "videoDuration": 134.456567,
+        "estimatedAudioSeconds": null,
+        "framework": "experiencia_sensorial",
+        "narracionSegments": null,
+        "content": [
+          "",
+          "Lo encuentras en Amazon por 49 dólares. Link en el primer comentario."
+        ],
+        "visuals": [
+          "Product image: Guía de sierra circular Kreg KMA2685"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B073PFYN4T.mp4",
+        "precio": "$49",
+        "productPhoto": "https://m.media-amazon.com/images/I/71Gl-jCJvlL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "Saw Guide Compatibility: This saw guide turns your circular saw into a precision edge-guided tool; works best with a regular (side-blade) circular saw, corded or cordless, that has a blade guard or base that allows the sled to clamp securely",
+          "Woodworking Tools: Universal sled holds guide rail and edge guide, making the circular saw guide portable; not ideal for saws with plastic upper blade guard because guard might interfere with the sled clamping or alignment",
+          "Versatile Carpenter Tools: Works for left- or right-bladed saws and users; please note, this guide does not work with worm drive saws, as the base or motor housing tends to interfere with the sled’s ability to sit flat and clamp properly",
+          "Accessible Workshop Accessories: Large handle on the edge guide maintains contact with the material;, this saw guide is not ideal for saws with bulky or odd shape guards that prevent a flat fit with the sled plate",
+          "Premium Kreg Tools: We offer products that help woodworkers close the gap between idea and outcome"
+        ],
+        "originalVideoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B073PFYN4T.mp4"
+      }
+    ],
+    "totalDuration": 120
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      ""
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "2:30",
+  "tone": "engaging",
+  "tone_variant": "entusiasta y acelerado, como un presentador de teletienda pero sin relleno ni repetición",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "carpintera",
+    "para",
+    "trabajos",
+    "casa"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 3 Gadgets de Carpintería para Trabajos en Casa",
+      "angle": "Top 3 Gadgets de Carpintería para Trabajos en Casa",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 3,
+      "introScript": "¿Te imaginas cortar madera con precisión milimétrica sin esfuerzo? O tener una guía láser que convierte cualquier superficie en una zona de trabajo perfecta. Hoy te traigo tres gadgets innovadores que transformarán tu experiencia de carpintería en casa. Prepárate para descubrir herramientas que utilizan la última tecnología para hacer que cada proyecto sea más fácil y preciso. Así que si eres un entusiasta del bricolaje o un profesional en busca de eficiencia, este video es para ti.",
+      "keywords": [
+        "gadgets",
+        "carpintera",
+        "para",
+        "trabajos",
+        "casa"
+      ],
+      "estimatedViews": 4610,
+      "bestPublishTime": "2026-09-19T15:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Sierra Circular DOVAMAN",
+          "searchTermEn": "Tacklife Circular Saw",
+          "id": "B0C4TJDHFJ",
+          "filename": "B0C4TJDHFJ.mp4"
+        },
+        {
+          "nombre": "Bosch GLM165",
+          "searchTermEn": "Bosch Quigo Green Laser",
+          "id": "B0931YY9LZ",
+          "filename": "B0931YY9LZ.mp4"
+        },
+        {
+          "nombre": "Guía de sierra circular Kreg KMA2685",
+          "searchTermEn": "Kreg Rip-Cut Circular Saw Guide",
+          "id": "B073PFYN4T",
+          "filename": "B073PFYN4T.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-09-12T17:48:49.242Z",
+      "_requestedCount": 3,
+      "_adaptedCount": 3,
+      "introProductsOrder": [
+        {
+          "nombre": "Bosch GLM165",
+          "id": "B0931YY9LZ",
+          "filename": "B0931YY9LZ.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0931YY9LZ.mp4"
+        },
+        {
+          "nombre": "Guía de sierra circular Kreg KMA2685",
+          "id": "B073PFYN4T",
+          "filename": "B073PFYN4T.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B073PFYN4T.mp4"
+        },
+        {
+          "nombre": "Sierra Circular DOVAMAN",
+          "id": "B0C4TJDHFJ",
+          "filename": "B0C4TJDHFJ.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0C4TJDHFJ.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1789235715684_63ify0"
+    },
+    "generatedAt": "2026-09-12T17:55:42.152Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Sierra Circular DOVAMAN",
+        "searchTermEn": "Tacklife Circular Saw",
+        "id": "B0C4TJDHFJ",
+        "filename": "B0C4TJDHFJ.mp4"
+      },
+      {
+        "nombre": "Bosch GLM165",
+        "searchTermEn": "Bosch Quigo Green Laser",
+        "id": "B0931YY9LZ",
+        "filename": "B0931YY9LZ.mp4"
+      },
+      {
+        "nombre": "Guía de sierra circular Kreg KMA2685",
+        "searchTermEn": "Kreg Rip-Cut Circular Saw Guide",
+        "id": "B073PFYN4T",
+        "filename": "B073PFYN4T.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 3 Gadgets de Carpintería para Trabajos en Casa\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\nObserva en uso real a: Bosch GLM165. No vas a creer el potencial de: Guía de sierra circular Kreg KMA2685. Observa en uso real a: Sierra Circular DOVAMAN.\n\n[25s-35s] INTRODUCTION\n¿Cuál querrías tú? Los links están en el primer comentario.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] SIERRA CIRCULAR DOVAMAN\n\nLo encuentras en Amazon por 69 dólares. Link en el primer comentario.\n\n[VISUALS: Product image: Sierra Circular DOVAMAN]\n\n[0:25] BOSCH GLM165\n\nLo encuentras en Amazon por 135 dólares. Link en el primer comentario.\n\n[VISUALS: Product image: Bosch GLM165]\n\n[0:25] GUÍA DE SIERRA CIRCULAR KREG KMA2685\n\nLo encuentras en Amazon por 49 dólares. Link en el primer comentario.\n\n[VISUALS: Product image: Guía de sierra circular Kreg KMA2685]\n\n[10 seconds] CONCLUSION\n\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 2:30\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, carpintera, para, trabajos, casa\n"
+}

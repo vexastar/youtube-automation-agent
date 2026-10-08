@@ -1,0 +1,164 @@
+{
+  "title": "Top 3 Gadgets Indispensables para Streamers",
+  "hook": {
+    "type": "statement",
+    "text": "Este micrófono capta cada matiz de tu voz. Esta cámara transmite con una claridad asombrosa. Esta luz anular ilumina como un estudio profesional.",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "Suscríbete, los links están en el primer comentario. Empecemos.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0:10-0:15"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Blue Yeti X Micrófono",
+        "productId": "B01LY6Z2M6",
+        "productName": "Blue Yeti X Micrófono",
+        "filename": "B01LY6Z2M6.mp4",
+        "content": [
+          "¿Tu audiencia se queja del sonido pobre en tus streams? El Blue Yeti X Micrófono ofrece una calidad de audio cristalina que eleva tu voz a nivel profesional. Su diseño con controles integrados facilita ajustar el sonido en tiempo real.",
+          "Su precio actual en Amazon ronda los... 99 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Blue Yeti X Micrófono"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B01LY6Z2M6.mp4",
+        "precio": "$99"
+      },
+      {
+        "type": "content",
+        "title": "Logitech StreamCam",
+        "productId": "B07TZT4Q89",
+        "productName": "Logitech StreamCam",
+        "filename": "B07TZT4Q89.mp4",
+        "content": [
+          "¿Cansado de una transmisión de video pixelada y poco profesional? La Logitech StreamCam ofrece una calidad de imagen nítida y fluida que mejora instantáneamente la experiencia visual de tus espectadores. Con seguimiento facial inteligente, siempre estarás en el centro de la acción.",
+          "Su precio actual en Amazon ronda los... 150 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Logitech StreamCam"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07TZT4Q89.mp4",
+        "precio": "$150"
+      },
+      {
+        "type": "content",
+        "title": "Razer Ring Light",
+        "productId": "B075N1BYWB",
+        "productName": "Razer Ring Light",
+        "filename": "B075N1BYWB.mp4",
+        "content": [
+          "¿Tus videos se ven oscuros y poco atractivos? La Razer Ring Light proporciona una iluminación pareja y profesional, haciendo que cada transmisión brille. Con múltiples configuraciones de brillo, puedes controlar el ambiente perfecto.",
+          "Su precio actual en Amazon ronda los... 96 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Razer Ring Light"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B075N1BYWB.mp4",
+        "precio": "$96"
+      }
+    ],
+    "totalDuration": 75
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "¡No olvides dejar un like y recuerda que los links están en el primer comentario!"
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:45",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "indispensables",
+    "para",
+    "streamers"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 3 Gadgets Indispensables para Streamers",
+      "angle": "Top 3 Gadgets Indispensables para Streamers",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 3,
+      "introScript": "¿Un micrófono que cancela el ruido de fondo? ¿Un anillo de luz que controla la temperatura del color con solo un toque? Hoy te muestro los gadgets que llevarán tu streaming al siguiente nivel.",
+      "keywords": [
+        "gadgets",
+        "indispensables",
+        "para",
+        "streamers"
+      ],
+      "estimatedViews": 3549,
+      "bestPublishTime": "2026-04-23T19:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Blue Yeti X Micrófono",
+          "searchTermEn": "Blue Yeti X microphone",
+          "id": "B01LY6Z2M6",
+          "filename": "B01LY6Z2M6.mp4"
+        },
+        {
+          "nombre": "Logitech StreamCam",
+          "searchTermEn": "Logitech StreamCam 1080p",
+          "id": "B07TZT4Q89",
+          "filename": "B07TZT4Q89.mp4"
+        },
+        {
+          "nombre": "Razer Ring Light",
+          "searchTermEn": "Razer Ring Light streaming",
+          "id": "B075N1BYWB",
+          "filename": "B075N1BYWB.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-04-21T21:01:46.426Z",
+      "_requestedCount": 3,
+      "_adaptedCount": 3,
+      "_scriptNonce": "nonce_1776805547833_qsdz4b"
+    },
+    "generatedAt": "2026-04-21T21:05:53.435Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Blue Yeti X Micrófono",
+        "searchTermEn": "Blue Yeti X microphone",
+        "id": "B01LY6Z2M6",
+        "filename": "B01LY6Z2M6.mp4"
+      },
+      {
+        "nombre": "Logitech StreamCam",
+        "searchTermEn": "Logitech StreamCam 1080p",
+        "id": "B07TZT4Q89",
+        "filename": "B07TZT4Q89.mp4"
+      },
+      {
+        "nombre": "Razer Ring Light",
+        "searchTermEn": "Razer Ring Light streaming",
+        "id": "B075N1BYWB",
+        "filename": "B075N1BYWB.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 3 Gadgets Indispensables para Streamers\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\nEste micrófono capta cada matiz de tu voz. Esta cámara transmite con una claridad asombrosa. Esta luz anular ilumina como un estudio profesional.\n\n[0:10-0:15] INTRODUCTION\nSuscríbete, los links están en el primer comentario. Empecemos.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] BLUE YETI X MICRÓFONO\n¿Tu audiencia se queja del sonido pobre en tus streams? El Blue Yeti X Micrófono ofrece una calidad de audio cristalina que eleva tu voz a nivel profesional. Su diseño con controles integrados facilita ajustar el sonido en tiempo real.\nSu precio actual en Amazon ronda los... 99 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Blue Yeti X Micrófono]\n\n[0:25] LOGITECH STREAMCAM\n¿Cansado de una transmisión de video pixelada y poco profesional? La Logitech StreamCam ofrece una calidad de imagen nítida y fluida que mejora instantáneamente la experiencia visual de tus espectadores. Con seguimiento facial inteligente, siempre estarás en el centro de la acción.\nSu precio actual en Amazon ronda los... 150 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Logitech StreamCam]\n\n[0:25] RAZER RING LIGHT\n¿Tus videos se ven oscuros y poco atractivos? La Razer Ring Light proporciona una iluminación pareja y profesional, haciendo que cada transmisión brille. Con múltiples configuraciones de brillo, puedes controlar el ambiente perfecto.\nSu precio actual en Amazon ronda los... 96 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Razer Ring Light]\n\n[10 seconds] CONCLUSION\n¡No olvides dejar un like y recuerda que los links están en el primer comentario!\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:45\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, indispensables, para, streamers\n"
+}

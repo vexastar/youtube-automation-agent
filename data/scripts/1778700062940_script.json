@@ -1,0 +1,666 @@
+{
+  "title": "Top 3 Gadgets de Escritorio Más Sorprendentes",
+  "hook": {
+    "type": "statement",
+    "text": "Carga rápida móvil. Soporte ergonómico portátil.",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "Los links de compra están en el primer comentario. Empezamos.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0:10-0:15"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Oakywood Charger Stand",
+        "productId": "B07DBXZZN3",
+        "productName": "Oakywood Charger Stand",
+        "filename": "B07DBXZZN3.mp4",
+        "asin": "B07DBXZZN3",
+        "clipDuration": 41.51,
+        "estimatedAudioSeconds": 45,
+        "framework": "problema_solucion",
+        "narracionSegments": null,
+        "content": [
+          "Quedarse sin batería durante una videollamada importante es frustrante. El Oakywood Charger Stand ofrece carga inalámbrica rápida hasta de 10W para Samsung y optimizada de 7.5W para iPhone, cargando completamente en poco más de tres horas. Además, puedes usarlo en horizontal para ver videos o vertical para acceder a reconocimiento facial sin necesidad de quitar la funda del teléfono.",
+          "Su precio actual en Amazon ronda los... 16 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Oakywood Charger Stand"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07DBXZZN3_combined.mp4",
+        "precio": "$16",
+        "productPhoto": "https://m.media-amazon.com/images/I/51J1d8kZsCL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07DBXZZN3\\scenes_v2\\B07DBXZZN3_v2_scene_01.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "carga inalámbrica",
+            "raw": "9|carga inalámbrica"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07DBXZZN3\\scenes_v2\\B07DBXZZN3_v2_scene_05.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "carga inalámbrica",
+            "raw": "9|carga inalámbrica"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07DBXZZN3\\scenes_v2\\B07DBXZZN3_v2_scene_06.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Cargador inalámbrico",
+            "raw": "9|Cargador inalámbrico"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07DBXZZN3\\scenes_v3\\B07DBXZZN3_v3_scene_01.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "carga inalámbrica",
+            "raw": "9|carga inalámbrica"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07DBXZZN3\\scenes_v3\\B07DBXZZN3_v3_scene_03.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Cargador inalámbrico",
+            "raw": "9|Cargador inalámbrico"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07DBXZZN3\\scenes_v3\\B07DBXZZN3_v3_scene_04.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Cargador inalámbrico",
+            "raw": "9|Cargador inalámbrico"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07DBXZZN3\\scenes_v3\\B07DBXZZN3_v3_scene_05.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "carga inalámbrica",
+            "raw": "9|carga inalámbrica"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07DBXZZN3\\scenes_v3\\B07DBXZZN3_v3_scene_06.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Cargador inalámbrico",
+            "raw": "9|Cargador inalámbrico"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07DBXZZN3\\scenes_v1\\B07DBXZZN3_scene_14.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Cargador inalámbrico",
+            "raw": "8|Cargador inalámbrico"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07DBXZZN3\\scenes_v3\\B07DBXZZN3_v3_scene_07.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Cargador inalámbrico",
+            "raw": "8|Cargador inalámbrico"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07DBXZZN3\\scenes_v2\\B07DBXZZN3_v2_scene_04.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "carga inalámbrica",
+            "raw": "5|carga inalámbrica"
+          }
+        ],
+        "features": [
+          "The Need for Speed: Experience 10W high-speed charging for Samsung Galaxy devices and a 7.5W charging mode optimized for iPhone models. Fully charge your iPhone 15 in just 3 hours and 47 minutes.",
+          "Wide-Ranging Compatibility: This versatile charger seamlessly powers any Qi-certified device. Whether you have an Apple, Samsung, or another device, you're guaranteed fast and efficient charging every time.",
+          "Charging to Suit You: Watch videos comfortably in horizontal mode or charge vertically for easy messaging and face recognition.",
+          "Keep Your Case On: No more fumbling to remove your phone case for charging. The wireless charger can handle cases up to 2.5mm thick effortlessly.",
+          "What You Get: Anker 313 Wireless Charger (Stand) / PowerWave Stand, 3 ft Micro USB cable, welcome guide, 18-month warranty, and our friendly customer service."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Levitating Desk Lamp",
+        "productId": "B09833QPYR",
+        "productName": "Levitating Desk Lamp",
+        "filename": "B09833QPYR.mp4",
+        "asin": "B09833QPYR",
+        "clipDuration": 129.43,
+        "estimatedAudioSeconds": 139,
+        "framework": "enfoque_caracteristica",
+        "narracionSegments": null,
+        "content": [
+          "Imagina una lámpara que desafía la gravedad. La Levitating Desk Lamp utiliza tecnología magnética para hacer flotar su bombilla mientras gira suavemente, creando un espectáculo visual único. Encendiéndose con un botón táctil sobre su base de madera, emite una luz LED suave y ecológica, perfecta para cualquier ambiente. Mientras impresiona a tus invitados flotando en el aire, su duración es inigualable con hasta 50,000 horas de uso sin ruidos molestos.",
+          "Su precio actual en Amazon ronda los... 71 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Levitating Desk Lamp"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B09833QPYR_combined.mp4",
+        "precio": "$71",
+        "productPhoto": "https://m.media-amazon.com/images/I/71zK+2otJ0L.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B09833QPYR\\scenes_v1\\B09833QPYR_scene_05.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "lámpara levitante",
+            "raw": "9|lámpara levitante"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B09833QPYR\\scenes_v1\\B09833QPYR_scene_04.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Lámpara levitante",
+            "raw": "9|Lámpara levitante"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B09833QPYR\\scenes_v1\\B09833QPYR_scene_06.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "lámpara levitante",
+            "raw": "9|lámpara levitante"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B09833QPYR\\scenes_v1\\B09833QPYR_scene_08.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "lámpara levitante",
+            "raw": "9|lámpara levitante"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B09833QPYR\\scenes_v2\\B09833QPYR_v2_scene_01.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "lámpara levitante",
+            "raw": "9|lámpara levitante"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B09833QPYR\\scenes_v3\\B09833QPYR_v3_scene_01.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "lámpara levitante",
+            "raw": "9|lámpara levitante"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B09833QPYR\\scenes_v1\\B09833QPYR_scene_07.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Lámpara levitante",
+            "raw": "8|Lámpara levitante"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B09833QPYR\\scenes_v1\\B09833QPYR_scene_01.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "producto pequeño",
+            "raw": "5|producto pequeño"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B09833QPYR\\scenes_v1\\B09833QPYR_scene_03.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "producto pequeño",
+            "raw": "5|producto pequeño"
+          }
+        ],
+        "features": [
+          "Light meets levitation: The floating bulb uses magnetic levitation technology, and it can float and rotate freely in the air without any contact or support, and without any noise during operation. The magnetic floating led light can automatically rotate 360 degrees, has a unique visual effect, attracts your attention, and allows you to immerse yourself in this soft light.",
+          "The levitation bulb is powered by electromagnetic induction and does not require cables or built-in batteries. Lights controlled by the touch button: on/off on the wooden base. The lamp is made of environmentally friendly materials. LED is very soft, we use a super bright 60 lumens LED bulb, which is harmless to the eyes. Long service life (proper use can last for several years), and the rated use time is 50,000 hours.",
+          "Once the power is cut off, the magnetic force of the base firmly attracts the bulb and will not fall off, so there is no need to worry about damaging the bulb.",
+          "You can think of it as a desk lamp, table lamp, night light, etc., and put it in the office, hotel lobby, home, living room, study, bedroom, bar, Coffee shop, etc. Catch everyone's sight.",
+          "It can also be used as birthday gifts, Mother's Day Gifts, Christmas gifts, Valentine's Day gifts, etc. to family, lovers, friends, and colleagues, etc. Imagine when they receive and open the box, it will bring them much surprise!"
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Twelve South Curve",
+        "productId": "B07377XVNY",
+        "productName": "Twelve South Curve",
+        "filename": "B07377XVNY.mp4",
+        "asin": "B07377XVNY",
+        "clipDuration": 221.96,
+        "estimatedAudioSeconds": 228,
+        "framework": "beneficio_oculto",
+        "narracionSegments": null,
+        "content": [
+          "-Doble pantalla- puede ser tu secreto mejor guardado con el Twelve South Curve. No sólo eleva tu laptop seis pulgadas para aliviar tensiones cervicales y de hombros, sino que también permite emparejarse con teclado y ratón externos mejorando así la ergonomía de tu espacio laboral. Este soporte elegante integra protección antideslizante y es ideal tanto para el hogar como la oficina o cualquier sitio donde uses tu portátil.",
+          "Su precio actual en Amazon ronda los... 60 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Twelve South Curve"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07377XVNY_combined.mp4",
+        "precio": "$60",
+        "productPhoto": "https://m.media-amazon.com/images/I/71Edav343nL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07377XVNY\\scenes_v1\\B07377XVNY_scene_08.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07377XVNY\\scenes_v1\\B07377XVNY_scene_14.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "soporte ergonómico",
+            "raw": "9|soporte ergonómico"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07377XVNY\\scenes_v1\\B07377XVNY_scene_13.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07377XVNY\\scenes_v1\\B07377XVNY_scene_15.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07377XVNY\\scenes_v1\\B07377XVNY_scene_16.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07377XVNY\\scenes_v1\\B07377XVNY_scene_18.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Interacción real",
+            "raw": "9|Interacción real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07377XVNY\\scenes_v1\\B07377XVNY_scene_19.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Soporte ergonómico",
+            "raw": "9|Soporte ergonómico"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07377XVNY\\scenes_v1\\B07377XVNY_scene_20.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07377XVNY\\scenes_v1\\B07377XVNY_scene_21.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07377XVNY\\scenes_v1\\B07377XVNY_scene_22.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Soporte ergonómico",
+            "raw": "9|Soporte ergonómico"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07377XVNY\\scenes_v1\\B07377XVNY_scene_25.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07377XVNY\\scenes_v1\\B07377XVNY_scene_26.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07377XVNY\\scenes_v1\\B07377XVNY_scene_27.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07377XVNY\\scenes_v1\\B07377XVNY_scene_28.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Interacción clara",
+            "raw": "9|Interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07377XVNY\\scenes_v1\\B07377XVNY_scene_29.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07377XVNY\\scenes_v1\\B07377XVNY_scene_30.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07377XVNY\\scenes_v1\\B07377XVNY_scene_31.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Interacción clara",
+            "raw": "9|Interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07377XVNY\\scenes_v1\\B07377XVNY_scene_32.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07377XVNY\\scenes_v1\\B07377XVNY_scene_33.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07377XVNY\\scenes_v1\\B07377XVNY_scene_37.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción visible",
+            "raw": "9|interacción visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07377XVNY\\scenes_v1\\B07377XVNY_scene_39.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07377XVNY\\scenes_v2\\B07377XVNY_v2_scene_01.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "soporte ergonómico",
+            "raw": "9|soporte ergonómico"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07377XVNY\\scenes_v2\\B07377XVNY_v2_scene_02.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Soporte ergonómico",
+            "raw": "9|Soporte ergonómico"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07377XVNY\\scenes_v3\\B07377XVNY_v3_scene_01.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07377XVNY\\scenes_v1\\B07377XVNY_scene_02.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Soporte ergonómico",
+            "raw": "8|Soporte ergonómico"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07377XVNY\\scenes_v1\\B07377XVNY_scene_05.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Soporte ergonómico",
+            "raw": "8|Soporte ergonómico"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07377XVNY\\scenes_v1\\B07377XVNY_scene_04.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Soporte ergonómico",
+            "raw": "8|Soporte ergonómico"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07377XVNY\\scenes_v1\\B07377XVNY_scene_06.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Soporte ergonómico",
+            "raw": "8|Soporte ergonómico"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07377XVNY\\scenes_v1\\B07377XVNY_scene_07.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Soporte ergonómico",
+            "raw": "8|Soporte ergonómico"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07377XVNY\\scenes_v1\\B07377XVNY_scene_09.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Soporte ergonómico",
+            "raw": "8|Soporte ergonómico"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07377XVNY\\scenes_v1\\B07377XVNY_scene_11.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Soporte ergonómico",
+            "raw": "8|Soporte ergonómico"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07377XVNY\\scenes_v1\\B07377XVNY_scene_17.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "soporte ergonómico",
+            "raw": "8|soporte ergonómico"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07377XVNY\\scenes_v1\\B07377XVNY_scene_24.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "producto visible",
+            "raw": "8|producto visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07377XVNY\\scenes_v1\\B07377XVNY_scene_23.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Soporte ergonómico",
+            "raw": "8|Soporte ergonómico"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07377XVNY\\scenes_v1\\B07377XVNY_scene_35.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Soporte ergonómico",
+            "raw": "8|Soporte ergonómico"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07377XVNY\\scenes_v1\\B07377XVNY_scene_34.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Soporte ergonómico",
+            "raw": "8|Soporte ergonómico"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07377XVNY\\scenes_v1\\B07377XVNY_scene_36.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Soporte ergonómico",
+            "raw": "8|Soporte ergonómico"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07377XVNY\\scenes_v1\\B07377XVNY_scene_41.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Soporte ergonómico",
+            "raw": "8|Soporte ergonómico"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07377XVNY\\scenes_v1\\B07377XVNY_scene_42.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Soporte ergonómico",
+            "raw": "8|Soporte ergonómico"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07377XVNY\\scenes_v2\\B07377XVNY_v2_scene_03.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Soporte ergonómico",
+            "raw": "8|Soporte ergonómico"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07377XVNY\\scenes_v2\\B07377XVNY_v2_scene_04.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "soporte portátil",
+            "raw": "8|soporte portátil"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07377XVNY\\scenes_v1\\B07377XVNY_scene_40.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "producto visible",
+            "raw": "5|producto visible"
+          }
+        ],
+        "features": [
+          "Designed, sold & supported by Twelve South, a family-owned small business in Charleston, South Carolina.",
+          "Protection - Anti-slip silicone pads and bent arms keep laptop in place and prevent scratches",
+          "Better Ergonomics - Curve raises laptop 6 inches (15cm) off your desk to relieve neck and shoulder strain",
+          "Multiple Uses - Pair with a full-size keyboard & mouse for a comfortable desktop setup or use with a monitor for dual screen functionality"
+        ]
+      }
+    ],
+    "totalDuration": 75
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "!No olvides darle like y recuerda que los links están en el primer comentario!"
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:45",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "escritorio",
+    "sorprendentes"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 3 Gadgets de Escritorio Más Sorprendentes",
+      "angle": "Top 3 Gadgets de Escritorio Más Sorprendentes",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 3,
+      "introScript": "¿Un ventilador que también carga tu teléfono? ¿O quizá un increíble reloj de arena moderno que no solo mide el tiempo, sino que también decora tu espacio? Prepárate para descubrir estas maravillas tecnológicas que llevarán tu escritorio al siguiente nivel.",
+      "keywords": [
+        "gadgets",
+        "escritorio",
+        "sorprendentes"
+      ],
+      "estimatedViews": 4865,
+      "bestPublishTime": "2026-05-14T19:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Oakywood Charger Stand",
+          "searchTermEn": "Oakywood wireless charger stand",
+          "id": "B07DBXZZN3",
+          "filename": "B07DBXZZN3.mp4"
+        },
+        {
+          "nombre": "Levitating Desk Lamp",
+          "searchTermEn": "magnetic levitation desk lamp",
+          "id": "B09833QPYR",
+          "filename": "B09833QPYR.mp4"
+        },
+        {
+          "nombre": "Twelve South Curve",
+          "searchTermEn": "Twelve South Curve laptop stand",
+          "id": "B07377XVNY",
+          "filename": "B07377XVNY.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-05-13T19:07:41.827Z",
+      "_requestedCount": 3,
+      "_adaptedCount": 3,
+      "introProductsOrder": [
+        {
+          "nombre": "Oakywood Charger Stand",
+          "id": "B07DBXZZN3",
+          "filename": "B07DBXZZN3_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07DBXZZN3_combined.mp4"
+        },
+        {
+          "nombre": "Twelve South Curve",
+          "id": "B07377XVNY",
+          "filename": "B07377XVNY_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07377XVNY_combined.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1778700020426_6p5sb4"
+    },
+    "generatedAt": "2026-05-13T19:20:41.206Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Oakywood Charger Stand",
+        "searchTermEn": "Oakywood wireless charger stand",
+        "id": "B07DBXZZN3",
+        "filename": "B07DBXZZN3.mp4"
+      },
+      {
+        "nombre": "Levitating Desk Lamp",
+        "searchTermEn": "magnetic levitation desk lamp",
+        "id": "B09833QPYR",
+        "filename": "B09833QPYR.mp4"
+      },
+      {
+        "nombre": "Twelve South Curve",
+        "searchTermEn": "Twelve South Curve laptop stand",
+        "id": "B07377XVNY",
+        "filename": "B07377XVNY.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 3 Gadgets de Escritorio Más Sorprendentes\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\nCarga rápida móvil. Soporte ergonómico portátil.\n\n[0:10-0:15] INTRODUCTION\nLos links de compra están en el primer comentario. Empezamos.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] OAKYWOOD CHARGER STAND\nQuedarse sin batería durante una videollamada importante es frustrante. El Oakywood Charger Stand ofrece carga inalámbrica rápida hasta de 10W para Samsung y optimizada de 7.5W para iPhone, cargando completamente en poco más de tres horas. Además, puedes usarlo en horizontal para ver videos o vertical para acceder a reconocimiento facial sin necesidad de quitar la funda del teléfono.\nSu precio actual en Amazon ronda los... 16 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Oakywood Charger Stand]\n\n[0:25] LEVITATING DESK LAMP\nImagina una lámpara que desafía la gravedad. La Levitating Desk Lamp utiliza tecnología magnética para hacer flotar su bombilla mientras gira suavemente, creando un espectáculo visual único. Encendiéndose con un botón táctil sobre su base de madera, emite una luz LED suave y ecológica, perfecta para cualquier ambiente. Mientras impresiona a tus invitados flotando en el aire, su duración es inigualable con hasta 50,000 horas de uso sin ruidos molestos.\nSu precio actual en Amazon ronda los... 71 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Levitating Desk Lamp]\n\n[0:25] TWELVE SOUTH CURVE\n-Doble pantalla- puede ser tu secreto mejor guardado con el Twelve South Curve. No sólo eleva tu laptop seis pulgadas para aliviar tensiones cervicales y de hombros, sino que también permite emparejarse con teclado y ratón externos mejorando así la ergonomía de tu espacio laboral. Este soporte elegante integra protección antideslizante y es ideal tanto para el hogar como la oficina o cualquier sitio donde uses tu portátil.\nSu precio actual en Amazon ronda los... 60 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Twelve South Curve]\n\n[10 seconds] CONCLUSION\n!No olvides darle like y recuerda que los links están en el primer comentario!\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:45\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, escritorio, sorprendentes\n"
+}

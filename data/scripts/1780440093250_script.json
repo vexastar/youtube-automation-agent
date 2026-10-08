@@ -1,0 +1,415 @@
+{
+  "title": "Top 3 gadgets increíbles para tus hijos",
+  "hook": {
+    "type": "statement",
+    "text": "Impresionantes juegos educativos para mentes curiosas. Un robot autónomo cobra vida. Construye y programa tu propio robot.",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "Suscríbete y encuentra los links en el primer comentario.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "25s-30s"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Anki Cozmo Robot",
+        "productId": "B07G3ZNK4Y",
+        "productName": "Anki Cozmo Robot",
+        "filename": "B07G3ZNK4Y.mp4",
+        "asin": "B07G3ZNK4Y",
+        "clipDuration": 60.03,
+        "estimatedAudioSeconds": 67,
+        "framework": "experiencia_sensorial",
+        "narracionSegments": null,
+        "content": [
+          "Experimenta el futuro con el Anki Cozmo Robot, un compañero que reacciona a su entorno de forma autónoma. Equipado con AI y conexión a ChatGPT, este robot establece un nuevo estándar en interacción al hablar varios idiomas, reconocer rostros, y navegar sin problemas. Sumérgete en una experiencia sensorial única con su cámara HD y sensores avanzados que logran un mapeo preciso.",
+          "Su precio actual en Amazon ronda los... 200 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Anki Cozmo Robot"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07G3ZNK4Y_combined.mp4",
+        "precio": "$200",
+        "productPhoto": "https://m.media-amazon.com/images/I/71bIxyJiH6L.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07G3ZNK4Y\\scenes_v1\\B07G3ZNK4Y_scene_02.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Vector encendido",
+            "raw": "9|Vector encendido"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07G3ZNK4Y\\scenes_v1\\B07G3ZNK4Y_scene_06.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Robot autónomo",
+            "raw": "9|Robot autónomo"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07G3ZNK4Y\\scenes_v1\\B07G3ZNK4Y_scene_09.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Robot autónomo",
+            "raw": "9|Robot autónomo"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07G3ZNK4Y\\scenes_v1\\B07G3ZNK4Y_scene_11.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Robot autónomo",
+            "raw": "9|Robot autónomo"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07G3ZNK4Y\\scenes_v1\\B07G3ZNK4Y_scene_13.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "robot autónomo",
+            "raw": "9|robot autónomo"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07G3ZNK4Y\\scenes_v1\\B07G3ZNK4Y_scene_15.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Robot autónomo",
+            "raw": "9|Robot autónomo"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07G3ZNK4Y\\scenes_v1\\B07G3ZNK4Y_scene_04.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Robot inteligente",
+            "raw": "9|Robot inteligente"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07G3ZNK4Y\\scenes_v1\\B07G3ZNK4Y_scene_14.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Vector autónomo",
+            "raw": "8|Vector autónomo"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07G3ZNK4Y\\scenes_v1\\B07G3ZNK4Y_scene_17.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Robot autónomo",
+            "raw": "8|Robot autónomo"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07G3ZNK4Y\\scenes_v1\\B07G3ZNK4Y_scene_19.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Vector autónomo",
+            "raw": "8|Vector autónomo"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07G3ZNK4Y\\scenes_v1\\B07G3ZNK4Y_scene_12.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "robot pequeño",
+            "raw": "5|robot pequeño"
+          }
+        ],
+        "features": [
+          "AI-Powered y Totalmente Autónomo: Vector navega, reconoce rostros y reacciona a su entorno con una independencia realista — no se requiere control remoto.",
+          "Ahora conectado a ChatGPT (se requiere suscripción): ¡Experimenta un nuevo nivel de conversación! Con la integración de ChatGPT, Vector puede responder preguntas complejas, mantener charlas significativas y ofrecer respuestas más naturales e inteligentes.",
+          "Soporte Multilingüe: Vector ahora puede entender y hablar en múltiples idiomas, lo que lo convierte en el compañero inteligente perfecto para hogares globales y estudiantes de idiomas. ¡Vector puede charlar en English, Spanish, French, German y más! Di “Hey Vector.”",
+          "Cámara Inteligente y Sensores: Construida con una cámara HD y sensores avanzados para mapeo en tiempo real, reconocimiento facial y detección de obstáculos.",
+          "Personalidad Expresiva: Mira cómo Vector cobra vida con ojos animados, emociones y reacciones juguetonas que evolucionan a medida que interactúas con él."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Osmo Genius Starter Kit",
+        "productId": "B0869Q3LD2",
+        "productName": "Osmo Genius Starter Kit",
+        "filename": "B0869Q3LD2.mp4",
+        "asin": "B0869Q3LD2",
+        "clipDuration": 60.06,
+        "estimatedAudioSeconds": 49,
+        "framework": "problema_solucion",
+        "narracionSegments": null,
+        "content": [
+          "¿Tus hijos se aburren con los métodos de aprendizaje tradicionales? El Osmo Genius Starter Kit convierte el aprendizaje en juego interactivo, usando tecnología para enseñar habilidades críticas mientras juegan. Ya sea matemáticas o dibujo, Osmo transforma cada actividad en una experiencia inolvidable.",
+          "Su precio actual en Amazon ronda los... 60 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Osmo Genius Starter Kit"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0869Q3LD2_combined.mp4",
+        "precio": "$60",
+        "productPhoto": "https://m.media-amazon.com/images/I/81dgBubfmcL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": []
+      },
+      {
+        "type": "content",
+        "title": "Ubtech Jimu Robot",
+        "productId": "B07GQDTZMR",
+        "productName": "Ubtech Jimu Robot",
+        "filename": "B07GQDTZMR.mp4",
+        "asin": "B07GQDTZMR",
+        "clipDuration": 60.03,
+        "estimatedAudioSeconds": 51,
+        "framework": "enfoque_caracteristica",
+        "narracionSegments": null,
+        "content": [
+          "-Construye- y programa robots con el Ubtech Jimu Robot, donde puedes crear Astrobot o diseñar tu propia creación utilizando Blockly Coding para añadir personalidad a tus robots. Este kit ofrece desafíos de codificación únicos y una función Prp versátil que permite grabar y reproducir acciones personalizadas.",
+          "Su precio actual en Amazon ronda los... 96 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Ubtech Jimu Robot"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07GQDTZMR_combined.mp4",
+        "precio": "$96",
+        "productPhoto": "https://m.media-amazon.com/images/I/61rpeT+VarL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07GQDTZMR\\scenes_v1\\B07GQDTZMR_scene_01.mp4",
+            "type": "video",
+            "score": 10,
+            "tag": "robots construibles",
+            "raw": "10|robots construibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07GQDTZMR\\scenes_v1\\B07GQDTZMR_scene_04.mp4",
+            "type": "video",
+            "score": 10,
+            "tag": "Robots construibles",
+            "raw": "10|Robots construibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07GQDTZMR\\scenes_v1\\B07GQDTZMR_scene_08.mp4",
+            "type": "video",
+            "score": 10,
+            "tag": "robot interactivo",
+            "raw": "10|robot interactivo"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07GQDTZMR\\scenes_v1\\B07GQDTZMR_scene_10.mp4",
+            "type": "video",
+            "score": 10,
+            "tag": "Robot interactivo",
+            "raw": "10|Robot interactivo"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07GQDTZMR\\scenes_v1\\B07GQDTZMR_scene_12.mp4",
+            "type": "video",
+            "score": 10,
+            "tag": "interacción real",
+            "raw": "10|interacción real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07GQDTZMR\\scenes_v1\\B07GQDTZMR_scene_15.mp4",
+            "type": "video",
+            "score": 10,
+            "tag": "Robot interactivo",
+            "raw": "10|Robot interactivo"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07GQDTZMR\\scenes_v1\\B07GQDTZMR_scene_02.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "robots construibles",
+            "raw": "9|robots construibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07GQDTZMR\\scenes_v1\\B07GQDTZMR_scene_07.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Interacción clara",
+            "raw": "9|Interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07GQDTZMR\\scenes_v1\\B07GQDTZMR_scene_09.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "programación Blockly",
+            "raw": "9|programación Blockly"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07GQDTZMR\\scenes_v1\\B07GQDTZMR_scene_11.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Robot en acción",
+            "raw": "9|Robot en acción"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07GQDTZMR\\scenes_v1\\B07GQDTZMR_scene_13.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Robot interactivo",
+            "raw": "9|Robot interactivo"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07GQDTZMR\\scenes_v1\\B07GQDTZMR_scene_14.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Robot en acción",
+            "raw": "9|Robot en acción"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07GQDTZMR\\scenes_v1\\B07GQDTZMR_scene_03.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "robot reconocible",
+            "raw": "8|robot reconocible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07GQDTZMR\\scenes_v1\\B07GQDTZMR_scene_05.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "robots construibles",
+            "raw": "8|robots construibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07GQDTZMR\\scenes_v1\\B07GQDTZMR_scene_06.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "robot unicornio",
+            "raw": "8|robot unicornio"
+          }
+        ],
+        "features": [
+          "Presentamos los Robots Construibles y Codificables de Ubtech Robotics. Construye Astrobot, Astron, Rover o diseña tu propia creación de Jimu Robot.",
+          "Aprende a usar Blockly Coding para programar tu robot para navegar obstáculos, recoger objetos, controlar efectos de luz y sonido, añadir personalidad y más.",
+          "\"Pon a prueba tus habilidades con los nuevos desafíos de codificación de Blockly.\"",
+          "Crea acciones completamente nuevas y personalizadas con la función Prp (Pose, Record, Play)."
+        ]
+      }
+    ],
+    "totalDuration": 120
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "-Da like- si te gustó y recuerda que los links están en el primer comentario."
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "2:28",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "increbles",
+    "para",
+    "hijos"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 3 gadgets increíbles para tus hijos",
+      "angle": "Top 3 gadgets increíbles para tus hijos",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 3,
+      "introScript": "¿Un robot que enseña a programar a tus hijos? ¿O quizás un juguete que convierte la hora del baño en una experiencia mágica? Hoy descubrimos dispositivos fascinantes que revolucionarán la forma en que tus hijos juegan y aprenden. Prepárate para sorprenderte con estas tres innovaciones tecnológicas que puedes encontrar ya mismo en Amazon.",
+      "keywords": [
+        "gadgets",
+        "increbles",
+        "para",
+        "hijos"
+      ],
+      "estimatedViews": 4905,
+      "bestPublishTime": "2026-06-05T20:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Anki Cozmo Robot",
+          "searchTermEn": "Anki Cozmo Robot Toy",
+          "id": "B07G3ZNK4Y",
+          "filename": "B07G3ZNK4Y.mp4"
+        },
+        {
+          "nombre": "Osmo Genius Starter Kit",
+          "searchTermEn": "Osmo Genius Starter Kit iPad",
+          "id": "B0869Q3LD2",
+          "filename": "B0869Q3LD2.mp4"
+        },
+        {
+          "nombre": "Ubtech Jimu Robot",
+          "searchTermEn": "Ubtech Jimu Robot Kit",
+          "id": "B07GQDTZMR",
+          "filename": "B07GQDTZMR.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-06-02T22:30:26.006Z",
+      "_requestedCount": 3,
+      "_adaptedCount": 3,
+      "introProductsOrder": [
+        {
+          "nombre": "Osmo Genius Starter Kit",
+          "id": "B0869Q3LD2",
+          "filename": "B0869Q3LD2_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0869Q3LD2_combined.mp4"
+        },
+        {
+          "nombre": "Anki Cozmo Robot",
+          "id": "B07G3ZNK4Y",
+          "filename": "B07G3ZNK4Y_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07G3ZNK4Y_combined.mp4"
+        },
+        {
+          "nombre": "Ubtech Jimu Robot",
+          "id": "B07GQDTZMR",
+          "filename": "B07GQDTZMR_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07GQDTZMR_combined.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1780440041605_ae0u18"
+    },
+    "generatedAt": "2026-06-02T22:41:00.797Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Anki Cozmo Robot",
+        "searchTermEn": "Anki Cozmo Robot Toy",
+        "id": "B07G3ZNK4Y",
+        "filename": "B07G3ZNK4Y.mp4"
+      },
+      {
+        "nombre": "Osmo Genius Starter Kit",
+        "searchTermEn": "Osmo Genius Starter Kit iPad",
+        "id": "B0869Q3LD2",
+        "filename": "B0869Q3LD2.mp4"
+      },
+      {
+        "nombre": "Ubtech Jimu Robot",
+        "searchTermEn": "Ubtech Jimu Robot Kit",
+        "id": "B07GQDTZMR",
+        "filename": "B07GQDTZMR.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 3 gadgets increíbles para tus hijos\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\nImpresionantes juegos educativos para mentes curiosas. Un robot autónomo cobra vida. Construye y programa tu propio robot.\n\n[25s-30s] INTRODUCTION\nSuscríbete y encuentra los links en el primer comentario.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] ANKI COZMO ROBOT\nExperimenta el futuro con el Anki Cozmo Robot, un compañero que reacciona a su entorno de forma autónoma. Equipado con AI y conexión a ChatGPT, este robot establece un nuevo estándar en interacción al hablar varios idiomas, reconocer rostros, y navegar sin problemas. Sumérgete en una experiencia sensorial única con su cámara HD y sensores avanzados que logran un mapeo preciso.\nSu precio actual en Amazon ronda los... 200 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Anki Cozmo Robot]\n\n[0:25] OSMO GENIUS STARTER KIT\n¿Tus hijos se aburren con los métodos de aprendizaje tradicionales? El Osmo Genius Starter Kit convierte el aprendizaje en juego interactivo, usando tecnología para enseñar habilidades críticas mientras juegan. Ya sea matemáticas o dibujo, Osmo transforma cada actividad en una experiencia inolvidable.\nSu precio actual en Amazon ronda los... 60 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Osmo Genius Starter Kit]\n\n[0:25] UBTECH JIMU ROBOT\n-Construye- y programa robots con el Ubtech Jimu Robot, donde puedes crear Astrobot o diseñar tu propia creación utilizando Blockly Coding para añadir personalidad a tus robots. Este kit ofrece desafíos de codificación únicos y una función Prp versátil que permite grabar y reproducir acciones personalizadas.\nSu precio actual en Amazon ronda los... 96 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Ubtech Jimu Robot]\n\n[10 seconds] CONCLUSION\n-Da like- si te gustó y recuerda que los links están en el primer comentario.\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 2:28\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, increbles, para, hijos\n"
+}

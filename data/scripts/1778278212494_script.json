@@ -1,0 +1,369 @@
+{
+  "title": "Top 3 Gadgets que Todo Médico Debe Tener",
+  "hook": {
+    "type": "statement",
+    "text": "Este dispositivo desinfecta todo con luz ultravioleta. Este mide la temperatura sin contacto. Y este monitor cardíaco cabe en tu bolsillo.",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "Suscríbete, los links están en el primer comentario. Empecemos.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0:10-0:15"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "KardiaMobile EKG Monitor",
+        "productId": "B01A4W8AUK",
+        "productName": "KardiaMobile EKG Monitor",
+        "filename": "B01A4W8AUK.mp4",
+        "asin": "B01A4W8AUK",
+        "clipDuration": 50.28,
+        "estimatedAudioSeconds": 48,
+        "framework": "beneficio_oculto",
+        "narracionSegments": null,
+        "content": [
+          "Lo que nadie te dice de este EKG portátil es que ofrece tranquilidad instantánea. El KardiaMobile EKG Monitor permite capturar un electrocardiograma de grado médico en 30 segundos. Sin cables ni Bluetooth, se conecta a tu smartphone para resultados rápidos y precisos.",
+          "Su precio actual en Amazon ronda los... 79 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: KardiaMobile EKG Monitor"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B01A4W8AUK_combined.mp4",
+        "precio": "$79",
+        "productPhoto": "https://m.media-amazon.com/images/I/71v-9dVBC+L.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01A4W8AUK\\scenes_v2\\B01A4W8AUK_v2_scene_10.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "uso real",
+            "raw": "9|uso real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01A4W8AUK\\scenes_v2\\B01A4W8AUK_v2_scene_09.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "uso real",
+            "raw": "9|uso real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01A4W8AUK\\scenes_v3\\B01A4W8AUK_v3_scene_09.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "uso real",
+            "raw": "9|uso real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01A4W8AUK\\scenes_v3\\B01A4W8AUK_v3_scene_10.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "uso real",
+            "raw": "9|uso real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01A4W8AUK\\scenes_v1\\B01A4W8AUK_scene_02.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "pantalla",
+            "raw": "8|pantalla"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01A4W8AUK\\scenes_v1\\B01A4W8AUK_scene_04.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "pantalla",
+            "raw": "8|pantalla"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01A4W8AUK\\scenes_v2\\B01A4W8AUK_v2_scene_07.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "uso real",
+            "raw": "8|uso real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01A4W8AUK\\scenes_v2\\B01A4W8AUK_v2_scene_12.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "pantalla",
+            "raw": "8|pantalla"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01A4W8AUK\\scenes_v2\\B01A4W8AUK_v2_scene_14.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "pantalla",
+            "raw": "8|pantalla"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01A4W8AUK\\scenes_v3\\B01A4W8AUK_v3_scene_07.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "uso real",
+            "raw": "8|uso real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01A4W8AUK\\scenes_v3\\B01A4W8AUK_v3_scene_12.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "pantalla EKG",
+            "raw": "8|pantalla EKG"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01A4W8AUK\\scenes_v3\\B01A4W8AUK_v3_scene_14.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "pantalla",
+            "raw": "8|pantalla"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01A4W8AUK\\scenes_v3\\B01A4W8AUK_v3_scene_05.mp4",
+            "type": "video",
+            "score": 7,
+            "tag": "pantalla Kardia",
+            "raw": "7|pantalla Kardia"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B01A4W8AUK\\scenes_v1\\B01A4W8AUK_scene_03.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "uso real",
+            "raw": "5|uso real"
+          }
+        ],
+        "features": [
+          "On-the-Go Accurate EKG: Capture a single lead medical-grade electrocardiogram in just 30 seconds with the pocket-sized KardiaMobile EKG Monitor. Download the free Kardia app and record an EKG on your smartphone or tablet anytime and anywhere.",
+          "Clear Results: EKG detects Atrial Fibrillation, Tachycardia, Bradycardia and Normal Sinus Rhythm and displays easy-to-read result. Email EKG to your doctor or anyone. Add KardiaCare subscription for additional heart rhythm detections, doctor reviews of your EKG, and more. Subscription requires additional fee.",
+          "Simple to Use Without a Subscription: No Bluetooth, Wi-Fi, cords or PC needed. Place the device near your smartphone. Monitor your heart by placing your fingers or thumbs on the silver KardiaMobile EKG sensors. Know in 30 seconds whether your heart rhythm is normal.",
+          "Pocket-size Peace of Mind: Weighs less than 1 ounce, KardiaMobile is small enough to take anywhere. Ideal for home, office, gym or outdoors. FSA/HSA-eligible and FDA-cleared KardiaMobile device gives you answers quickly and easily.",
+          "#1 Cardiologist Recommended Personal EKG brand: Recommended by cardiologists worldwide, with over 350 million EKGs recorded, recipient of health technology awards, trusted by leading hospitals and healthcare providers."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "CleanSlate UV Sanitizer",
+        "productId": "B071KGVLBB",
+        "productName": "CleanSlate UV Sanitizer",
+        "filename": "B071KGVLBB.mp4",
+        "asin": "B071KGVLBB",
+        "clipDuration": 23.82,
+        "estimatedAudioSeconds": 28,
+        "framework": "problema_solucion",
+        "narracionSegments": null,
+        "content": [
+          "¿Preocupado por los gérmenes en tus dispositivos? El CleanSlate UV Sanitizer limpia con luz UV-C en minutos, asegurando una desinfección completa.",
+          "Su precio actual en Amazon ronda los... 24 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: CleanSlate UV Sanitizer"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B071KGVLBB_combined.mp4",
+        "precio": "$24",
+        "productPhoto": "https://m.media-amazon.com/images/I/714pdp7fiGL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B071KGVLBB\\scenes_v3\\B071KGVLBB_v3_scene_01.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "producto visible",
+            "raw": "8|producto visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B071KGVLBB\\scenes_v1\\B071KGVLBB_scene_01.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "producto visible",
+            "raw": "8|producto visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B071KGVLBB\\scenes_v2\\B071KGVLBB_v2_scene_01.mp4",
+            "type": "video",
+            "score": 6,
+            "tag": "uso real",
+            "raw": "6|uso real"
+          }
+        ],
+        "features": [
+          "UV-C Phone Sanitizer & Charger; PhoneSoap 3 cleans and sanitizes the surfaces of your phone and other high touch gear. Backed by 10 years in UV technology, our best-in-class products disinfect your entire phone and small objects using UV-C light all while charging with the dual USB and USB-C charging ports.",
+          "360-Degree Disinfection; Our unique, patented design ensures powerful, germicidal UV-C light reaches all sides and surfaces of objects placed inside. Our combination of chamber design, selective materials, and bulb placement makes our phone sanitizer and charger box one of the best phone accessories.",
+          "Quick and Easy Hygiene; Simply plug the PhoneSoap 3 into power with the provided cord, place your phone or other item inside, close lid to begin disinfection, and then remove your newly disinfected item after 10 minutes. Disinfect your phone every night or whenever you wash your hands.",
+          "Disinfects More than Just Phones; The PhoneSoap 3 fits all smart phones - even larger models like the iPhone 8+ or Galaxy S10+ - and can disinfect more than just phones. Add your keys, wallets, headphones, jewelry, glasses, and more. Interior Dimensions: 6.8 x 3.74 x 0.78 in.",
+          "Best Reviewed, Most Trusted Brand; PhoneSoap made germicidal UV-C light available to consumers as best-in-class disinfection products paired with stylish design. We help people live better by defeating microbes the easy way—on high-touch, germ-coated phones to the air we breathe."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "iHealth No-Touch Thermometer",
+        "productId": "B075QQ8VZW",
+        "productName": "iHealth No-Touch Thermometer",
+        "filename": "B075QQ8VZW.mp4",
+        "asin": "B075QQ8VZW",
+        "clipDuration": 7.91,
+        "estimatedAudioSeconds": 10,
+        "framework": "enfoque_caracteristica",
+        "narracionSegments": null,
+        "content": [
+          "Sensores infrarrojos para una medición precisa.",
+          "Su precio actual en Amazon ronda los... 17 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: iHealth No-Touch Thermometer"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B075QQ8VZW_combined.mp4",
+        "precio": "$17",
+        "productPhoto": "https://m.media-amazon.com/images/I/61RRRiP684L.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B075QQ8VZW\\scenes_v1\\B075QQ8VZW_scene_01.mp4",
+            "type": "video",
+            "score": 6,
+            "tag": "producto visible",
+            "raw": "6|producto visible"
+          }
+        ],
+        "features": [
+          "Non-Contact Technology For Safe & Hygienic Use: With a built-in infrared temperature sensor, the iHealth PT3 thermometer can read a person’s body temperature within 1.18 inches from the center of the forehead without physically touching the person.",
+          "High Accuracy Via Tri-Point Sensory: An ultra-sensitive infrared sensor collects more than 100 data points per second while distance and environmental sensors work together to account for other variables, ensuring maximum accuracy every time the temperature is taken.",
+          "Simple, Fast, Clear, And Quiet: With an intuitive single-button control design, the thermometer reads and shows the temperature in just one second on its easy-to-read, extra-large LED display, even in total darkness. When the temperature is read, the device gives a gentle vibration notification to the holding hand—no beeps or buzzes.",
+          "Suitable For Wide Usage Scenarios & All Age Groups: This iHealth thermometer (model PT3) is designed for all ages, ranging from babies and toddlers to the elderly. An ideal choice for at-home use and for hospitals, hotels, schools, and other public or private establishments.",
+          "In The Box: 1× iHealth PT3 thermometer, 2× AAA batteries, 1× Instruction manual, 1× Quick User Guide, our worry-free 12-month warranty, and friendly California-based customer service."
+        ]
+      }
+    ],
+    "totalDuration": 75
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "Dale like y recuerda que los links están en el primer comentario."
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:45",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "todo",
+    "mdico",
+    "debe",
+    "tener"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 3 Gadgets que Todo Médico Debe Tener",
+      "angle": "Top 3 Gadgets que Todo Médico Debe Tener",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 3,
+      "introScript": "¿Un gadget que mide tus signos vitales en segundos? ¿O una herramienta que desinfecta cualquier superficie al instante? Hoy te presentamos tres innovaciones tecnológicas que revolucionarán tu consulta médica y quizás cambien cómo trabajas para siempre.",
+      "keywords": [
+        "gadgets",
+        "todo",
+        "mdico",
+        "debe",
+        "tener"
+      ],
+      "estimatedViews": 5331,
+      "bestPublishTime": "2026-05-12T19:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "KardiaMobile EKG Monitor",
+          "searchTermEn": "KardiaMobile EKG Monitor",
+          "id": "B01A4W8AUK",
+          "filename": "B01A4W8AUK.mp4"
+        },
+        {
+          "nombre": "CleanSlate UV Sanitizer",
+          "searchTermEn": "CleanSlate UV Sanitizer",
+          "id": "B071KGVLBB",
+          "filename": "B071KGVLBB.mp4"
+        },
+        {
+          "nombre": "iHealth No-Touch Thermometer",
+          "searchTermEn": "iHealth No-Touch Thermometer",
+          "id": "B075QQ8VZW",
+          "filename": "B075QQ8VZW.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-05-08T22:01:57.432Z",
+      "_requestedCount": 3,
+      "_adaptedCount": 3,
+      "introProductsOrder": [
+        {
+          "nombre": "CleanSlate UV Sanitizer",
+          "id": "B071KGVLBB",
+          "filename": "B071KGVLBB.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B071KGVLBB_combined.mp4"
+        },
+        {
+          "nombre": "iHealth No-Touch Thermometer",
+          "id": "B075QQ8VZW",
+          "filename": "B075QQ8VZW.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B075QQ8VZW_combined.mp4"
+        },
+        {
+          "nombre": "KardiaMobile EKG Monitor",
+          "id": "B01A4W8AUK",
+          "filename": "B01A4W8AUK.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B01A4W8AUK_combined.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1778278174084_25i309"
+    },
+    "generatedAt": "2026-05-08T22:09:38.820Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "KardiaMobile EKG Monitor",
+        "searchTermEn": "KardiaMobile EKG Monitor",
+        "id": "B01A4W8AUK",
+        "filename": "B01A4W8AUK.mp4"
+      },
+      {
+        "nombre": "CleanSlate UV Sanitizer",
+        "searchTermEn": "CleanSlate UV Sanitizer",
+        "id": "B071KGVLBB",
+        "filename": "B071KGVLBB.mp4"
+      },
+      {
+        "nombre": "iHealth No-Touch Thermometer",
+        "searchTermEn": "iHealth No-Touch Thermometer",
+        "id": "B075QQ8VZW",
+        "filename": "B075QQ8VZW.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 3 Gadgets que Todo Médico Debe Tener\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\nEste dispositivo desinfecta todo con luz ultravioleta. Este mide la temperatura sin contacto. Y este monitor cardíaco cabe en tu bolsillo.\n\n[0:10-0:15] INTRODUCTION\nSuscríbete, los links están en el primer comentario. Empecemos.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] KARDIAMOBILE EKG MONITOR\nLo que nadie te dice de este EKG portátil es que ofrece tranquilidad instantánea. El KardiaMobile EKG Monitor permite capturar un electrocardiograma de grado médico en 30 segundos. Sin cables ni Bluetooth, se conecta a tu smartphone para resultados rápidos y precisos.\nSu precio actual en Amazon ronda los... 79 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: KardiaMobile EKG Monitor]\n\n[0:25] CLEANSLATE UV SANITIZER\n¿Preocupado por los gérmenes en tus dispositivos? El CleanSlate UV Sanitizer limpia con luz UV-C en minutos, asegurando una desinfección completa.\nSu precio actual en Amazon ronda los... 24 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: CleanSlate UV Sanitizer]\n\n[0:25] IHEALTH NO-TOUCH THERMOMETER\nSensores infrarrojos para una medición precisa.\nSu precio actual en Amazon ronda los... 17 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: iHealth No-Touch Thermometer]\n\n[10 seconds] CONCLUSION\nDale like y recuerda que los links están en el primer comentario.\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:45\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, todo, mdico, debe, tener\n"
+}

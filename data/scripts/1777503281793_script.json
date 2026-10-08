@@ -1,0 +1,225 @@
+{
+  "title": "5 Imprescindibles Gadgets para Tu Alcoba",
+  "hook": {
+    "type": "statement",
+    "text": "Esta lámpara flota mágicamente iluminando tu espacio. Un reloj despierta con luz natural. Un humidificador crea llamas de vapor. Este cargador maneja todos tus dispositivos a la vez. Un anillo que analiza tu sueño detalladamente.",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "Suscríbete, los links están en el primer comentario. Empecemos.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0:10-0:15"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Lámpara magnética levitadora",
+        "productId": "B092DFPQT1",
+        "productName": "Lámpara magnética levitadora",
+        "filename": "B092DFPQT1.mp4",
+        "content": [
+          "Iluminar tu habitación con estilo puede ser un reto. La lámpara magnética levitadora flota y gira silenciosamente, simulando la luna en tu hogar. Ofrece tres colores de luz, ideal para cualquier ambiente.",
+          "Su precio actual en Amazon ronda los... 76 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Lámpara magnética levitadora"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B092DFPQT1.mp4",
+        "precio": "$76",
+        "productPhoto": "https://m.media-amazon.com/images/I/712joUxQFIS.jpg"
+      },
+      {
+        "type": "content",
+        "title": "Reloj despertador con luz",
+        "productId": "B0DGXD6WVW",
+        "productName": "Reloj despertador con luz",
+        "filename": "B0DGXD6WVW.mp4",
+        "content": [
+          "Levantarse cada mañana puede ser un tormento. Con el reloj despertador con luz, despiertas suavemente al ritmo de una simulación de amanecer. Está diseñado para comenzar tu día de manera natural y sin estrés.",
+          "Su precio actual en Amazon ronda los... 54 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Reloj despertador con luz"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0DGXD6WVW.mp4",
+        "precio": "$54",
+        "productPhoto": "https://m.media-amazon.com/images/I/81mP2pftHML.jpg"
+      },
+      {
+        "type": "content",
+        "title": "Humidificador de llama",
+        "productId": "B0DK73LWHN",
+        "productName": "Humidificador de llama",
+        "filename": "B0DK73LWHN.mp4",
+        "content": [
+          "El aire seco en tu habitación puede ser incómodo. El humidificador de llama crea un efecto visual de chimenea, añadiendo calidez y humedad al ambiente. Además, funciona como difusor de aceites esenciales para una atmósfera relajante.",
+          "Su precio actual en Amazon ronda los... 22 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Humidificador de llama"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0DK73LWHN.mp4",
+        "precio": "$22",
+        "productPhoto": "https://m.media-amazon.com/images/I/71PnPQd-pmL.jpg"
+      },
+      {
+        "type": "content",
+        "title": "Cargador inalámbrico múltiple",
+        "productId": "B0C2BMNHW2",
+        "productName": "Cargador inalámbrico múltiple",
+        "filename": "B0C2BMNHW2.mp4",
+        "content": [
+          "Mantener todos tus dispositivos cargados puede ser un caos de cables. El cargador inalámbrico múltiple carga iPhones, Apple Watch y AirPods simultáneamente, con un diseño portátil y plegable. Ofrece carga rápida y segura en cualquier lugar.",
+          "Su precio actual en Amazon ronda los... 2299 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Cargador inalámbrico múltiple"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0C2BMNHW2.mp4",
+        "precio": "$22.99",
+        "productPhoto": "https://m.media-amazon.com/images/I/61HO7-q0JNL.jpg"
+      },
+      {
+        "type": "content",
+        "title": "Sensor de sueño Oura",
+        "productId": "B0D9WT1S2T",
+        "productName": "Sensor de sueño Oura",
+        "filename": "B0D9WT1S2T.mp4",
+        "content": [
+          "Entender tu calidad de sueño suele ser complicado. El sensor de sueño Oura monitoriza más de 50 métricas de salud, incluyendo sueño y actividad. Con una batería de larga duración, obtienes datos continuos sin interrupciones.",
+          "Su precio actual en Amazon ronda los... 349 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Sensor de sueño Oura"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0D9WT1S2T.mp4",
+        "precio": "$349",
+        "productPhoto": "https://m.media-amazon.com/images/I/51ul5++ZdWL.jpg"
+      }
+    ],
+    "totalDuration": 125
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "Dale like y recuerda que los links están en el primer comentario."
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "2:35",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "alcoba",
+    "necesita"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 5 gadgets que tu alcoba necesita",
+      "angle": "Top 5 gadgets que tu alcoba necesita",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 5,
+      "introScript": "¿Una lámpara que levita en el aire? ¿O un reloj que se configura automáticamente con solo girarlo? Prepárate para descubrir cómo transformar tu alcoba con estos increíbles gadgets que están a un clic de distancia.",
+      "keywords": [
+        "gadgets",
+        "alcoba",
+        "necesita"
+      ],
+      "estimatedViews": 5907,
+      "bestPublishTime": "2026-05-01T20:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Lámpara magnética levitadora",
+          "searchTermEn": "magnetic levitation lamp",
+          "id": "B092DFPQT1",
+          "filename": "B092DFPQT1.mp4"
+        },
+        {
+          "nombre": "Reloj despertador con luz",
+          "searchTermEn": "sunrise alarm clock",
+          "id": "B0DGXD6WVW",
+          "filename": "B0DGXD6WVW.mp4"
+        },
+        {
+          "nombre": "Humidificador de llama",
+          "searchTermEn": "flame humidifier",
+          "id": "B0DK73LWHN",
+          "filename": "B0DK73LWHN.mp4"
+        },
+        {
+          "nombre": "Cargador inalámbrico múltiple",
+          "searchTermEn": "wireless charging station",
+          "id": "B0C2BMNHW2",
+          "filename": "B0C2BMNHW2.mp4"
+        },
+        {
+          "nombre": "Sensor de sueño Oura",
+          "searchTermEn": "Oura sleep tracker ring",
+          "id": "B0D9WT1S2T",
+          "filename": "B0D9WT1S2T.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-04-29T22:50:22.826Z",
+      "_requestedCount": 5,
+      "_adaptedCount": 5,
+      "_scriptNonce": "nonce_1777503252836_inhdvi"
+    },
+    "generatedAt": "2026-04-29T22:54:21.471Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Lámpara magnética levitadora",
+        "searchTermEn": "magnetic levitation lamp",
+        "id": "B092DFPQT1",
+        "filename": "B092DFPQT1.mp4"
+      },
+      {
+        "nombre": "Reloj despertador con luz",
+        "searchTermEn": "sunrise alarm clock",
+        "id": "B0DGXD6WVW",
+        "filename": "B0DGXD6WVW.mp4"
+      },
+      {
+        "nombre": "Humidificador de llama",
+        "searchTermEn": "flame humidifier",
+        "id": "B0DK73LWHN",
+        "filename": "B0DK73LWHN.mp4"
+      },
+      {
+        "nombre": "Cargador inalámbrico múltiple",
+        "searchTermEn": "wireless charging station",
+        "id": "B0C2BMNHW2",
+        "filename": "B0C2BMNHW2.mp4"
+      },
+      {
+        "nombre": "Sensor de sueño Oura",
+        "searchTermEn": "Oura sleep tracker ring",
+        "id": "B0D9WT1S2T",
+        "filename": "B0D9WT1S2T.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: 5 Imprescindibles Gadgets para Tu Alcoba\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\nEsta lámpara flota mágicamente iluminando tu espacio. Un reloj despierta con luz natural. Un humidificador crea llamas de vapor. Este cargador maneja todos tus dispositivos a la vez. Un anillo que analiza tu sueño detalladamente.\n\n[0:10-0:15] INTRODUCTION\nSuscríbete, los links están en el primer comentario. Empecemos.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] LÁMPARA MAGNÉTICA LEVITADORA\nIluminar tu habitación con estilo puede ser un reto. La lámpara magnética levitadora flota y gira silenciosamente, simulando la luna en tu hogar. Ofrece tres colores de luz, ideal para cualquier ambiente.\nSu precio actual en Amazon ronda los... 76 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Lámpara magnética levitadora]\n\n[0:25] RELOJ DESPERTADOR CON LUZ\nLevantarse cada mañana puede ser un tormento. Con el reloj despertador con luz, despiertas suavemente al ritmo de una simulación de amanecer. Está diseñado para comenzar tu día de manera natural y sin estrés.\nSu precio actual en Amazon ronda los... 54 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Reloj despertador con luz]\n\n[0:25] HUMIDIFICADOR DE LLAMA\nEl aire seco en tu habitación puede ser incómodo. El humidificador de llama crea un efecto visual de chimenea, añadiendo calidez y humedad al ambiente. Además, funciona como difusor de aceites esenciales para una atmósfera relajante.\nSu precio actual en Amazon ronda los... 22 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Humidificador de llama]\n\n[0:25] CARGADOR INALÁMBRICO MÚLTIPLE\nMantener todos tus dispositivos cargados puede ser un caos de cables. El cargador inalámbrico múltiple carga iPhones, Apple Watch y AirPods simultáneamente, con un diseño portátil y plegable. Ofrece carga rápida y segura en cualquier lugar.\nSu precio actual en Amazon ronda los... 2299 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Cargador inalámbrico múltiple]\n\n[0:25] SENSOR DE SUEÑO OURA\nEntender tu calidad de sueño suele ser complicado. El sensor de sueño Oura monitoriza más de 50 métricas de salud, incluyendo sueño y actividad. Con una batería de larga duración, obtienes datos continuos sin interrupciones.\nSu precio actual en Amazon ronda los... 349 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Sensor de sueño Oura]\n\n[10 seconds] CONCLUSION\nDale like y recuerda que los links están en el primer comentario.\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 2:35\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, alcoba, necesita\n"
+}

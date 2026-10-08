@@ -1,0 +1,134 @@
+{
+  "title": "Top 1 Gadget Revolucionario para tu Coche",
+  "hook": {
+    "type": "statement",
+    "text": "Existe un mercado oculto de productos que nadie conoce. Imagina unos dispositivos que vigilan incansablemente el ambiente de tu hogar; son el santo grial control ambiental que buscabas. He revelado los links en el primer comentario. Dale play.",
+    "duration": "0:00-0:15"
+  },
+  "introduction": {
+    "greeting": "",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0s"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Govee Higrómetro Termómetro Interior 2Pack H5075",
+        "productId": "B0872X4H4J",
+        "productName": "Govee Higrómetro Termómetro Interior 2Pack H5075",
+        "filename": "B0872X4H4J.mp4",
+        "asin": "B0872X4H4J",
+        "videoDuration": 26.6155,
+        "estimatedAudioSeconds": 28,
+        "framework": "problema_solucion",
+        "narracionSegments": null,
+        "content": [
+          "Sorprendentemente preciso. Extremadamente confiable. Activa el Govee H5075 y conoce los cambios en la temperatura y humedad de tu casa en tiempo real. Este gadget se conecta fácilmente con la aplicación Govee Home, mientras su alcance Bluetooth de cincuenta metros garantiza recibir alertas inmediatas. La pantalla LCD grande permite leer claramente los valores actuales.",
+          "Descubre este dispositivo por solo veinticinco dólares en Amazon. ¡Consulta el enlace anclado abajo!"
+        ],
+        "visuals": [
+          "Product image: Govee Higrómetro Termómetro Interior 2Pack H5075"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0872X4H4J.mp4",
+        "precio": "$25",
+        "productPhoto": "https://m.media-amazon.com/images/I/61X6uZTHcOL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "Fácil de usar: Simplemente descarga la aplicación Govee Home, busca y selecciona H5075, y empareja el termómetro higrómetro de habitación con éxito en minutos. Con un alcance Bluetooth de 164ft/50m, recibirás notificaciones de cualquier cambio en la temperatura y la humedad de inmediato.",
+          "Precisión: Sensor inteligente de temperatura y humedad fabricado en Suiza, la temperatura es precisa a ±0.54°F mientras que la humedad es ±3%RH. Proporciona un monitoreo altamente preciso. La velocidad de actualización de hasta 2S siempre te brinda los últimos cambios en el entorno.",
+          "Pantalla LCD Grande: El higrómetro ofrece lectura de temperatura/humedad en tiempo real con números grandes y registros de máximo/mínimo en una pantalla LCD de 3 pulgadas, viene con 3 indicadores de confort de nivel seco/cómodo/húmedo, manteniéndote al tanto de la situación de la casa con solo un vistazo.",
+          "Alerta de Smart App: Recibirás una notificación una vez que la temperatura o la humedad estén fuera del rango preestablecido. Puede ayudarte a ajustar de manera efectiva la situación de tu hogar, garaje, habitación de bebé, cuarto, bodega, sótano u otros lugares a tiempo.",
+          "Almacenamiento de Datos Gratuito: Cuenta con 20 días de almacenamiento de datos en línea. Puedes ver los registros recientes de temperatura y humedad. El gráfico de curvas que se muestra te brinda un seguimiento claro de los cambios en los datos. Puedes exportar los últimos 2 años de datos en formato CSV en cualquier momento."
+        ],
+        "originalVideoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0872X4H4J.mp4"
+      }
+    ],
+    "totalDuration": 40
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "¿Puedes encontrar mejores productos que estos? Suscríbete y revisa los links intrigantes en el primer comentario."
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "",
+    "like": "",
+    "comment": "",
+    "nextVideo": "",
+    "duration": "0 seconds"
+  },
+  "duration": "1:10",
+  "tone": "engaging",
+  "tone_variant": "entusiasta y acelerado, como un presentador de teletienda pero sin relleno ni repetición",
+  "pacing": "quick",
+  "keywords": [
+    "gadget",
+    "revolucionario",
+    "para",
+    "coche"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 1 Gadget Revolucionario para tu Coche",
+      "angle": "Top 1 Gadget Revolucionario para tu Coche",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 1,
+      "introScript": "Hoy te traemos un gadget que transformará tu experiencia de conducción. Imagina un dispositivo que convierte tu coche en un centro de seguridad con sensores avanzados que reaccionan en tiempo real, o una Inteligencia Artificial que personaliza tus rutas diarias. Y espera, ¿qué tal un innovador mecanismo que ajusta la temperatura automáticamente según tus preferencias sin mover un dedo? No vas a querer perderte esta maravilla tecnológica que está haciendo olas en Kickstarter y más allá. ¡Vamos a descubrirlo!",
+      "keywords": [
+        "gadget",
+        "revolucionario",
+        "para",
+        "coche"
+      ],
+      "estimatedViews": 4852,
+      "bestPublishTime": "2026-09-25T18:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Govee Higrómetro Termómetro Interior 2Pack H5075",
+          "searchTermEn": "Govee Car Thermometer AI",
+          "id": "B0872X4H4J",
+          "filename": "B0872X4H4J.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-09-24T17:58:24.636Z",
+      "_requestedCount": 1,
+      "_adaptedCount": 1,
+      "introProductsOrder": [
+        {
+          "nombre": "Govee Higrómetro Termómetro Interior 2Pack H5075",
+          "id": "B0872X4H4J",
+          "filename": "B0872X4H4J.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0872X4H4J.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1790272777696_58dpn2"
+    },
+    "generatedAt": "2026-09-24T17:59:47.178Z",
+    "version": "4.0-dynamic-rotator",
+    "productos": [
+      {
+        "nombre": "Govee Higrómetro Termómetro Interior 2Pack H5075",
+        "searchTermEn": "Govee Car Thermometer AI",
+        "id": "B0872X4H4J",
+        "filename": "B0872X4H4J.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 1 Gadget Revolucionario para tu Coche\n\n══════════════════════════════════════════════════\n\n[0:00-0:15] HOOK\nExiste un mercado oculto de productos que nadie conoce. Imagina unos dispositivos que vigilan incansablemente el ambiente de tu hogar; son el santo grial control ambiental que buscabas. He revelado los links en el primer comentario. Dale play.\n\n[0s] INTRODUCTION\n\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] GOVEE HIGRÓMETRO TERMÓMETRO INTERIOR 2PACK H5075\nSorprendentemente preciso. Extremadamente confiable. Activa el Govee H5075 y conoce los cambios en la temperatura y humedad de tu casa en tiempo real. Este gadget se conecta fácilmente con la aplicación Govee Home, mientras su alcance Bluetooth de cincuenta metros garantiza recibir alertas inmediatas. La pantalla LCD grande permite leer claramente los valores actuales.\nDescubre este dispositivo por solo veinticinco dólares en Amazon. ¡Consulta el enlace anclado abajo!\n\n[VISUALS: Product image: Govee Higrómetro Termómetro Interior 2Pack H5075]\n\n[10 seconds] CONCLUSION\n¿Puedes encontrar mejores productos que estos? Suscríbete y revisa los links intrigantes en el primer comentario.\n\n\n\n[0 seconds] CALL TO ACTION\n\n\n\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:10\nTONE: engaging\nPACING: quick\nKEYWORDS: gadget, revolucionario, para, coche\n"
+}

@@ -1,0 +1,335 @@
+{
+  "title": "Top 3 Gadgets Esenciales para Soldados en Amazon",
+  "hook": {
+    "type": "statement",
+    "text": "¿Carga solar infinita? ¿Purificador de agua personal?",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "¿Cuál querrías tú? Los links están en el primer comentario.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "25s-30s"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "BioLite SolarPanel 10+",
+        "productId": "B08SHGP6ND",
+        "productName": "BioLite SolarPanel 10+",
+        "filename": "B08SHGP6ND.mp4",
+        "asin": "B08SHGP6ND",
+        "clipDuration": 59.76,
+        "estimatedAudioSeconds": 72,
+        "framework": "experiencia_sensorial",
+        "narracionSegments": null,
+        "content": [
+          "Con la tecnología del BioLite SolarPanel 10+, la energía inteligente del sol está literalmente en tus manos. Este panel solar proporciona 10 vatios de salida, suficiente para alimentar tabletas y teléfonos, mientras que su batería interna de 3200 mAh almacena energía para que no te quedes nunca sin carga. Con un reloj de sol analógico y soporte de 360 grados, encontrar el ángulo perfecto es fácil, incluso en terrenos difíciles. Además, la unidad se pliega para convertirse en un compañero compacto pero poderoso para todas tus misiones.",
+          "Su precio actual en Amazon ronda los... 150 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: BioLite SolarPanel 10+"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B08SHGP6ND_combined.mp4",
+        "precio": "$150",
+        "productPhoto": "https://m.media-amazon.com/images/I/71z9qUAa+4L.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B08SHGP6ND\\scenes_v1\\B08SHGP6ND_scene_01.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "panel solar",
+            "raw": "8|panel solar"
+          }
+        ],
+        "features": [
+          "Accede a energía solar inteligente del sol con el SolarPanel 10+; Obtén 10 vatios de salida para alimentar tabletas, teléfonos y otros dispositivos; Se integra con una batería de 3,200 mAh que te permite usar energía en tiempo real o almacenarla para más tarde.",
+          "Características del sistema Optimal Sun de BioLite, patentado, para simplificar la configuración y maximizar la energía solar; el reloj de sol analógico te ayuda a encontrar los rayos directos y el soporte de 360 grados facilita su posicionamiento en terrenos irregulares.",
+          "El kit incluye el SolarPanel 10+, cable USB e instrucciones; se pliega a un perfil compacto y portátil, ofreciendo la máxima capacidad de empaquetado.",
+          "El indicador de batería y fuerza de carga muestra la potencia del sol para medir la capacidad de tu panel; el botón de estado de la batería te indica cuánta energía has almacenado en tu batería de 3200 mAh.",
+          "Características de celdas monocristalinas de alta eficiencia que disipan el calor, maximizando la eficiencia del panel; clasificado IPX4 para resistir salpicaduras de agua desde cualquier ángulo."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "LifeStraw Personal Water Filter",
+        "productId": "B0DTRLCKH2",
+        "productName": "LifeStraw Personal Water Filter",
+        "filename": "B0DTRLCKH2.mp4",
+        "asin": "B0DTRLCKH2",
+        "clipDuration": 60.03,
+        "estimatedAudioSeconds": 76,
+        "framework": "problema_solucion",
+        "narracionSegments": null,
+        "content": [
+          "Mantenerte hidratado puede ser un reto, especialmente cuando no puedes confiar en el agua que encontrás. Aquí es donde entra el LifeStraw Personal Water Filter: Diseñado para eliminar el 99.999999% de bacterias acuáticas y otros contaminantes como microplásticos, este filtro hace posible beber agua limpia directamente desde fuentes naturales. Soportando hasta 4000 litros de uso antes de necesitar un reemplazo, brinda a los usuarios una forma segura y eficiente de obtener agua potable sin complicaciones.",
+          "Su precio actual en Amazon ronda los... 51 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: LifeStraw Personal Water Filter"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0DTRLCKH2_combined.mp4",
+        "precio": "$51",
+        "productPhoto": "https://m.media-amazon.com/images/I/71HCwtdRDBL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DTRLCKH2\\scenes_v1\\B0DTRLCKH2_scene_02.mp4",
+            "type": "video",
+            "score": 10,
+            "tag": "filtro de agua",
+            "raw": "10|filtro de agua"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DTRLCKH2\\scenes_v1\\B0DTRLCKH2_scene_03.mp4",
+            "type": "video",
+            "score": 10,
+            "tag": "interacción real",
+            "raw": "10|interacción real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DTRLCKH2\\scenes_v1\\B0DTRLCKH2_scene_05.mp4",
+            "type": "video",
+            "score": 10,
+            "tag": "interacción real",
+            "raw": "10|interacción real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DTRLCKH2\\scenes_v1\\B0DTRLCKH2_scene_07.mp4",
+            "type": "video",
+            "score": 10,
+            "tag": "interacción real",
+            "raw": "10|interacción real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DTRLCKH2\\scenes_v1\\B0DTRLCKH2_scene_09.mp4",
+            "type": "video",
+            "score": 10,
+            "tag": "interacción real",
+            "raw": "10|interacción real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DTRLCKH2\\scenes_v1\\B0DTRLCKH2_scene_10.mp4",
+            "type": "video",
+            "score": 10,
+            "tag": "interacción real",
+            "raw": "10|interacción real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DTRLCKH2\\scenes_v1\\B0DTRLCKH2_scene_01.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DTRLCKH2\\scenes_v1\\B0DTRLCKH2_scene_04.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DTRLCKH2\\scenes_v1\\B0DTRLCKH2_scene_08.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DTRLCKH2\\scenes_v1\\B0DTRLCKH2_scene_06.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "filtro de agua",
+            "raw": "8|filtro de agua"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DTRLCKH2\\scenes_v1\\B0DTRLCKH2_scene_11.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "producto visible",
+            "raw": "8|producto visible"
+          }
+        ],
+        "features": [
+          "Elimina Bacterias y Parásitos: La Membrana de Microfiltración Elimina el 99.999999% de las Bacterias Acuáticas (Incluyendo E. Coli y Salmonella), y el 99.999% de los Parásitos Acuáticos (Incluyendo Giardia y Cryptosporidium).",
+          "Elimina Microplásticos: Elimina los microplásticos más pequeños encontrados en el medio ambiente (hasta 1 Micrón) y reduce la turbidez hasta 0.2 Micrones.",
+          "Pruebas Rigurosas: Todas las Afirmaciones Son Verificadas Con Laboratorios Usando Protocolos de Pruebas Estándar Establecidos Por La Us EPA, NSF, ASTM Para Purificadores de Agua.",
+          "Larga Duración: El Filtro Microbiológico Proporcionará 4,000 Litros (1,000 Galones) De Agua Potable Limpia Y Segura Con Un Uso Y Mantenimiento Adecuados.",
+          "Haz una Impacto: Por cada producto Lifestraw comprado, un niño en necesidad recibe agua potable segura durante todo un año escolar."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Garmin Instinct Tactical",
+        "productId": "B0BW288CHV",
+        "productName": "Garmin Instinct Tactical",
+        "filename": "B0BW288CHV.mp4",
+        "asin": "B0BW288CHV",
+        "clipDuration": 60.03,
+        "estimatedAudioSeconds": null,
+        "framework": "enfoque_caracteristica",
+        "narracionSegments": null,
+        "content": [
+          "-Resistencia- definitiva ensamblada con estándares militares: El Garmin Instinct Tactical es su reloj inteligente GPS ideal para condiciones extremas con carga solar ampliada mediante la Power Glass. Experimenta una pantalla robusta y una vida útil potencialmente infinita cuando se expone adecuadamente a la luz solar directa. La linterna LED variable integrada asegura visibilidad nocturna ininterrumpida.",
+          "-Su- precio actual en Amazon ronda los... 400 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Garmin Instinct Tactical"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0BW288CHV_combined.mp4",
+        "precio": "$400",
+        "productPhoto": "https://m.media-amazon.com/images/I/71jxJWbxj6L.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BW288CHV\\scenes_v1\\B0BW288CHV_scene_02.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción smartwatch",
+            "raw": "9|interacción smartwatch"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BW288CHV\\scenes_v1\\B0BW288CHV_scene_01.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción smartwatch",
+            "raw": "9|interacción smartwatch"
+          }
+        ],
+        "features": [
+          "Reloj inteligente GPS audaz y resistente, construido según el estándar militar estadounidense 810 para resistencia térmica, a impactos y al agua, con una gran pantalla cargada por solar y una duradera caja de polímero de 50 mm.",
+          "Carga solar: La lente Power Glass extiende la vida de la batería, produciendo un 50% más de energía que el reloj solar Instinct 2 estándar.",
+          "\"\"\"Vida de batería infinita en modo smartwatch cuando se expone a 3 horas de luz solar directa (50,000 lux) por día\"\"\"",
+          "Linterna LED integrada con intensidades variables y modos estroboscópicos que te brinda mayor visibilidad mientras entrenas de noche y proporciona una iluminación conveniente cuando la necesitas.",
+          "El seguimiento de salud y bienestar 24/7 te ayuda a mantenerte al tanto de tus métricas corporales con frecuencia cardíaca basada en la muñeca, monitoreo avanzado del sueño, seguimiento de la respiración, Pulse Ox y más (este no es un dispositivo médico, y los datos presentados están destinados a ser una estimación cercana de las métricas rastreadas. Pulse Ox no está disponible en todos los países)."
+        ]
+      }
+    ],
+    "totalDuration": 120
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "Si este video te gustó, recuerda dar clic en 'Me gustaría' y visita los links que están en el primer comentario"
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "2:28",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "esenciales",
+    "para",
+    "soldados",
+    "amazon"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 3 Gadgets Esenciales para Soldados en Amazon",
+      "angle": "Top 3 Gadgets Esenciales para Soldados en Amazon",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 3,
+      "introScript": "¿Y si te dijera que hay un gadget que carga tus dispositivos con energía solar en cualquier lugar? O una herramienta que garantiza que siempre tengas agua potable, sin importar dónde estés. Y espera, ¿un reloj que sigue funcionando bajo las condiciones más extremas? Hoy te muestro los tres accesorios más útiles y sorprendentes que todo soldado debería llevar consigo.",
+      "keywords": [
+        "gadgets",
+        "esenciales",
+        "para",
+        "soldados",
+        "amazon"
+      ],
+      "estimatedViews": 3781,
+      "bestPublishTime": "2026-06-09T19:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "BioLite SolarPanel 10+",
+          "searchTermEn": "BioLite SolarPanel 10+",
+          "id": "B08SHGP6ND",
+          "filename": "B08SHGP6ND.mp4"
+        },
+        {
+          "nombre": "LifeStraw Personal Water Filter",
+          "searchTermEn": "LifeStraw Personal Water Filter",
+          "id": "B0DTRLCKH2",
+          "filename": "B0DTRLCKH2.mp4"
+        },
+        {
+          "nombre": "Garmin Instinct Tactical",
+          "searchTermEn": "Garmin Instinct Tactical Watch",
+          "id": "B0BW288CHV",
+          "filename": "B0BW288CHV.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-06-02T19:05:03.339Z",
+      "_requestedCount": 3,
+      "_adaptedCount": 3,
+      "introProductsOrder": [
+        {
+          "nombre": "Garmin Instinct Tactical",
+          "id": "B0BW288CHV",
+          "filename": "B0BW288CHV_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0BW288CHV_combined.mp4"
+        },
+        {
+          "nombre": "LifeStraw Personal Water Filter",
+          "id": "B0DTRLCKH2",
+          "filename": "B0DTRLCKH2_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0DTRLCKH2_combined.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1780427593550_o1ppgv"
+    },
+    "generatedAt": "2026-06-02T19:13:36.486Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "BioLite SolarPanel 10+",
+        "searchTermEn": "BioLite SolarPanel 10+",
+        "id": "B08SHGP6ND",
+        "filename": "B08SHGP6ND.mp4"
+      },
+      {
+        "nombre": "LifeStraw Personal Water Filter",
+        "searchTermEn": "LifeStraw Personal Water Filter",
+        "id": "B0DTRLCKH2",
+        "filename": "B0DTRLCKH2.mp4"
+      },
+      {
+        "nombre": "Garmin Instinct Tactical",
+        "searchTermEn": "Garmin Instinct Tactical Watch",
+        "id": "B0BW288CHV",
+        "filename": "B0BW288CHV.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 3 Gadgets Esenciales para Soldados en Amazon\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\n¿Carga solar infinita? ¿Purificador de agua personal?\n\n[25s-30s] INTRODUCTION\n¿Cuál querrías tú? Los links están en el primer comentario.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] BIOLITE SOLARPANEL 10+\nCon la tecnología del BioLite SolarPanel 10+, la energía inteligente del sol está literalmente en tus manos. Este panel solar proporciona 10 vatios de salida, suficiente para alimentar tabletas y teléfonos, mientras que su batería interna de 3200 mAh almacena energía para que no te quedes nunca sin carga. Con un reloj de sol analógico y soporte de 360 grados, encontrar el ángulo perfecto es fácil, incluso en terrenos difíciles. Además, la unidad se pliega para convertirse en un compañero compacto pero poderoso para todas tus misiones.\nSu precio actual en Amazon ronda los... 150 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: BioLite SolarPanel 10+]\n\n[0:25] LIFESTRAW PERSONAL WATER FILTER\nMantenerte hidratado puede ser un reto, especialmente cuando no puedes confiar en el agua que encontrás. Aquí es donde entra el LifeStraw Personal Water Filter: Diseñado para eliminar el 99.999999% de bacterias acuáticas y otros contaminantes como microplásticos, este filtro hace posible beber agua limpia directamente desde fuentes naturales. Soportando hasta 4000 litros de uso antes de necesitar un reemplazo, brinda a los usuarios una forma segura y eficiente de obtener agua potable sin complicaciones.\nSu precio actual en Amazon ronda los... 51 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: LifeStraw Personal Water Filter]\n\n[0:25] GARMIN INSTINCT TACTICAL\n-Resistencia- definitiva ensamblada con estándares militares: El Garmin Instinct Tactical es su reloj inteligente GPS ideal para condiciones extremas con carga solar ampliada mediante la Power Glass. Experimenta una pantalla robusta y una vida útil potencialmente infinita cuando se expone adecuadamente a la luz solar directa. La linterna LED variable integrada asegura visibilidad nocturna ininterrumpida.\n-Su- precio actual en Amazon ronda los... 400 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Garmin Instinct Tactical]\n\n[10 seconds] CONCLUSION\nSi este video te gustó, recuerda dar clic en 'Me gustaría' y visita los links que están en el primer comentario\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 2:28\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, esenciales, para, soldados, amazon\n"
+}

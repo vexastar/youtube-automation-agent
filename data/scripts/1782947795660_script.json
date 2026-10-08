@@ -1,0 +1,588 @@
+{
+  "title": "Top 5 Gadgets para Facilitar la Vida de Personas con Movilidad Reducida",
+  "hook": {
+    "type": "statement",
+    "text": "¿Comer sin temblores? ¿Superar cualquier obstáculo? ¿Movilidad sin manos?",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "¿Cuál querrías tú? Los links están en el primer comentario.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "25s-30s"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Whill Model C2",
+        "productId": "B096WPN5G2",
+        "productName": "Whill Model C2",
+        "filename": "B096WPN5G2.mp4",
+        "asin": "B096WPN5G2",
+        "clipDuration": 46.68,
+        "estimatedAudioSeconds": 40,
+        "framework": "beneficio_oculto",
+        "narracionSegments": null,
+        "content": [
+          "Lo que nadie te dice de la silla Whill Model C2 es que puedes manejarla a distancia con una app. Ideal para superficies complicadas gracias a sus dos motores potentes, esta silla es perfecta para los aventureros. Además, se desmonta en cuatro pasos para un transporte fácil en el coche.",
+          "Su precio actual en Amazon ronda los... 3999 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Whill Model C2"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B096WPN5G2.mp4",
+        "precio": "$3999",
+        "productPhoto": "https://m.media-amazon.com/images/I/61XvH0LcraL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B096WPN5G2\\scenes_v1\\B096WPN5G2_scene_01.mp4",
+            "type": "video",
+            "score": 10,
+            "tag": "interacción real",
+            "raw": "10|interacción real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B096WPN5G2\\scenes_v1\\B096WPN5G2_scene_04.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B096WPN5G2\\scenes_v1\\B096WPN5G2_scene_05.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B096WPN5G2\\scenes_v1\\B096WPN5G2_scene_06.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Ruedas Omni",
+            "raw": "9|Ruedas Omni"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B096WPN5G2\\scenes_v1\\B096WPN5G2_scene_07.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B096WPN5G2\\scenes_v1\\B096WPN5G2_scene_09.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Funcionalidades visibles",
+            "raw": "9|Funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B096WPN5G2\\scenes_v1\\B096WPN5G2_scene_10.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B096WPN5G2\\scenes_v1\\B096WPN5G2_scene_11.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "silla de ruedas",
+            "raw": "9|silla de ruedas"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B096WPN5G2\\scenes_v1\\B096WPN5G2_scene_18.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "silla de ruedas",
+            "raw": "9|silla de ruedas"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B096WPN5G2\\scenes_v1\\B096WPN5G2_scene_19.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B096WPN5G2\\scenes_v1\\B096WPN5G2_scene_16.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "silla de ruedas",
+            "raw": "5|silla de ruedas"
+          }
+        ],
+        "features": [
+          "\"\"\"Viaje Cómodo: WHILL Model C2, adecuado para personas activas de hasta 300 pounds, cuenta con altura de asiento ajustable y ángulos de soporte para la espalda, con 3 anchos de asiento (16\", 18\", 20\"). Asegura la máxima comodidad durante su uso. Variaciones de color/tamaño disponibles.\"\"\"",
+          "Posibilidades Infinita: Equipada con 2 potentes motores, esta silla de poder puede enfrentar terrenos difíciles, subir pendientes de hasta 10° y superar obstáculos de hasta 2” de altura. Perfecta para individuos aventureros.",
+          "Tecnología Inteligente: Usa la aplicación WHILL para conducir de forma remota el Model C2, monitorear la salud del dispositivo y de la batería, e incluso bloquear el dispositivo para mayor seguridad.",
+          "Conveniencia portátil: Se desarma fácilmente en cuatro pasos, lo que hace que el transporte en el maletero de un coche sea sin complicaciones. Ideal para estilos de vida en movimiento.",
+          "Maniobrabilidad Suave: Las ruedas Omni frontales patentadas ofrecen un radio de giro ajustado de 29.9”, lo que permite una fácil navegación en ascensores, apartamentos pequeños y entornos de oficina."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "iWALK 3.0",
+        "productId": "B08WJRWR57",
+        "productName": "iWALK 3.0",
+        "filename": "B08WJRWR57.mp4",
+        "asin": "B08WJRWR57",
+        "clipDuration": 45.11,
+        "estimatedAudioSeconds": null,
+        "framework": "comparacion_precio",
+        "narracionSegments": null,
+        "content": [
+          "(Registro de problemas persistente y service not working)",
+          "(Registro de problemas persistente y service not working)"
+        ],
+        "visuals": [
+          "Product image: iWALK 3.0"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B08WJRWR57.mp4",
+        "precio": "$179",
+        "productPhoto": "https://m.media-amazon.com/images/I/61BZfsn4jjL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B08WJRWR57\\scenes_v1\\B08WJRWR57_scene_03.mp4",
+            "type": "video",
+            "score": 10,
+            "tag": "iWALK3.0 crutch",
+            "raw": "10|iWALK3.0 crutch"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B08WJRWR57\\scenes_v1\\B08WJRWR57_scene_02.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B08WJRWR57\\scenes_v1\\B08WJRWR57_scene_01.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B08WJRWR57\\scenes_v1\\B08WJRWR57_scene_04.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B08WJRWR57\\scenes_v1\\B08WJRWR57_scene_06.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B08WJRWR57\\scenes_v1\\B08WJRWR57_scene_10.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B08WJRWR57\\scenes_v1\\B08WJRWR57_scene_11.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B08WJRWR57\\scenes_v1\\B08WJRWR57_scene_12.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "iWALK crutch",
+            "raw": "9|iWALK crutch"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B08WJRWR57\\scenes_v1\\B08WJRWR57_scene_13.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "iWALK3.0 en uso",
+            "raw": "9|iWALK3.0 en uso"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B08WJRWR57\\scenes_v1\\B08WJRWR57_scene_14.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B08WJRWR57\\scenes_v1\\B08WJRWR57_scene_15.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B08WJRWR57\\scenes_v1\\B08WJRWR57_scene_17.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B08WJRWR57\\scenes_v1\\B08WJRWR57_scene_18.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B08WJRWR57\\scenes_v1\\B08WJRWR57_scene_16.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B08WJRWR57\\scenes_v1\\B08WJRWR57_scene_19.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B08WJRWR57\\scenes_v1\\B08WJRWR57_scene_20.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B08WJRWR57\\scenes_v1\\B08WJRWR57_scene_21.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "iWALK crutch",
+            "raw": "9|iWALK crutch"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B08WJRWR57\\scenes_v1\\B08WJRWR57_scene_22.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B08WJRWR57\\scenes_v1\\B08WJRWR57_scene_24.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B08WJRWR57\\scenes_v1\\B08WJRWR57_scene_25.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B08WJRWR57\\scenes_v1\\B08WJRWR57_scene_05.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "producto pequeño",
+            "raw": "5|producto pequeño"
+          }
+        ],
+        "features": [
+          "MEJOR QUE MUÑEQUERAS O PATINETES DE RODILLA: Con la iWalk3.0 muleta manos libres, puedes realizar tus actividades diarias normales, incluyendo escaleras. La muleta de rodilla iWALK te libera de las limitaciones de las muletas para las piernas o los patinetes de rodilla. Solo compra DESPUÉS de confirmar que cumples con TODAS las CALIFICACIONES PARA SU USO (sigue leyendo).",
+          "QUIÉN LO PUEDE USAR (Y QUIÉN NO) – NO RECOMENDADO para personas MAYORES, cualquier persona con LIMITACIONES DE EQUILIBRIO o FUERZA, o cualquier persona CON SOBREPESO SIGNIFICATIVO. La muleta iWALK es ideal para adultos SALUDABLES y MOTIVADOS que desean mantenerse móviles durante la recuperación de una cirugía de pie, lesión en el pie, lesión en el tobillo u otra lesión en la parte inferior de la pierna, y que cumplen con las CALIFICACIONES PARA SU USO (ver listado).",
+          "¿TE QUEDARÁ BIEN? ¿ALTURA? ¿PESO? ¿EQUILIBRIO? : ALTURA - Entre 5’2” - 6’2” / FÍSICO – En buena condición o mejor, NO excesivamente sobrepeso / EDAD – 55 años o menos / EQUILIBRIO - promedio o mejor / ALTAMENTE MOTIVADO para invertir tiempo en aprender a adaptarse. Si no cumples con todas estas Calificaciones para el Uso, iWALK no funcionará para ti.",
+          "MANTENTE ACTIVO Y SIN MANOS: Dominar la muleta iWALK toma solo de 1 a 3 días. Esta muleta sin manos te permite seguir siendo funcional y mantener tu estilo de vida durante la recuperación de una cirugía en el pie, una lesión en el pie, una lesión en el tobillo u otra lesión en la parte inferior de la pierna.",
+          "CAMBIO DE JUEGO: Una alternativa probada a las muletas y scooters de rodilla – iWALK3.0 te mantiene erguido, móvil y con las manos libres en interiores, exteriores y en escaleras o terrenos irregulares. Mantente independiente y conserva tu rutina normal durante la recuperación."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Liftware Steady",
+        "productId": "B0DX252Y7H",
+        "productName": "Liftware Steady",
+        "filename": "B0DX252Y7H.mp4",
+        "asin": "B0DX252Y7H",
+        "clipDuration": 51.75,
+        "estimatedAudioSeconds": 24,
+        "framework": "dato_numerico",
+        "narracionSegments": null,
+        "content": [
+          "La cuchara Liftware Steady ayuda a personas con Parkinson a comer con confianza al estabilizar los temblores mediante un chip inteligente y algoritmos avanzados.",
+          "Su precio actual en Amazon ronda los 300 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Liftware Steady"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0DX252Y7H.mp4",
+        "precio": "$300",
+        "productPhoto": "https://m.media-amazon.com/images/I/51RGPnbpCpL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DX252Y7H\\scenes_v1\\B0DX252Y7H_scene_02.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "cuchara adaptativa",
+            "raw": "8|cuchara adaptativa"
+          }
+        ],
+        "features": [
+          "【Eleva la Confianza en la Hora de Comer】La cuchara GYENNO para Parkinson está diseñada para mejorar significativamente la experiencia de comer de las personas con un rango específico de temblores en las manos a través de una intervención no invasiva, permitiéndoles regresar a una vida normal con confianza, independencia y dignidad.",
+          "【Ayuda Innovadora para el Parkinson】Con un chip inteligente integrado y algoritmos de vanguardia, la cuchara GYENNO para el Parkinson estabiliza la cuchara al detectar y compensar los temblores, mejorando la facilidad de uso.",
+          "【Tecnología de Visualización de Temblor】La cuchara GYENNO para Parkinson recoge datos de temblor del usuario y los muestra como un gráfico en una aplicación móvil durante la carga, lo que te permite ver tus niveles de temblor de forma visual y utilizar esta información como base para el tratamiento.",
+          "【Mejora Continua】Las actualizaciones de firmware y algoritmos permiten la evolución sostenible de la cuchara GYENNO para Parkinson a través de la tecnología OTA.",
+          "【Determina Rápidamente si Funciona】Para verificar si la cuchara GYENNO Parkinson es útil para ti, descarga la APP 'GYENNO SPOON' en Google Play o App Store, y realiza una prueba de usabilidad."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Trionic Veloped",
+        "productId": "B0FVKNJ39Y",
+        "productName": "Trionic Veloped",
+        "filename": "B0FVKNJ39Y.mp4",
+        "asin": "B0FVKNJ39Y",
+        "clipDuration": 60.06,
+        "estimatedAudioSeconds": 23,
+        "framework": "experiencia_sensorial",
+        "narracionSegments": null,
+        "content": [
+          "El Trionic Veloped es un producto innovador que mejora la movilidad, ofreciendo una experiencia sensorial única para sus usuarios.",
+          "Su precio actual en Amazon ronda los 28 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Trionic Veloped"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0FVKNJ39Y_combined.mp4",
+        "precio": "$28",
+        "productPhoto": "https://m.media-amazon.com/images/I/713itkYunZL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": []
+      },
+      {
+        "type": "content",
+        "title": "SmartDrive MX2+",
+        "productId": "B0812YTBD3",
+        "productName": "SmartDrive MX2+",
+        "filename": "B0812YTBD3.mp4",
+        "asin": "B0812YTBD3",
+        "clipDuration": 122.72,
+        "estimatedAudioSeconds": 28,
+        "framework": "problema_solucion",
+        "narracionSegments": null,
+        "content": [
+          "Impulsa tu movilidad con el SmartDrive MX2+, equipado con motores Brushless de 300 vatios y baterías de litio duales para largos recorridos sin preocupaciones.",
+          "Su precio actual en Amazon ronda los 6626 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: SmartDrive MX2+"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0812YTBD3.mp4",
+        "precio": "$6626",
+        "productPhoto": "https://m.media-amazon.com/images/I/61th+mlhmNL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0812YTBD3\\scenes_v1\\B0812YTBD3_scene_03.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0812YTBD3\\scenes_v1\\B0812YTBD3_scene_01.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "silla eléctrica",
+            "raw": "9|silla eléctrica"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0812YTBD3\\scenes_v1\\B0812YTBD3_scene_02.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "silla de ruedas",
+            "raw": "5|silla de ruedas"
+          }
+        ],
+        "features": [
+          "¡POTENCIA DE CABALLO! Dos motores Brushless de 300 vatios ultra potentes que rinden al máximo en todas las superficies del terreno te proporcionan todo el torque que podrías necesitar, incluso en colinas y pendientes. Freno electromagnético inteligente (freno de disco regenerativo electrónico) para garantizar la seguridad del pasajero. Además, el Quattro tiene una opción de rueda libre o neutra que permite usarlo como una silla manual, de modo que los cuidadores pueden optar por empujarla manualmente.",
+          "\"\"\"RANGO MÁS LARGO, Las baterías de litio duales proporcionan mucha energía por más tiempo. Puedes viajar HASTA impresionantes 30 Miles* con las baterías con una sola carga, así que no tienes que preocuparte por quedarte lejos de casa. Podrías ir a parques como Disney y pasear todo el día y aún tener mucha batería para seguir... Otra gran característica del Quattro es que utiliza Smart Power Technology. Cuando ambas baterías están en la silla, extraerá energía de ambas baterías simultáneamente.\"\"\"",
+          "EXCELENTE RADIO DE GIRO: Con el radio y la capacidad de ir en todas las direcciones con el NUEVO Joystick Sensi-Touch, no solo puedes conducir tu Quattro Wheelchair con un solo dedo, ¡también puedes maniobrar tu Quattro en espacios reducidos que requieren habilidades de giro sensibles! ¡Pasa fácilmente por puertas estándar! Cómodo, limpio y conveniente, el Ranger Quattro incluye un amplio almacenamiento debajo del asiento, un cojín de asiento y respaldo removibles (lavables hasta 95℃) y un reposapiés abatible para mayor comodidad.",
+          "DISEÑO LIGERO Y COMPACTO: La Ranger Quattro Lightweight Folding Power Wheelchair tiene un área de asiento de 18.5″, soporta hasta 400LBS, está aprobada por aerolíneas y cruceros, ¡se pliega en segundos y cabe en la mayoría de los maleteros de coches compactos! La Quattro Power Wheelchair es única y está en una clase propia. Ambos brazos se pliegan, el controlador se quita – ¡la Quattro es FÁCIL de controlar, gestionar y usar! Incluye una bolsa de viaje negra con acolchado extra, lo que hace que el transporte sea aún más fácil y conveniente. Características clave del producto.",
+          "\"\"\"TOTALMENTE ENSAMBLADO entregado Porto Mobility es una empresa estadounidense que se compromete a ofrecer los mejores productos de movilidad. Todos los productos, piezas y accesorios están respaldados por el soporte al cliente estándar de Porto Mobility 24x7. ¡Deja de preocuparte por quién reparará tu silla de ruedas o cómo la llevarías a ellos! Servicio y mantenimiento disponibles en todos los estados de EE. UU. Simplemente llámanos en caso de necesitar servicio y nos encargaremos de ello por ti.\"\"\""
+        ]
+      }
+    ],
+    "totalDuration": 200
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      null
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "3:48",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "para",
+    "facilitar",
+    "vida",
+    "personas",
+    "movilidad",
+    "reducida"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 5 Gadgets para Facilitar la Vida de Personas con Movilidad Reducida",
+      "angle": "Top 5 Gadgets para Facilitar la Vida de Personas con Movilidad Reducida",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 5,
+      "introScript": "¿Imagina una silla de ruedas inteligente que se controla con tu voz? ¿O un dispositivo que te ayuda a subir escaleras sin esfuerzo? Hoy exploramos cinco innovaciones tecnológicas que están transformando la vida de quienes tienen movilidad reducida. Desde soluciones para el hogar hasta dispositivos portátiles, descubre estos gadgets que no solo son funcionales, sino que también garantizan mayor independencia.",
+      "keywords": [
+        "gadgets",
+        "para",
+        "facilitar",
+        "vida",
+        "personas",
+        "movilidad",
+        "reducida"
+      ],
+      "estimatedViews": 4220,
+      "bestPublishTime": "2026-07-04T15:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Whill Model C2",
+          "searchTermEn": "Whill Model C2 wheelchair",
+          "id": "B096WPN5G2",
+          "filename": "B096WPN5G2.mp4"
+        },
+        {
+          "nombre": "iWALK 3.0",
+          "searchTermEn": "iWALK 3.0 hands free crutch",
+          "id": "B08WJRWR57",
+          "filename": "B08WJRWR57.mp4"
+        },
+        {
+          "nombre": "Liftware Steady",
+          "searchTermEn": "Liftware Steady spoon",
+          "id": "B0DX252Y7H",
+          "filename": "B0DX252Y7H.mp4"
+        },
+        {
+          "nombre": "Trionic Veloped",
+          "searchTermEn": "Trionic Veloped walker",
+          "id": "B0FVKNJ39Y",
+          "filename": "B0FVKNJ39Y.mp4"
+        },
+        {
+          "nombre": "SmartDrive MX2+",
+          "searchTermEn": "SmartDrive MX2 wheelchair power assist",
+          "id": "B0812YTBD3",
+          "filename": "B0812YTBD3.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-07-01T22:54:59.887Z",
+      "_requestedCount": 5,
+      "_adaptedCount": 5,
+      "introProductsOrder": [
+        {
+          "nombre": "Liftware Steady",
+          "id": "B0DX252Y7H",
+          "filename": "B0DX252Y7H.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0DX252Y7H.mp4"
+        },
+        {
+          "nombre": "Trionic Veloped",
+          "id": "B0FVKNJ39Y",
+          "filename": "B0FVKNJ39Y_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0FVKNJ39Y_combined.mp4"
+        },
+        {
+          "nombre": "iWALK 3.0",
+          "id": "B08WJRWR57",
+          "filename": "B08WJRWR57.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B08WJRWR57.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1782947431030_ovxqxl"
+    },
+    "generatedAt": "2026-07-01T23:16:11.672Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Whill Model C2",
+        "searchTermEn": "Whill Model C2 wheelchair",
+        "id": "B096WPN5G2",
+        "filename": "B096WPN5G2.mp4"
+      },
+      {
+        "nombre": "iWALK 3.0",
+        "searchTermEn": "iWALK 3.0 hands free crutch",
+        "id": "B08WJRWR57",
+        "filename": "B08WJRWR57.mp4"
+      },
+      {
+        "nombre": "Liftware Steady",
+        "searchTermEn": "Liftware Steady spoon",
+        "id": "B0DX252Y7H",
+        "filename": "B0DX252Y7H.mp4"
+      },
+      {
+        "nombre": "Trionic Veloped",
+        "searchTermEn": "Trionic Veloped walker",
+        "id": "B0FVKNJ39Y",
+        "filename": "B0FVKNJ39Y.mp4"
+      },
+      {
+        "nombre": "SmartDrive MX2+",
+        "searchTermEn": "SmartDrive MX2 wheelchair power assist",
+        "id": "B0812YTBD3",
+        "filename": "B0812YTBD3.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 5 Gadgets para Facilitar la Vida de Personas con Movilidad Reducida\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\n¿Comer sin temblores? ¿Superar cualquier obstáculo? ¿Movilidad sin manos?\n\n[25s-30s] INTRODUCTION\n¿Cuál querrías tú? Los links están en el primer comentario.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] WHILL MODEL C2\nLo que nadie te dice de la silla Whill Model C2 es que puedes manejarla a distancia con una app. Ideal para superficies complicadas gracias a sus dos motores potentes, esta silla es perfecta para los aventureros. Además, se desmonta en cuatro pasos para un transporte fácil en el coche.\nSu precio actual en Amazon ronda los... 3999 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Whill Model C2]\n\n[0:25] IWALK 3.0\n(Registro de problemas persistente y service not working)\n(Registro de problemas persistente y service not working)\n\n[VISUALS: Product image: iWALK 3.0]\n\n[0:25] LIFTWARE STEADY\nLa cuchara Liftware Steady ayuda a personas con Parkinson a comer con confianza al estabilizar los temblores mediante un chip inteligente y algoritmos avanzados.\nSu precio actual en Amazon ronda los 300 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Liftware Steady]\n\n[0:25] TRIONIC VELOPED\nEl Trionic Veloped es un producto innovador que mejora la movilidad, ofreciendo una experiencia sensorial única para sus usuarios.\nSu precio actual en Amazon ronda los 28 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Trionic Veloped]\n\n[0:25] SMARTDRIVE MX2+\nImpulsa tu movilidad con el SmartDrive MX2+, equipado con motores Brushless de 300 vatios y baterías de litio duales para largos recorridos sin preocupaciones.\nSu precio actual en Amazon ronda los 6626 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: SmartDrive MX2+]\n\n[10 seconds] CONCLUSION\nundefined\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 3:48\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, para, facilitar, vida, personas, movilidad, reducida\n"
+}

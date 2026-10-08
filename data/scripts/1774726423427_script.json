@@ -1,0 +1,147 @@
+{
+  "title": "Top 5 Gadgets de Realidad Aumentada que Te Harán Pensar que Estás en el Futuro",
+  "hook": {
+    "type": "statement",
+    "text": "¿Estás listo para adentrarte en el futuro con la última tecnología de realidad aumentada? ¡No te lo pierdas!",
+    "duration": "0:00-0:05"
+  },
+  "introduction": {
+    "greeting": "La realidad aumentada está transformando la forma en que interactuamos con el mundo. Hoy te presentamos los 5 gadgets más impresionantes que te harán sentir que has viajado en el tiempo. Quédate para descubrir cómo estos dispositivos pueden cambiar tu día a día.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0:05-0:15"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Lentes Inteligentes GlimpseAR",
+        "content": [
+          "Comenzamos con los Lentes Inteligentes GlimpseAR, un dispositivo que convierte tu entorno en un tablero interactivo. Con su diseño elegante y funciones avanzadas, estos lentes te permiten recibir notificaciones, navegar por internet y hasta mejorar tu productividad con su pantalla transparente. Son ideales para quienes buscan una experiencia tecnológica sin sacrificar el estilo.",
+          "Revisa el enlace para conocer el precio de estos fantásticos lentes."
+        ],
+        "visuals": [
+          "Product image: Lentes Inteligentes GlimpseAR"
+        ],
+        "duration": 25
+      },
+      {
+        "type": "content",
+        "title": "Visor AR LightWave",
+        "content": [
+          "El Visor AR LightWave es tu puerta de entrada a un mundo virtual sobrepuesto al real. Su tecnología avanzada ofrece gráficos nítidos que se integran perfectamente en tu entorno. Perfecto para gamers y profesionales que necesitan una herramienta potente para proyectos de realidad aumentada.",
+          "Revisa el enlace para conocer el precio de este visor impresionante."
+        ],
+        "visuals": [
+          "Product image: Visor AR LightWave"
+        ],
+        "duration": 25
+      },
+      {
+        "type": "content",
+        "title": "Proyector Portátil HoloBeam",
+        "content": [
+          "Imagina llevar un cine holográfico en tu bolsillo. Eso es exactamente lo que ofrece el Proyector Portátil HoloBeam. Este gadget compacto proyecta imágenes en 3D que te harán pensar que estás dentro de una película. Ideal para presentaciones y entretenimiento en movimiento.",
+          "Revisa el enlace para conocer el precio de este proyector increíble."
+        ],
+        "visuals": [
+          "Product image: Proyector Portátil HoloBeam"
+        ],
+        "duration": 25
+      },
+      {
+        "type": "content",
+        "title": "Guantes Hapticos VirtuFeel",
+        "content": [
+          "Los Guantes Hapticos VirtuFeel te permiten sentir el mundo digital como nunca antes. Con una tecnología avanzada de retroalimentación táctil, cada interacción en un entorno de realidad aumentada se convierte en una experiencia tangible. Son perfectos para diseñadores y entusiastas de la tecnología.",
+          "Revisa el enlace para conocer el precio de estos guantes innovadores."
+        ],
+        "visuals": [
+          "Product image: Guantes Hapticos VirtuFeel"
+        ],
+        "duration": 25
+      },
+      {
+        "type": "content",
+        "title": "Auriculares de Realidad Aumentada Audiomancer",
+        "content": [
+          "Finalmente, los Auriculares Audiomancer llevan la realidad aumentada al ámbito auditivo. Con sonido envolvente y funciones de realidad aumentada auditiva, te sumergen completamente en cualquier experiencia, ya sea música, juegos o aplicaciones de navegación.",
+          "Revisa el enlace para conocer el precio de estos auriculares futuristas."
+        ],
+        "visuals": [
+          "Product image: Auriculares de Realidad Aumentada Audiomancer"
+        ],
+        "duration": 25
+      }
+    ],
+    "totalDuration": 125
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "Esperamos que hayas disfrutado descubriendo estos gadgets de realidad aumentada. No olvides darle like al video, suscribirte para más contenido como este, y cuéntanos en los comentarios cuál de estos dispositivos es tu favorito. ¡Hasta la próxima!"
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "2:35",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "realidad",
+    "aumentada",
+    "harn",
+    "pensar",
+    "ests",
+    "futuro"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 5 Gadgets de Realidad Aumentada que Te Harán Pensar que Estás en el Futuro",
+      "angle": "Top 5 Gadgets de Realidad Aumentada que Te Harán Pensar que Estás en el Futuro",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "keywords": [
+        "gadgets",
+        "realidad",
+        "aumentada",
+        "harn",
+        "pensar",
+        "ests",
+        "futuro"
+      ],
+      "estimatedViews": 5393,
+      "bestPublishTime": "2026-04-01T19:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        "Auriculares de Realidad Aumentada Audiomancer",
+        "Guantes Hapticos VirtuFeel",
+        "Proyector Portátil HoloBeam",
+        "Visor AR LightWave",
+        "Lentes Inteligentes GlimpseAR"
+      ],
+      "createdAt": "2026-03-28T19:32:49.485Z"
+    },
+    "generatedAt": "2026-03-28T19:33:43.213Z",
+    "version": "2.0-listicle",
+    "productos": [
+      "Auriculares de Realidad Aumentada Audiomancer",
+      "Guantes Hapticos VirtuFeel",
+      "Proyector Portátil HoloBeam",
+      "Visor AR LightWave",
+      "Lentes Inteligentes GlimpseAR"
+    ]
+  },
+  "fullScript": "TITLE: Top 5 Gadgets de Realidad Aumentada que Te Harán Pensar que Estás en el Futuro\n\n══════════════════════════════════════════════════\n\n[0:00-0:05] HOOK\n¿Estás listo para adentrarte en el futuro con la última tecnología de realidad aumentada? ¡No te lo pierdas!\n\n[0:05-0:15] INTRODUCTION\nLa realidad aumentada está transformando la forma en que interactuamos con el mundo. Hoy te presentamos los 5 gadgets más impresionantes que te harán sentir que has viajado en el tiempo. Quédate para descubrir cómo estos dispositivos pueden cambiar tu día a día.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] LENTES INTELIGENTES GLIMPSEAR\nComenzamos con los Lentes Inteligentes GlimpseAR, un dispositivo que convierte tu entorno en un tablero interactivo. Con su diseño elegante y funciones avanzadas, estos lentes te permiten recibir notificaciones, navegar por internet y hasta mejorar tu productividad con su pantalla transparente. Son ideales para quienes buscan una experiencia tecnológica sin sacrificar el estilo.\nRevisa el enlace para conocer el precio de estos fantásticos lentes.\n\n[VISUALS: Product image: Lentes Inteligentes GlimpseAR]\n\n[0:25] VISOR AR LIGHTWAVE\nEl Visor AR LightWave es tu puerta de entrada a un mundo virtual sobrepuesto al real. Su tecnología avanzada ofrece gráficos nítidos que se integran perfectamente en tu entorno. Perfecto para gamers y profesionales que necesitan una herramienta potente para proyectos de realidad aumentada.\nRevisa el enlace para conocer el precio de este visor impresionante.\n\n[VISUALS: Product image: Visor AR LightWave]\n\n[0:25] PROYECTOR PORTÁTIL HOLOBEAM\nImagina llevar un cine holográfico en tu bolsillo. Eso es exactamente lo que ofrece el Proyector Portátil HoloBeam. Este gadget compacto proyecta imágenes en 3D que te harán pensar que estás dentro de una película. Ideal para presentaciones y entretenimiento en movimiento.\nRevisa el enlace para conocer el precio de este proyector increíble.\n\n[VISUALS: Product image: Proyector Portátil HoloBeam]\n\n[0:25] GUANTES HAPTICOS VIRTUFEEL\nLos Guantes Hapticos VirtuFeel te permiten sentir el mundo digital como nunca antes. Con una tecnología avanzada de retroalimentación táctil, cada interacción en un entorno de realidad aumentada se convierte en una experiencia tangible. Son perfectos para diseñadores y entusiastas de la tecnología.\nRevisa el enlace para conocer el precio de estos guantes innovadores.\n\n[VISUALS: Product image: Guantes Hapticos VirtuFeel]\n\n[0:25] AURICULARES DE REALIDAD AUMENTADA AUDIOMANCER\nFinalmente, los Auriculares Audiomancer llevan la realidad aumentada al ámbito auditivo. Con sonido envolvente y funciones de realidad aumentada auditiva, te sumergen completamente en cualquier experiencia, ya sea música, juegos o aplicaciones de navegación.\nRevisa el enlace para conocer el precio de estos auriculares futuristas.\n\n[VISUALS: Product image: Auriculares de Realidad Aumentada Audiomancer]\n\n[10 seconds] CONCLUSION\nEsperamos que hayas disfrutado descubriendo estos gadgets de realidad aumentada. No olvides darle like al video, suscribirte para más contenido como este, y cuéntanos en los comentarios cuál de estos dispositivos es tu favorito. ¡Hasta la próxima!\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 2:35\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, realidad, aumentada, harn, pensar, ests, futuro\n"
+}

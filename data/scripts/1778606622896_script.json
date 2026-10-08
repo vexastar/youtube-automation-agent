@@ -1,0 +1,448 @@
+{
+  "title": "Top 3 Gadgets que Todo Ingeniero Civil Debe Tener",
+  "hook": {
+    "type": "statement",
+    "text": "Este láser nivela superficies en segundos. Este dispositivo mide distancias con asombrosa precisión. Y este sensor combina medición láser y cinta en uno.",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "Suscríbete y encuentra los links en el primer comentario.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0:10-0:15"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Bosch GLM 50 C",
+        "productId": "B07L8LWXZB",
+        "productName": "Bosch GLM 50 C",
+        "filename": "B07L8LWXZB.mp4",
+        "asin": "B07L8LWXZB",
+        "clipDuration": 72.47,
+        "estimatedAudioSeconds": 112,
+        "framework": "enfoque_caracteristica",
+        "narracionSegments": null,
+        "content": [
+          "El Bosch GLM 50 C impresiona con su visor digital de 5 megapíxeles y zoom ajustable, permitiendo localizar el punto láser a grandes distancias. Con capacidad de medir hasta 400 pies y una precisión de +/- 1/16 de pulgada, este dispositivo es esencial para trabajos en condiciones de poca luz gracias a su pantalla iluminada en color. Además, su cristal de pantalla reforzado ofrece durabilidad y resistencia al daño, haciendo de este dispositivo una herramienta confiable para cualquier ingeniero civil.",
+          "Su precio actual en Amazon ronda los... 252 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Bosch GLM 50 C"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07L8LWXZB_combined.mp4",
+        "precio": "$252",
+        "productPhoto": "https://m.media-amazon.com/images/I/51+E7xqQSLL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07L8LWXZB\\scenes_v1\\B07L8LWXZB_scene_04.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "pantalla encendida",
+            "raw": "9|pantalla encendida"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07L8LWXZB\\scenes_v1\\B07L8LWXZB_scene_02.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "pantalla encendida",
+            "raw": "9|pantalla encendida"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07L8LWXZB\\scenes_v1\\B07L8LWXZB_scene_03.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "medidor láser",
+            "raw": "9|medidor láser"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07L8LWXZB\\scenes_v1\\B07L8LWXZB_scene_07.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción láser",
+            "raw": "9|interacción láser"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07L8LWXZB\\scenes_v1\\B07L8LWXZB_scene_09.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción láser",
+            "raw": "9|interacción láser"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07L8LWXZB\\scenes_v1\\B07L8LWXZB_scene_10.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07L8LWXZB\\scenes_v1\\B07L8LWXZB_scene_17.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "medidor láser",
+            "raw": "9|medidor láser"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07L8LWXZB\\scenes_v1\\B07L8LWXZB_scene_19.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "pantalla encendida",
+            "raw": "9|pantalla encendida"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07L8LWXZB\\scenes_v1\\B07L8LWXZB_scene_21.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "medidor láser",
+            "raw": "9|medidor láser"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07L8LWXZB\\scenes_v1\\B07L8LWXZB_scene_22.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "pantalla encendida",
+            "raw": "9|pantalla encendida"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07L8LWXZB\\scenes_v1\\B07L8LWXZB_scene_23.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "pantalla encendida",
+            "raw": "9|pantalla encendida"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07L8LWXZB\\scenes_v2\\B07L8LWXZB_v2_scene_01.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "pantalla encendida",
+            "raw": "9|pantalla encendida"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07L8LWXZB\\scenes_v3\\B07L8LWXZB_v3_scene_01.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "pantalla encendida",
+            "raw": "9|pantalla encendida"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07L8LWXZB\\scenes_v1\\B07L8LWXZB_scene_16.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "producto pequeño",
+            "raw": "5|producto pequeño"
+          }
+        ],
+        "features": [
+          "DIGITAL VIEWFINDER: delivers 5.0 megapixels with adjustable zoom to locate the laser spot at far distances.",
+          "ACCURACY: The laser measures up to 400 feet and provides accuracy up to +/- 1/16 inch.",
+          "BACKLIT COLOR DISTPLAY: The easy-to-read display illuminates numbers with distinct resolution, for work in low-light or no-light conditions.",
+          "REINFORCED SCREEN GLASS: The screen glass provides increased durability and damage resistance.",
+          "MEASURING FEATURES: The laser measure includes 11 different measuring functions, including real-time length, length, area, volume and indirect functions, and addition/subtraction capability."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Level Sensor Moasure ONE",
+        "productId": "B0G8W4H4SD",
+        "productName": "Level Sensor Moasure ONE",
+        "filename": "B0G8W4H4SD.mp4",
+        "asin": "B0G8W4H4SD",
+        "clipDuration": 50.28,
+        "estimatedAudioSeconds": 74,
+        "framework": "beneficio_oculto",
+        "narracionSegments": null,
+        "content": [
+          "Lo que nadie te dice del Level Sensor Moasure ONE es que combina una cinta métrica digital de 12 pies y un medidor láser de 330 pies en una herramienta compacta. Gracias a su diseño modular, puedes separar el módulo láser para mayor versatilidad y conveniencia. Esto, junto con su tecnología Super OptiTracking, garantiza precisión en cualquier ambiente de trabajo, haciendo del Moasure ONE un aliado indispensable para proyectos de renovación.",
+          "Su precio actual en Amazon ronda los... 699 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Level Sensor Moasure ONE"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0G8W4H4SD_combined.mp4",
+        "precio": "$699",
+        "productPhoto": "https://m.media-amazon.com/images/I/61TJWzMHwmL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0G8W4H4SD\\scenes_v1\\B0G8W4H4SD_scene_02.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Medición precisa",
+            "raw": "9|Medición precisa"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0G8W4H4SD\\scenes_v1\\B0G8W4H4SD_scene_01.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "herramienta digital",
+            "raw": "9|herramienta digital"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0G8W4H4SD\\scenes_v1\\B0G8W4H4SD_scene_03.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Medición precisa",
+            "raw": "9|Medición precisa"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0G8W4H4SD\\scenes_v1\\B0G8W4H4SD_scene_04.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Medición precisa",
+            "raw": "9|Medición precisa"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0G8W4H4SD\\scenes_v2\\B0G8W4H4SD_v2_scene_02.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funciones visibles",
+            "raw": "9|funciones visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0G8W4H4SD\\scenes_v2\\B0G8W4H4SD_v2_scene_01.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Medidor digital",
+            "raw": "9|Medidor digital"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0G8W4H4SD\\scenes_v2\\B0G8W4H4SD_v2_scene_03.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Medición láser",
+            "raw": "9|Medición láser"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0G8W4H4SD\\scenes_v3\\B0G8W4H4SD_v3_scene_02.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funciones visibles",
+            "raw": "9|funciones visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0G8W4H4SD\\scenes_v3\\B0G8W4H4SD_v3_scene_03.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "herramienta digital",
+            "raw": "9|herramienta digital"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0G8W4H4SD\\scenes_v3\\B0G8W4H4SD_v3_scene_04.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "herramienta digital",
+            "raw": "9|herramienta digital"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0G8W4H4SD\\scenes_v3\\B0G8W4H4SD_v3_scene_01.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "producto digital",
+            "raw": "8|producto digital"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0G8W4H4SD\\scenes_v1\\B0G8W4H4SD_scene_06.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "producto pequeño",
+            "raw": "5|producto pequeño"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0G8W4H4SD\\scenes_v2\\B0G8W4H4SD_v2_scene_05.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "producto en uso",
+            "raw": "5|producto en uso"
+          }
+        ],
+        "features": [
+          "[Effortless Measuring, Near or Far] Combines a 12ft digital tape measure and a 330ft laser distance meter in one compact tool—no need to switch devices. Easily handle short, detailed measurements for woodworking or long-distance measuring for home renovation, construction, and DIY projects with speed and accuracy",
+          "[Modular Design for Versatility & Convenience] Features an innovative detachable design that allows the laser module to be easily separated from the tape. Replace worn tape components or switch between metric, imperial, and split units with ease—offering greater flexibility, longer product lifespan, and a more convenient measuring experience",
+          "[Reliable Accuracy in Any Environment] Powered by advanced Super OptiTracking technology, XTAPE1 tape measure delivers precision up to ±1/32\" with consistent, dependable results—even in demanding jobsite conditions. Built for professionals and DIYers alike, it ensures accurate measurements you can trust anytime, anywhere",
+          "[Precision Alignment Made Easy] Equipped with a high-visibility green laser line, XTAPE1 delivers superior brightness and extended range for accurate cross-surface alignment. Perfect for marking and positioning on uneven surfaces, it ensures straight, precise results for renovation, installation, and woodworking tasks",
+          "[Seamless Data Sync & Smart Documentation] Easily transfer measurement data to your smartphone or tablet via the dedicated app—no more juggling between notes and measurements. Annotate dimensions directly on hand-drawn sketches or on-site photos, keeping your projects organized, accurate, and efficient"
+        ]
+      },
+      {
+        "type": "content",
+        "title": "DEWALT DW088K",
+        "productId": "B009O94W3E",
+        "productName": "DEWALT DW088K",
+        "filename": "B009O94W3E.mp4",
+        "asin": "B009O94W3E",
+        "clipDuration": 2.97,
+        "estimatedAudioSeconds": 7,
+        "framework": "problema_solucion",
+        "narracionSegments": null,
+        "content": [
+          "Cansado de niveles imprecisos.",
+          "Su precio actual en Amazon ronda los... 164 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: DEWALT DW088K"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B009O94W3E_combined.mp4",
+        "precio": "$164",
+        "productPhoto": "https://m.media-amazon.com/images/I/81NzHSh+UsL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B009O94W3E\\scenes_v1\\B009O94W3E_scene_02.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "nivel láser",
+            "raw": "9|nivel láser"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B009O94W3E\\scenes_v1\\B009O94W3E_scene_15.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "nivel láser",
+            "raw": "8|nivel láser"
+          }
+        ],
+        "features": [
+          "DEWALT laser level is durable and has over molded housing with a 1 meter drop rating",
+          "Laser level tool has patented integrated magnetic bracket",
+          "Self leveling laser level is water and debris resistant with an IP54 rating",
+          "Can achieve up to a 165 ft. range when used with a detector. Sold separately.",
+          "Housed in a durable storage case."
+        ]
+      }
+    ],
+    "totalDuration": 75
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "Dale like y recuerda que los links están en el primer comentario."
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:45",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "todo",
+    "ingeniero",
+    "civil",
+    "debe",
+    "tener"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 3 Gadgets que Todo Ingeniero Civil Debe Tener",
+      "angle": "Top 3 Gadgets que Todo Ingeniero Civil Debe Tener",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 3,
+      "introScript": "¿Un nivel láser que se alinea solo? ¿Una medida que captura datos al vuelo? Los ingenieros civiles encontrarán estos gadgets imprescindibles para llevar sus proyectos al siguiente nivel. Descubre cómo pueden revolucionar tu forma de trabajar.",
+      "keywords": [
+        "gadgets",
+        "todo",
+        "ingeniero",
+        "civil",
+        "debe",
+        "tener"
+      ],
+      "estimatedViews": 5022,
+      "bestPublishTime": "2026-05-17T15:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Bosch GLM 50 C",
+          "searchTermEn": "Bosch GLM 50 C laser measure",
+          "id": "B07L8LWXZB",
+          "filename": "B07L8LWXZB.mp4"
+        },
+        {
+          "nombre": "Level Sensor Moasure ONE",
+          "searchTermEn": "Moasure ONE motion measure",
+          "id": "B0G8W4H4SD",
+          "filename": "B0G8W4H4SD.mp4"
+        },
+        {
+          "nombre": "DEWALT DW088K",
+          "searchTermEn": "DEWALT DW088K laser level",
+          "id": "B009O94W3E",
+          "filename": "B009O94W3E.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-05-12T17:15:17.314Z",
+      "_requestedCount": 3,
+      "_adaptedCount": 3,
+      "introProductsOrder": [
+        {
+          "nombre": "DEWALT DW088K",
+          "id": "B009O94W3E",
+          "filename": "B009O94W3E_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B009O94W3E_combined.mp4"
+        },
+        {
+          "nombre": "Bosch GLM 50 C",
+          "id": "B07L8LWXZB",
+          "filename": "B07L8LWXZB_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07L8LWXZB_combined.mp4"
+        },
+        {
+          "nombre": "Level Sensor Moasure ONE",
+          "id": "B0G8W4H4SD",
+          "filename": "B0G8W4H4SD_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0G8W4H4SD_combined.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1778606591376_y6ojxt"
+    },
+    "generatedAt": "2026-05-12T17:23:17.147Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Bosch GLM 50 C",
+        "searchTermEn": "Bosch GLM 50 C laser measure",
+        "id": "B07L8LWXZB",
+        "filename": "B07L8LWXZB.mp4"
+      },
+      {
+        "nombre": "Level Sensor Moasure ONE",
+        "searchTermEn": "Moasure ONE motion measure",
+        "id": "B0G8W4H4SD",
+        "filename": "B0G8W4H4SD.mp4"
+      },
+      {
+        "nombre": "DEWALT DW088K",
+        "searchTermEn": "DEWALT DW088K laser level",
+        "id": "B009O94W3E",
+        "filename": "B009O94W3E.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 3 Gadgets que Todo Ingeniero Civil Debe Tener\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\nEste láser nivela superficies en segundos. Este dispositivo mide distancias con asombrosa precisión. Y este sensor combina medición láser y cinta en uno.\n\n[0:10-0:15] INTRODUCTION\nSuscríbete y encuentra los links en el primer comentario.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] BOSCH GLM 50 C\nEl Bosch GLM 50 C impresiona con su visor digital de 5 megapíxeles y zoom ajustable, permitiendo localizar el punto láser a grandes distancias. Con capacidad de medir hasta 400 pies y una precisión de +/- 1/16 de pulgada, este dispositivo es esencial para trabajos en condiciones de poca luz gracias a su pantalla iluminada en color. Además, su cristal de pantalla reforzado ofrece durabilidad y resistencia al daño, haciendo de este dispositivo una herramienta confiable para cualquier ingeniero civil.\nSu precio actual en Amazon ronda los... 252 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Bosch GLM 50 C]\n\n[0:25] LEVEL SENSOR MOASURE ONE\nLo que nadie te dice del Level Sensor Moasure ONE es que combina una cinta métrica digital de 12 pies y un medidor láser de 330 pies en una herramienta compacta. Gracias a su diseño modular, puedes separar el módulo láser para mayor versatilidad y conveniencia. Esto, junto con su tecnología Super OptiTracking, garantiza precisión en cualquier ambiente de trabajo, haciendo del Moasure ONE un aliado indispensable para proyectos de renovación.\nSu precio actual en Amazon ronda los... 699 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Level Sensor Moasure ONE]\n\n[0:25] DEWALT DW088K\nCansado de niveles imprecisos.\nSu precio actual en Amazon ronda los... 164 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: DEWALT DW088K]\n\n[10 seconds] CONCLUSION\nDale like y recuerda que los links están en el primer comentario.\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:45\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, todo, ingeniero, civil, debe, tener\n"
+}

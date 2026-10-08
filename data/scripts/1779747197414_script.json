@@ -1,0 +1,1337 @@
+{
+  "title": "Top 10 Gadgets que Tu Coche Necesita en Amazon",
+  "hook": {
+    "type": "statement",
+    "text": "Rastrea todo en segundos sin estrés. Diagnostica tu auto al instante. Sujeta firmemente tu móvil mientras conduces. Prepárate para cualquier emergencia en la carretera. Limpia cada rincón de tu coche rápidamente.",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "Suscríbete y descubre todos los enlaces en el primer comentario.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0:10-0:15"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "ROAV Viva",
+        "productId": "B09Q6CZDNY",
+        "productName": "ROAV Viva",
+        "filename": "B09Q6CZDNY.mp4",
+        "asin": "B09Q6CZDNY",
+        "clipDuration": 53.42,
+        "estimatedAudioSeconds": 70,
+        "framework": "comparacion_precio",
+        "narracionSegments": null,
+        "content": [
+          "Por tan solo 55 dólares, el ROAV Viva te ofrece acceso a miles de habilidades de Alexa desde tu automóvil. Sus puertos USB-C y USB-A permiten una carga múltiple optimizada, acompañado de micrófonos duales que garantizan un reconocimiento de voz impecable. Es ideal para quienes desean la máxima conectividad con su móvil en cualquier viaje.",
+          "Su precio actual en Amazon ronda los... 55 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: ROAV Viva"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B09Q6CZDNY_combined.mp4",
+        "precio": "$55",
+        "productPhoto": "https://m.media-amazon.com/images/I/51lwOUJXeeL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B09Q6CZDNY\\scenes_v1\\B09Q6CZDNY_scene_01.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "producto pequeño",
+            "raw": "5|producto pequeño"
+          }
+        ],
+        "features": [
+          "ALEXA BUILT-IN: Access thousands of Alexa skills from the driver's seat. Voice-activated commands allow you to safely check the weather, get directions, make a call, select music, and much more while on the road.",
+          "TWO SUPPORT APPS: The iOttie Connect and Amazon Alexa app support device functions and firmware updates.",
+          "DUAL MICROPHONES: Equipped with two noise cancelling microphones for optimal voice recognition and performance while using Alexa.",
+          "USB-C/USB-A CHARGING PORTS: Equipped with both USB-C fast charging and USB-A ports that allow multiple devices to charge simultaneously.",
+          "SLEEK DESIGN: Smooth profile that complements the interior of your vehicle."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Nonda ZUS Smart Charger",
+        "productId": "B0GYRT77QQ",
+        "productName": "Nonda ZUS Smart Charger",
+        "filename": "B0GYRT77QQ.mp4",
+        "asin": "B0GYRT77QQ",
+        "clipDuration": 60.03,
+        "estimatedAudioSeconds": 64,
+        "framework": "dato_numerico",
+        "narracionSegments": null,
+        "content": [
+          "\"Más del 80% de las baterías sufren desgaste por sobrecarga\". El Nonda ZUS Smart Charger evita este problema con su desconexión automática al alcanzar carga completa, asegurando así la longevidad de tus dispositivos. Este cargador es compatible con USB-C y perfecto para uso nocturno sin preocupaciones.",
+          "Su precio actual en Amazon ronda los... 18 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Nonda ZUS Smart Charger"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0GYRT77QQ_combined.mp4",
+        "precio": "$18",
+        "productPhoto": "https://m.media-amazon.com/images/I/61W2FzffpFL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GYRT77QQ\\scenes_v1\\B0GYRT77QQ_scene_02.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "cargador inteligente",
+            "raw": "9|cargador inteligente"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GYRT77QQ\\scenes_v1\\B0GYRT77QQ_scene_04.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "cargador USB C",
+            "raw": "8|cargador USB C"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GYRT77QQ\\scenes_v1\\B0GYRT77QQ_scene_05.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Cargador inteligente",
+            "raw": "8|Cargador inteligente"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GYRT77QQ\\scenes_v1\\B0GYRT77QQ_scene_03.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "cargador pequeño",
+            "raw": "5|cargador pequeño"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GYRT77QQ\\scenes_v1\\B0GYRT77QQ_scene_06.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "cargador pequeño",
+            "raw": "5|cargador pequeño"
+          }
+        ],
+        "features": [
+          "【Full Charge Auto Eject – Smart Battery Protection】Built-in smart detection triggers physical disconnection at 100% chaFull Charge Auto Eject – Smart Battery Protection: Built-in smart detection triggers physical disconnection at 100% charge, stopping current flow instantly and helping extend battery lifespan for daily device use.rge, stopping current flow instantly and helping extend battery lifespan for daily device use",
+          "【Auto Disconnect Cable Protector - Physical Power Cut】Stop worrying about overcharging! Stop Charge Smart Charger is a charging cable protector that automatically ejects to disconnect power when your device reaches full charge, helping prevent overcharging and reduce battery stress",
+          "【Universal Compatibility Full Charge Eject Device】This stop charge smart charger works seamlessly with USB-C devices, One charger for all your gadgets",
+          "【Intelligent Power Cutoff for Overnight Charging Safety】Designed for the \"set it and forget it\" lifestyle. Plug in and rest without worry. The auto disconnect feature stops charging once full, making it ideal for overnight charging, helping extend battery lifespan for daily device use",
+          "【Compact Design – Easy to Use and Portable】Lightweight and easy to install between cable and device. This compact 140W charger block fits easily into your laptop bag or carry-on.Its sleek, portable design makes it the perfect companion for home, office, or global travel"
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Hudway Glass",
+        "productId": "B0DBVPTD7T",
+        "productName": "Hudway Glass",
+        "filename": "B0DBVPTD7T.mp4",
+        "asin": "B0DBVPTD7T",
+        "clipDuration": 60.06,
+        "estimatedAudioSeconds": 64,
+        "framework": "experiencia_sensorial",
+        "narracionSegments": null,
+        "content": [
+          "\"Siente cómo la tecnología transforma cada viaje\" con Hudway Glass proyectando información directamente frente a tus ojos. Este dispositivo no solo mejora tu experiencia visual, sino que también te mantiene seguro al compartir datos clave sin desviar tu mirada del camino.",
+          "Su precio actual en Amazon ronda los... 16 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Hudway Glass"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0DBVPTD7T_combined.mp4",
+        "precio": "$16",
+        "productPhoto": "https://m.media-amazon.com/images/I/51As1GNT25L.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": []
+      },
+      {
+        "type": "content",
+        "title": "Garmin Dash Cam Mini 2",
+        "productId": "B0931YZ82P",
+        "productName": "Garmin Dash Cam Mini 2",
+        "filename": "B0931YZ82P.mp4",
+        "asin": "B0931YZ82P",
+        "clipDuration": 60.03,
+        "estimatedAudioSeconds": null,
+        "framework": "problema_solucion",
+        "narracionSegments": null,
+        "content": [
+          "\"¿Nunca tienes evidencia clara después de un incidente?\" La Garmin Dash Cam Mini 2 se monta discretamente y capta videos HD nítidos día y noche para asegurar que siempre tengas prueba grabada desde tu automóvil.",
+          "\"Su precio actual en Amazon ronda los... 139 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Garmin Dash Cam Mini 2"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0931YZ82P_combined.mp4",
+        "precio": "$139",
+        "productPhoto": "https://m.media-amazon.com/images/I/61aHUpFofqL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0931YZ82P\\scenes_v1\\B0931YZ82P_scene_03.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "cámara delantera",
+            "raw": "8|cámara delantera"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0931YZ82P\\scenes_v1\\B0931YZ82P_scene_02.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Cámara del auto",
+            "raw": "8|Cámara del auto"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0931YZ82P\\scenes_v1\\B0931YZ82P_scene_01.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "cámaras pequeñas",
+            "raw": "5|cámaras pequeñas"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0931YZ82P\\scenes_v2\\B0931YZ82P_v2_scene_03.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "cámara del auto",
+            "raw": "8|cámara del auto"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0931YZ82P\\scenes_v2\\B0931YZ82P_v2_scene_02.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Cámara discreta",
+            "raw": "8|Cámara discreta"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0931YZ82P\\scenes_v2\\B0931YZ82P_v2_scene_01.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "cámara pequeña",
+            "raw": "5|cámara pequeña"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0931YZ82P\\scenes_v2\\B0931YZ82P_v2_scene_04.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "cámara pequeña",
+            "raw": "5|cámara pequeña"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0931YZ82P\\scenes_v2\\B0931YZ82P_v2_scene_06.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "cámara pequeña",
+            "raw": "5|cámara pequeña"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0931YZ82P\\scenes_v2\\B0931YZ82P_v2_scene_09.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "cámara de auto",
+            "raw": "5|cámara de auto"
+          }
+        ],
+        "features": [
+          "Car key-sized dash camera mounts discreetly behind rearview mirror and goes virtually unnoticed; automatically records and saves video of incidents",
+          "Wide 140-degree lens records 1080p video with Garmin Clarity HDR optics for crisp detail day and night",
+          "Voice control (only available in English, German, French, Spanish, Italian and Swedish) lets you use spoken commands to save video, start/stop audio recording, take still pictures and more",
+          "Saved videos automatically upload via Wi-Fi connection to the secure online Vault to view and share later",
+          "The Parking Guard feature (requires constant power and an active connection with Wi-Fi technology; access via the Garmin Drive app on your compatible smartphone) monitors activity around your parked vehicle and alerts if an incident is detected"
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Tile Mate",
+        "productId": "B0D63657GY",
+        "productName": "Tile Mate",
+        "filename": "B0D63657GY.mp4",
+        "asin": "B0D63657GY",
+        "clipDuration": 60.03,
+        "estimatedAudioSeconds": 39,
+        "framework": "enfoque_caracteristica",
+        "narracionSegments": null,
+        "content": [
+          "El Tile Mate es el rastreador perfecto para tus objetos cotidianos. Puedes proteger todo, desde llaves hasta bolsos, con esta innovadora app de seguridad familiar. Activa SOS discretamente para situaciones de emergencia.",
+          "Su precio actual en Amazon ronda los 20 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Tile Mate"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0D63657GY_combined.mp4",
+        "precio": "$20",
+        "productPhoto": "https://m.media-amazon.com/images/I/81SYpSm0gNL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D63657GY\\scenes_v1\\B0D63657GY_scene_01.mp4",
+            "type": "video",
+            "score": 10,
+            "tag": "Llave localizadora",
+            "raw": "10|Llave localizadora"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D63657GY\\scenes_v1\\B0D63657GY_scene_09.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D63657GY\\scenes_v1\\B0D63657GY_scene_02.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "localizador Bluetooth",
+            "raw": "8|localizador Bluetooth"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D63657GY\\scenes_v1\\B0D63657GY_scene_04.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "localizador Bluetooth",
+            "raw": "8|localizador Bluetooth"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D63657GY\\scenes_v1\\B0D63657GY_scene_03.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "localizador Bluetooth",
+            "raw": "8|localizador Bluetooth"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D63657GY\\scenes_v1\\B0D63657GY_scene_05.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "localizador Bluetooth",
+            "raw": "8|localizador Bluetooth"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D63657GY\\scenes_v1\\B0D63657GY_scene_06.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Llaves y rastreador",
+            "raw": "8|Llaves y rastreador"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D63657GY\\scenes_v1\\B0D63657GY_scene_07.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Localizador Bluetooth",
+            "raw": "8|Localizador Bluetooth"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D63657GY\\scenes_v1\\B0D63657GY_scene_08.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Localizador Bluetooth",
+            "raw": "8|Localizador Bluetooth"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D63657GY\\scenes_v2\\B0D63657GY_v2_scene_01.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "producto y llaves",
+            "raw": "8|producto y llaves"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D63657GY\\scenes_v3\\B0D63657GY_v3_scene_03.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D63657GY\\scenes_v3\\B0D63657GY_v3_scene_04.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "producto visible",
+            "raw": "9|producto visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D63657GY\\scenes_v3\\B0D63657GY_v3_scene_01.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D63657GY\\scenes_v3\\B0D63657GY_v3_scene_14.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D63657GY\\scenes_v3\\B0D63657GY_v3_scene_16.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D63657GY\\scenes_v3\\B0D63657GY_v3_scene_19.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "producto visible",
+            "raw": "9|producto visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D63657GY\\scenes_v3\\B0D63657GY_v3_scene_23.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D63657GY\\scenes_v3\\B0D63657GY_v3_scene_21.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D63657GY\\scenes_v3\\B0D63657GY_v3_scene_24.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D63657GY\\scenes_v3\\B0D63657GY_v3_scene_27.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D63657GY\\scenes_v3\\B0D63657GY_v3_scene_29.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D63657GY\\scenes_v3\\B0D63657GY_v3_scene_42.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D63657GY\\scenes_v3\\B0D63657GY_v3_scene_46.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D63657GY\\scenes_v3\\B0D63657GY_v3_scene_51.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D63657GY\\scenes_v3\\B0D63657GY_v3_scene_54.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D63657GY\\scenes_v3\\B0D63657GY_v3_scene_55.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D63657GY\\scenes_v3\\B0D63657GY_v3_scene_59.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D63657GY\\scenes_v3\\B0D63657GY_v3_scene_62.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D63657GY\\scenes_v3\\B0D63657GY_v3_scene_65.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D63657GY\\scenes_v3\\B0D63657GY_v3_scene_10.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "producto en mano",
+            "raw": "8|producto en mano"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D63657GY\\scenes_v3\\B0D63657GY_v3_scene_17.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "localizador Bluetooth",
+            "raw": "8|localizador Bluetooth"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D63657GY\\scenes_v3\\B0D63657GY_v3_scene_18.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "localizador llaves",
+            "raw": "8|localizador llaves"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D63657GY\\scenes_v3\\B0D63657GY_v3_scene_39.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "producto visible",
+            "raw": "8|producto visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D63657GY\\scenes_v3\\B0D63657GY_v3_scene_40.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "localizador Bluetooth",
+            "raw": "8|localizador Bluetooth"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D63657GY\\scenes_v3\\B0D63657GY_v3_scene_44.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "producto visible",
+            "raw": "8|producto visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D63657GY\\scenes_v3\\B0D63657GY_v3_scene_63.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "producto visible",
+            "raw": "8|producto visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D63657GY\\scenes_v3\\B0D63657GY_v3_scene_64.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "producto visible",
+            "raw": "8|producto visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D63657GY\\scenes_v3\\B0D63657GY_v3_scene_67.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "localizador Bluetooth",
+            "raw": "8|localizador Bluetooth"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D63657GY\\scenes_v3\\B0D63657GY_v3_scene_68.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "producto visible",
+            "raw": "8|producto visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D63657GY\\scenes_v3\\B0D63657GY_v3_scene_07.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "cartera en mano",
+            "raw": "5|cartera en mano"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D63657GY\\scenes_v3\\B0D63657GY_v3_scene_08.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "cartera negra",
+            "raw": "5|cartera negra"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D63657GY\\scenes_v3\\B0D63657GY_v3_scene_13.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "cartera negra",
+            "raw": "5|cartera negra"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D63657GY\\scenes_v3\\B0D63657GY_v3_scene_12.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "cartera cerrada",
+            "raw": "5|cartera cerrada"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D63657GY\\scenes_v3\\B0D63657GY_v3_scene_30.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "producto pequeño",
+            "raw": "5|producto pequeño"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D63657GY\\scenes_v3\\B0D63657GY_v3_scene_58.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "producto pequeño",
+            "raw": "5|producto pequeño"
+          }
+        ],
+        "features": [
+          "THE EVERYTHING TRACKER: Protect lost or stolen stuff with the all-in-one family safety app. Attach to everyday things like wallets, keys, bags, and beyond",
+          "STAY SAFE WITH SOS: Keep stuff safe, and people and pets protected. Discreetly trigger an SOS to keep your loved ones safe in any situation",
+          "FIND YOUR THINGS: Ring your misplaced Tile, or track it down in the free app",
+          "FIND YOUR PHONE: Phone hiding under a cushion? Use your Tile to make it ring — even when silenced",
+          "USE WITH LIFE360: Track everything—and everyone you love—a top family connection and safety app. Add your Tiles to see all you love on one map"
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Yosh Magnetic Mount",
+        "productId": "B0F3232J94",
+        "productName": "Yosh Magnetic Mount",
+        "filename": "B0F3232J94.mp4",
+        "asin": "B0F3232J94",
+        "clipDuration": 60.03,
+        "estimatedAudioSeconds": 43,
+        "framework": "beneficio_oculto",
+        "narracionSegments": null,
+        "content": [
+          "El Yosh Magnetic Mount ofrece carga inalámbrica rápida de 15W con seguridad superior gracias a un chip de enfriamiento y ventilación turbo. Diseñado especialmente para Mercedes-Benz, asegura una instalación estable.",
+          "Su precio actual en Amazon ronda los 30 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Yosh Magnetic Mount"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0F3232J94_combined.mp4",
+        "precio": "$30",
+        "productPhoto": "https://m.media-amazon.com/images/I/71Pmpq+FhEL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0F3232J94\\scenes_v1\\B0F3232J94_scene_04.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "cargador magnético",
+            "raw": "9|cargador magnético"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0F3232J94\\scenes_v1\\B0F3232J94_scene_05.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Montaje cargador",
+            "raw": "9|Montaje cargador"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0F3232J94\\scenes_v1\\B0F3232J94_scene_06.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Instalación cargador",
+            "raw": "9|Instalación cargador"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0F3232J94\\scenes_v1\\B0F3232J94_scene_01.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Soporte teléfono",
+            "raw": "8|Soporte teléfono"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0F3232J94\\scenes_v2\\B0F3232J94_v2_scene_03.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0F3232J94\\scenes_v2\\B0F3232J94_v2_scene_06.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Interacción producto",
+            "raw": "9|Interacción producto"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0F3232J94\\scenes_v2\\B0F3232J94_v2_scene_01.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Soporte teléfono",
+            "raw": "8|Soporte teléfono"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0F3232J94\\scenes_v2\\B0F3232J94_v2_scene_04.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Montaje cargador",
+            "raw": "8|Montaje cargador"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0F3232J94\\scenes_v2\\B0F3232J94_v2_scene_05.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "producto pequeño",
+            "raw": "5|producto pequeño"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0F3232J94\\scenes_v3\\B0F3232J94_v3_scene_03.mp4",
+            "type": "video",
+            "score": 10,
+            "tag": "interacción real",
+            "raw": "10|interacción real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0F3232J94\\scenes_v3\\B0F3232J94_v3_scene_04.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0F3232J94\\scenes_v3\\B0F3232J94_v3_scene_01.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Soporte teléfono",
+            "raw": "8|Soporte teléfono"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0F3232J94\\scenes_v3\\B0F3232J94_v3_scene_06.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "cargador magnético",
+            "raw": "8|cargador magnético"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0F3232J94\\scenes_v3\\B0F3232J94_v3_scene_05.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "producto visible",
+            "raw": "8|producto visible"
+          }
+        ],
+        "features": [
+          "📌[Installation Reminder] For the above vehicle models, please refer to the installation video on the product page or scan the QR code on the instruction card to access the setup tutorial before use. If you have any questions, we are always here to support you.",
+          "📌[15W Fast Wireless Charging, Superior Safety] The wireless charging car mount has a high-quality cooling chip and 12 turbo vents for superior thermal conductivity. The chip controls temperature to prevent overheating, while the vents ensure effective heat dissipation. Supports up to 15W fast charging with an 18W QC adapter (not included)",
+          "📌[Tailored for Round Air Vents] Specially designed for Mercedes-Benz A/B/V-Class, GLA/GLB/GLC/GLE/GLK/EQB/Sprinter, CLA/C-Class/G-Class, ensuring a perfect fit with a stable, non-slip installation. ⚠️NOT FIT: Smart 2018/2021, C220D W213, G350/G500, E-Class 220d AMG Coupe 2021, S-Class S560/S400/S450, CLA 250e 2022 , Mini 2018-2019/Convertible.",
+          "📌[Designed for MagSafe] YOSH for MagSafe car charger is specifically designed for iPhone 17 16 15 14 13 12/ Pro Max/ Pro/ Air/ Plus/ mini. It is different from regular wireless car charger, no need to open the clip, more convenient to free your hands",
+          "📌[Rotatable Sturdy Metal Hook] The innovative telescopic and rotatable metal hook of YOSH car phone mount allows flexible positioning for a perfect fit. Built with durable metal, more reliable than traditional plastic clips."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Anker Roav SmartCharge T2",
+        "productId": "B07VFT4D6B",
+        "productName": "Anker Roav SmartCharge T2",
+        "filename": "B07VFT4D6B.mp4",
+        "asin": "B07VFT4D6B",
+        "clipDuration": 60.06,
+        "estimatedAudioSeconds": 38,
+        "framework": "comparacion_precio",
+        "narracionSegments": null,
+        "content": [
+          "El Anker Roav SmartCharge T2 elimina la búsqueda manual de frecuencias vacías con su función de búsqueda automática. Disfruta de llamadas nítidas y música gracias a la tecnología Bluetooth 4.2.",
+          "Su precio actual en Amazon ronda los 26 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Anker Roav SmartCharge T2"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07VFT4D6B_combined.mp4",
+        "precio": "$26",
+        "productPhoto": "https://m.media-amazon.com/images/I/61PwfA5KTeL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "Hassle-Free Usage: The newly added automatic unoccupied-frequency search feature eliminates the need for searching for vacant channels manually.",
+          "Upgraded to Bluetooth 4.2: Enjoy crystal-clear music quality and phone calls delivered over the stable wireless connection.",
+          "Hear Only What You Want: Noise-cancellation technology eliminates road and wind-noise so only the important audio gets through in your phone calls.",
+          "Quick Charge 3.0: Advanced technology provides high speed charging for your device.",
+          "Never Forget Where You Parked: The Roav Charger app records your car’s location by setting a pin in the map the instant Bluetooth connection is lost. What’s in the Box: Roav SmartCharge F3, Owner’s Manual, Happy Card"
+        ]
+      },
+      {
+        "type": "content",
+        "title": "FIXD Sensor",
+        "productId": "B00652G4TS",
+        "productName": "FIXD Sensor",
+        "filename": "B00652G4TS.mp4",
+        "asin": "B00652G4TS",
+        "clipDuration": 60.03,
+        "estimatedAudioSeconds": null,
+        "framework": "dato_numerico",
+        "narracionSegments": null,
+        "content": [
+          "\"Con el FIXD Sensor lee y borra códigos de diagnóstico como un mecánico profesional desde tu dispositivo móvil. Compatible con Bluetooth, ofrece monitoreo en tiempo real mientras conduces.\"",
+          ""
+        ],
+        "visuals": [
+          "Product image: FIXD Sensor"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B00652G4TS_combined.mp4",
+        "precio": "$40",
+        "productPhoto": "https://m.media-amazon.com/images/I/71BlnDh-fPL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B00652G4TS\\scenes_v1\\B00652G4TS_scene_01.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción vehículo",
+            "raw": "9|interacción vehículo"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B00652G4TS\\scenes_v2\\B00652G4TS_v2_scene_05.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción producto",
+            "raw": "9|interacción producto"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B00652G4TS\\scenes_v2\\B00652G4TS_v2_scene_07.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción móvil",
+            "raw": "9|interacción móvil"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B00652G4TS\\scenes_v2\\B00652G4TS_v2_scene_08.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Interacción clara",
+            "raw": "9|Interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B00652G4TS\\scenes_v2\\B00652G4TS_v2_scene_10.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Escaneo vehículo",
+            "raw": "9|Escaneo vehículo"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B00652G4TS\\scenes_v2\\B00652G4TS_v2_scene_12.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "pantalla encendida",
+            "raw": "9|pantalla encendida"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B00652G4TS\\scenes_v2\\B00652G4TS_v2_scene_14.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción vehículo",
+            "raw": "9|interacción vehículo"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B00652G4TS\\scenes_v3\\B00652G4TS_v3_scene_01.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Interacción vehículo",
+            "raw": "9|Interacción vehículo"
+          }
+        ],
+        "features": [
+          "[Pro OBD2 Scanner] - BlueDriver is the easiest way to scan and understand your vehicle like a professional mechanic. Read and clear your car’s trouble codes and check engine light.",
+          "[Read & Clear The Codes] - BlueDriver's enhanced vehicle diagnostics gives you access to information normally available only to mechanics on their OBD2 scan tools. Now you can read and clear ABS, Airbag, SRS, TPMS codes, and many more.",
+          "[Get The Right Fix & View Live Data] - Much more than a car code reader, BlueDriver is a diagnostic tool. You’ll get unlimited repair reports with possible causes and fixes, plus real-time health monitoring while you drive with the live data feature.",
+          "[Wireless & Bluetooth Enabled] - Say goodbye to wires. BlueDriver connects with Bluetooth via your phone/tablet to a sensor that plugs into your car's OBDII port. Get all of the capabilities of an expensive code reader & scan tool without any annoying wires.",
+          "[User-Friendly App and Repair Videos] - BlueDriver gives you more ways to scan and fix your vehicle. Our iOS & Android app connects you to a large database of repair videos with step-by-step directions of repairs."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "ThisWorx Car Vacuum",
+        "productId": "B06ZY896ZM",
+        "productName": "ThisWorx Car Vacuum",
+        "filename": "B06ZY896ZM.mp4",
+        "asin": "B06ZY896ZM",
+        "clipDuration": 60.03,
+        "estimatedAudioSeconds": null,
+        "framework": "experiencia_sensorial",
+        "narracionSegments": null,
+        "content": [
+          "Practical: A mini vacuum for car or truck that is compact, lightweight (2.4 lbs), and easy to use. The large dust bin capacity is ready for ash, dust, or drive-thru food spills. A ",
+          "Su precio actual en Amazon ronda los... 19 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: ThisWorx Car Vacuum"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B06ZY896ZM_combined.mp4",
+        "precio": "$19",
+        "productPhoto": "https://m.media-amazon.com/images/I/81fjAbrqt5L.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B06ZY896ZM\\scenes_v1\\B06ZY896ZM_scene_01.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "aspiradora portátil",
+            "raw": "9|aspiradora portátil"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B06ZY896ZM\\scenes_v1\\B06ZY896ZM_scene_05.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "aspiradora portátil",
+            "raw": "9|aspiradora portátil"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B06ZY896ZM\\scenes_v1\\B06ZY896ZM_scene_04.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Limpieza interior",
+            "raw": "9|Limpieza interior"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B06ZY896ZM\\scenes_v1\\B06ZY896ZM_scene_06.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B06ZY896ZM\\scenes_v1\\B06ZY896ZM_scene_07.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B06ZY896ZM\\scenes_v1\\B06ZY896ZM_scene_09.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "aspiradora portátil",
+            "raw": "9|aspiradora portátil"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B06ZY896ZM\\scenes_v1\\B06ZY896ZM_scene_11.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "aspiradora portátil",
+            "raw": "9|aspiradora portátil"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B06ZY896ZM\\scenes_v1\\B06ZY896ZM_scene_10.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B06ZY896ZM\\scenes_v1\\B06ZY896ZM_scene_08.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "aspiradora coche",
+            "raw": "8|aspiradora coche"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B06ZY896ZM\\scenes_v1\\B06ZY896ZM_scene_12.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "filtro HEPA",
+            "raw": "8|filtro HEPA"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B06ZY896ZM\\scenes_v1\\B06ZY896ZM_scene_14.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "aspiradora portátil",
+            "raw": "8|aspiradora portátil"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B06ZY896ZM\\scenes_v1\\B06ZY896ZM_scene_03.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "vacuum coche",
+            "raw": "5|vacuum coche"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B06ZY896ZM\\scenes_v1\\B06ZY896ZM_scene_13.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "producto pequeño",
+            "raw": "5|producto pequeño"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B06ZY896ZM\\scenes_v2\\B06ZY896ZM_v2_scene_02.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B06ZY896ZM\\scenes_v2\\B06ZY896ZM_v2_scene_01.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "aspiradora portátil",
+            "raw": "9|aspiradora portátil"
+          }
+        ],
+        "features": [
+          "Practical: A mini vacuum for car or truck that is compact, lightweight (2.4 lbs), and easy to use. The large dust bin capacity is ready for ash, dust, or drive-thru food spills. A fully loaded interior car detailing kit housed in an ergonomic design.",
+          "Effective: Made for on-the-go use and to solve out-of-reach problems. A very sandy day at the beach? A coat of dog hair? The portable vacuum cleaner for car is designed to solve problems.",
+          "Powerful: The cyclonic force and strong suction of the 106w motor will terminate any dirt or debris; say goodbye to hard-to-reach crumbs stuck under the driver’s seat. Our mini car vacuum even has a top of the line washable HEPA filter.",
+          "Interior Car Cleaning Kit Includes: 3 attachments (flathead, extendable, or brush nozzle) for detailing, carry bag, filter brush, and spare HEPA filter. Must have car accessories for men or women; these gadgets will keep the interior cute and tidy.",
+          "Convenient: Is the battery always dying when you need a car vac? These truck accessories for men & women use the 12v aux outlet for power. The 16 foot cord gives you the slack you need to clean the backseats or trunk without a snag."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Lifeline AAA Road Kit",
+        "productId": "B07XKGWNP8",
+        "productName": "Lifeline AAA Road Kit",
+        "filename": "B07XKGWNP8.mp4",
+        "asin": "B07XKGWNP8",
+        "clipDuration": 60.03,
+        "estimatedAudioSeconds": null,
+        "framework": "problema_solucion",
+        "narracionSegments": null,
+        "content": [
+          "The Road Guardian- The portable roadside assistance kit is designed and hand picked by a group of experienced veterans and experts to provide every essential tools you need in road",
+          "Su precio actual en Amazon ronda los... 120 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Lifeline AAA Road Kit"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07XKGWNP8_combined.mp4",
+        "precio": "$120",
+        "productPhoto": "https://m.media-amazon.com/images/I/71p9FLhJlEL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07XKGWNP8\\scenes_v1\\B07XKGWNP8_scene_01.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "kit de emergencia",
+            "raw": "9|kit de emergencia"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07XKGWNP8\\scenes_v3\\B07XKGWNP8_v3_scene_05.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "kit de emergencia",
+            "raw": "9|kit de emergencia"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07XKGWNP8\\scenes_v3\\B07XKGWNP8_v3_scene_10.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "compresor de aire",
+            "raw": "9|compresor de aire"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07XKGWNP8\\scenes_v3\\B07XKGWNP8_v3_scene_11.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "compresor inflador",
+            "raw": "9|compresor inflador"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07XKGWNP8\\scenes_v3\\B07XKGWNP8_v3_scene_12.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "cables de arranque",
+            "raw": "9|cables de arranque"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07XKGWNP8\\scenes_v3\\B07XKGWNP8_v3_scene_13.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción herramienta",
+            "raw": "9|interacción herramienta"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07XKGWNP8\\scenes_v3\\B07XKGWNP8_v3_scene_04.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "kit de emergencia",
+            "raw": "8|kit de emergencia"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07XKGWNP8\\scenes_v3\\B07XKGWNP8_v3_scene_09.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "kit de emergencia",
+            "raw": "8|kit de emergencia"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07XKGWNP8\\scenes_v3\\B07XKGWNP8_v3_scene_14.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "kit de emergencia",
+            "raw": "8|kit de emergencia"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07XKGWNP8\\scenes_v3\\B07XKGWNP8_v3_scene_15.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "kit de emergencia",
+            "raw": "8|kit de emergencia"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07XKGWNP8\\scenes_v3\\B07XKGWNP8_v3_scene_06.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "kit de primeros auxilios",
+            "raw": "5|kit de primeros auxilios"
+          }
+        ],
+        "features": [
+          "The Road Guardian- The portable roadside assistance kit is designed and hand picked by a group of experienced veterans and experts to provide every essential tools you need in roadside emergencies. The automotive safety bag contains accessories such as repair cable ties, bungee cords, electrical tape, space blanket, rain poncho, reflective warning triangle, glass breaker, seatbelt cutter, safety gloves, tow rope and more to get your vehicle back on the road and continue your travel.",
+          "Top-Notch Digital Auto Tire Inflator- lightweight and compact air compressor can inflate your standard vehicles tire in seconds. With auto shutoff function, simply plug it into the 12v power outlet and attach the stem to the tire valve, preset the tire pressure and press the power button. The compressor starts the inflating process and stop once your tire reaches at your preset level. This cool gadget also has led light for winter nighttime and three extra nozzles for inflammable bed, others",
+          "Copper-Clad Aluminum 12 Feet 8 Gauge Jumper Cable- A durable battery starter cable is a must-have for your trip. Unlike other kits on the market, our jumper cable has reasonable length to get your cars connected. 8 gauge wires and 300 amp output is more than enough to get your standard vehicle started. UL listed heavy-duty battery jumper cables make you physically and environmentally safer and more reliable.",
+          "Completed 108 Pieces First Aid Kit- By having a completed first aid kit, provide you and your family proper basic wound/hygiene treatment before it possibly get worsened during your road trip. Our kit includes alcohol pads, bandages, cotton tips, knuckle bandages, butterfly bandages, wound pad, sting relief pads, gloves, tape, dressing, PBT bandage, CPR mask, tweezer, safety pins, soap wipe, disinfect wipe, adhesive wound pad, triangular bandage, finger bandage.",
+          "Veteran Owned Company 5-Star Customer Support- Everlit is committed into providing the most comprehensive customer service. We proudly offer the exclusive 60-days hassle-free return among all products. We stand behind the quality of our inventory; all original Everlit products are covered with a 1-year satisfaction warranty."
+        ]
+      }
+    ],
+    "totalDuration": 250
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      null
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "4:40",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "coche",
+    "necesita",
+    "amazon"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 10 Gadgets que Tu Coche Necesita en Amazon",
+      "angle": "Top 10 Gadgets que Tu Coche Necesita en Amazon",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 10,
+      "introScript": "¿Imagina cargar tu teléfono sin cables mientras un purificador elimina olores en segundos? ¿O ajustar la temperatura con un simple toque desde tu móvil? Estos gadgets para tu coche son tan revolucionarios que no podrás creer que existan. Hoy te presentamos los 10 dispositivos más impresionantes que transformarán tu coche en un vehículo del futuro.",
+      "keywords": [
+        "gadgets",
+        "coche",
+        "necesita",
+        "amazon"
+      ],
+      "estimatedViews": 4411,
+      "bestPublishTime": "2026-05-29T20:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "ROAV Viva",
+          "searchTermEn": "ROAV Viva Alexa Car Charger",
+          "id": "B09Q6CZDNY",
+          "filename": "B09Q6CZDNY.mp4"
+        },
+        {
+          "nombre": "Nonda ZUS Smart Charger",
+          "searchTermEn": "Nonda ZUS Smart Charger",
+          "id": "B0GYRT77QQ",
+          "filename": "B0GYRT77QQ.mp4"
+        },
+        {
+          "nombre": "Hudway Glass",
+          "searchTermEn": "Hudway Glass Head-Up Display",
+          "id": "B0DBVPTD7T",
+          "filename": "B0DBVPTD7T.mp4"
+        },
+        {
+          "nombre": "Garmin Dash Cam Mini 2",
+          "searchTermEn": "Garmin Dash Cam Mini 2",
+          "id": "B0931YZ82P",
+          "filename": "B0931YZ82P.mp4"
+        },
+        {
+          "nombre": "Tile Mate",
+          "searchTermEn": "Tile Mate Key Finder",
+          "id": "B0D63657GY",
+          "filename": "B0D63657GY.mp4"
+        },
+        {
+          "nombre": "Yosh Magnetic Mount",
+          "searchTermEn": "Yosh Magnetic Car Mount",
+          "id": "B0F3232J94",
+          "filename": "B0F3232J94.mp4"
+        },
+        {
+          "nombre": "Anker Roav SmartCharge T2",
+          "searchTermEn": "Anker Roav SmartCharge T2",
+          "id": "B07VFT4D6B",
+          "filename": "B07VFT4D6B.mp4"
+        },
+        {
+          "nombre": "FIXD Sensor",
+          "searchTermEn": "FIXD OBD2 Professional Scan Tool",
+          "id": "B00652G4TS",
+          "filename": "B00652G4TS.mp4"
+        },
+        {
+          "nombre": "ThisWorx Car Vacuum",
+          "searchTermEn": "ThisWorx Car Vacuum Cleaner",
+          "id": "B06ZY896ZM",
+          "filename": "B06ZY896ZM.mp4"
+        },
+        {
+          "nombre": "Lifeline AAA Road Kit",
+          "searchTermEn": "Lifeline AAA Premium Road Kit",
+          "id": "B07XKGWNP8",
+          "filename": "B07XKGWNP8.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-05-25T21:28:17.878Z",
+      "_requestedCount": 10,
+      "_adaptedCount": 10,
+      "introProductsOrder": [
+        {
+          "nombre": "Tile Mate",
+          "id": "B0D63657GY",
+          "filename": "B0D63657GY_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0D63657GY_combined.mp4"
+        },
+        {
+          "nombre": "FIXD Sensor",
+          "id": "B00652G4TS",
+          "filename": "B00652G4TS_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B00652G4TS_combined.mp4"
+        },
+        {
+          "nombre": "Yosh Magnetic Mount",
+          "id": "B0F3232J94",
+          "filename": "B0F3232J94_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0F3232J94_combined.mp4"
+        },
+        {
+          "nombre": "Lifeline AAA Road Kit",
+          "id": "B07XKGWNP8",
+          "filename": "B07XKGWNP8_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07XKGWNP8_combined.mp4"
+        },
+        {
+          "nombre": "ThisWorx Car Vacuum",
+          "id": "B06ZY896ZM",
+          "filename": "B06ZY896ZM_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B06ZY896ZM_combined.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1779747055481_4kk5jl"
+    },
+    "generatedAt": "2026-05-25T22:12:52.416Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "ROAV Viva",
+        "searchTermEn": "ROAV Viva Alexa Car Charger",
+        "id": "B09Q6CZDNY",
+        "filename": "B09Q6CZDNY.mp4"
+      },
+      {
+        "nombre": "Nonda ZUS Smart Charger",
+        "searchTermEn": "Nonda ZUS Smart Charger",
+        "id": "B0GYRT77QQ",
+        "filename": "B0GYRT77QQ.mp4"
+      },
+      {
+        "nombre": "Hudway Glass",
+        "searchTermEn": "Hudway Glass Head-Up Display",
+        "id": "B0DBVPTD7T",
+        "filename": "B0DBVPTD7T.mp4"
+      },
+      {
+        "nombre": "Garmin Dash Cam Mini 2",
+        "searchTermEn": "Garmin Dash Cam Mini 2",
+        "id": "B0931YZ82P",
+        "filename": "B0931YZ82P.mp4"
+      },
+      {
+        "nombre": "Tile Mate",
+        "searchTermEn": "Tile Mate Key Finder",
+        "id": "B0D63657GY",
+        "filename": "B0D63657GY.mp4"
+      },
+      {
+        "nombre": "Yosh Magnetic Mount",
+        "searchTermEn": "Yosh Magnetic Car Mount",
+        "id": "B0F3232J94",
+        "filename": "B0F3232J94.mp4"
+      },
+      {
+        "nombre": "Anker Roav SmartCharge T2",
+        "searchTermEn": "Anker Roav SmartCharge T2",
+        "id": "B07VFT4D6B",
+        "filename": "B07VFT4D6B.mp4"
+      },
+      {
+        "nombre": "FIXD Sensor",
+        "searchTermEn": "FIXD OBD2 Professional Scan Tool",
+        "id": "B00652G4TS",
+        "filename": "B00652G4TS.mp4"
+      },
+      {
+        "nombre": "ThisWorx Car Vacuum",
+        "searchTermEn": "ThisWorx Car Vacuum Cleaner",
+        "id": "B06ZY896ZM",
+        "filename": "B06ZY896ZM.mp4"
+      },
+      {
+        "nombre": "Lifeline AAA Road Kit",
+        "searchTermEn": "Lifeline AAA Premium Road Kit",
+        "id": "B07XKGWNP8",
+        "filename": "B07XKGWNP8.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 10 Gadgets que Tu Coche Necesita en Amazon\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\nRastrea todo en segundos sin estrés. Diagnostica tu auto al instante. Sujeta firmemente tu móvil mientras conduces. Prepárate para cualquier emergencia en la carretera. Limpia cada rincón de tu coche rápidamente.\n\n[0:10-0:15] INTRODUCTION\nSuscríbete y descubre todos los enlaces en el primer comentario.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] ROAV VIVA\nPor tan solo 55 dólares, el ROAV Viva te ofrece acceso a miles de habilidades de Alexa desde tu automóvil. Sus puertos USB-C y USB-A permiten una carga múltiple optimizada, acompañado de micrófonos duales que garantizan un reconocimiento de voz impecable. Es ideal para quienes desean la máxima conectividad con su móvil en cualquier viaje.\nSu precio actual en Amazon ronda los... 55 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: ROAV Viva]\n\n[0:25] NONDA ZUS SMART CHARGER\n\"Más del 80% de las baterías sufren desgaste por sobrecarga\". El Nonda ZUS Smart Charger evita este problema con su desconexión automática al alcanzar carga completa, asegurando así la longevidad de tus dispositivos. Este cargador es compatible con USB-C y perfecto para uso nocturno sin preocupaciones.\nSu precio actual en Amazon ronda los... 18 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Nonda ZUS Smart Charger]\n\n[0:25] HUDWAY GLASS\n\"Siente cómo la tecnología transforma cada viaje\" con Hudway Glass proyectando información directamente frente a tus ojos. Este dispositivo no solo mejora tu experiencia visual, sino que también te mantiene seguro al compartir datos clave sin desviar tu mirada del camino.\nSu precio actual en Amazon ronda los... 16 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Hudway Glass]\n\n[0:25] GARMIN DASH CAM MINI 2\n\"¿Nunca tienes evidencia clara después de un incidente?\" La Garmin Dash Cam Mini 2 se monta discretamente y capta videos HD nítidos día y noche para asegurar que siempre tengas prueba grabada desde tu automóvil.\n\"Su precio actual en Amazon ronda los... 139 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Garmin Dash Cam Mini 2]\n\n[0:25] TILE MATE\nEl Tile Mate es el rastreador perfecto para tus objetos cotidianos. Puedes proteger todo, desde llaves hasta bolsos, con esta innovadora app de seguridad familiar. Activa SOS discretamente para situaciones de emergencia.\nSu precio actual en Amazon ronda los 20 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Tile Mate]\n\n[0:25] YOSH MAGNETIC MOUNT\nEl Yosh Magnetic Mount ofrece carga inalámbrica rápida de 15W con seguridad superior gracias a un chip de enfriamiento y ventilación turbo. Diseñado especialmente para Mercedes-Benz, asegura una instalación estable.\nSu precio actual en Amazon ronda los 30 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Yosh Magnetic Mount]\n\n[0:25] ANKER ROAV SMARTCHARGE T2\nEl Anker Roav SmartCharge T2 elimina la búsqueda manual de frecuencias vacías con su función de búsqueda automática. Disfruta de llamadas nítidas y música gracias a la tecnología Bluetooth 4.2.\nSu precio actual en Amazon ronda los 26 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Anker Roav SmartCharge T2]\n\n[0:25] FIXD SENSOR\n\"Con el FIXD Sensor lee y borra códigos de diagnóstico como un mecánico profesional desde tu dispositivo móvil. Compatible con Bluetooth, ofrece monitoreo en tiempo real mientras conduces.\"\n\n\n[VISUALS: Product image: FIXD Sensor]\n\n[0:25] THISWORX CAR VACUUM\nPractical: A mini vacuum for car or truck that is compact, lightweight (2.4 lbs), and easy to use. The large dust bin capacity is ready for ash, dust, or drive-thru food spills. A \nSu precio actual en Amazon ronda los... 19 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: ThisWorx Car Vacuum]\n\n[0:25] LIFELINE AAA ROAD KIT\nThe Road Guardian- The portable roadside assistance kit is designed and hand picked by a group of experienced veterans and experts to provide every essential tools you need in road\nSu precio actual en Amazon ronda los... 120 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Lifeline AAA Road Kit]\n\n[10 seconds] CONCLUSION\nundefined\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 4:40\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, coche, necesita, amazon\n"
+}

@@ -1,0 +1,136 @@
+{
+  "title": "Top 1 Gadget Revolucionario para Mejorar tu Cocina",
+  "hook": {
+    "type": "statement",
+    "text": "¿Sabías que el 74% de la gente pierde calidad en sus comidas por no controlar la cocción al detalle? La solución está en un dispositivo que perfecciona tus platos al nivel de un restaurante cinco estrellas. Los enlaces para conseguirlo te esperan en el primer comentario. Mira esto.",
+    "duration": "0:00-0:15"
+  },
+  "introduction": {
+    "greeting": "",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0s"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Anova Culinary Sous Vide Precision Cooker",
+        "productId": "B07C7PW3PC",
+        "productName": "Anova Culinary Sous Vide Precision Cooker",
+        "filename": "B07C7PW3PC.mp4",
+        "asin": "B07C7PW3PC",
+        "videoDuration": 30.085633,
+        "estimatedAudioSeconds": 28,
+        "framework": "problema_solucion",
+        "narracionSegments": null,
+        "content": [
+          "¿Cocinar sin errores? ¿Molestarte jamás por cortes secos? Anova Precision Cooker Nano prepara tu comida con precisión inigualable, manteniendo el sabor y la humedad. Ello circula agua exacta entre cero a noventa y dos grados. Desde pollo hasta vegetales, sus platos resultan tiernos y jugosos. Y luego de usar, solo guárdalo fácilmente en un cajón.",
+          "Lo encuentras en Amazon por apenas sesenta y ocho dólares. Detalles en el primer comentario."
+        ],
+        "visuals": [
+          "Product image: Anova Culinary Sous Vide Precision Cooker"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07C7PW3PC.mp4",
+        "precio": "$68",
+        "productPhoto": "https://m.media-amazon.com/images/I/41JqTXQsYtL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "Resultados perfectos cada vez: Nunca vuelvas a cocinar tu comida en exceso o insuficientemente. El Anova Precision Cooker Nano circula agua a la temperatura exacta requerida para comidas perfectamente cocinadas, sin importar lo que haya en tu menú. Temperatura: 0˚-92˚C (32˚-197˚F) | +/- 0.1˚C (0.2˚F) de precisión.",
+          "Qué cocinar: La cocción sous vide (pronunciado “sue-veed”) ofrece el nivel perfecto de cocción para pollo, pescado, verduras, huevos, carne de res, cordero, cerdo y más. La capacidad de retener el sabor y la humedad durante el proceso de cocción resulta en una textura y un sabor que no tienen comparación.",
+          "Pequeño pero poderoso: El 12.8″ Anova Precision Cooker Nano se guarda en cualquier cajón de cocina junto al batidor y la cuchara, así tus encimeras se mantienen despejadas y tu nueva herramienta de cocina favorita está al alcance. Nano se adhiere fácilmente a cualquier olla o recipiente con una abrazadera fija, y está construido de plástico superduradero que es fácil de limpiar.",
+          "Anova App (gratis): Cocedor de precisión - Controla tu cocción directamente en la app o en el propio cocedor.",
+          "Anova App (suscripción): Por $1.99 al mes o $9.99 al año (cancelar suscripción en cualquier momento), obtén acceso al contenido educativo y guías de cocina sous vide más completo. Recetas de chefs profesionales y de la comunidad de amantes de la comida se envían directamente a tu Precision Cooker con solo tocar un botón. Acceso continuo a tus recetas personales e historial de cocina, listo para revisar o compartir con tus amigos y familiares. Incluida prueba gratuita de dos semanas."
+        ],
+        "originalVideoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07C7PW3PC.mp4"
+      }
+    ],
+    "totalDuration": 40
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "¿Cuál de estos innovadores productos mejoraría tu cocina? Dale like y explora los links en el primer comentario."
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "",
+    "like": "",
+    "comment": "",
+    "nextVideo": "",
+    "duration": "0 seconds"
+  },
+  "duration": "1:10",
+  "tone": "engaging",
+  "tone_variant": "directo y urgente, como si el producto se agotara mañana",
+  "pacing": "quick",
+  "keywords": [
+    "gadget",
+    "revolucionario",
+    "para",
+    "mejorar",
+    "cocina"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 1 Gadget Revolucionario para Mejorar tu Cocina",
+      "angle": "Top 1 Gadget Revolucionario para Mejorar tu Cocina",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 1,
+      "introScript": "¿Te imaginas un gadget que transforme tu cocina en un lugar futurista? Hoy te sorprenderemos con un dispositivo que no solo te ahorrará tiempo, sino que también añadirá un toque de inteligencia a tus tareas diarias. Con funcionalidades que permitirán cocinar de manera más precisa y eficiente, este innovador producto es perfecto tanto para novatos como para chefs experimentados. Prepárate para llevar tus habilidades culinarias a otro nivel con una herramienta totalmente inesperada. Quédate con nosotros para descubrir cómo este gadget puede cambiar tu rutina de cocina para siempre.",
+      "keywords": [
+        "gadget",
+        "revolucionario",
+        "para",
+        "mejorar",
+        "cocina"
+      ],
+      "estimatedViews": 6020,
+      "bestPublishTime": "2026-09-25T18:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Anova Culinary Sous Vide Precision Cooker",
+          "searchTermEn": "Sous vide precision cooker",
+          "id": "B07C7PW3PC",
+          "filename": "B07C7PW3PC.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-09-24T18:14:32.922Z",
+      "_requestedCount": 1,
+      "_adaptedCount": 1,
+      "introProductsOrder": [
+        {
+          "nombre": "Anova Culinary Sous Vide Precision Cooker",
+          "id": "B07C7PW3PC",
+          "filename": "B07C7PW3PC.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07C7PW3PC.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1790273736888_hr10ti"
+    },
+    "generatedAt": "2026-09-24T18:15:44.048Z",
+    "version": "4.0-dynamic-rotator",
+    "productos": [
+      {
+        "nombre": "Anova Culinary Sous Vide Precision Cooker",
+        "searchTermEn": "Sous vide precision cooker",
+        "id": "B07C7PW3PC",
+        "filename": "B07C7PW3PC.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 1 Gadget Revolucionario para Mejorar tu Cocina\n\n══════════════════════════════════════════════════\n\n[0:00-0:15] HOOK\n¿Sabías que el 74% de la gente pierde calidad en sus comidas por no controlar la cocción al detalle? La solución está en un dispositivo que perfecciona tus platos al nivel de un restaurante cinco estrellas. Los enlaces para conseguirlo te esperan en el primer comentario. Mira esto.\n\n[0s] INTRODUCTION\n\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] ANOVA CULINARY SOUS VIDE PRECISION COOKER\n¿Cocinar sin errores? ¿Molestarte jamás por cortes secos? Anova Precision Cooker Nano prepara tu comida con precisión inigualable, manteniendo el sabor y la humedad. Ello circula agua exacta entre cero a noventa y dos grados. Desde pollo hasta vegetales, sus platos resultan tiernos y jugosos. Y luego de usar, solo guárdalo fácilmente en un cajón.\nLo encuentras en Amazon por apenas sesenta y ocho dólares. Detalles en el primer comentario.\n\n[VISUALS: Product image: Anova Culinary Sous Vide Precision Cooker]\n\n[10 seconds] CONCLUSION\n¿Cuál de estos innovadores productos mejoraría tu cocina? Dale like y explora los links en el primer comentario.\n\n\n\n[0 seconds] CALL TO ACTION\n\n\n\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:10\nTONE: engaging\nPACING: quick\nKEYWORDS: gadget, revolucionario, para, mejorar, cocina\n"
+}

@@ -1,0 +1,172 @@
+{
+  "title": "3 gadgets para tu cocina que no sabías que necesitabas",
+  "hook": {
+    "type": "statement",
+    "text": "Esta herramienta pesa y corta al mismo tiempo. Estas cubiertas se ajustan a cualquier envase. Este dispositivo limpia tus frutas sin esfuerzo.",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "Suscríbete, los links están en el primer comentario. Empecemos.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0:10-0:15"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Cortador y Balanza Plegable",
+        "productId": "prod_1",
+        "productName": "Cortador y Balanza Plegable",
+        "filename": "B09XLG3YQB.mp4",
+        "content": [
+          "Cansado de medir y cortar ingredientes por separado. El Cortador y Balanza Plegable hace ambas tareas en un solo paso. Su diseño compacto lo hace ideal para cocinas pequeñas.",
+          "Su precio actual en Amazon ronda los... 15 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Cortador y Balanza Plegable"
+        ],
+        "duration": 25,
+        "precio": "$15",
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B09XLG3YQB.mp4"
+      },
+      {
+        "type": "content",
+        "title": "Tapas de Silicona Elásticas",
+        "productId": "prod_2",
+        "productName": "Tapas de Silicona Elásticas",
+        "filename": "B0CHZ69ZFN.mp4",
+        "content": [
+          "Guardar sobras en el refrigerador a menudo significa usar plástico innecesario. Las Tapas de Silicona Elásticas se expanden para sellar cualquier recipiente sin problemas. Son reutilizables y aptas para lavavajillas, ayudando al planeta.",
+          "Su precio actual en Amazon ronda los... 20 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Tapas de Silicona Elásticas"
+        ],
+        "duration": 25,
+        "precio": "$20",
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0CHZ69ZFN.mp4"
+      },
+      {
+        "type": "content",
+        "title": "Limpiador de Frutas Inalámbrico",
+        "productId": "prod_3",
+        "productName": "Limpiador de Frutas Inalámbrico",
+        "filename": "B0FBR9XKHX.mp4",
+        "content": [
+          "Preocupado por los pesticidas en tus frutas. El Limpiador de Frutas Inalámbrico elimina impurezas sin químicos dañinos. Su carga inalámbrica lo hace perfecto para llevarlo a todas partes.",
+          "Su precio actual en Amazon ronda los... 25 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Limpiador de Frutas Inalámbrico"
+        ],
+        "duration": 25,
+        "precio": "$25",
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0FBR9XKHX.mp4"
+      }
+    ],
+    "totalDuration": 75
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "Dale like y recuerda que los links están en el primer comentario."
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:45",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "para",
+    "cocina",
+    "sabas",
+    "necesitabas"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "3 gadgets para tu cocina que no sabías que necesitabas",
+      "angle": "3 gadgets para tu cocina que no sabías que necesitabas",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 3,
+      "introScript": "¿Buscas revolucionar tu cocina con gadgets innovadores? Descubre un cortador que es también una balanza plegable, unas tapas de silicona que se adaptan a todo y un limpiador de frutas inalámbrico que simplificará tu vida. Prepárate para conocer cómo estos productos pueden transformar tu experiencia culinaria.",
+      "keywords": [
+        "gadgets",
+        "para",
+        "cocina",
+        "sabas",
+        "necesitabas"
+      ],
+      "estimatedViews": 6400,
+      "bestPublishTime": "2026-04-19T15:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "id": "B09XLG3YQB",
+          "nombre": "Cortador y Balanza Plegable",
+          "filename": "B09XLG3YQB.mp4",
+          "precio": 15,
+          "searchTermEn": "Cortador y Balanza Plegable"
+        },
+        {
+          "id": "B0CHZ69ZFN",
+          "nombre": "Tapas de Silicona Elásticas",
+          "filename": "B0CHZ69ZFN.mp4",
+          "precio": 20,
+          "searchTermEn": "Tapas de Silicona Elásticas"
+        },
+        {
+          "id": "B0FBR9XKHX",
+          "nombre": "Limpiador de Frutas Inalámbrico",
+          "filename": "B0FBR9XKHX.mp4",
+          "precio": 25,
+          "searchTermEn": "Limpiador de Frutas Inalámbrico"
+        }
+      ],
+      "_sourceFile": "productos_locales.json",
+      "createdAt": "2026-04-13T17:50:30.024Z",
+      "_requestedCount": 3,
+      "_adaptedCount": 3,
+      "_scriptNonce": "nonce_1776102630036_rw5f9q"
+    },
+    "generatedAt": "2026-04-13T17:50:34.138Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "id": "B09XLG3YQB",
+        "nombre": "Cortador y Balanza Plegable",
+        "filename": "B09XLG3YQB.mp4",
+        "precio": 15,
+        "searchTermEn": "Cortador y Balanza Plegable"
+      },
+      {
+        "id": "B0CHZ69ZFN",
+        "nombre": "Tapas de Silicona Elásticas",
+        "filename": "B0CHZ69ZFN.mp4",
+        "precio": 20,
+        "searchTermEn": "Tapas de Silicona Elásticas"
+      },
+      {
+        "id": "B0FBR9XKHX",
+        "nombre": "Limpiador de Frutas Inalámbrico",
+        "filename": "B0FBR9XKHX.mp4",
+        "precio": 25,
+        "searchTermEn": "Limpiador de Frutas Inalámbrico"
+      }
+    ]
+  },
+  "fullScript": "TITLE: 3 gadgets para tu cocina que no sabías que necesitabas\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\nEsta herramienta pesa y corta al mismo tiempo. Estas cubiertas se ajustan a cualquier envase. Este dispositivo limpia tus frutas sin esfuerzo.\n\n[0:10-0:15] INTRODUCTION\nSuscríbete, los links están en el primer comentario. Empecemos.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] CORTADOR Y BALANZA PLEGABLE\nCansado de medir y cortar ingredientes por separado. El Cortador y Balanza Plegable hace ambas tareas en un solo paso. Su diseño compacto lo hace ideal para cocinas pequeñas.\nSu precio actual en Amazon ronda los... 15 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Cortador y Balanza Plegable]\n\n[0:25] TAPAS DE SILICONA ELÁSTICAS\nGuardar sobras en el refrigerador a menudo significa usar plástico innecesario. Las Tapas de Silicona Elásticas se expanden para sellar cualquier recipiente sin problemas. Son reutilizables y aptas para lavavajillas, ayudando al planeta.\nSu precio actual en Amazon ronda los... 20 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Tapas de Silicona Elásticas]\n\n[0:25] LIMPIADOR DE FRUTAS INALÁMBRICO\nPreocupado por los pesticidas en tus frutas. El Limpiador de Frutas Inalámbrico elimina impurezas sin químicos dañinos. Su carga inalámbrica lo hace perfecto para llevarlo a todas partes.\nSu precio actual en Amazon ronda los... 25 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Limpiador de Frutas Inalámbrico]\n\n[10 seconds] CONCLUSION\nDale like y recuerda que los links están en el primer comentario.\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:45\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, para, cocina, sabas, necesitabas\n"
+}

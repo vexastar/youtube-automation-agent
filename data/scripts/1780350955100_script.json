@@ -1,0 +1,782 @@
+{
+  "title": "Top 7 Gadgets Smart que Debes Tener en Casa",
+  "hook": {
+    "type": "statement",
+    "text": "Luces ambiente personalizadas al instante. Control térmico remoto eficiente. Sonido inmersivo en cada habitación. Limpieza automática, siempre perfecta. Seguridad y acceso a un toque.",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "Suscríbete para más gadgets geniales. Links en el primer comentario.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "25s-30s"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Philips Hue Starter Kit",
+        "productId": "B096YFWVVS",
+        "productName": "Philips Hue Starter Kit",
+        "filename": "B096YFWVVS.mp4",
+        "asin": "B096YFWVVS",
+        "clipDuration": 60.03,
+        "estimatedAudioSeconds": 42,
+        "framework": "problema_solucion",
+        "narracionSegments": null,
+        "content": [
+          "¿Cansado de la iluminación monótona en casa? El Philips Hue Starter Kit transforma tus espacios con millones de colores y ambientes ajustables. Con el Hue Bridge, controla las luces desde cualquier lugar sin agotar tu Wi-Fi, mejorando tu día a día con automatizaciones sencillas.",
+          "Su precio actual en Amazon ronda los... 103 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Philips Hue Starter Kit"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B096YFWVVS_combined.mp4",
+        "precio": "$103",
+        "productPhoto": "https://m.media-amazon.com/images/I/61kjVP0v1QL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B096YFWVVS\\scenes_v1\\B096YFWVVS_scene_01.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B096YFWVVS\\scenes_v1\\B096YFWVVS_scene_02.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción luz",
+            "raw": "9|interacción luz"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B096YFWVVS\\scenes_v1\\B096YFWVVS_scene_03.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          }
+        ],
+        "features": [
+          "¿QUÉ HAY EN LA CAJA? Incluye un Hue Bridge y dos bombillas LED inteligentes Hue white and color ambiance de 60W A19 E26, adecuadas para la mayoría de las luminarias; perfectas para la iluminación general en cualquier lugar de tu hogar.",
+          "DESBLOQUEA EL PODER DEL HUE BRIDGE: Disfruta de automatizaciones, controla desde cualquier lugar, una conexión segura y estable que no agotará tu Wi-Fi, utiliza Matter para conectar tus dispositivos a tu sistema de iluminación inteligente Hue.",
+          "MILLONES DE COLORES: La gama White & Color Ambiance ofrece blancos cálidos a fríos y millones de colores. Simplemente atorníllalo - nuestras bombillas LED inteligentes pueden atenuar, iluminar y establecer el ambiente al instante.",
+          "DISFRUTA DE ESCENAS PREDETERMINADAS: Ilumina tus rutinas con las lámparas Hue a lo largo del día; establece una escena de luz natural de 24 horas que imita el sol o elige luces que te ayuden a concentrarte, relajarte y más.",
+          "CONTROL POR VOZ: Configura el control por voz en la aplicación Hue y utiliza comandos de voz simples para controlar tus luces Hue con Alexa o Google Assistant."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "iRobot Roomba i7+",
+        "productId": "B07GNPDMRP",
+        "productName": "iRobot Roomba i7+",
+        "filename": "B07GNPDMRP.mp4",
+        "asin": "B07GNPDMRP",
+        "clipDuration": 60.03,
+        "estimatedAudioSeconds": 46,
+        "framework": "enfoque_caracteristica",
+        "narracionSegments": null,
+        "content": [
+          "Equipado con mapeo inteligente, el iRobot Roomba i7+ diferencia tu cocina del salón para limpiar eficazmente donde lo necesites. Control manual o de voz, y zonas restringidas: limpieza óptima garantizada.",
+          "Su precio actual en Amazon ronda los... 600 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: iRobot Roomba i7+"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07GNPDMRP_combined.mp4",
+        "precio": "$600",
+        "productPhoto": "https://m.media-amazon.com/images/I/61i8b1-5kcL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07GNPDMRP\\scenes_v1\\B07GNPDMRP_scene_03.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Roomba en uso",
+            "raw": "9|Roomba en uso"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07GNPDMRP\\scenes_v1\\B07GNPDMRP_scene_05.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "robot aspirador",
+            "raw": "9|robot aspirador"
+          }
+        ],
+        "features": [
+          "SIEMPRE VOLVIÉNDOSE MÁS INTELIGENTE - Calidad que dura; Inteligencia que crece; equipado con hardware avanzado capaz de proporcionar las características inteligentes que amas hoy, y acceso a nuestros últimos avances en el futuro.",
+          "CONTROL TOTAL DE TU LIMPIEZA - Con Smart Mapping, tu robot conoce tu cocina desde tu sala de estar, así que puedes decidir dónde limpia y cuándo; Con Keep Out Zones, tu robot sabe que debe evitar áreas sensibles como los comederos de mascotas o las zonas de juego.",
+          "Roomba, LIMPIA MI COCINA - Disfruta del control manos libres con Alexa y el asistente de Google*.",
+          "SIEMPRE VOLVIÉNDOSE MÁS INTELIGENTE - Calidad que perdura; Inteligencia que crece; equipado con hardware avanzado capaz de proporcionar las características inteligentes que amas hoy, y acceso a nuestros últimos avances en el futuro."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Ecobee SmartThermostat",
+        "productId": "B0DT9MC2Z9",
+        "productName": "Ecobee SmartThermostat",
+        "filename": "B0DT9MC2Z9.mp4",
+        "asin": "B0DT9MC2Z9",
+        "clipDuration": 59.86,
+        "estimatedAudioSeconds": null,
+        "framework": "beneficio_oculto",
+        "narracionSegments": null,
+        "content": [
+          "\"¿Sabías que este termostato no solo regula la temperatura? Ahorras hasta un 23% anual en energía adaptándose a tu horario y mantiene un confort óptimo cuando estás presente.\"",
+          "\"Su precio actual en Amazon ronda los... 140 dólares. ¡Link en el primer comentario!\""
+        ],
+        "visuals": [
+          "Product image: Ecobee SmartThermostat"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0DT9MC2Z9_combined.mp4",
+        "precio": "$140",
+        "productPhoto": "https://m.media-amazon.com/images/I/51yVvRtBLBL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DT9MC2Z9\\scenes_v1\\B0DT9MC2Z9_scene_01.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Termostato inteligente",
+            "raw": "9|Termostato inteligente"
+          }
+        ],
+        "features": [
+          "Ahorra hasta un 23% cada año en costos de calefacción y refrigeración, se ajusta a tu horario establecido para ahorrar energía cuando no estás y optimizar la comodidad cuando estás en casa. En comparación con un mantenimiento de 72.",
+          "Compatible con el 85% de los sistemas, verifica la compatibilidad de tu sistema con nuestro verificador de compatibilidad ecobee en la página de soporte de ecobee.",
+          "Cambia tu temperatura tocando fácilmente la pantalla táctil a color o utilizando la aplicación ecobee. Además, las actualizaciones de software gratuitas aseguran que obtengas lo mejor de tu Smart Thermostat Essential, durante años.",
+          "\"\"\"Se ajusta automáticamente a tu horario programado para ahorrar energía cuando no estás y optimizar la comodidad cuando estás en casa. Mantén un seguimiento de tu consumo de energía cuando estás fuera con la aplicación ecobee.\"\"\"",
+          "Instalación fácil de bricolaje. Sin C Wire, no hay problema. Consigue el ecobee Power Extender Kit (PEK) para hogares sin un C-Wire y mantén tus paredes luciendo bien con nuestro kit de moldura, ambos vendidos por separado."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "August Smart Lock Pro",
+        "productId": "B082VXK9CK",
+        "productName": "August Smart Lock Pro",
+        "filename": "B082VXK9CK.mp4",
+        "asin": "B082VXK9CK",
+        "clipDuration": 60.03,
+        "estimatedAudioSeconds": 32,
+        "framework": "comparacion_precio",
+        "narracionSegments": null,
+        "content": [
+          "La August Smart Lock Pro convierte tu cerradura convencional en una inteligente, haciendo el acceso más seguro y conveniente. Instálala fácilmente en solo 10 minutos.",
+          "Su precio actual en Amazon ronda los 240 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: August Smart Lock Pro"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B082VXK9CK_combined.mp4",
+        "precio": "$240",
+        "productPhoto": "https://m.media-amazon.com/images/I/61e592E6PqL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B082VXK9CK\\scenes_v1\\B082VXK9CK_scene_02.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "instalación cerradura",
+            "raw": "9|instalación cerradura"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B082VXK9CK\\scenes_v1\\B082VXK9CK_scene_04.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B082VXK9CK\\scenes_v1\\B082VXK9CK_scene_03.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "instalación cerradura",
+            "raw": "8|instalación cerradura"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B082VXK9CK\\scenes_v1\\B082VXK9CK_scene_05.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "cerradura inteligente",
+            "raw": "8|cerradura inteligente"
+          }
+        ],
+        "features": [
+          "MEJORA TU CERRADURA EXISTENTE: Las cerraduras inteligentes August se instalan en el interior de tu puerta, haciendo que tu cerradura convencional sea más inteligente, más segura y mucho más conveniente. Guarda tus llaves por si acaso (pero no las necesitarás).",
+          "\"\"\"CONCEDE ACCESO CON LA APLICACIÓN AUGUST: Olvídate de copiar llaves. Comparte de manera rápida y sencilla acceso permanente, programado o temporal a tu hogar con amigos, familiares y otras personas en las que confías, y nunca más escondas una llave debajo del felpudo.\"\"\"",
+          "FÁCIL DE INSTALAR EN CUALQUIER PUERTA: Incluso si no eres muy hábil, la instalación solo toma unos 10 minutos. Las cerraduras August se ajustan perfectamente sobre la mayoría de los cerrojos de un solo cilindro y no son mucho más grandes que tu giro de pulgar original.",
+          "\"\"\"CERRADURAS AUTOMÁTICAS Y DESBLOQUEOS: August Wi-Fi Smart Lock es capaz de Auto-Unlock al llegar a casa para un desbloqueo totalmente manos libres (opcional). Con Auto-Lock y DoorSense, tu hogar se asegura automáticamente una vez que la puerta está cerrada, o después de un tiempo establecido.\"\"\"",
+          "\"\"\"FUNCIONA SIN PROBLEMAS CON TU HOGAR INTELIGENTE: El Wi-Fi integrado permite que tu cerradura funcione con tu asistente de voz favorito, incluyendo Amazon Alexa, Google Assistant, Apple HomeKit, Samsung SmartThings y más.\"\"\""
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Ring Video Doorbell 3",
+        "productId": "B0BZWRSRWV",
+        "productName": "Ring Video Doorbell 3",
+        "filename": "B0BZWRSRWV.mp4",
+        "asin": "B0BZWRSRWV",
+        "clipDuration": 60.03,
+        "estimatedAudioSeconds": 30,
+        "framework": "dato_numerico",
+        "narracionSegments": null,
+        "content": [
+          "El Ring Video Doorbell 3 ofrece un 66% más de cobertura vertical con video de cabeza a pies. Responde a la actividad desde tu teléfono.",
+          "Su precio actual en Amazon ronda los 60 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Ring Video Doorbell 3"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0BZWRSRWV_combined.mp4",
+        "precio": "$60",
+        "productPhoto": "https://m.media-amazon.com/images/I/71J1tlAh5kL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BZWRSRWV\\scenes_v1\\B0BZWRSRWV_scene_05.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BZWRSRWV\\scenes_v1\\B0BZWRSRWV_scene_12.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BZWRSRWV\\scenes_v1\\B0BZWRSRWV_scene_14.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Interacción video",
+            "raw": "9|Interacción video"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BZWRSRWV\\scenes_v1\\B0BZWRSRWV_scene_19.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Interacción clara",
+            "raw": "9|Interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BZWRSRWV\\scenes_v1\\B0BZWRSRWV_scene_25.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Interacción clara",
+            "raw": "9|Interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BZWRSRWV\\scenes_v1\\B0BZWRSRWV_scene_27.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Interacción video",
+            "raw": "9|Interacción video"
+          }
+        ],
+        "features": [
+          "\"\"\"Ve más en tu hogar o negocio — Obtén un 66% más de cobertura vertical con la última versión del Video Doorbell (2nd Gen) más vendido de Ring, que ahora cuenta con Video de Cabeza a Pies.\"\"\"",
+          "Batería Incorporada — El timbre de puerta incluye una batería incorporada, que se carga con un conveniente puerto de carga USB-C. Para recargar, simplemente desengancha tu timbre de la pared y conéctalo al cable de carga incluido.",
+          "Instala en un instante: cárgalo, colócalo en su lugar y mantente conectado directamente desde tu teléfono.",
+          "Conéctate a quien está allí: Ve y responde a la actividad con Live View y Two-Way Talk.",
+          "Mantente informado: recibe alertas en tiempo real en tu teléfono cuando se detecta movimiento."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Sonos One SL Speaker",
+        "productId": "B0GJ78ZKF6",
+        "productName": "Sonos One SL Speaker",
+        "filename": "B0GJ78ZKF6.mp4",
+        "asin": "B0GJ78ZKF6",
+        "clipDuration": 60.03,
+        "estimatedAudioSeconds": 31,
+        "framework": "experiencia_sensorial",
+        "narracionSegments": null,
+        "content": [
+          "El Sonos One SL Speaker ofrece un sonido estéreo rico con graves profundos. Transmite por WiFi, Bluetooth o conecta un tocadiscos.",
+          "Su precio actual en Amazon ronda los 190 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Sonos One SL Speaker"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0GJ78ZKF6_combined.mp4",
+        "precio": "$190",
+        "productPhoto": "https://m.media-amazon.com/images/I/61HzMBSwADL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GJ78ZKF6\\scenes_v1\\B0GJ78ZKF6_scene_04.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GJ78ZKF6\\scenes_v1\\B0GJ78ZKF6_scene_01.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "altavoz Sonos",
+            "raw": "8|altavoz Sonos"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GJ78ZKF6\\scenes_v1\\B0GJ78ZKF6_scene_02.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "producto pequeño",
+            "raw": "5|producto pequeño"
+          }
+        ],
+        "features": [
+          "Tweeters angulados duales y un potente midwoofer ofrecen un sonido estéreo rico y equilibrado con graves profundos.",
+          "El comienzo o adición perfecta para tu sistema, Era 100 SL hace que el sonido de Sonos sea más accesible.",
+          "Transmite a través de WiFi, empareja por Bluetooth o conecta un tocadiscos y más con la entrada de línea.",
+          "\"Ve de desempaquetar a un sonido increíble en minutos con una rápida conexión y la aplicación Sonos.\"",
+          "Trueplay ajusta finamente el Era 100 SL para las acústicas únicas de la habitación."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Eufy Security Floodlight",
+        "productId": "B0DDTRM7DJ",
+        "productName": "Eufy Security Floodlight",
+        "filename": "B0DDTRM7DJ.mp4",
+        "asin": "B0DDTRM7DJ",
+        "clipDuration": 60.03,
+        "estimatedAudioSeconds": 31,
+        "framework": "problema_solucion",
+        "narracionSegments": null,
+        "content": [
+          "\"La Eufy Security Floodlight proporciona supervisión de 360° y claridad mejorada en 2K HD para garantizar seguridad total en tu propiedad.\"",
+          "\"Su precio actual en Amazon ronda los 130 dólares. ¡Link en el primer comentario!\""
+        ],
+        "visuals": [
+          "Product image: Eufy Security Floodlight"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0DDTRM7DJ_combined.mp4",
+        "precio": "$130",
+        "productPhoto": "https://m.media-amazon.com/images/I/41+mUA8GoAL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DDTRM7DJ\\scenes_v1\\B0DDTRM7DJ_scene_02.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Cámara de seguridad",
+            "raw": "9|Cámara de seguridad"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DDTRM7DJ\\scenes_v1\\B0DDTRM7DJ_scene_07.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Cámara de seguridad",
+            "raw": "9|Cámara de seguridad"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DDTRM7DJ\\scenes_v1\\B0DDTRM7DJ_scene_12.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Interfaz cámara",
+            "raw": "9|Interfaz cámara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DDTRM7DJ\\scenes_v1\\B0DDTRM7DJ_scene_13.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "cámara seguridad",
+            "raw": "9|cámara seguridad"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DDTRM7DJ\\scenes_v1\\B0DDTRM7DJ_scene_20.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "cámara seguridad",
+            "raw": "9|cámara seguridad"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DDTRM7DJ\\scenes_v1\\B0DDTRM7DJ_scene_21.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DDTRM7DJ\\scenes_v1\\B0DDTRM7DJ_scene_23.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Interacción cámara",
+            "raw": "9|Interacción cámara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DDTRM7DJ\\scenes_v1\\B0DDTRM7DJ_scene_26.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Instalación cámara",
+            "raw": "9|Instalación cámara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DDTRM7DJ\\scenes_v1\\B0DDTRM7DJ_scene_27.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Interacción cámara",
+            "raw": "9|Interacción cámara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DDTRM7DJ\\scenes_v1\\B0DDTRM7DJ_scene_28.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Instalación cámara",
+            "raw": "9|Instalación cámara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DDTRM7DJ\\scenes_v1\\B0DDTRM7DJ_scene_29.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "cámara seguridad",
+            "raw": "9|cámara seguridad"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DDTRM7DJ\\scenes_v1\\B0DDTRM7DJ_scene_30.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Interacción cámara",
+            "raw": "9|Interacción cámara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DDTRM7DJ\\scenes_v1\\B0DDTRM7DJ_scene_34.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Cámara de seguridad",
+            "raw": "9|Cámara de seguridad"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DDTRM7DJ\\scenes_v1\\B0DDTRM7DJ_scene_36.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Cámara de seguridad",
+            "raw": "9|Cámara de seguridad"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DDTRM7DJ\\scenes_v1\\B0DDTRM7DJ_scene_37.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Interfaz móvil",
+            "raw": "9|Interfaz móvil"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DDTRM7DJ\\scenes_v1\\B0DDTRM7DJ_scene_46.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Interacción cámara",
+            "raw": "9|Interacción cámara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DDTRM7DJ\\scenes_v1\\B0DDTRM7DJ_scene_50.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Cámara de seguridad",
+            "raw": "9|Cámara de seguridad"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DDTRM7DJ\\scenes_v1\\B0DDTRM7DJ_scene_49.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Interacción real",
+            "raw": "9|Interacción real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DDTRM7DJ\\scenes_v1\\B0DDTRM7DJ_scene_51.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Cámara de seguridad",
+            "raw": "9|Cámara de seguridad"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DDTRM7DJ\\scenes_v1\\B0DDTRM7DJ_scene_18.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "cámara seguridad",
+            "raw": "8|cámara seguridad"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DDTRM7DJ\\scenes_v1\\B0DDTRM7DJ_scene_41.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "cámara de seguridad",
+            "raw": "8|cámara de seguridad"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DDTRM7DJ\\scenes_v1\\B0DDTRM7DJ_scene_09.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "cámara exterior",
+            "raw": "5|cámara exterior"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DDTRM7DJ\\scenes_v1\\B0DDTRM7DJ_scene_19.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "producto pequeño",
+            "raw": "5|producto pequeño"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DDTRM7DJ\\scenes_v1\\B0DDTRM7DJ_scene_33.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "interfaz aplicación",
+            "raw": "5|interfaz aplicación"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DDTRM7DJ\\scenes_v1\\B0DDTRM7DJ_scene_38.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "cámara exterior",
+            "raw": "5|cámara exterior"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DDTRM7DJ\\scenes_v1\\B0DDTRM7DJ_scene_39.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "interacción móvil",
+            "raw": "5|interacción móvil"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DDTRM7DJ\\scenes_v1\\B0DDTRM7DJ_scene_43.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "persona caminando",
+            "raw": "5|persona caminando"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DDTRM7DJ\\scenes_v1\\B0DDTRM7DJ_scene_44.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "persona caminando",
+            "raw": "5|persona caminando"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DDTRM7DJ\\scenes_v1\\B0DDTRM7DJ_scene_47.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "teléfono móvil",
+            "raw": "5|teléfono móvil"
+          }
+        ],
+        "features": [
+          "\"\"\"Supervisión 360°, Tu Guardián Omnisciente: Disfruta de una cobertura completa de 360° de tu propiedad. Configura la cámara para patrullar automáticamente en un horario, o utiliza el control manual para ver cualquier ángulo en cualquier momento.\"\"\"",
+          "Detección de IA con Auto-Tracking: La tecnología de IA integrada detecta y sigue el movimiento de humanos y vehículos. Con panorámicas y inclinaciones automáticas, la cámara asegura que nunca pierdas de vista lo que es importante, mejorando la seguridad y proporcionando tranquilidad.",
+          "\"\"\"Claridad mejorada en 2K HD: Captura cada detalle con una nítida resolución 2K HD, ya sea grabando o transmitiendo en vivo. Los focos LED de 2,000 lúmenes activados por movimiento garantizan visibilidad a todo color incluso en condiciones de poca luz.\"\"\"",
+          "Conexión Wi-Fi Confiable y Estable: Mejorado con un Amplificador de Potencia (PA), este dispositivo aumenta significativamente la fuerza de la señal Wi-Fi. Experimenta capacidades superiores de penetración en paredes y un aumento del 50% en el rango de señal en comparación con conexiones estándar de 2.4GHz.",
+          "Grabación 24/7: Con una clasificación de resistencia al agua IP65 y alimentación constante a través de cableado, la cámara E30 proporciona grabación ininterrumpida, 24/7, en cualquier clima. Captura imágenes a todo color de día y de noche, sin perder ni un momento."
+        ]
+      }
+    ],
+    "totalDuration": 280
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      null
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "5:08",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "smart",
+    "debes",
+    "tener",
+    "casa"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 7 Gadgets Smart que Debes Tener en Casa",
+      "angle": "Top 7 Gadgets Smart que Debes Tener en Casa",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 7,
+      "introScript": "¿Imagina controlar toda la iluminación de tu hogar desde tu smartphone o gestionar la limpieza sin levantar un dedo? ¿Y qué tal un dispositivo que detecta cambios de temperatura y ajusta el ambiente automáticamente? Prepárate para descubrir gadgets que transformarán tu hogar en un espacio inteligente y con estilo.",
+      "keywords": [
+        "gadgets",
+        "smart",
+        "debes",
+        "tener",
+        "casa"
+      ],
+      "estimatedViews": 5021,
+      "bestPublishTime": "2026-06-06T15:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Philips Hue Starter Kit",
+          "searchTermEn": "philips hue starter kit",
+          "id": "B096YFWVVS",
+          "filename": "B096YFWVVS.mp4"
+        },
+        {
+          "nombre": "iRobot Roomba i7+",
+          "searchTermEn": "irobot roomba i7+ vacuum",
+          "id": "B07GNPDMRP",
+          "filename": "B07GNPDMRP.mp4"
+        },
+        {
+          "nombre": "Ecobee SmartThermostat",
+          "searchTermEn": "ecobee smart thermostat",
+          "id": "B0DT9MC2Z9",
+          "filename": "B0DT9MC2Z9.mp4"
+        },
+        {
+          "nombre": "August Smart Lock Pro",
+          "searchTermEn": "august smart lock pro",
+          "id": "B082VXK9CK",
+          "filename": "B082VXK9CK.mp4"
+        },
+        {
+          "nombre": "Ring Video Doorbell 3",
+          "searchTermEn": "ring video doorbell 3",
+          "id": "B0BZWRSRWV",
+          "filename": "B0BZWRSRWV.mp4"
+        },
+        {
+          "nombre": "Sonos One SL Speaker",
+          "searchTermEn": "sonos one SL speaker",
+          "id": "B0GJ78ZKF6",
+          "filename": "B0GJ78ZKF6.mp4"
+        },
+        {
+          "nombre": "Eufy Security Floodlight",
+          "searchTermEn": "eufy security floodlight camera",
+          "id": "B0DDTRM7DJ",
+          "filename": "B0DDTRM7DJ.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-06-01T21:25:59.651Z",
+      "_requestedCount": 7,
+      "_adaptedCount": 7,
+      "introProductsOrder": [
+        {
+          "nombre": "Philips Hue Starter Kit",
+          "id": "B096YFWVVS",
+          "filename": "B096YFWVVS_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B096YFWVVS_combined.mp4"
+        },
+        {
+          "nombre": "Ecobee SmartThermostat",
+          "id": "B0DT9MC2Z9",
+          "filename": "B0DT9MC2Z9_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0DT9MC2Z9_combined.mp4"
+        },
+        {
+          "nombre": "Sonos One SL Speaker",
+          "id": "B0GJ78ZKF6",
+          "filename": "B0GJ78ZKF6_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0GJ78ZKF6_combined.mp4"
+        },
+        {
+          "nombre": "iRobot Roomba i7+",
+          "id": "B07GNPDMRP",
+          "filename": "B07GNPDMRP_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07GNPDMRP_combined.mp4"
+        },
+        {
+          "nombre": "August Smart Lock Pro",
+          "id": "B082VXK9CK",
+          "filename": "B082VXK9CK_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B082VXK9CK_combined.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1780350579824_052g6j"
+    },
+    "generatedAt": "2026-06-01T21:55:30.511Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Philips Hue Starter Kit",
+        "searchTermEn": "philips hue starter kit",
+        "id": "B096YFWVVS",
+        "filename": "B096YFWVVS.mp4"
+      },
+      {
+        "nombre": "iRobot Roomba i7+",
+        "searchTermEn": "irobot roomba i7+ vacuum",
+        "id": "B07GNPDMRP",
+        "filename": "B07GNPDMRP.mp4"
+      },
+      {
+        "nombre": "Ecobee SmartThermostat",
+        "searchTermEn": "ecobee smart thermostat",
+        "id": "B0DT9MC2Z9",
+        "filename": "B0DT9MC2Z9.mp4"
+      },
+      {
+        "nombre": "August Smart Lock Pro",
+        "searchTermEn": "august smart lock pro",
+        "id": "B082VXK9CK",
+        "filename": "B082VXK9CK.mp4"
+      },
+      {
+        "nombre": "Ring Video Doorbell 3",
+        "searchTermEn": "ring video doorbell 3",
+        "id": "B0BZWRSRWV",
+        "filename": "B0BZWRSRWV.mp4"
+      },
+      {
+        "nombre": "Sonos One SL Speaker",
+        "searchTermEn": "sonos one SL speaker",
+        "id": "B0GJ78ZKF6",
+        "filename": "B0GJ78ZKF6.mp4"
+      },
+      {
+        "nombre": "Eufy Security Floodlight",
+        "searchTermEn": "eufy security floodlight camera",
+        "id": "B0DDTRM7DJ",
+        "filename": "B0DDTRM7DJ.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 7 Gadgets Smart que Debes Tener en Casa\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\nLuces ambiente personalizadas al instante. Control térmico remoto eficiente. Sonido inmersivo en cada habitación. Limpieza automática, siempre perfecta. Seguridad y acceso a un toque.\n\n[25s-30s] INTRODUCTION\nSuscríbete para más gadgets geniales. Links en el primer comentario.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] PHILIPS HUE STARTER KIT\n¿Cansado de la iluminación monótona en casa? El Philips Hue Starter Kit transforma tus espacios con millones de colores y ambientes ajustables. Con el Hue Bridge, controla las luces desde cualquier lugar sin agotar tu Wi-Fi, mejorando tu día a día con automatizaciones sencillas.\nSu precio actual en Amazon ronda los... 103 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Philips Hue Starter Kit]\n\n[0:25] IROBOT ROOMBA I7+\nEquipado con mapeo inteligente, el iRobot Roomba i7+ diferencia tu cocina del salón para limpiar eficazmente donde lo necesites. Control manual o de voz, y zonas restringidas: limpieza óptima garantizada.\nSu precio actual en Amazon ronda los... 600 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: iRobot Roomba i7+]\n\n[0:25] ECOBEE SMARTTHERMOSTAT\n\"¿Sabías que este termostato no solo regula la temperatura? Ahorras hasta un 23% anual en energía adaptándose a tu horario y mantiene un confort óptimo cuando estás presente.\"\n\"Su precio actual en Amazon ronda los... 140 dólares. ¡Link en el primer comentario!\"\n\n[VISUALS: Product image: Ecobee SmartThermostat]\n\n[0:25] AUGUST SMART LOCK PRO\nLa August Smart Lock Pro convierte tu cerradura convencional en una inteligente, haciendo el acceso más seguro y conveniente. Instálala fácilmente en solo 10 minutos.\nSu precio actual en Amazon ronda los 240 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: August Smart Lock Pro]\n\n[0:25] RING VIDEO DOORBELL 3\nEl Ring Video Doorbell 3 ofrece un 66% más de cobertura vertical con video de cabeza a pies. Responde a la actividad desde tu teléfono.\nSu precio actual en Amazon ronda los 60 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Ring Video Doorbell 3]\n\n[0:25] SONOS ONE SL SPEAKER\nEl Sonos One SL Speaker ofrece un sonido estéreo rico con graves profundos. Transmite por WiFi, Bluetooth o conecta un tocadiscos.\nSu precio actual en Amazon ronda los 190 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Sonos One SL Speaker]\n\n[0:25] EUFY SECURITY FLOODLIGHT\n\"La Eufy Security Floodlight proporciona supervisión de 360° y claridad mejorada en 2K HD para garantizar seguridad total en tu propiedad.\"\n\"Su precio actual en Amazon ronda los 130 dólares. ¡Link en el primer comentario!\"\n\n[VISUALS: Product image: Eufy Security Floodlight]\n\n[10 seconds] CONCLUSION\nundefined\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 5:08\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, smart, debes, tener, casa\n"
+}

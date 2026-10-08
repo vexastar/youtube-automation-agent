@@ -1,0 +1,332 @@
+{
+  "title": "Top 5 Gadgets que Mejoran tu Trabajo en la Oficina",
+  "hook": {
+    "type": "statement",
+    "text": "",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "25s-35s"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Twelve South BookArc",
+        "productId": "B086RRJ82R",
+        "productName": "Twelve South BookArc",
+        "filename": "B086RRJ82R.mp4",
+        "asin": "B086RRJ82R",
+        "videoDuration": 117.848333,
+        "estimatedAudioSeconds": 36,
+        "framework": "experiencia_sensorial",
+        "narracionSegments": null,
+        "content": [
+          "¿Buscas maximizar tu espacio de trabajo con estilo? Eleven cada MacBook con el Twelve South BookArc. Diseñado específicamente para MacBooks, su elegante estructura de aluminio optimiza el rendimiento al elevarlo lejos de derrames indeseados, manteniendo un espacio limpio. Conecta fácil un monitor externo, teclado y ratón: instantáneamente tu notebook se transforma en un hub de eficiencia. Coloca los cables sin enredos gracias a su Integrated Cable Catch. Dale vida a todo presionando el botón y experimenta un flujo de aire perfecto.",
+          "Su precio actual ronda los 17 dólares. ¡Link ya!"
+        ],
+        "visuals": [
+          "Product image: Twelve South BookArc"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B086RRJ82R.mp4",
+        "precio": "$17",
+        "productPhoto": "https://m.media-amazon.com/images/I/61w4HvjDL3L.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "Diseñado exclusivamente para MacBooks, el elegante diseño de bajo perfil de BookArc sostiene tu MacBook en un soporte que ahorra espacio.",
+          "Conecta un monitor externo junto con tu teclado + ratón favorito, entonces tu notebook se convierte en un lujoso dock de escritorio. Apple llama a esta función \"closed-clamshell mode.\"",
+          "El diseño de Integrated Cable Catch mantiene tus conexiones a la mano y accesibles, mientras evita que se caigan cuando están desconectadas.",
+          "\"Eleva tu MacBook lejos de derrames para un espacio de trabajo más limpio y menos desordenado.\"",
+          "El diseño moderno de aluminio se integra con la decoración mientras optimiza el rendimiento de video de tu pantalla de tamaño completo y mejora el flujo de aire para tu MacBook."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Orbitkey Nest",
+        "productId": "B0CTK3D3D2",
+        "productName": "Orbitkey Nest",
+        "filename": "B0CTK3D3D2.mp4",
+        "asin": "B0CTK3D3D2",
+        "videoDuration": 17.773333,
+        "estimatedAudioSeconds": 32,
+        "framework": "problema_solucion",
+        "narracionSegments": null,
+        "content": [
+          "¿Llaves siempre desordenadas y ruidosas? Orbitkey Nest es tu solución con su mecanismo de bloqueo seguro y galardonado. Hecho con lujoso cuero Nappa, transforma tus llaves en una pila ordenada y silenciosa. Lleva de 2 a 7 llaves estándar, incluso las de coche, usando su práctico D-ring. Solo gira, desliza y bloquea cada llave en su lugar, garantizando accesibilidad instantánea sin el bullicio. Ideal para tener control absoluto en cada movimiento.",
+          "Su precio actual ronda los... 125 dólares. ¡Link ya!"
+        ],
+        "visuals": [
+          "Product image: Orbitkey Nest"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0CTK3D3D2.mp4",
+        "precio": "$125",
+        "productPhoto": "https://m.media-amazon.com/images/I/71nSCFoeKnL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "\"Transforma tus llaves en una pila ordenada y silenciosa.\"",
+          "Hecho de cuero Nappa de primera calidad y polímero TPU.",
+          "\"Mecanismo de bloqueo seguro y galardonado.\"",
+          "Lleva de 2 a 7 llaves estándar junto con llaves de coche y llaveros en el D-ring.",
+          "Se requiere un Extension Post si tienes más de 7 llaves estándar."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Grovemade Desk Shelf",
+        "productId": "B0D4R71NHW",
+        "productName": "Grovemade Desk Shelf",
+        "filename": "B0D4R71NHW.mp4",
+        "asin": "B0D4R71NHW",
+        "videoDuration": 32.767333,
+        "estimatedAudioSeconds": 32,
+        "framework": "enfoque_caracteristica",
+        "narracionSegments": null,
+        "content": [
+          "¿Tu escritorio parece un desastre? El Grovemade Desk Shelf con materiales táctiles premium transforma cualquier espacio. Su madera de nogal de 15 capas y aluminio industrial soportan dos monitores grandes. Enchufa tus dispositivos, desliza tu teclado abajo. Sus niveles acolchados en Merino Wool protegen contra rasguños. Configure a la derecha o a la izquierda. El diseño atemporal combina elegancia y robustez, promoviendo una postura ergonómica ideal para horas de trabajo productivo.",
+          "Su precio actual ronda los... 235 dólares. ¡Link ya!"
+        ],
+        "visuals": [
+          "Product image: Grovemade Desk Shelf"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0D4R71NHW.mp4",
+        "precio": "$235",
+        "productPhoto": "https://m.media-amazon.com/images/I/512aLtPcZtL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "MATERIALES TÁCTILES PREMIUM - Fabricado con madera de nogal de 15 capas y aluminio de grado industrial, este soporte para monitor y estante de escritorio cuenta con una construcción robusta que puede soportar cómodamente 2 monitores grandes y pesados.",
+          "\"\"\"PROTECCIÓN EXTRA - Este estante para escritorio cuenta con un compartimento de estante de 2 niveles con acolchado de suave Merino Wool para proteger tu tecnología de rasguños. También puedes completar el look y desbloquear toda la funcionalidad de nuestro monitor riser con nuestra bandeja de escritorio de metal opcional con inserto de corcho natural para mantener todos tus elementos de trabajo organizados de manera ordenada.\"\"\"",
+          "CONFIGURACIÓN DE ESCRITORIO FLEXIBLE - La estantería lateral de 2 niveles en el soporte para monitor Raico se puede configurar fácilmente en el lado derecho o izquierdo según tus necesidades.",
+          "ATENCIÓN A LOS DETALLES - Este estante de escritorio de madera de nogal está acompañado de patas de madera con recubrimiento en polvo en negro satinado y pies de goma para un agarre óptimo y para proteger tu escritorio de rasguños. El diseño atemporal con una superficie de mesa de nogal y patas negras se verá genial en todo tipo de escritorios.",
+          "EXCELENCIA ERGONÓMICA - Nuestro estante para monitor prioriza la comodidad ergonómica por encima de todo. Si te encuentras pasando largas horas en tu escritorio y experimentando la incomodidad de un cuello rígido, nuestro estante para escritorio perfectamente elevado asegura que tu monitor esté posicionado a una altura ideal a nivel de los ojos. Este diseño reflexivo promueve una mejor postura, alivia la fatiga visual y previene el dolor de espalda y cuello, incluso durante esas sesiones de trabajo maratónicas."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Anker PowerWave Stand",
+        "productId": "B07THHQMHM",
+        "productName": "Anker PowerWave Stand",
+        "filename": "B07THHQMHM.mp4",
+        "asin": "B07THHQMHM",
+        "videoDuration": 99.755233,
+        "estimatedAudioSeconds": 30,
+        "framework": "beneficio_oculto",
+        "narracionSegments": null,
+        "content": [
+          "¿Cansado de los cables enredados? Anker PowerWave Stand elimina la tediosa tarea de enchufar y desenchufar. Coloca tu dispositivo y carga instantáneamente, gracias a su tecnología avanzada que atraviesa fundas de hasta 5 mm. Compatible con iPhone, Samsung y más, ofrece 10W para Galaxy y 7.5W para iPhone. Disfruta de la simplicidad y liberación de los cables; solo posa tu dispositivo y déjalo encenderse automáticamente.",
+          "Su precio actual ronda los 18 dólares. ¡Link ya!"
+        ],
+        "visuals": [
+          "Product image: Anker PowerWave Stand"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07THHQMHM.mp4",
+        "precio": "$18",
+        "productPhoto": "https://m.media-amazon.com/images/I/51ywUBQcrbL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "La Ventaja de Anker: Disfrutada por más de 50 millones de usuarios en todo el mundo, nuestra tecnología líder cambiará la forma en que cargas.",
+          "\"\"\"Comodidad de Carga Completa: Carga tu teléfono o auriculares instantáneamente simplemente colocándolos en el centro de PowerWave Pad. Nunca más te preocupes por enchufar y desenchufar cables, solo colócalos y enciéndelos.\"\"\"",
+          "Compatibilidad Universal: PowerWave Pad proporciona 10W de salida para Samsung Galaxy, 7.5W para iPhone y 5W para otros teléfonos o auriculares inalámbricos (incluidos AirPods).",
+          "Carga a través de la funda: No te compliques con la funda de tu teléfono. PowerWave carga directamente a través de fundas protectoras de hasta 5 mm de grosor (sin incluir fundas con accesorios magnéticos o metálicos).",
+          "Lo que obtienes: PowerWave Pad, cable Micro USB de 4 ft, guía de bienvenida, garantía de 18 meses sin preocupaciones y un servicio al cliente amable."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "BenQ ScreenBar Plus",
+        "productId": "B0CZ9P1QW9",
+        "productName": "BenQ ScreenBar Plus",
+        "filename": "B0CZ9P1QW9.mp4",
+        "asin": "B0CZ9P1QW9",
+        "videoDuration": 52.2411,
+        "estimatedAudioSeconds": 30,
+        "framework": "comparacion_precio",
+        "narracionSegments": null,
+        "content": [
+          "¿Cansado de lámparas de escritorio voluminosas? BenQ ScreenBar Plus ofrece iluminación brillante y ultrancha, superando a las tradicionales con 1000lx de brillo central. Se adapta a cualquier monitor, se instala fácilmente y no bloquea la cámara. Su sensor de movimiento enciende automáticamente al acercarte. Presiona el botón para ajustar el brillo; la óptica asimétrica reduce el deslumbramiento en pantalla, mejorando tu comodidad y productividad.",
+          "Su precio actual ronda los 139 dólares. ¡Link ya!"
+        ],
+        "visuals": [
+          "Product image: BenQ ScreenBar Plus"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0CZ9P1QW9.mp4",
+        "precio": "$139",
+        "productPhoto": "https://m.media-amazon.com/images/I/51FB1nRWx-L.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "ILUMINACIÓN BRILLANTE Y ULTRANANCHA – ScreenBar Pro ofrece más de 1000lx de brillo central y un rango de 500lx dentro de 33\"x20\" (85cmx50cm), superando a la mayoría de las lámparas de escritorio y mejorando la comodidad visual con una iluminación amplia.",
+          "ALTA COMPATIBILIDAD – Se adapta a monitores de 0.17\" - 2.56\" (0.43cm-6.5cm) de grosor y curvatura 1000-1800R. El diseño de abrazadera patentado se adapta a monitores con diseños de respaldo especiales o biseles superiores no planos. Configuración fácil y sin obstrucción a la lente de la cámara.",
+          "SENSOR DE MOVIMIENTO – El sensor de movimiento ultrasónico detecta movimientos dentro de un rango de diámetro de 24\"±4\" (60cm±10cm), iluminándose automáticamente cuando estás cerca y apagándose después de 5 minutos de ausencia para ahorrar energía.",
+          "TECNOLOGÍA ASYM-LIGHT – La óptica asimétrica única del ScreenBar Pro previene el reflejo en la pantalla y el deslumbramiento directo, iluminando el escritorio para mejorar la productividad mientras reduce la fatiga visual.",
+          "AHORRO DE ESPACIO – ScreenBar Pro integra botones de función convenientes para ajustes fáciles y se coloca directamente sobre los monitores para ahorrar espacio en el escritorio. Alimentado a través de USB-C o con el adaptador incluido para un uso flexible."
+        ]
+      }
+    ],
+    "totalDuration": 200
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      ""
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "3:50",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "mejoran",
+    "trabajo",
+    "oficina"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 5 Gadgets que Mejoran tu Trabajo en la Oficina",
+      "angle": "Top 5 Gadgets que Mejoran tu Trabajo en la Oficina",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 5,
+      "introScript": "Imagina un escritorio donde todo está perfectamente ordenado con un solo gesto, o una funda que carga tu portátil mientras lo protege. Hoy descubrirás gadgets que transforman tu entorno de trabajo, como un cargador inalámbrico que también organiza tus cables, y una lámpara que cambia de color según la hora del día para mejorar tu concentración. No querrás perderte estas innovaciones que te aseguran la máxima productividad y comodidad en la oficina.",
+      "keywords": [
+        "gadgets",
+        "mejoran",
+        "trabajo",
+        "oficina"
+      ],
+      "estimatedViews": 5690,
+      "bestPublishTime": "2026-07-14T19:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Twelve South BookArc",
+          "searchTermEn": "Twelve South BookArc stand",
+          "id": "B086RRJ82R",
+          "filename": "B086RRJ82R.mp4"
+        },
+        {
+          "nombre": "Orbitkey Nest",
+          "searchTermEn": "Orbitkey Nest organizer",
+          "id": "B0CTK3D3D2",
+          "filename": "B0CTK3D3D2.mp4"
+        },
+        {
+          "nombre": "Grovemade Desk Shelf",
+          "searchTermEn": "Grovemade Desk Shelf",
+          "id": "B0D4R71NHW",
+          "filename": "B0D4R71NHW.mp4"
+        },
+        {
+          "nombre": "Anker PowerWave Stand",
+          "searchTermEn": "Anker PowerWave Qi wireless",
+          "id": "B07THHQMHM",
+          "filename": "B07THHQMHM.mp4"
+        },
+        {
+          "nombre": "BenQ ScreenBar Plus",
+          "searchTermEn": "BenQ ScreenBar Plus lamp",
+          "id": "B0CZ9P1QW9",
+          "filename": "B0CZ9P1QW9.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-07-08T23:29:36.815Z",
+      "_requestedCount": 5,
+      "_adaptedCount": 5,
+      "introProductsOrder": [
+        {
+          "nombre": "Twelve South BookArc",
+          "id": "B086RRJ82R",
+          "filename": "B086RRJ82R.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B086RRJ82R.mp4"
+        },
+        {
+          "nombre": "Anker PowerWave Stand",
+          "id": "B07THHQMHM",
+          "filename": "B07THHQMHM.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07THHQMHM.mp4"
+        },
+        {
+          "nombre": "BenQ ScreenBar Plus",
+          "id": "B0CZ9P1QW9",
+          "filename": "B0CZ9P1QW9.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0CZ9P1QW9.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1783553981238_46ufuv"
+    },
+    "generatedAt": "2026-07-08T23:40:11.322Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Twelve South BookArc",
+        "searchTermEn": "Twelve South BookArc stand",
+        "id": "B086RRJ82R",
+        "filename": "B086RRJ82R.mp4"
+      },
+      {
+        "nombre": "Orbitkey Nest",
+        "searchTermEn": "Orbitkey Nest organizer",
+        "id": "B0CTK3D3D2",
+        "filename": "B0CTK3D3D2.mp4"
+      },
+      {
+        "nombre": "Grovemade Desk Shelf",
+        "searchTermEn": "Grovemade Desk Shelf",
+        "id": "B0D4R71NHW",
+        "filename": "B0D4R71NHW.mp4"
+      },
+      {
+        "nombre": "Anker PowerWave Stand",
+        "searchTermEn": "Anker PowerWave Qi wireless",
+        "id": "B07THHQMHM",
+        "filename": "B07THHQMHM.mp4"
+      },
+      {
+        "nombre": "BenQ ScreenBar Plus",
+        "searchTermEn": "BenQ ScreenBar Plus lamp",
+        "id": "B0CZ9P1QW9",
+        "filename": "B0CZ9P1QW9.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 5 Gadgets que Mejoran tu Trabajo en la Oficina\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\n\n\n[25s-35s] INTRODUCTION\n\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] TWELVE SOUTH BOOKARC\n¿Buscas maximizar tu espacio de trabajo con estilo? Eleven cada MacBook con el Twelve South BookArc. Diseñado específicamente para MacBooks, su elegante estructura de aluminio optimiza el rendimiento al elevarlo lejos de derrames indeseados, manteniendo un espacio limpio. Conecta fácil un monitor externo, teclado y ratón: instantáneamente tu notebook se transforma en un hub de eficiencia. Coloca los cables sin enredos gracias a su Integrated Cable Catch. Dale vida a todo presionando el botón y experimenta un flujo de aire perfecto.\nSu precio actual ronda los 17 dólares. ¡Link ya!\n\n[VISUALS: Product image: Twelve South BookArc]\n\n[0:25] ORBITKEY NEST\n¿Llaves siempre desordenadas y ruidosas? Orbitkey Nest es tu solución con su mecanismo de bloqueo seguro y galardonado. Hecho con lujoso cuero Nappa, transforma tus llaves en una pila ordenada y silenciosa. Lleva de 2 a 7 llaves estándar, incluso las de coche, usando su práctico D-ring. Solo gira, desliza y bloquea cada llave en su lugar, garantizando accesibilidad instantánea sin el bullicio. Ideal para tener control absoluto en cada movimiento.\nSu precio actual ronda los... 125 dólares. ¡Link ya!\n\n[VISUALS: Product image: Orbitkey Nest]\n\n[0:25] GROVEMADE DESK SHELF\n¿Tu escritorio parece un desastre? El Grovemade Desk Shelf con materiales táctiles premium transforma cualquier espacio. Su madera de nogal de 15 capas y aluminio industrial soportan dos monitores grandes. Enchufa tus dispositivos, desliza tu teclado abajo. Sus niveles acolchados en Merino Wool protegen contra rasguños. Configure a la derecha o a la izquierda. El diseño atemporal combina elegancia y robustez, promoviendo una postura ergonómica ideal para horas de trabajo productivo.\nSu precio actual ronda los... 235 dólares. ¡Link ya!\n\n[VISUALS: Product image: Grovemade Desk Shelf]\n\n[0:25] ANKER POWERWAVE STAND\n¿Cansado de los cables enredados? Anker PowerWave Stand elimina la tediosa tarea de enchufar y desenchufar. Coloca tu dispositivo y carga instantáneamente, gracias a su tecnología avanzada que atraviesa fundas de hasta 5 mm. Compatible con iPhone, Samsung y más, ofrece 10W para Galaxy y 7.5W para iPhone. Disfruta de la simplicidad y liberación de los cables; solo posa tu dispositivo y déjalo encenderse automáticamente.\nSu precio actual ronda los 18 dólares. ¡Link ya!\n\n[VISUALS: Product image: Anker PowerWave Stand]\n\n[0:25] BENQ SCREENBAR PLUS\n¿Cansado de lámparas de escritorio voluminosas? BenQ ScreenBar Plus ofrece iluminación brillante y ultrancha, superando a las tradicionales con 1000lx de brillo central. Se adapta a cualquier monitor, se instala fácilmente y no bloquea la cámara. Su sensor de movimiento enciende automáticamente al acercarte. Presiona el botón para ajustar el brillo; la óptica asimétrica reduce el deslumbramiento en pantalla, mejorando tu comodidad y productividad.\nSu precio actual ronda los 139 dólares. ¡Link ya!\n\n[VISUALS: Product image: BenQ ScreenBar Plus]\n\n[10 seconds] CONCLUSION\n\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 3:50\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, mejoran, trabajo, oficina\n"
+}

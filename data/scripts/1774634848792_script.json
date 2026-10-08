@@ -1,0 +1,116 @@
+{
+  "title": "Construyendo una IA en Minecraft: ¡Automatiza tu Mundo Virtual!",
+  "hook": {
+    "type": "question",
+    "text": "¿Alguna vez imaginaste tener tu propia inteligencia artificial dentro de Minecraft?",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "Hola a todos los apasionados del futuro, ¡bienvenidos a Mente Futura!",
+    "topicIntro": "Hoy nos sumergiremos en el increíble mundo de Minecraft para explorar cómo podemos construir y automatizar nuestro mundo virtual con inteligencia artificial.",
+    "valueProposition": "Al final de este video, sabrás cómo integrar una IA en Minecraft para automatizar tareas y transformar tu experiencia de juego.",
+    "credibility": "Te guiaremos paso a paso con ejemplos prácticos y consejos basados en nuestro conocimiento sobre IA y automatización.",
+    "duration": "0:10-0:30"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "explanation",
+        "title": "¿Qué es una IA en Minecraft?",
+        "content": [
+          "Una inteligencia artificial en Minecraft es un sistema que puede realizar tareas automáticamente sin intervención constante del jugador.",
+          "Se trata de usar algoritmos y programación para que ciertas funciones se ejecuten por sí solas, como la recolección de recursos o la construcción de estructuras.",
+          "Esto no solo hace el juego más interesante, sino que también libera tu tiempo para enfocarte en otras actividades dentro del juego."
+        ],
+        "visuals": [
+          "Imágenes de un mundo de Minecraft donde se muestra un personaje automatizando tareas"
+        ],
+        "duration": 60
+      },
+      {
+        "type": "solution_steps",
+        "title": "Configurando Mods y Plugins",
+        "content": [
+          "El primer paso para crear una IA en Minecraft es instalar mods y plugins adecuados. Modificaciones como 'ComputerCraft' y 'OpenComputers' son perfectas para programar dentro del juego.",
+          "Estos mods añaden bloques computacionales que puedes programar usando lenguajes como Lua, permitiéndote escribir scripts que automatizan tareas.",
+          "Instalar estos mods es relativamente sencillo: descarga los archivos, colócalos en la carpeta de mods de tu Minecraft y asegúrate de estar usando la versión correcta de Forge."
+        ],
+        "visuals": [
+          "Tutorial visual de cómo instalar un mod en Minecraft"
+        ],
+        "duration": 60
+      },
+      {
+        "type": "examples",
+        "title": "Ejemplos de Automación con IA",
+        "content": [
+          "Imagina crear una máquina que automáticamente siembre y coseche tus cultivos. Con ComputerCraft, puedes programar una tortuga para que realice estas acciones regularmente.",
+          "Otro ejemplo es un sistema de minería automatizado. Con la programación correcta, puedes hacer que una tortuga minadora busque minerales mientras te ocupas de otras construcciones.",
+          "Finalmente, puedes crear un sistema de alarma que te avise cuando un enemigo se acerque a tu base, usando sensores y scripts en OpenComputers."
+        ],
+        "visuals": [
+          "Videos cortos de ejemplos de máquinas y sistemas automatizados dentro de Minecraft"
+        ],
+        "duration": 60
+      },
+      {
+        "type": "list_items",
+        "title": "Beneficios de usar IA en Minecraft",
+        "content": [
+          "Ahorro de tiempo: Automatizar tareas repetitivas te permite enfocarte en explorar y construir.",
+          "Aprendizaje de programación: Usar mods como ComputerCraft te introduce al mundo de la programación básica.",
+          "Creatividad sin límites: La habilidad de crear sistemas complejos te ofrece una nueva dimensión de creatividad en el juego."
+        ],
+        "visuals": [
+          "Gráficos resaltando los beneficios mencionados"
+        ],
+        "duration": 60
+      }
+    ],
+    "totalDuration": 300
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Cierre",
+    "recap": [
+      "Cómo instalar mods para IA en Minecraft.",
+      "Ejemplos prácticos de automatización en el juego.",
+      "Los beneficios de integrar una IA en tu experiencia de juego."
+    ],
+    "finalThought": "La tecnología y la creatividad se unen en Minecraft para ofrecerte una experiencia de juego increíblemente enriquecedora. Atrévete a explorar estas posibilidades y lleva tu mundo virtual al siguiente nivel.",
+    "duration": "30 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "Si quieres más contenido sobre inteligencia artificial y videojuegos, ¡no olvides suscribirte!",
+    "like": "Dale like si te gustó este video y aprendiste algo nuevo.",
+    "comment": "Cuéntanos en los comentarios qué tipo de IA te gustaría construir en tu mundo de Minecraft.",
+    "nextVideo": "Mira nuestro próximo video sobre cómo la IA está transformando otros videojuegos populares.",
+    "duration": "15 seconds"
+  },
+  "duration": "5:05",
+  "tone": "conversational",
+  "pacing": "moderate",
+  "keywords": [
+    "minecraft"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "minecraft",
+      "angle": "Construyendo una IA en Minecraft: Automatiza tu mundo virtual",
+      "targetAudience": "General audience, entertainment seekers",
+      "contentType": "Explainer",
+      "keywords": [
+        "minecraft"
+      ],
+      "estimatedViews": 67306,
+      "bestPublishTime": "2026-03-28T15:00:00.000Z",
+      "competitorAnalysis": [],
+      "createdAt": "2026-03-27T18:07:16.754Z"
+    },
+    "generatedAt": "2026-03-27T18:07:28.358Z",
+    "version": "2.0-ai",
+    "model": "gpt-4o"
+  },
+  "fullScript": "TITLE: Construyendo una IA en Minecraft: ¡Automatiza tu Mundo Virtual!\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\n¿Alguna vez imaginaste tener tu propia inteligencia artificial dentro de Minecraft?\n\n[0:10-0:30] INTRODUCTION\nHola a todos los apasionados del futuro, ¡bienvenidos a Mente Futura!\nHoy nos sumergiremos en el increíble mundo de Minecraft para explorar cómo podemos construir y automatizar nuestro mundo virtual con inteligencia artificial.\nAl final de este video, sabrás cómo integrar una IA en Minecraft para automatizar tareas y transformar tu experiencia de juego.\nTe guiaremos paso a paso con ejemplos prácticos y consejos basados en nuestro conocimiento sobre IA y automatización.\n\nMAIN CONTENT\n──────────────────────────────\n\n[1:00] ¿QUÉ ES UNA IA EN MINECRAFT?\nUna inteligencia artificial en Minecraft es un sistema que puede realizar tareas automáticamente sin intervención constante del jugador.\nSe trata de usar algoritmos y programación para que ciertas funciones se ejecuten por sí solas, como la recolección de recursos o la construcción de estructuras.\nEsto no solo hace el juego más interesante, sino que también libera tu tiempo para enfocarte en otras actividades dentro del juego.\n\n[VISUALS: Imágenes de un mundo de Minecraft donde se muestra un personaje automatizando tareas]\n\n[1:00] CONFIGURANDO MODS Y PLUGINS\nEl primer paso para crear una IA en Minecraft es instalar mods y plugins adecuados. Modificaciones como 'ComputerCraft' y 'OpenComputers' son perfectas para programar dentro del juego.\nEstos mods añaden bloques computacionales que puedes programar usando lenguajes como Lua, permitiéndote escribir scripts que automatizan tareas.\nInstalar estos mods es relativamente sencillo: descarga los archivos, colócalos en la carpeta de mods de tu Minecraft y asegúrate de estar usando la versión correcta de Forge.\n\n[VISUALS: Tutorial visual de cómo instalar un mod en Minecraft]\n\n[1:00] EJEMPLOS DE AUTOMACIÓN CON IA\nImagina crear una máquina que automáticamente siembre y coseche tus cultivos. Con ComputerCraft, puedes programar una tortuga para que realice estas acciones regularmente.\nOtro ejemplo es un sistema de minería automatizado. Con la programación correcta, puedes hacer que una tortuga minadora busque minerales mientras te ocupas de otras construcciones.\nFinalmente, puedes crear un sistema de alarma que te avise cuando un enemigo se acerque a tu base, usando sensores y scripts en OpenComputers.\n\n[VISUALS: Videos cortos de ejemplos de máquinas y sistemas automatizados dentro de Minecraft]\n\n[1:00] BENEFICIOS DE USAR IA EN MINECRAFT\nAhorro de tiempo: Automatizar tareas repetitivas te permite enfocarte en explorar y construir.\nAprendizaje de programación: Usar mods como ComputerCraft te introduce al mundo de la programación básica.\nCreatividad sin límites: La habilidad de crear sistemas complejos te ofrece una nueva dimensión de creatividad en el juego.\n\n[VISUALS: Gráficos resaltando los beneficios mencionados]\n\n[30 seconds] CONCLUSION\nCómo instalar mods para IA en Minecraft.\nEjemplos prácticos de automatización en el juego.\nLos beneficios de integrar una IA en tu experiencia de juego.\n\nLa tecnología y la creatividad se unen en Minecraft para ofrecerte una experiencia de juego increíblemente enriquecedora. Atrévete a explorar estas posibilidades y lleva tu mundo virtual al siguiente nivel.\n\n[15 seconds] CALL TO ACTION\nSi quieres más contenido sobre inteligencia artificial y videojuegos, ¡no olvides suscribirte!\nDale like si te gustó este video y aprendiste algo nuevo.\nCuéntanos en los comentarios qué tipo de IA te gustaría construir en tu mundo de Minecraft.\nMira nuestro próximo video sobre cómo la IA está transformando otros videojuegos populares.\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 5:05\nTONE: conversational\nPACING: moderate\nKEYWORDS: minecraft\n"
+}

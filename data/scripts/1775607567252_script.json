@@ -1,0 +1,137 @@
+{
+  "title": "Top 3 Gadgets Que Tu Cocina Necesita",
+  "hook": {
+    "type": "statement",
+    "text": "Transforma tus vegetales en espirales perfectos con solo un giro de muñeca. Este hervidor calienta agua en segundos, ideal para tus momentos de prisa. Organiza todas tus especias en un espacio diminuto pero eficiente. Hoy te mostraré estos inventos increíbles y dejaré el enlace de cada uno en el primer comentario. Suscríbete. Empecemos.",
+    "duration": "0:00-0:15"
+  },
+  "introduction": {
+    "greeting": "",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0:00-0:00"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Cortador Espiral Vegetal",
+        "content": [
+          "Cortar verduras en tiras uniformes puede ser un dolor de cabeza. El Cortador Espiral Vegetal convierte zanahorias y calabacines en espirales en segundos. Fabricado con cuchillas de acero inoxidable, es fácil de limpiar y guardar.",
+          "Su precio actual en Amazon ronda los... 15 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Cortador Espiral Vegetal"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B09XLG3YQB.mp4",
+        "precio": "$15"
+      },
+      {
+        "type": "content",
+        "title": "Hervidor Rápido Eléctrico",
+        "content": [
+          "Esperar a que el agua hierva puede llevar una eternidad. El Hervidor Rápido Eléctrico calienta agua en menos de dos minutos, perfecto para café o té instantáneo. Su diseño compacto y apagado automático garantizan seguridad y eficiencia.",
+          "Su precio actual en Amazon ronda los... 20 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Hervidor Rápido Eléctrico"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0CHZ69ZFN.mp4",
+        "precio": "$20"
+      },
+      {
+        "type": "content",
+        "title": "Organizador de Especias",
+        "content": [
+          "Buscar especias entre un desorden de frascos es frustrante. El Organizador de Especias almacena tus frascos de forma ordenada y accesible. Su diseño ahorra espacio y se adapta a cualquier cocina.",
+          "Su precio actual en Amazon ronda los... 25 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Organizador de Especias"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0FBR9XKHX.mp4",
+        "precio": "$25"
+      }
+    ],
+    "totalDuration": 75
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "¡Dale like y recuerda que los links están en el primer comentario!"
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:45",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "cocina",
+    "necesita"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 3 Gadgets Que Tu Cocina Necesita",
+      "angle": "Top 3 Gadgets Que Tu Cocina Necesita",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 3,
+      "introScript": "¿Un organizador que maximiza cada centímetro de tu cocina? ¿Un hervidor que hierve agua en segundos? Descubre los gadgets que transformarán tu cocina en un espacio innovador.",
+      "keywords": [
+        "gadgets",
+        "cocina",
+        "necesita"
+      ],
+      "estimatedViews": 4743,
+      "bestPublishTime": "2026-04-10T20:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Cortador Espiral Vegetal",
+          "searchTermEn": "vegetable spiralizer tool"
+        },
+        {
+          "nombre": "Hervidor Rápido Eléctrico",
+          "searchTermEn": "rapid electric kettle"
+        },
+        {
+          "nombre": "Organizador de Especias",
+          "searchTermEn": "kitchen spice rack organizer"
+        }
+      ],
+      "createdAt": "2026-04-08T00:19:21.817Z"
+    },
+    "generatedAt": "2026-04-08T00:19:27.105Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Cortador Espiral Vegetal",
+        "searchTermEn": "vegetable spiralizer tool"
+      },
+      {
+        "nombre": "Hervidor Rápido Eléctrico",
+        "searchTermEn": "rapid electric kettle"
+      },
+      {
+        "nombre": "Organizador de Especias",
+        "searchTermEn": "kitchen spice rack organizer"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 3 Gadgets Que Tu Cocina Necesita\n\n══════════════════════════════════════════════════\n\n[0:00-0:15] HOOK\nTransforma tus vegetales en espirales perfectos con solo un giro de muñeca. Este hervidor calienta agua en segundos, ideal para tus momentos de prisa. Organiza todas tus especias en un espacio diminuto pero eficiente. Hoy te mostraré estos inventos increíbles y dejaré el enlace de cada uno en el primer comentario. Suscríbete. Empecemos.\n\n[0:00-0:00] INTRODUCTION\n\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] CORTADOR ESPIRAL VEGETAL\nCortar verduras en tiras uniformes puede ser un dolor de cabeza. El Cortador Espiral Vegetal convierte zanahorias y calabacines en espirales en segundos. Fabricado con cuchillas de acero inoxidable, es fácil de limpiar y guardar.\nSu precio actual en Amazon ronda los... 15 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Cortador Espiral Vegetal]\n\n[0:25] HERVIDOR RÁPIDO ELÉCTRICO\nEsperar a que el agua hierva puede llevar una eternidad. El Hervidor Rápido Eléctrico calienta agua en menos de dos minutos, perfecto para café o té instantáneo. Su diseño compacto y apagado automático garantizan seguridad y eficiencia.\nSu precio actual en Amazon ronda los... 20 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Hervidor Rápido Eléctrico]\n\n[0:25] ORGANIZADOR DE ESPECIAS\nBuscar especias entre un desorden de frascos es frustrante. El Organizador de Especias almacena tus frascos de forma ordenada y accesible. Su diseño ahorra espacio y se adapta a cualquier cocina.\nSu precio actual en Amazon ronda los... 25 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Organizador de Especias]\n\n[10 seconds] CONCLUSION\n¡Dale like y recuerda que los links están en el primer comentario!\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:45\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, cocina, necesita\n"
+}

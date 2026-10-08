@@ -1,0 +1,132 @@
+{
+  "title": "Top 1 Herramienta Innovadora para el Hogar",
+  "hook": {
+    "type": "statement",
+    "text": "",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "25s-35s"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Hoto Smart Screwdriver",
+        "productId": "B0F4RC7JDT",
+        "productName": "Hoto Smart Screwdriver",
+        "filename": "B0F4RC7JDT.mp4",
+        "asin": "B0F4RC7JDT",
+        "videoDuration": 35.8037,
+        "estimatedAudioSeconds": 33,
+        "framework": "dato_numerico",
+        "narracionSegments": null,
+        "content": [
+          "¿Sabías que el Hoto Smart Screwdriver es tu nueva solución para todo? Equipado con catorce herramientas esenciales y veintiséis accesorios, es ideal para reparaciones en el hogar; dura más tiempo gracias a su construcción resistente. Activa su batería de dos mil mAh y permite que los tornillos rebeldes sean historia. Ajusta sus modos de par; ilumina con la luz LED en anillo. Toda esta potencia en un diseño ergonómico, compacto y liviano.",
+          "Su precio actual ronda los... sesenta dólares. Link en comentarios."
+        ],
+        "visuals": [
+          "Product image: Hoto Smart Screwdriver"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0F4RC7JDT.mp4",
+        "precio": "$60",
+        "productPhoto": "https://m.media-amazon.com/images/I/71XVyb7STNL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "\"\"\"Solución Todo en Uno de 40 Piezas: Equipado con 14 herramientas esenciales + 26 accesorios para reparaciones en el hogar, ensamblaje de muebles y tareas profesionales. La construcción resistente garantiza una durabilidad prolongada. Desde arreglos rápidos hasta construcciones creativas – desbloquea posibilidades infinitas.\"\"\"",
+          "Destornillador Eléctrico Inteligente: Conquista cualquier proyecto con tres modos de par ajustables (eléctrico: máx 4 N·m / manual: máx 8 N·m) y luz LED en anillo. Batería de 2000 mAh que alimenta tareas prolongadas sin esfuerzo. Enfrenta tornillos rebeldes con control absoluto.",
+          "Sistema de Brocas Premium Completo 18+4: Domina espacios reducidos con brocas de acero S2 de alta dureza (18 x 25mm Cortas + 4 x 50mm Largas). Cuenta con un bloqueo magnético rápido para cambios instantáneos + eje flexible de 360° y varilla de extensión – alcanza ángulos imposibles sin dañar los sujetadores.",
+          "Diseño ergonómico: Los mangos de agarre suave antideslizante reducen la fatiga. Mejoras de seguridad: cinta métrica autolock; cubierta de martillo de goma absorbente de impactos; llaves hexagonales con extremo de bola a 25° para acceso en ángulo, y cuchillo utility con bloqueo de hoja de seguridad. Confianza en cada agarre.",
+          "Ultra Organizado: Estuche compacto de 315×230×70 mm (solo 2.4 kg) con ranuras de espuma personalizadas que previenen la pérdida de piezas. Los cierres de mariposa dobles ofrecen un cierre seguro y acceso instantáneo. Se adapta perfectamente a maleteros de coches o cajas de herramientas: tu kit imprescindible para reparaciones sobre la marcha."
+        ]
+      }
+    ],
+    "totalDuration": 40
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      ""
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:10",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "herramienta",
+    "innovadora",
+    "para",
+    "hogar"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 1 Herramienta Innovadora para el Hogar",
+      "angle": "Top 1 Herramienta Innovadora para el Hogar",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 1,
+      "introScript": "Imagina una herramienta que transforma por completo la forma en que arreglas tu hogar. ¿Qué tal un dispositivo que combina eficiencia con tecnología inteligente para simplificar tus tareas diarias? Hoy exploramos una herramienta que no solo ofrece calidad, sino que también introduce un nuevo nivel de innovación en el mantenimiento del hogar. Prepárate para conocer un gadget revolucionario que seguramente querrás tener en tu caja de herramientas.",
+      "keywords": [
+        "herramienta",
+        "innovadora",
+        "para",
+        "hogar"
+      ],
+      "estimatedViews": 4286,
+      "bestPublishTime": "2026-07-22T19:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Hoto Smart Screwdriver",
+          "searchTermEn": "Hoto Smart Screwdriver",
+          "id": "B0F4RC7JDT",
+          "filename": "B0F4RC7JDT.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-07-21T16:27:36.553Z",
+      "_requestedCount": 1,
+      "_adaptedCount": 1,
+      "introProductsOrder": [
+        {
+          "nombre": "Hoto Smart Screwdriver",
+          "id": "B0F4RC7JDT",
+          "filename": "B0F4RC7JDT.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0F4RC7JDT.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1784651356595_x5w90u"
+    },
+    "generatedAt": "2026-07-21T16:29:27.310Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Hoto Smart Screwdriver",
+        "searchTermEn": "Hoto Smart Screwdriver",
+        "id": "B0F4RC7JDT",
+        "filename": "B0F4RC7JDT.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 1 Herramienta Innovadora para el Hogar\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\n\n\n[25s-35s] INTRODUCTION\n\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] HOTO SMART SCREWDRIVER\n¿Sabías que el Hoto Smart Screwdriver es tu nueva solución para todo? Equipado con catorce herramientas esenciales y veintiséis accesorios, es ideal para reparaciones en el hogar; dura más tiempo gracias a su construcción resistente. Activa su batería de dos mil mAh y permite que los tornillos rebeldes sean historia. Ajusta sus modos de par; ilumina con la luz LED en anillo. Toda esta potencia en un diseño ergonómico, compacto y liviano.\nSu precio actual ronda los... sesenta dólares. Link en comentarios.\n\n[VISUALS: Product image: Hoto Smart Screwdriver]\n\n[10 seconds] CONCLUSION\n\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:10\nTONE: engaging\nPACING: quick\nKEYWORDS: herramienta, innovadora, para, hogar\n"
+}

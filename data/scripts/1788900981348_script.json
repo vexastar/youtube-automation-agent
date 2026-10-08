@@ -1,0 +1,185 @@
+{
+  "title": "Top 2 Gadgets Imprescindibles para Tu Motocicleta",
+  "hook": {
+    "type": "statement",
+    "text": "Mira lo que hace Sistema de comunicación Bluetooth para motocicleta Sena 20S EVO con altavoces HD, paquete doble. en acción. Observa cómo Soporte de teléfono para manillar de motocicleta Quad Lock para iPhone, Galaxy Pixel y adaptadores universales. se comporta en uso real.",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "Suscríbete. Los links están en el primer comentario.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "25s-35s"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Sistema de comunicación Bluetooth para motocicleta Sena 20S EVO con altavoces HD, paquete doble.",
+        "productId": "B09JL9VLHP",
+        "productName": "Sistema de comunicación Bluetooth para motocicleta Sena 20S EVO con altavoces HD, paquete doble.",
+        "filename": "B09JL9VLHP.mp4",
+        "asin": "B09JL9VLHP",
+        "videoDuration": 21.5215,
+        "estimatedAudioSeconds": 33,
+        "framework": "beneficio_oculto",
+        "narracionSegments": null,
+        "content": [
+          "Mantén la conexión. Explora con libertad. Sena 20S Evo redefine la comunicación sobre ruedas. Con su antena de aleta de tiburón fija, mejora la estabilidad del intercomunicador; altavoces HD ofrecen calidad de sonido superior. Supera las limitaciones del modelo original, proporcionando una experiencia nítida e ininterrumpida en cualquier terreno. Ajusta el casco, enciende y sincroniza; siente la diferencia en tus trayectos largos. Controla sin distracciones; transforma tu recorrido con tecnología de avanzada.",
+          "Su precio actual ronda los... 391 dólares. Link en comentarios."
+        ],
+        "visuals": [
+          "Product image: Sistema de comunicación Bluetooth para motocicleta Sena 20S EVO con altavoces HD, paquete doble."
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B09JL9VLHP.mp4",
+        "precio": "$391",
+        "productPhoto": "https://m.media-amazon.com/images/I/61yIcK9QmyL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "El 20S Evo es la próxima generación del original 20s, con un diseño actualizado y una funcionalidad de intercomunicador mejorada y estabilidad para mantener el ritmo de tu viaje.",
+          "Viene equipado con los altavoces HD premium de Sena.",
+          "Este elegante nuevo diseño de antena mejora la estabilidad del intercomunicador.",
+          "El 20s Evo fue diseñado con un tipo fijo, antena de aleta de tiburón, a diferencia de su predecesor que tenía la antena desplegable."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Soporte de teléfono para manillar de motocicleta Quad Lock para iPhone, Galaxy Pixel y adaptadores universales.",
+        "productId": "B08741BFFC",
+        "productName": "Soporte de teléfono para manillar de motocicleta Quad Lock para iPhone, Galaxy Pixel y adaptadores universales.",
+        "filename": "B08741BFFC.mp4",
+        "asin": "B08741BFFC",
+        "videoDuration": 68.136,
+        "estimatedAudioSeconds": 28,
+        "framework": "comparacion_precio",
+        "narracionSegments": null,
+        "content": [
+          "Evalúa tu soporte actual. Descubre su debilidad...; Quad Lock redefine seguridad. Con el sistema patentado de doble etapa, sujeta firmemente tu teléfono.; Transformarás tus rutas con un simple giro. Desprenderás en cuestión de segundos.; Ajusta a barras de veintidós a treinta y dos milímetros...; ¿Con Vibration Dampener? Protege y minimiza vibraciones dañinas. Compatible con todos los adaptadores universales Quad Lock.",
+          "Su precio actual ronda los cincuenta dólares. Link en comentarios."
+        ],
+        "visuals": [
+          "Product image: Soporte de teléfono para manillar de motocicleta Quad Lock para iPhone, Galaxy Pixel y adaptadores universales."
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B08741BFFC.mp4",
+        "precio": "$50",
+        "productPhoto": "https://m.media-amazon.com/images/I/518pe426S1L.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "El soporte para manillar de motocicleta para smartphone más fuerte, seguro y versátil.",
+          "\"\"\"El sistema de bloqueo de doble etapa patentado asegura que tu teléfono esté sujeto de manera segura a tu motocicleta. Agrega el Vibration Dampener opcional para proteger aún más tu Smartphone (recomendado).\"\"\"",
+          "Rápido de adjuntar / desprender, proporcionando fácil acceso a tus aplicaciones sobre la marcha.",
+          "Múltiples configuraciones de montaje. Se adapta a tamaños de barra de 7/8” (22mm), 1” (25mm), 1-1/8” (28mm), 1-1/4” (32mm).",
+          "Compatible exclusivamente con todas las Quad Lock Cases y Universal Adapters (se venden por separado). Solo las Quad Lock cases y adapters están certificadas para un rendimiento óptimo."
+        ]
+      }
+    ],
+    "totalDuration": 80
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      ""
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:50",
+  "tone": "engaging",
+  "tone_variant": "analítico y preciso, como un ingeniero que explica por qué esto es superior",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "imprescindibles",
+    "para",
+    "motocicleta"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 2 Gadgets Imprescindibles para Tu Motocicleta",
+      "angle": "Top 2 Gadgets Imprescindibles para Tu Motocicleta",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 2,
+      "introScript": "Imagina un dispositivo que convierte tu casco en un completo centro multimedia con conexión Bluetooth y comunicación entre cascos. O un innovador sistema que convierte tu smartphone en una herramienta de navegación avanzada mientras lo carga inalámbricamente. Dos accesorios que transformarán completamente tu experiencia sobre dos ruedas. No querrás perdértelos.",
+      "keywords": [
+        "gadgets",
+        "imprescindibles",
+        "para",
+        "motocicleta"
+      ],
+      "estimatedViews": 4593,
+      "bestPublishTime": "2026-09-13T15:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Sistema de comunicación Bluetooth para motocicleta Sena 20S EVO con altavoces HD, paquete doble.",
+          "searchTermEn": "Sena 20S EVO Bluetooth Headset",
+          "id": "B09JL9VLHP",
+          "filename": "B09JL9VLHP.mp4"
+        },
+        {
+          "nombre": "Soporte de teléfono para manillar de motocicleta Quad Lock para iPhone, Galaxy Pixel y adaptadores universales.",
+          "searchTermEn": "Quad Lock Motorcycle Phone Mount",
+          "id": "B08741BFFC",
+          "filename": "B08741BFFC.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-09-08T20:52:11.229Z",
+      "_requestedCount": 2,
+      "_adaptedCount": 2,
+      "introProductsOrder": [
+        {
+          "nombre": "Sistema de comunicación Bluetooth para motocicleta Sena 20S EVO con altavoces HD, paquete doble.",
+          "id": "B09JL9VLHP",
+          "filename": "B09JL9VLHP.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B09JL9VLHP.mp4"
+        },
+        {
+          "nombre": "Soporte de teléfono para manillar de motocicleta Quad Lock para iPhone, Galaxy Pixel y adaptadores universales.",
+          "id": "B08741BFFC",
+          "filename": "B08741BFFC.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B08741BFFC.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1788900949445_ksk8jh"
+    },
+    "generatedAt": "2026-09-08T20:56:07.282Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Sistema de comunicación Bluetooth para motocicleta Sena 20S EVO con altavoces HD, paquete doble.",
+        "searchTermEn": "Sena 20S EVO Bluetooth Headset",
+        "id": "B09JL9VLHP",
+        "filename": "B09JL9VLHP.mp4"
+      },
+      {
+        "nombre": "Soporte de teléfono para manillar de motocicleta Quad Lock para iPhone, Galaxy Pixel y adaptadores universales.",
+        "searchTermEn": "Quad Lock Motorcycle Phone Mount",
+        "id": "B08741BFFC",
+        "filename": "B08741BFFC.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 2 Gadgets Imprescindibles para Tu Motocicleta\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\nMira lo que hace Sistema de comunicación Bluetooth para motocicleta Sena 20S EVO con altavoces HD, paquete doble. en acción. Observa cómo Soporte de teléfono para manillar de motocicleta Quad Lock para iPhone, Galaxy Pixel y adaptadores universales. se comporta en uso real.\n\n[25s-35s] INTRODUCTION\nSuscríbete. Los links están en el primer comentario.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] SISTEMA DE COMUNICACIÓN BLUETOOTH PARA MOTOCICLETA SENA 20S EVO CON ALTAVOCES HD, PAQUETE DOBLE.\nMantén la conexión. Explora con libertad. Sena 20S Evo redefine la comunicación sobre ruedas. Con su antena de aleta de tiburón fija, mejora la estabilidad del intercomunicador; altavoces HD ofrecen calidad de sonido superior. Supera las limitaciones del modelo original, proporcionando una experiencia nítida e ininterrumpida en cualquier terreno. Ajusta el casco, enciende y sincroniza; siente la diferencia en tus trayectos largos. Controla sin distracciones; transforma tu recorrido con tecnología de avanzada.\nSu precio actual ronda los... 391 dólares. Link en comentarios.\n\n[VISUALS: Product image: Sistema de comunicación Bluetooth para motocicleta Sena 20S EVO con altavoces HD, paquete doble.]\n\n[0:25] SOPORTE DE TELÉFONO PARA MANILLAR DE MOTOCICLETA QUAD LOCK PARA IPHONE, GALAXY PIXEL Y ADAPTADORES UNIVERSALES.\nEvalúa tu soporte actual. Descubre su debilidad...; Quad Lock redefine seguridad. Con el sistema patentado de doble etapa, sujeta firmemente tu teléfono.; Transformarás tus rutas con un simple giro. Desprenderás en cuestión de segundos.; Ajusta a barras de veintidós a treinta y dos milímetros...; ¿Con Vibration Dampener? Protege y minimiza vibraciones dañinas. Compatible con todos los adaptadores universales Quad Lock.\nSu precio actual ronda los cincuenta dólares. Link en comentarios.\n\n[VISUALS: Product image: Soporte de teléfono para manillar de motocicleta Quad Lock para iPhone, Galaxy Pixel y adaptadores universales.]\n\n[10 seconds] CONCLUSION\n\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:50\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, imprescindibles, para, motocicleta\n"
+}

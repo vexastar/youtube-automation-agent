@@ -1,0 +1,132 @@
+{
+  "title": "Top 1 Gadget Imprescindible para Tu Cocina",
+  "hook": {
+    "type": "statement",
+    "text": "",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "25s-35s"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Drop Scale",
+        "productId": "B0113UZJE2",
+        "productName": "Drop Scale",
+        "filename": "B0113UZJE2.mp4",
+        "asin": "B0113UZJE2",
+        "videoDuration": 66.27,
+        "estimatedAudioSeconds": 34,
+        "framework": "beneficio_oculto",
+        "narracionSegments": null,
+        "content": [
+          "¿Mides ingredientes sin precisión? Descubre Drop Scale. Pequeña y compacta. Cambia unidades; pesa hasta cinco kilogramos con un gramo de exactitud. Su función de tara simplifica la medición... incluso con recipientes. Activa su pantalla LCD; valores claros y retroiluminados. Limpia sin esfuerzo; acero 304 higiénico en su superficie. Presiona 'encender'; sin complicaciones con dos pilas AAA incluidas. Su diseño es funcional y estilizado, ideal para cualquier cocina. ¡No más sorpresas en tus recetas!",
+          "Su precio actual ronda los... catorce dólares. Link en comentarios."
+        ],
+        "visuals": [
+          "Product image: Drop Scale"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0113UZJE2.mp4",
+        "precio": "$14",
+        "productPhoto": "https://m.media-amazon.com/images/I/91YrLTBnMcL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "\"\"\"𝗘𝗳𝗳𝗼𝗿𝘁𝗹𝗲𝘀𝘀 𝗪𝗲𝗶𝗴𝗵𝗶𝗻𝗴: Soporta 5 unidades (oz/lb:oz/fl'oz/g/mL), función de tara e incluye 2 baterías AAA para un funcionamiento sin complicaciones.\"\"\"",
+          "\"\"\"𝗣𝗿𝗲𝗰𝗶𝘀𝗼 𝗥𝗲𝘀𝘂𝗹𝘁𝗮𝗱𝗼𝘀: Pesa con precisión hasta 11 lb/5 kg con incrementos de 1 g\"\"\"",
+          "𝗦𝗶𝗺𝗽𝗹𝗲 & 𝗖𝗼𝗺𝗽𝗮𝗰𝘁: La balanza pequeña y elegante es perfecta para la mayoría de las cocinas, ocupando poco espacio y fácilmente almacenable en los armarios.",
+          "Fácil de Limpiar: Solo limpia las superficies de acero inoxidable 304 de grado alimenticio para mantenerlas limpias.",
+          "𝗟𝗖𝗗 𝗗𝗶𝘀𝗽𝗹𝗮𝘆: Pantalla LCD retroiluminada con fuentes grandes para una fácil lectura."
+        ]
+      }
+    ],
+    "totalDuration": 40
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      ""
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:10",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadget",
+    "imprescindible",
+    "para",
+    "cocina"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 1 Gadget Imprescindible para Tu Cocina",
+      "angle": "Top 1 Gadget Imprescindible para Tu Cocina",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 1,
+      "introScript": "¿Alguna vez has deseado tener un gadget que revolucione la forma en que preparas tus alimentos? Imagina cortar y medir ingredientes con la precisión de un chef profesional pero sin el esfuerzo. Hoy te presentamos un dispositivo que no solo ahorra tiempo, sino que transforma tu cocina en un espacio más eficiente e innovador. ¡Vamos a descubrir cómo este gadget puede ser el aliado perfecto para tus recetas más exigentes!",
+      "keywords": [
+        "gadget",
+        "imprescindible",
+        "para",
+        "cocina"
+      ],
+      "estimatedViews": 5770,
+      "bestPublishTime": "2026-08-02T15:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Drop Scale",
+          "searchTermEn": "Drop kitchen scale",
+          "id": "B0113UZJE2",
+          "filename": "B0113UZJE2.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-07-28T18:58:26.872Z",
+      "_requestedCount": 1,
+      "_adaptedCount": 1,
+      "introProductsOrder": [
+        {
+          "nombre": "Drop Scale",
+          "id": "B0113UZJE2",
+          "filename": "B0113UZJE2.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0113UZJE2.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1785265173470_2qjcsn"
+    },
+    "generatedAt": "2026-07-28T18:59:43.499Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Drop Scale",
+        "searchTermEn": "Drop kitchen scale",
+        "id": "B0113UZJE2",
+        "filename": "B0113UZJE2.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 1 Gadget Imprescindible para Tu Cocina\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\n\n\n[25s-35s] INTRODUCTION\n\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] DROP SCALE\n¿Mides ingredientes sin precisión? Descubre Drop Scale. Pequeña y compacta. Cambia unidades; pesa hasta cinco kilogramos con un gramo de exactitud. Su función de tara simplifica la medición... incluso con recipientes. Activa su pantalla LCD; valores claros y retroiluminados. Limpia sin esfuerzo; acero 304 higiénico en su superficie. Presiona 'encender'; sin complicaciones con dos pilas AAA incluidas. Su diseño es funcional y estilizado, ideal para cualquier cocina. ¡No más sorpresas en tus recetas!\nSu precio actual ronda los... catorce dólares. Link en comentarios.\n\n[VISUALS: Product image: Drop Scale]\n\n[10 seconds] CONCLUSION\n\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:10\nTONE: engaging\nPACING: quick\nKEYWORDS: gadget, imprescindible, para, cocina\n"
+}

@@ -1,0 +1,164 @@
+{
+  "title": "Top 3 Gadgets de Indiegogo que Parecen del Futuro",
+  "hook": {
+    "type": "statement",
+    "text": "Esta lámpara flota suspendida en el aire. Este ventilador se lleva en cualquier lugar. Y estos auriculares traducen en tiempo real.",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "Suscríbete, los links están en el primer comentario. Empecemos.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0:10-0:15"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Lámpara Flyte Lyfe",
+        "productId": "B0FNZYFTCS",
+        "productName": "Lámpara Flyte Lyfe",
+        "filename": "B0FNZYFTCS.mp4",
+        "content": [
+          "Las lámparas tradicionales no sorprenden a nadie en casa. La Lámpara Flyte Lyfe desafía la gravedad al flotar mágicamente. Su diseño minimalista ofrece una iluminación que parece sacada de ciencia ficción.",
+          "Su precio actual en Amazon ronda los... 68 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Lámpara Flyte Lyfe"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0FNZYFTCS.mp4",
+        "precio": "$68"
+      },
+      {
+        "type": "content",
+        "title": "Ventilador portátil O2COOL",
+        "productId": "B00TQPO3C6",
+        "productName": "Ventilador portátil O2COOL",
+        "filename": "B00TQPO3C6.mp4",
+        "content": [
+          "El calor puede ser insoportable cuando estás en movimiento. El ventilador portátil O2COOL es tu compañero perfecto para refrescarte en cualquier lugar. Funciona con pilas y es compacto, ideal para llevar en tu bolso.",
+          "Su precio actual en Amazon ronda los... 10 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Ventilador portátil O2COOL"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B00TQPO3C6.mp4",
+        "precio": "$10"
+      },
+      {
+        "type": "content",
+        "title": "Auriculares Timekettle WT2 Plus",
+        "productId": "B0FPQVFDWF",
+        "productName": "Auriculares Timekettle WT2 Plus",
+        "filename": "B0FPQVFDWF.mp4",
+        "content": [
+          "Comunicarte en otro idioma puede ser frustrante. Los auriculares Timekettle WT2 Plus traducen conversaciones en tiempo real. Soportan hasta 40 idiomas, haciéndote sentir como un políglota instantáneo.",
+          "Su precio actual en Amazon ronda los... 244 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Auriculares Timekettle WT2 Plus"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0FPQVFDWF.mp4",
+        "precio": "$244"
+      }
+    ],
+    "totalDuration": 75
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "¡No olvides dar like y recuerda que los links están en el primer comentario!"
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:45",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "indiegogo",
+    "parecen",
+    "futuro"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 3 Gadgets de Indiegogo que Parecen del Futuro",
+      "angle": "Top 3 Gadgets de Indiegogo que Parecen del Futuro",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 3,
+      "introScript": "¿Te gustaría una lámpara de escritorio que flota, un ventilador que se lleva alrededor del cuello o auriculares que traducen en tiempo real? Hoy te traigo tres productos que parecen sacados del futuro y que puedes comprar ahora mismo.",
+      "keywords": [
+        "gadgets",
+        "indiegogo",
+        "parecen",
+        "futuro"
+      ],
+      "estimatedViews": 4719,
+      "bestPublishTime": "2026-04-22T19:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Lámpara Flyte Lyfe",
+          "searchTermEn": "Flyte Lyfe levitating plant lamp",
+          "id": "B0FNZYFTCS",
+          "filename": "B0FNZYFTCS.mp4"
+        },
+        {
+          "nombre": "Ventilador portátil O2COOL",
+          "searchTermEn": "O2COOL portable neck fan",
+          "id": "B00TQPO3C6",
+          "filename": "B00TQPO3C6.mp4"
+        },
+        {
+          "nombre": "Auriculares Timekettle WT2 Plus",
+          "searchTermEn": "Timekettle WT2 Plus translator earbuds",
+          "id": "B0FPQVFDWF",
+          "filename": "B0FPQVFDWF.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-04-20T16:25:57.653Z",
+      "_requestedCount": 3,
+      "_adaptedCount": 3,
+      "_scriptNonce": "nonce_1776702479205_futwdk"
+    },
+    "generatedAt": "2026-04-20T16:28:07.159Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Lámpara Flyte Lyfe",
+        "searchTermEn": "Flyte Lyfe levitating plant lamp",
+        "id": "B0FNZYFTCS",
+        "filename": "B0FNZYFTCS.mp4"
+      },
+      {
+        "nombre": "Ventilador portátil O2COOL",
+        "searchTermEn": "O2COOL portable neck fan",
+        "id": "B00TQPO3C6",
+        "filename": "B00TQPO3C6.mp4"
+      },
+      {
+        "nombre": "Auriculares Timekettle WT2 Plus",
+        "searchTermEn": "Timekettle WT2 Plus translator earbuds",
+        "id": "B0FPQVFDWF",
+        "filename": "B0FPQVFDWF.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 3 Gadgets de Indiegogo que Parecen del Futuro\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\nEsta lámpara flota suspendida en el aire. Este ventilador se lleva en cualquier lugar. Y estos auriculares traducen en tiempo real.\n\n[0:10-0:15] INTRODUCTION\nSuscríbete, los links están en el primer comentario. Empecemos.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] LÁMPARA FLYTE LYFE\nLas lámparas tradicionales no sorprenden a nadie en casa. La Lámpara Flyte Lyfe desafía la gravedad al flotar mágicamente. Su diseño minimalista ofrece una iluminación que parece sacada de ciencia ficción.\nSu precio actual en Amazon ronda los... 68 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Lámpara Flyte Lyfe]\n\n[0:25] VENTILADOR PORTÁTIL O2COOL\nEl calor puede ser insoportable cuando estás en movimiento. El ventilador portátil O2COOL es tu compañero perfecto para refrescarte en cualquier lugar. Funciona con pilas y es compacto, ideal para llevar en tu bolso.\nSu precio actual en Amazon ronda los... 10 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Ventilador portátil O2COOL]\n\n[0:25] AURICULARES TIMEKETTLE WT2 PLUS\nComunicarte en otro idioma puede ser frustrante. Los auriculares Timekettle WT2 Plus traducen conversaciones en tiempo real. Soportan hasta 40 idiomas, haciéndote sentir como un políglota instantáneo.\nSu precio actual en Amazon ronda los... 244 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Auriculares Timekettle WT2 Plus]\n\n[10 seconds] CONCLUSION\n¡No olvides dar like y recuerda que los links están en el primer comentario!\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:45\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, indiegogo, parecen, futuro\n"
+}

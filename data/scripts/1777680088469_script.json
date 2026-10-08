@@ -1,0 +1,261 @@
+{
+  "title": "Top 3 Gadgets Brillantes para Tu Celular",
+  "hook": {
+    "type": "statement",
+    "text": "Carga tu teléfono dos veces sin esfuerzo. Encuentra tus pertenencias perdidas al instante.",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "Suscríbete, los links están en el primer comentario. Empecemos.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0:10-0:15"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Anker PowerCore III",
+        "productId": "B0D12T6R7M",
+        "productName": "Anker PowerCore III",
+        "filename": "B0D12T6R7M.mp4",
+        "asin": "B0D12T6R7M",
+        "clipDuration": 54.79,
+        "estimatedAudioSeconds": 61,
+        "framework": "problema_solucion",
+        "narracionSegments": null,
+        "content": [
+          "¿Harto de quedarte sin batería en los momentos cruciales? El Anker PowerCore III es tu aliado perfecto, siendo uno de los cargadores portátiles más delgados y ligeros con 10,000mAh. No solo es compacto, sino también robusto, diseñado para soportar caídas. Además, su puerto USB-C de dos vías simplifica la carga y recarga. Ideal para quienes viven en movimiento, asegurando dos cargas completas para tu iPhone 15. Además, su diseño resistente a rayones garantiza que se mantenga impecable sin importar dónde lo lleves.",
+          "Su precio actual en Amazon ronda los... 46 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Anker PowerCore III"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0D12T6R7M.mp4",
+        "precio": "$46",
+        "productPhoto": "https://m.media-amazon.com/images/I/71JJLJnwREL.jpg",
+        "assets": {
+          "images": [
+            "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D12T6R7M\\img_01.jpg",
+            "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D12T6R7M\\img_02.jpg",
+            "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D12T6R7M\\img_03.jpg",
+            "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D12T6R7M\\img_04.jpg",
+            "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D12T6R7M\\img_05.jpg",
+            "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D12T6R7M\\img_06.jpg"
+          ],
+          "videos": [
+            "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D12T6R7M\\vid_02.mp4"
+          ]
+        },
+        "scoredAssets": [],
+        "features": [
+          "Slim Size, Big Power: One of the slimmest and lightest 10,000mAh portable chargers on the market. Provides 2 charges for iPhone 15, 1.93 charges for Galaxy S23, and 1.23 charges for iPad mini 6.",
+          "Lightweight and Compact: With its compact 5.99 × 2.81 × 0.61-inch size and weighing a mere 8.6 oz, it's designed for on-the-go lifestyles.",
+          "Tough and Trustworthy: Engineered for toughness with scratch resistance in mind. Its durability is certified by a 3.2 ft drop test.",
+          "Two-Way USB-C Charging: The USB-C port supports both input and output functions, makes charging and recharging quick and easy.",
+          "What You Get: PowerCore Slim 10000, USB-C to USB-C cable, welcome guide, 18-month warranty, and friendly customer service."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Nebula Capsule Proyector",
+        "productId": "B0CHW11C8H",
+        "productName": "Nebula Capsule Proyector",
+        "filename": "B0CHW11C8H.mp4",
+        "asin": "B0CHW11C8H",
+        "clipDuration": 33.8,
+        "estimatedAudioSeconds": 42,
+        "framework": "enfoque_caracteristica",
+        "narracionSegments": null,
+        "content": [
+          "Con una pantalla de hasta 120 pulgadas, el Nebula Capsule Proyector ofrece una experiencia de cine en cualquier lugar. Su diseño portátil y su increíble calidad de imagen 1080p con 200 lúmenes aseguran una proyección clara y brillante. Perfecto para noches de películas o presentaciones donde quiera que vayas.",
+          "Su precio actual en Amazon ronda los... 349 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Nebula Capsule Proyector"
+        ],
+        "duration": 25,
+        "precio": "$400",
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0CHW11C8H.mp4",
+        "productPhoto": "https://m.media-amazon.com/images/I/81WZMwYM93L.jpg",
+        "assets": {
+          "images": [
+            "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CHW11C8H\\img_01.jpg",
+            "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CHW11C8H\\img_02.jpg",
+            "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CHW11C8H\\img_03.jpg",
+            "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CHW11C8H\\img_04.jpg",
+            "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CHW11C8H\\img_05.jpg",
+            "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CHW11C8H\\img_06.jpg"
+          ],
+          "videos": [
+            "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CHW11C8H\\vid_02.mp4",
+            "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CHW11C8H\\vid_03.mp4"
+          ]
+        },
+        "scoredAssets": [],
+        "features": [
+          "Super-Sized Screen, Portable Design: Capsule 3 is an all-new ultra-portable Google TV projector licensed by Netflix.",
+          "Take the Big Screen Anywhere: With a max screen size of 120 inches, Capsule 3 delivers a cinema-level experience you can take with you anywhere.",
+          "Next-Level Image Quality: The 1080p display with 200 Lumens of brightness makes movies shine for an immersive watching experience.",
+          "Long Playtime: Finish a whole 2.5-hour movie or listen to 8 hours of music on a single charge. (under eco mode)",
+          "Set Up in Seconds: Our Intelligent Environment Adaptation Technology performs screen fit, auto keystone correction, autofocus, and obstacle avoidance in just 3 seconds."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Tile Mate Tracker",
+        "productId": "B0D63657GY",
+        "productName": "Tile Mate Tracker",
+        "filename": "B0D63657GY.mp4",
+        "asin": "B0D63657GY",
+        "clipDuration": 24.12,
+        "estimatedAudioSeconds": 28,
+        "framework": "beneficio_oculto",
+        "narracionSegments": null,
+        "content": [
+          "Lo que nadie te dice del Tile Mate Tracker es su capacidad para proteger a tus seres queridos con un discreto SOS. Este rastreador no solo localiza objetos perdidos, sino que también puede hacer sonar tu teléfono, incluso si está en silencio.",
+          "Su precio actual en Amazon ronda los... 19 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Tile Mate Tracker"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0D63657GY.mp4",
+        "precio": "$19",
+        "productPhoto": "https://m.media-amazon.com/images/I/81SYpSm0gNL.jpg",
+        "assets": {
+          "images": [
+            "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D63657GY\\img_01.jpg",
+            "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D63657GY\\img_02.jpg",
+            "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D63657GY\\img_03.jpg",
+            "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D63657GY\\img_04.jpg",
+            "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D63657GY\\img_05.jpg",
+            "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D63657GY\\img_06.jpg"
+          ],
+          "videos": [
+            "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D63657GY\\vid_02.mp4",
+            "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D63657GY\\vid_03.mp4"
+          ]
+        },
+        "scoredAssets": [],
+        "features": [
+          "THE EVERYTHING TRACKER: Protect lost or stolen stuff with the all-in-one family safety app. Attach to everyday things like wallets, keys, bags, and beyond",
+          "STAY SAFE WITH SOS: Keep stuff safe, and people and pets protected. Discreetly trigger an SOS to keep your loved ones safe in any situation",
+          "FIND YOUR THINGS: Ring your misplaced Tile, or track it down in the free app",
+          "FIND YOUR PHONE: Phone hiding under a cushion? Use your Tile to make it ring — even when silenced",
+          "USE WITH LIFE360: Track everything—and everyone you love—a top family connection and safety app. Add your Tiles to see all you love on one map"
+        ]
+      }
+    ],
+    "totalDuration": 75
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "Dale like y recuerda que los links están en el primer comentario."
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:45",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "brillantes",
+    "para",
+    "celular"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 3 Gadgets Brillantes para Tu Celular",
+      "angle": "Top 3 Gadgets Brillantes para Tu Celular",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 3,
+      "introScript": "¿Tu celular cargando al 100% en solo 15 minutos? ¿Un proyector de bolsillo que convierte tu sala en un cine en segundos? Prepárate para descubrir tres gadgets que llevarán tu experiencia móvil al siguiente nivel.",
+      "keywords": [
+        "gadgets",
+        "brillantes",
+        "para",
+        "celular"
+      ],
+      "estimatedViews": 4432,
+      "bestPublishTime": "2026-05-05T19:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Anker PowerCore III",
+          "searchTermEn": "Anker PowerCore III 10k",
+          "id": "B0D12T6R7M",
+          "filename": "B0D12T6R7M.mp4"
+        },
+        {
+          "nombre": "Nebula Capsule Proyector",
+          "searchTermEn": "Nebula Capsule Mini Projector",
+          "id": "B0CHW11C8H",
+          "filename": "B0CHW11C8H.mp4"
+        },
+        {
+          "nombre": "Tile Mate Tracker",
+          "searchTermEn": "Tile Mate Bluetooth Tracker",
+          "id": "B0D63657GY",
+          "filename": "B0D63657GY.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-05-01T23:54:51.301Z",
+      "_requestedCount": 3,
+      "_adaptedCount": 3,
+      "introProductsOrder": [
+        {
+          "nombre": "Anker PowerCore III",
+          "id": "B0D12T6R7M",
+          "filename": "B0D12T6R7M.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0D12T6R7M_clean.mp4"
+        },
+        {
+          "nombre": "Tile Mate Tracker",
+          "id": "B0D63657GY",
+          "filename": "B0D63657GY.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0D63657GY_clean.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1777680025279_1u2143"
+    },
+    "generatedAt": "2026-05-02T00:00:50.707Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Anker PowerCore III",
+        "searchTermEn": "Anker PowerCore III 10k",
+        "id": "B0D12T6R7M",
+        "filename": "B0D12T6R7M.mp4"
+      },
+      {
+        "nombre": "Nebula Capsule Proyector",
+        "searchTermEn": "Nebula Capsule Mini Projector",
+        "id": "B0CHW11C8H",
+        "filename": "B0CHW11C8H.mp4"
+      },
+      {
+        "nombre": "Tile Mate Tracker",
+        "searchTermEn": "Tile Mate Bluetooth Tracker",
+        "id": "B0D63657GY",
+        "filename": "B0D63657GY.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 3 Gadgets Brillantes para Tu Celular\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\nCarga tu teléfono dos veces sin esfuerzo. Encuentra tus pertenencias perdidas al instante.\n\n[0:10-0:15] INTRODUCTION\nSuscríbete, los links están en el primer comentario. Empecemos.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] ANKER POWERCORE III\n¿Harto de quedarte sin batería en los momentos cruciales? El Anker PowerCore III es tu aliado perfecto, siendo uno de los cargadores portátiles más delgados y ligeros con 10,000mAh. No solo es compacto, sino también robusto, diseñado para soportar caídas. Además, su puerto USB-C de dos vías simplifica la carga y recarga. Ideal para quienes viven en movimiento, asegurando dos cargas completas para tu iPhone 15. Además, su diseño resistente a rayones garantiza que se mantenga impecable sin importar dónde lo lleves.\nSu precio actual en Amazon ronda los... 46 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Anker PowerCore III]\n\n[0:25] NEBULA CAPSULE PROYECTOR\nCon una pantalla de hasta 120 pulgadas, el Nebula Capsule Proyector ofrece una experiencia de cine en cualquier lugar. Su diseño portátil y su increíble calidad de imagen 1080p con 200 lúmenes aseguran una proyección clara y brillante. Perfecto para noches de películas o presentaciones donde quiera que vayas.\nSu precio actual en Amazon ronda los... 349 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Nebula Capsule Proyector]\n\n[0:25] TILE MATE TRACKER\nLo que nadie te dice del Tile Mate Tracker es su capacidad para proteger a tus seres queridos con un discreto SOS. Este rastreador no solo localiza objetos perdidos, sino que también puede hacer sonar tu teléfono, incluso si está en silencio.\nSu precio actual en Amazon ronda los... 19 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Tile Mate Tracker]\n\n[10 seconds] CONCLUSION\nDale like y recuerda que los links están en el primer comentario.\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:45\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, brillantes, para, celular\n"
+}

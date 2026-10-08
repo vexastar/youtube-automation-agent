@@ -1,0 +1,139 @@
+{
+  "title": "Top 3 Gadgets Imprescindibles para tu Oficina",
+  "hook": {
+    "type": "statement",
+    "text": "¿Quieres transformar tu oficina en un espacio más eficiente y agradable? No te vayas, tenemos los gadgets perfectos para ti.",
+    "duration": "0:00-0:05"
+  },
+  "introduction": {
+    "greeting": "Hoy exploraremos los tres gadgets que no sabías que necesitabas para convertir tu oficina en un paraíso de productividad. Desde comodidad visual hasta un ambiente purificado, estos productos van a revolucionar tu espacio de trabajo.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0:05-0:15"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Soporte de pantalla automático",
+        "content": [
+          "Comenzamos con el soporte de pantalla automático, ideal para quienes pasan horas frente al computador. Este gadget ajusta la altura de tu pantalla con solo presionar un botón, promoviendo una postura ergonómica y evitando el dolor de cuello. Perfecto para aquellos que buscan comodidad sin esfuerzo.",
+          "Consíguelo por solo 35.99 dólares en el enlace de la descripción."
+        ],
+        "visuals": [
+          "Product image: Soporte de pantalla automático"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0DG5S291H.mp4",
+        "precio": "179.99"
+      },
+      {
+        "type": "content",
+        "title": "Lámpara de luz ajustable",
+        "content": [
+          "Ilumina tu espacio con la lámpara de luz ajustable. Con múltiples configuraciones de brillo y color, se adapta a cualquier ambiente de trabajo, desde un enfoque relajante hasta uno que estimula la creatividad. Es imprescindible para quienes trabajan hasta altas horas de la noche.",
+          "Revisa su precio actualizado de 46.50 dólares en el primer comentario."
+        ],
+        "visuals": [
+          "Product image: Lámpara de luz ajustable"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0BRCJL4MM.mp4",
+        "precio": "46.50"
+      },
+      {
+        "type": "content",
+        "title": "Cargador purificador aire",
+        "content": [
+          "En el primer puesto está el cargador purificador de aire, un dispositivo dos en uno que mantiene tus dispositivos cargados mientras purifica el aire. Es perfecto para oficinas en ciudades densamente pobladas o espacios cerrados, asegurando un ambiente limpio y libre de alérgenos.",
+          "Te dejo el enlace con descuento por 179.99 dólares en la descripción."
+        ],
+        "visuals": [
+          "Product image: Cargador purificador aire"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0FH65JFSP.mp4",
+        "precio": "35.99"
+      }
+    ],
+    "totalDuration": 75
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "Espero que hayas encontrado el gadget perfecto para tu oficina. No olvides darle like al video, suscribirte al canal y compartir en los comentarios cuál fue tu favorito. ¡Hasta la próxima!"
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:45",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "imprescindibles",
+    "para",
+    "oficina"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 3 Gadgets Imprescindibles para tu Oficina",
+      "angle": "Top 3 Gadgets Imprescindibles para tu Oficina",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 3,
+      "introScript": "¿Un cargador inalámbrico que también purifica el aire? ¿Una lámpara que ajusta la temperatura de color según la hora del día? ¿Un soporte de pantalla que se ajusta automáticamente a tu altura? Descubre estos gadgets que transformarán tu espacio de trabajo.",
+      "keywords": [
+        "gadgets",
+        "imprescindibles",
+        "para",
+        "oficina"
+      ],
+      "estimatedViews": 5713,
+      "bestPublishTime": "2026-04-10T20:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Cargador purificador aire",
+          "searchTermEn": "wireless charger air purifier"
+        },
+        {
+          "nombre": "Lámpara de luz ajustable",
+          "searchTermEn": "adjustable color temperature desk lamp"
+        },
+        {
+          "nombre": "Soporte de pantalla automático",
+          "searchTermEn": "automatic height adjustable monitor stand"
+        }
+      ],
+      "createdAt": "2026-04-05T22:26:11.321Z"
+    },
+    "generatedAt": "2026-04-05T22:28:11.787Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Cargador purificador aire",
+        "searchTermEn": "wireless charger air purifier"
+      },
+      {
+        "nombre": "Lámpara de luz ajustable",
+        "searchTermEn": "adjustable color temperature desk lamp"
+      },
+      {
+        "nombre": "Soporte de pantalla automático",
+        "searchTermEn": "automatic height adjustable monitor stand"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 3 Gadgets Imprescindibles para tu Oficina\n\n══════════════════════════════════════════════════\n\n[0:00-0:05] HOOK\n¿Quieres transformar tu oficina en un espacio más eficiente y agradable? No te vayas, tenemos los gadgets perfectos para ti.\n\n[0:05-0:15] INTRODUCTION\nHoy exploraremos los tres gadgets que no sabías que necesitabas para convertir tu oficina en un paraíso de productividad. Desde comodidad visual hasta un ambiente purificado, estos productos van a revolucionar tu espacio de trabajo.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] SOPORTE DE PANTALLA AUTOMÁTICO\nComenzamos con el soporte de pantalla automático, ideal para quienes pasan horas frente al computador. Este gadget ajusta la altura de tu pantalla con solo presionar un botón, promoviendo una postura ergonómica y evitando el dolor de cuello. Perfecto para aquellos que buscan comodidad sin esfuerzo.\nConsíguelo por solo 35.99 dólares en el enlace de la descripción.\n\n[VISUALS: Product image: Soporte de pantalla automático]\n\n[0:25] LÁMPARA DE LUZ AJUSTABLE\nIlumina tu espacio con la lámpara de luz ajustable. Con múltiples configuraciones de brillo y color, se adapta a cualquier ambiente de trabajo, desde un enfoque relajante hasta uno que estimula la creatividad. Es imprescindible para quienes trabajan hasta altas horas de la noche.\nRevisa su precio actualizado de 46.50 dólares en el primer comentario.\n\n[VISUALS: Product image: Lámpara de luz ajustable]\n\n[0:25] CARGADOR PURIFICADOR AIRE\nEn el primer puesto está el cargador purificador de aire, un dispositivo dos en uno que mantiene tus dispositivos cargados mientras purifica el aire. Es perfecto para oficinas en ciudades densamente pobladas o espacios cerrados, asegurando un ambiente limpio y libre de alérgenos.\nTe dejo el enlace con descuento por 179.99 dólares en la descripción.\n\n[VISUALS: Product image: Cargador purificador aire]\n\n[10 seconds] CONCLUSION\nEspero que hayas encontrado el gadget perfecto para tu oficina. No olvides darle like al video, suscribirte al canal y compartir en los comentarios cuál fue tu favorito. ¡Hasta la próxima!\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:45\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, imprescindibles, para, oficina\n"
+}

@@ -1,0 +1,179 @@
+{
+  "title": "Top 2 Gadgets para Mejorar tu Casa",
+  "hook": {
+    "type": "statement",
+    "text": "",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "25s-35s"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Capstone Connected Smart Mirror",
+        "productId": "B07W8Y3JK7",
+        "productName": "Capstone Connected Smart Mirror",
+        "filename": "B07W8Y3JK7.mp4",
+        "asin": "B07W8Y3JK7",
+        "videoDuration": 59.9929,
+        "estimatedAudioSeconds": 36,
+        "framework": "enfoque_caracteristica",
+        "narracionSegments": null,
+        "content": [
+          "Nunca creíste que un espejo podía hacer esto. El Capstone Connected Smart Mirror revoluciona tu rutina mañanera. Con este espejo inteligente, accede a tus aplicaciones favoritas directamente al reflejo; todo con solo tocar su cristal interactivo. Enciende el espejo. Desliza para descubrir tu calendario y el clima del día. Conéctalo a Wi-Fi para actualizaciones automáticas; su diseño elegante se adapta a cualquier espacio del hogar... Transformando lo ordinario en increíble tecnología al alcance de tus manos.",
+          "Su precio actual ronda los... cincuenta y nueve dólares. Link en comentarios."
+        ],
+        "visuals": [
+          "Product image: Capstone Connected Smart Mirror"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07W8Y3JK7.mp4",
+        "precio": "$59",
+        "productPhoto": "https://m.media-amazon.com/images/I/51qMeGQriGL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": []
+      },
+      {
+        "type": "content",
+        "title": "Aqara Hub M2 Smart Home",
+        "productId": "B0FLXXF4YW",
+        "productName": "Aqara Hub M2 Smart Home",
+        "filename": "B0FLXXF4YW.mp4",
+        "asin": "B0FLXXF4YW",
+        "videoDuration": 206.440833,
+        "estimatedAudioSeconds": 32,
+        "framework": "beneficio_oculto",
+        "narracionSegments": null,
+        "content": [
+          "Nunca creíste que esto era posible. El Aqara Hub M2 Smart Home, con puente Matter. Integra múltiples dispositivos con HomeKit, Alexa y más. ¿Lo mejor? Soporta hasta cuarenta Zigbee y Thread. Conéctalo. Sincroniza tu hogar al instante. Usa su blaster IR para controlar aires acondicionados. Recibe actualizaciones precisas del estado. Enciende sus automáticas locales; actúa sin Wi-Fi. Además, su seguridad WPA3 y PoE aseguran conexión flexible y confiable.",
+          "Su precio actual ronda los sesenta y tres dólares. Link en comentarios."
+        ],
+        "visuals": [
+          "Product image: Aqara Hub M2 Smart Home"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0FLXXF4YW.mp4",
+        "precio": "$63",
+        "productPhoto": "https://m.media-amazon.com/images/I/61kJxmiPr3L.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "\"\"\"[Hub Multi-Protocolo con Puente Matter] El Aqara Hub M200 es un hub inteligente versátil que soporta múltiples características avanzadas, actuando como un Controlador Matter, Router Fronterizo Thread y Puente Matter. Integra dispositivos de terceros en la aplicación Aqara Home. Con una funcionalidad avanzada de puenteo Matter, sincroniza características exclusivas de Aqara con ecosistemas como Home Assistant, Apple HomeKit, Alexa y Google Home para una integración sin problemas. Soporta hasta 40 dispositivos Aqara Zigbee y 40 dispositivos Thread.\"\"\"",
+          "\"\"\"[Smart IR Blaster con Retroalimentación y Aprendizaje] El blaster IR 360° no solo envía comandos, sino que también proporciona actualizaciones de estado precisas al detectar el uso de un control remoto tradicional. Conecta unidades de aire acondicionado IR a Matter, funcionando como un termostato de AC cuando se empareja con un Aqara Temperature and Humidity Sensor. (Nota: Solo se puede exponer un dispositivo de AC a Matter. La funcionalidad puede variar según la aplicación de integración de Matter. Para la exposición a Apple Home, utiliza la integración de Matter en lugar de HomeKit.)\"\"\"",
+          "\"\"\"[Conectividad por cable e inalámbrica con soporte PoE] Disfruta de una configuración flexible con Wi-Fi de doble banda (2.4/5 GHz) utilizando la avanzada seguridad WPA3 y Power over Ethernet (PoE), lo que convierte al M200 en un versátil Hub Inteligente para el Hogar con Ethernet PoE. El puerto USB-C admite conexiones de mini-UPS o bancos de energía para un funcionamiento ininterrumpido, asegurando que tus automatizaciones de ahorro de energía y seguridad permanezcan en línea. (*El adaptador de corriente USB de 2A no está incluido.)\"\"\"",
+          "\"\"\"[Sistema de Automatización del Hogar y Alarmas] Funciona con todos los dispositivos Aqara para crear un sistema integral de automatización del hogar inteligente. El Aqara Hub M200 está equipado con un altavoz incorporado que se puede utilizar de diversas maneras: alertas de seguridad, timbre, despertador y mensajes de audio personalizados. (** 𝐍𝐨𝐭 𝐭𝐡𝐢𝐫𝐝-𝐩𝐚𝐫𝐭𝐲 𝐙𝐢𝐠𝐛𝐞𝐞 𝐝𝐞𝐯𝐢𝐜𝐞𝐬)\"\"\"",
+          "\"\"\"[Automatización Local para un Rendimiento Confiable] Soporta la ejecución local de automatizaciones para dispositivos Zigbee y Matter, asegurando un funcionamiento fluido incluso sin acceso a Wi-Fi o a la nube. Disfruta de tiempos de respuesta en milisegundos para una experiencia de hogar inteligente más estable y confiable. (Algunas automatizaciones, como las notificaciones push en la nube, aún requerirán la conexión a la nube para ser ejecutadas.)\"\"\""
+        ]
+      }
+    ],
+    "totalDuration": 80
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      ""
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:50",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "para",
+    "mejorar",
+    "casa"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 2 Gadgets para Mejorar tu Casa",
+      "angle": "Top 2 Gadgets para Mejorar tu Casa",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 2,
+      "introScript": "¿Imagina un gadget que transforma tu espejo normal en un asistente inteligente y otra tecnología que te permite controlar todos tus dispositivos desde una sola aplicación? Hoy te presentamos dos innovadores productos que están revolucionando la forma en que interactuamos con nuestros hogares. Prepárate para descubrir cómo puedes transformar tu espacio con tan solo un toque de tecnología y convertir tu casa en un verdadero hogar del futuro.",
+      "keywords": [
+        "gadgets",
+        "para",
+        "mejorar",
+        "casa"
+      ],
+      "estimatedViews": 6313,
+      "bestPublishTime": "2026-09-05T15:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Capstone Connected Smart Mirror",
+          "searchTermEn": "Capstone Connected Smart Mirror",
+          "id": "B07W8Y3JK7",
+          "filename": "B07W8Y3JK7.mp4"
+        },
+        {
+          "nombre": "Aqara Hub M2 Smart Home",
+          "searchTermEn": "Aqara Hub M2 Smart Home",
+          "id": "B0FLXXF4YW",
+          "filename": "B0FLXXF4YW.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-09-02T15:49:01.530Z",
+      "_requestedCount": 2,
+      "_adaptedCount": 2,
+      "introProductsOrder": [
+        {
+          "nombre": "Capstone Connected Smart Mirror",
+          "id": "B07W8Y3JK7",
+          "filename": "B07W8Y3JK7.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07W8Y3JK7.mp4"
+        },
+        {
+          "nombre": "Aqara Hub M2 Smart Home",
+          "id": "B0FLXXF4YW",
+          "filename": "B0FLXXF4YW.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0FLXXF4YW.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1788364340947_jg69vg"
+    },
+    "generatedAt": "2026-09-02T15:52:36.501Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Capstone Connected Smart Mirror",
+        "searchTermEn": "Capstone Connected Smart Mirror",
+        "id": "B07W8Y3JK7",
+        "filename": "B07W8Y3JK7.mp4"
+      },
+      {
+        "nombre": "Aqara Hub M2 Smart Home",
+        "searchTermEn": "Aqara Hub M2 Smart Home",
+        "id": "B0FLXXF4YW",
+        "filename": "B0FLXXF4YW.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 2 Gadgets para Mejorar tu Casa\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\n\n\n[25s-35s] INTRODUCTION\n\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] CAPSTONE CONNECTED SMART MIRROR\nNunca creíste que un espejo podía hacer esto. El Capstone Connected Smart Mirror revoluciona tu rutina mañanera. Con este espejo inteligente, accede a tus aplicaciones favoritas directamente al reflejo; todo con solo tocar su cristal interactivo. Enciende el espejo. Desliza para descubrir tu calendario y el clima del día. Conéctalo a Wi-Fi para actualizaciones automáticas; su diseño elegante se adapta a cualquier espacio del hogar... Transformando lo ordinario en increíble tecnología al alcance de tus manos.\nSu precio actual ronda los... cincuenta y nueve dólares. Link en comentarios.\n\n[VISUALS: Product image: Capstone Connected Smart Mirror]\n\n[0:25] AQARA HUB M2 SMART HOME\nNunca creíste que esto era posible. El Aqara Hub M2 Smart Home, con puente Matter. Integra múltiples dispositivos con HomeKit, Alexa y más. ¿Lo mejor? Soporta hasta cuarenta Zigbee y Thread. Conéctalo. Sincroniza tu hogar al instante. Usa su blaster IR para controlar aires acondicionados. Recibe actualizaciones precisas del estado. Enciende sus automáticas locales; actúa sin Wi-Fi. Además, su seguridad WPA3 y PoE aseguran conexión flexible y confiable.\nSu precio actual ronda los sesenta y tres dólares. Link en comentarios.\n\n[VISUALS: Product image: Aqara Hub M2 Smart Home]\n\n[10 seconds] CONCLUSION\n\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:50\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, para, mejorar, casa\n"
+}

@@ -1,0 +1,134 @@
+{
+  "title": "Top 1 Herramienta para Optimizar tu Oficina en Casa",
+  "hook": {
+    "type": "statement",
+    "text": "",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "25s-35s"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "VariDesk Pro Plus",
+        "productId": "B00JI6NCCK",
+        "productName": "VariDesk Pro Plus",
+        "filename": "B00JI6NCCK.mp4",
+        "asin": "B00JI6NCCK",
+        "videoDuration": 224.421467,
+        "estimatedAudioSeconds": 36,
+        "framework": "dato_numerico",
+        "narracionSegments": null,
+        "content": [
+          "¿Dos monitores en un paso? El VariDesk Pro Plus convierte tu escritorio en uno de pie rápidamente. Con un nivel superior de treinta y seis pulgadas por doce punto veinticinco, acomoda dos monitores; debajo, espacio para teclado y ratón. Eleva y baja con facilidad gracias a su sistema de resortes; olvídate del estrés... Asas duales y acero recubierto garantizan seguridad. Sin armados complicados; listo para usar al instante. Confiabilidad garantizada con una sólida estructura y cinco años de garantía.",
+          "Su precio actual ronda los... 549 dólares. Link en comentarios."
+        ],
+        "visuals": [
+          "Product image: VariDesk Pro Plus"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B00JI6NCCK.mp4",
+        "precio": "$549",
+        "productPhoto": "https://m.media-amazon.com/images/I/711vLlj-PjL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "Convertidor de Doble Monitor: Convierte fácilmente tu escritorio en un escritorio de pie. Nuestro convertidor de dos niveles tiene un amplio nivel superior (36\" x 12.25\") para 2 monitores y una plataforma inferior para teclado, ratón y más.",
+          "Construido para durar: El Pro Plus 36 es el VariDesk original y más vendido, estableciendo el estándar de calidad para los convertidores de escritorio de pie. El acero más grueso y el acabado de laminado 3D garantizan durabilidad. Las barras de estabilidad dual y una base pesada lo mantienen firme a cualquier altura.",
+          "Confort ergonómico: Eleva y baja de manera segura tu escritorio de pie con facilidad. Nuestro mecanismo de elevación por remolque y asistido por resorte minimiza la tensión. Duales asas y acero envuelto en espuma protegen contra puntos de pellizco para mayor seguridad.",
+          "Listo para usar: ¡No se necesita ensamblaje! Tu elevador de escritorio para estar de pie o sentado llega completamente ensamblado. Colócalo en tu escritorio o mesa actual para un uso instantáneo. Mejora la postura, la productividad y la salud sin esfuerzo.",
+          "Marca de confianza: Cada vez que compras un producto Vari, obtienes calidad, conveniencia y una compra sin riesgos de la que puedes sentirte bien. Con 30 días de devoluciones gratuitas y una fantástica garantía de 5 años, puedes estar seguro de que te encantarán tus accesorios para escritorios de pie."
+        ]
+      }
+    ],
+    "totalDuration": 40
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      ""
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:10",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "herramienta",
+    "para",
+    "optimizar",
+    "oficina",
+    "casa"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 1 Herramienta para Optimizar tu Oficina en Casa",
+      "angle": "Top 1 Herramienta para Optimizar tu Oficina en Casa",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 1,
+      "introScript": "¿Has imaginado tener una estación de trabajo que se ajusta automáticamente a tu postura? Con la revolución de los gadgets tecnológicos, ahora es posible. Descubre cómo un innovador escritorio inteligente puede transformar tu experiencia laboral en casa. Desde alturas ajustables mediante control táctil, hasta recordatorios integrados para mejorar tu postura durante el día. Este producto es un must para cualquier profesional que quiera maximizar su comodidad mientras trabaja desde casa. Prepárate para llevar tu oficina casera al siguiente nivel.",
+      "keywords": [
+        "herramienta",
+        "para",
+        "optimizar",
+        "oficina",
+        "casa"
+      ],
+      "estimatedViews": 5933,
+      "bestPublishTime": "2026-07-22T19:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "VariDesk Pro Plus",
+          "searchTermEn": "VariDesk Pro Plus desk",
+          "id": "B00JI6NCCK",
+          "filename": "B00JI6NCCK.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-07-21T16:40:47.504Z",
+      "_requestedCount": 1,
+      "_adaptedCount": 1,
+      "introProductsOrder": [
+        {
+          "nombre": "VariDesk Pro Plus",
+          "id": "B00JI6NCCK",
+          "filename": "B00JI6NCCK.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B00JI6NCCK.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1784652166222_opq54g"
+    },
+    "generatedAt": "2026-07-21T16:42:54.898Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "VariDesk Pro Plus",
+        "searchTermEn": "VariDesk Pro Plus desk",
+        "id": "B00JI6NCCK",
+        "filename": "B00JI6NCCK.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 1 Herramienta para Optimizar tu Oficina en Casa\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\n\n\n[25s-35s] INTRODUCTION\n\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] VARIDESK PRO PLUS\n¿Dos monitores en un paso? El VariDesk Pro Plus convierte tu escritorio en uno de pie rápidamente. Con un nivel superior de treinta y seis pulgadas por doce punto veinticinco, acomoda dos monitores; debajo, espacio para teclado y ratón. Eleva y baja con facilidad gracias a su sistema de resortes; olvídate del estrés... Asas duales y acero recubierto garantizan seguridad. Sin armados complicados; listo para usar al instante. Confiabilidad garantizada con una sólida estructura y cinco años de garantía.\nSu precio actual ronda los... 549 dólares. Link en comentarios.\n\n[VISUALS: Product image: VariDesk Pro Plus]\n\n[10 seconds] CONCLUSION\n\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:10\nTONE: engaging\nPACING: quick\nKEYWORDS: herramienta, para, optimizar, oficina, casa\n"
+}

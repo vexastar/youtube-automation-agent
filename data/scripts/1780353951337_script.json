@@ -1,0 +1,344 @@
+{
+  "title": "Top 3 Gadgets Infantiles más Deseados",
+  "hook": {
+    "type": "statement",
+    "text": "Increíblemente interactivo. Perfectamente iluminado. Asombrosamente estable.",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "Suscríbete para más gadgets. Links en el primer comentario.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "25s-30s"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Sphero Mini Robot",
+        "productId": "B072B6QVVW",
+        "productName": "Sphero Mini Robot",
+        "filename": "B072B6QVVW.mp4",
+        "asin": "B072B6QVVW",
+        "clipDuration": 60.03,
+        "estimatedAudioSeconds": 58,
+        "framework": "experiencia_sensorial",
+        "narracionSegments": null,
+        "content": [
+          "Este pequeño robot, del tamaño de una pelota de ping pong, es una experiencia sensorial completa. Con su giroscopio integrado y luces LED brillantes, el Sphero Mini Robot permite a los principiantes sumergirse en la robótica mientras juegan. Utiliza la aplicación Sphero Edu para programarlo fácilmente con código o a través de juegos interactivos. Aparte de su modo de conducción y juegos arcade, ofrece una aventura educativa única.",
+          "Su precio actual en Amazon ronda los... 50 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Sphero Mini Robot"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B072B6QVVW_combined.mp4",
+        "precio": "$50",
+        "productPhoto": "https://m.media-amazon.com/images/I/61ioFHqXsqL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B072B6QVVW\\scenes_v1\\B072B6QVVW_scene_19.mp4",
+            "type": "video",
+            "score": 10,
+            "tag": "robot pequeño",
+            "raw": "10|robot pequeño"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B072B6QVVW\\scenes_v1\\B072B6QVVW_scene_14.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "robot interactivo",
+            "raw": "9|robot interactivo"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B072B6QVVW\\scenes_v1\\B072B6QVVW_scene_15.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B072B6QVVW\\scenes_v1\\B072B6QVVW_scene_16.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "robot programable",
+            "raw": "8|robot programable"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B072B6QVVW\\scenes_v1\\B072B6QVVW_scene_05.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "producto pequeño",
+            "raw": "5|producto pequeño"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B072B6QVVW\\scenes_v1\\B072B6QVVW_scene_11.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "robot pequeño",
+            "raw": "5|robot pequeño"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B072B6QVVW\\scenes_v1\\B072B6QVVW_scene_24.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "robots pequeños",
+            "raw": "5|robots pequeños"
+          }
+        ],
+        "features": [
+          "\"\"\"PEQUEÑO ROBOT, MUCHO DIVERTIDO: Sphero Mini ofrece una gran cantidad de diversión en un pequeño robot programable del tamaño de una pelota de ping pong. Equipado con un giroscopio, acelerómetro y luces LED coloridas, este robot educativo es más que un simple juguete robot mini. ¡Sphero Mini es la entrada perfecta a la robótica para principiantes!\"\"\"",
+          "APRENDE A PROGRAMAR: Impulsado por la gratuita Sphero Edu app, puedes crear y personalizar juegos y programar Sphero Mini dibujando en tu pantalla, utilizando bloques de código de arrastrar y soltar, o escribiendo JavaScript.",
+          "MODO DE CONDUCCIÓN: Los principiantes pueden conducir y jugar juegos inspirados en STEM con la aplicación gratuita Sphero Play. Arrastra y conduce con el modo Joystick, tira hacia atrás y suelta con el modo Slingshot o inclina y rota tu dispositivo móvil con el modo Tilt. Incluido con Sphero Mini hay 3 conos de tráfico y 6 bolos para inspirar diversión en un circuito de obstáculos desde el primer momento.",
+          "\"\"\"JUGAR JUEGOS: Usa Sphero Mini como un controlador de juegos para juegos de estilo arcade en la aplicación Sphero Play. Perfecto para jugar en movimiento o con espacio limitado. Elige entre 3 juegos diferentes: dispara a través del espacio, acelera a través de un túnel o destruye un polígono de ladrillos. Con 1 hora de tiempo de juego, Sphero Mini es la próxima gran novedad.\"\"\"",
+          "INSPIRANDO A LOS CREADORES DEL MAÑANA: Con nuestra indudablemente genial flota de robots programables y herramientas educativas STEAM, estamos inspirando a una nueva generación de inventores y agentes de cambio a través del aprendizaje práctico aplicado de programación, ciencia, música y artes."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Potensic A20 Mini Drone",
+        "productId": "B0BFWS4N4T",
+        "productName": "Potensic A20 Mini Drone",
+        "filename": "B0BFWS4N4T.mp4",
+        "asin": "B0BFWS4N4T",
+        "clipDuration": 60.03,
+        "estimatedAudioSeconds": 57,
+        "framework": "problema_solucion",
+        "narracionSegments": null,
+        "content": [
+          "\"¿El viento estropea tus vuelos? El Potensic A20 Mini Drone ofrece una solución con su resistencia nivel 5 al viento. Compacto y plegable, cabe perfectamente en tu bolsillo y está listo para despegar incluso en condiciones difíciles.\" Su motor sin escobillas garantiza estabilidad y su cámara 4K captura imágenes impresionantes. Descubre nuevos horizontes con sus versátiles modos de control.",
+          "\"Su precio actual en Amazon ronda los... 210 dólares. ¡Link en el primer comentario!\""
+        ],
+        "visuals": [
+          "Product image: Potensic A20 Mini Drone"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0BFWS4N4T_combined.mp4",
+        "precio": "$210",
+        "productPhoto": "https://m.media-amazon.com/images/I/61fbYPFOoSL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BFWS4N4T\\scenes_v1\\B0BFWS4N4T_scene_04.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Dron en uso",
+            "raw": "9|Dron en uso"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BFWS4N4T\\scenes_v1\\B0BFWS4N4T_scene_05.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "drone encendido",
+            "raw": "9|drone encendido"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BFWS4N4T\\scenes_v1\\B0BFWS4N4T_scene_07.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "drone y control",
+            "raw": "9|drone y control"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BFWS4N4T\\scenes_v1\\B0BFWS4N4T_scene_08.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "drone y control remoto",
+            "raw": "9|drone y control remoto"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BFWS4N4T\\scenes_v1\\B0BFWS4N4T_scene_09.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Interacción con dron",
+            "raw": "9|Interacción con dron"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0BFWS4N4T\\scenes_v1\\B0BFWS4N4T_scene_02.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "control remoto",
+            "raw": "5|control remoto"
+          }
+        ],
+        "features": [
+          "【𝐋𝐢𝐠𝐡𝐭𝐰𝐞𝐢𝐠𝐡𝐭 𝐚𝐧𝐝 𝐋𝐞𝐯𝐞𝐥-𝟓 𝐖𝐢𝐧𝐝 𝐑𝐞𝐬𝐢𝐬𝐭𝐚𝐧𝐜𝐞】El dron ATOM SE pesa 𝐥𝐞𝐬𝐬 𝐭𝐡𝐚𝐧 𝟐𝟒𝟗𝐠, 𝐧𝐨 𝐧𝐞𝐞𝐝 𝐟𝐨𝐫 𝐅𝐀𝐀& 𝐑𝐞𝐦𝐨𝐭𝐞 𝐈𝐃 𝐑𝐞𝐠𝐢𝐬𝐭𝐫𝐚𝐭𝐢𝐨𝐧. El diseño plegable se compacta lo suficiente como para caber en un bolsillo de chaqueta. El motor 𝐛𝐫𝐮𝐬𝐡𝐥𝐞𝐬𝐬 integrado hace que el dron 𝐫𝐞𝐬𝐢𝐬𝐭 𝐥𝐞𝐯𝐞𝐥-𝟓 𝐰𝐢𝐧𝐝 y vuele de manera estable.",
+          "【𝟒𝐊 𝐄𝐈𝐒 𝐂𝐚𝐦𝐞𝐫𝐚 𝐰𝐢𝐭𝐡 𝐒𝐨𝐧𝐲 𝐒𝐞𝐧𝐬𝐨𝐫】El dron está equipado con un 𝟏/𝟑’’ 𝐂𝐌𝐎𝐒 𝐒𝐨𝐧𝐲 𝐒𝐞𝐧𝐬𝐨𝐫. Puede tomar fotos de 𝟏𝟐𝐌𝐏 y grabar video en HD a 𝟒𝐊@𝟑𝟎𝐟𝐩𝐬. La exclusiva tecnología ShakeVanish ayuda a obtener imágenes más estables y suaves dentro de un FOV de 118° y una cámara vertical de +20° a -90°.",
+          "\"\"\"【𝐄𝐚𝐬𝐲 𝐭𝐨 𝐔𝐬𝐞, 𝐒𝐮𝐫𝐠𝐞𝐅𝐥𝐲 𝐅𝐥𝐞𝐱𝐢𝐛𝐥𝐞 𝐂𝐨𝐧𝐭𝐫𝐨𝐥】El sistema de control de vuelo SurgeFly proporciona el 𝐁𝐞𝐠𝐢𝐧𝐧𝐞𝐫 𝐌𝐨𝐝𝐞 y 3 modos de vuelo - 𝐕𝐢𝐝𝐞𝐨, 𝐍𝐨𝐫𝐦𝐚𝐥, y 𝐒𝐩𝐨𝐫𝐭- permitiéndote desafiar tus habilidades mientras te conviertes en un piloto avanzado con una experiencia de control de vuelo flexible y fácil. En el Modo Sport, la velocidad máxima puede alcanzar hasta 16m/s en 2.8s.\"\"\"",
+          "\"\"\"【𝟔𝟐 𝐌𝐢𝐧𝐮𝐭𝐞𝐬 𝐅𝐥𝐢𝐠𝐡𝐭, 𝟐 𝐁𝐚𝐭𝐭𝐞𝐫𝐢𝐞𝐬】El dron ATOM SE 4K viene con 2 baterías inteligentes de 2500mAh, cada batería dura hasta 31 minutos, para un total de 𝟔𝟐 𝐦𝐢𝐧𝐮𝐭𝐞𝐬. Vuela más, carga menos. Te brinda más libertad para grabar los momentos creativos a tu alrededor.\"\"\"",
+          "【𝐏𝐢𝐱𝐒𝐲𝐧𝐜 𝟐.𝟎, 𝟒𝐊𝐦 𝐋𝐨𝐧𝐠 𝐓𝐫𝐚𝐧𝐬𝐦𝐢𝐬𝐬𝐢𝐨𝐧】El rango de control es de hasta 𝟒𝐊𝐦/𝟏𝟑,𝟏𝟐𝟑𝐟𝐭. La tecnología PixSync 2.0 garantiza un video estable y consistente en la mayoría de las condiciones de grabación y permite una baja latencia para video digital en HD."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Mars Dust Globe",
+        "productId": "B0FM8TCBMT",
+        "productName": "Mars Dust Globe",
+        "filename": "B0FM8TCBMT.mp4",
+        "asin": "B0FM8TCBMT",
+        "clipDuration": 60.03,
+        "estimatedAudioSeconds": 28,
+        "framework": "enfoque_caracteristica",
+        "narracionSegments": null,
+        "content": [
+          "La lámpara Mars Dust Globe ofrece detalles planetarios auténticos y una superficie texturizada impresionante. Con iluminación LED ajustable, puedes cambiar entre tres temperaturas de color para crear la atmósfera perfecta. Hecha de material PLA ecológico, es segura para niños y duradera.",
+          "Su precio actual en Amazon ronda los 25 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Mars Dust Globe"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0FM8TCBMT_combined.mp4",
+        "precio": "$25",
+        "productPhoto": "https://m.media-amazon.com/images/I/71gQnuO1L4L.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FM8TCBMT\\scenes_v1\\B0FM8TCBMT_scene_02.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "producto pequeño",
+            "raw": "5|producto pequeño"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FM8TCBMT\\scenes_v1\\B0FM8TCBMT_scene_01.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "luz LED",
+            "raw": "5|luz LED"
+          }
+        ],
+        "features": [
+          "✅ Lámpara de Planeta Neptuno 3D Ultra-Realista – Detalles planetarios auténticos y superficie texturizada crean una impresionante decoración del sistema solar, perfecta para amantes del espacio, observadores de estrellas y coleccionistas de astronomía.",
+          "✅ Iluminación LED ajustable de 3 temperaturas – Cambia fácilmente entre Amarillo Cálido (3000K), Blanco Puro (4000K) y Blanco Frío (6000K) para crear la ambientación ideal en dormitorios, escritorios de estudio o salas de estar.",
+          "✅ La Base con Cable viene con un cable USB para alimentación continua plug-and-play. Hecho en EE. UU.",
+          "✅ Material PLA Ecológico y Duradero – Hecho de filamento PLA premium, no tóxico, ligero, seguro para niños y diseñado para durar mientras mantiene detalles planetarios altamente realistas.",
+          "✅ Base Stand de Estilo Rock Incluida – Añade estabilidad y elegancia a tu exhibición. Ideal para escritorios, mesitas de noche, estanterías, o como un centro de atención destacado en cualquier habitación."
+        ]
+      }
+    ],
+    "totalDuration": 120
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      null
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "2:28",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "infantiles",
+    "deseados"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 3 Gadgets Infantiles más Deseados",
+      "angle": "Top 3 Gadgets Infantiles más Deseados",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 3,
+      "introScript": "Imagina un robot que enseña a programar jugando, un drone que los más pequeños pueden pilotar y un globo que convierte la habitación en un planeta diferente. Hoy te traigo los juguetes tecnológicos más alucinantes que puedes encontrar ahora mismo.",
+      "keywords": [
+        "gadgets",
+        "infantiles",
+        "deseados"
+      ],
+      "estimatedViews": 4184,
+      "bestPublishTime": "2026-06-03T19:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Sphero Mini Robot",
+          "searchTermEn": "Sphero Mini Robot ball",
+          "id": "B072B6QVVW",
+          "filename": "B072B6QVVW.mp4"
+        },
+        {
+          "nombre": "Potensic A20 Mini Drone",
+          "searchTermEn": "Potensic A20 Mini Drone",
+          "id": "B0BFWS4N4T",
+          "filename": "B0BFWS4N4T.mp4"
+        },
+        {
+          "nombre": "Mars Dust Globe",
+          "searchTermEn": "Mars Dust Globe lamp",
+          "id": "B0FM8TCBMT",
+          "filename": "B0FM8TCBMT.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-06-01T22:36:06.780Z",
+      "_requestedCount": 3,
+      "_adaptedCount": 3,
+      "introProductsOrder": [
+        {
+          "nombre": "Sphero Mini Robot",
+          "id": "B072B6QVVW",
+          "filename": "B072B6QVVW_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B072B6QVVW_combined.mp4"
+        },
+        {
+          "nombre": "Mars Dust Globe",
+          "id": "B0FM8TCBMT",
+          "filename": "B0FM8TCBMT_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0FM8TCBMT_combined.mp4"
+        },
+        {
+          "nombre": "Potensic A20 Mini Drone",
+          "id": "B0BFWS4N4T",
+          "filename": "B0BFWS4N4T_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0BFWS4N4T_combined.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1780353805257_508zw7"
+    },
+    "generatedAt": "2026-06-01T22:45:30.309Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Sphero Mini Robot",
+        "searchTermEn": "Sphero Mini Robot ball",
+        "id": "B072B6QVVW",
+        "filename": "B072B6QVVW.mp4"
+      },
+      {
+        "nombre": "Potensic A20 Mini Drone",
+        "searchTermEn": "Potensic A20 Mini Drone",
+        "id": "B0BFWS4N4T",
+        "filename": "B0BFWS4N4T.mp4"
+      },
+      {
+        "nombre": "Mars Dust Globe",
+        "searchTermEn": "Mars Dust Globe lamp",
+        "id": "B0FM8TCBMT",
+        "filename": "B0FM8TCBMT.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 3 Gadgets Infantiles más Deseados\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\nIncreíblemente interactivo. Perfectamente iluminado. Asombrosamente estable.\n\n[25s-30s] INTRODUCTION\nSuscríbete para más gadgets. Links en el primer comentario.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] SPHERO MINI ROBOT\nEste pequeño robot, del tamaño de una pelota de ping pong, es una experiencia sensorial completa. Con su giroscopio integrado y luces LED brillantes, el Sphero Mini Robot permite a los principiantes sumergirse en la robótica mientras juegan. Utiliza la aplicación Sphero Edu para programarlo fácilmente con código o a través de juegos interactivos. Aparte de su modo de conducción y juegos arcade, ofrece una aventura educativa única.\nSu precio actual en Amazon ronda los... 50 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Sphero Mini Robot]\n\n[0:25] POTENSIC A20 MINI DRONE\n\"¿El viento estropea tus vuelos? El Potensic A20 Mini Drone ofrece una solución con su resistencia nivel 5 al viento. Compacto y plegable, cabe perfectamente en tu bolsillo y está listo para despegar incluso en condiciones difíciles.\" Su motor sin escobillas garantiza estabilidad y su cámara 4K captura imágenes impresionantes. Descubre nuevos horizontes con sus versátiles modos de control.\n\"Su precio actual en Amazon ronda los... 210 dólares. ¡Link en el primer comentario!\"\n\n[VISUALS: Product image: Potensic A20 Mini Drone]\n\n[0:25] MARS DUST GLOBE\nLa lámpara Mars Dust Globe ofrece detalles planetarios auténticos y una superficie texturizada impresionante. Con iluminación LED ajustable, puedes cambiar entre tres temperaturas de color para crear la atmósfera perfecta. Hecha de material PLA ecológico, es segura para niños y duradera.\nSu precio actual en Amazon ronda los 25 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Mars Dust Globe]\n\n[10 seconds] CONCLUSION\nundefined\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 2:28\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, infantiles, deseados\n"
+}

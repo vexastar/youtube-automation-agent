@@ -1,0 +1,170 @@
+{
+  "title": "3 Gadgets Increíbles que Transformarán tu Cocina",
+  "hook": {
+    "type": "statement",
+    "text": "Corta y pesa alimentos con precisión milimétrica. Envuelve cualquier plato herméticamente. Desinfecta frutas en minutos sin esfuerzo.",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "Suscríbete, los links están en el primer comentario. Empecemos.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0:10-0:15"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Cortador y Balanza Plegable",
+        "productId": "prod_1",
+        "productName": "Cortador y Balanza Plegable",
+        "filename": "B09XLG3YQB.mp4",
+        "content": [
+          "¿Te cuesta cortar y pesar alimentos con exactitud? El Cortador y Balanza Plegable soluciona todo en uno: corta y mide con precisión. Es portátil, ideal para cocinas pequeñas.",
+          "Su precio actual en Amazon ronda los... 15 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Cortador y Balanza Plegable"
+        ],
+        "duration": 25,
+        "precio": "$15",
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B09XLG3YQB.mp4"
+      },
+      {
+        "type": "content",
+        "title": "Tapas de Silicona Elásticas",
+        "productId": "prod_2",
+        "productName": "Tapas de Silicona Elásticas",
+        "filename": "B0CHZ69ZFN.mp4",
+        "content": [
+          "¿Cansado de los recipientes sin tapa y film plástico? Las Tapas de Silicona Elásticas se ajustan a cualquier recipiente, manteniendo la frescura. Son reutilizables y fáciles de limpiar.",
+          "Su precio actual en Amazon ronda los... 20 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Tapas de Silicona Elásticas"
+        ],
+        "duration": 25,
+        "precio": "$20",
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0CHZ69ZFN.mp4"
+      },
+      {
+        "type": "content",
+        "title": "Limpiador de Frutas Inalámbrico",
+        "productId": "prod_3",
+        "productName": "Limpiador de Frutas Inalámbrico",
+        "filename": "B0FBR9XKHX.mp4",
+        "content": [
+          "Limpiar frutas puede ser un dolor de cabeza y no siempre es efectivo. Con el Limpiador de Frutas Inalámbrico, desinfecta sin químicos y en pocos minutos. Funciona con carga USB, muy práctico.",
+          "Su precio actual en Amazon ronda los... 25 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Limpiador de Frutas Inalámbrico"
+        ],
+        "duration": 25,
+        "precio": "$25",
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0FBR9XKHX.mp4"
+      }
+    ],
+    "totalDuration": 75
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "Dale like y recuerda que los links están en el primer comentario."
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:45",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "increbles",
+    "transformarn",
+    "cocina"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "3 Gadgets Increíbles que Transformarán tu Cocina",
+      "angle": "3 Gadgets Increíbles que Transformarán tu Cocina",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 3,
+      "introScript": "Descubre cómo un cortador y balanza plegable puede ahorrarte espacio, mientras que las tapas de silicona elásticas mantienen tus alimentos frescos. Además, un limpiador de frutas inalámbrico revolucionará tu forma de limpiar frutas. Estos tres gadgets no solo mejoran la eficiencia, sino que también aportan innovación a tu cocina.",
+      "keywords": [
+        "gadgets",
+        "increbles",
+        "transformarn",
+        "cocina"
+      ],
+      "estimatedViews": 3677,
+      "bestPublishTime": "2026-04-16T19:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "id": "B09XLG3YQB",
+          "nombre": "Cortador y Balanza Plegable",
+          "filename": "B09XLG3YQB.mp4",
+          "precio": 15,
+          "searchTermEn": "Cortador y Balanza Plegable"
+        },
+        {
+          "id": "B0CHZ69ZFN",
+          "nombre": "Tapas de Silicona Elásticas",
+          "filename": "B0CHZ69ZFN.mp4",
+          "precio": 20,
+          "searchTermEn": "Tapas de Silicona Elásticas"
+        },
+        {
+          "id": "B0FBR9XKHX",
+          "nombre": "Limpiador de Frutas Inalámbrico",
+          "filename": "B0FBR9XKHX.mp4",
+          "precio": 25,
+          "searchTermEn": "Limpiador de Frutas Inalámbrico"
+        }
+      ],
+      "_sourceFile": "productos_locales.json",
+      "createdAt": "2026-04-13T21:53:24.649Z",
+      "_requestedCount": 3,
+      "_adaptedCount": 3,
+      "_scriptNonce": "nonce_1776117204664_rfkh0h"
+    },
+    "generatedAt": "2026-04-13T21:53:28.803Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "id": "B09XLG3YQB",
+        "nombre": "Cortador y Balanza Plegable",
+        "filename": "B09XLG3YQB.mp4",
+        "precio": 15,
+        "searchTermEn": "Cortador y Balanza Plegable"
+      },
+      {
+        "id": "B0CHZ69ZFN",
+        "nombre": "Tapas de Silicona Elásticas",
+        "filename": "B0CHZ69ZFN.mp4",
+        "precio": 20,
+        "searchTermEn": "Tapas de Silicona Elásticas"
+      },
+      {
+        "id": "B0FBR9XKHX",
+        "nombre": "Limpiador de Frutas Inalámbrico",
+        "filename": "B0FBR9XKHX.mp4",
+        "precio": 25,
+        "searchTermEn": "Limpiador de Frutas Inalámbrico"
+      }
+    ]
+  },
+  "fullScript": "TITLE: 3 Gadgets Increíbles que Transformarán tu Cocina\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\nCorta y pesa alimentos con precisión milimétrica. Envuelve cualquier plato herméticamente. Desinfecta frutas en minutos sin esfuerzo.\n\n[0:10-0:15] INTRODUCTION\nSuscríbete, los links están en el primer comentario. Empecemos.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] CORTADOR Y BALANZA PLEGABLE\n¿Te cuesta cortar y pesar alimentos con exactitud? El Cortador y Balanza Plegable soluciona todo en uno: corta y mide con precisión. Es portátil, ideal para cocinas pequeñas.\nSu precio actual en Amazon ronda los... 15 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Cortador y Balanza Plegable]\n\n[0:25] TAPAS DE SILICONA ELÁSTICAS\n¿Cansado de los recipientes sin tapa y film plástico? Las Tapas de Silicona Elásticas se ajustan a cualquier recipiente, manteniendo la frescura. Son reutilizables y fáciles de limpiar.\nSu precio actual en Amazon ronda los... 20 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Tapas de Silicona Elásticas]\n\n[0:25] LIMPIADOR DE FRUTAS INALÁMBRICO\nLimpiar frutas puede ser un dolor de cabeza y no siempre es efectivo. Con el Limpiador de Frutas Inalámbrico, desinfecta sin químicos y en pocos minutos. Funciona con carga USB, muy práctico.\nSu precio actual en Amazon ronda los... 25 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Limpiador de Frutas Inalámbrico]\n\n[10 seconds] CONCLUSION\nDale like y recuerda que los links están en el primer comentario.\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:45\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, increbles, transformarn, cocina\n"
+}

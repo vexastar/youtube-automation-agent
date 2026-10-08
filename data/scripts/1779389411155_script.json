@@ -1,0 +1,904 @@
+{
+  "title": "3 Gadgets Novedosos que todo Influencer debe Revisar",
+  "hook": {
+    "type": "statement",
+    "text": "¿Carga veloz en segundos? ¿Iluminación perfecta al instante? ¿Videos estables sin esfuerzo?",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "Suscríbete y descubre más. Links en el primer comentario.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0:10-0:15"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Anker PowerPort Atom",
+        "productId": "B0B9MNJ3QN",
+        "productName": "Anker PowerPort Atom",
+        "filename": "B0B9MNJ3QN.mp4",
+        "asin": "B0B9MNJ3QN",
+        "clipDuration": 60.06,
+        "estimatedAudioSeconds": 138,
+        "framework": "enfoque_caracteristica",
+        "narracionSegments": null,
+        "content": [
+          "-High-Speed Charging- combinado con PowerIQ y VoltageBoost ofrece hasta 2.4A por puerto. Con puertos duales USB-A, carga dos dispositivos a la vez con salida de 24W. Incluye un Lightning Cable certificado MFi para Apple devices. Ideal para viajar, su diseño compacto con enchufe plegable lo hace imprescindible.",
+          "Su precio actual en Amazon ronda los... 15 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Anker PowerPort Atom"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0B9MNJ3QN_combined.mp4",
+        "precio": "$15",
+        "productPhoto": "https://m.media-amazon.com/images/I/31qDvuB7g-L.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "High-Speed Charging: Equipped with PowerIQ and VoltageBoost technologies, delivering up to 2.4A per port for efficient charging of smartphones, tablets, and other USB devices.",
+          "Dual USB-A Ports: Simultaneously charge two devices with 24W total output, ensuring optimal charging for multiple gadgets at once.",
+          "Included Lightning Cable: Comes with a 3-foot MFi Certified PowerLine Select+ Lightning to USB-A cable, providing a complete charging solution for Apple devices.",
+          "Compact and Travel-Ready: Features a foldable plug and universal 100-240V input, making it ideal for worldwide travel and easy to pack.",
+          "Durable Design: Robust textured casing and premium internal components ensure long-lasting performance, even with daily use."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "DJI Osmo Mobile 3",
+        "productId": "B07FSS4R16",
+        "productName": "DJI Osmo Mobile 3",
+        "filename": "B07FSS4R16.mp4",
+        "asin": "B07FSS4R16",
+        "clipDuration": 60.03,
+        "estimatedAudioSeconds": 138,
+        "framework": "beneficio_oculto",
+        "narracionSegments": null,
+        "content": [
+          "-Lo que nadie te dice- de este gimbal es su robusta estabilización de tres ejes, esencial para creadores de contenido que buscan calidad cinematográfica sin esfuerzo. Compacto y fácil de transportar, cuenta con un diseño plegable integrado y trípode incorporado. Con ActiveTrack 7.0 del DJI Mimo, seguirás a tus sujetos sin perder foco.",
+          "Su precio actual en Amazon ronda los... 99 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: DJI Osmo Mobile 3"
+        ],
+        "duration": 25,
+        "precio": "$59",
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07FSS4R16_combined.mp4",
+        "productPhoto": "https://m.media-amazon.com/images/I/61KyU5QgXXL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07FSS4R16\\scenes_v1\\B07FSS4R16_scene_20.mp4",
+            "type": "video",
+            "score": 10,
+            "tag": "interacción real",
+            "raw": "10|interacción real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07FSS4R16\\scenes_v1\\B07FSS4R16_scene_03.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07FSS4R16\\scenes_v1\\B07FSS4R16_scene_01.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "gimbal estabilizador",
+            "raw": "9|gimbal estabilizador"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07FSS4R16\\scenes_v1\\B07FSS4R16_scene_06.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07FSS4R16\\scenes_v1\\B07FSS4R16_scene_05.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Interacción gimbal",
+            "raw": "9|Interacción gimbal"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07FSS4R16\\scenes_v1\\B07FSS4R16_scene_08.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Interacción gimbal",
+            "raw": "9|Interacción gimbal"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07FSS4R16\\scenes_v1\\B07FSS4R16_scene_10.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "gimbal estabilizador",
+            "raw": "9|gimbal estabilizador"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07FSS4R16\\scenes_v1\\B07FSS4R16_scene_11.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "gimbal estabilizador",
+            "raw": "9|gimbal estabilizador"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07FSS4R16\\scenes_v1\\B07FSS4R16_scene_12.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "gimbal estabilizador",
+            "raw": "9|gimbal estabilizador"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07FSS4R16\\scenes_v1\\B07FSS4R16_scene_15.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07FSS4R16\\scenes_v1\\B07FSS4R16_scene_16.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Estabilizador gimbal",
+            "raw": "9|Estabilizador gimbal"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07FSS4R16\\scenes_v1\\B07FSS4R16_scene_19.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Estabilizador gimbal",
+            "raw": "9|Estabilizador gimbal"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07FSS4R16\\scenes_v1\\B07FSS4R16_scene_18.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Estabilizador gimbal",
+            "raw": "9|Estabilizador gimbal"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07FSS4R16\\scenes_v1\\B07FSS4R16_scene_22.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Interacción gimbal",
+            "raw": "9|Interacción gimbal"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07FSS4R16\\scenes_v1\\B07FSS4R16_scene_21.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Estabilizador gimbal",
+            "raw": "9|Estabilizador gimbal"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07FSS4R16\\scenes_v1\\B07FSS4R16_scene_24.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "gimbal estabilizador",
+            "raw": "9|gimbal estabilizador"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07FSS4R16\\scenes_v1\\B07FSS4R16_scene_26.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción gimbal",
+            "raw": "9|interacción gimbal"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07FSS4R16\\scenes_v1\\B07FSS4R16_scene_27.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Interacción gimbal",
+            "raw": "9|Interacción gimbal"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07FSS4R16\\scenes_v1\\B07FSS4R16_scene_25.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Interacción clara",
+            "raw": "9|Interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07FSS4R16\\scenes_v1\\B07FSS4R16_scene_29.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Interacción clara",
+            "raw": "9|Interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07FSS4R16\\scenes_v1\\B07FSS4R16_scene_28.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "gimbal estabilizador",
+            "raw": "9|gimbal estabilizador"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07FSS4R16\\scenes_v1\\B07FSS4R16_scene_30.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "gimbal estabilizador",
+            "raw": "9|gimbal estabilizador"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07FSS4R16\\scenes_v1\\B07FSS4R16_scene_31.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Interacción clara",
+            "raw": "9|Interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07FSS4R16\\scenes_v1\\B07FSS4R16_scene_32.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Interacción clara",
+            "raw": "9|Interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07FSS4R16\\scenes_v1\\B07FSS4R16_scene_33.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "gimbal estabilizador",
+            "raw": "9|gimbal estabilizador"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07FSS4R16\\scenes_v1\\B07FSS4R16_scene_34.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07FSS4R16\\scenes_v1\\B07FSS4R16_scene_36.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "gimbal estabilizador",
+            "raw": "9|gimbal estabilizador"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07FSS4R16\\scenes_v1\\B07FSS4R16_scene_37.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Interacción gimbal",
+            "raw": "9|Interacción gimbal"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07FSS4R16\\scenes_v1\\B07FSS4R16_scene_38.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Interacción clara",
+            "raw": "9|Interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07FSS4R16\\scenes_v1\\B07FSS4R16_scene_39.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción gimbal",
+            "raw": "9|interacción gimbal"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07FSS4R16\\scenes_v1\\B07FSS4R16_scene_41.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción manos",
+            "raw": "9|interacción manos"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07FSS4R16\\scenes_v1\\B07FSS4R16_scene_43.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Estabilizador gimbal",
+            "raw": "9|Estabilizador gimbal"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07FSS4R16\\scenes_v1\\B07FSS4R16_scene_42.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "gimbal estabilizador",
+            "raw": "9|gimbal estabilizador"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07FSS4R16\\scenes_v1\\B07FSS4R16_scene_45.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07FSS4R16\\scenes_v1\\B07FSS4R16_scene_47.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "gimbal estabilizador",
+            "raw": "9|gimbal estabilizador"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07FSS4R16\\scenes_v1\\B07FSS4R16_scene_48.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07FSS4R16\\scenes_v1\\B07FSS4R16_scene_07.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "gimbal estabilizador",
+            "raw": "8|gimbal estabilizador"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07FSS4R16\\scenes_v1\\B07FSS4R16_scene_09.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "gimbal estabilizador",
+            "raw": "8|gimbal estabilizador"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07FSS4R16\\scenes_v1\\B07FSS4R16_scene_14.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "gimbal estabilizador",
+            "raw": "8|gimbal estabilizador"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07FSS4R16\\scenes_v1\\B07FSS4R16_scene_44.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "gimbal estabilizador",
+            "raw": "8|gimbal estabilizador"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07FSS4R16\\scenes_v1\\B07FSS4R16_scene_51.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "gimbal estabilizador",
+            "raw": "8|gimbal estabilizador"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07FSS4R16\\scenes_v1\\B07FSS4R16_scene_17.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "gimbal estabilizador",
+            "raw": "5|gimbal estabilizador"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07FSS4R16\\scenes_v1\\B07FSS4R16_scene_49.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "gimbal estabilizador",
+            "raw": "5|gimbal estabilizador"
+          }
+        ],
+        "features": [
+          "Experience Seamless Stability - Osmo Mobile 7's robust 3-axis gimbal stabilization ensures lossless stability, making it a vital part of any content creator's essentials. Capture creative bursts and craft stunning, cinema-quality masterpieces with ease.",
+          "Streamline Your Creativity - The Osmo Mobile 7 phone gimbal features an integrated foldable design with a built-in tripod [5], making solo creation effortless and storage hassle-free.",
+          "Stay In Focus - With DJI Mimo's ActiveTrack 7.0, track subjects with your gimbal in more diverse scenarios. No matter how bold your moves, enjoy smooth tracking every step of the way.",
+          "Capture Like a Pro From Day One - Pair your Osmo Mobile 7 with DJI Mimo for ShotGuides and One-Tap Edit. Film and edit like a pro, saving time and enhancing your creative storytelling instantly.",
+          "Ultra-Light With Comfortable Grip - At just 300 grams [4], Osmo Mobile 7 boasts an ergonomic design and an anti-slip handle, making it the ideal phone gimbal for extended use."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Lume Cube Panel Mini",
+        "productId": "B087CBJTM5",
+        "productName": "Lume Cube Panel Mini",
+        "filename": "B087CBJTM5.mp4",
+        "asin": "B087CBJTM5",
+        "clipDuration": 60.03,
+        "estimatedAudioSeconds": 138,
+        "framework": "comparacion_precio",
+        "narracionSegments": null,
+        "content": [
+          "-Este panel LED- del tamaño de una tarjeta de crédito ofrece brillo ajustable de hasta 300 lúmenes y temperatura de color personalizada entre 3200K y 5600K. Comparado con otras luces, proporciona la iluminación perfecta con una batería que dura hasta 14 horas para sesiones prolongadas.",
+          "-Su precio actual en Amazon ronda los... 56 dólares-. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Lume Cube Panel Mini"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B087CBJTM5_combined.mp4",
+        "precio": "$56",
+        "productPhoto": "https://m.media-amazon.com/images/I/71+j4Ho2N1L.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B087CBJTM5\\scenes_v1\\B087CBJTM5_scene_07.mp4",
+            "type": "video",
+            "score": 10,
+            "tag": "interacción real",
+            "raw": "10|interacción real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B087CBJTM5\\scenes_v1\\B087CBJTM5_scene_10.mp4",
+            "type": "video",
+            "score": 10,
+            "tag": "luz LED",
+            "raw": "10|luz LED"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B087CBJTM5\\scenes_v1\\B087CBJTM5_scene_36.mp4",
+            "type": "video",
+            "score": 10,
+            "tag": "luz portátil",
+            "raw": "10|luz portátil"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B087CBJTM5\\scenes_v1\\B087CBJTM5_scene_48.mp4",
+            "type": "video",
+            "score": 10,
+            "tag": "interacción real",
+            "raw": "10|interacción real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B087CBJTM5\\scenes_v1\\B087CBJTM5_scene_03.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "luz LED",
+            "raw": "9|luz LED"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B087CBJTM5\\scenes_v1\\B087CBJTM5_scene_01.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "luz LED portátil",
+            "raw": "9|luz LED portátil"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B087CBJTM5\\scenes_v1\\B087CBJTM5_scene_02.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "producto encendido",
+            "raw": "9|producto encendido"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B087CBJTM5\\scenes_v1\\B087CBJTM5_scene_04.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B087CBJTM5\\scenes_v1\\B087CBJTM5_scene_09.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "producto en mano",
+            "raw": "9|producto en mano"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B087CBJTM5\\scenes_v1\\B087CBJTM5_scene_08.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B087CBJTM5\\scenes_v1\\B087CBJTM5_scene_11.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "luz LED",
+            "raw": "9|luz LED"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B087CBJTM5\\scenes_v1\\B087CBJTM5_scene_13.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "luz LED",
+            "raw": "9|luz LED"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B087CBJTM5\\scenes_v1\\B087CBJTM5_scene_12.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B087CBJTM5\\scenes_v1\\B087CBJTM5_scene_14.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "luz LED",
+            "raw": "9|luz LED"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B087CBJTM5\\scenes_v1\\B087CBJTM5_scene_15.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B087CBJTM5\\scenes_v1\\B087CBJTM5_scene_17.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B087CBJTM5\\scenes_v1\\B087CBJTM5_scene_16.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "pantalla encendida",
+            "raw": "9|pantalla encendida"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B087CBJTM5\\scenes_v1\\B087CBJTM5_scene_19.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "luz LED",
+            "raw": "9|luz LED"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B087CBJTM5\\scenes_v1\\B087CBJTM5_scene_21.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "panel LED",
+            "raw": "9|panel LED"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B087CBJTM5\\scenes_v1\\B087CBJTM5_scene_22.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "luz LED portátil",
+            "raw": "9|luz LED portátil"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B087CBJTM5\\scenes_v1\\B087CBJTM5_scene_23.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "panel LED",
+            "raw": "9|panel LED"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B087CBJTM5\\scenes_v1\\B087CBJTM5_scene_24.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "luz LED",
+            "raw": "9|luz LED"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B087CBJTM5\\scenes_v1\\B087CBJTM5_scene_25.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B087CBJTM5\\scenes_v1\\B087CBJTM5_scene_28.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B087CBJTM5\\scenes_v1\\B087CBJTM5_scene_27.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "panel LED",
+            "raw": "9|panel LED"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B087CBJTM5\\scenes_v1\\B087CBJTM5_scene_29.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B087CBJTM5\\scenes_v1\\B087CBJTM5_scene_31.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "panel iluminado",
+            "raw": "9|panel iluminado"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B087CBJTM5\\scenes_v1\\B087CBJTM5_scene_30.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "panel LED",
+            "raw": "9|panel LED"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B087CBJTM5\\scenes_v1\\B087CBJTM5_scene_34.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "producto visible",
+            "raw": "9|producto visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B087CBJTM5\\scenes_v1\\B087CBJTM5_scene_33.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "iluminación LED",
+            "raw": "9|iluminación LED"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B087CBJTM5\\scenes_v1\\B087CBJTM5_scene_35.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B087CBJTM5\\scenes_v1\\B087CBJTM5_scene_38.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B087CBJTM5\\scenes_v1\\B087CBJTM5_scene_41.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "luz LED",
+            "raw": "9|luz LED"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B087CBJTM5\\scenes_v1\\B087CBJTM5_scene_40.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B087CBJTM5\\scenes_v1\\B087CBJTM5_scene_42.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B087CBJTM5\\scenes_v1\\B087CBJTM5_scene_43.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B087CBJTM5\\scenes_v1\\B087CBJTM5_scene_44.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B087CBJTM5\\scenes_v1\\B087CBJTM5_scene_47.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "luz LED",
+            "raw": "9|luz LED"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B087CBJTM5\\scenes_v1\\B087CBJTM5_scene_45.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B087CBJTM5\\scenes_v1\\B087CBJTM5_scene_46.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B087CBJTM5\\scenes_v1\\B087CBJTM5_scene_49.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "iluminación LED",
+            "raw": "9|iluminación LED"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B087CBJTM5\\scenes_v1\\B087CBJTM5_scene_50.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B087CBJTM5\\scenes_v1\\B087CBJTM5_scene_51.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B087CBJTM5\\scenes_v1\\B087CBJTM5_scene_52.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "iluminación LED",
+            "raw": "9|iluminación LED"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B087CBJTM5\\scenes_v1\\B087CBJTM5_scene_53.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B087CBJTM5\\scenes_v1\\B087CBJTM5_scene_54.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "luz LED portátil",
+            "raw": "9|luz LED portátil"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B087CBJTM5\\scenes_v1\\B087CBJTM5_scene_55.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "luz LED",
+            "raw": "9|luz LED"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B087CBJTM5\\scenes_v1\\B087CBJTM5_scene_60.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B087CBJTM5\\scenes_v1\\B087CBJTM5_scene_18.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "luz LED",
+            "raw": "8|luz LED"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B087CBJTM5\\scenes_v1\\B087CBJTM5_scene_06.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "producto pequeño",
+            "raw": "5|producto pequeño"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B087CBJTM5\\scenes_v1\\B087CBJTM5_scene_37.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "producto pequeño",
+            "raw": "5|producto pequeño"
+          }
+        ],
+        "features": [
+          "POCKET-SIZED: Enhance your photography with this portable powerhouse, tailored for professional DSLR cameras. This credit card sized camera light (3.6\" x 2.2\") is made with the highest grade druable aluminum. Easily Master your craft on the go with the versatile Panel Mini, which is compatible with all top camera brands. Your journey to exceptional photography starts here!",
+          "ADJUSTABLE BRIGHTNESS: Take command of your lighting with a 300 lumen panel that adjusts from 1% to 100%, providing enhanced control for your photography or video recording. Whether you're capturing the perfect shot or creating content for YouTube, this versatile LED light panel delivers the perfect illumination.",
+          "ADJUSTABLE COLOR TEMPERATURE: Illuminate your scenes with precision using this flicker-free LED panel light featuring adjustable color temperature from 3200K to 5600K. Seamlessly pair these camera lights with your DSLR camera, ensuring you achieve the perfect photography lighting for every shot.",
+          "LONG BATTERY LIFE: Capture your moments without interruption with a remarkable battery life of up to 14 hours. For extended use, simply plug it in and continue creating. This portable photography light is easy to pack, easy to use, ensuring you effortlessly capture better content with every shot.",
+          "CAMERA ACCESSORIES INCLUDED: This portable LED light comes with an extra light panel diffuser and shoe mount, designed for seamless integration with your LED video light. A must-have for on-the-go content creators, ensuring you maximize creativity wherever your journey takes you!"
+        ]
+      }
+    ],
+    "totalDuration": 75
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "-No olvides dejar tu like- y recuerda, los links están en el primer comentario."
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:45",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "novedosos",
+    "todo",
+    "influencer",
+    "debe",
+    "revisar",
+    "amazon"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 3 Gadgets Novedosos que todo Influencer debe Revisar en Amazon",
+      "angle": "Top 3 Gadgets Novedosos que todo Influencer debe Revisar en Amazon",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 3,
+      "introScript": "¿Te imaginas poder cargar todos tus dispositivos con un solo gadget? ¿O capturar tomas profesionales con solo un toque? Hoy vamos a conocer tres innovaciones tecnológicas que cualquier influencer querrá tener a su alcance. Desde estaciones de carga inteligentes hasta estabilizadores de video que caben en tu bolsillo. Prepárate para descubrir cómo maximizar tu contenido y simplificar tu flujo de trabajo creativo.",
+      "keywords": [
+        "gadgets",
+        "novedosos",
+        "todo",
+        "influencer",
+        "debe",
+        "revisar",
+        "amazon"
+      ],
+      "estimatedViews": 5087,
+      "bestPublishTime": "2026-05-28T19:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Anker PowerPort Atom",
+          "searchTermEn": "Anker PowerPort Atom charger",
+          "id": "B0B9MNJ3QN",
+          "filename": "B0B9MNJ3QN.mp4"
+        },
+        {
+          "nombre": "DJI Osmo Mobile 4",
+          "searchTermEn": "DJI Osmo Mobile 4 gimbal",
+          "id": "B07FSS4R16",
+          "filename": "B07FSS4R16.mp4"
+        },
+        {
+          "nombre": "Lume Cube Panel Mini",
+          "searchTermEn": "Lume Cube Panel Mini light",
+          "id": "B087CBJTM5",
+          "filename": "B087CBJTM5.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-05-21T18:31:45.808Z",
+      "_requestedCount": 3,
+      "_adaptedCount": 3,
+      "introProductsOrder": [
+        {
+          "nombre": "Anker PowerPort Atom",
+          "id": "B0B9MNJ3QN",
+          "filename": "B0B9MNJ3QN_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0B9MNJ3QN_combined.mp4"
+        },
+        {
+          "nombre": "Lume Cube Panel Mini",
+          "id": "B087CBJTM5",
+          "filename": "B087CBJTM5_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B087CBJTM5_combined.mp4"
+        },
+        {
+          "nombre": "DJI Osmo Mobile 4",
+          "id": "B07FSS4R16",
+          "filename": "B07FSS4R16_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07FSS4R16_combined.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1779389362275_fyo616"
+    },
+    "generatedAt": "2026-05-21T18:49:51.651Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Anker PowerPort Atom",
+        "searchTermEn": "Anker PowerPort Atom charger",
+        "id": "B0B9MNJ3QN",
+        "filename": "B0B9MNJ3QN.mp4"
+      },
+      {
+        "nombre": "DJI Osmo Mobile 4",
+        "searchTermEn": "DJI Osmo Mobile 4 gimbal",
+        "id": "B07FSS4R16",
+        "filename": "B07FSS4R16.mp4"
+      },
+      {
+        "nombre": "Lume Cube Panel Mini",
+        "searchTermEn": "Lume Cube Panel Mini light",
+        "id": "B087CBJTM5",
+        "filename": "B087CBJTM5.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: 3 Gadgets Novedosos que todo Influencer debe Revisar\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\n¿Carga veloz en segundos? ¿Iluminación perfecta al instante? ¿Videos estables sin esfuerzo?\n\n[0:10-0:15] INTRODUCTION\nSuscríbete y descubre más. Links en el primer comentario.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] ANKER POWERPORT ATOM\n-High-Speed Charging- combinado con PowerIQ y VoltageBoost ofrece hasta 2.4A por puerto. Con puertos duales USB-A, carga dos dispositivos a la vez con salida de 24W. Incluye un Lightning Cable certificado MFi para Apple devices. Ideal para viajar, su diseño compacto con enchufe plegable lo hace imprescindible.\nSu precio actual en Amazon ronda los... 15 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Anker PowerPort Atom]\n\n[0:25] DJI OSMO MOBILE 3\n-Lo que nadie te dice- de este gimbal es su robusta estabilización de tres ejes, esencial para creadores de contenido que buscan calidad cinematográfica sin esfuerzo. Compacto y fácil de transportar, cuenta con un diseño plegable integrado y trípode incorporado. Con ActiveTrack 7.0 del DJI Mimo, seguirás a tus sujetos sin perder foco.\nSu precio actual en Amazon ronda los... 99 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: DJI Osmo Mobile 3]\n\n[0:25] LUME CUBE PANEL MINI\n-Este panel LED- del tamaño de una tarjeta de crédito ofrece brillo ajustable de hasta 300 lúmenes y temperatura de color personalizada entre 3200K y 5600K. Comparado con otras luces, proporciona la iluminación perfecta con una batería que dura hasta 14 horas para sesiones prolongadas.\n-Su precio actual en Amazon ronda los... 56 dólares-. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Lume Cube Panel Mini]\n\n[10 seconds] CONCLUSION\n-No olvides dejar tu like- y recuerda, los links están en el primer comentario.\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:45\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, novedosos, todo, influencer, debe, revisar, amazon\n"
+}

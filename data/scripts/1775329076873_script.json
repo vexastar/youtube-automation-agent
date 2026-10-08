@@ -1,0 +1,130 @@
+{
+  "title": "Top 3 Gadgets de Cocina que Necesitas",
+  "hook": {
+    "type": "statement",
+    "text": "¿Listo para revolucionar tu cocina con gadgets que cambiarán tu vida? ¡Quédate con nosotros!",
+    "duration": "0:00-0:05"
+  },
+  "introduction": {
+    "greeting": "Hoy te traemos los 3 gadgets de cocina que no sabías que necesitabas, pero que una vez los conozcas, no podrás vivir sin ellos. Desde ahorrar tiempo hasta mantener todo más organizado, estos dispositivos harán que cocinar sea un placer.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0:05-0:15"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Batidor Automático",
+        "content": [
+          "¿Cansado de mezclar y mezclar hasta que el brazo ya no puede más? El batidor automático es la solución perfecta. Ideal para sopas, salsas o cualquier receta que requiera un batido continuo, simplemente colócalo en la olla y déjalo trabajar mientras tú te encargas de otras tareas. Es el gadget que todos los cocineros ocupados necesitan en su arsenal.",
+          "Encuéntralo por solo 6.09 dólares en el enlace de la descripción."
+        ],
+        "visuals": [
+          "Product image: Batidor Automático"
+        ],
+        "duration": 25
+      },
+      {
+        "type": "content",
+        "title": "Basurero Plegable de Cocina",
+        "content": [
+          "Mantén tu cocina libre de desorden con el basurero plegable. Este práctico gadget se cuelga fácilmente de la puerta del gabinete para ahorrar espacio mientras cocinas. Ya sea que estés picando verduras o pelando frutas, este basurero es el compañero perfecto para mantener todo limpio y organizado.",
+          "Revisa su precio actualizado de solo 12.55 dólares en el primer comentario."
+        ],
+        "visuals": [
+          "Product image: Basurero Plegable de Cocina"
+        ],
+        "duration": 25
+      },
+      {
+        "type": "content",
+        "title": "Tijeras de Hierbas",
+        "content": [
+          "Di adiós al tedioso trabajo de picar hierbas a mano con las tijeras de hierbas. Con múltiples cuchillas que cortan a la perfección, estas tijeras son ideales para darle ese toque fresco a tus platillos. Basil, perejil, cebolletas y más, todo listo en segundos para chefs y aficionados por igual.",
+          "Te dejo el enlace con descuento por solo 8.99 dólares en la descripción."
+        ],
+        "visuals": [
+          "Product image: Tijeras de Hierbas"
+        ],
+        "duration": 25
+      }
+    ],
+    "totalDuration": 75
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "Espero que estos gadgets transformen tu experiencia en la cocina. Si te gustó el video, no olvides darle like, suscribirte para más contenido y dejar tus comentarios abajo. ¡Nos vemos en el próximo video!"
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:45",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "cocina",
+    "necesitas"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 3 Gadgets de Cocina que Necesitas",
+      "angle": "Top 3 Gadgets de Cocina que Necesitas",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 3,
+      "keywords": [
+        "gadgets",
+        "cocina",
+        "necesitas"
+      ],
+      "estimatedViews": 4314,
+      "bestPublishTime": "2026-04-10T20:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Tijeras de hierbas",
+          "searchTermEn": "herb scissors kitchen"
+        },
+        {
+          "nombre": "Basurero plegable cocina",
+          "searchTermEn": "collapsible kitchen trash can"
+        },
+        {
+          "nombre": "Batidor automático",
+          "searchTermEn": "automatic kitchen whisk"
+        }
+      ],
+      "createdAt": "2026-04-04T18:55:23.285Z"
+    },
+    "generatedAt": "2026-04-04T18:57:56.734Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Tijeras de hierbas",
+        "searchTermEn": "herb scissors kitchen"
+      },
+      {
+        "nombre": "Basurero plegable cocina",
+        "searchTermEn": "collapsible kitchen trash can"
+      },
+      {
+        "nombre": "Batidor automático",
+        "searchTermEn": "automatic kitchen whisk"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 3 Gadgets de Cocina que Necesitas\n\n══════════════════════════════════════════════════\n\n[0:00-0:05] HOOK\n¿Listo para revolucionar tu cocina con gadgets que cambiarán tu vida? ¡Quédate con nosotros!\n\n[0:05-0:15] INTRODUCTION\nHoy te traemos los 3 gadgets de cocina que no sabías que necesitabas, pero que una vez los conozcas, no podrás vivir sin ellos. Desde ahorrar tiempo hasta mantener todo más organizado, estos dispositivos harán que cocinar sea un placer.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] BATIDOR AUTOMÁTICO\n¿Cansado de mezclar y mezclar hasta que el brazo ya no puede más? El batidor automático es la solución perfecta. Ideal para sopas, salsas o cualquier receta que requiera un batido continuo, simplemente colócalo en la olla y déjalo trabajar mientras tú te encargas de otras tareas. Es el gadget que todos los cocineros ocupados necesitan en su arsenal.\nEncuéntralo por solo 6.09 dólares en el enlace de la descripción.\n\n[VISUALS: Product image: Batidor Automático]\n\n[0:25] BASURERO PLEGABLE DE COCINA\nMantén tu cocina libre de desorden con el basurero plegable. Este práctico gadget se cuelga fácilmente de la puerta del gabinete para ahorrar espacio mientras cocinas. Ya sea que estés picando verduras o pelando frutas, este basurero es el compañero perfecto para mantener todo limpio y organizado.\nRevisa su precio actualizado de solo 12.55 dólares en el primer comentario.\n\n[VISUALS: Product image: Basurero Plegable de Cocina]\n\n[0:25] TIJERAS DE HIERBAS\nDi adiós al tedioso trabajo de picar hierbas a mano con las tijeras de hierbas. Con múltiples cuchillas que cortan a la perfección, estas tijeras son ideales para darle ese toque fresco a tus platillos. Basil, perejil, cebolletas y más, todo listo en segundos para chefs y aficionados por igual.\nTe dejo el enlace con descuento por solo 8.99 dólares en la descripción.\n\n[VISUALS: Product image: Tijeras de Hierbas]\n\n[10 seconds] CONCLUSION\nEspero que estos gadgets transformen tu experiencia en la cocina. Si te gustó el video, no olvides darle like, suscribirte para más contenido y dejar tus comentarios abajo. ¡Nos vemos en el próximo video!\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:45\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, cocina, necesitas\n"
+}

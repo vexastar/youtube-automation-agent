@@ -1,0 +1,140 @@
+{
+  "title": "Top 2 Gadgets Increíbles que Puedes Comprar Ahora",
+  "hook": {
+    "type": "statement",
+    "text": "Este dispositivo limpia el aire al instante. Esta lámpara flota como por arte de magia.",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "Suscríbete, los links están en el primer comentario. Empecemos.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0:10-0:15"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "AirSoap Purificador de Aire",
+        "productId": "B0B4ZSKPNL",
+        "productName": "AirSoap Purificador de Aire",
+        "filename": "B0B4ZSKPNL.mp4",
+        "content": [
+          "El aire de tu hogar está lleno de alérgenos invisibles. AirSoap Purificador de Aire elimina partículas dañinas para un ambiente más saludable. Funciona silenciosamente para que duermas tranquilo.",
+          "Su precio actual en Amazon ronda los... 24 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: AirSoap Purificador de Aire"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0B4ZSKPNL.mp4",
+        "precio": "$24",
+        "productPhoto": "https://m.media-amazon.com/images/I/71UoENKnfkL.jpg"
+      },
+      {
+        "type": "content",
+        "title": "Lámpara Levitante Flyte",
+        "productId": "B092DFPQT1",
+        "productName": "Lámpara Levitante Flyte",
+        "filename": "B092DFPQT1.mp4",
+        "content": [
+          "Las lámparas comunes nunca llaman la atención. La Lámpara Levitante Flyte desafía la gravedad, dándole un toque futurista a cualquier espacio. Además, tiene un diseño elegante que deja a todos asombrados.",
+          "Su precio actual en Amazon ronda los... 76 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Lámpara Levitante Flyte"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B092DFPQT1.mp4",
+        "precio": "$76",
+        "productPhoto": "https://m.media-amazon.com/images/I/712joUxQFIS.jpg"
+      }
+    ],
+    "totalDuration": 50
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "Dale like y recuerda que los links están en el primer comentario."
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:20",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "increbles",
+    "puedes",
+    "comprar",
+    "ahora"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 2 Gadgets Increíbles que Puedes Comprar Ahora",
+      "angle": "Top 3 Gadgets Increíbles que Puedes Comprar Ahora",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 2,
+      "introScript": "¿Un gadget que transforma tu viejo monitor en una pantalla táctil? ¿Un purificador que elimina virus del aire? Hoy te traigo los dispositivos más innovadores que ya están disponibles en Amazon. Descubre cómo la tecnología del futuro se convierte en realidad con estos productos revolucionarios.",
+      "keywords": [
+        "gadgets",
+        "increbles",
+        "puedes",
+        "comprar",
+        "ahora"
+      ],
+      "estimatedViews": 6456,
+      "bestPublishTime": "2026-05-03T15:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "AirSoap Purificador de Aire",
+          "searchTermEn": "AirSoap air purifier",
+          "id": "B0B4ZSKPNL",
+          "filename": "B0B4ZSKPNL.mp4"
+        },
+        {
+          "nombre": "Lámpara Levitante Flyte",
+          "searchTermEn": "Flyte levitating lamp",
+          "id": "B092DFPQT1",
+          "filename": "B092DFPQT1.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-04-29T16:46:26.491Z",
+      "_requestedCount": 3,
+      "_adaptedCount": 2,
+      "_adaptationNote": "ATENCIÓN: El usuario pidió 3 productos pero solo hay 2 clips de video disponibles. El guion, título y narrativa deben referirse EXCLUSIVAMENTE a 2 productos.",
+      "_scriptNonce": "nonce_1777481281757_3lzamq"
+    },
+    "generatedAt": "2026-04-29T16:48:07.146Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "AirSoap Purificador de Aire",
+        "searchTermEn": "AirSoap air purifier",
+        "id": "B0B4ZSKPNL",
+        "filename": "B0B4ZSKPNL.mp4"
+      },
+      {
+        "nombre": "Lámpara Levitante Flyte",
+        "searchTermEn": "Flyte levitating lamp",
+        "id": "B092DFPQT1",
+        "filename": "B092DFPQT1.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 2 Gadgets Increíbles que Puedes Comprar Ahora\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\nEste dispositivo limpia el aire al instante. Esta lámpara flota como por arte de magia.\n\n[0:10-0:15] INTRODUCTION\nSuscríbete, los links están en el primer comentario. Empecemos.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] AIRSOAP PURIFICADOR DE AIRE\nEl aire de tu hogar está lleno de alérgenos invisibles. AirSoap Purificador de Aire elimina partículas dañinas para un ambiente más saludable. Funciona silenciosamente para que duermas tranquilo.\nSu precio actual en Amazon ronda los... 24 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: AirSoap Purificador de Aire]\n\n[0:25] LÁMPARA LEVITANTE FLYTE\nLas lámparas comunes nunca llaman la atención. La Lámpara Levitante Flyte desafía la gravedad, dándole un toque futurista a cualquier espacio. Además, tiene un diseño elegante que deja a todos asombrados.\nSu precio actual en Amazon ronda los... 76 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Lámpara Levitante Flyte]\n\n[10 seconds] CONCLUSION\nDale like y recuerda que los links están en el primer comentario.\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:20\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, increbles, puedes, comprar, ahora\n"
+}

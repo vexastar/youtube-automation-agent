@@ -1,0 +1,142 @@
+{
+  "title": "Top 1 Gadgets Asombrosos que Puedes Comprar en Amazon",
+  "hook": {
+    "type": "statement",
+    "text": "Este dispositivo optimiza el flujo de agua en tu refrigerador.",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "Suscríbete, los links están en el primer comentario. Empecemos.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0:10-0:15"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Aquapur Fridge Magnet",
+        "productId": "B0CMQM7GW6",
+        "productName": "Aquapur Fridge Magnet",
+        "filename": "B0CMQM7GW6.mp4",
+        "asin": "B0CMQM7GW6",
+        "clipDuration": 27.3,
+        "estimatedAudioSeconds": 32,
+        "framework": "problema_solucion",
+        "narracionSegments": null,
+        "content": [
+          "¿Cansado de lidiar con dispensadores de agua que no responden? El Aquapur Fridge Magnet soluciona este problema con su diseño de palanca innovador. Presiona ligeramente y disfruta de un flujo de agua suave. Además, está hecho de materiales ecológicos que duran más y protegen el medio ambiente.",
+          "Su precio actual en Amazon ronda los... 15 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Aquapur Fridge Magnet"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0CMQM7GW6.mp4",
+        "precio": "$15",
+        "productPhoto": "https://m.media-amazon.com/images/I/51osJZlzWAL.jpg",
+        "assets": {
+          "images": [
+            "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CMQM7GW6\\img_01.jpg",
+            "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CMQM7GW6\\img_02.jpg",
+            "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CMQM7GW6\\img_03.jpg",
+            "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CMQM7GW6\\img_04.jpg",
+            "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CMQM7GW6\\img_05.jpg",
+            "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CMQM7GW6\\img_06.jpg"
+          ],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "🚨This product is protected by a patent. Reproduction, copying, or any form of infringement of intellectual property rights without authorization is prohibited. We reserve the right to pursue legal action against any infringement.",
+          "🚨[Universal Compatibility] Please note that this item is not suitable for GE refrigerator models. Compatible with select Jenn Air, Kitchen Aid and Whirlpool refrigerators that have internal water dispensers and screw-in façades. But it is not compatible with all models. Please thoroughly verify your water dispenser for fridge model prior to purchase and installation for compatibility. Our products are rigorously tested and, once assembled correctly, will provide you with a long-lasting and reliable experience.",
+          "[Innovative Lever Design] This fridge lever fully utilizes the lever principle - a light press on the bottom of the lever with a cup automatically triggers the water dispenser button above for smooth water flow. The unique structural design reliably activates the dispensing button, effectively preventing no water from coming out.",
+          "[Eco-Friendly Premium Materials] Made with innovative green materials that provide superior weather resistance and waterproofing, effectively preventing yellowing of the lever. With a toughness 15-20 times greater than standard plastics, it effectively stops pull rods from breaking, tremendously extending the product's lifespan. While ensuring sturdiness of the lever, it also minimizes environmental impact to the greatest extent possible.",
+          "[Effortless Single-Handed Operation] No longer interrupt your tasks just to get a drink of water. Our refrigerator water dispenser lever allows for easy one-handed operation. Simply slide your cup to push the lever and dispense water smoothly, without needing to put down the magazine you’re reading or pause your meeting or studies. Enjoy greater efficiency and convenience in your daily life."
+        ]
+      }
+    ],
+    "totalDuration": 25
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "Dale like y recuerda que los links están en el primer comentario."
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "0:55",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "asombrosos",
+    "puedes",
+    "comprar",
+    "amazon"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 1 Gadgets Asombrosos que Puedes Comprar en Amazon",
+      "angle": "Top 3 Gadgets Asombrosos que Puedes Comprar en Amazon",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 1,
+      "introScript": "¿Un gadget que convierte tu frigorífico en un dispensador de agua? ¿Un ventilador que purifica el aire mientras enfría? Hoy te mostraré tres gadgets impresionantes que puedes tener en casa, listos para transformar tu día a día.",
+      "keywords": [
+        "gadgets",
+        "asombrosos",
+        "puedes",
+        "comprar",
+        "amazon"
+      ],
+      "estimatedViews": 5725,
+      "bestPublishTime": "2026-05-12T19:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Aquapur Fridge Magnet",
+          "searchTermEn": "Aquapur refrigerator water dispenser",
+          "id": "B0CMQM7GW6",
+          "filename": "B0CMQM7GW6.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-05-05T21:38:16.560Z",
+      "_requestedCount": 3,
+      "_adaptedCount": 1,
+      "_adaptationNote": "ATENCIÓN: El usuario pidió 3 productos pero solo hay 1 clips de video disponibles. El guion, título y narrativa deben referirse EXCLUSIVAMENTE a 1 productos.",
+      "introProductsOrder": [
+        {
+          "nombre": "Aquapur Fridge Magnet",
+          "id": "B0CMQM7GW6",
+          "filename": "B0CMQM7GW6.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0CMQM7GW6_combined.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1778017311464_q030yc"
+    },
+    "generatedAt": "2026-05-05T21:41:54.195Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Aquapur Fridge Magnet",
+        "searchTermEn": "Aquapur refrigerator water dispenser",
+        "id": "B0CMQM7GW6",
+        "filename": "B0CMQM7GW6.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 1 Gadgets Asombrosos que Puedes Comprar en Amazon\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\nEste dispositivo optimiza el flujo de agua en tu refrigerador.\n\n[0:10-0:15] INTRODUCTION\nSuscríbete, los links están en el primer comentario. Empecemos.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] AQUAPUR FRIDGE MAGNET\n¿Cansado de lidiar con dispensadores de agua que no responden? El Aquapur Fridge Magnet soluciona este problema con su diseño de palanca innovador. Presiona ligeramente y disfruta de un flujo de agua suave. Además, está hecho de materiales ecológicos que duran más y protegen el medio ambiente.\nSu precio actual en Amazon ronda los... 15 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Aquapur Fridge Magnet]\n\n[10 seconds] CONCLUSION\nDale like y recuerda que los links están en el primer comentario.\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 0:55\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, asombrosos, puedes, comprar, amazon\n"
+}

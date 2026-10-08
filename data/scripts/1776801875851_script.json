@@ -1,0 +1,138 @@
+{
+  "title": "Top 2 Gadgets Imprescindibles para Ingenieros de Sistemas",
+  "hook": {
+    "type": "statement",
+    "text": "Este cuaderno reutilizable digitaliza tus notas al instante. Esta lámpara inteligente carga y organiza tu escritorio.",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "Suscríbete, los links están en el primer comentario. Empecemos.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0:10-0:15"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Rocketbook Everlast",
+        "productId": "B0DP3HLY4J",
+        "productName": "Rocketbook Everlast",
+        "filename": "B0DP3HLY4J.mp4",
+        "content": [
+          "Llenar cuadernos y perder notas importantes es frustrante. El Rocketbook Everlast te permite escribir y borrar infinitamente, mientras digitaliza tus apuntes en la nube. Además, es compatible con múltiples plataformas como Google Drive y Dropbox.",
+          "Su precio actual en Amazon ronda los... 30 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Rocketbook Everlast"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0DP3HLY4J.mp4",
+        "precio": "$30"
+      },
+      {
+        "type": "content",
+        "title": "LumiCharge II",
+        "productId": "B08QCFV6ZJ",
+        "productName": "LumiCharge II",
+        "filename": "B08QCFV6ZJ.mp4",
+        "content": [
+          "Un escritorio desordenado con cargadores y lámparas por doquier es un caos. La LumiCharge II combina iluminación LED ajustable y carga inalámbrica en un solo dispositivo elegante. Incluye puertos USB adicionales para una conectividad total.",
+          "Su precio actual en Amazon ronda los... 90 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: LumiCharge II"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B08QCFV6ZJ.mp4",
+        "precio": "$90"
+      }
+    ],
+    "totalDuration": 50
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "Dale like y recuerda que los links están en el primer comentario."
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:20",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "imprescindibles",
+    "para",
+    "ingenieros",
+    "sistemas"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 2 Gadgets Imprescindibles para Ingenieros de Sistemas",
+      "angle": "Top 3 Gadgets Imprescindibles para Ingenieros de Sistemas",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 2,
+      "introScript": "¿Has imaginado un gadget que transforma cualquier superficie en un teclado? ¿O un dispositivo que convierte tus garabatos en diagramas técnicos al instante? Prepárate para descubrir tres herramientas que revolucionarán la manera en que los ingenieros de sistemas trabajan y se divierten.",
+      "keywords": [
+        "gadgets",
+        "imprescindibles",
+        "para",
+        "ingenieros",
+        "sistemas"
+      ],
+      "estimatedViews": 4501,
+      "bestPublishTime": "2026-04-25T15:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Rocketbook Everlast",
+          "searchTermEn": "Rocketbook Everlast reusable notebook",
+          "id": "B0DP3HLY4J",
+          "filename": "B0DP3HLY4J.mp4"
+        },
+        {
+          "nombre": "LumiCharge II",
+          "searchTermEn": "LumiCharge II desk lamp",
+          "id": "B08QCFV6ZJ",
+          "filename": "B08QCFV6ZJ.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-04-21T19:59:32.224Z",
+      "_requestedCount": 3,
+      "_adaptedCount": 2,
+      "_adaptationNote": "ATENCIÓN: El usuario pidió 3 productos pero solo hay 2 clips de video disponibles. El guion, título y narrativa deben referirse EXCLUSIVAMENTE a 2 productos.",
+      "_scriptNonce": "nonce_1776801871080_jenuzn"
+    },
+    "generatedAt": "2026-04-21T20:04:35.714Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Rocketbook Everlast",
+        "searchTermEn": "Rocketbook Everlast reusable notebook",
+        "id": "B0DP3HLY4J",
+        "filename": "B0DP3HLY4J.mp4"
+      },
+      {
+        "nombre": "LumiCharge II",
+        "searchTermEn": "LumiCharge II desk lamp",
+        "id": "B08QCFV6ZJ",
+        "filename": "B08QCFV6ZJ.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 2 Gadgets Imprescindibles para Ingenieros de Sistemas\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\nEste cuaderno reutilizable digitaliza tus notas al instante. Esta lámpara inteligente carga y organiza tu escritorio.\n\n[0:10-0:15] INTRODUCTION\nSuscríbete, los links están en el primer comentario. Empecemos.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] ROCKETBOOK EVERLAST\nLlenar cuadernos y perder notas importantes es frustrante. El Rocketbook Everlast te permite escribir y borrar infinitamente, mientras digitaliza tus apuntes en la nube. Además, es compatible con múltiples plataformas como Google Drive y Dropbox.\nSu precio actual en Amazon ronda los... 30 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Rocketbook Everlast]\n\n[0:25] LUMICHARGE II\nUn escritorio desordenado con cargadores y lámparas por doquier es un caos. La LumiCharge II combina iluminación LED ajustable y carga inalámbrica en un solo dispositivo elegante. Incluye puertos USB adicionales para una conectividad total.\nSu precio actual en Amazon ronda los... 90 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: LumiCharge II]\n\n[10 seconds] CONCLUSION\nDale like y recuerda que los links están en el primer comentario.\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:20\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, imprescindibles, para, ingenieros, sistemas\n"
+}

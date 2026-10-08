@@ -1,0 +1,183 @@
+{
+  "title": "Top 2 Gadgets que Transformarán tu Jardín",
+  "hook": {
+    "type": "statement",
+    "text": "",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "25s-35s"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Sistema de Riego B-hyve",
+        "productId": "B01D15HOTU",
+        "productName": "Sistema de Riego B-hyve",
+        "filename": "B01D15HOTU.mp4",
+        "asin": "B01D15HOTU",
+        "videoDuration": 30.096367,
+        "estimatedAudioSeconds": 30,
+        "framework": "comparacion_precio",
+        "narracionSegments": null,
+        "content": [
+          "¿Cansado de regar tu jardín manualmente? El Sistema de Riego B-hyve usa tecnología inteligente. Gestiona el riego automáticamente. Instala en interiores o exteriores sin complicaciones; resiste el clima. Crea horarios personalizados con su app fácil de usar. Ajusta programas según tu necesidad desde cualquier lugar. Coordina aspersores y sistemas de goteo con precisión... Sin esfuerzo extra. Los múltiples beneficios superan... A su precio.",
+          "Su precio actual ronda los... ciento veinte dólares. Link en comentarios."
+        ],
+        "visuals": [
+          "Product image: Sistema de Riego B-hyve"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B01D15HOTU.mp4",
+        "precio": "$120",
+        "productPhoto": "https://m.media-amazon.com/images/I/71xWw3VkecL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "Control de Riego Inteligente: El Orbit Smart Sprinkler Controller gestiona el riego con un potente aspersor inteligente que soporta un sistema de riego completamente automático.",
+          "Instalación Interior/Exterior: Diseñado para una colocación versátil con una caja protectora a prueba de clima, este sistema de rociadores de múltiples zonas ofrece una fácil instalación para garajes, cobertizos o paredes exteriores.",
+          "Programación y Gestión Inteligente: Crea fácilmente horarios de riego personalizados utilizando una interfaz controlada por una app que permite a los usuarios ajustar programas de riego, monitorear zonas y gestionar el riego de forma remota.",
+          "Cobertura Avanzada de Múltiples Zonas: Diseñado como un controlador de aspersores de múltiples zonas que soporta la irrigación de múltiples zonas, ayudando a coordinar aspersores de césped y sistemas de goteo con precisión a través de paisajes.",
+          "Garantía Limitada de Dos Años: Garantizamos este producto contra defectos de material o mano de obra durante dos años a partir de la compra para uso privado, sin limitar el derecho del consumidor establecido por la ley."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Luz Solar Ring Stick Up",
+        "productId": "B07KXPDML3",
+        "productName": "Luz Solar Ring Stick Up",
+        "filename": "B07KXPDML3.mp4",
+        "asin": "B07KXPDML3",
+        "videoDuration": 81.036533,
+        "estimatedAudioSeconds": 28,
+        "framework": "dato_numerico",
+        "narracionSegments": null,
+        "content": [
+          "¿Buscas iluminar cada paso? La Luz Solar Ring Stick Up ofrece 80 lúmenes que transforman tus caminos en senderos iluminados. Con Amazon Sidewalk, controla todo desde tu teléfono. Enciende. Apaga. Personaliza... Y conecta con otros dispositivos Ring. Responde en tiempo real cuando detecta movimiento. Disfruta de hasta un año de luz continua con una sola carga de baterías.",
+          "Su precio actual ronda los... 35 dólares. Link en comentarios."
+        ],
+        "visuals": [
+          "Product image: Luz Solar Ring Stick Up"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07KXPDML3.mp4",
+        "precio": "$35",
+        "productPhoto": "https://m.media-amazon.com/images/I/41Ec9WH-LUL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "Ilumina cada camino que tomes: farol de camino a batería de 80 lúmenes que proyecta luz en senderos y otras áreas cuando se detecta movimiento.",
+          "Conéctate con Amazon Sidewalk: Cuando estés conectado a Amazon Sidewalk, puedes usar controles inteligentes personalizables en la aplicación Ring y sincronizar con otras luces inteligentes Ring, además de seleccionar timbres Ring, cámaras y dispositivos habilitados para Alexa.",
+          "Controla desde tu teléfono: establece horarios, enciende y apaga las luces, personaliza configuraciones y conéctate a otros dispositivos Ring, todo en la aplicación Ring.",
+          "\"\"\"Responde en tiempo real – Si una Ring smart light conectada detecta movimiento, puede activar tus otros dispositivos.\"\"\"",
+          "Ilumina por más tiempo: disfruta de hasta un año de luz con un solo juego de baterías bajo un uso normal."
+        ]
+      }
+    ],
+    "totalDuration": 80
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      ""
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:50",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "transformarn",
+    "jardn"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 2 Gadgets que Transformarán tu Jardín",
+      "angle": "Top 2 Gadgets que Transformarán tu Jardín",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 2,
+      "introScript": "¿Imaginas un sistema que riega tus plantas mientras te envía notificaciones a tu smartphone? O un gadget que convierte la energía solar en luz ambiental para tus noches al aire libre, sin necesidad de cables. Hoy exploramos dos innovadores inventos que llevarán tu jardín al siguiente nivel. No creerás lo sencillo que es integrar estas tecnologías en tu espacio verde. Prepárate para descubrir cómo la tecnología puede transformar tu jardín en un oasis moderno.",
+      "keywords": [
+        "gadgets",
+        "transformarn",
+        "jardn"
+      ],
+      "estimatedViews": 6112,
+      "bestPublishTime": "2026-07-10T20:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Sistema de Riego B-hyve",
+          "searchTermEn": "B-hyve Smart Irrigation",
+          "id": "B01D15HOTU",
+          "filename": "B01D15HOTU.mp4"
+        },
+        {
+          "nombre": "Luz Solar Ring Stick Up",
+          "searchTermEn": "Ring Solar Pathlight",
+          "id": "B07KXPDML3",
+          "filename": "B07KXPDML3.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-07-10T00:16:29.820Z",
+      "_requestedCount": 2,
+      "_adaptedCount": 2,
+      "introProductsOrder": [
+        {
+          "nombre": "Sistema de Riego B-hyve",
+          "id": "B01D15HOTU",
+          "filename": "B01D15HOTU.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B01D15HOTU.mp4"
+        },
+        {
+          "nombre": "Luz Solar Ring Stick Up",
+          "id": "B07KXPDML3",
+          "filename": "B07KXPDML3.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07KXPDML3.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1783642928795_hn35if"
+    },
+    "generatedAt": "2026-07-10T00:22:23.245Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Sistema de Riego B-hyve",
+        "searchTermEn": "B-hyve Smart Irrigation",
+        "id": "B01D15HOTU",
+        "filename": "B01D15HOTU.mp4"
+      },
+      {
+        "nombre": "Luz Solar Ring Stick Up",
+        "searchTermEn": "Ring Solar Pathlight",
+        "id": "B07KXPDML3",
+        "filename": "B07KXPDML3.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 2 Gadgets que Transformarán tu Jardín\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\n\n\n[25s-35s] INTRODUCTION\n\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] SISTEMA DE RIEGO B-HYVE\n¿Cansado de regar tu jardín manualmente? El Sistema de Riego B-hyve usa tecnología inteligente. Gestiona el riego automáticamente. Instala en interiores o exteriores sin complicaciones; resiste el clima. Crea horarios personalizados con su app fácil de usar. Ajusta programas según tu necesidad desde cualquier lugar. Coordina aspersores y sistemas de goteo con precisión... Sin esfuerzo extra. Los múltiples beneficios superan... A su precio.\nSu precio actual ronda los... ciento veinte dólares. Link en comentarios.\n\n[VISUALS: Product image: Sistema de Riego B-hyve]\n\n[0:25] LUZ SOLAR RING STICK UP\n¿Buscas iluminar cada paso? La Luz Solar Ring Stick Up ofrece 80 lúmenes que transforman tus caminos en senderos iluminados. Con Amazon Sidewalk, controla todo desde tu teléfono. Enciende. Apaga. Personaliza... Y conecta con otros dispositivos Ring. Responde en tiempo real cuando detecta movimiento. Disfruta de hasta un año de luz continua con una sola carga de baterías.\nSu precio actual ronda los... 35 dólares. Link en comentarios.\n\n[VISUALS: Product image: Luz Solar Ring Stick Up]\n\n[10 seconds] CONCLUSION\n\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:50\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, transformarn, jardn\n"
+}

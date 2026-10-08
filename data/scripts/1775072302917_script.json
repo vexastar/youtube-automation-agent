@@ -1,0 +1,235 @@
+{
+  "title": "Top 5 Gadgets Imprescindibles para el Auto",
+  "hook": {
+    "type": "statement",
+    "text": "¿Listo para transformar tu auto en un oasis de tecnología y confort? ¡Comencemos!",
+    "duration": "0:00-0:05"
+  },
+  "introduction": {
+    "greeting": "En este video te presentamos los 5 gadgets más imprescindibles para llevar tu experiencia al volante a otro nivel. Desde innovaciones prácticas hasta toques de lujo, estos dispositivos son ideales para cualquier conductor que ame su auto.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0:05-0:15"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Soporte magnético móvil",
+        "content": [
+          "Mantener tu móvil a la vista y seguro nunca fue tan fácil. Este soporte magnético se fija firmemente al tablero, permitiéndote acceder a mapas y llamadas sin distracciones. Ideal para aquellos que siempre están en movimiento y necesitan tener el control al alcance de su mano.",
+          "Consíguelo por tan solo $14.99 en el enlace de la descripción."
+        ],
+        "visuals": [
+          "Product image: Soporte magnético móvil"
+        ],
+        "duration": 25
+      },
+      {
+        "type": "content",
+        "title": "Organizador para asiento",
+        "content": [
+          "¿Cansado del desorden en tu auto? Este organizador para asiento es la solución. Con múltiples compartimentos para botellas, gadgets y más, mantén todo en orden y al alcance. Perfecto para familias que pasan mucho tiempo en carretera.",
+          "Disponible por $19.99 en el enlace abajo."
+        ],
+        "visuals": [
+          "Product image: Organizador para asiento"
+        ],
+        "duration": 25
+      },
+      {
+        "type": "content",
+        "title": "Cargador USB rápido",
+        "content": [
+          "Nunca más te quedes sin batería mientras conduces. Este cargador USB rápido proporciona carga eficiente para múltiples dispositivos a la vez. Ideal para conductores modernos que dependen de sus dispositivos electrónicos en cada viaje.",
+          "Encuéntralo por $24.99 en la descripción del video."
+        ],
+        "visuals": [
+          "Product image: Cargador USB rápido"
+        ],
+        "duration": 25
+      },
+      {
+        "type": "content",
+        "title": "Mini aspiradora portátil",
+        "content": [
+          "Mantén tu auto impecable con esta poderosa mini aspiradora portátil. Su diseño compacto y potente succión eliminan el polvo y los residuos en segundos. Perfecta para quienes valoran la limpieza y el orden en su vehículo.",
+          "Disponible por solo $29.99 en el enlace de la descripción."
+        ],
+        "visuals": [
+          "Product image: Mini aspiradora portátil"
+        ],
+        "duration": 25
+      },
+      {
+        "type": "content",
+        "title": "Espejo retrovisor digital",
+        "content": [
+          "Transforma tu experiencia de conducción con este espejo retrovisor digital. Proporciona una visión clara y amplia, incluso en las condiciones más desafiantes. Es un must-have para cualquier conductor que valore la seguridad y la tecnología de punta.",
+          "Adquiérelo por $34.99 siguiendo el enlace en la descripción."
+        ],
+        "visuals": [
+          "Product image: Espejo retrovisor digital"
+        ],
+        "duration": 25
+      }
+    ],
+    "totalDuration": 125
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "Gracias por acompañarnos en este emocionante recorrido por los gadgets imprescindibles para tu auto. No olvides darle like al video, suscribirte al canal y dejar tus comentarios sobre cuál de estos productos te gustaría probar. ¡Hasta la próxima!"
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "2:35",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "imprescindibles",
+    "para",
+    "auto"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 13 Gadgets Imprescindibles para el Auto",
+      "angle": "Top 13 Gadgets Imprescindibles para el Auto",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "keywords": [
+        "gadgets",
+        "imprescindibles",
+        "para",
+        "auto"
+      ],
+      "estimatedViews": 6054,
+      "bestPublishTime": "2026-04-04T15:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Soporte magnético móvil",
+          "searchTermEn": "magnetic phone holder"
+        },
+        {
+          "nombre": "Organizador para asiento",
+          "searchTermEn": "seat organizer"
+        },
+        {
+          "nombre": "Cargador USB rápido",
+          "searchTermEn": "fast usb charger"
+        },
+        {
+          "nombre": "Mini aspiradora portátil",
+          "searchTermEn": "portable car vacuum"
+        },
+        {
+          "nombre": "Espejo retrovisor digital",
+          "searchTermEn": "digital rearview mirror"
+        },
+        {
+          "nombre": "Purificador de aire compacto",
+          "searchTermEn": "compact air purifier"
+        },
+        {
+          "nombre": "Cámara de salpicadero dual",
+          "searchTermEn": "dual dash camera"
+        },
+        {
+          "nombre": "Calefactor de asiento eléctrico",
+          "searchTermEn": "electric seat heater"
+        },
+        {
+          "nombre": "Tapete antideslizante",
+          "searchTermEn": "non-slip mat"
+        },
+        {
+          "nombre": "Organizador de maletero",
+          "searchTermEn": "trunk organizer"
+        },
+        {
+          "nombre": "Luz LED interior",
+          "searchTermEn": "interior led light"
+        },
+        {
+          "nombre": "Difusor de aroma USB",
+          "searchTermEn": "usb aroma diffuser"
+        },
+        {
+          "nombre": "Pluma táctil limpiadora",
+          "searchTermEn": "touchscreen cleaning pen"
+        }
+      ],
+      "createdAt": "2026-04-01T19:38:14.620Z"
+    },
+    "generatedAt": "2026-04-01T19:38:22.718Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Soporte magnético móvil",
+        "searchTermEn": "magnetic phone holder"
+      },
+      {
+        "nombre": "Organizador para asiento",
+        "searchTermEn": "seat organizer"
+      },
+      {
+        "nombre": "Cargador USB rápido",
+        "searchTermEn": "fast usb charger"
+      },
+      {
+        "nombre": "Mini aspiradora portátil",
+        "searchTermEn": "portable car vacuum"
+      },
+      {
+        "nombre": "Espejo retrovisor digital",
+        "searchTermEn": "digital rearview mirror"
+      },
+      {
+        "nombre": "Purificador de aire compacto",
+        "searchTermEn": "compact air purifier"
+      },
+      {
+        "nombre": "Cámara de salpicadero dual",
+        "searchTermEn": "dual dash camera"
+      },
+      {
+        "nombre": "Calefactor de asiento eléctrico",
+        "searchTermEn": "electric seat heater"
+      },
+      {
+        "nombre": "Tapete antideslizante",
+        "searchTermEn": "non-slip mat"
+      },
+      {
+        "nombre": "Organizador de maletero",
+        "searchTermEn": "trunk organizer"
+      },
+      {
+        "nombre": "Luz LED interior",
+        "searchTermEn": "interior led light"
+      },
+      {
+        "nombre": "Difusor de aroma USB",
+        "searchTermEn": "usb aroma diffuser"
+      },
+      {
+        "nombre": "Pluma táctil limpiadora",
+        "searchTermEn": "touchscreen cleaning pen"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 5 Gadgets Imprescindibles para el Auto\n\n══════════════════════════════════════════════════\n\n[0:00-0:05] HOOK\n¿Listo para transformar tu auto en un oasis de tecnología y confort? ¡Comencemos!\n\n[0:05-0:15] INTRODUCTION\nEn este video te presentamos los 5 gadgets más imprescindibles para llevar tu experiencia al volante a otro nivel. Desde innovaciones prácticas hasta toques de lujo, estos dispositivos son ideales para cualquier conductor que ame su auto.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] SOPORTE MAGNÉTICO MÓVIL\nMantener tu móvil a la vista y seguro nunca fue tan fácil. Este soporte magnético se fija firmemente al tablero, permitiéndote acceder a mapas y llamadas sin distracciones. Ideal para aquellos que siempre están en movimiento y necesitan tener el control al alcance de su mano.\nConsíguelo por tan solo $14.99 en el enlace de la descripción.\n\n[VISUALS: Product image: Soporte magnético móvil]\n\n[0:25] ORGANIZADOR PARA ASIENTO\n¿Cansado del desorden en tu auto? Este organizador para asiento es la solución. Con múltiples compartimentos para botellas, gadgets y más, mantén todo en orden y al alcance. Perfecto para familias que pasan mucho tiempo en carretera.\nDisponible por $19.99 en el enlace abajo.\n\n[VISUALS: Product image: Organizador para asiento]\n\n[0:25] CARGADOR USB RÁPIDO\nNunca más te quedes sin batería mientras conduces. Este cargador USB rápido proporciona carga eficiente para múltiples dispositivos a la vez. Ideal para conductores modernos que dependen de sus dispositivos electrónicos en cada viaje.\nEncuéntralo por $24.99 en la descripción del video.\n\n[VISUALS: Product image: Cargador USB rápido]\n\n[0:25] MINI ASPIRADORA PORTÁTIL\nMantén tu auto impecable con esta poderosa mini aspiradora portátil. Su diseño compacto y potente succión eliminan el polvo y los residuos en segundos. Perfecta para quienes valoran la limpieza y el orden en su vehículo.\nDisponible por solo $29.99 en el enlace de la descripción.\n\n[VISUALS: Product image: Mini aspiradora portátil]\n\n[0:25] ESPEJO RETROVISOR DIGITAL\nTransforma tu experiencia de conducción con este espejo retrovisor digital. Proporciona una visión clara y amplia, incluso en las condiciones más desafiantes. Es un must-have para cualquier conductor que valore la seguridad y la tecnología de punta.\nAdquiérelo por $34.99 siguiendo el enlace en la descripción.\n\n[VISUALS: Product image: Espejo retrovisor digital]\n\n[10 seconds] CONCLUSION\nGracias por acompañarnos en este emocionante recorrido por los gadgets imprescindibles para tu auto. No olvides darle like al video, suscribirte al canal y dejar tus comentarios sobre cuál de estos productos te gustaría probar. ¡Hasta la próxima!\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 2:35\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, imprescindibles, para, auto\n"
+}

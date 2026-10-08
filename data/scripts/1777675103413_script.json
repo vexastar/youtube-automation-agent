@@ -1,0 +1,552 @@
+{
+  "title": "Top 2 gadgets imprescindibles para tu laptop",
+  "hook": {
+    "type": "statement",
+    "text": "Este hub conecta múltiples dispositivos con facilidad. Este soporte transforma tu escritorio en una estación de trabajo ergonómica.",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "Suscríbete, los links están en el primer comentario. Empecemos.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0:10-0:15"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "MOFT Z Laptop Stand",
+        "productId": "B089GQKDNH",
+        "productName": "MOFT Z Laptop Stand",
+        "filename": "B089GQKDNH.mp4",
+        "asin": "B089GQKDNH",
+        "clipDuration": 68.64,
+        "estimatedAudioSeconds": 72,
+        "framework": "problema_solucion",
+        "narracionSegments": [
+          {
+            "text": "¿Cansado de inclinarte incómodamente sobre tu laptop?",
+            "asset_hint": "postura incómoda"
+          },
+          {
+            "text": "El MOFT Z Laptop Stand ofrece una solución transformadora.",
+            "asset_hint": "soporte desplegado"
+          },
+          {
+            "text": "Con su diseño tipo Z y modos versátiles, puedes ajustar la altura y el ángulo ideal para cualquier tarea.",
+            "asset_hint": "ajustes de ángulo"
+          },
+          {
+            "text": "Ya sea que estés disfrutando de una sesión de escritura o de edición, este soporte mantiene la pantalla a la altura de tus ojos, reduciendo la tensión en tu cuello.",
+            "asset_hint": "uso real"
+          },
+          {
+            "text": "Además, su estructura estable soporta hasta 22 libras, permitiéndote trabajar tranquilamente.",
+            "asset_hint": "peso sostenido"
+          }
+        ],
+        "content": [
+          "¿Cansado de inclinarte incómodamente sobre tu laptop? El MOFT Z Laptop Stand ofrece una solución transformadora. Con su diseño tipo Z y modos versátiles, puedes ajustar la altura y el ángulo ideal para cualquier tarea. Ya sea que estés disfrutando de una sesión de escritura o de edición, este soporte mantiene la pantalla a la altura de tus ojos, reduciendo la tensión en tu cuello. Además, su estructura estable soporta hasta 22 libras, permitiéndote trabajar tranquilamente.",
+          "Su precio actual en Amazon ronda los... 60 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: MOFT Z Laptop Stand"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B089GQKDNH.mp4",
+        "precio": "$60",
+        "productPhoto": "https://m.media-amazon.com/images/I/71vhhoBIBrL.jpg",
+        "assets": {
+          "images": [
+            "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B089GQKDNH\\img_01.jpg",
+            "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B089GQKDNH\\img_02.jpg",
+            "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B089GQKDNH\\img_03.jpg",
+            "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B089GQKDNH\\img_04.jpg",
+            "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B089GQKDNH\\img_05.jpg",
+            "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B089GQKDNH\\img_06.jpg"
+          ],
+          "videos": [
+            "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B089GQKDNH\\vid_02.mp4",
+            "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B089GQKDNH\\vid_03.mp4"
+          ]
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B089GQKDNH\\img_01.jpg",
+            "type": "image",
+            "score": 9,
+            "tag": "producto visible",
+            "raw": "9|producto visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B089GQKDNH\\scenes\\B089GQKDNH_scene_02.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "uso real",
+            "raw": "8|uso real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B089GQKDNH\\scenes\\B089GQKDNH_scene_05.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "uso real",
+            "raw": "8|uso real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B089GQKDNH\\scenes\\B089GQKDNH_scene_09.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "uso real",
+            "raw": "8|uso real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B089GQKDNH\\scenes\\B089GQKDNH_scene_11.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "uso real",
+            "raw": "8|uso real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B089GQKDNH\\scenes\\B089GQKDNH_scene_15.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "producto visible",
+            "raw": "8|producto visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B089GQKDNH\\scenes\\B089GQKDNH_scene_20.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "uso real",
+            "raw": "8|uso real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B089GQKDNH\\scenes\\B089GQKDNH_scene_21.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "uso real",
+            "raw": "8|uso real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B089GQKDNH\\scenes\\B089GQKDNH_scene_22.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "uso real",
+            "raw": "8|uso real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B089GQKDNH\\scenes\\B089GQKDNH_scene_23.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "uso real",
+            "raw": "8|uso real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B089GQKDNH\\scenes\\B089GQKDNH_scene_24.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "uso real",
+            "raw": "8|uso real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B089GQKDNH\\scenes\\B089GQKDNH_scene_26.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "uso real",
+            "raw": "8|uso real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B089GQKDNH\\vid_02.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "uso real",
+            "raw": "8|uso real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B089GQKDNH\\vid_03.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "uso real",
+            "raw": "8|uso real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B089GQKDNH\\img_02.jpg",
+            "type": "image",
+            "score": 8,
+            "tag": "uso real",
+            "raw": "8|uso real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B089GQKDNH\\img_03.jpg",
+            "type": "image",
+            "score": 8,
+            "tag": "uso real",
+            "raw": "8|uso real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B089GQKDNH\\img_05.jpg",
+            "type": "image",
+            "score": 8,
+            "tag": "uso real",
+            "raw": "8|uso real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B089GQKDNH\\img_06.jpg",
+            "type": "image",
+            "score": 8,
+            "tag": "primer plano",
+            "raw": "8|primer plano"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B089GQKDNH\\scenes\\B089GQKDNH_scene_03.mp4",
+            "type": "video",
+            "score": 7,
+            "tag": "uso real",
+            "raw": "7|uso real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B089GQKDNH\\scenes\\B089GQKDNH_scene_10.mp4",
+            "type": "video",
+            "score": 7,
+            "tag": "uso real",
+            "raw": "7|uso real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B089GQKDNH\\scenes\\B089GQKDNH_scene_19.mp4",
+            "type": "video",
+            "score": 7,
+            "tag": "uso real",
+            "raw": "7|uso real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B089GQKDNH\\scenes\\B089GQKDNH_scene_25.mp4",
+            "type": "video",
+            "score": 7,
+            "tag": "uso real",
+            "raw": "7|uso real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B089GQKDNH\\scenes\\B089GQKDNH_scene_04.mp4",
+            "type": "video",
+            "score": 6,
+            "tag": "uso real",
+            "raw": "6|uso real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B089GQKDNH\\scenes\\B089GQKDNH_scene_08.mp4",
+            "type": "video",
+            "score": 6,
+            "tag": "uso real",
+            "raw": "6|uso real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B089GQKDNH\\scenes\\B089GQKDNH_scene_18.mp4",
+            "type": "video",
+            "score": 6,
+            "tag": "uso real",
+            "raw": "6|uso real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B089GQKDNH\\scenes\\B089GQKDNH_scene_27.mp4",
+            "type": "video",
+            "score": 6,
+            "tag": "uso real",
+            "raw": "6|uso real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B089GQKDNH\\scenes\\B089GQKDNH_scene_31.mp4",
+            "type": "video",
+            "score": 6,
+            "tag": "producto visible",
+            "raw": "6|producto visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B089GQKDNH\\img_04.jpg",
+            "type": "image",
+            "score": 6,
+            "tag": "estructura soporte",
+            "raw": "6|estructura soporte"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B089GQKDNH\\scenes\\B089GQKDNH_scene_01.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "uso real",
+            "raw": "5|uso real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B089GQKDNH\\scenes\\B089GQKDNH_scene_12.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "uso real",
+            "raw": "5|uso real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B089GQKDNH\\scenes\\B089GQKDNH_scene_30.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "uso real",
+            "raw": "5|uso real"
+          }
+        ],
+        "features": [
+          "[Magzine-Sized] Its dimensions are 9.4*11*0.5in, so it can be easily stored in a bookshelf without being noticed or a bag before heading out.",
+          "[A Standing Workstation] The desk offers a natural height of 10in to raise your laptop, allowing you to work with your palm rested onto the laptop and the screen at eye level.",
+          "[Versatile Modes] There are four modes in sitting modes including 25°, 35°, 45° and 60° for every kind of needs when you sit at your desk, be it comfortable typing, working with peripherals or browsing.",
+          "[Rocky-Steady] Its unique Z structure and tri-angle bottom support ensures its stability and heavy-duty use. It can hold up to 22 lbs.",
+          "[Premium Materials] It’s constructed with customized PU and stiff fiberglass, making it tough enough for your daily usage and comfortable to touch."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Twelve South StayGo",
+        "productId": "B09C9W6SCC",
+        "productName": "Twelve South StayGo",
+        "filename": "B09C9W6SCC.mp4",
+        "asin": "B09C9W6SCC",
+        "clipDuration": 91.49,
+        "estimatedAudioSeconds": 109,
+        "framework": "enfoque_caracteristica",
+        "narracionSegments": [
+          {
+            "text": "La característica más impresionante del Twelve South StayGo es su capacidad para desordenar tu espacio de trabajo.",
+            "asset_hint": "espacio ordenado"
+          },
+          {
+            "text": "Con su cable de medio metro y conexión multipuerto, puedes conectar un monitor 4K, dispositivos USB-A y más, todo desde un hub elegante que disipa el calor eficientemente.",
+            "asset_hint": "conexiones múltiples"
+          },
+          {
+            "text": "Esta solución plug-and-play elimina la necesidad de software, permitiéndote trabajar sin complicaciones.",
+            "asset_hint": "fácil instalación"
+          },
+          {
+            "text": "Además, su diseño facilita el acceso a archivos externos, mejorando tu productividad.",
+            "asset_hint": "acceso a archivos"
+          }
+        ],
+        "content": [
+          "La característica más impresionante del Twelve South StayGo es su capacidad para desordenar tu espacio de trabajo. Con su cable de medio metro y conexión multipuerto, puedes conectar un monitor 4K, dispositivos USB-A y más, todo desde un hub elegante que disipa el calor eficientemente. Esta solución plug-and-play elimina la necesidad de software, permitiéndote trabajar sin complicaciones. Además, su diseño facilita el acceso a archivos externos, mejorando tu productividad.",
+          "Su precio actual en Amazon ronda los... 60 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Twelve South StayGo"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B09C9W6SCC.mp4",
+        "precio": "$60",
+        "productPhoto": "https://m.media-amazon.com/images/I/51Mulp0Oi7L.jpg",
+        "assets": {
+          "images": [
+            "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B09C9W6SCC\\img_01.jpg"
+          ],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B09C9W6SCC\\scenes\\B09C9W6SCC_scene_02.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "producto visible",
+            "raw": "9|producto visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B09C9W6SCC\\scenes\\B09C9W6SCC_scene_06.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "producto visible",
+            "raw": "9|producto visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B09C9W6SCC\\scenes\\B09C9W6SCC_scene_04.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "uso real",
+            "raw": "9|uso real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B09C9W6SCC\\scenes\\B09C9W6SCC_scene_08.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "cable conexión",
+            "raw": "9|cable conexión"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B09C9W6SCC\\img_01.jpg",
+            "type": "image",
+            "score": 9,
+            "tag": "producto visible",
+            "raw": "9|producto visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B09C9W6SCC\\scenes\\B09C9W6SCC_scene_10.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "uso real",
+            "raw": "8|uso real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B09C9W6SCC\\scenes\\B09C9W6SCC_scene_16.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "uso real",
+            "raw": "8|uso real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B09C9W6SCC\\scenes\\B09C9W6SCC_scene_12.mp4",
+            "type": "video",
+            "score": 7,
+            "tag": "uso real",
+            "raw": "7|uso real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B09C9W6SCC\\scenes\\B09C9W6SCC_scene_11.mp4",
+            "type": "video",
+            "score": 7,
+            "tag": "uso real",
+            "raw": "7|uso real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B09C9W6SCC\\scenes\\B09C9W6SCC_scene_18.mp4",
+            "type": "video",
+            "score": 7,
+            "tag": "uso real",
+            "raw": "7|uso real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B09C9W6SCC\\scenes\\B09C9W6SCC_scene_09.mp4",
+            "type": "video",
+            "score": 6,
+            "tag": "uso real",
+            "raw": "6|uso real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B09C9W6SCC\\scenes\\B09C9W6SCC_scene_14.mp4",
+            "type": "video",
+            "score": 6,
+            "tag": "uso real",
+            "raw": "6|uso real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B09C9W6SCC\\scenes\\B09C9W6SCC_scene_15.mp4",
+            "type": "video",
+            "score": 6,
+            "tag": "uso real",
+            "raw": "6|uso real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B09C9W6SCC\\scenes\\B09C9W6SCC_scene_13.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "uso real",
+            "raw": "5|uso real"
+          }
+        ],
+        "features": [
+          "StayGo Mini includes a .5 meter USB-C cable to use at your workstation or on the go. Or you can attach StayGo Mini directly to your device. The matte black aluminum shell dissipates heat for better temperature control vs a plastic shell hub.",
+          "DECLUTTER: The included .5 meter cable gives you the length to store the hub out of sight if you wish. Keep your workspace clear by avoiding cords or dongles handing off your tablet or laptop. PLUG & PLAY: Does not require any software, drivers, or installation",
+          "MULTIPORT CONNECTION: 4K HDMI Port, Dual functionality USB A port w/ BC 1.2 for up to 7.5 Watts for faster charging, , USB C Port 100W PD and a 3.5 mm audio jack.",
+          "Use StayGo mini to connect USB-A external hard drives and flash drives and more for easy access to external files for editing, organizing and viewing",
+          "DESIGNED FOR TYPE-C DEVICES: iPad Pro M1, iPad Pro with USB C, MacBook, USB-C Tablets, Laptops and more"
+        ]
+      }
+    ],
+    "totalDuration": 50
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "Dale like y recuerda que los links están en el primer comentario."
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:20",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "imprescindibles",
+    "para",
+    "laptop"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 2 gadgets imprescindibles para tu laptop",
+      "angle": "Top 2 gadgets imprescindibles para tu laptop",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 2,
+      "introScript": "¿Un soporte ajustable para mejorar tu postura al trabajar? ¿Un adaptador que convierte un puerto en diez? Hoy te mostramos dos gadgets que transformarán tu experiencia con la laptop.",
+      "keywords": [
+        "gadgets",
+        "imprescindibles",
+        "para",
+        "laptop"
+      ],
+      "estimatedViews": 6030,
+      "bestPublishTime": "2026-05-05T19:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "MOFT Z Laptop Stand",
+          "searchTermEn": "moft z laptop stand",
+          "id": "B089GQKDNH",
+          "filename": "B089GQKDNH.mp4"
+        },
+        {
+          "nombre": "Twelve South StayGo",
+          "searchTermEn": "twelve south staygo usb-c hub",
+          "id": "B09C9W6SCC",
+          "filename": "B09C9W6SCC.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-05-01T22:33:42.338Z",
+      "_requestedCount": 2,
+      "_adaptedCount": 2,
+      "introProductsOrder": [
+        {
+          "nombre": "Twelve South StayGo",
+          "id": "B09C9W6SCC",
+          "filename": "B09C9W6SCC.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B09C9W6SCC_clean.mp4"
+        },
+        {
+          "nombre": "MOFT Z Laptop Stand",
+          "id": "B089GQKDNH",
+          "filename": "B089GQKDNH.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B089GQKDNH_clean.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1777675063573_rt9mrp"
+    },
+    "generatedAt": "2026-05-01T22:37:52.059Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "MOFT Z Laptop Stand",
+        "searchTermEn": "moft z laptop stand",
+        "id": "B089GQKDNH",
+        "filename": "B089GQKDNH.mp4"
+      },
+      {
+        "nombre": "Twelve South StayGo",
+        "searchTermEn": "twelve south staygo usb-c hub",
+        "id": "B09C9W6SCC",
+        "filename": "B09C9W6SCC.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 2 gadgets imprescindibles para tu laptop\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\nEste hub conecta múltiples dispositivos con facilidad. Este soporte transforma tu escritorio en una estación de trabajo ergonómica.\n\n[0:10-0:15] INTRODUCTION\nSuscríbete, los links están en el primer comentario. Empecemos.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] MOFT Z LAPTOP STAND\n¿Cansado de inclinarte incómodamente sobre tu laptop? El MOFT Z Laptop Stand ofrece una solución transformadora. Con su diseño tipo Z y modos versátiles, puedes ajustar la altura y el ángulo ideal para cualquier tarea. Ya sea que estés disfrutando de una sesión de escritura o de edición, este soporte mantiene la pantalla a la altura de tus ojos, reduciendo la tensión en tu cuello. Además, su estructura estable soporta hasta 22 libras, permitiéndote trabajar tranquilamente.\nSu precio actual en Amazon ronda los... 60 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: MOFT Z Laptop Stand]\n\n[0:25] TWELVE SOUTH STAYGO\nLa característica más impresionante del Twelve South StayGo es su capacidad para desordenar tu espacio de trabajo. Con su cable de medio metro y conexión multipuerto, puedes conectar un monitor 4K, dispositivos USB-A y más, todo desde un hub elegante que disipa el calor eficientemente. Esta solución plug-and-play elimina la necesidad de software, permitiéndote trabajar sin complicaciones. Además, su diseño facilita el acceso a archivos externos, mejorando tu productividad.\nSu precio actual en Amazon ronda los... 60 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Twelve South StayGo]\n\n[10 seconds] CONCLUSION\nDale like y recuerda que los links están en el primer comentario.\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:20\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, imprescindibles, para, laptop\n"
+}

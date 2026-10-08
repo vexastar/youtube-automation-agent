@@ -1,0 +1,276 @@
+{
+  "title": "Top 1 Gadgets de Realidad Virtual que Debes Tener",
+  "hook": {
+    "type": "statement",
+    "text": "Control total con solo presionar un botón.",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "Suscríbete, los links están en el primer comentario. Empecemos.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0:10-0:15"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Oculus Quest 2",
+        "productId": "B0GD15VT8Q",
+        "productName": "Oculus Quest 2",
+        "filename": "B0GD15VT8Q.mp4",
+        "asin": "B0GD15VT8Q",
+        "clipDuration": 56.59,
+        "estimatedAudioSeconds": 57,
+        "framework": "problema_solucion",
+        "narracionSegments": null,
+        "content": [
+          "¿Cansado de ajustar tu headset de realidad virtual constantemente? El Oculus Quest 2 soluciona este problema con un sistema de liberación de un solo clic que permite ajustes rápidos y fáciles. Diseñado para ser compatible con diferentes modelos, ofrece una conversión rápida entre dispositivos. Gracias a su dial de ajuste milimétrico, garantiza un confort personalizado y estabilidad, mientras las almohadillas de algodón ofrecen comodidad para largas sesiones.",
+          "Su precio actual en Amazon ronda los... 22 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Oculus Quest 2"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0GD15VT8Q.mp4",
+        "precio": "$22",
+        "productPhoto": "https://m.media-amazon.com/images/I/71hfXryLQXL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GD15VT8Q\\scenes_v1\\B0GD15VT8Q_scene_02.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "embalaje",
+            "raw": "9|embalaje"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GD15VT8Q\\scenes_v1\\B0GD15VT8Q_scene_03.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "primer plano",
+            "raw": "8|primer plano"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GD15VT8Q\\scenes_v1\\B0GD15VT8Q_scene_05.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "producto visible",
+            "raw": "8|producto visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GD15VT8Q\\scenes_v1\\B0GD15VT8Q_scene_04.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "primer plano",
+            "raw": "8|primer plano"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GD15VT8Q\\scenes_v1\\B0GD15VT8Q_scene_09.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "uso real",
+            "raw": "8|uso real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GD15VT8Q\\scenes_v1\\B0GD15VT8Q_scene_10.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "accesorio desmontable",
+            "raw": "8|accesorio desmontable"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GD15VT8Q\\scenes_v1\\B0GD15VT8Q_scene_11.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "uso real",
+            "raw": "8|uso real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GD15VT8Q\\scenes_v1\\B0GD15VT8Q_scene_12.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "uso real",
+            "raw": "8|uso real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GD15VT8Q\\scenes_v1\\B0GD15VT8Q_scene_13.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "uso real",
+            "raw": "8|uso real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GD15VT8Q\\scenes_v1\\B0GD15VT8Q_scene_14.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "primer plano",
+            "raw": "8|primer plano"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GD15VT8Q\\scenes_v1\\B0GD15VT8Q_scene_15.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "uso real",
+            "raw": "8|uso real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GD15VT8Q\\scenes_v1\\B0GD15VT8Q_scene_16.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "primer plano",
+            "raw": "8|primer plano"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GD15VT8Q\\scenes_v1\\B0GD15VT8Q_scene_17.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "primer plano",
+            "raw": "8|primer plano"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GD15VT8Q\\scenes_v1\\B0GD15VT8Q_scene_18.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "ajuste rápido",
+            "raw": "8|ajuste rápido"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GD15VT8Q\\scenes_v1\\B0GD15VT8Q_scene_19.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "ajuste rápido",
+            "raw": "8|ajuste rápido"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GD15VT8Q\\scenes_v1\\B0GD15VT8Q_scene_20.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "ajuste cómodo",
+            "raw": "8|ajuste cómodo"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GD15VT8Q\\scenes_v1\\B0GD15VT8Q_scene_21.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "uso real",
+            "raw": "8|uso real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GD15VT8Q\\scenes_v1\\B0GD15VT8Q_scene_08.mp4",
+            "type": "video",
+            "score": 6,
+            "tag": "ajuste cómodo",
+            "raw": "6|ajuste cómodo"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GD15VT8Q\\scenes_v2\\B0GD15VT8Q_v2_scene_01.mp4",
+            "type": "video",
+            "score": 6,
+            "tag": "producto visible",
+            "raw": "6|producto visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0GD15VT8Q\\scenes_v3\\B0GD15VT8Q_v3_scene_01.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "accesorios VR",
+            "raw": "5|accesorios VR"
+          }
+        ],
+        "features": [
+          "PATENTED ONE-CLICK RELEASE FOR FAST ADJUSTMENT: Designed with a patented one-button release system, simply press the marked circular area to unlock the head strap in just one second. This quest 3 head strap allows you to quickly loosen or tighten the fit, making it easy to put on or remove your VR headset without hassle. A clear advantage over traditional vr headset strap designs that require repeated adjustments.",
+          "UNIVERSAL FIT FOR QUEST 3 / 3S / QUEST 2 WITH QUICK CONVERSION: This head strap for Oculus Meta Quest 3 is engineered with removable side connectors, allowing seamless conversion between Meta Quest 3/3S and Meta Quest 2. With one simple button action, you can swap the accessories and enjoy the same head strap for meta quest 3/3s across multiple headsets—ideal for families or multi-device users.",
+          "PRECISION ROTARY DIAL FOR CUSTOM COMFORT: The rear rotary gear lets you fine-tune the fit with millimeter-level accuracy, ensuring stable support during gaming, workouts, or long VR sessions. This VR head strap distributes pressure evenly and adapts comfortably to different head sizes, helping reduce facial strain while keeping your headset secure and balanced",
+          "DUAL COTTON PADS FOR EXTENDED WEAR COMFORT: Equipped with soft, thick cushioning pads on the top and rear, this head strap for meta quest 3 enhances support and improves weight distribution. The breathable padding design helps reduce pressure points, making it an ideal vr accessories upgrade for immersive gameplay, fitness apps, or extended VR entertainment",
+          "TOOL-FREE INSTALLATION WITH SOLID BUILD: This head strap for quest 3/3s installs in about 90 seconds with no tools required. The reinforced structure ensures stability during movement, while the flexible yet sturdy build withstands repeated adjustments. Whether used as a head strap replacement for oculus quest 3/3s or a comfort upgrade, it’s built for reliable everyday VR use."
+        ]
+      }
+    ],
+    "totalDuration": 25
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "¡Deja un like y recuerda que los links están en el primer comentario!"
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "0:55",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "realidad",
+    "virtual",
+    "debes",
+    "tener"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 1 Gadgets de Realidad Virtual que Debes Tener",
+      "angle": "Top 3 Gadgets de Realidad Virtual que Debes Tener",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 1,
+      "introScript": "¿Quieres transformar tu sala en un campo de batalla épico? ¿O tal vez sumergirte en una película interactiva desde tu sofá? Hoy descubrirás tres gadgets de realidad virtual que llevan la inmersión a otro nivel. Prepárate para ser asombrado.",
+      "keywords": [
+        "gadgets",
+        "realidad",
+        "virtual",
+        "debes",
+        "tener"
+      ],
+      "estimatedViews": 5594,
+      "bestPublishTime": "2026-05-10T15:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Oculus Quest 2",
+          "searchTermEn": "Oculus Quest 2 VR headset",
+          "id": "B0GD15VT8Q",
+          "filename": "B0GD15VT8Q.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-05-07T21:41:03.373Z",
+      "_requestedCount": 3,
+      "_adaptedCount": 1,
+      "_adaptationNote": "ATENCIÓN: El usuario pidió 3 productos pero solo hay 1 clips de video disponibles. El guion, título y narrativa deben referirse EXCLUSIVAMENTE a 1 productos.",
+      "introProductsOrder": [
+        {
+          "nombre": "Oculus Quest 2",
+          "id": "B0GD15VT8Q",
+          "filename": "B0GD15VT8Q.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0GD15VT8Q_combined.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1778190425830_tiun8n"
+    },
+    "generatedAt": "2026-05-07T21:47:08.738Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Oculus Quest 2",
+        "searchTermEn": "Oculus Quest 2 VR headset",
+        "id": "B0GD15VT8Q",
+        "filename": "B0GD15VT8Q.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 1 Gadgets de Realidad Virtual que Debes Tener\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\nControl total con solo presionar un botón.\n\n[0:10-0:15] INTRODUCTION\nSuscríbete, los links están en el primer comentario. Empecemos.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] OCULUS QUEST 2\n¿Cansado de ajustar tu headset de realidad virtual constantemente? El Oculus Quest 2 soluciona este problema con un sistema de liberación de un solo clic que permite ajustes rápidos y fáciles. Diseñado para ser compatible con diferentes modelos, ofrece una conversión rápida entre dispositivos. Gracias a su dial de ajuste milimétrico, garantiza un confort personalizado y estabilidad, mientras las almohadillas de algodón ofrecen comodidad para largas sesiones.\nSu precio actual en Amazon ronda los... 22 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Oculus Quest 2]\n\n[10 seconds] CONCLUSION\n¡Deja un like y recuerda que los links están en el primer comentario!\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 0:55\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, realidad, virtual, debes, tener\n"
+}

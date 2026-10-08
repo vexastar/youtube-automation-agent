@@ -1,0 +1,132 @@
+{
+  "title": "Top 1 Gadget Imprescindible para tu Escritorio",
+  "hook": {
+    "type": "statement",
+    "text": "",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "25s-35s"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Anker PowerWave Stand",
+        "productId": "B07THHQMHM",
+        "productName": "Anker PowerWave Stand",
+        "filename": "B07THHQMHM.mp4",
+        "asin": "B07THHQMHM",
+        "videoDuration": 99.755233,
+        "estimatedAudioSeconds": 29,
+        "framework": "enfoque_caracteristica",
+        "narracionSegments": null,
+        "content": [
+          "¿Cansado de lidiar con cables? Anker PowerWave Stand es la solución que esperabas. Con su compatibilidad universal, ofrece 10W para Samsung Galaxy, 7.5W para iPhone y 5W para otros dispositivos. La carga a través de la funda evitan complicaciones. Simplemente coloca tu dispositivo en el PowerWave Pad y observa la magia. Ya no necesitas quitar la funda ni preocuparte por desconectar cables incómodos.",
+          "Su precio actual ronda los 18 dólares. ¡Link ya!"
+        ],
+        "visuals": [
+          "Product image: Anker PowerWave Stand"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07THHQMHM.mp4",
+        "precio": "$18",
+        "productPhoto": "https://m.media-amazon.com/images/I/51ywUBQcrbL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "La Ventaja de Anker: Disfrutada por más de 50 millones de usuarios en todo el mundo, nuestra tecnología líder cambiará la forma en que cargas.",
+          "\"\"\"Comodidad de Carga Completa: Carga tu teléfono o auriculares instantáneamente simplemente colocándolos en el centro de PowerWave Pad. Nunca más te preocupes por enchufar y desenchufar cables, solo colócalos y enciéndelos.\"\"\"",
+          "Compatibilidad Universal: PowerWave Pad proporciona 10W de salida para Samsung Galaxy, 7.5W para iPhone y 5W para otros teléfonos o auriculares inalámbricos (incluidos AirPods).",
+          "Carga a través de la funda: No te compliques con tu funda de teléfono. PowerWave carga directamente a través de fundas protectoras de hasta 5 mm de grosor (sin incluir fundas con accesorios magnéticos o metálicos).",
+          "Lo que obtienes: PowerWave Pad, cable Micro USB de 4 ft, guía de bienvenida, garantía de 18 meses sin preocupaciones y servicio al cliente amable."
+        ]
+      }
+    ],
+    "totalDuration": 40
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      ""
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:10",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadget",
+    "imprescindible",
+    "para",
+    "escritorio"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 1 Gadget Imprescindible para tu Escritorio",
+      "angle": "Top 1 Gadget Imprescindible para tu Escritorio",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 1,
+      "introScript": "Imagina tener un dispositivo en tu escritorio que no solo organice todos tus cables de manera ordenada, sino que también cargue tus dispositivos de manera inalámbrica y simultáneamente. Este producto es una revolución en la organización de espacios de trabajo, y apenas ocupa espacio en tu escritorio. Vamos a descubrir cómo puede transformar tu entorno de trabajo con un solo toque de tecnología. Prepara tu lista de deseos porque esto es algo que querrás para ti.",
+      "keywords": [
+        "gadget",
+        "imprescindible",
+        "para",
+        "escritorio"
+      ],
+      "estimatedViews": 5331,
+      "bestPublishTime": "2026-07-12T15:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Anker PowerWave Stand",
+          "searchTermEn": "Anker PowerWave Qi charger",
+          "id": "B07THHQMHM",
+          "filename": "B07THHQMHM.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-07-08T21:56:10.682Z",
+      "_requestedCount": 1,
+      "_adaptedCount": 1,
+      "introProductsOrder": [
+        {
+          "nombre": "Anker PowerWave Stand",
+          "id": "B07THHQMHM",
+          "filename": "B07THHQMHM.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07THHQMHM.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1783547872593_72fsf8"
+    },
+    "generatedAt": "2026-07-08T21:57:58.139Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Anker PowerWave Stand",
+        "searchTermEn": "Anker PowerWave Qi charger",
+        "id": "B07THHQMHM",
+        "filename": "B07THHQMHM.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 1 Gadget Imprescindible para tu Escritorio\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\n\n\n[25s-35s] INTRODUCTION\n\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] ANKER POWERWAVE STAND\n¿Cansado de lidiar con cables? Anker PowerWave Stand es la solución que esperabas. Con su compatibilidad universal, ofrece 10W para Samsung Galaxy, 7.5W para iPhone y 5W para otros dispositivos. La carga a través de la funda evitan complicaciones. Simplemente coloca tu dispositivo en el PowerWave Pad y observa la magia. Ya no necesitas quitar la funda ni preocuparte por desconectar cables incómodos.\nSu precio actual ronda los 18 dólares. ¡Link ya!\n\n[VISUALS: Product image: Anker PowerWave Stand]\n\n[10 seconds] CONCLUSION\n\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:10\nTONE: engaging\nPACING: quick\nKEYWORDS: gadget, imprescindible, para, escritorio\n"
+}

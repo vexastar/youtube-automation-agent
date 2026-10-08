@@ -1,0 +1,155 @@
+{
+  "title": "Top 1 Laptops Innovadoras que Debes Ver en Amazon",
+  "hook": {
+    "type": "statement",
+    "text": "Domina cada juego con su increíble velocidad y gráficos.",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "Todo está en el primer comentario. Vamos.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0:10-0:15"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Razer Blade 15",
+        "productId": "B086M8PQYR",
+        "productName": "Razer Blade 15",
+        "filename": "B086M8PQYR.mp4",
+        "asin": "B086M8PQYR",
+        "clipDuration": 9.01,
+        "estimatedAudioSeconds": 8,
+        "framework": "experiencia_sensorial",
+        "narracionSegments": null,
+        "content": [
+          "-Sumérgete- en un rendimiento visual que redefine el gaming.",
+          "Su precio actual en Amazon ronda los... 989 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Razer Blade 15"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B086M8PQYR_combined.mp4",
+        "precio": "$989",
+        "productPhoto": "https://m.media-amazon.com/images/I/711CSlbuysL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B086M8PQYR\\scenes_v1\\B086M8PQYR_scene_02.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Laptop encendida",
+            "raw": "9|Laptop encendida"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B086M8PQYR\\scenes_v1\\B086M8PQYR_scene_01.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Laptop gaming",
+            "raw": "9|Laptop gaming"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B086M8PQYR\\scenes_v1\\B086M8PQYR_scene_04.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "CPU Intel",
+            "raw": "5|CPU Intel"
+          }
+        ],
+        "features": [
+          "Aspect Ratio:16:9",
+          "More Power, More Cores: The 8-Core 10th Gen Intel Core i7-10875H processor provides the ultimate level of performance with up to 5. 1GHz Max Turbo.",
+          "Studio Ready: The NVIDIA GeForce RTX 2080 Super with Max-Q Design (8GB GDDR6 VRAM) graphics is up to 25% faster than the original RTX 20 Series with more cores and higher clocks.",
+          "More Frames: Incredible performance paired with the fast 300Hz 15.6\" Full HD thin bezel display helps edge out the win.",
+          "Thin and Compact: The CNC aluminum unibody frame houses incredible performance in the most compact footprint possible, while remaining remarkably durable and just 0. 7\" thin."
+        ]
+      }
+    ],
+    "totalDuration": 25
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "Dale like si te gustó y checa los links en el primer comentario."
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "0:55",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "laptops",
+    "innovadoras",
+    "debes",
+    "amazon"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 1 Laptops Innovadoras que Debes Ver en Amazon",
+      "angle": "Top 3 Laptops Innovadoras que Debes Ver en Amazon",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 1,
+      "introScript": "¿Una laptop ultraliviana que cabe en tu mochila y tiene batería para todo el día? ¿O una que ofrece una experiencia gaming espectacular sin que se caliente? Prepárate para descubrir las innovaciones más emocionantes en el mundo de las laptops que están transformando cómo trabajamos y jugamos.",
+      "keywords": [
+        "laptops",
+        "innovadoras",
+        "debes",
+        "amazon"
+      ],
+      "estimatedViews": 6491,
+      "bestPublishTime": "2026-05-16T15:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Razer Blade 15",
+          "searchTermEn": "Razer Blade 15 gaming laptop",
+          "id": "B086M8PQYR",
+          "filename": "B086M8PQYR.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-05-15T16:33:51.508Z",
+      "_requestedCount": 3,
+      "_adaptedCount": 1,
+      "_adaptationNote": "ATENCIÓN: El usuario pidió 3 productos pero solo hay 1 clips de video disponibles. El guion, título y narrativa deben referirse EXCLUSIVAMENTE a 1 productos.",
+      "introProductsOrder": [
+        {
+          "nombre": "Razer Blade 15",
+          "id": "B086M8PQYR",
+          "filename": "B086M8PQYR_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B086M8PQYR_combined.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1778863049029_py3r8x"
+    },
+    "generatedAt": "2026-05-15T16:37:35.343Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Razer Blade 15",
+        "searchTermEn": "Razer Blade 15 gaming laptop",
+        "id": "B086M8PQYR",
+        "filename": "B086M8PQYR.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 1 Laptops Innovadoras que Debes Ver en Amazon\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\nDomina cada juego con su increíble velocidad y gráficos.\n\n[0:10-0:15] INTRODUCTION\nTodo está en el primer comentario. Vamos.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] RAZER BLADE 15\n-Sumérgete- en un rendimiento visual que redefine el gaming.\nSu precio actual en Amazon ronda los... 989 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Razer Blade 15]\n\n[10 seconds] CONCLUSION\nDale like si te gustó y checa los links en el primer comentario.\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 0:55\nTONE: engaging\nPACING: quick\nKEYWORDS: laptops, innovadoras, debes, amazon\n"
+}

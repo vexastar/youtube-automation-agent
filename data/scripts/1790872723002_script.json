@@ -1,0 +1,135 @@
+{
+  "title": "Top 1 Gadgets Increíbles para tu Oficina",
+  "hook": {
+    "type": "statement",
+    "text": "El 68% de los gamers pierden partidas por no usar herramientas que maximizan su rendimiento y comodidad. Aquí te presentamos el revolucionario accesorio que podría cambiar tu experiencia de juego. Los enlaces están en el primer comentario. Mira esto.",
+    "duration": "0:00-0:15"
+  },
+  "introduction": {
+    "greeting": "",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0s"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Corsair M75 AIR Ratón Gaming Inalámbrico",
+        "productId": "B0CV16ZSMY",
+        "productName": "Corsair M75 AIR Ratón Gaming Inalámbrico",
+        "filename": "B0CV16ZSMY.mp4",
+        "asin": "B0CV16ZSMY",
+        "videoDuration": 22.978533,
+        "estimatedAudioSeconds": 32,
+        "framework": "problema_solucion",
+        "narracionSegments": null,
+        "content": [
+          "Los ratones que se sienten torpes y poco precisos suelen arruinar lo mejor de tus partidas. El Corsair M75 AIR Ratón Gaming Inalámbrico ofrece maniobrabilidad y precisión mediante un diseño ultraligero de solo 60 gramos. Está equipado con un sensor óptico de veintiséis mil DPI y botones QUICKSTRIKE que aseguran respuestas veloces sin retraso, ideales para gaming competitivo. Además, con su forma simétrica, proporciona comodidad y control insuperable.",
+          "Por aproximadamente ochenta dólares, adquiérelo en Amazon y mejora tu juego."
+        ],
+        "visuals": [
+          "Product image: Corsair M75 AIR Ratón Gaming Inalámbrico"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0CV16ZSMY.mp4",
+        "precio": "$80",
+        "productPhoto": "https://m.media-amazon.com/images/I/419eqoKS2SL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "Definido en Ambición. Construido a través del Rigor: Nuestro ratón más cuidadosamente elaborado que no permite que nada se interponga entre tú y tu mejor juego competitivo. Meticulosamente diseñado. Ridículamente ligero.",
+          "Esculpido para el Rendimiento: A través de un proceso intrincado y riguroso, hemos desarrollado la forma simétrica del ratón que proporciona la máxima comodidad y control. Los botones están colocados en la posición óptima para un juego de primer nivel.",
+          "60g – Ultra ligero para un juego FPS rápido y preciso: No solo ligero. Ultra-ligero. Libre de adornos innecesarios para lograr el peso más ligero posible de 60g, M75 AIR proporciona solo lo que necesitas para ganar.",
+          "Sensor óptico Ultra-Preciso de 26k DPI: Con un DPI nativo de 26,000, seguimiento de 650 IPS y hasta 50G de aceleración, el sensor óptico CORSAIR MARKSMAN captura con precisión los movimientos rápidos del ratón, barridos veloces y recientes recenterizaciones.",
+          "CORSAIR QUICKSTRIKE BUTTONS: CORSAIR QUICKSTRIKE ofrece cero retraso entre los botones de clic izquierdo y derecho y sus interruptores, por lo que tus disparos se registran al instante."
+        ],
+        "originalVideoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0CV16ZSMY.mp4"
+      }
+    ],
+    "totalDuration": 40
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "Desafío: Encuentra algo mejor que estos productos. Suscríbete y revisa los enlaces en el primer comentario."
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "",
+    "like": "",
+    "comment": "",
+    "nextVideo": "",
+    "duration": "0 seconds"
+  },
+  "duration": "1:10",
+  "tone": "engaging",
+  "tone_variant": "analítico y preciso, como un ingeniero que explica por qué esto es superior",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "increbles",
+    "para",
+    "oficina"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 1 Gadgets Increíbles para tu Oficina",
+      "angle": "Top 2 Gadgets Increíbles para tu Oficina",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 1,
+      "introScript": "¿Cansado de las mismas herramientas aburridas en tu espacio de trabajo? Hoy te traemos dos innovaciones que pueden transformar tu oficina en un lugar de alta tecnología y eficiencia. Imagina un dispositivo que convierte cualquier superficie plana en una pantalla táctil, perfecto para presentaciones interactivas o para impresionar a tus colegas. Además, descubre un organizador de cables inteligente que no solo carga tus dispositivos, sino que también mantiene tu escritorio impecable y libre de caos. Quédate para conocer más sobre estas maravillas tecnológicas.",
+      "keywords": [
+        "gadgets",
+        "increbles",
+        "para",
+        "oficina"
+      ],
+      "estimatedViews": 5761,
+      "bestPublishTime": "2026-10-02T18:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Corsair M75 AIR Ratón Gaming Inalámbrico",
+          "searchTermEn": "ODiN Air Mouse",
+          "id": "B0CV16ZSMY",
+          "filename": "B0CV16ZSMY.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-10-01T16:32:05.776Z",
+      "_requestedCount": 2,
+      "_adaptedCount": 1,
+      "_adaptationNote": "ATENCIÓN: El usuario pidió 2 productos pero solo hay 1 clips de video disponibles. El guion, título y narrativa deben referirse EXCLUSIVAMENTE a 1 productos.",
+      "introProductsOrder": [
+        {
+          "nombre": "Corsair M75 AIR Ratón Gaming Inalámbrico",
+          "id": "B0CV16ZSMY",
+          "filename": "B0CV16ZSMY.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0CV16ZSMY.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1790872696395_5bwvfb"
+    },
+    "generatedAt": "2026-10-01T16:38:27.934Z",
+    "version": "4.0-dynamic-rotator",
+    "productos": [
+      {
+        "nombre": "Corsair M75 AIR Ratón Gaming Inalámbrico",
+        "searchTermEn": "ODiN Air Mouse",
+        "id": "B0CV16ZSMY",
+        "filename": "B0CV16ZSMY.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 1 Gadgets Increíbles para tu Oficina\n\n══════════════════════════════════════════════════\n\n[0:00-0:15] HOOK\nEl 68% de los gamers pierden partidas por no usar herramientas que maximizan su rendimiento y comodidad. Aquí te presentamos el revolucionario accesorio que podría cambiar tu experiencia de juego. Los enlaces están en el primer comentario. Mira esto.\n\n[0s] INTRODUCTION\n\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] CORSAIR M75 AIR RATÓN GAMING INALÁMBRICO\nLos ratones que se sienten torpes y poco precisos suelen arruinar lo mejor de tus partidas. El Corsair M75 AIR Ratón Gaming Inalámbrico ofrece maniobrabilidad y precisión mediante un diseño ultraligero de solo 60 gramos. Está equipado con un sensor óptico de veintiséis mil DPI y botones QUICKSTRIKE que aseguran respuestas veloces sin retraso, ideales para gaming competitivo. Además, con su forma simétrica, proporciona comodidad y control insuperable.\nPor aproximadamente ochenta dólares, adquiérelo en Amazon y mejora tu juego.\n\n[VISUALS: Product image: Corsair M75 AIR Ratón Gaming Inalámbrico]\n\n[10 seconds] CONCLUSION\nDesafío: Encuentra algo mejor que estos productos. Suscríbete y revisa los enlaces en el primer comentario.\n\n\n\n[0 seconds] CALL TO ACTION\n\n\n\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:10\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, increbles, para, oficina\n"
+}

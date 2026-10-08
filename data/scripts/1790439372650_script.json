@@ -1,0 +1,135 @@
+{
+  "title": "Top 1 Gadgets Innovadores para Ir de Pesca",
+  "hook": {
+    "type": "statement",
+    "text": "Hay un mercado oculto de productos revolucionarios como un dispositivo submarino que destapa los secretos del agua y un brazo robótico que transforma operaciones manuales. ¡Descubre cada uno de ellos! He revelado los links en el primer comentario. Dale play.",
+    "duration": "0:00-0:15"
+  },
+  "introduction": {
+    "greeting": "",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0s"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Deeper PRO+ 2 Sonar Fish Finder",
+        "productId": "B09BD7YYBJ",
+        "productName": "Deeper PRO+ 2 Sonar Fish Finder",
+        "filename": "B09BD7YYBJ.mp4",
+        "asin": "B09BD7YYBJ",
+        "videoDuration": 15.083,
+        "estimatedAudioSeconds": 26,
+        "framework": "enfoque_caracteristica",
+        "narracionSegments": null,
+        "content": [
+          "Impresionante innovación! Deeper PRO Plus dos ofrece una precisión infalible con haz amplio, medio y estrecho. Diseñado para pescadores élite, cubre todo el agua con su Wi-Fi confiable, permite identificar especies y seguir señuelos fácilmente. Sus mapas GPS integrados guardan cada ubicación eficazmente.",
+          "Consíguelo por solo ciento sesenta dólares en Amazon. ¡Descubre el enlace en los comentarios ahora mismo antes de que se agote!"
+        ],
+        "visuals": [
+          "Product image: Deeper PRO+ 2 Sonar Fish Finder"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B09BD7YYBJ.mp4",
+        "precio": "$160",
+        "productPhoto": "https://m.media-amazon.com/images/I/61dfQUOtf5L.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "LISTO PARA RENDIR: El haz amplio, medio y estrecho hacen que cubrir grandes extensiones o perforar en puntos específicos esté disponible a tu disposición; Ideal para pescadores de élite que quieren llevar su juego de competición al siguiente nivel.",
+          "TECNOLOGÍA INTELIGENTE: Precisión de hasta 330 ft; Propio Wi-Fi confiable con conectividad sólida como una roca",
+          "PRECISIÓN PUNTUAL: Muestra una precisión infalible en el agua; separación de objetivos de 0.4 in (haz estrecho) y 1 in (haz ancho y medio), identifica fácilmente especies objetivo y sigue incluso el señuelo más pequeño al jigging vertical.",
+          "GPS INTEGRADO: Te permite crear mapas batimétricos desde la costa, muelle o orilla de manera simple y efectiva; Guarda todos tus mapas en la app integrada Fish Deeper.",
+          "CAPACIDADES QUE CAMBIAN EL JUEGO - El diseño inalámbrico, elegante y ligero lo convierte en una adición perfecta a tu caja de aparejos."
+        ],
+        "originalVideoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B09BD7YYBJ.mp4"
+      }
+    ],
+    "totalDuration": 40
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "Gracias por llegar hasta aquí, el próximo top será aún más loco. Recuerda los links en el primer comentario."
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "",
+    "like": "",
+    "comment": "",
+    "nextVideo": "",
+    "duration": "0 seconds"
+  },
+  "duration": "1:10",
+  "tone": "engaging",
+  "tone_variant": "directo y urgente, como si el producto se agotara mañana",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "innovadores",
+    "para",
+    "pesca"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 1 Gadgets Innovadores para Ir de Pesca",
+      "angle": "Top 2 Gadgets Innovadores para Ir de Pesca",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 1,
+      "introScript": "¿Imaginas mejorar tu experiencia de pesca con tecnología de vanguardia? Hoy te presentamos dos gadgets que llevarán tu aventura al siguiente nivel. Desde una caña de pescar inteligente, capaz de detectar peces bajo el agua con precisión milimétrica, hasta un dron acuático que te permite explorar y analizar el hábitat marino como nunca antes. Estos dispositivos no solo incrementarán tu efectividad, sino que también cambiarán tu perspectiva sobre el arte de pescar. Prepárate para conocer los detalles de estas impresionantes innovaciones.",
+      "keywords": [
+        "gadgets",
+        "innovadores",
+        "para",
+        "pesca"
+      ],
+      "estimatedViews": 4469,
+      "bestPublishTime": "2026-09-27T14:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Deeper PRO+ 2 Sonar Fish Finder",
+          "searchTermEn": "Deeper CHIRP+2 Sonar Fish Finder",
+          "id": "B09BD7YYBJ",
+          "filename": "B09BD7YYBJ.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-09-26T16:14:28.109Z",
+      "_requestedCount": 2,
+      "_adaptedCount": 1,
+      "_adaptationNote": "ATENCIÓN: El usuario pidió 2 productos pero solo hay 1 clips de video disponibles. El guion, título y narrativa deben referirse EXCLUSIVAMENTE a 1 productos.",
+      "introProductsOrder": [
+        {
+          "nombre": "Deeper PRO+ 2 Sonar Fish Finder",
+          "id": "B09BD7YYBJ",
+          "filename": "B09BD7YYBJ.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B09BD7YYBJ.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1790439356360_eaycs3"
+    },
+    "generatedAt": "2026-09-26T16:16:02.492Z",
+    "version": "4.0-dynamic-rotator",
+    "productos": [
+      {
+        "nombre": "Deeper PRO+ 2 Sonar Fish Finder",
+        "searchTermEn": "Deeper CHIRP+2 Sonar Fish Finder",
+        "id": "B09BD7YYBJ",
+        "filename": "B09BD7YYBJ.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 1 Gadgets Innovadores para Ir de Pesca\n\n══════════════════════════════════════════════════\n\n[0:00-0:15] HOOK\nHay un mercado oculto de productos revolucionarios como un dispositivo submarino que destapa los secretos del agua y un brazo robótico que transforma operaciones manuales. ¡Descubre cada uno de ellos! He revelado los links en el primer comentario. Dale play.\n\n[0s] INTRODUCTION\n\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] DEEPER PRO+ 2 SONAR FISH FINDER\nImpresionante innovación! Deeper PRO Plus dos ofrece una precisión infalible con haz amplio, medio y estrecho. Diseñado para pescadores élite, cubre todo el agua con su Wi-Fi confiable, permite identificar especies y seguir señuelos fácilmente. Sus mapas GPS integrados guardan cada ubicación eficazmente.\nConsíguelo por solo ciento sesenta dólares en Amazon. ¡Descubre el enlace en los comentarios ahora mismo antes de que se agote!\n\n[VISUALS: Product image: Deeper PRO+ 2 Sonar Fish Finder]\n\n[10 seconds] CONCLUSION\nGracias por llegar hasta aquí, el próximo top será aún más loco. Recuerda los links en el primer comentario.\n\n\n\n[0 seconds] CALL TO ACTION\n\n\n\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:10\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, innovadores, para, pesca\n"
+}

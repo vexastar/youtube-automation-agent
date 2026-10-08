@@ -1,0 +1,1135 @@
+{
+  "title": "Top 8 Gadgets Futuristas que Puedes Comprar en Amazon",
+  "hook": {
+    "type": "statement",
+    "text": "Proyecta en cualquier lugar con calidad asombrosa. Monitorea la calidad del aire al instante. Purifica grandes espacios en minutos. Localiza objetos perdidos en un clic. Protege tus tarjetas con un diseño elegante.",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "Suscríbete ahora y encuentra los links de compra en el primer comentario.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0:10-0:15"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Atmotube Pro",
+        "productId": "B0FCDCWKJV",
+        "productName": "Atmotube Pro",
+        "filename": "B0FCDCWKJV.mp4",
+        "asin": "B0FCDCWKJV",
+        "clipDuration": 60.03,
+        "estimatedAudioSeconds": 60,
+        "framework": "comparacion_precio",
+        "narracionSegments": null,
+        "content": [
+          "Comparando monitores de calidad de aire, el Atmotube Pro destaca por su precisión extrema y su capacidad para medir 9 parámetros clave. Mientras otros requieren menús complicados, este dispositivo ofrece una pantalla LED clara de 7 pulgadas que te permite ver toda la información de un vistazo. Ideal para quienes buscan seguridad y comodidad ambiental en tiempo real.",
+          "Su precio actual en Amazon ronda los... 249 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Atmotube Pro"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0FCDCWKJV_combined.mp4",
+        "precio": "$249",
+        "productPhoto": "https://m.media-amazon.com/images/I/61BHI5PjWXL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FCDCWKJV\\scenes_v1\\B0FCDCWKJV_scene_01.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Monitor calidad aire",
+            "raw": "9|Monitor calidad aire"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FCDCWKJV\\scenes_v1\\B0FCDCWKJV_scene_03.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Pantalla encendida",
+            "raw": "9|Pantalla encendida"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FCDCWKJV\\scenes_v1\\B0FCDCWKJV_scene_02.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Pantalla encendida",
+            "raw": "9|Pantalla encendida"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FCDCWKJV\\scenes_v1\\B0FCDCWKJV_scene_05.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Monitor calidad aire",
+            "raw": "9|Monitor calidad aire"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FCDCWKJV\\scenes_v1\\B0FCDCWKJV_scene_11.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Monitor calidad aire",
+            "raw": "9|Monitor calidad aire"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FCDCWKJV\\scenes_v1\\B0FCDCWKJV_scene_13.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Monitor calidad aire",
+            "raw": "9|Monitor calidad aire"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FCDCWKJV\\scenes_v1\\B0FCDCWKJV_scene_14.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Monitor calidad aire",
+            "raw": "9|Monitor calidad aire"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FCDCWKJV\\scenes_v1\\B0FCDCWKJV_scene_04.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "producto pequeño",
+            "raw": "5|producto pequeño"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FCDCWKJV\\scenes_v2\\B0FCDCWKJV_v2_scene_01.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Pantalla encendida",
+            "raw": "9|Pantalla encendida"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FCDCWKJV\\scenes_v3\\B0FCDCWKJV_v3_scene_02.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Pantalla encendida",
+            "raw": "9|Pantalla encendida"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FCDCWKJV\\scenes_v3\\B0FCDCWKJV_v3_scene_06.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Monitor calidad aire",
+            "raw": "9|Monitor calidad aire"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FCDCWKJV\\scenes_v3\\B0FCDCWKJV_v3_scene_04.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "producto pequeño",
+            "raw": "5|producto pequeño"
+          }
+        ],
+        "features": [
+          "【16-in-1 Air Quality Monitor Indoor】Experience the ultimate indoor air quality monitoring with our 16-in-1 Air Quality Monitor, offering real-time detection of 9 key parameters including CO2, PM2.5, PM1.0, PM10, HCHO, TVOC, Temperature, Humidity, AQI, and Time. With 7 distinct AQI alert buzzers, this air quality tester ensures your family breathes with ease. (*Note: \"16-in-1\" refers to the combination of 9 key detectable parameters and 7 types of AQI alert buzzers.)",
+          "【Crystal Clear 7-inch Large Display】Enjoy a 7-inch LED display for sharp, clear air quality readings. Provides an instant, comprehensive view of your indoor air without navigating through menus, with three brightness settings for any lighting condition",
+          "【External High-Precision Sensors with 0.001 Accuracy】Equipped with advanced external high-precision sensors, this device delivers unmatched accuracy (0.001 units) by directly sampling the air. Its innovative multi-sensor array and enhanced airflow design detect even the slightest environmental changes, allowing for instant response and optimal safety. (*Note: Avoid touching the sensors or exposing them to perfumes/strong odors to maintain accuracy.)",
+          "【Real-Time AQI Alert Buzzers】Our air quality monitor provides real-time monitoring and alerts for pollutants like CO2, PM2.5, PM1.0, PM10, HCHO, TVOC, Temperature, Humidity, and AQI, with 7 distinct alert functions. Stay informed with clear alerts and rest easy with a mute button to silence alarms. Your health and comfort are our priority",
+          "【Easy Time Adjustment】1.Switch Time Format: Click the “Time button” to toggle between 12/24-hour format. 2.Set Hours: Long press the “Time button” to enter setting mode. Use the “Alarm button” or “Brightness button” to adjust hours. 3.Set Minutes: Click the “Time button” again. Use the “Alarm button” or “Brightness button” to adjust minutes. 4.Confirm: Click the “Time button” to save settings."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Ekster Parliament Wallet",
+        "productId": "B07PVMK5NJ",
+        "productName": "Ekster Parliament Wallet",
+        "filename": "B07PVMK5NJ.mp4",
+        "asin": "B07PVMK5NJ",
+        "clipDuration": 60.03,
+        "estimatedAudioSeconds": 60,
+        "framework": "dato_numerico",
+        "narracionSegments": null,
+        "content": [
+          "-10 tarjetas- guardadas sin esfuerzo, este innovador billetero ofrece un diseño ultrafino con protección RFID integrada. Fabricado en cuero de alta calidad y aluminio durable, redefine cómo almacenamos nuestras tarjetas y efectivo.",
+          "Su precio actual en Amazon ronda los... 89 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Ekster Parliament Wallet"
+        ],
+        "duration": 25,
+        "precio": "$69",
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07PVMK5NJ_combined.mp4",
+        "productPhoto": "https://m.media-amazon.com/images/I/61GQ7PfGudL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07PVMK5NJ\\scenes_v1\\B07PVMK5NJ_scene_04.mp4",
+            "type": "video",
+            "score": 10,
+            "tag": "cartera minimalista",
+            "raw": "10|cartera minimalista"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07PVMK5NJ\\scenes_v1\\B07PVMK5NJ_scene_14.mp4",
+            "type": "video",
+            "score": 10,
+            "tag": "carteras minimalistas",
+            "raw": "10|carteras minimalistas"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07PVMK5NJ\\scenes_v1\\B07PVMK5NJ_scene_02.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "cartera minimalista",
+            "raw": "9|cartera minimalista"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07PVMK5NJ\\scenes_v1\\B07PVMK5NJ_scene_03.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "cartera minimalista",
+            "raw": "9|cartera minimalista"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07PVMK5NJ\\scenes_v1\\B07PVMK5NJ_scene_05.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "cartera minimalista",
+            "raw": "9|cartera minimalista"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07PVMK5NJ\\scenes_v1\\B07PVMK5NJ_scene_08.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "cartera minimalista",
+            "raw": "9|cartera minimalista"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07PVMK5NJ\\scenes_v1\\B07PVMK5NJ_scene_10.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07PVMK5NJ\\scenes_v1\\B07PVMK5NJ_scene_13.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "cartera minimalista",
+            "raw": "9|cartera minimalista"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07PVMK5NJ\\scenes_v1\\B07PVMK5NJ_scene_12.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "cartera minimalista",
+            "raw": "9|cartera minimalista"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07PVMK5NJ\\scenes_v1\\B07PVMK5NJ_scene_15.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "cartera minimalista",
+            "raw": "9|cartera minimalista"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07PVMK5NJ\\scenes_v1\\B07PVMK5NJ_scene_16.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Billetera minimalista",
+            "raw": "8|Billetera minimalista"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07PVMK5NJ\\scenes_v2\\B07PVMK5NJ_v2_scene_01.mp4",
+            "type": "video",
+            "score": 10,
+            "tag": "cartera minimalista",
+            "raw": "10|cartera minimalista"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07PVMK5NJ\\scenes_v3\\B07PVMK5NJ_v3_scene_01.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "cartera minimalista",
+            "raw": "8|cartera minimalista"
+          }
+        ],
+        "features": [
+          "The Next Generation Wallet: This minimalist wallet for men gives you easier access to your cards and comes with built in rfid data protection to prevent wireless theft. Forget about rummaging through a bifold wallet, by using our patented card ejection mechanism, you can instantly pop out your cards at the click of a button.",
+          "Sustainable Materials: The Ekster Parliament leather wallet is a men’s metal trigger wallet handcrafted from premium top-grain leather, tanned under silver-rated Lwg-certified protocols, and 6063 T5 Aluminium. Durably designed for daily use, this mens wallet slim design requires minimal upkeep to for a lifetime of use.",
+          "Slim Storage: Store up to 10+ cards, fitting 4-6 in the data protected cardholder while keeping a slim profile. You can also store extras in the cash strap and additional hidden pockets. The Parliament minimalist wallet for men is compact and slim without sacrificing storage space.",
+          "Make It Unloseable: Perfectly fits the Ekster Tracker Card to make sure you never lose your wallet again. Misplaced or lost your Ekster? Ring it from your phone or see where you last had it on a map. Tracking device is sold separately and works with any model; the Ekster Parliament, Ekster Aluminum Cardholder or Ekster Senate mens wallets.",
+          "Our Promise: We create better gear for life on the move and your satisfaction is our top priority; if we don’t meet your expectations just send it back. Depending on the number of cards and bills stored in the wallet, the flap may not close entirely in the first weeks of use. After 1-2 weeks of usage, your wallet will take the natural shape of your pocket and will remain closed naturally."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Rocketbook Smart Notebook",
+        "productId": "B0DP3J346V",
+        "productName": "Rocketbook Smart Notebook",
+        "filename": "B0DP3J346V.mp4",
+        "asin": "B0DP3J346V",
+        "clipDuration": 60.03,
+        "estimatedAudioSeconds": 60,
+        "framework": "experiencia_sensorial",
+        "narracionSegments": null,
+        "content": [
+          "-Escribe-, digitaliza y reutiliza infinitamente con el Rocketbook Smart Notebook que transforma tu experiencia de escritura tradicional al nivel digital sin perder la sensación del papel.",
+          "... Su precio actual en Amazon es de... 35 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Rocketbook Smart Notebook"
+        ],
+        "duration": 25,
+        "precio": "$27",
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0DP3J346V_combined.mp4",
+        "productPhoto": "https://m.media-amazon.com/images/I/81RHqqjbYML.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DP3J346V\\scenes_v1\\B0DP3J346V_scene_02.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "cuaderno reutilizable",
+            "raw": "8|cuaderno reutilizable"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DP3J346V\\scenes_v1\\B0DP3J346V_scene_03.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "cuaderno reutilizable",
+            "raw": "8|cuaderno reutilizable"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DP3J346V\\scenes_v2\\B0DP3J346V_v2_scene_01.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción notebook",
+            "raw": "9|interacción notebook"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DP3J346V\\scenes_v2\\B0DP3J346V_v2_scene_02.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción escritura",
+            "raw": "9|interacción escritura"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DP3J346V\\scenes_v2\\B0DP3J346V_v2_scene_07.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Interacción real",
+            "raw": "9|Interacción real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DP3J346V\\scenes_v2\\B0DP3J346V_v2_scene_11.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DP3J346V\\scenes_v2\\B0DP3J346V_v2_scene_12.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Interacción real",
+            "raw": "9|Interacción real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DP3J346V\\scenes_v2\\B0DP3J346V_v2_scene_14.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DP3J346V\\scenes_v2\\B0DP3J346V_v2_scene_03.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "cuaderno reutilizable",
+            "raw": "8|cuaderno reutilizable"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DP3J346V\\scenes_v2\\B0DP3J346V_v2_scene_08.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "cuaderno reutilizable",
+            "raw": "8|cuaderno reutilizable"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DP3J346V\\scenes_v2\\B0DP3J346V_v2_scene_10.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "cuaderno reutilizable",
+            "raw": "8|cuaderno reutilizable"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DP3J346V\\scenes_v2\\B0DP3J346V_v2_scene_09.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "cuaderno reutilizable",
+            "raw": "8|cuaderno reutilizable"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DP3J346V\\scenes_v3\\B0DP3J346V_v3_scene_01.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Interacción escritura",
+            "raw": "9|Interacción escritura"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DP3J346V\\scenes_v3\\B0DP3J346V_v3_scene_02.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DP3J346V\\scenes_v3\\B0DP3J346V_v3_scene_04.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción notebook",
+            "raw": "9|interacción notebook"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DP3J346V\\scenes_v3\\B0DP3J346V_v3_scene_06.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción notebook",
+            "raw": "9|interacción notebook"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DP3J346V\\scenes_v3\\B0DP3J346V_v3_scene_05.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción real",
+            "raw": "9|interacción real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DP3J346V\\scenes_v3\\B0DP3J346V_v3_scene_07.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción escritura",
+            "raw": "9|interacción escritura"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DP3J346V\\scenes_v3\\B0DP3J346V_v3_scene_03.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "interacción digital",
+            "raw": "5|interacción digital"
+          }
+        ],
+        "features": [
+          "New and Improved Core: Features premium reusable paper, with improved pen to paper feel, spiral binding and sleekly re-designed, scratch-resistant cover. College-ruled sheets now include Smart Titles and Smart Tags to name and organize files efficiently.",
+          "App-Enabled for Digital Organization: Scan and upload your written work directly to cloud platforms like Google Drive, Dropbox, OneNote, etc. and access your notes from anywhere. Use Smart Titles and Smart Tags to name and organize files efficiently.",
+          "Write, Digitize, Erase, and Re-Write: Write notes with the included Pilot Frixion Pen, digitize effortlessly using the Rocketbook app, store in your preferred cloud service. When done, simply wipe the pages clean with a damp cloth and start fresh.",
+          "Portable and Versatile Sizes: Available in two sizes—Letter (8.5 x 11 inches) and Executive (6 x 8.8 inches)—the Rocketbook Core is compact enough to fit into backpacks, purses, or briefcases. This notebook offers portability and versatility.",
+          "Eco-Friendly Reusability: Designed with sustainability in mind, Rocketbook notebooks help reduce paper waste with a reusable alternative. Enjoy a paper-like notebook that can be used repeatedly, allowing you to save work and erase everything else."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Gravity Blanket",
+        "productId": "B092LZLLGF",
+        "productName": "Gravity Blanket",
+        "filename": "B092LZLLGF.mp4",
+        "asin": "B092LZLLGF",
+        "clipDuration": 60.03,
+        "estimatedAudioSeconds": 38,
+        "framework": "problema_solucion",
+        "narracionSegments": null,
+        "content": [
+          "¿Problemas para dormir profundamente? La Gravity Blanket, con su diseño de compartimentos de 5x5 pulgadas y costuras de alta densidad, garantiza que los microcristales se mantengan en su lugar. Es lavable a máquina y no se descuelga del colchón.",
+          "Su precio actual en Amazon ronda los 149 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Gravity Blanket"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B092LZLLGF_combined.mp4",
+        "precio": "$149",
+        "productPhoto": "https://m.media-amazon.com/images/I/61heqwhPQyL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B092LZLLGF\\scenes_v1\\B092LZLLGF_scene_03.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Manta pesada",
+            "raw": "9|Manta pesada"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B092LZLLGF\\scenes_v1\\B092LZLLGF_scene_02.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Manta pesada",
+            "raw": "9|Manta pesada"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B092LZLLGF\\scenes_v1\\B092LZLLGF_scene_01.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Mujer usando manta",
+            "raw": "9|Mujer usando manta"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B092LZLLGF\\scenes_v1\\B092LZLLGF_scene_04.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "mujer usando manta",
+            "raw": "9|mujer usando manta"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B092LZLLGF\\scenes_v3\\B092LZLLGF_v3_scene_01.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "manta pesada",
+            "raw": "9|manta pesada"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B092LZLLGF\\scenes_v3\\B092LZLLGF_v3_scene_02.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "manta pesada",
+            "raw": "8|manta pesada"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B092LZLLGF\\scenes_v3\\B092LZLLGF_v3_scene_03.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "manta pesada",
+            "raw": "8|manta pesada"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B092LZLLGF\\scenes_v3\\B092LZLLGF_v3_scene_05.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "cobija pesada",
+            "raw": "8|cobija pesada"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B092LZLLGF\\scenes_v3\\B092LZLLGF_v3_scene_06.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "manta pesada",
+            "raw": "8|manta pesada"
+          }
+        ],
+        "features": [
+          "🌙【CHOOSE RIGHT WEIGHT】: Weighted blanket which owns 7%- 10% of your body weight is recommended. For example, a 200 lb adult would use a 15 lb or 20 lb queen size weighted blanket. If it's your first time using a weighted blanket, we recommend starting with a lighter one to help you adjust.",
+          "🌙【JUST ON TOP OF MATTRESS】: Yescool weighted blankets for adults keep you sleeping all night. We recommend a queen size blanket for single use. Due to enough weight, the weighted blanket queen size (60”x 80”) will fit your body very well, which means it just fits on top of the mattress of your queen-size bed, 📌WITHOUT OVERHANGING📌, and may make you think it is smaller.",
+          "🌙【TIGHTLY STITCHING&DURABILE】: Our weighted blanket for women&man composed of 5\"x5\" small enough compartments stitched by high-density 15000 stitches to tightly make glass beads stay put in the square all the time to bring you a more durable weighted blanket with no glass beads leakage.",
+          "🌙【MACHINE WASHABLE】: The weighted blankets for adults 20 lbs can be machine-washable in cold water on the gentle program, air dry. Our weighted blankets adults could make glass beads stay put and evenly distributed in it when you wash the adult weighted blanket 20lb in a machine, which is derived by our 50 machine wash experiments.",
+          "🌙【DECENT GIFT IDEA】: Receiving gifts is fun while finding gift ideas, errrr...not so much. What could beat a weighted blanket used for every sleep as gifts for men, women, couples, everyone,Mother's Day? Just handing out gifts and waiting for their surprise expression."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Lámpara magnética levitación",
+        "productId": "B09833QPYR",
+        "productName": "Lámpara magnética levitación",
+        "filename": "B09833QPYR.mp4",
+        "asin": "B09833QPYR",
+        "clipDuration": 60.03,
+        "estimatedAudioSeconds": 36,
+        "framework": "enfoque_caracteristica",
+        "narracionSegments": null,
+        "content": [
+          "La lámpara magnética de levitación combina luz y tecnología flotante, creando un efecto visual único al rotar 360 grados. Funciona con inducción electromagnética sin cables, ideal como lámpara de escritorio.",
+          "Su precio actual en Amazon ronda los 45 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Lámpara magnética levitación"
+        ],
+        "duration": 25,
+        "precio": "$71",
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B09833QPYR_combined.mp4",
+        "productPhoto": "https://m.media-amazon.com/images/I/71zK+2otJ0L.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B09833QPYR\\scenes_v1\\B09833QPYR_scene_05.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "lámpara levitante",
+            "raw": "9|lámpara levitante"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B09833QPYR\\scenes_v1\\B09833QPYR_scene_06.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "lámpara levitante",
+            "raw": "9|lámpara levitante"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B09833QPYR\\scenes_v1\\B09833QPYR_scene_08.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "lámpara levitante",
+            "raw": "9|lámpara levitante"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B09833QPYR\\scenes_v1\\B09833QPYR_scene_07.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "lámpara levitante",
+            "raw": "8|lámpara levitante"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B09833QPYR\\scenes_v1\\B09833QPYR_scene_01.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "producto pequeño",
+            "raw": "5|producto pequeño"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B09833QPYR\\scenes_v1\\B09833QPYR_scene_03.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "producto pequeño",
+            "raw": "5|producto pequeño"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B09833QPYR\\scenes_v1\\B09833QPYR_scene_04.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "producto pequeño",
+            "raw": "5|producto pequeño"
+          }
+        ],
+        "features": [
+          "Light meets levitation: The floating bulb uses magnetic levitation technology, and it can float and rotate freely in the air without any contact or support, and without any noise during operation. The magnetic floating led light can automatically rotate 360 degrees, has a unique visual effect, attracts your attention, and allows you to immerse yourself in this soft light.",
+          "The levitation bulb is powered by electromagnetic induction and does not require cables or built-in batteries. Lights controlled by the touch button: on/off on the wooden base. The lamp is made of environmentally friendly materials. LED is very soft, we use a super bright 60 lumens LED bulb, which is harmless to the eyes. Long service life (proper use can last for several years), and the rated use time is 50,000 hours.",
+          "Once the power is cut off, the magnetic force of the base firmly attracts the bulb and will not fall off, so there is no need to worry about damaging the bulb.",
+          "You can think of it as a desk lamp, table lamp, night light, etc., and put it in the office, hotel lobby, home, living room, study, bedroom, bar, Coffee shop, etc. Catch everyone's sight.",
+          "It can also be used as birthday gifts, Mother's Day Gifts, Christmas gifts, Valentine's Day gifts, etc. to family, lovers, friends, and colleagues, etc. Imagine when they receive and open the box, it will bring them much surprise!"
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Nebula Capsule Proyector",
+        "productId": "B0CHW11C8H",
+        "productName": "Nebula Capsule Proyector",
+        "filename": "B0CHW11C8H.mp4",
+        "asin": "B0CHW11C8H",
+        "clipDuration": 60.03,
+        "estimatedAudioSeconds": 43,
+        "framework": "beneficio_oculto",
+        "narracionSegments": null,
+        "content": [
+          "Con el Nebula Capsule Proyector, lleva la experiencia cinematográfica a cualquier lugar. Ofrece una calidad de imagen Full HD a 200 lúmenes y pantalla máxima de 120 pulgadas. Disfruta hasta dos horas y media de películas con una sola carga.",
+          "Su precio actual en Amazon ronda los 349 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Nebula Capsule Proyector"
+        ],
+        "duration": 25,
+        "precio": "$360",
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0CHW11C8H_combined.mp4",
+        "productPhoto": "https://m.media-amazon.com/images/I/81WZMwYM93L.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CHW11C8H\\scenes_v1\\B0CHW11C8H_scene_01.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "proyector portátil",
+            "raw": "9|proyector portátil"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CHW11C8H\\scenes_v2\\B0CHW11C8H_v2_scene_01.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "proyector portátil",
+            "raw": "9|proyector portátil"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CHW11C8H\\scenes_v2\\B0CHW11C8H_v2_scene_04.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Interacción USB",
+            "raw": "9|Interacción USB"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CHW11C8H\\scenes_v3\\B0CHW11C8H_v3_scene_01.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "proyector portátil",
+            "raw": "9|proyector portátil"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CHW11C8H\\scenes_v3\\B0CHW11C8H_v3_scene_02.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "pantalla encendida",
+            "raw": "9|pantalla encendida"
+          }
+        ],
+        "features": [
+          "Super-Sized Screen, Portable Design: Capsule 3 is an all-new ultra-portable Google TV projector licensed by Netflix.",
+          "Take the Big Screen Anywhere: With a max screen size of 120 inches, Capsule 3 delivers a cinema-level experience you can take with you anywhere.",
+          "Next-Level Image Quality: The 1080p display with 200 Lumens of brightness makes movies shine for an immersive watching experience.",
+          "Long Playtime: Finish a whole 2.5-hour movie or listen to 8 hours of music on a single charge. (under eco mode)",
+          "Set Up in Seconds: Our Intelligent Environment Adaptation Technology performs screen fit, auto keystone correction, autofocus, and obstacle avoidance in just 3 seconds."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Tile Pro",
+        "productId": "B0D636MDW7",
+        "productName": "Tile Pro",
+        "filename": "B0D636MDW7.mp4",
+        "asin": "B0D636MDW7",
+        "clipDuration": 60.03,
+        "estimatedAudioSeconds": 37,
+        "framework": "comparacion_precio",
+        "narracionSegments": null,
+        "content": [
+          "El Tile Pro es el rastreador más potente para localizar objetos perdidos o robados. Incluye funciones como búsqueda del teléfono incluso en silencio y activación discreta del SOS para mayor seguridad.",
+          "Su precio actual en Amazon ronda los 35 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Tile Pro"
+        ],
+        "duration": 25,
+        "precio": "$43",
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0D636MDW7_combined.mp4",
+        "productPhoto": "https://m.media-amazon.com/images/I/7135NhJXdYL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D636MDW7\\scenes_v1\\B0D636MDW7_scene_09.mp4",
+            "type": "video",
+            "score": 10,
+            "tag": "interacción real",
+            "raw": "10|interacción real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D636MDW7\\scenes_v1\\B0D636MDW7_scene_01.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D636MDW7\\scenes_v1\\B0D636MDW7_scene_03.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D636MDW7\\scenes_v1\\B0D636MDW7_scene_02.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D636MDW7\\scenes_v1\\B0D636MDW7_scene_04.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D636MDW7\\scenes_v1\\B0D636MDW7_scene_05.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D636MDW7\\scenes_v1\\B0D636MDW7_scene_08.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D636MDW7\\scenes_v1\\B0D636MDW7_scene_07.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "producto pequeño",
+            "raw": "5|producto pequeño"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D636MDW7\\scenes_v2\\B0D636MDW7_v2_scene_06.mp4",
+            "type": "video",
+            "score": 10,
+            "tag": "interacción real",
+            "raw": "10|interacción real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D636MDW7\\scenes_v2\\B0D636MDW7_v2_scene_07.mp4",
+            "type": "video",
+            "score": 10,
+            "tag": "interacción real",
+            "raw": "10|interacción real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D636MDW7\\scenes_v2\\B0D636MDW7_v2_scene_03.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D636MDW7\\scenes_v2\\B0D636MDW7_v2_scene_01.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Tile Pro",
+            "raw": "9|Tile Pro"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D636MDW7\\scenes_v2\\B0D636MDW7_v2_scene_05.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D636MDW7\\scenes_v2\\B0D636MDW7_v2_scene_02.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D636MDW7\\scenes_v3\\B0D636MDW7_v3_scene_01.mp4",
+            "type": "video",
+            "score": 10,
+            "tag": "Llave localizadora",
+            "raw": "10|Llave localizadora"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D636MDW7\\scenes_v3\\B0D636MDW7_v3_scene_03.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Llaves y Tile",
+            "raw": "9|Llaves y Tile"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D636MDW7\\scenes_v3\\B0D636MDW7_v3_scene_06.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "localizador Bluetooth",
+            "raw": "9|localizador Bluetooth"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D636MDW7\\scenes_v3\\B0D636MDW7_v3_scene_07.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D636MDW7\\scenes_v3\\B0D636MDW7_v3_scene_02.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "producto en uso",
+            "raw": "8|producto en uso"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D636MDW7\\scenes_v3\\B0D636MDW7_v3_scene_05.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Localizador Bluetooth",
+            "raw": "8|Localizador Bluetooth"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D636MDW7\\scenes_v3\\B0D636MDW7_v3_scene_04.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Teddy Bear",
+            "raw": "8|Teddy Bear"
+          }
+        ],
+        "features": [
+          "OUR MOST POWERFUL TRACKER: What you love, located. Pro protects lost or stolen stuff—all from the same app you use to keep your people and pets safe. Attach Tile Pro to keys, golf bags, and more",
+          "STAY SAFE WITH SOS: Keep stuff safe, and people and pets protected. Discreetly trigger an SOS to keep your loved ones safe in any situation",
+          "FIND YOUR THINGS: Ring your misplaced Tile, or track it down in the free app",
+          "FIND YOUR PHONE: Phone hiding under a cushion? Use your Tile to make it ring — even when silenced",
+          "USE WITH LIFE360: Track everything—and everyone you love—a top family connection and safety app. Add your Tiles to see all you love on one map"
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Wynd Halo",
+        "productId": "B083Z2FDRG",
+        "productName": "Wynd Halo",
+        "filename": "B083Z2FDRG.mp4",
+        "asin": "B083Z2FDRG",
+        "clipDuration": 60.03,
+        "estimatedAudioSeconds": 60,
+        "framework": "problema_solucion",
+        "narracionSegments": null,
+        "content": [
+          "El purificador Wynd Halo es capaz de limpiar hasta 1200 pies cuadrados en solo 30 minutos. Su potente sistema filtra humo, polvo y más, garantizando aire limpio y fresco rápidamente.",
+          "Su precio actual en Amazon ronda los... 155 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Wynd Halo"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B083Z2FDRG_combined.mp4",
+        "precio": "$155",
+        "productPhoto": "https://m.media-amazon.com/images/I/61BfmVyDp8L.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B083Z2FDRG\\scenes_v1\\B083Z2FDRG_scene_01.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Purificador visible",
+            "raw": "9|Purificador visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B083Z2FDRG\\scenes_v1\\B083Z2FDRG_scene_09.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Purificador aire",
+            "raw": "8|Purificador aire"
+          }
+        ],
+        "features": [
+          "Clean 1200 sq. ft. in 30 mins.",
+          "Most Powerful Purifier In Its Class.",
+          "Filters Smoke, Pet Dander, Pollen, Dust, Aerosols, Smog, Pollution, Paint and more.",
+          "Precision turbine engineering meets V-Series HEPA to bring clean air to your home, at rapid speeds.",
+          "App Enabled and Alexa Enabled"
+        ]
+      }
+    ],
+    "totalDuration": 200
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      null
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "4:40",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "futuristas",
+    "puedes",
+    "comprar",
+    "amazon"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 10 Gadgets Futuristas que Puedes Comprar en Amazon",
+      "angle": "Top 10 Gadgets Futuristas que Puedes Comprar en Amazon",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 10,
+      "introScript": "¿Te imaginas controlar el clima de tu casa desde el espejo del baño? ¿O tener una mochila que carga tus dispositivos solo con el sol? Descubre estos inventos que parecen sacados del futuro, pero que ya puedes tener en tus manos.",
+      "keywords": [
+        "gadgets",
+        "futuristas",
+        "puedes",
+        "comprar",
+        "amazon"
+      ],
+      "estimatedViews": 4232,
+      "bestPublishTime": "2026-06-02T19:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Atmotube Pro",
+          "searchTermEn": "Atmotube Pro air quality monitor",
+          "id": "B0FCDCWKJV",
+          "filename": "B0FCDCWKJV.mp4"
+        },
+        {
+          "nombre": "Ekster Parliament Wallet",
+          "searchTermEn": "Ekster Parliament Smart Wallet",
+          "id": "B07PVMK5NJ",
+          "filename": "B07PVMK5NJ.mp4"
+        },
+        {
+          "nombre": "Rocketbook Smart Notebook",
+          "searchTermEn": "Rocketbook reusable smart notebook",
+          "id": "B0DP3J346V",
+          "filename": "B0DP3J346V.mp4"
+        },
+        {
+          "nombre": "Gravity Blanket",
+          "searchTermEn": "Gravity weighted blanket",
+          "id": "B092LZLLGF",
+          "filename": "B092LZLLGF.mp4"
+        },
+        {
+          "nombre": "Lámpara Levitante Levitop",
+          "searchTermEn": "Levitop magnetic levitating lamp",
+          "id": "B09833QPYR",
+          "filename": "B09833QPYR.mp4"
+        },
+        {
+          "nombre": "Nebula Capsule Projector",
+          "searchTermEn": "Nebula Capsule Smart Mini Projector",
+          "id": "B0CHW11C8H",
+          "filename": "B0CHW11C8H.mp4"
+        },
+        {
+          "nombre": "Tile Pro Tracker",
+          "searchTermEn": "Tile Pro Bluetooth tracker",
+          "id": "B0D636MDW7",
+          "filename": "B0D636MDW7.mp4"
+        },
+        {
+          "nombre": "Nomad Base Station",
+          "searchTermEn": "Nomad Base Station wireless charger",
+          "id": "B0DDQ71B9P",
+          "filename": "B0DDQ71B9P.mp4"
+        },
+        {
+          "nombre": "Oura Ring",
+          "searchTermEn": "Oura Ring smart health tracker",
+          "id": "B0D9WVSZ56",
+          "filename": "B0D9WVSZ56.mp4"
+        },
+        {
+          "nombre": "Wynd Halo",
+          "searchTermEn": "Wynd Halo air purifier",
+          "id": "B083Z2FDRG",
+          "filename": "B083Z2FDRG.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-05-26T21:00:37.941Z",
+      "_requestedCount": 10,
+      "_adaptedCount": 10,
+      "introProductsOrder": [
+        {
+          "nombre": "Nebula Capsule Projector",
+          "id": "B0CHW11C8H",
+          "filename": "B0CHW11C8H_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0CHW11C8H_combined.mp4"
+        },
+        {
+          "nombre": "Atmotube Pro",
+          "id": "B0FCDCWKJV",
+          "filename": "B0FCDCWKJV_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0FCDCWKJV_combined.mp4"
+        },
+        {
+          "nombre": "Wynd Halo",
+          "id": "B083Z2FDRG",
+          "filename": "B083Z2FDRG_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B083Z2FDRG_combined.mp4"
+        },
+        {
+          "nombre": "Tile Pro Tracker",
+          "id": "B0D636MDW7",
+          "filename": "B0D636MDW7_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0D636MDW7_combined.mp4"
+        },
+        {
+          "nombre": "Ekster Parliament Wallet",
+          "id": "B07PVMK5NJ",
+          "filename": "B07PVMK5NJ_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07PVMK5NJ_combined.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1779831569569_ljlsxw"
+    },
+    "generatedAt": "2026-05-26T21:40:41.376Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Atmotube Pro",
+        "searchTermEn": "Atmotube Pro air quality monitor",
+        "id": "B0FCDCWKJV",
+        "filename": "B0FCDCWKJV.mp4"
+      },
+      {
+        "nombre": "Ekster Parliament Wallet",
+        "searchTermEn": "Ekster Parliament Smart Wallet",
+        "id": "B07PVMK5NJ",
+        "filename": "B07PVMK5NJ.mp4"
+      },
+      {
+        "nombre": "Rocketbook Smart Notebook",
+        "searchTermEn": "Rocketbook reusable smart notebook",
+        "id": "B0DP3J346V",
+        "filename": "B0DP3J346V.mp4"
+      },
+      {
+        "nombre": "Gravity Blanket",
+        "searchTermEn": "Gravity weighted blanket",
+        "id": "B092LZLLGF",
+        "filename": "B092LZLLGF.mp4"
+      },
+      {
+        "nombre": "Lámpara Levitante Levitop",
+        "searchTermEn": "Levitop magnetic levitating lamp",
+        "id": "B09833QPYR",
+        "filename": "B09833QPYR.mp4"
+      },
+      {
+        "nombre": "Nebula Capsule Projector",
+        "searchTermEn": "Nebula Capsule Smart Mini Projector",
+        "id": "B0CHW11C8H",
+        "filename": "B0CHW11C8H.mp4"
+      },
+      {
+        "nombre": "Tile Pro Tracker",
+        "searchTermEn": "Tile Pro Bluetooth tracker",
+        "id": "B0D636MDW7",
+        "filename": "B0D636MDW7.mp4"
+      },
+      {
+        "nombre": "Nomad Base Station",
+        "searchTermEn": "Nomad Base Station wireless charger",
+        "id": "B0DDQ71B9P",
+        "filename": "B0DDQ71B9P.mp4"
+      },
+      {
+        "nombre": "Oura Ring",
+        "searchTermEn": "Oura Ring smart health tracker",
+        "id": "B0D9WVSZ56",
+        "filename": "B0D9WVSZ56.mp4"
+      },
+      {
+        "nombre": "Wynd Halo",
+        "searchTermEn": "Wynd Halo air purifier",
+        "id": "B083Z2FDRG",
+        "filename": "B083Z2FDRG.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 10 Gadgets Futuristas que Puedes Comprar en Amazon\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\nProyecta en cualquier lugar con calidad asombrosa. Monitorea la calidad del aire al instante. Purifica grandes espacios en minutos. Localiza objetos perdidos en un clic. Protege tus tarjetas con un diseño elegante.\n\n[0:10-0:15] INTRODUCTION\nSuscríbete ahora y encuentra los links de compra en el primer comentario.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] ATMOTUBE PRO\nComparando monitores de calidad de aire, el Atmotube Pro destaca por su precisión extrema y su capacidad para medir 9 parámetros clave. Mientras otros requieren menús complicados, este dispositivo ofrece una pantalla LED clara de 7 pulgadas que te permite ver toda la información de un vistazo. Ideal para quienes buscan seguridad y comodidad ambiental en tiempo real.\nSu precio actual en Amazon ronda los... 249 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Atmotube Pro]\n\n[0:25] EKSTER PARLIAMENT WALLET\n-10 tarjetas- guardadas sin esfuerzo, este innovador billetero ofrece un diseño ultrafino con protección RFID integrada. Fabricado en cuero de alta calidad y aluminio durable, redefine cómo almacenamos nuestras tarjetas y efectivo.\nSu precio actual en Amazon ronda los... 89 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Ekster Parliament Wallet]\n\n[0:25] ROCKETBOOK SMART NOTEBOOK\n-Escribe-, digitaliza y reutiliza infinitamente con el Rocketbook Smart Notebook que transforma tu experiencia de escritura tradicional al nivel digital sin perder la sensación del papel.\n... Su precio actual en Amazon es de... 35 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Rocketbook Smart Notebook]\n\n[0:25] GRAVITY BLANKET\n¿Problemas para dormir profundamente? La Gravity Blanket, con su diseño de compartimentos de 5x5 pulgadas y costuras de alta densidad, garantiza que los microcristales se mantengan en su lugar. Es lavable a máquina y no se descuelga del colchón.\nSu precio actual en Amazon ronda los 149 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Gravity Blanket]\n\n[0:25] LÁMPARA MAGNÉTICA LEVITACIÓN\nLa lámpara magnética de levitación combina luz y tecnología flotante, creando un efecto visual único al rotar 360 grados. Funciona con inducción electromagnética sin cables, ideal como lámpara de escritorio.\nSu precio actual en Amazon ronda los 45 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Lámpara magnética levitación]\n\n[0:25] NEBULA CAPSULE PROYECTOR\nCon el Nebula Capsule Proyector, lleva la experiencia cinematográfica a cualquier lugar. Ofrece una calidad de imagen Full HD a 200 lúmenes y pantalla máxima de 120 pulgadas. Disfruta hasta dos horas y media de películas con una sola carga.\nSu precio actual en Amazon ronda los 349 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Nebula Capsule Proyector]\n\n[0:25] TILE PRO\nEl Tile Pro es el rastreador más potente para localizar objetos perdidos o robados. Incluye funciones como búsqueda del teléfono incluso en silencio y activación discreta del SOS para mayor seguridad.\nSu precio actual en Amazon ronda los 35 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Tile Pro]\n\n[0:25] NOMAD BASE STATION\nLa Nomad Base Station ofrece carga inalámbrica ultrarrápida de hasta 15W para múltiples dispositivos, incluyendo carga certificada para Apple Watch Serie 10. Compacta y ajustable para optimizar espacios.\nSu precio actual en Amazon ronda los 100 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Nomad Base Station]\n\n[0:25] OURA RING\nEl Oura Ring es un avanzado dispositivo que rastrea más de 50 métricas de salud, incluyendo sueño y actividad. Con su batería de hasta 8 días y tecnología Smart Sensing, ofrece datos precisos día y noche sin que notes que está ahí.\nSu precio actual en Amazon ronda los... 299 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Oura Ring]\n\n[0:25] WYND HALO\nEl purificador Wynd Halo es capaz de limpiar hasta 1200 pies cuadrados en solo 30 minutos. Su potente sistema filtra humo, polvo y más, garantizando aire limpio y fresco rápidamente.\nSu precio actual en Amazon ronda los... 155 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Wynd Halo]\n\n[10 seconds] CONCLUSION\nundefined\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 4:40\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, futuristas, puedes, comprar, amazon\n"
+}

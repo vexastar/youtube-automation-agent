@@ -1,0 +1,134 @@
+{
+  "title": "Top 1 Purificador de Aire Innovador que Necesitas en Casa",
+  "hook": {
+    "type": "statement",
+    "text": "",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "25s-35s"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Molekule Air Mini+",
+        "productId": "B0BV8YGMYS",
+        "productName": "Molekule Air Mini+",
+        "filename": "B0BV8YGMYS.mp4",
+        "asin": "B0BV8YGMYS",
+        "videoDuration": 19.3523,
+        "estimatedAudioSeconds": 30,
+        "framework": "problema_solucion",
+        "narracionSegments": null,
+        "content": [
+          "¿Cansado de respirar aire contaminado? El Molekule Air Mini+ está aquí. Su filtro Nanocatalítico acelera reacciones químicas con nanopartículas. Why? Para purificar más rápido el espacio donde vives. Enchufa este dispositivo portátil; activa la luz UV-A para eliminar el noventa y nueve punto noventa y siete por ciento de partículas. Siente el cambio. Disfruta de aire fresco. Cambio inmediato; aire puro en minutos.",
+          "Su precio actual ronda los cien dólares. Link en comentarios."
+        ],
+        "visuals": [
+          "Product image: Molekule Air Mini+"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0BV8YGMYS.mp4",
+        "precio": "$100",
+        "productPhoto": "https://m.media-amazon.com/images/I/81-LcfdDCeL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "Filtro Nanocatalítico: El Filtro de Aire Molekule Mini/Mini+ está hecho de nanopartículas que aceleran las reacciones químicas; en términos simples, la velocidad de reacción se incrementa, así que puedes disfrutar de aire purificado más rápido para respirar.",
+          "Reemplazo de Filtro de Alta Eficiencia: Este filtro de aire atrapa y destruye el 99.97% de las partículas en su hogar, prometiendo una alta tasa de eliminación de contaminantes.",
+          "Larga Vida Útil: Este filtro HEPA dura hasta seis meses antes de necesitar un reemplazo; durante este tiempo, puedes esperar una purificación de aire de múltiples capas en tu hogar.",
+          "Activado por luz: A través de nuestro filtro nanocatalítico, utilizamos una luz UV-A para eliminar contaminantes a nivel molecular.",
+          "Construido para el Futuro: En Molekule, estamos comprometidos a revolucionar el aire limpio para un futuro mejor a través de la innovación, la colaboración y la investigación científica."
+        ]
+      }
+    ],
+    "totalDuration": 40
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      ""
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:10",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "purificador",
+    "aire",
+    "innovador",
+    "necesitas",
+    "casa"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 1 Purificador de Aire Innovador que Necesitas en Casa",
+      "angle": "Top 1 Purificador de Aire Innovador que Necesitas en Casa",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 1,
+      "introScript": "¿Sabías que el aire en interiores puede estar más contaminado que el aire exterior? Imagina un dispositivo compacto que no solo elimina partículas como polvo y polen, sino que también combate bacterias y virus en el aire. Este purificador de aire utiliza tecnología avanzada de filtración para garantizar un ambiente más limpio y saludable. Quédate para descubrir cómo un solo aparato puede transformar la calidad del aire de tu hogar.",
+      "keywords": [
+        "purificador",
+        "aire",
+        "innovador",
+        "necesitas",
+        "casa"
+      ],
+      "estimatedViews": 3988,
+      "bestPublishTime": "2026-07-17T20:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Molekule Air Mini+",
+          "searchTermEn": "Molekule Air Mini plus purifier",
+          "id": "B0BV8YGMYS",
+          "filename": "B0BV8YGMYS.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-07-11T17:49:09.285Z",
+      "_requestedCount": 1,
+      "_adaptedCount": 1,
+      "introProductsOrder": [
+        {
+          "nombre": "Molekule Air Mini+",
+          "id": "B0BV8YGMYS",
+          "filename": "B0BV8YGMYS.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0BV8YGMYS.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1783792272416_khi6yn"
+    },
+    "generatedAt": "2026-07-11T17:51:20.115Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Molekule Air Mini+",
+        "searchTermEn": "Molekule Air Mini plus purifier",
+        "id": "B0BV8YGMYS",
+        "filename": "B0BV8YGMYS.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 1 Purificador de Aire Innovador que Necesitas en Casa\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\n\n\n[25s-35s] INTRODUCTION\n\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] MOLEKULE AIR MINI+\n¿Cansado de respirar aire contaminado? El Molekule Air Mini+ está aquí. Su filtro Nanocatalítico acelera reacciones químicas con nanopartículas. Why? Para purificar más rápido el espacio donde vives. Enchufa este dispositivo portátil; activa la luz UV-A para eliminar el noventa y nueve punto noventa y siete por ciento de partículas. Siente el cambio. Disfruta de aire fresco. Cambio inmediato; aire puro en minutos.\nSu precio actual ronda los cien dólares. Link en comentarios.\n\n[VISUALS: Product image: Molekule Air Mini+]\n\n[10 seconds] CONCLUSION\n\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:10\nTONE: engaging\nPACING: quick\nKEYWORDS: purificador, aire, innovador, necesitas, casa\n"
+}

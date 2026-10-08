@@ -1,0 +1,132 @@
+{
+  "title": "Top 1 Gadget para Amantes de Make.com",
+  "hook": {
+    "type": "statement",
+    "text": "",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "25s-35s"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "SwitchBot Bot",
+        "productId": "B07B4D9KVX",
+        "productName": "SwitchBot Bot",
+        "filename": "B07B4D9KVX.mp4",
+        "asin": "B07B4D9KVX",
+        "videoDuration": 251.273267,
+        "estimatedAudioSeconds": 34,
+        "framework": "experiencia_sensorial",
+        "narracionSegments": null,
+        "content": [
+          "¿Tus interruptores siguen siendo un dolor de cabeza...? SwitchBot Bot te lo pone fácil; transforma tus interruptores en inteligentes; sin re cablear. Usa tu teléfono y controla luces o ventiladores sin moverte. Activa temporizadores y rutinas para café matutino. Pega el dispositivo con su adhesivo fuerte; en superficies limpias... Y deja veinticuatro horas para asegurar. Usa la app SwitchBot para programación continua... Y conecta un Hub si necesitas control remoto o por voz.",
+          "Su precio actual ronda los veintiséis dólares. Link en comentarios."
+        ],
+        "visuals": [
+          "Product image: SwitchBot Bot"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07B4D9KVX.mp4",
+        "precio": "$26",
+        "productPhoto": "https://m.media-amazon.com/images/I/71tcRe2imaL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "Haz que cualquier interruptor compatible sea \"inteligente\" sin necesidad de re cablear — Controla interruptores de palanca y botones de un solo sentido desde tu teléfono para las luces del dormitorio, ventiladores o electrodomésticos a los que no quieres levantarte a alcanzar. Ten en cuenta: No es compatible con paneles táctiles capacitivos, interruptores de palanca/mini interruptores, o botones rígidos/antiguos. Asegúrate de que el tipo de botón esté dentro del rango soportado para un rendimiento óptimo.",
+          "Control por app + temporizadores integrados que siguen funcionando — Establece horarios de encendido/apagado para rutinas de café por la mañana o apagados nocturnos — los horarios se ejecutan en la app de SwitchBot sin necesidad de tener tu teléfono cerca o un hub una vez configurados.",
+          "Control Bluetooth incluido; el Hub añade control por voz + control remoto — Usa Bluetooth para control local, o añade un SwitchBot Hub (se vende por separado) para control remoto + control por voz (Alexa/Google Assistant/Siri) e IFTTT — Se requiere Wi-Fi de 2.4 GHz para las funciones del hub.",
+          "Rápida instalación sin herramientas con un agarre más fuerte cuando te preparas correctamente: pégalo en segundos con el adhesivo incluido. Para obtener los mejores resultados, monta en superficies limpias, secas y lisas, y permite 24 horas para uniones completas antes de un uso intensivo. Garantía de 1 año con reemplazo gratuito por problemas de calidad: Este producto viene con una garantía de 1 año a partir de la fecha de compra. Durante el período de garantía, si ocurren problemas de calidad del producto que causen fallos o un funcionamiento inadecuado, puedes contactar al soporte al cliente de SwitchBot para solicitar un reemplazo gratuito. Disfruta de la tranquilidad con un soporte postventa confiable.",
+          "Elige el modo adecuado para el trabajo: utiliza Press Mode para presionar botones; utiliza Switch Mode para empujar/jalar interruptores de palanca (Switch Mode requiere un complemento) — además de escenas y automatización del ecosistema a través de la aplicación y API de SwitchBot."
+        ]
+      }
+    ],
+    "totalDuration": 40
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      ""
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:10",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadget",
+    "para",
+    "amantes",
+    "makecom"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 1 Gadget para Amantes de Make.com",
+      "angle": "Top 1 Gadget para Amantes de Make.com",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 1,
+      "introScript": "¿Alguna vez te has preguntado cómo podrías agregar un toque de magia a tus proyectos de domótica? Imagina un dispositivo que te permita automatizar tus luces y aparatos de una forma tan simple como deslizar tus dedos. Hoy descubrirás un gadget revolucionario que no solo optimiza tu espacio, sino que lo convierte en un entorno verdaderamente inteligente. Estas herramientas innovadoras transforman ideas en realidad y mantienen tu hogar al ritmo de los tiempos modernos con solo un clic.",
+      "keywords": [
+        "gadget",
+        "para",
+        "amantes",
+        "makecom"
+      ],
+      "estimatedViews": 4615,
+      "bestPublishTime": "2026-07-21T19:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "SwitchBot Bot",
+          "searchTermEn": "SwitchBot Smart Switch",
+          "id": "B07B4D9KVX",
+          "filename": "B07B4D9KVX.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-07-16T18:31:59.395Z",
+      "_requestedCount": 1,
+      "_adaptedCount": 1,
+      "introProductsOrder": [
+        {
+          "nombre": "SwitchBot Bot",
+          "id": "B07B4D9KVX",
+          "filename": "B07B4D9KVX.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07B4D9KVX.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1784226820691_hzm0u0"
+    },
+    "generatedAt": "2026-07-16T18:33:52.674Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "SwitchBot Bot",
+        "searchTermEn": "SwitchBot Smart Switch",
+        "id": "B07B4D9KVX",
+        "filename": "B07B4D9KVX.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 1 Gadget para Amantes de Make.com\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\n\n\n[25s-35s] INTRODUCTION\n\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] SWITCHBOT BOT\n¿Tus interruptores siguen siendo un dolor de cabeza...? SwitchBot Bot te lo pone fácil; transforma tus interruptores en inteligentes; sin re cablear. Usa tu teléfono y controla luces o ventiladores sin moverte. Activa temporizadores y rutinas para café matutino. Pega el dispositivo con su adhesivo fuerte; en superficies limpias... Y deja veinticuatro horas para asegurar. Usa la app SwitchBot para programación continua... Y conecta un Hub si necesitas control remoto o por voz.\nSu precio actual ronda los veintiséis dólares. Link en comentarios.\n\n[VISUALS: Product image: SwitchBot Bot]\n\n[10 seconds] CONCLUSION\n\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:10\nTONE: engaging\nPACING: quick\nKEYWORDS: gadget, para, amantes, makecom\n"
+}

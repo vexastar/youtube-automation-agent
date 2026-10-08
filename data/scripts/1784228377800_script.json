@@ -1,0 +1,134 @@
+{
+  "title": "Top 1 Gadget curioso de Amazon que parece del futuro",
+  "hook": {
+    "type": "statement",
+    "text": "",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "25s-35s"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Motiv Smart Ring",
+        "productId": "B0H25WKX77",
+        "productName": "Motiv Smart Ring",
+        "filename": "B0H25WKX77.mp4",
+        "asin": "B0H25WKX77",
+        "videoDuration": 117.552033,
+        "estimatedAudioSeconds": 30,
+        "framework": "problema_solucion",
+        "narracionSegments": null,
+        "content": [
+          "¿Tu anillo inteligente pierde carga rápidamente? Con el Motiv Smart Ring disfrutas de dos a tres días completos de batería. Su monitoreo de sueño y fitness en tiempo real es increíblemente preciso. Mide automáticamente tu frecuencia cardíaca; optimiza descanso sin esfuerzo. ¡Sumerge hasta ochenta metros bajo agua! En casa o en la piscina... No te preocupes por el desgaste. Conecta y olvida, experimenta salud avanzada.",
+          "Su precio actual ronda los sesenta dólares. Link en comentarios."
+        ],
+        "visuals": [
+          "Product image: Motiv Smart Ring"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0H25WKX77.mp4",
+        "precio": "$60",
+        "productPhoto": "https://m.media-amazon.com/images/I/61025zFJnBL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "【Verifica la Talla Antes de Comprar】 Antes de comprar el BIEMHA Smart Ring, te sugerimos encarecidamente que consultes la tabla de tallas y midas cuidadosamente la circunferencia de tu dedo. Esto asegurará que obtengas la experiencia de uso más cómoda y evitarás fácilmente cualquier devolución o cambio innecesario.",
+          "【Monitoreo de Sueño y Fitness Preciso en Tiempo Real】 El anillo inteligente BIEMHA rastrea la calidad de tu sueño y las actividades diarias en tiempo real. Con sensores avanzados, proporciona datos precisos sobre tu ciclo de sueño, ayudándote a optimizar el descanso y la recuperación. Ya sea que estés rastreando pasos, calorías o el rendimiento del ejercicio, este anillo inteligente puede ofrecerte las ideas más precisas para apoyar tus objetivos de fitness y mejorar tu salud en general. Es una buena opción para familiares y amigos.",
+          "【Monitoreo de Salud】El anillo prxxhri cuenta con avanzados sensores 4.0 que miden automáticamente tu frecuencia cardíaca cada 30 minutos cuando se lleva puesto. Proporciona un seguimiento continuo de la salud y una gestión integral del bienestar durante todo el día.",
+          "【2-3 Días de Duración de Batería】 Con una duración de batería de 2-3 días, el anillo inteligente prxxhri garantiza un monitoreo continuo de la salud sin necesidad de cargas frecuentes. Cuando se utiliza con el estuche de carga inteligente, el tiempo de uso puede incluso superar los 5 días. Ya sea que estés rastreando patrones de sueño o actividades físicas, puedes contar con un rendimiento duradero sin interrupciones constantes.",
+          "【80 metros de impermeabilidad, adecuado para varios escenarios】 El BIEMHA Smart Ring tiene un excelente rendimiento impermeable, con una profundidad de impermeabilidad de hasta 80 metros. Ya sea para uso diario, una intensa sesión de entrenamiento o un agradable tiempo de natación, puede manejarlo con facilidad. Además, incluso si tienes piel sensible, aún puedes disfrutar de una experiencia de uso extremadamente cómoda al llevar este anillo."
+        ]
+      }
+    ],
+    "totalDuration": 40
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      ""
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:10",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadget",
+    "curioso",
+    "amazon",
+    "parece",
+    "futuro"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 1 Gadget curioso de Amazon que parece del futuro",
+      "angle": "Top 1 Gadget curioso de Amazon que parece del futuro",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 1,
+      "introScript": "Imagina un gadget que revolucionará tu forma de controlar tus dispositivos: un anillo inteligente que permite gestionar aplicaciones como si tu mano fuera un control remoto del futuro. Hoy vamos a descubrir un producto que parece salido de una película de ciencia ficción, pero que puedes comprar ahora mismo. Quédate para conocer sus funciones más sorprendentes y cómo puede transformar tu día a día. No creerás lo que este pequeño dispositivo puede hacer.",
+      "keywords": [
+        "gadget",
+        "curioso",
+        "amazon",
+        "parece",
+        "futuro"
+      ],
+      "estimatedViews": 6254,
+      "bestPublishTime": "2026-07-19T15:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Motiv Smart Ring",
+          "searchTermEn": "Motiv Smart Ring fitness",
+          "id": "B0H25WKX77",
+          "filename": "B0H25WKX77.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-07-16T18:55:48.888Z",
+      "_requestedCount": 1,
+      "_adaptedCount": 1,
+      "introProductsOrder": [
+        {
+          "nombre": "Motiv Smart Ring",
+          "id": "B0H25WKX77",
+          "filename": "B0H25WKX77.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0H25WKX77.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1784228344387_owo1eq"
+    },
+    "generatedAt": "2026-07-16T18:59:13.065Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Motiv Smart Ring",
+        "searchTermEn": "Motiv Smart Ring fitness",
+        "id": "B0H25WKX77",
+        "filename": "B0H25WKX77.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 1 Gadget curioso de Amazon que parece del futuro\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\n\n\n[25s-35s] INTRODUCTION\n\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] MOTIV SMART RING\n¿Tu anillo inteligente pierde carga rápidamente? Con el Motiv Smart Ring disfrutas de dos a tres días completos de batería. Su monitoreo de sueño y fitness en tiempo real es increíblemente preciso. Mide automáticamente tu frecuencia cardíaca; optimiza descanso sin esfuerzo. ¡Sumerge hasta ochenta metros bajo agua! En casa o en la piscina... No te preocupes por el desgaste. Conecta y olvida, experimenta salud avanzada.\nSu precio actual ronda los sesenta dólares. Link en comentarios.\n\n[VISUALS: Product image: Motiv Smart Ring]\n\n[10 seconds] CONCLUSION\n\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:10\nTONE: engaging\nPACING: quick\nKEYWORDS: gadget, curioso, amazon, parece, futuro\n"
+}

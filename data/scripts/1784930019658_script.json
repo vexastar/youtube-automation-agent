@@ -1,0 +1,134 @@
+{
+  "title": "Top 1 Gadget para Optimizar tu Espacio de Trabajo",
+  "hook": {
+    "type": "statement",
+    "text": "",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "25s-35s"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Grovemade Desk Shelf",
+        "productId": "B08P1V75GB",
+        "productName": "Grovemade Desk Shelf",
+        "filename": "B08P1V75GB.mp4",
+        "asin": "B08P1V75GB",
+        "videoDuration": 24.446667,
+        "estimatedAudioSeconds": 31,
+        "framework": "enfoque_caracteristica",
+        "narracionSegments": null,
+        "content": [
+          "¿Problemas con el desorden en tu escritorio? El Grovemade Desk Shelf posee una superficie ancha de cuarenta y tres pulgadas. Soporta hasta cincuenta libras; ideal para monitores duales o una laptop. Fabricado con madera certificada. Da un toque elegante y ecológico a tu espacio. Coloca tu monitor sobre él. Organiza tus accesorios debajo. Disfruta de un escritorio limpio y moderno; perfecto para trabajar diariamente desde casa.",
+          "Su precio actual ronda los... sesenta dólares. Link en comentarios."
+        ],
+        "visuals": [
+          "Product image: Grovemade Desk Shelf"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B08P1V75GB.mp4",
+        "precio": "$60",
+        "productPhoto": "https://m.media-amazon.com/images/I/81NBBmv-r1L.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "Madera, Roble, Corcho",
+          "TIPS: Nuestro soporte para monitor soporta hasta 50 lbs para un uso robusto y confiable, y está fabricado con madera certificada por el FSC, lo que garantiza una resistencia en la que puedes confiar y una opción más sostenible.",
+          "DISEÑADO PARA CONFIGURACIONES DE ESCRITORIO DIARIAS: Este soporte para monitor está diseñado para el uso típico de oficina en casa, incluyendo configuraciones estándar de monitor o laptop. Funciona mejor para el trabajo diario, el estudio y entornos de estación de trabajo ligeros.",
+          "SUPERFICIE ANCHA DE 43 PULGADAS PARA UN USO FLEXIBLE: La superficie extra larga soporta monitores duales o una combinación de monitor y laptop, brindándote más espacio para organizar tu área de trabajo sin añadir volumen.",
+          "\"\"\"ACABADO DE MADERA CON DISEÑO PRÁCTICO: Construido con un acabado de madera para un aspecto limpio y moderno. La estructura está diseñada para equilibrar la apariencia y la usabilidad en configuraciones de escritorio diarias.\"\"\""
+        ]
+      }
+    ],
+    "totalDuration": 40
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      ""
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:10",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadget",
+    "para",
+    "optimizar",
+    "espacio",
+    "trabajo"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 1 Gadget para Optimizar tu Espacio de Trabajo",
+      "angle": "Top 1 Gadget para Optimizar tu Espacio de Trabajo",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 1,
+      "introScript": "Imagina un dispositivo que no solo organiza tu escritorio, sino que también carga de manera inalámbrica tus gadgets esenciales. Añade a eso la capacidad de iluminar tu espacio de trabajo con luces LED ajustables, ¡todo en uno! Este gadget podría ser el cambio definitivo para tu productividad y te sorprenderá con toda su funcionalidad. Exactamente lo que necesitas para mantener tu espacio limpio, ordenado y siempre listo para trabajar.",
+      "keywords": [
+        "gadget",
+        "para",
+        "optimizar",
+        "espacio",
+        "trabajo"
+      ],
+      "estimatedViews": 5052,
+      "bestPublishTime": "2026-07-30T19:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Grovemade Desk Shelf",
+          "searchTermEn": "Grovemade desk shelf organizer",
+          "id": "B08P1V75GB",
+          "filename": "B08P1V75GB.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-07-24T21:51:44.616Z",
+      "_requestedCount": 1,
+      "_adaptedCount": 1,
+      "introProductsOrder": [
+        {
+          "nombre": "Grovemade Desk Shelf",
+          "id": "B08P1V75GB",
+          "filename": "B08P1V75GB.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B08P1V75GB.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1784929993909_2snd1w"
+    },
+    "generatedAt": "2026-07-24T21:53:25.758Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Grovemade Desk Shelf",
+        "searchTermEn": "Grovemade desk shelf organizer",
+        "id": "B08P1V75GB",
+        "filename": "B08P1V75GB.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 1 Gadget para Optimizar tu Espacio de Trabajo\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\n\n\n[25s-35s] INTRODUCTION\n\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] GROVEMADE DESK SHELF\n¿Problemas con el desorden en tu escritorio? El Grovemade Desk Shelf posee una superficie ancha de cuarenta y tres pulgadas. Soporta hasta cincuenta libras; ideal para monitores duales o una laptop. Fabricado con madera certificada. Da un toque elegante y ecológico a tu espacio. Coloca tu monitor sobre él. Organiza tus accesorios debajo. Disfruta de un escritorio limpio y moderno; perfecto para trabajar diariamente desde casa.\nSu precio actual ronda los... sesenta dólares. Link en comentarios.\n\n[VISUALS: Product image: Grovemade Desk Shelf]\n\n[10 seconds] CONCLUSION\n\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:10\nTONE: engaging\nPACING: quick\nKEYWORDS: gadget, para, optimizar, espacio, trabajo\n"
+}

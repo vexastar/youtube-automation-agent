@@ -1,0 +1,138 @@
+{
+  "title": "Top 2 Gadgets Futuristas que No Creerás Encontrar en Amazon",
+  "hook": {
+    "type": "statement",
+    "text": "Paneles luminosos que transforman tu pared. Botón inteligente que controla todo en un solo clic.",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "Suscríbete, los links están en el primer comentario. Empecemos.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0:10-0:15"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Nanoleaf Shapes Hexagons",
+        "productId": "B08N62R79Z",
+        "productName": "Nanoleaf Shapes Hexagons",
+        "filename": "B08N62R79Z.mp4",
+        "content": [
+          "Decorar tu espacio siempre es un desafío creativo. Los Nanoleaf Shapes Hexagons convierten tus paredes en un lienzo interactivo lleno de color. Puedes personalizar cada panel para que se sincronice con tu música o cambie de color automáticamente.",
+          "Su precio actual en Amazon ronda los... 150 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Nanoleaf Shapes Hexagons"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B08N62R79Z.mp4",
+        "precio": "$150"
+      },
+      {
+        "type": "content",
+        "title": "Flic 2 Smart Button",
+        "productId": "B084H3NNZ9",
+        "productName": "Flic 2 Smart Button",
+        "filename": "B084H3NNZ9.mp4",
+        "content": [
+          "Tener que abrir varias aplicaciones para cada tarea es un dolor de cabeza. Con el Flic 2 Smart Button, controlas todo tu hogar inteligente con un solo clic. Compatible con más de mil dispositivos, desde luces hasta altavoces.",
+          "Su precio actual en Amazon ronda los... 71 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Flic 2 Smart Button"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B084H3NNZ9.mp4",
+        "precio": "$71"
+      }
+    ],
+    "totalDuration": 50
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "Dale like si te gustó y recuerda que los links están en el primer comentario."
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:20",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "futuristas",
+    "creers",
+    "encontrar",
+    "amazon"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 2 Gadgets Futuristas que No Creerás Encontrar en Amazon",
+      "angle": "Top 3 Gadgets Futuristas que No Creerás Encontrar en Amazon",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 2,
+      "introScript": "¿Un gadget que controla tus luces con un simple gesto? ¿Una taza que mantiene tu café a la temperatura perfecta? En este video descubrirás tres innovaciones tecnológicas que te van a dejar boquiabierto.",
+      "keywords": [
+        "gadgets",
+        "futuristas",
+        "creers",
+        "encontrar",
+        "amazon"
+      ],
+      "estimatedViews": 5633,
+      "bestPublishTime": "2026-04-25T15:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Nanoleaf Shapes Hexagons",
+          "searchTermEn": "Nanoleaf Shapes Hexagons",
+          "id": "B08N62R79Z",
+          "filename": "B08N62R79Z.mp4"
+        },
+        {
+          "nombre": "Flic 2 Smart Button",
+          "searchTermEn": "Flic 2 Smart Button",
+          "id": "B084H3NNZ9",
+          "filename": "B084H3NNZ9.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-04-20T21:14:21.386Z",
+      "_requestedCount": 3,
+      "_adaptedCount": 2,
+      "_adaptationNote": "ATENCIÓN: El usuario pidió 3 productos pero solo hay 2 clips de video disponibles. El guion, título y narrativa deben referirse EXCLUSIVAMENTE a 2 productos.",
+      "_scriptNonce": "nonce_1776719781828_i4vdvu"
+    },
+    "generatedAt": "2026-04-20T21:16:25.915Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Nanoleaf Shapes Hexagons",
+        "searchTermEn": "Nanoleaf Shapes Hexagons",
+        "id": "B08N62R79Z",
+        "filename": "B08N62R79Z.mp4"
+      },
+      {
+        "nombre": "Flic 2 Smart Button",
+        "searchTermEn": "Flic 2 Smart Button",
+        "id": "B084H3NNZ9",
+        "filename": "B084H3NNZ9.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 2 Gadgets Futuristas que No Creerás Encontrar en Amazon\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\nPaneles luminosos que transforman tu pared. Botón inteligente que controla todo en un solo clic.\n\n[0:10-0:15] INTRODUCTION\nSuscríbete, los links están en el primer comentario. Empecemos.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] NANOLEAF SHAPES HEXAGONS\nDecorar tu espacio siempre es un desafío creativo. Los Nanoleaf Shapes Hexagons convierten tus paredes en un lienzo interactivo lleno de color. Puedes personalizar cada panel para que se sincronice con tu música o cambie de color automáticamente.\nSu precio actual en Amazon ronda los... 150 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Nanoleaf Shapes Hexagons]\n\n[0:25] FLIC 2 SMART BUTTON\nTener que abrir varias aplicaciones para cada tarea es un dolor de cabeza. Con el Flic 2 Smart Button, controlas todo tu hogar inteligente con un solo clic. Compatible con más de mil dispositivos, desde luces hasta altavoces.\nSu precio actual en Amazon ronda los... 71 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Flic 2 Smart Button]\n\n[10 seconds] CONCLUSION\nDale like si te gustó y recuerda que los links están en el primer comentario.\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:20\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, futuristas, creers, encontrar, amazon\n"
+}

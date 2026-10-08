@@ -1,0 +1,134 @@
+{
+  "title": "Top 1 Gadget Revolucionario para Tu Portátil",
+  "hook": {
+    "type": "statement",
+    "text": "¿Imagina una pantalla secundaria plegable que transforma tu espacio de trabajo en un abrir y cerrar de ojos? ¿O un dispositivo de comida portátil que mantiene tus bocadillos a la temperatura perfecta? Descubre estos y más en nuestro top de hoy. Encuentra los detalles en el primer comentario. Suscríbete, empecemos.",
+    "duration": "0:00-0:15"
+  },
+  "introduction": {
+    "greeting": "",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0s"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Monitor Portátil SideTrak Swivel de 14\"",
+        "productId": "B0BHJJWVTH",
+        "productName": "Monitor Portátil SideTrak Swivel de 14\"",
+        "filename": "B0BHJJWVTH.mp4",
+        "asin": "B0BHJJWVTH",
+        "videoDuration": 42.197733,
+        "estimatedAudioSeconds": 24,
+        "framework": "experiencia_sensorial",
+        "narracionSegments": null,
+        "content": [
+          "Pantalla dual portátil. Ajuste ilimitado. Diseño refinado. Monitor portátil SideTrak. Bisagra giratoria patentada de trescientos sesenta grados ofrece comodidad visual inigualable. Adhiérelo magnéticamente y comparte tu pantalla al instante. Maximiza tu productividad en cualquier lugar con facilidad.",
+          "Hazte con el tuyo por ciento cincuenta dólares en Amazon y mejora tu oficina móvil ahora mismo, enlace en los comentarios."
+        ],
+        "visuals": [
+          "Product image: Monitor Portátil SideTrak Swivel de 14\""
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0BHJJWVTH.mp4",
+        "precio": "$150",
+        "productPhoto": "https://m.media-amazon.com/images/I/71ElWcmm8bL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "Bisagra giratoria patentada de 360° para una fácil visualización - La bisagra giratoria patentada de 360° te permite ajustar el monitor portátil al ángulo que prefieras para una visualización cómoda. Gíralo 270° para compartir la pantalla fácilmente y colaborar durante las reuniones, haciendo que tu configuración de doble monitor sea versátil y productiva.",
+          "Laptop de Doble Pantalla con Diseño Estético - Transforme su laptop en una configuración de doble monitor con este extensor de pantalla para laptop. Su diseño elegante en gris oscuro garantiza una apariencia cohesiva con cualquier laptop, añadiendo tanto funcionalidad como estilo a su espacio de trabajo.",
+          "Dispositivo-Seguro de Adherencia Magnética - El extensor de pantalla portátil se adhiere de forma segura a tu laptop con un imán seguro para dispositivos, eliminando la necesidad de espacio adicional en el escritorio y simplificando los viajes. La pequeña placa de montaje asegura un diseño elegante y liviano, manteniendo la estética delgada de tu laptop sin agregar volumen ni accesorios engorrosos.",
+          "Productividad portátil en movimiento - Ligero y compacto, este monitor de viaje para laptop es perfecto para aumentar la productividad dondequiera que vayas. Su diseño plegable lo hace fácil de meter en tu bolsa y llevar tu configuración de pantalla dual a cualquier lugar.",
+          "Compatibilidad Amplia - Alimentado por USB-C o Mini HDMI, este monitor portátil para laptop es compatible con Mac, PC y Chrome, lo que facilita la conexión a prácticamente cualquier laptop, asegurando una funcionalidad fluida en múltiples plataformas."
+        ],
+        "originalVideoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0BHJJWVTH.mp4"
+      }
+    ],
+    "totalDuration": 40
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "Gracias por llegar hasta aquí, el próximo top será aún más loco. Links en el primer comentario."
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "",
+    "like": "",
+    "comment": "",
+    "nextVideo": "",
+    "duration": "0 seconds"
+  },
+  "duration": "1:10",
+  "tone": "engaging",
+  "tone_variant": "conversacional y cercano, como si le contaras a un amigo algo increíble que descubriste",
+  "pacing": "quick",
+  "keywords": [
+    "gadget",
+    "revolucionario",
+    "para",
+    "porttil"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 1 Gadget Revolucionario para Tu Portátil",
+      "angle": "Top 1 Gadget Revolucionario para Tu Portátil",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 1,
+      "introScript": "¿Te imaginas transformar tu portátil en una estación de trabajo completa en un instante o darle carga infinita mientras te desplazas? Hoy te sorprenderemos con un gadget innovador que redefine cómo usas tu laptop. Desde convertir tu pantalla en un entorno táctil hasta un accesorio que se acopla magnéticamente, estamos muy emocionados por presentarte un dispositivo que cambiará tu experiencia portátil para siempre. Pero no te adelantamos más, quédate para descubrir este gadget que está revolucionando el mundo de los portátiles.",
+      "keywords": [
+        "gadget",
+        "revolucionario",
+        "para",
+        "porttil"
+      ],
+      "estimatedViews": 6134,
+      "bestPublishTime": "2026-09-29T19:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Monitor Portátil SideTrak Swivel de 14\"",
+          "searchTermEn": "SideTrak Swivel Portable Monitor",
+          "id": "B0BHJJWVTH",
+          "filename": "B0BHJJWVTH.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-09-28T19:29:40.708Z",
+      "_requestedCount": 1,
+      "_adaptedCount": 1,
+      "introProductsOrder": [
+        {
+          "nombre": "Monitor Portátil SideTrak Swivel de 14\"",
+          "id": "B0BHJJWVTH",
+          "filename": "B0BHJJWVTH.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0BHJJWVTH.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1790623846243_cbixjg"
+    },
+    "generatedAt": "2026-09-28T19:30:56.757Z",
+    "version": "4.0-dynamic-rotator",
+    "productos": [
+      {
+        "nombre": "Monitor Portátil SideTrak Swivel de 14\"",
+        "searchTermEn": "SideTrak Swivel Portable Monitor",
+        "id": "B0BHJJWVTH",
+        "filename": "B0BHJJWVTH.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 1 Gadget Revolucionario para Tu Portátil\n\n══════════════════════════════════════════════════\n\n[0:00-0:15] HOOK\n¿Imagina una pantalla secundaria plegable que transforma tu espacio de trabajo en un abrir y cerrar de ojos? ¿O un dispositivo de comida portátil que mantiene tus bocadillos a la temperatura perfecta? Descubre estos y más en nuestro top de hoy. Encuentra los detalles en el primer comentario. Suscríbete, empecemos.\n\n[0s] INTRODUCTION\n\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] MONITOR PORTÁTIL SIDETRAK SWIVEL DE 14\"\nPantalla dual portátil. Ajuste ilimitado. Diseño refinado. Monitor portátil SideTrak. Bisagra giratoria patentada de trescientos sesenta grados ofrece comodidad visual inigualable. Adhiérelo magnéticamente y comparte tu pantalla al instante. Maximiza tu productividad en cualquier lugar con facilidad.\nHazte con el tuyo por ciento cincuenta dólares en Amazon y mejora tu oficina móvil ahora mismo, enlace en los comentarios.\n\n[VISUALS: Product image: Monitor Portátil SideTrak Swivel de 14\"]\n\n[10 seconds] CONCLUSION\nGracias por llegar hasta aquí, el próximo top será aún más loco. Links en el primer comentario.\n\n\n\n[0 seconds] CALL TO ACTION\n\n\n\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:10\nTONE: engaging\nPACING: quick\nKEYWORDS: gadget, revolucionario, para, porttil\n"
+}

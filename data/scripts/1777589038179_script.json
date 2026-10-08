@@ -1,0 +1,649 @@
+{
+  "title": "15 Gadgets en Amazon que No Debes Perderte",
+  "hook": {
+    "type": "statement",
+    "text": "Este anillo mide tus signos vitales. Estas luces cambian de color al instante. Este dispositivo organiza tus llaves. Esta funda guarda tus gadgets de forma segura. Este enchufe hace tu hogar inteligente.",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "Suscríbete, los links están en el primer comentario. Empecemos.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0:10-0:15"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Ekster Parliament Wallet",
+        "productId": "prod_1",
+        "productName": "Ekster Parliament Wallet",
+        "filename": "B07PVMK5NJ.mp4",
+        "asin": "B07PVMK5NJ",
+        "clipDuration": 37.19,
+        "estimatedAudioSeconds": 33,
+        "framework": "problema_solucion",
+        "content": [
+          "¿Cansado de buscar tarjetas en tu vieja billetera? Ekster Parliament Wallet tiene un mecanismo rápido que despliega tus tarjetas en segundos. Además, cuenta con protección RFID para evitar robos electrónicos.",
+          "Su precio actual en Amazon ronda los... 89 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Ekster Parliament Wallet"
+        ],
+        "duration": 25,
+        "precio": "$89",
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07PVMK5NJ.mp4",
+        "productPhoto": null
+      },
+      {
+        "type": "content",
+        "title": "Rocketbook Smart Notebook",
+        "productId": "prod_2",
+        "productName": "Rocketbook Smart Notebook",
+        "filename": "B0DP3HRDC2.mp4",
+        "asin": "B0DP3HRDC2",
+        "clipDuration": 1013.31,
+        "estimatedAudioSeconds": 1026,
+        "framework": "enfoque_caracteristica",
+        "content": [
+          "El Rocketbook Smart Notebook es reutilizable y se conecta a la nube. Sus páginas especiales permiten borrar con un paño húmedo, y con su app, puedes guardar tus notas digitalmente. Este cuaderno combina lo analógico y digital, ideal para quienes aman escribir a mano pero desean almacenar todo en formato digital.",
+          "Su precio actual en Amazon ronda los... 35 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Rocketbook Smart Notebook"
+        ],
+        "duration": 25,
+        "precio": "$35",
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0DP3HRDC2.mp4",
+        "productPhoto": null
+      },
+      {
+        "type": "content",
+        "title": "Snapods Auriculares Magnéticos",
+        "productId": "prod_3",
+        "productName": "Snapods Auriculares Magnéticos",
+        "filename": "B0FZT9D21Y.mp4",
+        "asin": "B0FZT9D21Y",
+        "clipDuration": 54.89,
+        "estimatedAudioSeconds": 50,
+        "framework": "beneficio_oculto",
+        "content": [
+          "La magia de los Snapods Auriculares Magnéticos es su capacidad de adherirse a cualquier superficie metálica. Además de su buena calidad de sonido, puedes mantenerlos seguros y a la vista, evitando que se pierdan.",
+          "Su precio actual en Amazon ronda los... 80 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Snapods Auriculares Magnéticos"
+        ],
+        "duration": 25,
+        "precio": "$80",
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0FZT9D21Y.mp4",
+        "productPhoto": null
+      },
+      {
+        "type": "content",
+        "title": "Nebula Capsule Proyector",
+        "productId": "prod_4",
+        "productName": "Nebula Capsule Proyector",
+        "filename": "B0CHW11C8H.mp4",
+        "asin": "B0CHW11C8H",
+        "clipDuration": 58.99,
+        "estimatedAudioSeconds": 70,
+        "framework": "problema_solucion",
+        "content": [
+          "¿No encuentras dónde ver tus películas? Nebula Capsule Proyector convierte cualquier lugar en una sala de cine. Ofrece proyección de alta calidad en un tamaño portátil, perfecta para llevar en viajes.",
+          "Su precio actual en Amazon ronda los... 349 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Nebula Capsule Proyector"
+        ],
+        "duration": 25,
+        "precio": "$349",
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0CHW11C8H.mp4",
+        "productPhoto": null
+      },
+      {
+        "type": "content",
+        "title": "Tile Pro Rastreador Bluetooth",
+        "productId": "prod_5",
+        "productName": "Tile Pro Rastreador Bluetooth",
+        "filename": "B0D637HWC5.mp4",
+        "asin": "B0D637HWC5",
+        "clipDuration": 28.56,
+        "estimatedAudioSeconds": 38,
+        "framework": "enfoque_caracteristica",
+        "content": [
+          "Equipado con un alcance de 400 pies, el Tile Pro Rastreador Bluetooth localiza fácilmente tus objetos perdidos. Su durabilidad y precisión lo hacen indispensable para no perder nada.",
+          "Su precio actual en Amazon ronda los... 35 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Tile Pro Rastreador Bluetooth"
+        ],
+        "duration": 25,
+        "precio": "$35",
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0D637HWC5.mp4",
+        "productPhoto": null
+      },
+      {
+        "type": "content",
+        "title": "Oura Ring Monitor Salud",
+        "productId": "prod_6",
+        "productName": "Oura Ring Monitor Salud",
+        "filename": "B0D9WT1S2T.mp4",
+        "asin": "B0D9WT1S2T",
+        "clipDuration": 88.59,
+        "estimatedAudioSeconds": 105,
+        "framework": "beneficio_oculto",
+        "content": [
+          "Lo que pocos saben del Oura Ring Monitor Salud es su capacidad para analizar patrones de sueño y actividad diaria. Este anillo se convierte en tu aliado para mejorar hábitos de salud, ofreciendo datos precisos y detallados.",
+          "Su precio actual en Amazon ronda los... 299 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Oura Ring Monitor Salud"
+        ],
+        "duration": 25,
+        "precio": "$299",
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0D9WT1S2T.mp4",
+        "productPhoto": null
+      },
+      {
+        "type": "content",
+        "title": "Peak Design Tech Pouch",
+        "productId": "prod_7",
+        "productName": "Peak Design Tech Pouch",
+        "filename": "B0BBV76LS7.mp4",
+        "asin": "B0BBV76LS7",
+        "clipDuration": 34.26,
+        "estimatedAudioSeconds": 36,
+        "framework": "problema_solucion",
+        "content": [
+          "¿Cansado de cables enredados en tu mochila? Peak Design Tech Pouch organiza cables, accesorios y más con bolsillos inteligentes. Lleva tus gadgets de forma ordenada sin esfuerzo.",
+          "Su precio actual en Amazon ronda los... 60 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Peak Design Tech Pouch"
+        ],
+        "duration": 25,
+        "precio": "$60",
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0BBV76LS7.mp4",
+        "productPhoto": null
+      },
+      {
+        "type": "content",
+        "title": "Aqara Smart Home Hub M2",
+        "productId": "prod_8",
+        "productName": "Aqara Smart Home Hub M2",
+        "filename": "B0CWLHSKYC.mp4",
+        "asin": "B0CWLHSKYC",
+        "clipDuration": 71.27,
+        "estimatedAudioSeconds": 83,
+        "framework": "enfoque_caracteristica",
+        "content": [
+          "El Aqara Smart Home Hub M2 se destaca por su compatibilidad con múltiples dispositivos inteligentes. Soporta Zigbee, Wi-Fi, Bluetooth y más, centralizando el control total de tu hogar en un solo aparato.",
+          "Su precio actual en Amazon ronda los... 40 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Aqara Smart Home Hub M2"
+        ],
+        "duration": 25,
+        "precio": "$40",
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0CWLHSKYC.mp4",
+        "productPhoto": null
+      },
+      {
+        "type": "content",
+        "title": "Luminoodle LED Light Rope",
+        "productId": "prod_9",
+        "productName": "Luminoodle LED Light Rope",
+        "filename": "B01LG99NW4.mp4",
+        "asin": "B01LG99NW4",
+        "clipDuration": 73.36,
+        "estimatedAudioSeconds": 79,
+        "framework": "beneficio_oculto",
+        "content": [
+          "Sorprende con la Luminoodle LED Light Rope: no solo ilumina, sino que crea ambientes únicos. Úsala en exteriores o interiores para una atmósfera inolvidable.",
+          "Su precio actual en Amazon ronda los... 25 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Luminoodle LED Light Rope"
+        ],
+        "duration": 25,
+        "precio": "$25",
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B01LG99NW4.mp4",
+        "productPhoto": null
+      },
+      {
+        "type": "content",
+        "title": "Anker PowerCore 10000",
+        "productId": "prod_10",
+        "productName": "Anker PowerCore 10000",
+        "filename": "B0D5CLSMFB.mp4",
+        "asin": "B0D5CLSMFB",
+        "clipDuration": 69.6,
+        "estimatedAudioSeconds": 79,
+        "framework": "problema_solucion",
+        "content": [
+          "¿Tu teléfono siempre sin batería al final del día? Anker PowerCore 10000 carga tus dispositivos rápidamente con su tecnología avanzada. Es compacto y potente, ideal para emergencias.",
+          "Su precio actual en Amazon ronda los... 35 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Anker PowerCore 10000"
+        ],
+        "duration": 25,
+        "precio": "$35",
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0D5CLSMFB.mp4",
+        "productPhoto": null
+      },
+      {
+        "type": "content",
+        "title": "Meater Termómetro Inalámbrico",
+        "productId": "prod_11",
+        "productName": "Meater Termómetro Inalámbrico",
+        "filename": "B0D2LQGJ2V.mp4",
+        "asin": "B0D2LQGJ2V",
+        "clipDuration": 30.1,
+        "estimatedAudioSeconds": 42,
+        "framework": "enfoque_caracteristica",
+        "content": [
+          "El Meater Termómetro Inalámbrico ofrece monitoreo preciso de temperatura sin cables. Perfecto para los amantes de la cocina que buscan perfección en cada plato.",
+          "Su precio actual en Amazon ronda los... 70 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Meater Termómetro Inalámbrico"
+        ],
+        "duration": 25,
+        "precio": "$70",
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0D2LQGJ2V.mp4",
+        "productPhoto": null
+      },
+      {
+        "type": "content",
+        "title": "LIFX Smart Bulb Color",
+        "productId": "prod_12",
+        "productName": "LIFX Smart Bulb Color",
+        "filename": "B08FWH238Y.mp4",
+        "asin": "B08FWH238Y",
+        "clipDuration": 69.49,
+        "estimatedAudioSeconds": 82,
+        "framework": "beneficio_oculto",
+        "content": [
+          "Lo que nadie te dice de LIFX Smart Bulb Color es que no necesitas un hub para funcionar. Controla miles de colores directamente desde tu smartphone para crear el ambiente perfecto al instante.",
+          "Su precio actual en Amazon ronda los... 45 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: LIFX Smart Bulb Color"
+        ],
+        "duration": 25,
+        "precio": "$45",
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B08FWH238Y.mp4",
+        "productPhoto": null
+      },
+      {
+        "type": "content",
+        "title": "Ember Mug² Taza Inteligente",
+        "productId": "prod_13",
+        "productName": "Ember Mug² Taza Inteligente",
+        "filename": "B0CMJQZ5PL.mp4",
+        "asin": "B0CMJQZ5PL",
+        "clipDuration": 58.01,
+        "estimatedAudioSeconds": 73,
+        "framework": "problema_solucion",
+        "content": [
+          "¿Tu café siempre se enfría antes que lo termines? Ember Mug² Taza Inteligente mantiene tu bebida a la temperatura perfecta. Ideal para quienes disfrutan cada sorbo caliente hasta el final.",
+          "Su precio actual en Amazon ronda los... 150 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Ember Mug² Taza Inteligente"
+        ],
+        "duration": 25,
+        "precio": "$150",
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0CMJQZ5PL.mp4",
+        "productPhoto": null
+      },
+      {
+        "type": "content",
+        "title": "Kasa Smart Plug Mini",
+        "productId": "prod_14",
+        "productName": "Kasa Smart Plug Mini",
+        "filename": "B091FXLMS8.mp4",
+        "asin": "B091FXLMS8",
+        "clipDuration": 85.07,
+        "estimatedAudioSeconds": 86,
+        "framework": "enfoque_caracteristica",
+        "content": [
+          "Pequeño pero poderoso, el Kasa Smart Plug Mini convierte cualquier dispositivo en inteligente. Controla luces y electrodomésticos desde tu smartphone, facilitando la automatización de tu hogar.",
+          "Su precio actual en Amazon ronda los... 15 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Kasa Smart Plug Mini"
+        ],
+        "duration": 25,
+        "precio": "$15",
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B091FXLMS8.mp4",
+        "productPhoto": null
+      },
+      {
+        "type": "content",
+        "title": "KeySmart Pro Organizador de Llaves",
+        "productId": "prod_15",
+        "productName": "KeySmart Pro Organizador de Llaves",
+        "filename": "B00JXQQXNU.mp4",
+        "asin": "B00JXQQXNU",
+        "clipDuration": 88.28,
+        "estimatedAudioSeconds": 95,
+        "framework": "beneficio_oculto",
+        "content": [
+          "Lo que hace único al KeySmart Pro Organizador de Llaves es su capacidad de rastreo. Con tecnología Tile integrada, nunca más perderás tus llaves. Además, su diseño compacto y elegante llama la atención.",
+          "Su precio actual en Amazon ronda los... 30 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: KeySmart Pro Organizador de Llaves"
+        ],
+        "duration": 25,
+        "precio": "$30",
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B00JXQQXNU.mp4",
+        "productPhoto": null
+      }
+    ],
+    "totalDuration": 375
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "Danos un like y recuerda que los links están en el primer comentario."
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "6:45",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "amazon",
+    "debes",
+    "perderte"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "15 Gadgets en Amazon que No Debes Perderte",
+      "angle": "15 Gadgets en Amazon que No Debes Perderte",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 15,
+      "introScript": "Descubre 15 impresionantes gadgets que transformarán tu vida cotidiana, desde una billetera inteligente como la Ekster Parliament Wallet hasta el proyector portátil Nebula Capsule. Explora innovaciones como los auriculares magnéticos Snapods y el anillo Oura para monitorear tu salud. ¡Sumérgete en un mundo de tecnología fascinante y práctica!",
+      "keywords": [
+        "gadgets",
+        "amazon",
+        "debes",
+        "perderte"
+      ],
+      "estimatedViews": 6251,
+      "bestPublishTime": "2026-05-07T19:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "id": "B07PVMK5NJ",
+          "nombre": "Ekster Parliament Wallet",
+          "filename": "B07PVMK5NJ.mp4",
+          "precio": 89,
+          "searchTermEn": "Ekster Parliament Wallet"
+        },
+        {
+          "id": "B0DP3HRDC2",
+          "nombre": "Rocketbook Smart Notebook",
+          "filename": "B0DP3HRDC2.mp4",
+          "precio": 35,
+          "searchTermEn": "Rocketbook Smart Notebook"
+        },
+        {
+          "id": "B0FZT9D21Y",
+          "nombre": "Snapods Auriculares Magnéticos",
+          "filename": "B0FZT9D21Y.mp4",
+          "precio": 80,
+          "searchTermEn": "Snapods Auriculares Magnéticos"
+        },
+        {
+          "id": "B0CHW11C8H",
+          "nombre": "Nebula Capsule Proyector",
+          "filename": "B0CHW11C8H.mp4",
+          "precio": 349,
+          "searchTermEn": "Nebula Capsule Proyector"
+        },
+        {
+          "id": "B0D637HWC5",
+          "nombre": "Tile Pro Rastreador Bluetooth",
+          "filename": "B0D637HWC5.mp4",
+          "precio": 35,
+          "searchTermEn": "Tile Pro Rastreador Bluetooth"
+        },
+        {
+          "id": "B0D9WT1S2T",
+          "nombre": "Oura Ring Monitor Salud",
+          "filename": "B0D9WT1S2T.mp4",
+          "precio": 299,
+          "searchTermEn": "Oura Ring Monitor Salud"
+        },
+        {
+          "id": "B0BBV76LS7",
+          "nombre": "Peak Design Tech Pouch",
+          "filename": "B0BBV76LS7.mp4",
+          "precio": 60,
+          "searchTermEn": "Peak Design Tech Pouch"
+        },
+        {
+          "id": "B0CWLHSKYC",
+          "nombre": "Aqara Smart Home Hub M2",
+          "filename": "B0CWLHSKYC.mp4",
+          "precio": 40,
+          "searchTermEn": "Aqara Smart Home Hub M2"
+        },
+        {
+          "id": "B01LG99NW4",
+          "nombre": "Luminoodle LED Light Rope",
+          "filename": "B01LG99NW4.mp4",
+          "precio": 25,
+          "searchTermEn": "Luminoodle LED Light Rope"
+        },
+        {
+          "id": "B0D5CLSMFB",
+          "nombre": "Anker PowerCore 10000",
+          "filename": "B0D5CLSMFB.mp4",
+          "precio": 35,
+          "searchTermEn": "Anker PowerCore 10000"
+        },
+        {
+          "id": "B0D2LQGJ2V",
+          "nombre": "Meater Termómetro Inalámbrico",
+          "filename": "B0D2LQGJ2V.mp4",
+          "precio": 70,
+          "searchTermEn": "Meater Termómetro Inalámbrico"
+        },
+        {
+          "id": "B08FWH238Y",
+          "nombre": "LIFX Smart Bulb Color",
+          "filename": "B08FWH238Y.mp4",
+          "precio": 45,
+          "searchTermEn": "LIFX Smart Bulb Color"
+        },
+        {
+          "id": "B0CMJQZ5PL",
+          "nombre": "Ember Mug² Taza Inteligente",
+          "filename": "B0CMJQZ5PL.mp4",
+          "precio": 150,
+          "searchTermEn": "Ember Mug² Taza Inteligente"
+        },
+        {
+          "id": "B091FXLMS8",
+          "nombre": "Kasa Smart Plug Mini",
+          "filename": "B091FXLMS8.mp4",
+          "precio": 15,
+          "searchTermEn": "Kasa Smart Plug Mini"
+        },
+        {
+          "id": "B00JXQQXNU",
+          "nombre": "KeySmart Pro Organizador de Llaves",
+          "filename": "B00JXQQXNU.mp4",
+          "precio": 30,
+          "searchTermEn": "KeySmart Pro Organizador de Llaves"
+        }
+      ],
+      "_sourceFile": "productos_locales.json",
+      "createdAt": "2026-04-30T22:43:24.627Z",
+      "_requestedCount": 15,
+      "_adaptedCount": 15,
+      "introProductsOrder": [
+        {
+          "nombre": "Oura Ring Monitor Salud",
+          "id": "B0D9WT1S2T",
+          "filename": "B0D9WT1S2T.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0D9WT1S2T.mp4"
+        },
+        {
+          "nombre": "LIFX Smart Bulb Color",
+          "id": "B08FWH238Y",
+          "filename": "B08FWH238Y.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B08FWH238Y.mp4"
+        },
+        {
+          "nombre": "KeySmart Pro Organizador de Llaves",
+          "id": "B00JXQQXNU",
+          "filename": "B00JXQQXNU.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B00JXQQXNU.mp4"
+        },
+        {
+          "nombre": "Peak Design Tech Pouch",
+          "id": "B0BBV76LS7",
+          "filename": "B0BBV76LS7.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0BBV76LS7.mp4"
+        },
+        {
+          "nombre": "Kasa Smart Plug Mini",
+          "id": "B091FXLMS8",
+          "filename": "B091FXLMS8.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B091FXLMS8.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1777589006012_aobv8p"
+    },
+    "generatedAt": "2026-04-30T22:43:47.075Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "id": "B07PVMK5NJ",
+        "nombre": "Ekster Parliament Wallet",
+        "filename": "B07PVMK5NJ.mp4",
+        "precio": 89,
+        "searchTermEn": "Ekster Parliament Wallet"
+      },
+      {
+        "id": "B0DP3HRDC2",
+        "nombre": "Rocketbook Smart Notebook",
+        "filename": "B0DP3HRDC2.mp4",
+        "precio": 35,
+        "searchTermEn": "Rocketbook Smart Notebook"
+      },
+      {
+        "id": "B0FZT9D21Y",
+        "nombre": "Snapods Auriculares Magnéticos",
+        "filename": "B0FZT9D21Y.mp4",
+        "precio": 80,
+        "searchTermEn": "Snapods Auriculares Magnéticos"
+      },
+      {
+        "id": "B0CHW11C8H",
+        "nombre": "Nebula Capsule Proyector",
+        "filename": "B0CHW11C8H.mp4",
+        "precio": 349,
+        "searchTermEn": "Nebula Capsule Proyector"
+      },
+      {
+        "id": "B0D637HWC5",
+        "nombre": "Tile Pro Rastreador Bluetooth",
+        "filename": "B0D637HWC5.mp4",
+        "precio": 35,
+        "searchTermEn": "Tile Pro Rastreador Bluetooth"
+      },
+      {
+        "id": "B0D9WT1S2T",
+        "nombre": "Oura Ring Monitor Salud",
+        "filename": "B0D9WT1S2T.mp4",
+        "precio": 299,
+        "searchTermEn": "Oura Ring Monitor Salud"
+      },
+      {
+        "id": "B0BBV76LS7",
+        "nombre": "Peak Design Tech Pouch",
+        "filename": "B0BBV76LS7.mp4",
+        "precio": 60,
+        "searchTermEn": "Peak Design Tech Pouch"
+      },
+      {
+        "id": "B0CWLHSKYC",
+        "nombre": "Aqara Smart Home Hub M2",
+        "filename": "B0CWLHSKYC.mp4",
+        "precio": 40,
+        "searchTermEn": "Aqara Smart Home Hub M2"
+      },
+      {
+        "id": "B01LG99NW4",
+        "nombre": "Luminoodle LED Light Rope",
+        "filename": "B01LG99NW4.mp4",
+        "precio": 25,
+        "searchTermEn": "Luminoodle LED Light Rope"
+      },
+      {
+        "id": "B0D5CLSMFB",
+        "nombre": "Anker PowerCore 10000",
+        "filename": "B0D5CLSMFB.mp4",
+        "precio": 35,
+        "searchTermEn": "Anker PowerCore 10000"
+      },
+      {
+        "id": "B0D2LQGJ2V",
+        "nombre": "Meater Termómetro Inalámbrico",
+        "filename": "B0D2LQGJ2V.mp4",
+        "precio": 70,
+        "searchTermEn": "Meater Termómetro Inalámbrico"
+      },
+      {
+        "id": "B08FWH238Y",
+        "nombre": "LIFX Smart Bulb Color",
+        "filename": "B08FWH238Y.mp4",
+        "precio": 45,
+        "searchTermEn": "LIFX Smart Bulb Color"
+      },
+      {
+        "id": "B0CMJQZ5PL",
+        "nombre": "Ember Mug² Taza Inteligente",
+        "filename": "B0CMJQZ5PL.mp4",
+        "precio": 150,
+        "searchTermEn": "Ember Mug² Taza Inteligente"
+      },
+      {
+        "id": "B091FXLMS8",
+        "nombre": "Kasa Smart Plug Mini",
+        "filename": "B091FXLMS8.mp4",
+        "precio": 15,
+        "searchTermEn": "Kasa Smart Plug Mini"
+      },
+      {
+        "id": "B00JXQQXNU",
+        "nombre": "KeySmart Pro Organizador de Llaves",
+        "filename": "B00JXQQXNU.mp4",
+        "precio": 30,
+        "searchTermEn": "KeySmart Pro Organizador de Llaves"
+      }
+    ]
+  },
+  "fullScript": "TITLE: 15 Gadgets en Amazon que No Debes Perderte\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\nEste anillo mide tus signos vitales. Estas luces cambian de color al instante. Este dispositivo organiza tus llaves. Esta funda guarda tus gadgets de forma segura. Este enchufe hace tu hogar inteligente.\n\n[0:10-0:15] INTRODUCTION\nSuscríbete, los links están en el primer comentario. Empecemos.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] EKSTER PARLIAMENT WALLET\n¿Cansado de buscar tarjetas en tu vieja billetera? Ekster Parliament Wallet tiene un mecanismo rápido que despliega tus tarjetas en segundos. Además, cuenta con protección RFID para evitar robos electrónicos.\nSu precio actual en Amazon ronda los... 89 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Ekster Parliament Wallet]\n\n[0:25] ROCKETBOOK SMART NOTEBOOK\nEl Rocketbook Smart Notebook es reutilizable y se conecta a la nube. Sus páginas especiales permiten borrar con un paño húmedo, y con su app, puedes guardar tus notas digitalmente. Este cuaderno combina lo analógico y digital, ideal para quienes aman escribir a mano pero desean almacenar todo en formato digital.\nSu precio actual en Amazon ronda los... 35 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Rocketbook Smart Notebook]\n\n[0:25] SNAPODS AURICULARES MAGNÉTICOS\nLa magia de los Snapods Auriculares Magnéticos es su capacidad de adherirse a cualquier superficie metálica. Además de su buena calidad de sonido, puedes mantenerlos seguros y a la vista, evitando que se pierdan.\nSu precio actual en Amazon ronda los... 80 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Snapods Auriculares Magnéticos]\n\n[0:25] NEBULA CAPSULE PROYECTOR\n¿No encuentras dónde ver tus películas? Nebula Capsule Proyector convierte cualquier lugar en una sala de cine. Ofrece proyección de alta calidad en un tamaño portátil, perfecta para llevar en viajes.\nSu precio actual en Amazon ronda los... 349 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Nebula Capsule Proyector]\n\n[0:25] TILE PRO RASTREADOR BLUETOOTH\nEquipado con un alcance de 400 pies, el Tile Pro Rastreador Bluetooth localiza fácilmente tus objetos perdidos. Su durabilidad y precisión lo hacen indispensable para no perder nada.\nSu precio actual en Amazon ronda los... 35 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Tile Pro Rastreador Bluetooth]\n\n[0:25] OURA RING MONITOR SALUD\nLo que pocos saben del Oura Ring Monitor Salud es su capacidad para analizar patrones de sueño y actividad diaria. Este anillo se convierte en tu aliado para mejorar hábitos de salud, ofreciendo datos precisos y detallados.\nSu precio actual en Amazon ronda los... 299 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Oura Ring Monitor Salud]\n\n[0:25] PEAK DESIGN TECH POUCH\n¿Cansado de cables enredados en tu mochila? Peak Design Tech Pouch organiza cables, accesorios y más con bolsillos inteligentes. Lleva tus gadgets de forma ordenada sin esfuerzo.\nSu precio actual en Amazon ronda los... 60 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Peak Design Tech Pouch]\n\n[0:25] AQARA SMART HOME HUB M2\nEl Aqara Smart Home Hub M2 se destaca por su compatibilidad con múltiples dispositivos inteligentes. Soporta Zigbee, Wi-Fi, Bluetooth y más, centralizando el control total de tu hogar en un solo aparato.\nSu precio actual en Amazon ronda los... 40 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Aqara Smart Home Hub M2]\n\n[0:25] LUMINOODLE LED LIGHT ROPE\nSorprende con la Luminoodle LED Light Rope: no solo ilumina, sino que crea ambientes únicos. Úsala en exteriores o interiores para una atmósfera inolvidable.\nSu precio actual en Amazon ronda los... 25 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Luminoodle LED Light Rope]\n\n[0:25] ANKER POWERCORE 10000\n¿Tu teléfono siempre sin batería al final del día? Anker PowerCore 10000 carga tus dispositivos rápidamente con su tecnología avanzada. Es compacto y potente, ideal para emergencias.\nSu precio actual en Amazon ronda los... 35 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Anker PowerCore 10000]\n\n[0:25] MEATER TERMÓMETRO INALÁMBRICO\nEl Meater Termómetro Inalámbrico ofrece monitoreo preciso de temperatura sin cables. Perfecto para los amantes de la cocina que buscan perfección en cada plato.\nSu precio actual en Amazon ronda los... 70 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Meater Termómetro Inalámbrico]\n\n[0:25] LIFX SMART BULB COLOR\nLo que nadie te dice de LIFX Smart Bulb Color es que no necesitas un hub para funcionar. Controla miles de colores directamente desde tu smartphone para crear el ambiente perfecto al instante.\nSu precio actual en Amazon ronda los... 45 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: LIFX Smart Bulb Color]\n\n[0:25] EMBER MUG² TAZA INTELIGENTE\n¿Tu café siempre se enfría antes que lo termines? Ember Mug² Taza Inteligente mantiene tu bebida a la temperatura perfecta. Ideal para quienes disfrutan cada sorbo caliente hasta el final.\nSu precio actual en Amazon ronda los... 150 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Ember Mug² Taza Inteligente]\n\n[0:25] KASA SMART PLUG MINI\nPequeño pero poderoso, el Kasa Smart Plug Mini convierte cualquier dispositivo en inteligente. Controla luces y electrodomésticos desde tu smartphone, facilitando la automatización de tu hogar.\nSu precio actual en Amazon ronda los... 15 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Kasa Smart Plug Mini]\n\n[0:25] KEYSMART PRO ORGANIZADOR DE LLAVES\nLo que hace único al KeySmart Pro Organizador de Llaves es su capacidad de rastreo. Con tecnología Tile integrada, nunca más perderás tus llaves. Además, su diseño compacto y elegante llama la atención.\nSu precio actual en Amazon ronda los... 30 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: KeySmart Pro Organizador de Llaves]\n\n[10 seconds] CONCLUSION\nDanos un like y recuerda que los links están en el primer comentario.\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 6:45\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, amazon, debes, perderte\n"
+}

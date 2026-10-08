@@ -1,0 +1,132 @@
+{
+  "title": "Top 1 Gadget para Potenciar tu Cocina",
+  "hook": {
+    "type": "statement",
+    "text": "",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "25s-35s"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Prepdeck Meal Prep Station",
+        "productId": "B0CTNYMTKR",
+        "productName": "Prepdeck Meal Prep Station",
+        "filename": "B0CTNYMTKR.mp4",
+        "asin": "B0CTNYMTKR",
+        "videoDuration": 43.4123,
+        "estimatedAudioSeconds": 34,
+        "framework": "problema_solucion",
+        "narracionSegments": null,
+        "content": [
+          "¿Cansado del caos en la cocina? Prepdeck Meal Prep Station Gen dos, visto en Shark Tank, es la solución perfecta. Con soporte para tabletas y cincuenta mejoras, transforma tu experiencia culinaria. Corta con precisión en la tabla magnética. Usa sus ocho herramientas; pica rápido y sin desorden. El contenedor de residuos extraíble facilita la limpieza. Organización y eficiencia en un diseño elegante... todo está al alcance. Mejora tu cocina con esta innovadora estación.",
+          "Su precio actual ronda los... ciento treinta dólares. Link en comentarios."
+        ],
+        "visuals": [
+          "Product image: Prepdeck Meal Prep Station"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0CTNYMTKR.mp4",
+        "precio": "$130",
+        "productPhoto": "https://m.media-amazon.com/images/I/71yaTjHdeLL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "VISTO EN SHARK TANK: ¡Presentamos Prepdeck Gen 2 con un soporte adicional para tabletas / teléfonos! Con todo lo que amas en el original, además de emocionantes nuevas características, un diseño impecable y una forma elegante y aerodinámica que complementa el estilo de tu cocina. Optimiza la cocina para la familia con la estación de preparación definitiva, que cuenta con más de 50 increíbles mejoras sobre el ya favorito original Prepdeck de 4.5 estrellas, amado por más de 150,000 fanáticos de Prepdeck.",
+          "\"\"\"MÁS CAPACIDAD Y ALMACENAMIENTO SIN DESLIZAMIENTO: Este kit de lujo contiene todas las herramientas esenciales para optimizar el picado, rallado, pelado y más: tabla de cortar rediseñada y sin costuras con imanes más fuertes, 8 herramientas de preparación, además de 2 recipientes pequeños, 2 medianos, 3 grandes y 1 XL duraderos y aptos para alimentos con un 20% más de capacidad y medidores más grandes y claros en onzas, mililitros y tazas. Además, recipientes mini de fondo plano y sin volcar, tapas de super sellado, un contenedor de residuos extraíble y una unidad de almacenamiento incorporada.\"\"\"",
+          "MINIMIZA EL DESORDEN: ¡La mejora más solicitada – una tabla de cortar sin costuras! Ahora más gruesa, más duradera y optimizada para la usabilidad, lo que permite un deslizamiento sin interrupciones de los restos hacia el contenedor. Además, los patrones permanentes en la superficie de la tabla garantizan un acabado duradero y un imán mejorado la mantiene firmemente en su lugar. Nuestro cajón de accesorios rediseñado ofrece almacenamiento adicional para todos esos restos. Los cubos de restos dobles son prácticos para recoger y contener restos de comida y basura, y se deslizan fácilmente hacia afuera, lo que hace que la eliminación sea rápida y sencilla.",
+          "RÁPIDO, FÁCIL Y SIN DESORDEN: ¡Prepara una comida, no un desorden! Rediseñamos nuestros 8 utensilios de cocina esenciales para simplificar y acelerar el proceso: zester, juicer, grater, slicer, peeler, green-stripper, bottle opener, + un NUEVO triturador de ajo para rallar/raspar/cortar + una característica de seguridad única para proteger tus dedos. Ahora dentro de un soporte removible para almacenamiento en tu Prepdeck / cajón de cocina. ¡Cada herramienta se acopla a los recipientes para darte un mejor control y así puedas disfrutar de un corte y picado rápido y sin desorden!",
+          "CORTA EL CAOS: Gen 2 presenta un nuevo borde de silicona antideslizante a juego para mantener tu preparación de alimentos tranquila y ordenada. Mantente organizado con un kit de preparación aún más simplificado y optimizado que hace mejores comidas, ¡sin frustraciones! Con 8 herramientas útiles al alcance y 5 tamaños de contenedores para guardar tus verduras picadas, te encantará este nuevo y mejorado diseño: sin caos, sin desorden, sin complicaciones. ¡ADEMÁS, ahora puedes emparejar tu Prepdeck con el Bamboo Knife Block que se ajusta convenientemente dentro de tu Prepdeck!"
+        ]
+      }
+    ],
+    "totalDuration": 40
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      ""
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:10",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadget",
+    "para",
+    "potenciar",
+    "cocina"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 1 Gadget para Potenciar tu Cocina",
+      "angle": "Top 1 Gadget para Potenciar tu Cocina",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 1,
+      "introScript": "¿Te imaginas tener un gadget en tu cocina que acelera tus tareas diarias y mantiene todo organizado? Conviértete en el maestro de la cocina con una tecnología que combina almacenamiento eficiente y usabilidad extrema. Hoy te presentamos un producto que no solo optimiza tu espacio, sino que también hace que cocinar sea una experiencia mucho más placentera y sencilla. Prepárate para descubrir cómo transformar tu cocina en un área de trabajo avanzada y ordenada en cuestión de minutos.",
+      "keywords": [
+        "gadget",
+        "para",
+        "potenciar",
+        "cocina"
+      ],
+      "estimatedViews": 5714,
+      "bestPublishTime": "2026-07-31T20:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Prepdeck Meal Prep Station",
+          "searchTermEn": "Prepdeck meal prep station",
+          "id": "B0CTNYMTKR",
+          "filename": "B0CTNYMTKR.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-07-25T01:50:13.426Z",
+      "_requestedCount": 1,
+      "_adaptedCount": 1,
+      "introProductsOrder": [
+        {
+          "nombre": "Prepdeck Meal Prep Station",
+          "id": "B0CTNYMTKR",
+          "filename": "B0CTNYMTKR.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0CTNYMTKR.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1784944366991_hs84pn"
+    },
+    "generatedAt": "2026-07-25T01:52:53.042Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Prepdeck Meal Prep Station",
+        "searchTermEn": "Prepdeck meal prep station",
+        "id": "B0CTNYMTKR",
+        "filename": "B0CTNYMTKR.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 1 Gadget para Potenciar tu Cocina\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\n\n\n[25s-35s] INTRODUCTION\n\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] PREPDECK MEAL PREP STATION\n¿Cansado del caos en la cocina? Prepdeck Meal Prep Station Gen dos, visto en Shark Tank, es la solución perfecta. Con soporte para tabletas y cincuenta mejoras, transforma tu experiencia culinaria. Corta con precisión en la tabla magnética. Usa sus ocho herramientas; pica rápido y sin desorden. El contenedor de residuos extraíble facilita la limpieza. Organización y eficiencia en un diseño elegante... todo está al alcance. Mejora tu cocina con esta innovadora estación.\nSu precio actual ronda los... ciento treinta dólares. Link en comentarios.\n\n[VISUALS: Product image: Prepdeck Meal Prep Station]\n\n[10 seconds] CONCLUSION\n\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:10\nTONE: engaging\nPACING: quick\nKEYWORDS: gadget, para, potenciar, cocina\n"
+}

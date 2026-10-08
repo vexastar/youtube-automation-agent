@@ -1,0 +1,135 @@
+{
+  "title": "Top 1 Gadgets Sorprendentes para tu Cocina",
+  "hook": {
+    "type": "statement",
+    "text": "Observa en uso real a: Tablero de Corte y Juego de.",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "Todo está en el primer comentario. Vamos.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "25s-35s"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Tablero de Corte y Juego de",
+        "productId": "B0BLTTB2GD",
+        "productName": "Tablero de Corte y Juego de",
+        "filename": "B0BLTTB2GD.mp4",
+        "asin": "B0BLTTB2GD",
+        "videoDuration": 24.0129,
+        "estimatedAudioSeconds": 33,
+        "framework": "enfoque_caracteristica",
+        "narracionSegments": null,
+        "content": [
+          "Olvida el desorden. Tablero de Corte y Juego de... ¡revoluciona tu cocina! Usa las tablas codificadas por color. Evita la contaminación cruzada al cocinar. Enjuaga, coloca en el soporte; presiona un botón. El secado inteligente mantiene todo limpio. Incluye cuchillos de acero inoxidable; tijeras y afilador. Organizador que ahorra espacio. Mantén orden absoluto... En casa nueva o cocina ocupada; ideal para quien valora conveniencia. Personaliza... convéncete con diseño moderno y elegante.",
+          "Su precio actual ronda los... ciento diez dólares. Link en comentarios."
+        ],
+        "visuals": [
+          "Product image: Tablero de Corte y Juego de"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0BLTTB2GD.mp4",
+        "precio": "$110",
+        "productPhoto": "https://m.media-amazon.com/images/I/6143-0REvSL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "\"\"\"Autolimpiante y Secado Inteligente, Un Regalo que Se Siente Sin Esfuerzo: Después de usar, simplemente enjuaga y coloca las tablas y cuchillos en el soporte. Un toque activa el secado programado, manteniendo todo limpio y listo. Un regalo considerado para cualquiera que valore la conveniencia en la cocina.\"\"\"",
+          "Tableros Codificados por Color para una Cocina Más Segura, Perfectos para Nuevos Hogares: Diseñados para diferentes tipos de alimentos con un claro índice de colores para evitar la contaminación cruzada. Desde carne cruda hasta verduras, todo tiene su lugar, lo que los convierte en un regalo ideal para una casa nueva y una cocina limpia y organizada.",
+          "Conjunto de cuchillos completo para uso diario, una idea de regalo práctica: incluye 4 cuchillos de acero inoxidable (5Cr15MoV), tijeras y un afilador para manejar las necesidades de cocina diarias con facilidad. Un regalo práctico y útil para mamás, cocineros caseros y cualquier persona que esté montando una cocina.",
+          "Organizador que ahorra espacio, mantiene las cocinas ordenadas y limpias: Todas las tablas y cuchillos se almacenan ordenadamente en un solo soporte para un secado fácil y una organización sin desorden. Limpieza sin esfuerzo—perfecto para hogares ocupados o como un regalo inteligente para mejorar la cocina.",
+          "\"\"\"Mejora de Cocina Moderna, Un Regalo que Destaca: Combinando funcionalidad con un diseño moderno y elegante, este juego de tablas de cortar inteligentes añade conveniencia y estilo a cualquier cocina. Una excelente opción de regalo para cumpleaños, Navidad o para cualquier persona que ame los gadgets para el hogar inteligente.\"\"\""
+        ],
+        "originalVideoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0BLTTB2GD.mp4"
+      }
+    ],
+    "totalDuration": 40
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      ""
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:10",
+  "tone": "engaging",
+  "tone_variant": "entusiasta y acelerado, como un presentador de teletienda pero sin relleno ni repetición",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "sorprendentes",
+    "para",
+    "cocina"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 1 Gadgets Sorprendentes para tu Cocina",
+      "angle": "Top 2 Gadgets Sorprendentes para tu Cocina",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 1,
+      "introScript": "¿Imaginas poder cocinar sin preocuparte por las temperaturas exactas o por derrames al cortar? Descubre dos gadgets revolucionarios que elevarán tu experiencia culinaria al siguiente nivel. Uno convierte cualquier sartén en una cocina de precisión absoluta y el otro transforma tu tabla de corte en un asistente de chef. Prepárate para conocer los secretos de la cocina moderna que ya puedes tener en casa.",
+      "keywords": [
+        "gadgets",
+        "sorprendentes",
+        "para",
+        "cocina"
+      ],
+      "estimatedViews": 5499,
+      "bestPublishTime": "2026-09-15T19:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Tablero de Corte y Juego de",
+          "searchTermEn": "ChopBox Smart Cutting Board",
+          "id": "B0BLTTB2GD",
+          "filename": "B0BLTTB2GD.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-09-11T17:05:25.243Z",
+      "_requestedCount": 2,
+      "_adaptedCount": 1,
+      "_adaptationNote": "ATENCIÓN: El usuario pidió 2 productos pero solo hay 1 clips de video disponibles. El guion, título y narrativa deben referirse EXCLUSIVAMENTE a 1 productos.",
+      "introProductsOrder": [
+        {
+          "nombre": "Tablero de Corte y Juego de",
+          "id": "B0BLTTB2GD",
+          "filename": "B0BLTTB2GD.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0BLTTB2GD.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1789146666468_6ayrst"
+    },
+    "generatedAt": "2026-09-11T17:11:14.287Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Tablero de Corte y Juego de",
+        "searchTermEn": "ChopBox Smart Cutting Board",
+        "id": "B0BLTTB2GD",
+        "filename": "B0BLTTB2GD.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 1 Gadgets Sorprendentes para tu Cocina\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\nObserva en uso real a: Tablero de Corte y Juego de.\n\n[25s-35s] INTRODUCTION\nTodo está en el primer comentario. Vamos.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] TABLERO DE CORTE Y JUEGO DE\nOlvida el desorden. Tablero de Corte y Juego de... ¡revoluciona tu cocina! Usa las tablas codificadas por color. Evita la contaminación cruzada al cocinar. Enjuaga, coloca en el soporte; presiona un botón. El secado inteligente mantiene todo limpio. Incluye cuchillos de acero inoxidable; tijeras y afilador. Organizador que ahorra espacio. Mantén orden absoluto... En casa nueva o cocina ocupada; ideal para quien valora conveniencia. Personaliza... convéncete con diseño moderno y elegante.\nSu precio actual ronda los... ciento diez dólares. Link en comentarios.\n\n[VISUALS: Product image: Tablero de Corte y Juego de]\n\n[10 seconds] CONCLUSION\n\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:10\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, sorprendentes, para, cocina\n"
+}

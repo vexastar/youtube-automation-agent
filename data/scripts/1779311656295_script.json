@@ -1,0 +1,240 @@
+{
+  "title": "Top 3 Laptops Innovadoras que Debes Ver en Amazon",
+  "hook": {
+    "type": "statement",
+    "text": "Duplica tu productividad con dos pantallas táctiles. Explora cada detalle con una pantalla de alta resolución. Experimenta el futuro en cada pliegue.",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "Todo está en el primer comentario. Vamos.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0:10-0:15"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "ASUS ZenBook Duo",
+        "productId": "B0FCTXP7LN",
+        "productName": "ASUS ZenBook Duo",
+        "filename": "B0FCTXP7LN.mp4",
+        "asin": "B0FCTXP7LN",
+        "clipDuration": 60.06,
+        "estimatedAudioSeconds": 70,
+        "framework": "comparacion_precio",
+        "narracionSegments": null,
+        "content": [
+          "Por el precio de un portátil convencional, obtienes el ASUS ZenBook Duo con su versatilidad de doble pantalla. Este dispositivo no solo amplía tu espacio de trabajo, sino que gracias a su procesador Intel Core Ultra 9 y gráficos Intel Arc, mejora la eficiencia y productividad. Con almacenamiento SSD de 1TB y 32GB de RAM, ofrece fluidez incomparable para gestionar múltiples tareas.",
+          "Su precio actual en Amazon ronda los... 2000 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: ASUS ZenBook Duo"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0FCTXP7LN_combined.mp4",
+        "precio": "$2000",
+        "productPhoto": "https://m.media-amazon.com/images/I/612w0XHxU8L.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "Multi-Screen Versatility — Find the mode that best suits your task and seamlessly switch between them. Expand your workspace with Dual Screen or Desktop Mode, share content effortlessly in Sharing Mode, or snap everything back into one for Laptop Mode",
+          "Everything-Built-In Portability — At 3.64 lb and a mere 0.57” thin, the DUO elevates portable dual-screen setups to the next level. With a detachable Bluetooth keyboard and built-in kickstand, you can take the Zenbook DUO just as you would with any laptop — plus a FHD IR front camera",
+          "Powerfully Productive — The Zenbook DUO delivers powerful performance and AI-ready features on Windows 11. The ultra-fast Intel Core Ultra 9 285H processor with Intel AI Boost NPU paired with Intel Arc graphics, enhances tasks with AI capabilities. With 1TB SSD storage and 32GB LPDDR5x RAM, you can explore more seamlessly",
+          "Dual 14” Lumina OLED Displays — Immerse yourself in unparalleled visuals with the Zenbook DUO's dual 16:10 touch displays boasting a 2880 x 1800 resolution, vibrant 500-nit HDR peak brightness, smooth 120Hz refresh rate, and Pantone validated 100% DCI-P3 color accuracy",
+          "Military-Grade Durability — Meeting US MIL-STD 810H military standards1, the Zenbook DUO ensures unmatched reliability in harsh conditions. Rigorous testing enhances longevity, guaranteeing that your laptop is ready for work, travel, or relaxation both today and in the future"
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Lenovo ThinkPad X1 Fold",
+        "productId": "B0DQ4CRXDQ",
+        "productName": "Lenovo ThinkPad X1 Fold",
+        "filename": "B0DQ4CRXDQ.mp4",
+        "asin": "B0DQ4CRXDQ",
+        "clipDuration": 60.06,
+        "estimatedAudioSeconds": 64,
+        "framework": "dato_numerico",
+        "narracionSegments": null,
+        "content": [
+          "-32- GB de memoria ofrecen capacidades multitarea sorprendentes con el Lenovo ThinkPad X1 Fold. Su pantalla de -14- pulgadas con resolución 1920 x 1200 proporciona una experiencia visual excepcional, ideal para ver películas y ejecutar programas pesados sin compromisos.",
+          "Su precio actual en Amazon ronda los... 2000 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Lenovo ThinkPad X1 Fold"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0DQ4CRXDQ_combined.mp4",
+        "precio": "$2000",
+        "productPhoto": "https://m.media-amazon.com/images/I/61JZTWfKMRL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "With 32 GB of memory, users can run many programs without losing execution",
+          "The 14\" 1920 x 1200 screen provides a great movie watching experience",
+          "512 GB total SSD capacity is enough to store your essential documents and files, favorite songs, movies and pictures"
+        ]
+      },
+      {
+        "type": "content",
+        "title": "HP Spectre x360",
+        "productId": "B0GL3F8FPK",
+        "productName": "HP Spectre x360",
+        "filename": "B0GL3F8FPK.mp4",
+        "asin": "B0GL3F8FPK",
+        "clipDuration": 60.06,
+        "estimatedAudioSeconds": null,
+        "framework": "experiencia_sensorial",
+        "narracionSegments": null,
+        "content": [
+          "-Sumérgete- en imágenes deslumbrantes gracias a la pantalla táctil de 14 pulgadas del HP Spectre x360, perfecta para detalles vivos gracias a su cobertura -100%- DCI-P3 y frecuencia de actualización de -120Hz-. Con Corning Gorilla Glass, es resistente y ofrece seguridad adicional contra reflejos con baja luz azul.",
+          "[68Whr battery] Su precio actual en Amazon ronda los... 1519 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: HP Spectre x360"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0GL3F8FPK_combined.mp4",
+        "precio": "$1519",
+        "productPhoto": "https://m.media-amazon.com/images/I/61twGLQ4o4L.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "[Upgraded Memory & Storage & OS] Upgraded to 16GB DDR5 SDRAM 4800 MHz 1TB PCI-E NVMe,Solid State Drive for Storage.",
+          "[Processor and Graphics] Intel Evo Core Ultra 7 155H 16-Core Processor (Up to 4.8 GHz with Intel Turbo Boost Technology 24 MB Intel Smart cache 16 Cores 22 Threads) Intel Arc Graphics",
+          "[14\" 2880x1800 120Hz Display] 14\" (2880 x 1800) 120Hz Touchscreen 400 nits UWVA, edge-to-edge glass, micro-edge, anti-reflection Corning Gorilla Glass NBT, Low Blue Light, 100% DCI-P3 Thin Bezel LCD Display.",
+          "[Additional] Backlit Keyboard, Fingerprint Reader HP 9MP IR Camera 68Whr 4-Cell lithium-ion battery (up to 8 hours battery life) 12.35\" x 8.68\" x 0.67\" inches,3.19 lbs 65W AC Adapter",
+          "[Connection & Ports] Intel Wi-Fi 6E AX211 (2x2) Bluetooth 5.3,2x USB-C Thunderbolt 4 / USB4 40Gbps (Power Delivery and DisplayPort 1.4 and Power-off Charging), 1x USB 3.2 Gen 2 (Power-off Charging and 10Gbps), 1x Headphone and microphone combo jack.1 x 32GB USB Drive included."
+        ]
+      }
+    ],
+    "totalDuration": 75
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      {
+        "Recuerda darle like al video; ¡los detalles están en el link situado al inicio del video!": {
+          " [Hp Spectre ]x360).": "<Valor>"
+        }
+      }
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:45",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "laptops",
+    "innovadoras",
+    "debes",
+    "amazon"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 3 Laptops Innovadoras que Debes Ver en Amazon",
+      "angle": "Top 3 Laptops Innovadoras que Debes Ver en Amazon",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 3,
+      "introScript": "¿Una laptop que se convierte en tableta con un giro de pantalla? ¿Un dispositivo que ofrece tres pantallas desplegables? Hoy te mostramos las laptops más innovadoras que revolucionarán tu forma de trabajar y jugar. ¡No te las pierdas!",
+      "keywords": [
+        "laptops",
+        "innovadoras",
+        "debes",
+        "amazon"
+      ],
+      "estimatedViews": 4166,
+      "bestPublishTime": "2026-05-27T19:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "ASUS ZenBook Duo",
+          "searchTermEn": "ASUS ZenBook Duo laptop",
+          "id": "B0FCTXP7LN",
+          "filename": "B0FCTXP7LN.mp4"
+        },
+        {
+          "nombre": "Lenovo ThinkPad X1 Fold",
+          "searchTermEn": "Lenovo ThinkPad X1 Fold",
+          "id": "B0DQ4CRXDQ",
+          "filename": "B0DQ4CRXDQ.mp4"
+        },
+        {
+          "nombre": "HP Spectre x360",
+          "searchTermEn": "HP Spectre x360 convertible",
+          "id": "B0GL3F8FPK",
+          "filename": "B0GL3F8FPK.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-05-20T21:07:48.889Z",
+      "_requestedCount": 3,
+      "_adaptedCount": 3,
+      "introProductsOrder": [
+        {
+          "nombre": "ASUS ZenBook Duo",
+          "id": "B0FCTXP7LN",
+          "filename": "B0FCTXP7LN_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0FCTXP7LN_combined.mp4"
+        },
+        {
+          "nombre": "HP Spectre x360",
+          "id": "B0GL3F8FPK",
+          "filename": "B0GL3F8FPK_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0GL3F8FPK_combined.mp4"
+        },
+        {
+          "nombre": "Lenovo ThinkPad X1 Fold",
+          "id": "B0DQ4CRXDQ",
+          "filename": "B0DQ4CRXDQ_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0DQ4CRXDQ_combined.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1779311597325_ogox9i"
+    },
+    "generatedAt": "2026-05-20T21:13:50.501Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "ASUS ZenBook Duo",
+        "searchTermEn": "ASUS ZenBook Duo laptop",
+        "id": "B0FCTXP7LN",
+        "filename": "B0FCTXP7LN.mp4"
+      },
+      {
+        "nombre": "Lenovo ThinkPad X1 Fold",
+        "searchTermEn": "Lenovo ThinkPad X1 Fold",
+        "id": "B0DQ4CRXDQ",
+        "filename": "B0DQ4CRXDQ.mp4"
+      },
+      {
+        "nombre": "HP Spectre x360",
+        "searchTermEn": "HP Spectre x360 convertible",
+        "id": "B0GL3F8FPK",
+        "filename": "B0GL3F8FPK.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 3 Laptops Innovadoras que Debes Ver en Amazon\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\nDuplica tu productividad con dos pantallas táctiles. Explora cada detalle con una pantalla de alta resolución. Experimenta el futuro en cada pliegue.\n\n[0:10-0:15] INTRODUCTION\nTodo está en el primer comentario. Vamos.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] ASUS ZENBOOK DUO\nPor el precio de un portátil convencional, obtienes el ASUS ZenBook Duo con su versatilidad de doble pantalla. Este dispositivo no solo amplía tu espacio de trabajo, sino que gracias a su procesador Intel Core Ultra 9 y gráficos Intel Arc, mejora la eficiencia y productividad. Con almacenamiento SSD de 1TB y 32GB de RAM, ofrece fluidez incomparable para gestionar múltiples tareas.\nSu precio actual en Amazon ronda los... 2000 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: ASUS ZenBook Duo]\n\n[0:25] LENOVO THINKPAD X1 FOLD\n-32- GB de memoria ofrecen capacidades multitarea sorprendentes con el Lenovo ThinkPad X1 Fold. Su pantalla de -14- pulgadas con resolución 1920 x 1200 proporciona una experiencia visual excepcional, ideal para ver películas y ejecutar programas pesados sin compromisos.\nSu precio actual en Amazon ronda los... 2000 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Lenovo ThinkPad X1 Fold]\n\n[0:25] HP SPECTRE X360\n-Sumérgete- en imágenes deslumbrantes gracias a la pantalla táctil de 14 pulgadas del HP Spectre x360, perfecta para detalles vivos gracias a su cobertura -100%- DCI-P3 y frecuencia de actualización de -120Hz-. Con Corning Gorilla Glass, es resistente y ofrece seguridad adicional contra reflejos con baja luz azul.\n[68Whr battery] Su precio actual en Amazon ronda los... 1519 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: HP Spectre x360]\n\n[10 seconds] CONCLUSION\n[object Object]\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:45\nTONE: engaging\nPACING: quick\nKEYWORDS: laptops, innovadoras, debes, amazon\n"
+}

@@ -1,0 +1,253 @@
+{
+  "title": "Top 2 Gadgets para Pintores en Amazon",
+  "hook": {
+    "type": "statement",
+    "text": "¿Una rueda de color en 3D? Un lápiz óptico sensible.",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "Suscríbete para más. Links en el primer comentario.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0:10-0:15"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Palette Kolormondo 3D",
+        "productId": "B07JJC9BP3",
+        "productName": "Palette Kolormondo 3D",
+        "filename": "B07JJC9BP3.mp4",
+        "asin": "B07JJC9BP3",
+        "clipDuration": 60.06,
+        "estimatedAudioSeconds": 38,
+        "framework": "comparacion_precio",
+        "narracionSegments": null,
+        "content": [
+          "¿Pensaste que dominar el color era costoso? El Palette Kolormondo 3D cambia todo eso. Con su diseño de rueda de color tridimensional, puedes explorar colores de manera fácil y económica. A diferencia de otras herramientas complicadas, este gadget es simple y económico, convirtiéndose en una herramienta indispensable para artistas creativos que buscan inspiración sin romper su presupuesto.",
+          "Su precio actual en Amazon ronda los... 14 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Palette Kolormondo 3D"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07JJC9BP3_combined.mp4",
+        "precio": "$14",
+        "productPhoto": "https://m.media-amazon.com/images/I/914gcgan3PL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "Kolormondo Mini 3-D Colorwheel"
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Nomad Brush Stylus",
+        "productId": "B0F6CRXGBF",
+        "productName": "Nomad Brush Stylus",
+        "filename": "B0F6CRXGBF.mp4",
+        "asin": "B0F6CRXGBF",
+        "clipDuration": 60.03,
+        "estimatedAudioSeconds": 42,
+        "framework": "dato_numerico",
+        "narracionSegments": null,
+        "content": [
+          "Imagina un stylus compatible con innumerables dispositivos, desde Samsung hasta iOS y Android. El Nomad Brush Stylus ofrece precisamente eso. Con tecnología capacitiva avanzada, proporciona alta sensibilidad para una experiencia similar a un lápiz real, sin necesidad de carga. Diseñado ergonómicamente para el máximo confort, protege tu pantalla mientras te permite crear como nunca antes.",
+          "Su precio actual en Amazon ronda los... 27 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Nomad Brush Stylus"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0F6CRXGBF_combined.mp4",
+        "precio": "$27",
+        "productPhoto": "https://m.media-amazon.com/images/I/61SRV+l7YrL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0F6CRXGBF\\scenes_v1\\B0F6CRXGBF_scene_01.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0F6CRXGBF\\scenes_v1\\B0F6CRXGBF_scene_02.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0F6CRXGBF\\scenes_v1\\B0F6CRXGBF_scene_03.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0F6CRXGBF\\scenes_v2\\B0F6CRXGBF_v2_scene_02.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0F6CRXGBF\\scenes_v2\\B0F6CRXGBF_v2_scene_03.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0F6CRXGBF\\scenes_v2\\B0F6CRXGBF_v2_scene_01.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0F6CRXGBF\\scenes_v2\\B0F6CRXGBF_v2_scene_04.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0F6CRXGBF\\scenes_v2\\B0F6CRXGBF_v2_scene_06.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0F6CRXGBF\\scenes_v2\\B0F6CRXGBF_v2_scene_05.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0F6CRXGBF\\scenes_v2\\B0F6CRXGBF_v2_scene_07.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          }
+        ],
+        "features": [
+          "Wide Compatibility for Multiple Devices: Works seamlessly with Samsung, iOS, Android, Chromebook, Smartphone, and other touchscreen devices. No drivers are needed- simply open and play, ensuring compatibility with a variety of tablets and smartphones. No Charging Required, Ready Anytime.",
+          "High-Precision Touch for Smooth Writing & Drawing: Featuring advanced capacitive technology, this stylus pen offers high sensitivity and precision, delivering a smooth, real-pen experience perfect for writing, sketching, note-taking, and more.",
+          "Ergonomic Design for Comfortable Grip: Crafted with a lightweight and durable body, the stylus is designed for long periods of comfortable use. Whether you’re creating, studying, or performing everyday tasks, it ensures a pleasant grip.",
+          "Scratch-Resistant & Durable, Protects Your Screen: Equipped with a soft, high-quality Disc tip that ensures smooth touch without scratching the screen, keeping your device’s display in pristine condition while providing a seamless user experience.",
+          "Replaceable Nib for Extended Use: The stylus pen comes with an extra tip for long-lasting use. Simply unscrew the metal cap to easily access and swap out the nib, ensuring your stylus is always ready for smooth and precise performance."
+        ]
+      }
+    ],
+    "totalDuration": 50
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "Gracias por verlo. Da like y encuentra los links en el primer comentario."
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:20",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "para",
+    "pintores",
+    "amazon"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 2 Gadgets para Pintores en Amazon",
+      "angle": "Top 3 Gadgets para Pintores en Amazon",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 2,
+      "introScript": "¿Un pincel que se recarga solo? ¿Paletas que mantienen tus colores frescos por días? Hoy te traigo los gadgets más innovadores para pintores que puedes encontrar en Amazon ahora mismo. Prepárate para descubrir herramientas que cambiarán tu forma de pintar para siempre.",
+      "keywords": [
+        "gadgets",
+        "para",
+        "pintores",
+        "amazon"
+      ],
+      "estimatedViews": 6285,
+      "bestPublishTime": "2026-05-26T19:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Palette Kolormondo 3D",
+          "searchTermEn": "Kolormondo 3D color palette",
+          "id": "B07JJC9BP3",
+          "filename": "B07JJC9BP3.mp4"
+        },
+        {
+          "nombre": "Nomad Brush Stylus",
+          "searchTermEn": "Nomad Brush Stylus tablet",
+          "id": "B0F6CRXGBF",
+          "filename": "B0F6CRXGBF.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-05-21T20:46:34.661Z",
+      "_requestedCount": 3,
+      "_adaptedCount": 2,
+      "_adaptationNote": "ATENCIÓN: El usuario pidió 3 productos pero solo hay 2 clips de video disponibles. El guion, título y narrativa deben referirse EXCLUSIVAMENTE a 2 productos.",
+      "introProductsOrder": [
+        {
+          "nombre": "Palette Kolormondo 3D",
+          "id": "B07JJC9BP3",
+          "filename": "B07JJC9BP3_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07JJC9BP3_combined.mp4"
+        },
+        {
+          "nombre": "Nomad Brush Stylus",
+          "id": "B0F6CRXGBF",
+          "filename": "B0F6CRXGBF_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0F6CRXGBF_combined.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1779396651931_arepvy"
+    },
+    "generatedAt": "2026-05-21T20:51:10.770Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Palette Kolormondo 3D",
+        "searchTermEn": "Kolormondo 3D color palette",
+        "id": "B07JJC9BP3",
+        "filename": "B07JJC9BP3.mp4"
+      },
+      {
+        "nombre": "Nomad Brush Stylus",
+        "searchTermEn": "Nomad Brush Stylus tablet",
+        "id": "B0F6CRXGBF",
+        "filename": "B0F6CRXGBF.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 2 Gadgets para Pintores en Amazon\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\n¿Una rueda de color en 3D? Un lápiz óptico sensible.\n\n[0:10-0:15] INTRODUCTION\nSuscríbete para más. Links en el primer comentario.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] PALETTE KOLORMONDO 3D\n¿Pensaste que dominar el color era costoso? El Palette Kolormondo 3D cambia todo eso. Con su diseño de rueda de color tridimensional, puedes explorar colores de manera fácil y económica. A diferencia de otras herramientas complicadas, este gadget es simple y económico, convirtiéndose en una herramienta indispensable para artistas creativos que buscan inspiración sin romper su presupuesto.\nSu precio actual en Amazon ronda los... 14 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Palette Kolormondo 3D]\n\n[0:25] NOMAD BRUSH STYLUS\nImagina un stylus compatible con innumerables dispositivos, desde Samsung hasta iOS y Android. El Nomad Brush Stylus ofrece precisamente eso. Con tecnología capacitiva avanzada, proporciona alta sensibilidad para una experiencia similar a un lápiz real, sin necesidad de carga. Diseñado ergonómicamente para el máximo confort, protege tu pantalla mientras te permite crear como nunca antes.\nSu precio actual en Amazon ronda los... 27 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Nomad Brush Stylus]\n\n[10 seconds] CONCLUSION\nGracias por verlo. Da like y encuentra los links en el primer comentario.\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:20\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, para, pintores, amazon\n"
+}

@@ -1,0 +1,451 @@
+{
+  "title": "Top 3 Gadgets Increíbles para Ciclistas",
+  "hook": {
+    "type": "statement",
+    "text": "Casco inteligente con señales. Protección sonora completa. Radar trasero que alerta.",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "Todo está en el primer comentario. Vamos.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "25s-30s"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Coros SafeSound Casco",
+        "productId": "B0B1RW72FR",
+        "productName": "Coros SafeSound Casco",
+        "filename": "B0B1RW72FR.mp4",
+        "asin": "B0B1RW72FR",
+        "clipDuration": 60.06,
+        "estimatedAudioSeconds": 27,
+        "framework": "enfoque_caracteristica",
+        "narracionSegments": null,
+        "content": [
+          "Diseñado con un enfoque en el sonido envolvente, el Coros SafeSound Casco te ofrece una experiencia auditiva única mientras pedaleas. Este casco no solo protege tu cabeza sino que también mejora tu sentido del entorno mediante su avanzada tecnología de audio. Ideal para ciclistas que quieren combinar seguridad y funcionalidad al máximo nivel.",
+          "Su precio actual en Amazon ronda los... 120 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Coros SafeSound Casco"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0B1RW72FR_combined.mp4",
+        "precio": "$120",
+        "productPhoto": "https://m.media-amazon.com/images/I/614al8rBflL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": []
+      },
+      {
+        "type": "content",
+        "title": "Garmin Varia RTL515 Radar",
+        "productId": "B09TRSZY9W",
+        "productName": "Garmin Varia RTL515 Radar",
+        "filename": "B09TRSZY9W.mp4",
+        "asin": "B09TRSZY9W",
+        "clipDuration": 60.03,
+        "estimatedAudioSeconds": 32,
+        "framework": "beneficio_oculto",
+        "narracionSegments": null,
+        "content": [
+          "Un beneficio oculto del Garmin Varia RTL515 Radar es su doble función como luz trasera y radar que detecta vehículos hasta un rango de 140 metros, integrándose con app móvil para alertas visuales y sonoras. Te permite pedalear con confianza al tener siempre conocimiento de lo que sucede detrás, mejorando dramáticamente la seguridad vial.",
+          "Su precio actual en Amazon ronda los... 150 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Garmin Varia RTL515 Radar"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B09TRSZY9W_combined.mp4",
+        "precio": "$150",
+        "productPhoto": "https://m.media-amazon.com/images/I/61pEuuPclHL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B09TRSZY9W\\scenes_v1\\B09TRSZY9W_scene_01.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Radar trasero",
+            "raw": "9|Radar trasero"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B09TRSZY9W\\scenes_v1\\B09TRSZY9W_scene_02.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B09TRSZY9W\\scenes_v1\\B09TRSZY9W_scene_06.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Radar visible",
+            "raw": "9|Radar visible"
+          }
+        ],
+        "features": [
+          "EN LA CAJA: 1 x Garmin Varia RTL515, Radar de visión trasera para ciclismo, 1x Kit de montaje, 1x Cables, 1 x Wearable4U E-Bank",
+          "Radar de retroceso con luz trasera proporciona conciencia de vehículos que se acercan por detrás hasta 153 yards (140 metros) de distancia. Se empareja sin problemas con tu computadora de bicicleta Edge y smartphone compatible, así como con ciertos dispositivos portátiles Garmin o la unidad de visualización del radar.",
+          "Cuando se utiliza con tu smartphone compatible, la aplicación Varia proporciona gráficos — además de alertas de tono y vibración — que indican la aproximación de coches. Cuando se usa con un smartphone compatible, el radar Varia se integra con aplicaciones de terceros como Ride with GPS para superponer tus mapas con alertas de radar trasero. El modo Peloton proporciona un destello de luz de baja intensidad que es perfecto para ciclar en grupos.",
+          "La visibilidad diurna de hasta 1 mile alerta a los automovilistas de tu presencia lo antes posible. Su diseño vertical compacto se monta fácilmente en la mayoría de las bicicletas de uso en carretera. Duración de la batería: hasta 16 horas en modo de destello diurno, hasta 6 horas en modo sólido.",
+          "\"\"\"WEARABLE4U E-BANK: 2200 mAh. Mantén tus relojes cargados en todo momento con nuestro dispositivo Wearable4U (¡mantiene al menos una carga!)\"\"\""
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Lumos Smart Bicycle Helmet",
+        "productId": "B0CNPQKVC9",
+        "productName": "Lumos Smart Bicycle Helmet",
+        "filename": "B0CNPQKVC9.mp4",
+        "asin": "B0CNPQKVC9",
+        "clipDuration": 60.03,
+        "estimatedAudioSeconds": 38,
+        "framework": "comparacion_precio",
+        "narracionSegments": null,
+        "content": [
+          "-Comparando- con otros cascos inteligentes, Lumos Smart Bicycle Helmet destaca por sus señales de giro LED y sistema MIPS para protección avanzada contra impactos rotacionales. Integra control remoto y aplicación móvil, haciéndolo uno de los cascos más seguros y tecnológicos del mercado.",
+          "-Comparado- al precio promedio, a tan solo... 230 dólares lo vale totalmente por su seguridad superior. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Lumos Smart Bicycle Helmet"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0CNPQKVC9_combined.mp4",
+        "precio": "$230",
+        "productPhoto": "https://m.media-amazon.com/images/I/71Kw7j3yr+L.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CNPQKVC9\\scenes_v1\\B0CNPQKVC9_scene_03.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "casco inteligente",
+            "raw": "9|casco inteligente"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CNPQKVC9\\scenes_v1\\B0CNPQKVC9_scene_01.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "casco inteligente",
+            "raw": "9|casco inteligente"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CNPQKVC9\\scenes_v1\\B0CNPQKVC9_scene_17.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CNPQKVC9\\scenes_v1\\B0CNPQKVC9_scene_57.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CNPQKVC9\\scenes_v1\\B0CNPQKVC9_scene_66.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CNPQKVC9\\scenes_v1\\B0CNPQKVC9_scene_68.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción casco",
+            "raw": "9|interacción casco"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CNPQKVC9\\scenes_v1\\B0CNPQKVC9_scene_98.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CNPQKVC9\\scenes_v1\\B0CNPQKVC9_scene_103.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CNPQKVC9\\scenes_v1\\B0CNPQKVC9_scene_105.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CNPQKVC9\\scenes_v1\\B0CNPQKVC9_scene_02.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "producto parcial",
+            "raw": "5|producto parcial"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CNPQKVC9\\scenes_v1\\B0CNPQKVC9_scene_11.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "producto pequeño",
+            "raw": "5|producto pequeño"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CNPQKVC9\\scenes_v1\\B0CNPQKVC9_scene_12.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "producto pequeño",
+            "raw": "5|producto pequeño"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CNPQKVC9\\scenes_v1\\B0CNPQKVC9_scene_13.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "producto pequeño",
+            "raw": "5|producto pequeño"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CNPQKVC9\\scenes_v1\\B0CNPQKVC9_scene_16.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "producto pequeño",
+            "raw": "5|producto pequeño"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CNPQKVC9\\scenes_v1\\B0CNPQKVC9_scene_18.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "producto pequeño",
+            "raw": "5|producto pequeño"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CNPQKVC9\\scenes_v1\\B0CNPQKVC9_scene_20.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "producto pequeño",
+            "raw": "5|producto pequeño"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CNPQKVC9\\scenes_v1\\B0CNPQKVC9_scene_29.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "producto pequeño",
+            "raw": "5|producto pequeño"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CNPQKVC9\\scenes_v1\\B0CNPQKVC9_scene_32.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "producto pequeño",
+            "raw": "5|producto pequeño"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CNPQKVC9\\scenes_v1\\B0CNPQKVC9_scene_34.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "producto pequeño",
+            "raw": "5|producto pequeño"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CNPQKVC9\\scenes_v1\\B0CNPQKVC9_scene_37.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "producto pequeño",
+            "raw": "5|producto pequeño"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CNPQKVC9\\scenes_v1\\B0CNPQKVC9_scene_40.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "cargando dispositivo",
+            "raw": "5|cargando dispositivo"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CNPQKVC9\\scenes_v1\\B0CNPQKVC9_scene_43.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "producto pequeño",
+            "raw": "5|producto pequeño"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CNPQKVC9\\scenes_v1\\B0CNPQKVC9_scene_47.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "producto pequeño",
+            "raw": "5|producto pequeño"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CNPQKVC9\\scenes_v1\\B0CNPQKVC9_scene_48.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "producto pequeño",
+            "raw": "5|producto pequeño"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CNPQKVC9\\scenes_v1\\B0CNPQKVC9_scene_49.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "producto pequeño",
+            "raw": "5|producto pequeño"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CNPQKVC9\\scenes_v1\\B0CNPQKVC9_scene_58.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "producto pequeño",
+            "raw": "5|producto pequeño"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CNPQKVC9\\scenes_v1\\B0CNPQKVC9_scene_70.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "producto pequeño",
+            "raw": "5|producto pequeño"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CNPQKVC9\\scenes_v1\\B0CNPQKVC9_scene_74.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "interior casco",
+            "raw": "5|interior casco"
+          }
+        ],
+        "features": [
+          "Eleva tu experiencia en ciclismo: Lumos Ultra E-Bike es un casco inteligente diseñado para priorizar la seguridad, la tecnología y el estilo en tus aventuras de ciclismo en carretera y e-biking.",
+          "Mantente visible y comunica sin esfuerzo: El casco cuenta con señales de giro para bicicleta integradas, controladas por un control remoto montado en el manillar, para una mayor seguridad y una experiencia de comunicación fluida. Personaliza los patrones de LED, el brillo y el seguimiento de tu recorrido utilizando la aplicación Lumos.",
+          "\"\"\"Seguridad avanzada con MIPS: El casco viene con el Sistema de Protección contra Impactos Multidireccionales (MIPS) para una seguridad avanzada que ayuda a absorber la fuerza de impacto rotacional durante tus paseos y desplazamientos. También cumple con el Estándar de Seguridad CPSC de EE. UU. para Cascos de Bicicleta para Personas de 5 Años en Adelante.\"\"\"",
+          "Regalo perfecto para los entusiastas del ciclismo: La Lumos Ultra E-Bike es un regalo considerado y práctico para los ciclistas apasionados que valoran la tecnología, la seguridad y el diseño en su equipo de ciclismo.",
+          "Ajuste cómodo y versátil: El casco se adapta a varios tamaños de cabeza, desde 21-1/4\" hasta 24\" (54cm a 61cm), asegurando un ajuste ceñido y cómodo para tus aventuras de commuting, ciclismo de carretera o e-biking."
+        ]
+      }
+    ],
+    "totalDuration": 120
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "-Dale- like si te gustó y recuerda que los links están en el primer comentario."
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "2:28",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "increbles",
+    "para",
+    "ciclistas"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 3 Gadgets Increíbles para Ciclistas",
+      "angle": "Top 3 Gadgets Increíbles para Ciclistas",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 3,
+      "introScript": "¿Un dispositivo que convierte tu casco en un centro de llamadas manos libres? ¿Una luz inteligente que se adapta a la velocidad de tu bicicleta? Hoy te presento tres gadgets innovadores que transformarán tus paseos en bicicleta y que puedes encontrar ahora mismo en Amazon.",
+      "keywords": [
+        "gadgets",
+        "increbles",
+        "para",
+        "ciclistas"
+      ],
+      "estimatedViews": 4380,
+      "bestPublishTime": "2026-07-03T20:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Coros SafeSound Casco",
+          "searchTermEn": "Coros SafeSound Helmet",
+          "id": "B0B1RW72FR",
+          "filename": "B0B1RW72FR.mp4"
+        },
+        {
+          "nombre": "Garmin Varia RTL515 Radar",
+          "searchTermEn": "Garmin Varia RTL515",
+          "id": "B09TRSZY9W",
+          "filename": "B09TRSZY9W.mp4"
+        },
+        {
+          "nombre": "Lumos Smart Bicycle Helmet",
+          "searchTermEn": "Lumos Smart Helmet",
+          "id": "B0CNPQKVC9",
+          "filename": "B0CNPQKVC9.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-06-30T21:09:29.596Z",
+      "_requestedCount": 3,
+      "_adaptedCount": 3,
+      "introProductsOrder": [
+        {
+          "nombre": "Lumos Smart Bicycle Helmet",
+          "id": "B0CNPQKVC9",
+          "filename": "B0CNPQKVC9_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0CNPQKVC9_combined.mp4"
+        },
+        {
+          "nombre": "Coros SafeSound Casco",
+          "id": "B0B1RW72FR",
+          "filename": "B0B1RW72FR_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0B1RW72FR_combined.mp4"
+        },
+        {
+          "nombre": "Garmin Varia RTL515 Radar",
+          "id": "B09TRSZY9W",
+          "filename": "B09TRSZY9W_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B09TRSZY9W_combined.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1782854757040_cxn3lz"
+    },
+    "generatedAt": "2026-06-30T21:26:34.774Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Coros SafeSound Casco",
+        "searchTermEn": "Coros SafeSound Helmet",
+        "id": "B0B1RW72FR",
+        "filename": "B0B1RW72FR.mp4"
+      },
+      {
+        "nombre": "Garmin Varia RTL515 Radar",
+        "searchTermEn": "Garmin Varia RTL515",
+        "id": "B09TRSZY9W",
+        "filename": "B09TRSZY9W.mp4"
+      },
+      {
+        "nombre": "Lumos Smart Bicycle Helmet",
+        "searchTermEn": "Lumos Smart Helmet",
+        "id": "B0CNPQKVC9",
+        "filename": "B0CNPQKVC9.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 3 Gadgets Increíbles para Ciclistas\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\nCasco inteligente con señales. Protección sonora completa. Radar trasero que alerta.\n\n[25s-30s] INTRODUCTION\nTodo está en el primer comentario. Vamos.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] COROS SAFESOUND CASCO\nDiseñado con un enfoque en el sonido envolvente, el Coros SafeSound Casco te ofrece una experiencia auditiva única mientras pedaleas. Este casco no solo protege tu cabeza sino que también mejora tu sentido del entorno mediante su avanzada tecnología de audio. Ideal para ciclistas que quieren combinar seguridad y funcionalidad al máximo nivel.\nSu precio actual en Amazon ronda los... 120 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Coros SafeSound Casco]\n\n[0:25] GARMIN VARIA RTL515 RADAR\nUn beneficio oculto del Garmin Varia RTL515 Radar es su doble función como luz trasera y radar que detecta vehículos hasta un rango de 140 metros, integrándose con app móvil para alertas visuales y sonoras. Te permite pedalear con confianza al tener siempre conocimiento de lo que sucede detrás, mejorando dramáticamente la seguridad vial.\nSu precio actual en Amazon ronda los... 150 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Garmin Varia RTL515 Radar]\n\n[0:25] LUMOS SMART BICYCLE HELMET\n-Comparando- con otros cascos inteligentes, Lumos Smart Bicycle Helmet destaca por sus señales de giro LED y sistema MIPS para protección avanzada contra impactos rotacionales. Integra control remoto y aplicación móvil, haciéndolo uno de los cascos más seguros y tecnológicos del mercado.\n-Comparado- al precio promedio, a tan solo... 230 dólares lo vale totalmente por su seguridad superior. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Lumos Smart Bicycle Helmet]\n\n[10 seconds] CONCLUSION\n-Dale- like si te gustó y recuerda que los links están en el primer comentario.\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 2:28\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, increbles, para, ciclistas\n"
+}

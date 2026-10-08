@@ -1,0 +1,1466 @@
+{
+  "title": "Top 15 Máquinas Esenciales para tu Finca en Amazon",
+  "hook": {
+    "type": "statement",
+    "text": "Generador con múltiples salidas. Mini motosierra portátil. Esparcidor ajustable. Triturador de alta potencia. Desbrozadora ligera y versátil.",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "¿Cuál querrías tú? Los links están en el primer comentario.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0:10-0:15"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Greenworks Cortacésped",
+        "productId": "B086K59Q79",
+        "productName": "Greenworks Cortacésped",
+        "filename": "B086K59Q79.mp4",
+        "asin": "B086K59Q79",
+        "clipDuration": 60.06,
+        "estimatedAudioSeconds": 54,
+        "framework": "comparacion_precio",
+        "narracionSegments": null,
+        "content": [
+          "Encontrar un cortacésped ligero y eficiente no es fácil. El Greenworks Cortacésped soluciona esto con su diseño ultraligero, siendo un 35% más liviano que otros. Así puedes cortar hasta un tercio de acre con batería completa.",
+          "Su precio actual en Amazon ronda los... 240 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Greenworks Cortacésped"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B086K59Q79_combined.mp4",
+        "precio": "$240",
+        "productPhoto": "https://m.media-amazon.com/images/I/71wkcQmcgML.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "[16\" LAWN MOWER] - This 40V lawn mower cuts up to 1/3 acre with fully charged 4.0Ah battery (varies based on grass condition and operator technique)",
+          "[ULTRA LIGHTWEIGHT] - 35% lighter than steel deck mowers",
+          "[SINGLE LEVER HEIGHT ADJUST] - 5 position height adjustment",
+          "[2-IN-1 SYSTEM] - Mulch and rear bagging",
+          "[MAINTENANCE FREE] - The walk behind lawn mower is virtually maintenance free, with no gas, no oil, and no emissions. It starts instantly, is quiet, and delivers the power you need"
+        ]
+      },
+      {
+        "type": "content",
+        "title": "WORX Cultivador y Aireador",
+        "productId": "B0CT7LYWJ8",
+        "productName": "WORX Cultivador y Aireador",
+        "filename": "B0CT7LYWJ8.mp4",
+        "asin": "B0CT7LYWJ8",
+        "clipDuration": 60.03,
+        "estimatedAudioSeconds": 51,
+        "framework": "dato_numerico",
+        "narracionSegments": null,
+        "content": [
+          "Con una velocidad máxima de 360 RPM, el WORX Cultivador cultiva rápidamente áreas hasta de nueve pulgadas de ancho y seis de profundidad. Ideal para preparar el suelo y airear jardines.",
+          "Su precio actual en Amazon ronda los... 110 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: WORX Cultivador y Aireador"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0CT7LYWJ8_combined.mp4",
+        "precio": "$110",
+        "productPhoto": "https://m.media-amazon.com/images/I/71+LKW+ZidL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CT7LYWJ8\\scenes_v1\\B0CT7LYWJ8_scene_02.mp4",
+            "type": "video",
+            "score": 10,
+            "tag": "interacción real",
+            "raw": "10|interacción real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CT7LYWJ8\\scenes_v1\\B0CT7LYWJ8_scene_11.mp4",
+            "type": "video",
+            "score": 10,
+            "tag": "tiller en acción",
+            "raw": "10|tiller en acción"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CT7LYWJ8\\scenes_v1\\B0CT7LYWJ8_scene_12.mp4",
+            "type": "video",
+            "score": 10,
+            "tag": "interacción real",
+            "raw": "10|interacción real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CT7LYWJ8\\scenes_v1\\B0CT7LYWJ8_scene_14.mp4",
+            "type": "video",
+            "score": 10,
+            "tag": "cultivador eléctrico",
+            "raw": "10|cultivador eléctrico"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CT7LYWJ8\\scenes_v1\\B0CT7LYWJ8_scene_03.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CT7LYWJ8\\scenes_v1\\B0CT7LYWJ8_scene_04.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "manejando cultivador",
+            "raw": "9|manejando cultivador"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CT7LYWJ8\\scenes_v1\\B0CT7LYWJ8_scene_05.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "mango ajustable",
+            "raw": "9|mango ajustable"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CT7LYWJ8\\scenes_v1\\B0CT7LYWJ8_scene_06.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "cultivador eléctrico",
+            "raw": "9|cultivador eléctrico"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CT7LYWJ8\\scenes_v1\\B0CT7LYWJ8_scene_07.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "cultivador eléctrico",
+            "raw": "9|cultivador eléctrico"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CT7LYWJ8\\scenes_v1\\B0CT7LYWJ8_scene_08.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "tiller eléctrico",
+            "raw": "9|tiller eléctrico"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CT7LYWJ8\\scenes_v1\\B0CT7LYWJ8_scene_09.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CT7LYWJ8\\scenes_v1\\B0CT7LYWJ8_scene_10.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "tiller en acción",
+            "raw": "9|tiller en acción"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CT7LYWJ8\\scenes_v1\\B0CT7LYWJ8_scene_13.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "cultivador eléctrico",
+            "raw": "9|cultivador eléctrico"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CT7LYWJ8\\scenes_v1\\B0CT7LYWJ8_scene_15.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "tiller en acción",
+            "raw": "9|tiller en acción"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CT7LYWJ8\\scenes_v1\\B0CT7LYWJ8_scene_16.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "cultivador eléctrico",
+            "raw": "9|cultivador eléctrico"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CT7LYWJ8\\scenes_v1\\B0CT7LYWJ8_scene_17.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción jardín",
+            "raw": "9|interacción jardín"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CT7LYWJ8\\scenes_v1\\B0CT7LYWJ8_scene_18.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "cultivador eléctrico",
+            "raw": "9|cultivador eléctrico"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CT7LYWJ8\\scenes_v1\\B0CT7LYWJ8_scene_01.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Cultivador eléctrico",
+            "raw": "8|Cultivador eléctrico"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0CT7LYWJ8\\scenes_v1\\B0CT7LYWJ8_scene_19.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "producto borroso",
+            "raw": "5|producto borroso"
+          }
+        ],
+        "features": [
+          "【CORDLESS CONVENIENCE】Are you annoyed that a power outlet isn't always near work? Don't worry. The Alloyman electric tiller adopts a cordless design, without the hassle of tangled cords and limited mobility, you can experience the freedom of working anytime and anywhere. It is perfect for getting into hard-to-reach places, and greater flexibility in small spaces, gardens and outdoor environments.",
+          "【POWERFUL & EFFICIENT】The tiller cultivator is equipped with 4 durable steel tines and operates at speeds up to 360RPM, which can cultivate areas up to 9in wide and up to 6in deep in seconds. Whether you're preparing soil for planting or aerating your lawn, this garden tiller gets the job done quickly and easily.",
+          "【COMFORTABLE ERGONOMIC DESIGN】This garden tools is very lightweight, easy to operate and carry. The auxiliary handle of the electric mini tiller can be adjusted to a suitable position according to needs. Features an ergonomic handle to reduce fatigue during use. This user-friendly, versatile design makes gardening a piece of cake for gardening enthusiasts of every age!",
+          "【SAFETY DESIGN】In order to ensure users' maximum safety, the ALLOYMAN hand tiller for gardening comes with a safety switch. Only with the simultaneous press of the safety button & trigger of the cultivator, the tiller for gardening could be activated to apply. It ensures that you and your loved ones are always safe from danger. You can use it with peace of mind.",
+          "【2*20V RECHARGEABLE BATTERY】The powerful Li-ion with overload and temperature protection can provide a longer lifespan and make your work more efficient and convenient. A single battery lasts for 45 minutes, two batteries can be used interchangeably, reducing waiting time for your farming."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Rain Bird Control de Riego",
+        "productId": "B0B1NZ2WF4",
+        "productName": "Rain Bird Control de Riego",
+        "filename": "B0B1NZ2WF4.mp4",
+        "asin": "B0B1NZ2WF4",
+        "clipDuration": 60.03,
+        "estimatedAudioSeconds": null,
+        "framework": "experiencia_sensorial",
+        "narracionSegments": null,
+        "content": [
+          "\"Siente\" cómo personalizas cada gota usando tu móvil con Rain Bird Control de Riego: ajusta desde cualquier lugar sin moverte del sofá.",
+          "\"Su precio actual en Amazon ronda los... 99 dólares. ¡Link en el primer comentario!\""
+        ],
+        "visuals": [
+          "Product image: Rain Bird Control de Riego"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0B1NZ2WF4_combined.mp4",
+        "precio": "$99",
+        "productPhoto": "https://m.media-amazon.com/images/I/71ZeJzK90WL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0B1NZ2WF4\\scenes_v1\\B0B1NZ2WF4_scene_04.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Controlador riego",
+            "raw": "9|Controlador riego"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0B1NZ2WF4\\scenes_v1\\B0B1NZ2WF4_scene_01.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Interacción controladora",
+            "raw": "9|Interacción controladora"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0B1NZ2WF4\\scenes_v1\\B0B1NZ2WF4_scene_05.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Aplicación controladora",
+            "raw": "9|Aplicación controladora"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0B1NZ2WF4\\scenes_v1\\B0B1NZ2WF4_scene_06.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Interacción instalación",
+            "raw": "9|Interacción instalación"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0B1NZ2WF4\\scenes_v1\\B0B1NZ2WF4_scene_08.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Controlador riego",
+            "raw": "9|Controlador riego"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0B1NZ2WF4\\scenes_v1\\B0B1NZ2WF4_scene_09.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Controlador riego",
+            "raw": "9|Controlador riego"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0B1NZ2WF4\\scenes_v1\\B0B1NZ2WF4_scene_10.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Controlador riego",
+            "raw": "8|Controlador riego"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0B1NZ2WF4\\scenes_v1\\B0B1NZ2WF4_scene_07.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "conexiones eléctricas",
+            "raw": "5|conexiones eléctricas"
+          }
+        ],
+        "features": [
+          "Indoor/Outdoor WiFi sprinkler timer puts control of your sprinkler system in the palm of your hand with intuitive Rain Bird mobile app",
+          "Use mobile device to set, monitor, or adjust schedules anywhere in the world; easily share control with family members, landscaping/maintenance professionals",
+          "Activate any schedule, delay watering, view upcoming watering schedules, manual watering, even check your local weather forecast",
+          "Automatically skips or adjusts daily watering for a postal code based on local weather forecast and historic averages for up to 30% water-savings",
+          "Compatible with Amazon Alexa, Google Assistant, Apple iOS 8 or greater, and Android 6.0 (Marshmallow) or later"
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Ryobi Sierra de Cadena",
+        "productId": "B0FLDGFDB6",
+        "productName": "Ryobi Sierra de Cadena",
+        "filename": "B0FLDGFDB6.mp4",
+        "asin": "B0FLDGFDB6",
+        "clipDuration": 60.03,
+        "estimatedAudioSeconds": 41,
+        "framework": "problema_solucion",
+        "narracionSegments": null,
+        "content": [
+          "La Ryobi Sierra de Cadena combina dos guías intercambiables de 6 y 8 pulgadas, ideal para cortar leña y podar árboles. Su motor sin escobillas de 1000W proporciona un 30% más de potencia que los motores estándar, siendo ligera y fácil de manejar, perfecta para jardines y proyectos DIY.",
+          "Su precio actual en Amazon ronda los 137 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Ryobi Sierra de Cadena"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0FLDGFDB6_combined.mp4",
+        "precio": "$137",
+        "productPhoto": "https://m.media-amazon.com/images/I/7114Tk1blaL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FLDGFDB6\\scenes_v1\\B0FLDGFDB6_scene_01.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "mini motosierra",
+            "raw": "9|mini motosierra"
+          }
+        ],
+        "features": [
+          "[2-in-1 Design: 8\" & 6\" Guide Bar] – This Supstable mini chainsaw comes with two interchangeable guide bars (6-inch and 8-inch), allowing you to switch sizes easily according to your cutting needs. With just one compact mini chainsaw, you get the versatility of two sizes. Perfect for firewood cutting, tree pruning, and branch trimming, making it a must-have tool for your garden and outdoor tasks",
+          "[Powerful 1000W Brushless Motor] – This Supstable mini chainsaw is equipped with a high-performance 1000W brushless motor, delivering maximum cutting power for effortless wood cutting, tree pruning, and branch trimming. Compared to standard motors, it provides 30% more power, reduces friction, lowers heat, and ensures long-lasting durability. Perfect for garden tasks, firewood cutting, and DIY projects, this cordless chainsaw combines power, efficiency, and reliability in one compact tool",
+          "[Portable & Women-Friendly Mini Chainsaw] – The Supstable battery-powered mini chainsaw is slim, lightweight, and easy to handle, weighing only 3.2 lbs – just 18% of a bulky gas chainsaw. Its ergonomic design makes it perfect for women, seniors, and beginners, allowing comfortable garden trimming, tree pruning, and branch cutting without fatigue. Unlike full-sized chainsaws, there’s no heavy cord or gas engine to manage, making this cordless mini chainsaw ideal for quick and precise cutting anywhere",
+          "[Long-Lasting Battery & Fast Charging] – Equipped with 2×2000mAh rechargeable batteries, this Supstable cordless mini chainsaw provides up to 60 minutes of continuous runtime. Perfect for extended garden trimming, wood cutting, branch pruning, and outdoor projects, it ensures you can work without frequent recharging. The fast-charging design keeps your portable chainsaw ready for efficient and uninterrupted cutting, making it ideal for both home and outdoor use",
+          "[Complete Safety Protection for Peace of Mind] – The Supstable mini chainsaw comes with a safety lock, wood debris baffle, non-slip auxiliary handle, gloves, and protective goggles, providing full protection for beginners and experienced users alike. Ideal for family use, rental properties, schools, community gardens, and DIY outdoor projects, you can prune trees, cut branches, and trim wood confidently knowing your safety is fully covered"
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Black+Decker Desbrozadora",
+        "productId": "B077Z78YQX",
+        "productName": "Black+Decker Desbrozadora",
+        "filename": "B077Z78YQX.mp4",
+        "asin": "B077Z78YQX",
+        "clipDuration": 60.03,
+        "estimatedAudioSeconds": 31,
+        "framework": "enfoque_caracteristica",
+        "narracionSegments": null,
+        "content": [
+          "La Black+Decker Desbrozadora es una herramienta 2 en 1 que se convierte fácilmente de desbrozadora a bordeadora con guía de ruedas. Su motor de 6.5 amperios y tecnología POWERDRIVE garantizan un rendimiento óptimo en hierba densa y maleza.",
+          "Su precio actual en Amazon ronda los 49 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Black+Decker Desbrozadora"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B077Z78YQX_combined.mp4",
+        "precio": "$49",
+        "productPhoto": "https://m.media-amazon.com/images/I/51M51iZpjRL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B077Z78YQX\\scenes_v1\\B077Z78YQX_scene_01.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Trimmer Edger",
+            "raw": "9|Trimmer Edger"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B077Z78YQX\\scenes_v1\\B077Z78YQX_scene_03.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Trimmer Edger",
+            "raw": "9|Trimmer Edger"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B077Z78YQX\\scenes_v1\\B077Z78YQX_scene_02.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "trimmer edger",
+            "raw": "9|trimmer edger"
+          }
+        ],
+        "features": [
+          "2 in1 Trimmer Edger with wheeled edge guide - just rotate to convert from trimmer to wheeled edger",
+          "Weedeater edge trimmer features Automatic feed spool technology which eliminates bumping for hassle-free line feeding that helps you work without interruptions",
+          "The 6.5 amp motor and POWERDRIVE Transmissionon the grass trimmer provide maximum performance when trimming through the toughest weeds, grass, and overgrowth",
+          "Lightweight design with adjustable handle and height positions provide maximum comfort and control",
+          "Cord retention system on electric string trimmer prevents accidental cord disconnection"
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Ariens Soplador de Nieve",
+        "productId": "B0FSRQWKDF",
+        "productName": "Ariens Soplador de Nieve",
+        "filename": "B0FSRQWKDF.mp4",
+        "asin": "B0FSRQWKDF",
+        "clipDuration": 60.03,
+        "estimatedAudioSeconds": 33,
+        "framework": "beneficio_oculto",
+        "narracionSegments": null,
+        "content": [
+          "El Ariens Soplador de Nieve cuenta con una cubierta duradera hecha de tela Oxford 600D, resistente al agua y desgarros, protegiendo su maquinaria durante climas extremos como nieve pesada, lluvia y viento fuerte.",
+          "Su precio actual en Amazon ronda los 2099 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Ariens Soplador de Nieve"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0FSRQWKDF_combined.mp4",
+        "precio": "$2099",
+        "productPhoto": "https://m.media-amazon.com/images/I/811SZzco6ML.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FSRQWKDF\\scenes_v1\\B0FSRQWKDF_scene_05.mp4",
+            "type": "video",
+            "score": 10,
+            "tag": "interacción real",
+            "raw": "10|interacción real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FSRQWKDF\\scenes_v1\\B0FSRQWKDF_scene_03.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "cubierta resistente",
+            "raw": "9|cubierta resistente"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FSRQWKDF\\scenes_v1\\B0FSRQWKDF_scene_02.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción cubierta",
+            "raw": "9|interacción cubierta"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FSRQWKDF\\scenes_v1\\B0FSRQWKDF_scene_04.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FSRQWKDF\\scenes_v1\\B0FSRQWKDF_scene_01.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Cubierta nieve",
+            "raw": "8|Cubierta nieve"
+          }
+        ],
+        "features": [
+          "600D Oxford Cloth & Black PU Coating",
+          "【HEAVY-DUTY 600D OXFORD CLOTH & PU COATING】- Unlike with PVC covers on Amazon, Oumee snowblower covers are made of high-density 600D Oxford cloth with 2 layers of Black PU Coating - waterproof, resistant to UV rays, durable, and anti-tearing. Excellent performance in withstanding extreme weather such as heavy snow, rain, and wind.",
+          "【UNIVERSAL SIZE & PERFECT FIT】- The snow blower cover is 60\" L (side) x 33\" W (front) x 45\" H, it's large enough to fit for most single-stage/2-stage GAS/ELECTRIC snow blowers for 24in/26in/28in, such as Ego, Snow Joe, Honda, Craftsman, Ariens, Husqvarna, Ryobi, Cub Cadet, Snow Joe, Toro, PowerSmart,Troy Bilt, and more.（Please check your snow blower size before purchasing!)",
+          "【EASY TO INSTALL & TAKE OFF】- We thoughtfully designed Reflective Strips on the front of the snowblower cover, clear markings help you install or remove in seconds. And two handles on the handle to facilitate taking it off when needed to use.",
+          "【REINFORCED WINDPROOF TREATMENT]】- The bottom adopts elastic shrink design to ensure it fits tightly against the machine, and adjustable buckles on both sides help secure the snowblower cover, preventing the cover from being blown away by strong winds or heavy snowfall."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Chapman Esparcidor de Abono",
+        "productId": "B0FTMLFC5H",
+        "productName": "Chapman Esparcidor de Abono",
+        "filename": "B0FTMLFC5H.mp4",
+        "asin": "B0FTMLFC5H",
+        "clipDuration": 60.03,
+        "estimatedAudioSeconds": 30,
+        "framework": "comparacion_precio",
+        "narracionSegments": null,
+        "content": [
+          "El Chapman Esparcidor es perfecto para jardines pequeños con su capacidad de 25 lb. Permite ajustar el flujo para una dispersión precisa, asegurando comodidad gracias a su correa acolchada.",
+          "Su precio actual en Amazon ronda los 38 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Chapman Esparcidor de Abono"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0FTMLFC5H_combined.mp4",
+        "precio": "$38",
+        "productPhoto": "https://m.media-amazon.com/images/I/71Px7BaHjtL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FTMLFC5H\\scenes_v1\\B0FTMLFC5H_scene_01.mp4",
+            "type": "video",
+            "score": 10,
+            "tag": "interacción real",
+            "raw": "10|interacción real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FTMLFC5H\\scenes_v1\\B0FTMLFC5H_scene_08.mp4",
+            "type": "video",
+            "score": 10,
+            "tag": "esparcidor jardín",
+            "raw": "10|esparcidor jardín"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FTMLFC5H\\scenes_v1\\B0FTMLFC5H_scene_09.mp4",
+            "type": "video",
+            "score": 10,
+            "tag": "esparcidor jardín",
+            "raw": "10|esparcidor jardín"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FTMLFC5H\\scenes_v1\\B0FTMLFC5H_scene_05.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FTMLFC5H\\scenes_v1\\B0FTMLFC5H_scene_06.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FTMLFC5H\\scenes_v1\\B0FTMLFC5H_scene_07.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "esparcidor Chapin",
+            "raw": "8|esparcidor Chapin"
+          }
+        ],
+        "features": [
+          "Chapin Garden Spreader: Designed for all your residential lawn and garden seed, pest control and fertilizer spreader needs, this 25 lb. spreader is suitable for small areas and hard to reach places",
+          "How to Use and Convenience: Easily adjust the gate for different materials and control the flow rate for precise spreading. The rear baffle keeps product off your clothes and legs for a cleaner, more comfortable experience",
+          "Comfort and Control: The padded shoulder strap makes carrying easy, even in tight spaces, while simple gate and flow adjustments give you precise control over spreading",
+          "Durable Components: This all-round spreader is waterproof and built to last, with heavy-duty materials and enclosed gears. The zippered bag keeps your seed or fertilizer protected from rain and wind while you work",
+          "Chapin Warranty: This spreader is backed by Chapin's 2-year limited warranty and supported by a dedicated US-based customer service and technical help center"
+        ]
+      },
+      {
+        "type": "content",
+        "title": "DeWalt Compresor de Aire",
+        "productId": "B07H39S9JQ",
+        "productName": "DeWalt Compresor de Aire",
+        "filename": "B07H39S9JQ.mp4",
+        "asin": "B07H39S9JQ",
+        "clipDuration": 60.03,
+        "estimatedAudioSeconds": 38,
+        "framework": "dato_numerico",
+        "narracionSegments": null,
+        "content": [
+          "El DeWalt Compresor de Aire ofrece inflado a alta presión con apagado automático y tres fuentes de alimentación disponibles. Su diseño compacto incluye almacenamiento accesible y pies antideslizantes para estabilidad mientras trabajas.",
+          "Su precio actual en Amazon ronda los 130 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: DeWalt Compresor de Aire"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07H39S9JQ_combined.mp4",
+        "precio": "$130",
+        "productPhoto": "https://m.media-amazon.com/images/I/71cN2uWsNJL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07H39S9JQ\\scenes_v1\\B07H39S9JQ_scene_02.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "compresor inflador",
+            "raw": "9|compresor inflador"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07H39S9JQ\\scenes_v1\\B07H39S9JQ_scene_01.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Inflador DEWALT",
+            "raw": "9|Inflador DEWALT"
+          }
+        ],
+        "features": [
+          "High-pressure inflation mode with automatic shutoff",
+          "Three power sources for inflation on this tire air pump: 20v max battery, 12v dc, or 110v ac",
+          "Convenient onboard accessory storage. Heavy-duty rubber feet help reduce walking when in use ideal for a car pump, bike pump and digital tire inflator",
+          "Tire inflator with gauge has threaded chuck for secure connection to inflation valve. Led light helps to provide illumination. High-volume inflation and deflation modes for large items (e.g., mattresses, rafts)",
+          "3 Year Limited Warranty"
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Toro Rociador de Fertilizante",
+        "productId": "B00UER1SKK",
+        "productName": "Toro Rociador de Fertilizante",
+        "filename": "B00UER1SKK.mp4",
+        "asin": "B00UER1SKK",
+        "clipDuration": 60.03,
+        "estimatedAudioSeconds": 32,
+        "framework": "experiencia_sensorial",
+        "narracionSegments": null,
+        "content": [
+          "El Toro Rociador puede manejar hasta 20 galones por carga gracias a su tanque resistente a químicos. Se conecta fácilmente a cualquier manguera estándar, brindando un flujo constante para aplicaciones directas con control sencillo al alcance del dedo.",
+          "Su precio actual en Amazon ronda los 37 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Toro Rociador de Fertilizante"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B00UER1SKK_combined.mp4",
+        "precio": "$37",
+        "productPhoto": "https://m.media-amazon.com/images/I/61VKZvczw8L.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B00UER1SKK\\scenes_v1\\B00UER1SKK_scene_06.mp4",
+            "type": "video",
+            "score": 10,
+            "tag": "spray jardín",
+            "raw": "10|spray jardín"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B00UER1SKK\\scenes_v1\\B00UER1SKK_scene_02.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Spray en acción",
+            "raw": "9|Spray en acción"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B00UER1SKK\\scenes_v1\\B00UER1SKK_scene_04.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "spray jardín",
+            "raw": "9|spray jardín"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B00UER1SKK\\scenes_v1\\B00UER1SKK_scene_03.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción producto",
+            "raw": "9|interacción producto"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B00UER1SKK\\scenes_v1\\B00UER1SKK_scene_05.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "sprayer visible",
+            "raw": "9|sprayer visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B00UER1SKK\\scenes_v1\\B00UER1SKK_scene_07.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "rociador en acción",
+            "raw": "9|rociador en acción"
+          }
+        ],
+        "features": [
+          "Efficient chemical coverage – 32‑ounce chemical-resistant poly concentrate tank handles water-soluble pesticides and lawn chemicals, spraying up to 20 gallons per fill l",
+          "Easy hose attachment – universal fit connects to any standard garden hose, with optional chapin quick-connect accessory for fast nozzle or sprayer changes; removable fan nozzle provides a steady stream for direct applications",
+          "Simple, fingertip control – convenient on/off control lets you quickly start and stop spraying without interrupting your workflow",
+          "Safe, reliable operation – built-in anti-siphon valve prevents chemicals from flowing back into your hose and household water supply",
+          "Proudly Made in the USA: Expertly designed and manufactured in the USA with global materials, backed by Chapin’s lifetime limited warranty and supported by a dedicated US-based customer service and technical help centre"
+        ]
+      },
+      {
+        "type": "content",
+        "title": "EGO Podadora de Altura",
+        "productId": "B0CMTC4HB1",
+        "productName": "EGO Podadora de Altura",
+        "filename": "B0CMTC4HB1.mp4",
+        "asin": "B0CMTC4HB1",
+        "clipDuration": 60.06,
+        "estimatedAudioSeconds": 24,
+        "framework": "problema_solucion",
+        "narracionSegments": null,
+        "content": [
+          "La EGO Podadora de Altura cuenta con un innovador indicador LED para cortes precisos en áreas oscuras. Obtén hasta 100 cortes por carga con su batería recomendada. Su eje telescópico de fibra de carbono proporciona un alcance total de hasta 13 pies.",
+          "Su precio actual en Amazon ronda los 329 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: EGO Podadora de Altura"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0CMTC4HB1_combined.mp4",
+        "precio": "$329",
+        "productPhoto": "https://m.media-amazon.com/images/I/41OGNn6vn+L.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "LED CUT LINE INDICATOR – The first among pole saws for tree trimming to feature an LED cut line indicator for accurate cutting in dark, shaded environments",
+          "UP TO 100 CUTS PER CHARGE – This EGO pole saw delivers up to 100 cuts per charge with a recommended 2.5Ah battery (available separately); compatible with all EGO 56V ARC Lithium batteries",
+          "TELESCOPIC CARBON FIBER SHAFT - Protected by a limited lifetime warranty, the shaft extends for a total reach up to 13 feet (or up to 17 feet with EP1000 extension pole, available separately)",
+          "10-INCH BAR AND CHAIN – Featuring a ¼-inch pitch and 0.043-inch gauge chain, with chain speeds up to 20 m/s driven by a high-efficiency brushless motor",
+          "TOOL-FREE CHAIN TENSIONING – For quick, easy bar and chain adjustments; tree trimmer also includes a quick-adjust handle and shoulder strap hook"
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Husqvarna Triturador de Ramas",
+        "productId": "B0DRC4N2NS",
+        "productName": "Husqvarna Triturador de Ramas",
+        "filename": "B0DRC4N2NS.mp4",
+        "asin": "B0DRC4N2NS",
+        "clipDuration": 60.03,
+        "estimatedAudioSeconds": 26,
+        "framework": "enfoque_caracteristica",
+        "narracionSegments": null,
+        "content": [
+          "El Husqvarna Triturador de Ramas es potente, gracias a su motor de gasolina de 15hp, manejando fácilmente troncos de hasta 6 pulgadas. Incluye un arranque eléctrico mejorado y ruedas estables para facilitar su transporte.",
+          "Su precio actual en Amazon ronda los 1899 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Husqvarna Triturador de Ramas"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0DRC4N2NS_combined.mp4",
+        "precio": "$1899",
+        "productPhoto": "https://m.media-amazon.com/images/I/6169qupmJYL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DRC4N2NS\\scenes_v1\\B0DRC4N2NS_scene_01.mp4",
+            "type": "video",
+            "score": 10,
+            "tag": "interacción real",
+            "raw": "10|interacción real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DRC4N2NS\\scenes_v1\\B0DRC4N2NS_scene_03.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Trituradora madera",
+            "raw": "9|Trituradora madera"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DRC4N2NS\\scenes_v1\\B0DRC4N2NS_scene_02.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Trituradora madera",
+            "raw": "9|Trituradora madera"
+          }
+        ],
+        "features": [
+          "【POWERFUL】❶Adopts ZONSEN 459cc 15hp, 4-stroke, single cylinder, air-cooled, OHV gasoline engine,and equipped with a 12V20Ah lead-acid battery. ❷Upgraded electric start, simple and fast startup. ❸Easily handles up to 6\" diameter wood or branch. ❹Stable working,long time chipping,suitable for household,farmers,gardener and horticultural workers use.",
+          "【CONVENIENT】❶ Machine is equipped with a trailer bar for convenient transportation, 48'' wheelbase for more stability when towing. ❷ 2x rear wheels(19'') and 2x foldable front wheel(13'') make the machine travel faster and more stable.Can effortlessly move wood chippers to various areas. ❸ The front wheels can be locked to ensure straight-line movement. ❹ 360° rotary discharge chute and adjustable deflector can accurately discharge debris.",
+          "【SAFETY】❶ Emergency stop switch can be used to stop the machine quickly in case of emergency to protect the safety of the operator. ❷ When the feeding and discharge chute is open, the gasoline engine will trigger a limit switch and shut down to ensure safety during maintenance. ❸Tail lights are synchronized with the vehicle's brake and turn signals. Ensures safe driving.",
+          "【EFFICIENT】❶ The double-edge blade design makes the blades sharper. Made of A8 material, it has better corrosion resistance, high strength, and good wear resistance, stronger processing capacity and higher efficiency than ordinary wood chipper. ❷ Kevlar material belts, high strength and good toughness.Which is more wear-resistant than ordinary belts.Greatly reduce machine maintenance frequency.",
+          "【APPLICATION】❶Use for forestry, gardens, park,orchard,plantation,schools, hospitals, urban roads,landscaping, green waste recycling or other yard waste. ❷You can turn leaves, twigs, cuttings or other yard waste into decorative sawdust, coverings, or fertilizers to enrich the soil and maintain your house, land, or commercial property."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Flexzilla Manguera de Jardín",
+        "productId": "B0080JA346",
+        "productName": "Flexzilla Manguera de Jardín",
+        "filename": "B0080JA346.mp4",
+        "asin": "B0080JA346",
+        "clipDuration": 60.03,
+        "estimatedAudioSeconds": 25,
+        "framework": "beneficio_oculto",
+        "narracionSegments": null,
+        "content": [
+          "La Flexzilla Manguera es reconocida por su durabilidad y flexibilidad extrema. No se pliega bajo presión y tiene conexiones resistentes a la abrasión, haciéndola ideal para maniobrar fácilmente por el jardín.",
+          "Su precio actual en Amazon ronda los 69 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Flexzilla Manguera de Jardín"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0080JA346_combined.mp4",
+        "precio": "$69",
+        "productPhoto": "https://m.media-amazon.com/images/I/71oaJI-BG3L.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0080JA346\\scenes_v1\\B0080JA346_scene_04.mp4",
+            "type": "video",
+            "score": 10,
+            "tag": "manguera jardín",
+            "raw": "10|manguera jardín"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0080JA346\\scenes_v1\\B0080JA346_scene_07.mp4",
+            "type": "video",
+            "score": 10,
+            "tag": "manguera flexible",
+            "raw": "10|manguera flexible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0080JA346\\scenes_v1\\B0080JA346_scene_10.mp4",
+            "type": "video",
+            "score": 10,
+            "tag": "manguera jardín",
+            "raw": "10|manguera jardín"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0080JA346\\scenes_v1\\B0080JA346_scene_11.mp4",
+            "type": "video",
+            "score": 10,
+            "tag": "manguera jardín",
+            "raw": "10|manguera jardín"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0080JA346\\scenes_v1\\B0080JA346_scene_14.mp4",
+            "type": "video",
+            "score": 10,
+            "tag": "manguera verde",
+            "raw": "10|manguera verde"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0080JA346\\scenes_v1\\B0080JA346_scene_15.mp4",
+            "type": "video",
+            "score": 10,
+            "tag": "manguera jardín",
+            "raw": "10|manguera jardín"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0080JA346\\scenes_v1\\B0080JA346_scene_01.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "manguera flexible",
+            "raw": "9|manguera flexible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0080JA346\\scenes_v1\\B0080JA346_scene_06.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "manguera Flexzilla",
+            "raw": "9|manguera Flexzilla"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0080JA346\\scenes_v1\\B0080JA346_scene_05.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "manguera jardín",
+            "raw": "9|manguera jardín"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0080JA346\\scenes_v1\\B0080JA346_scene_08.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "manguera conectada",
+            "raw": "9|manguera conectada"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0080JA346\\scenes_v1\\B0080JA346_scene_09.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "manguera flexible",
+            "raw": "9|manguera flexible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0080JA346\\scenes_v1\\B0080JA346_scene_12.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "manguera flexible",
+            "raw": "9|manguera flexible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0080JA346\\scenes_v1\\B0080JA346_scene_13.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0080JA346\\scenes_v1\\B0080JA346_scene_02.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "manguera visible",
+            "raw": "8|manguera visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0080JA346\\scenes_v1\\B0080JA346_scene_03.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "manguera jardín",
+            "raw": "5|manguera jardín"
+          }
+        ],
+        "features": [
+          "AWARD-WINNING: HGTV, USA Today and Best Reviews voted Best Overall Garden Hose",
+          "EXTREMELY DURABLE - Abrasion-resistant outer cover and crush-resistant anodized aircraft aluminum fittings",
+          "PREMIUM HYBRID POLYMER - Ultra-flexible, won't kink under pressure, coils easily, and lays flat with zero memory",
+          "LIGHTWEIGHT - Lighter than traditional garden hoses making Flexzilla easier to carry and maneuver around the yard",
+          "LEAK FREE CONNECTIONS - A durable O-ring provides a long-lasting leak free connection to the spigot"
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Chapman Pulverizador de Mochila",
+        "productId": "B000UEMJ3W",
+        "productName": "Chapman Pulverizador de Mochila",
+        "filename": "B000UEMJ3W.mp4",
+        "asin": "B000UEMJ3W",
+        "clipDuration": 60.03,
+        "estimatedAudioSeconds": 24,
+        "framework": "comparacion_precio",
+        "narracionSegments": null,
+        "content": [
+          "El Chapman Pulverizador ofrece rendimiento confiable con un sistema de filtración que reduce las obstrucciones. Sus correas acolchadas y varilla extendida brindan comodidad para tareas prolongadas en el jardín.",
+          "Su precio actual en Amazon ronda los 110 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Chapman Pulverizador de Mochila"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B000UEMJ3W_combined.mp4",
+        "precio": "$110",
+        "productPhoto": "https://m.media-amazon.com/images/I/71RSTxUuK8L.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B000UEMJ3W\\scenes_v1\\B000UEMJ3W_scene_13.mp4",
+            "type": "video",
+            "score": 10,
+            "tag": "Pulverizador en uso",
+            "raw": "10|Pulverizador en uso"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B000UEMJ3W\\scenes_v1\\B000UEMJ3W_scene_01.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Pulverizador mochila",
+            "raw": "9|Pulverizador mochila"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B000UEMJ3W\\scenes_v1\\B000UEMJ3W_scene_03.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "filtración visible",
+            "raw": "9|filtración visible"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B000UEMJ3W\\scenes_v1\\B000UEMJ3W_scene_02.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B000UEMJ3W\\scenes_v1\\B000UEMJ3W_scene_04.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Rociador Chapin",
+            "raw": "9|Rociador Chapin"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B000UEMJ3W\\scenes_v1\\B000UEMJ3W_scene_07.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción usuario",
+            "raw": "9|interacción usuario"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B000UEMJ3W\\scenes_v1\\B000UEMJ3W_scene_08.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "pulverizador en uso",
+            "raw": "9|pulverizador en uso"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B000UEMJ3W\\scenes_v1\\B000UEMJ3W_scene_09.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "boquilla ajustable",
+            "raw": "9|boquilla ajustable"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B000UEMJ3W\\scenes_v1\\B000UEMJ3W_scene_10.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "boquilla rociadora",
+            "raw": "9|boquilla rociadora"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B000UEMJ3W\\scenes_v1\\B000UEMJ3W_scene_05.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Pulverizador Chapin",
+            "raw": "9|Pulverizador Chapin"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B000UEMJ3W\\scenes_v1\\B000UEMJ3W_scene_11.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Pulverizador en uso",
+            "raw": "9|Pulverizador en uso"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B000UEMJ3W\\scenes_v1\\B000UEMJ3W_scene_12.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "filtros visibles",
+            "raw": "9|filtros visibles"
+          }
+        ],
+        "features": [
+          "Designed for homeowners and professionals: save time during lawn care with a large 5.25‑inch tank opening and built‑in filter basket that helps reduce spills and catch debris for smoother pump sprayer use",
+          "Versatile spray options: handle weed control, pest treatments, and general lawn care using three included nozzles - brass adjustable, poly adjustable, and poly fan -for precise coverage across garden tasks",
+          "Reliable performance: keep spraying with fewer interruptions thanks to a 3‑stage filtration system that helps prevent clogs by capturing debris at multiple points in the sprayer",
+          "Comfort for longer jobs: reduce fatigue with padded shoulder straps, cushioned shut‑off, and a 20‑inch wand paired with a 48‑inch reinforced hose for extended reach around plants and landscaping",
+          "Proudly Made in the USA: Expertly designed and manufactured in the USA with global materials, backed by Chapin’s 1-year limited warranty and supported by a dedicated US-based customer service and technical help centre"
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Agri-Fab Remolque de Jardín",
+        "productId": "B08Q2FL7JS",
+        "productName": "Agri-Fab Remolque de Jardín",
+        "filename": "B08Q2FL7JS.mp4",
+        "asin": "B08Q2FL7JS",
+        "clipDuration": 60.03,
+        "estimatedAudioSeconds": null,
+        "framework": "dato_numerico",
+        "narracionSegments": null,
+        "content": [
+          "-Fab Remolque tiene capacidad para cargas pesadas de hasta 700 libras. Su estructura soldada es robusta con una característica giratoria que facilita el vaciado a diferentes ángulos, ideal para trabajos exigentes.",
+          ""
+        ],
+        "visuals": [
+          "Product image: Agri-Fab Remolque de Jardín"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B08Q2FL7JS_combined.mp4",
+        "precio": "$312",
+        "productPhoto": "https://m.media-amazon.com/images/I/7102N1XhOvL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B08Q2FL7JS\\scenes_v1\\B08Q2FL7JS_scene_01.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "carro de jardín",
+            "raw": "9|carro de jardín"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B08Q2FL7JS\\scenes_v1\\B08Q2FL7JS_scene_02.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "carro de jardín",
+            "raw": "9|carro de jardín"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B08Q2FL7JS\\scenes_v1\\B08Q2FL7JS_scene_08.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B08Q2FL7JS\\scenes_v1\\B08Q2FL7JS_scene_06.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B08Q2FL7JS\\scenes_v1\\B08Q2FL7JS_scene_12.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "carro de jardín",
+            "raw": "9|carro de jardín"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B08Q2FL7JS\\scenes_v1\\B08Q2FL7JS_scene_11.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "carro de jardín",
+            "raw": "9|carro de jardín"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B08Q2FL7JS\\scenes_v1\\B08Q2FL7JS_scene_05.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "producto claro",
+            "raw": "8|producto claro"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B08Q2FL7JS\\scenes_v1\\B08Q2FL7JS_scene_07.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "carro de jardín",
+            "raw": "8|carro de jardín"
+          }
+        ],
+        "features": [
+          "MADE IN USA",
+          "700-Pound load capacity for large loads.",
+          "80 degree swivel feature and 52 degree dump angle",
+          "Heavy duty welded frame features 1” square tubing and has a 12” ground clearance",
+          "Ergonomic Heavy duty latch system to easily dump the bed contents"
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Dewalt Generador a Gasolina",
+        "productId": "B07Q1DLKBG",
+        "productName": "Dewalt Generador a Gasolina",
+        "filename": "B07Q1DLKBG.mp4",
+        "asin": "B07Q1DLKBG",
+        "clipDuration": 60.03,
+        "estimatedAudioSeconds": null,
+        "framework": "experiencia_sensorial",
+        "narracionSegments": null,
+        "content": [
+          "9500 Running Watts and 12500 Peak Watts (Gasoline); 8500 Running Watts, 11200 Peak Watts (Propane); Remote Start with Included Key Fob, Electric and Recoil Start; Up to 12 Hours of",
+          "Su precio actual en Amazon ronda los... 1079 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Dewalt Generador a Gasolina"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07Q1DLKBG_combined.mp4",
+        "precio": "$1079",
+        "productPhoto": "https://m.media-amazon.com/images/I/81rOHzywMOL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07Q1DLKBG\\scenes_v1\\B07Q1DLKBG_scene_02.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07Q1DLKBG\\scenes_v1\\B07Q1DLKBG_scene_01.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "generador portátil",
+            "raw": "9|generador portátil"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07Q1DLKBG\\scenes_v1\\B07Q1DLKBG_scene_03.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funciones visibles",
+            "raw": "9|funciones visibles"
+          }
+        ],
+        "features": [
+          "9500 Running Watts and 12500 Peak Watts (Gasoline); 8500 Running Watts, 11200 Peak Watts (Propane); Remote Start with Included Key Fob, Electric and Recoil Start; Up to 12 Hours of Run Time on a 6. 6 Gallon Fuel Tank with Fuel Gauge",
+          "Features Two GFCI 120V 5–20R 20A Standard Household Receptacle, One Transfer Switch Ready 120V L14-30R 30A, and One RV Ready 120/240V 14–50R 50A; All Outlets Have Rubber Covers for Added Safety",
+          "Powered by a Heavy Duty 457cc Westinghouse 4-Stroke OHV Engine Featuring a Long-Lasting Cast Iron Sleeve with Automatic Low Oil Shutdown and Digital Hour Meter. VFT display gives you real time updates with the voltage output, frequency, and lifetime hours",
+          "Plug-and-Play: Comes with a Remote Start Key Fob, 12V Battery Charger, Oil, an Oil Funnel, a Tool Kit, and a User’s Manual to Get You Started Right Out of the Box (Minimal Assembly Required)",
+          "All Westinghouse Portable Generators are Functionally Tested in the Factory and May Contain Minimum Residual Oil and/or Fuel Odor; EPA Compliant; Backed By 3-Year Limited Service, Labor, and Parts Coverage and Nationwide Customer Service Network"
+        ]
+      }
+    ],
+    "totalDuration": 375
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      null
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "6:45",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "mquinas",
+    "esenciales",
+    "para",
+    "finca",
+    "amazon"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 15 Máquinas Esenciales para tu Finca en Amazon",
+      "angle": "Top 15 Máquinas Esenciales para tu Finca en Amazon",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 15,
+      "introScript": "¿Una máquina que planta semillas por sí sola? ¿Un dispositivo que ahorra agua al regar? Hoy te traigo las herramientas más sorprendentes para transformar tu finca. Prepárate para descubrir innovaciones que harán el trabajo duro mucho más fácil.",
+      "keywords": [
+        "mquinas",
+        "esenciales",
+        "para",
+        "finca",
+        "amazon"
+      ],
+      "estimatedViews": 5583,
+      "bestPublishTime": "2026-05-31T15:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Greenworks Cortacésped",
+          "searchTermEn": "Greenworks electric lawn mower",
+          "id": "B086K59Q79",
+          "filename": "B086K59Q79.mp4"
+        },
+        {
+          "nombre": "WORX Cultivador y Aireador",
+          "searchTermEn": "WORX electric tiller",
+          "id": "B0CT7LYWJ8",
+          "filename": "B0CT7LYWJ8.mp4"
+        },
+        {
+          "nombre": "Rain Bird Control de Riego",
+          "searchTermEn": "Rain Bird irrigation controller",
+          "id": "B0B1NZ2WF4",
+          "filename": "B0B1NZ2WF4.mp4"
+        },
+        {
+          "nombre": "Ryobi Sierra de Cadena",
+          "searchTermEn": "Ryobi chainsaw",
+          "id": "B0FLDGFDB6",
+          "filename": "B0FLDGFDB6.mp4"
+        },
+        {
+          "nombre": "Black+Decker Desbrozadora",
+          "searchTermEn": "Black+Decker string trimmer",
+          "id": "B077Z78YQX",
+          "filename": "B077Z78YQX.mp4"
+        },
+        {
+          "nombre": "Ariens Soplador de Nieve",
+          "searchTermEn": "Ariens snow blower",
+          "id": "B0FSRQWKDF",
+          "filename": "B0FSRQWKDF.mp4"
+        },
+        {
+          "nombre": "Chapman Esparcidor de Abono",
+          "searchTermEn": "Chapman fertilizer spreader",
+          "id": "B0FTMLFC5H",
+          "filename": "B0FTMLFC5H.mp4"
+        },
+        {
+          "nombre": "DeWalt Compresor de Aire",
+          "searchTermEn": "DeWalt air compressor",
+          "id": "B07H39S9JQ",
+          "filename": "B07H39S9JQ.mp4"
+        },
+        {
+          "nombre": "Toro Rociador de Fertilizante",
+          "searchTermEn": "Toro fertilizer sprayer",
+          "id": "B00UER1SKK",
+          "filename": "B00UER1SKK.mp4"
+        },
+        {
+          "nombre": "EGO Podadora de Altura",
+          "searchTermEn": "EGO pole saw",
+          "id": "B0CMTC4HB1",
+          "filename": "B0CMTC4HB1.mp4"
+        },
+        {
+          "nombre": "Husqvarna Triturador de Ramas",
+          "searchTermEn": "Husqvarna wood chipper",
+          "id": "B0DRC4N2NS",
+          "filename": "B0DRC4N2NS.mp4"
+        },
+        {
+          "nombre": "Flexzilla Manguera de Jardín",
+          "searchTermEn": "Flexzilla garden hose",
+          "id": "B0080JA346",
+          "filename": "B0080JA346.mp4"
+        },
+        {
+          "nombre": "Chapman Pulverizador de Mochila",
+          "searchTermEn": "Chapman backpack sprayer",
+          "id": "B000UEMJ3W",
+          "filename": "B000UEMJ3W.mp4"
+        },
+        {
+          "nombre": "Agri-Fab Remolque de Jardín",
+          "searchTermEn": "Agri-Fab garden cart",
+          "id": "B08Q2FL7JS",
+          "filename": "B08Q2FL7JS.mp4"
+        },
+        {
+          "nombre": "Dewalt Generador a Gasolina",
+          "searchTermEn": "Dewalt gas generator",
+          "id": "B07Q1DLKBG",
+          "filename": "B07Q1DLKBG.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-05-30T00:12:51.927Z",
+      "_requestedCount": 15,
+      "_adaptedCount": 15,
+      "introProductsOrder": [
+        {
+          "nombre": "Dewalt Generador a Gasolina",
+          "id": "B07Q1DLKBG",
+          "filename": "B07Q1DLKBG_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07Q1DLKBG_combined.mp4"
+        },
+        {
+          "nombre": "Ryobi Sierra de Cadena",
+          "id": "B0FLDGFDB6",
+          "filename": "B0FLDGFDB6_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0FLDGFDB6_combined.mp4"
+        },
+        {
+          "nombre": "Chapman Esparcidor de Abono",
+          "id": "B0FTMLFC5H",
+          "filename": "B0FTMLFC5H_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0FTMLFC5H_combined.mp4"
+        },
+        {
+          "nombre": "Husqvarna Triturador de Ramas",
+          "id": "B0DRC4N2NS",
+          "filename": "B0DRC4N2NS_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0DRC4N2NS_combined.mp4"
+        },
+        {
+          "nombre": "Black+Decker Desbrozadora",
+          "id": "B077Z78YQX",
+          "filename": "B077Z78YQX_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B077Z78YQX_combined.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1780102431170_sl7qqu"
+    },
+    "generatedAt": "2026-05-30T00:54:41.184Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Greenworks Cortacésped",
+        "searchTermEn": "Greenworks electric lawn mower",
+        "id": "B086K59Q79",
+        "filename": "B086K59Q79.mp4"
+      },
+      {
+        "nombre": "WORX Cultivador y Aireador",
+        "searchTermEn": "WORX electric tiller",
+        "id": "B0CT7LYWJ8",
+        "filename": "B0CT7LYWJ8.mp4"
+      },
+      {
+        "nombre": "Rain Bird Control de Riego",
+        "searchTermEn": "Rain Bird irrigation controller",
+        "id": "B0B1NZ2WF4",
+        "filename": "B0B1NZ2WF4.mp4"
+      },
+      {
+        "nombre": "Ryobi Sierra de Cadena",
+        "searchTermEn": "Ryobi chainsaw",
+        "id": "B0FLDGFDB6",
+        "filename": "B0FLDGFDB6.mp4"
+      },
+      {
+        "nombre": "Black+Decker Desbrozadora",
+        "searchTermEn": "Black+Decker string trimmer",
+        "id": "B077Z78YQX",
+        "filename": "B077Z78YQX.mp4"
+      },
+      {
+        "nombre": "Ariens Soplador de Nieve",
+        "searchTermEn": "Ariens snow blower",
+        "id": "B0FSRQWKDF",
+        "filename": "B0FSRQWKDF.mp4"
+      },
+      {
+        "nombre": "Chapman Esparcidor de Abono",
+        "searchTermEn": "Chapman fertilizer spreader",
+        "id": "B0FTMLFC5H",
+        "filename": "B0FTMLFC5H.mp4"
+      },
+      {
+        "nombre": "DeWalt Compresor de Aire",
+        "searchTermEn": "DeWalt air compressor",
+        "id": "B07H39S9JQ",
+        "filename": "B07H39S9JQ.mp4"
+      },
+      {
+        "nombre": "Toro Rociador de Fertilizante",
+        "searchTermEn": "Toro fertilizer sprayer",
+        "id": "B00UER1SKK",
+        "filename": "B00UER1SKK.mp4"
+      },
+      {
+        "nombre": "EGO Podadora de Altura",
+        "searchTermEn": "EGO pole saw",
+        "id": "B0CMTC4HB1",
+        "filename": "B0CMTC4HB1.mp4"
+      },
+      {
+        "nombre": "Husqvarna Triturador de Ramas",
+        "searchTermEn": "Husqvarna wood chipper",
+        "id": "B0DRC4N2NS",
+        "filename": "B0DRC4N2NS.mp4"
+      },
+      {
+        "nombre": "Flexzilla Manguera de Jardín",
+        "searchTermEn": "Flexzilla garden hose",
+        "id": "B0080JA346",
+        "filename": "B0080JA346.mp4"
+      },
+      {
+        "nombre": "Chapman Pulverizador de Mochila",
+        "searchTermEn": "Chapman backpack sprayer",
+        "id": "B000UEMJ3W",
+        "filename": "B000UEMJ3W.mp4"
+      },
+      {
+        "nombre": "Agri-Fab Remolque de Jardín",
+        "searchTermEn": "Agri-Fab garden cart",
+        "id": "B08Q2FL7JS",
+        "filename": "B08Q2FL7JS.mp4"
+      },
+      {
+        "nombre": "Dewalt Generador a Gasolina",
+        "searchTermEn": "Dewalt gas generator",
+        "id": "B07Q1DLKBG",
+        "filename": "B07Q1DLKBG.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 15 Máquinas Esenciales para tu Finca en Amazon\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\nGenerador con múltiples salidas. Mini motosierra portátil. Esparcidor ajustable. Triturador de alta potencia. Desbrozadora ligera y versátil.\n\n[0:10-0:15] INTRODUCTION\n¿Cuál querrías tú? Los links están en el primer comentario.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] GREENWORKS CORTACÉSPED\nEncontrar un cortacésped ligero y eficiente no es fácil. El Greenworks Cortacésped soluciona esto con su diseño ultraligero, siendo un 35% más liviano que otros. Así puedes cortar hasta un tercio de acre con batería completa.\nSu precio actual en Amazon ronda los... 240 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Greenworks Cortacésped]\n\n[0:25] WORX CULTIVADOR Y AIREADOR\nCon una velocidad máxima de 360 RPM, el WORX Cultivador cultiva rápidamente áreas hasta de nueve pulgadas de ancho y seis de profundidad. Ideal para preparar el suelo y airear jardines.\nSu precio actual en Amazon ronda los... 110 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: WORX Cultivador y Aireador]\n\n[0:25] RAIN BIRD CONTROL DE RIEGO\n\"Siente\" cómo personalizas cada gota usando tu móvil con Rain Bird Control de Riego: ajusta desde cualquier lugar sin moverte del sofá.\n\"Su precio actual en Amazon ronda los... 99 dólares. ¡Link en el primer comentario!\"\n\n[VISUALS: Product image: Rain Bird Control de Riego]\n\n[0:25] RYOBI SIERRA DE CADENA\nLa Ryobi Sierra de Cadena combina dos guías intercambiables de 6 y 8 pulgadas, ideal para cortar leña y podar árboles. Su motor sin escobillas de 1000W proporciona un 30% más de potencia que los motores estándar, siendo ligera y fácil de manejar, perfecta para jardines y proyectos DIY.\nSu precio actual en Amazon ronda los 137 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Ryobi Sierra de Cadena]\n\n[0:25] BLACK+DECKER DESBROZADORA\nLa Black+Decker Desbrozadora es una herramienta 2 en 1 que se convierte fácilmente de desbrozadora a bordeadora con guía de ruedas. Su motor de 6.5 amperios y tecnología POWERDRIVE garantizan un rendimiento óptimo en hierba densa y maleza.\nSu precio actual en Amazon ronda los 49 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Black+Decker Desbrozadora]\n\n[0:25] ARIENS SOPLADOR DE NIEVE\nEl Ariens Soplador de Nieve cuenta con una cubierta duradera hecha de tela Oxford 600D, resistente al agua y desgarros, protegiendo su maquinaria durante climas extremos como nieve pesada, lluvia y viento fuerte.\nSu precio actual en Amazon ronda los 2099 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Ariens Soplador de Nieve]\n\n[0:25] CHAPMAN ESPARCIDOR DE ABONO\nEl Chapman Esparcidor es perfecto para jardines pequeños con su capacidad de 25 lb. Permite ajustar el flujo para una dispersión precisa, asegurando comodidad gracias a su correa acolchada.\nSu precio actual en Amazon ronda los 38 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Chapman Esparcidor de Abono]\n\n[0:25] DEWALT COMPRESOR DE AIRE\nEl DeWalt Compresor de Aire ofrece inflado a alta presión con apagado automático y tres fuentes de alimentación disponibles. Su diseño compacto incluye almacenamiento accesible y pies antideslizantes para estabilidad mientras trabajas.\nSu precio actual en Amazon ronda los 130 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: DeWalt Compresor de Aire]\n\n[0:25] TORO ROCIADOR DE FERTILIZANTE\nEl Toro Rociador puede manejar hasta 20 galones por carga gracias a su tanque resistente a químicos. Se conecta fácilmente a cualquier manguera estándar, brindando un flujo constante para aplicaciones directas con control sencillo al alcance del dedo.\nSu precio actual en Amazon ronda los 37 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Toro Rociador de Fertilizante]\n\n[0:25] EGO PODADORA DE ALTURA\nLa EGO Podadora de Altura cuenta con un innovador indicador LED para cortes precisos en áreas oscuras. Obtén hasta 100 cortes por carga con su batería recomendada. Su eje telescópico de fibra de carbono proporciona un alcance total de hasta 13 pies.\nSu precio actual en Amazon ronda los 329 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: EGO Podadora de Altura]\n\n[0:25] HUSQVARNA TRITURADOR DE RAMAS\nEl Husqvarna Triturador de Ramas es potente, gracias a su motor de gasolina de 15hp, manejando fácilmente troncos de hasta 6 pulgadas. Incluye un arranque eléctrico mejorado y ruedas estables para facilitar su transporte.\nSu precio actual en Amazon ronda los 1899 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Husqvarna Triturador de Ramas]\n\n[0:25] FLEXZILLA MANGUERA DE JARDÍN\nLa Flexzilla Manguera es reconocida por su durabilidad y flexibilidad extrema. No se pliega bajo presión y tiene conexiones resistentes a la abrasión, haciéndola ideal para maniobrar fácilmente por el jardín.\nSu precio actual en Amazon ronda los 69 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Flexzilla Manguera de Jardín]\n\n[0:25] CHAPMAN PULVERIZADOR DE MOCHILA\nEl Chapman Pulverizador ofrece rendimiento confiable con un sistema de filtración que reduce las obstrucciones. Sus correas acolchadas y varilla extendida brindan comodidad para tareas prolongadas en el jardín.\nSu precio actual en Amazon ronda los 110 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Chapman Pulverizador de Mochila]\n\n[0:25] AGRI-FAB REMOLQUE DE JARDÍN\n-Fab Remolque tiene capacidad para cargas pesadas de hasta 700 libras. Su estructura soldada es robusta con una característica giratoria que facilita el vaciado a diferentes ángulos, ideal para trabajos exigentes.\n\n\n[VISUALS: Product image: Agri-Fab Remolque de Jardín]\n\n[0:25] DEWALT GENERADOR A GASOLINA\n9500 Running Watts and 12500 Peak Watts (Gasoline); 8500 Running Watts, 11200 Peak Watts (Propane); Remote Start with Included Key Fob, Electric and Recoil Start; Up to 12 Hours of\nSu precio actual en Amazon ronda los... 1079 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Dewalt Generador a Gasolina]\n\n[10 seconds] CONCLUSION\nundefined\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 6:45\nTONE: engaging\nPACING: quick\nKEYWORDS: mquinas, esenciales, para, finca, amazon\n"
+}

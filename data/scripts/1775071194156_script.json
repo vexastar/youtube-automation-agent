@@ -1,0 +1,205 @@
+{
+  "title": "Top 5 Gadgets Geniales para Tu Oficina en Casa",
+  "hook": {
+    "type": "statement",
+    "text": "¿Quieres transformar tu oficina en casa en un espacio más eficiente y moderno? ¡Mira estos gadgets increíbles!",
+    "duration": "0:00-0:05"
+  },
+  "introduction": {
+    "greeting": "Hoy te traemos el top 5 de gadgets que harán tu trabajo desde casa más cómodo y productivo. Desde lo más esencial hasta lo más innovador, estos productos son ideales para cualquier oficina en casa.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0:05-0:15"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Cargador inalámbrico rápido",
+        "content": [
+          "Dile adiós a los cables enredados con este cargador inalámbrico rápido. Compatible con la mayoría de los teléfonos modernos, simplemente colócalo en tu escritorio y mantén tus dispositivos siempre listos. Ideal para aquellos que buscan una solución de carga práctica y elegante.",
+          "Encuéntralo por solo $34.99 en el enlace de la descripción."
+        ],
+        "visuals": [
+          "Product image: Cargador inalámbrico rápido"
+        ],
+        "duration": 25
+      },
+      {
+        "type": "content",
+        "title": "Soporte ergonómico para laptop",
+        "content": [
+          "Mejora tu postura y reduce la fatiga con este soporte ergonómico para laptop. Ajustable a diferentes alturas, es perfecto para alinear tu pantalla a la altura de tus ojos. Un accesorio imprescindible para quienes pasan largas horas frente a la computadora.",
+          "Revisa su precio actualizado por $29.99 en el primer comentario."
+        ],
+        "visuals": [
+          "Product image: Soporte ergonómico para laptop"
+        ],
+        "duration": 25
+      },
+      {
+        "type": "content",
+        "title": "Lámpara LED ajustable",
+        "content": [
+          "Ilumina tu espacio de trabajo con estilo con esta lámpara LED ajustable. Con varios niveles de brillo y una estructura flexible, es ideal para cualquier tarea. Perfecta para quienes necesitan una iluminación precisa sin sacrificar el diseño.",
+          "Te dejo el enlace con descuento por $24.99 en la descripción."
+        ],
+        "visuals": [
+          "Product image: Lámpara LED ajustable"
+        ],
+        "duration": 25
+      },
+      {
+        "type": "content",
+        "title": "Ventilador portátil USB",
+        "content": [
+          "Mantente fresco durante largas jornadas laborales con este ventilador portátil USB. Pequeño pero potente, es fácil de mover y se conecta a cualquier puerto USB. Ideal para oficinas en casa que necesitan un toque de frescura.",
+          "Consíguelo por solo $19.99 en el enlace de la descripción."
+        ],
+        "visuals": [
+          "Product image: Ventilador portátil USB"
+        ],
+        "duration": 25
+      },
+      {
+        "type": "content",
+        "title": "Teclado láser virtual",
+        "content": [
+          "Sorprende a todos con el futurista teclado láser virtual. Proyecta un teclado completo en cualquier superficie y conéctalo fácilmente a tus dispositivos. Perfecto para quienes buscan tecnología innovadora y funcional.",
+          "Disponible por solo $14.99 en el enlace de la descripción."
+        ],
+        "visuals": [
+          "Product image: Teclado láser virtual"
+        ],
+        "duration": 25
+      }
+    ],
+    "totalDuration": 125
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "Espero que hayas encontrado el gadget perfecto para tu oficina en casa. No olvides darle like, suscribirte para más contenido como este, y cuéntanos en los comentarios cuál es tu favorito."
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "2:35",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "geniales",
+    "para",
+    "oficina",
+    "casa"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 9 Gadgets Geniales para Tu Oficina en Casa",
+      "angle": "Top 9 Gadgets Geniales para Tu Oficina en Casa",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "keywords": [
+        "gadgets",
+        "geniales",
+        "para",
+        "oficina",
+        "casa"
+      ],
+      "estimatedViews": 5042,
+      "bestPublishTime": "2026-04-08T19:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Teclado láser virtual",
+          "searchTermEn": "virtual laser keyboard"
+        },
+        {
+          "nombre": "Ventilador portátil USB",
+          "searchTermEn": "portable USB fan"
+        },
+        {
+          "nombre": "Lámpara LED ajustable",
+          "searchTermEn": "adjustable LED lamp"
+        },
+        {
+          "nombre": "Soporte ergonómico para laptop",
+          "searchTermEn": "laptop stand"
+        },
+        {
+          "nombre": "Cargador inalámbrico rápido",
+          "searchTermEn": "wireless charger"
+        },
+        {
+          "nombre": "Organizador de cables",
+          "searchTermEn": "cable organizer"
+        },
+        {
+          "nombre": "Alfombrilla de ratón RGB",
+          "searchTermEn": "RGB mouse pad"
+        },
+        {
+          "nombre": "Humidificador de escritorio",
+          "searchTermEn": "desk humidifier"
+        },
+        {
+          "nombre": "Reposapiés ajustable",
+          "searchTermEn": "adjustable footrest"
+        }
+      ],
+      "createdAt": "2026-04-01T19:19:45.501Z"
+    },
+    "generatedAt": "2026-04-01T19:19:53.886Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Teclado láser virtual",
+        "searchTermEn": "virtual laser keyboard"
+      },
+      {
+        "nombre": "Ventilador portátil USB",
+        "searchTermEn": "portable USB fan"
+      },
+      {
+        "nombre": "Lámpara LED ajustable",
+        "searchTermEn": "adjustable LED lamp"
+      },
+      {
+        "nombre": "Soporte ergonómico para laptop",
+        "searchTermEn": "laptop stand"
+      },
+      {
+        "nombre": "Cargador inalámbrico rápido",
+        "searchTermEn": "wireless charger"
+      },
+      {
+        "nombre": "Organizador de cables",
+        "searchTermEn": "cable organizer"
+      },
+      {
+        "nombre": "Alfombrilla de ratón RGB",
+        "searchTermEn": "RGB mouse pad"
+      },
+      {
+        "nombre": "Humidificador de escritorio",
+        "searchTermEn": "desk humidifier"
+      },
+      {
+        "nombre": "Reposapiés ajustable",
+        "searchTermEn": "adjustable footrest"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 5 Gadgets Geniales para Tu Oficina en Casa\n\n══════════════════════════════════════════════════\n\n[0:00-0:05] HOOK\n¿Quieres transformar tu oficina en casa en un espacio más eficiente y moderno? ¡Mira estos gadgets increíbles!\n\n[0:05-0:15] INTRODUCTION\nHoy te traemos el top 5 de gadgets que harán tu trabajo desde casa más cómodo y productivo. Desde lo más esencial hasta lo más innovador, estos productos son ideales para cualquier oficina en casa.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] CARGADOR INALÁMBRICO RÁPIDO\nDile adiós a los cables enredados con este cargador inalámbrico rápido. Compatible con la mayoría de los teléfonos modernos, simplemente colócalo en tu escritorio y mantén tus dispositivos siempre listos. Ideal para aquellos que buscan una solución de carga práctica y elegante.\nEncuéntralo por solo $34.99 en el enlace de la descripción.\n\n[VISUALS: Product image: Cargador inalámbrico rápido]\n\n[0:25] SOPORTE ERGONÓMICO PARA LAPTOP\nMejora tu postura y reduce la fatiga con este soporte ergonómico para laptop. Ajustable a diferentes alturas, es perfecto para alinear tu pantalla a la altura de tus ojos. Un accesorio imprescindible para quienes pasan largas horas frente a la computadora.\nRevisa su precio actualizado por $29.99 en el primer comentario.\n\n[VISUALS: Product image: Soporte ergonómico para laptop]\n\n[0:25] LÁMPARA LED AJUSTABLE\nIlumina tu espacio de trabajo con estilo con esta lámpara LED ajustable. Con varios niveles de brillo y una estructura flexible, es ideal para cualquier tarea. Perfecta para quienes necesitan una iluminación precisa sin sacrificar el diseño.\nTe dejo el enlace con descuento por $24.99 en la descripción.\n\n[VISUALS: Product image: Lámpara LED ajustable]\n\n[0:25] VENTILADOR PORTÁTIL USB\nMantente fresco durante largas jornadas laborales con este ventilador portátil USB. Pequeño pero potente, es fácil de mover y se conecta a cualquier puerto USB. Ideal para oficinas en casa que necesitan un toque de frescura.\nConsíguelo por solo $19.99 en el enlace de la descripción.\n\n[VISUALS: Product image: Ventilador portátil USB]\n\n[0:25] TECLADO LÁSER VIRTUAL\nSorprende a todos con el futurista teclado láser virtual. Proyecta un teclado completo en cualquier superficie y conéctalo fácilmente a tus dispositivos. Perfecto para quienes buscan tecnología innovadora y funcional.\nDisponible por solo $14.99 en el enlace de la descripción.\n\n[VISUALS: Product image: Teclado láser virtual]\n\n[10 seconds] CONCLUSION\nEspero que hayas encontrado el gadget perfecto para tu oficina en casa. No olvides darle like, suscribirte para más contenido como este, y cuéntanos en los comentarios cuál es tu favorito.\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 2:35\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, geniales, para, oficina, casa\n"
+}

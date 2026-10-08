@@ -1,0 +1,136 @@
+{
+  "title": "Top 2 Gadgets Novedosos en Amazon",
+  "hook": {
+    "type": "statement",
+    "text": "Transforma cualquier superficie en un teclado virtual. Captura cada momento sin usar tus manos.",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "Suscríbete, los links están en el primer comentario. Empecemos.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0:10-0:15"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Teclado Láser Serafim",
+        "productId": "B0F145ZPNT",
+        "productName": "Teclado Láser Serafim",
+        "filename": "B0F145ZPNT.mp4",
+        "content": [
+          "¿Aburrido de llevar un teclado físico a todas partes? El Teclado Láser Serafim proyecta un teclado virtual en cualquier superficie, haciendo la escritura portátil y futurista. Compacto y fácil de llevar, transforma tu escritorio en segundos.",
+          "Su precio actual en Amazon ronda los... 40 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Teclado Láser Serafim"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0F145ZPNT.mp4",
+        "precio": "$40",
+        "productPhoto": "https://m.media-amazon.com/images/I/51K0HmQSnqL._AC_UY654_QL65_.jpg"
+      },
+      {
+        "type": "content",
+        "title": "Cámara Clip Podo",
+        "productId": "B0DTTHH7Y4",
+        "productName": "Cámara Clip Podo",
+        "filename": "B0DTTHH7Y4.mp4",
+        "content": [
+          "Capturar momentos mientras estás en movimiento puede ser un reto. La Cámara Clip Podo se adhiere con facilidad a cualquier superficie, permitiéndote grabar manos libres. Con su diseño compacto, puedes llevarla a cualquier lugar.",
+          "Su precio actual en Amazon ronda los... 29 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Cámara Clip Podo"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0DTTHH7Y4.mp4",
+        "precio": "$29",
+        "productPhoto": "https://m.media-amazon.com/images/I/71FLMvujY4L._AC_UY654_QL65_.jpg"
+      }
+    ],
+    "totalDuration": 50
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "Dale like y recuerda que los links están en el primer comentario."
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:20",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "novedosos",
+    "amazon"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 2 Gadgets Novedosos en Amazon",
+      "angle": "Top 3 Gadgets Novedosos en Amazon",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 2,
+      "introScript": "¿Un teclado invisible que cabe en tu bolsillo? ¿Un cargador que es también una lámpara? Prepárate para descubrir tres gadgets que parecen sacados del futuro y que están a tan solo un clic de distancia.",
+      "keywords": [
+        "gadgets",
+        "novedosos",
+        "amazon"
+      ],
+      "estimatedViews": 4385,
+      "bestPublishTime": "2026-04-29T19:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Teclado Láser Serafim",
+          "searchTermEn": "Serafim laser keyboard",
+          "id": "B0F145ZPNT",
+          "filename": "B0F145ZPNT.mp4"
+        },
+        {
+          "nombre": "Cámara Clip Podo",
+          "searchTermEn": "Podo clip camera",
+          "id": "B0DTTHH7Y4",
+          "filename": "B0DTTHH7Y4.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-04-22T21:39:54.389Z",
+      "_requestedCount": 3,
+      "_adaptedCount": 2,
+      "_adaptationNote": "ATENCIÓN: El usuario pidió 3 productos pero solo hay 2 clips de video disponibles. El guion, título y narrativa deben referirse EXCLUSIVAMENTE a 2 productos.",
+      "_scriptNonce": "nonce_1776894138001_e0cl1l"
+    },
+    "generatedAt": "2026-04-22T21:42:22.955Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Teclado Láser Serafim",
+        "searchTermEn": "Serafim laser keyboard",
+        "id": "B0F145ZPNT",
+        "filename": "B0F145ZPNT.mp4"
+      },
+      {
+        "nombre": "Cámara Clip Podo",
+        "searchTermEn": "Podo clip camera",
+        "id": "B0DTTHH7Y4",
+        "filename": "B0DTTHH7Y4.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 2 Gadgets Novedosos en Amazon\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\nTransforma cualquier superficie en un teclado virtual. Captura cada momento sin usar tus manos.\n\n[0:10-0:15] INTRODUCTION\nSuscríbete, los links están en el primer comentario. Empecemos.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] TECLADO LÁSER SERAFIM\n¿Aburrido de llevar un teclado físico a todas partes? El Teclado Láser Serafim proyecta un teclado virtual en cualquier superficie, haciendo la escritura portátil y futurista. Compacto y fácil de llevar, transforma tu escritorio en segundos.\nSu precio actual en Amazon ronda los... 40 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Teclado Láser Serafim]\n\n[0:25] CÁMARA CLIP PODO\nCapturar momentos mientras estás en movimiento puede ser un reto. La Cámara Clip Podo se adhiere con facilidad a cualquier superficie, permitiéndote grabar manos libres. Con su diseño compacto, puedes llevarla a cualquier lugar.\nSu precio actual en Amazon ronda los... 29 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Cámara Clip Podo]\n\n[10 seconds] CONCLUSION\nDale like y recuerda que los links están en el primer comentario.\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:20\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, novedosos, amazon\n"
+}

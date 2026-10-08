@@ -1,0 +1,132 @@
+{
+  "title": "Top 1 Gadget Imprescindible para tu Oficina",
+  "hook": {
+    "type": "statement",
+    "text": "Mira lo que hace Nebula Capsule Projector en acción.",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "Suscríbete. Los links están en el primer comentario.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "25s-35s"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Nebula Capsule Proyector",
+        "productId": "B0CHW11C8H",
+        "productName": "Nebula Capsule Proyector",
+        "filename": "B0CHW11C8H.mp4",
+        "asin": "B0CHW11C8H",
+        "videoDuration": 58.993533,
+        "estimatedAudioSeconds": 33,
+        "framework": "problema_solucion",
+        "narracionSegments": null,
+        "content": [
+          "¿Cansado de ver películas en pantallas pequeñas; incómodas? Nebula Capsule Proyector. Ultra-portátil. Cine en tus manos. Imagina una pantalla de ciento veinte pulgadas... donde quieras. En casa, al aire libre... ¡Cualquier lugar! Proyecta en ciento ocho cero P con brillo de doscientos lúmenes. Configúralo rápido; solo tres segundos: ajuste automático y enfoque instantáneo. Con una sola carga, termina una película de dos punto cinco horas o escucha música por ocho horas.",
+          "Su precio actual ronda los cuatrocientos dólares. Link en comentarios."
+        ],
+        "visuals": [
+          "Product image: Nebula Capsule Proyector"
+        ],
+        "duration": 25,
+        "precio": "$400",
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0CHW11C8H.mp4",
+        "productPhoto": "https://m.media-amazon.com/images/I/81WZMwYM93L.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "Pantalla de gran tamaño, diseño portátil: Capsule 3 es un proyector ultra-portátil de Google TV, con licencia de Netflix.",
+          "Lleva la Gran Pantalla a Cualquier Lugar: Con un tamaño de pantalla máximo de 120 inches, Capsule 3 ofrece una experiencia de cine que puedes llevar contigo a cualquier parte.",
+          "Calidad de imagen de siguiente nivel: La pantalla de 1080p con 200 Lumens de brillo hace que las películas brillen para una experiencia de visualización inmersiva.",
+          "\"\"\"Larga duración de la batería: Termina una película completa de 2.5 horas o escucha 8 horas de música con una sola carga. (bajo modo eco)\"\"\"",
+          "Configúralo en segundos: Nuestra Tecnología de Adaptación Inteligente al Entorno realiza ajuste de pantalla, corrección automática de keystone, enfoque automático y evitación de obstáculos en solo 3 segundos."
+        ]
+      }
+    ],
+    "totalDuration": 40
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      ""
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:10",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadget",
+    "imprescindible",
+    "para",
+    "oficina"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 1 Gadget Imprescindible para tu Oficina",
+      "angle": "Top 1 Gadget Imprescindible para tu Oficina",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 1,
+      "introScript": "¿Te imaginas un dispositivo que transforma el aire y mejora tu productividad al instante? O tal vez un gadget que convierte tu escritorio en una experiencia de alta tecnología. Hoy te revelo el invento más impresionante que puedes añadir a tu espacio de trabajo para maximizar tu eficiencia y comodidad. ¿Curioso por saber cuál es el dispositivo que revolucionará tus días de oficina? Vamos a descubrirlo ya mismo.",
+      "keywords": [
+        "gadget",
+        "imprescindible",
+        "para",
+        "oficina"
+      ],
+      "estimatedViews": 6393,
+      "bestPublishTime": "2026-09-12T15:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Nebula Capsule Projector",
+          "searchTermEn": "Nebula Capsule Projector",
+          "id": "B0CHW11C8H",
+          "filename": "B0CHW11C8H.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-09-08T18:18:50.018Z",
+      "_requestedCount": 1,
+      "_adaptedCount": 1,
+      "introProductsOrder": [
+        {
+          "nombre": "Nebula Capsule Projector",
+          "id": "B0CHW11C8H",
+          "filename": "B0CHW11C8H.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0CHW11C8H.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1788891630065_llk2jo"
+    },
+    "generatedAt": "2026-09-08T18:20:42.307Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Nebula Capsule Projector",
+        "searchTermEn": "Nebula Capsule Projector",
+        "id": "B0CHW11C8H",
+        "filename": "B0CHW11C8H.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 1 Gadget Imprescindible para tu Oficina\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\nMira lo que hace Nebula Capsule Projector en acción.\n\n[25s-35s] INTRODUCTION\nSuscríbete. Los links están en el primer comentario.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] NEBULA CAPSULE PROYECTOR\n¿Cansado de ver películas en pantallas pequeñas; incómodas? Nebula Capsule Proyector. Ultra-portátil. Cine en tus manos. Imagina una pantalla de ciento veinte pulgadas... donde quieras. En casa, al aire libre... ¡Cualquier lugar! Proyecta en ciento ocho cero P con brillo de doscientos lúmenes. Configúralo rápido; solo tres segundos: ajuste automático y enfoque instantáneo. Con una sola carga, termina una película de dos punto cinco horas o escucha música por ocho horas.\nSu precio actual ronda los cuatrocientos dólares. Link en comentarios.\n\n[VISUALS: Product image: Nebula Capsule Proyector]\n\n[10 seconds] CONCLUSION\n\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:10\nTONE: engaging\nPACING: quick\nKEYWORDS: gadget, imprescindible, para, oficina\n"
+}

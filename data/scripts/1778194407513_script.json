@@ -1,0 +1,150 @@
+{
+  "title": "Top 1 gadget esencial para viajeros modernos",
+  "hook": {
+    "type": "statement",
+    "text": "Descubre un candado inteligente que reconoce tu huella en segundos.",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "Suscríbete, los links están en el primer comentario. Empecemos.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0:10-0:15"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Tapplock One Smart Padlock",
+        "productId": "B0FX3B6ZG2",
+        "productName": "Tapplock One Smart Padlock",
+        "filename": "B0FX3B6ZG2.mp4",
+        "asin": "B0FX3B6ZG2",
+        "clipDuration": 15.88,
+        "estimatedAudioSeconds": 9,
+        "framework": "beneficio_oculto",
+        "narracionSegments": null,
+        "content": [
+          "Lo que nadie te dice del Tapplock One Smart Padlock es que almacena hasta 20 huellas dactilares, ofreciendo acceso compartido seguro y sin esfuerzo.",
+          "Su precio actual en Amazon ronda los... 22 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Tapplock One Smart Padlock"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0FX3B6ZG2_combined.mp4",
+        "precio": "$22",
+        "productPhoto": "https://m.media-amazon.com/images/I/6127CK-zKHL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FX3B6ZG2\\scenes_v3\\B0FX3B6ZG2_v3_scene_01.mp4",
+            "type": "video",
+            "score": 7,
+            "tag": "uso real",
+            "raw": "7|uso real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FX3B6ZG2\\scenes_v2\\B0FX3B6ZG2_v2_scene_01.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "uso real",
+            "raw": "5|uso real"
+          }
+        ],
+        "features": [
+          "⚡ 【0.5s Ultra-Fast Access & 360° Smart Recognition】Experience lightning-fast entry with the high-resolution fingerprint sensor. Unlock in just 0.5 seconds with advanced 360° recognition—no need to position your finger perfectly. It’s quick, intuitive, and incredibly convenient.",
+          "🔋 【Year-Long Power & Massive Fingerprint Storage】Say goodbye to constant charging. A single charge lasts up to 365 days, supporting over 2,000 unlocks. Store up to 20 different fingerprints—perfect for family, friends, or team members sharing lockers, gates, or storage units.",
+          "🔑 【Ultra-Low Power & Long-Lasting Battery】 Designed with ultra-low power consumption, it delivers exceptional battery life—allowing you to use it worry-free for up to a full year on a single charge. Perfect for daily high-frequency use or long trips without ever stressing about power.",
+          "🛡️ 【Durable, Heavy-Duty Design for All Scenarios】Engineered for long-lasting use with a cut-resistant steel cable and a lock body tested to withstand over 1 million presses. It works flawlessly in extreme temperatures (-10°F to 150°F), perfect for securing gym lockers, luggage, backpacks, bikes, gates, toolboxes, and more.",
+          "👨‍👩‍👧‍👦 【User-Friendly Setup & Smart Management】 Go keyless in minutes. Easily add new fingerprints, manage access, or perform a factory reset using the electronic key. The intuitive system includes a low-battery warning, so you’re never caught off guard. Enjoy secure, key-free simplicity."
+        ]
+      }
+    ],
+    "totalDuration": 25
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "Dale like y recuerda que los links están en el primer comentario."
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "0:55",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "esenciales",
+    "para",
+    "viajeros",
+    "modernos"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 1 gadgets esenciales para viajeros modernos",
+      "angle": "Top 3 gadgets esenciales para viajeros modernos",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 1,
+      "introScript": "¿Un cargador que cabe en la palma de tu mano? ¿Una mochila que organiza todo por ti? ¿Y qué tal un candado que se abre con tus huellas? Descubre estos increíbles gadgets que harán de tu próximo viaje una experiencia inolvidable.",
+      "keywords": [
+        "gadgets",
+        "esenciales",
+        "para",
+        "viajeros",
+        "modernos"
+      ],
+      "estimatedViews": 5203,
+      "bestPublishTime": "2026-05-08T20:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Tapplock One Smart Padlock",
+          "searchTermEn": "Tapplock One Smart Padlock",
+          "id": "B0FX3B6ZG2",
+          "filename": "B0FX3B6ZG2.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-05-07T22:49:53.782Z",
+      "_requestedCount": 3,
+      "_adaptedCount": 1,
+      "_adaptationNote": "ATENCIÓN: El usuario pidió 3 productos pero solo hay 1 clips de video disponibles. El guion, título y narrativa deben referirse EXCLUSIVAMENTE a 1 productos.",
+      "introProductsOrder": [
+        {
+          "nombre": "Tapplock One Smart Padlock",
+          "id": "B0FX3B6ZG2",
+          "filename": "B0FX3B6ZG2.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0FX3B6ZG2_combined.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1778194374386_vi00xa"
+    },
+    "generatedAt": "2026-05-07T22:52:56.569Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Tapplock One Smart Padlock",
+        "searchTermEn": "Tapplock One Smart Padlock",
+        "id": "B0FX3B6ZG2",
+        "filename": "B0FX3B6ZG2.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 1 gadget esencial para viajeros modernos\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\nDescubre un candado inteligente que reconoce tu huella en segundos.\n\n[0:10-0:15] INTRODUCTION\nSuscríbete, los links están en el primer comentario. Empecemos.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] TAPPLOCK ONE SMART PADLOCK\nLo que nadie te dice del Tapplock One Smart Padlock es que almacena hasta 20 huellas dactilares, ofreciendo acceso compartido seguro y sin esfuerzo.\nSu precio actual en Amazon ronda los... 22 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Tapplock One Smart Padlock]\n\n[10 seconds] CONCLUSION\nDale like y recuerda que los links están en el primer comentario.\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 0:55\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, esenciales, para, viajeros, modernos\n"
+}

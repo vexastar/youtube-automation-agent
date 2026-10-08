@@ -1,0 +1,136 @@
+{
+  "title": "Top 1 Gadget Asombroso para Vigilar tu Casa",
+  "hook": {
+    "type": "statement",
+    "text": "Si buscas accesorios que de verdad sean útiles, imagina una cámara que transforma tu hogar en una fortaleza y unos auriculares que filtran el ruido. Estamos aquí para resolver esos pequeños problemas que aparecen cuando menos lo esperas. Encontrarás tanto opciones económicas como herramientas inteligentes. Recuerda los links en el primer comentario. Prepárate.",
+    "duration": "0:00-0:15"
+  },
+  "introduction": {
+    "greeting": "",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0s"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Cámara de seguridad WYZE Cam v3",
+        "productId": "B0DTNKLF1K",
+        "productName": "Cámara de seguridad WYZE Cam v3",
+        "filename": "B0DTNKLF1K.mp4",
+        "asin": "B0DTNKLF1K",
+        "videoDuration": 79.701333,
+        "estimatedAudioSeconds": 30,
+        "framework": "dato_numerico",
+        "narracionSegments": null,
+        "content": [
+          "Vigilancia total. Visual noche en color. Comunicación infalible. WYZE Cam v3, detección avanzada de movimiento y sonido. Envía alertas directas a tu teléfono con cien por ciento precisión y seguridad día y noche. Graba veinticuatro siete con tarjeta SD opcional, ideal para exterior e interior, resistente al agua y adaptable a cualquier ambiente con su diseño IP65.",
+          "Una verdadera revelación por solo treinta y cinco dólares en Amazon. Enlace directo en el comentario fijado."
+        ],
+        "visuals": [
+          "Product image: Cámara de seguridad WYZE Cam v3"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0DTNKLF1K.mp4",
+        "precio": "$35",
+        "productPhoto": "https://m.media-amazon.com/images/I/51cwElicOhL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "Detección de Movimiento y Sonido: Wyze Cam envía una alerta a tu teléfono cuando el bebé está llorando. Grabación de video continua 24/7 con una tarjeta micro SD de Wyze (se vende por separado) te permite monitorear la seguridad de tu hogar durante toda la noche fácilmente.",
+          "Interior/Exterior: Wyze Cam v3 es una cámara de video con cable con una clasificación IP65, por lo que puedes instalarla con confianza afuera bajo la lluvia o adentro en la habitación del bebé. (Solo funciona con WiFi de 2.4GHz)",
+          "2-Way Talk: Wyze Cam ahora viene con comunicación simultánea de 2 vías. Deja que tu bebé escuche el sonido de tu voz sin importar dónde estés.",
+          "Color Night Vision: Un nuevo Starlight Sensor graba video nocturno en color completo y vívido. El Starlight Sensor puede ver en color completo en entornos hasta 25 veces más oscuros que las cámaras de video tradicionales y la nueva apertura f/1.6 captura 2 veces más luz.",
+          "Funciona con Alexa y Google Assistant: Usa tu voz para ver la transmisión en vivo de Wyze Cam en cualquier dispositivo con pantalla de Alexa o Google Assistant. Puedes decir cosas como “Alexa, muéstrame la sala” o “Ok Google, muestra la habitación del bebé.”"
+        ],
+        "originalVideoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0DTNKLF1K.mp4"
+      }
+    ],
+    "totalDuration": 40
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "¿Puedes encontrar mejores productos que estos? Suscríbete y compruébalo. Recuerda los links en el primer comentario."
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "",
+    "like": "",
+    "comment": "",
+    "nextVideo": "",
+    "duration": "0 seconds"
+  },
+  "duration": "1:10",
+  "tone": "engaging",
+  "tone_variant": "analítico y preciso, como un ingeniero que explica por qué esto es superior",
+  "pacing": "quick",
+  "keywords": [
+    "gadget",
+    "asombroso",
+    "para",
+    "vigilar",
+    "casa"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 1 Gadget Asombroso para Vigilar tu Casa",
+      "angle": "Top 1 Gadget Asombroso para Vigilar tu Casa",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 1,
+      "introScript": "Imagina un gadget que no sólo es compacto, sino que también se camufla perfectamente en tu hogar y ofrece la capacidad de capturar imágenes en alta definición desde cualquier ángulo. ¿Y si además pudiera alertarte instantáneamente sobre cualquier movimiento sospechoso directamente a tu smartphone, maximizando la seguridad de tu casa? En este video te presentamos una innovación que desafía lo convencional en la vigilancia doméstica, un dispositivo que combina discreción y tecnología avanzada para proteger lo que más importa. Prepárate para quedar impresionado con este increíble gadget.",
+      "keywords": [
+        "gadget",
+        "asombroso",
+        "para",
+        "vigilar",
+        "casa"
+      ],
+      "estimatedViews": 5495,
+      "bestPublishTime": "2026-09-29T19:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Cámara de seguridad WYZE Cam v3",
+          "searchTermEn": "Wyze Cam V3 security camera",
+          "id": "B0DTNKLF1K",
+          "filename": "B0DTNKLF1K.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-09-28T17:50:17.784Z",
+      "_requestedCount": 1,
+      "_adaptedCount": 1,
+      "introProductsOrder": [
+        {
+          "nombre": "Cámara de seguridad WYZE Cam v3",
+          "id": "B0DTNKLF1K",
+          "filename": "B0DTNKLF1K.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0DTNKLF1K.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1790617872677_mtvmsl"
+    },
+    "generatedAt": "2026-09-28T17:51:39.925Z",
+    "version": "4.0-dynamic-rotator",
+    "productos": [
+      {
+        "nombre": "Cámara de seguridad WYZE Cam v3",
+        "searchTermEn": "Wyze Cam V3 security camera",
+        "id": "B0DTNKLF1K",
+        "filename": "B0DTNKLF1K.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 1 Gadget Asombroso para Vigilar tu Casa\n\n══════════════════════════════════════════════════\n\n[0:00-0:15] HOOK\nSi buscas accesorios que de verdad sean útiles, imagina una cámara que transforma tu hogar en una fortaleza y unos auriculares que filtran el ruido. Estamos aquí para resolver esos pequeños problemas que aparecen cuando menos lo esperas. Encontrarás tanto opciones económicas como herramientas inteligentes. Recuerda los links en el primer comentario. Prepárate.\n\n[0s] INTRODUCTION\n\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] CÁMARA DE SEGURIDAD WYZE CAM V3\nVigilancia total. Visual noche en color. Comunicación infalible. WYZE Cam v3, detección avanzada de movimiento y sonido. Envía alertas directas a tu teléfono con cien por ciento precisión y seguridad día y noche. Graba veinticuatro siete con tarjeta SD opcional, ideal para exterior e interior, resistente al agua y adaptable a cualquier ambiente con su diseño IP65.\nUna verdadera revelación por solo treinta y cinco dólares en Amazon. Enlace directo en el comentario fijado.\n\n[VISUALS: Product image: Cámara de seguridad WYZE Cam v3]\n\n[10 seconds] CONCLUSION\n¿Puedes encontrar mejores productos que estos? Suscríbete y compruébalo. Recuerda los links en el primer comentario.\n\n\n\n[0 seconds] CALL TO ACTION\n\n\n\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:10\nTONE: engaging\nPACING: quick\nKEYWORDS: gadget, asombroso, para, vigilar, casa\n"
+}

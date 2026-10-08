@@ -1,0 +1,182 @@
+{
+  "title": "2 gadgets que no puedes dejar pasar en Amazon",
+  "hook": {
+    "type": "statement",
+    "text": "¿Sabías que el 37% de las personas pierde tiempo valioso por no tener herramientas inteligentes como Ekster Parliament Wallet o Rocketbook Smart Notebook? Estos gadgets pueden revolucionar tu día a día. Descubre cómo en los enlaces del primer comentario. Mira esto.",
+    "duration": "0:00-0:15"
+  },
+  "introduction": {
+    "greeting": "",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0s"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Ekster Parliament Wallet",
+        "productId": "prod_1",
+        "productName": "Ekster Parliament Wallet",
+        "filename": "B07PVMK5NJ.mp4",
+        "asin": "B07PVMK5NJ",
+        "videoDuration": 47.5475,
+        "estimatedAudioSeconds": 27,
+        "framework": "problema_solucion",
+        "narracionSegments": null,
+        "content": [
+          "Cartera extraviada. Tarjetas acumuladas. Desorden total. Deja los problemas atrás con la cartera Ekster Parliament, que organiza tus tarjetas con solo un clic. ¡Imagina deslizarlas sin esfuerzo mientras recibes halagos por su diseño elegante! Experimenta una nueva forma de llevar tu dinero con confianza y estilo en cualquier reunión social.",
+          "Cuesta solo 89 dólares en Amazon, aprovecha esta oportunidad increíble. Encuentra el enlace directo en comentarios."
+        ],
+        "visuals": [
+          "Product image: Ekster Parliament Wallet"
+        ],
+        "duration": 25,
+        "precio": "$89",
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07PVMK5NJ.mp4",
+        "productPhoto": null,
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [],
+        "originalVideoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07PVMK5NJ.mp4"
+      },
+      {
+        "type": "content",
+        "title": "Rocketbook Smart Notebook",
+        "productId": "prod_2",
+        "productName": "Rocketbook Smart Notebook",
+        "filename": "B0DP3HRDC2.mp4",
+        "asin": "B0DP3HRDC2",
+        "videoDuration": 114.906458,
+        "estimatedAudioSeconds": 25,
+        "framework": "enfoque_caracteristica",
+        "narracionSegments": null,
+        "content": [
+          "Escribe electrónico. Guarda nube. Sin papel. Rocketbook Smart Notebook con tecnología reutilizable e infinito almacenamiento digital en aplicaciones de nube como Google Drive y Dropbox. Solo escanea con tu smartphone, guarda las notas automáticamente y luego límpialas con un paño húmedo para reutilizarlo infinitamente.",
+          "Convierte tu escritura al mundo digital por solo 35 dólares en Amazon. Detalles completos en los comentarios."
+        ],
+        "visuals": [
+          "Product image: Rocketbook Smart Notebook"
+        ],
+        "duration": 25,
+        "precio": "$35",
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0DP3HRDC2.mp4",
+        "productPhoto": null,
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [],
+        "originalVideoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0DP3HRDC2.mp4"
+      }
+    ],
+    "totalDuration": 80
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      "¿Cuál fue tu producto imprescindible? ¿Qué esperas? Dale like y encuentra todo en el primer comentario."
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "",
+    "like": "",
+    "comment": "",
+    "nextVideo": "",
+    "duration": "0 seconds"
+  },
+  "duration": "1:50",
+  "tone": "engaging",
+  "tone_variant": "directo y urgente, como si el producto se agotara mañana",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "puedes",
+    "dejar",
+    "pasar",
+    "amazon"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "2 gadgets que no puedes dejar pasar en Amazon",
+      "angle": "2 gadgets que no puedes dejar pasar en Amazon",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 2,
+      "introScript": "¿Buscas innovación y funcionalidad en un solo clic? Hoy te presentamos dos gadgets que revolucionan su categoría: la Ekster Parliament Wallet, una cartera que redefine la forma de llevar tu dinero, y el Rocketbook Smart Notebook, la libreta que combina lo físico con lo digital. Descubre por qué son imprescindibles.",
+      "keywords": [
+        "gadgets",
+        "puedes",
+        "dejar",
+        "pasar",
+        "amazon"
+      ],
+      "estimatedViews": 6291,
+      "bestPublishTime": "2026-09-23T19:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "id": "B07PVMK5NJ",
+          "nombre": "La traducción del texto \"Ekster Parliament",
+          "filename": "B07PVMK5NJ.mp4",
+          "precio": 89,
+          "searchTermEn": "Ekster Parliament Wallet"
+        },
+        {
+          "id": "B0DP3HRDC2",
+          "nombre": "El texto traducido sería: \"\"\"Cuaderno Inteligente",
+          "filename": "B0DP3HRDC2.mp4",
+          "precio": 35,
+          "searchTermEn": "Rocketbook Smart Notebook"
+        }
+      ],
+      "_sourceFile": "productos_locales.json",
+      "createdAt": "2026-09-18T00:21:23.867Z",
+      "_requestedCount": 2,
+      "_adaptedCount": 2,
+      "introProductsOrder": [
+        {
+          "nombre": "La traducción del texto \"Ekster Parliament",
+          "id": "B07PVMK5NJ",
+          "filename": "B07PVMK5NJ.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07PVMK5NJ.mp4"
+        },
+        {
+          "nombre": "El texto traducido sería: \"\"\"Cuaderno Inteligente",
+          "id": "B0DP3HRDC2",
+          "filename": "B0DP3HRDC2.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0DP3HRDC2.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1789690886059_xlxgef"
+    },
+    "generatedAt": "2026-09-18T00:21:37.920Z",
+    "version": "4.0-dynamic-rotator",
+    "productos": [
+      {
+        "id": "B07PVMK5NJ",
+        "nombre": "La traducción del texto \"Ekster Parliament",
+        "filename": "B07PVMK5NJ.mp4",
+        "precio": 89,
+        "searchTermEn": "Ekster Parliament Wallet"
+      },
+      {
+        "id": "B0DP3HRDC2",
+        "nombre": "El texto traducido sería: \"\"\"Cuaderno Inteligente",
+        "filename": "B0DP3HRDC2.mp4",
+        "precio": 35,
+        "searchTermEn": "Rocketbook Smart Notebook"
+      }
+    ]
+  },
+  "fullScript": "TITLE: 2 gadgets que no puedes dejar pasar en Amazon\n\n══════════════════════════════════════════════════\n\n[0:00-0:15] HOOK\n¿Sabías que el 37% de las personas pierde tiempo valioso por no tener herramientas inteligentes como Ekster Parliament Wallet o Rocketbook Smart Notebook? Estos gadgets pueden revolucionar tu día a día. Descubre cómo en los enlaces del primer comentario. Mira esto.\n\n[0s] INTRODUCTION\n\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] EKSTER PARLIAMENT WALLET\nCartera extraviada. Tarjetas acumuladas. Desorden total. Deja los problemas atrás con la cartera Ekster Parliament, que organiza tus tarjetas con solo un clic. ¡Imagina deslizarlas sin esfuerzo mientras recibes halagos por su diseño elegante! Experimenta una nueva forma de llevar tu dinero con confianza y estilo en cualquier reunión social.\nCuesta solo 89 dólares en Amazon, aprovecha esta oportunidad increíble. Encuentra el enlace directo en comentarios.\n\n[VISUALS: Product image: Ekster Parliament Wallet]\n\n[0:25] ROCKETBOOK SMART NOTEBOOK\nEscribe electrónico. Guarda nube. Sin papel. Rocketbook Smart Notebook con tecnología reutilizable e infinito almacenamiento digital en aplicaciones de nube como Google Drive y Dropbox. Solo escanea con tu smartphone, guarda las notas automáticamente y luego límpialas con un paño húmedo para reutilizarlo infinitamente.\nConvierte tu escritura al mundo digital por solo 35 dólares en Amazon. Detalles completos en los comentarios.\n\n[VISUALS: Product image: Rocketbook Smart Notebook]\n\n[10 seconds] CONCLUSION\n¿Cuál fue tu producto imprescindible? ¿Qué esperas? Dale like y encuentra todo en el primer comentario.\n\n\n\n[0 seconds] CALL TO ACTION\n\n\n\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:50\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, puedes, dejar, pasar, amazon\n"
+}

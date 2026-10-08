@@ -1,0 +1,745 @@
+{
+  "title": "Top 7 Gadgets Espías de Película en Amazon",
+  "hook": {
+    "type": "statement",
+    "text": "Increíblemente versátil. Altamente preciso. Silenciosamente potente. Absolutamente fiable. Secretamente versátil.",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "Suscríbete. Los links están en el primer comentario.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0:10-0:15"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Blink Mini Camara",
+        "productId": "B07X6C9RMF",
+        "productName": "Blink Mini Camara",
+        "filename": "B07X6C9RMF.mp4",
+        "asin": "B07X6C9RMF",
+        "clipDuration": 60.03,
+        "estimatedAudioSeconds": 60,
+        "framework": "problema_solucion",
+        "narracionSegments": null,
+        "content": [
+          "Preocupado por la seguridad de tu hogar al salir? La Blink Mini Camara resuelve esto fácilmente con su vigilancia HD constante y detección de movimiento. Ahora puedes ver y escuchar todo desde tu smartphone, asegurando el bienestar de tus seres queridos.",
+          "Su precio actual en Amazon ronda los... 15 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Blink Mini Camara"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07X6C9RMF_combined.mp4",
+        "precio": "$15",
+        "productPhoto": "https://m.media-amazon.com/images/I/51vncWY4ROL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07X6C9RMF\\scenes_v1\\B07X6C9RMF_scene_01.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "cámara seguridad",
+            "raw": "9|cámara seguridad"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07X6C9RMF\\scenes_v2\\B07X6C9RMF_v2_scene_03.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07X6C9RMF\\scenes_v2\\B07X6C9RMF_v2_scene_02.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "cámaras seguridad",
+            "raw": "9|cámaras seguridad"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07X6C9RMF\\scenes_v2\\B07X6C9RMF_v2_scene_05.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Cámara inteligente",
+            "raw": "9|Cámara inteligente"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07X6C9RMF\\scenes_v2\\B07X6C9RMF_v2_scene_14.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "cámara inteligente",
+            "raw": "9|cámara inteligente"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07X6C9RMF\\scenes_v2\\B07X6C9RMF_v2_scene_12.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07X6C9RMF\\scenes_v2\\B07X6C9RMF_v2_scene_25.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "cámara inteligente",
+            "raw": "9|cámara inteligente"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07X6C9RMF\\scenes_v2\\B07X6C9RMF_v2_scene_30.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07X6C9RMF\\scenes_v2\\B07X6C9RMF_v2_scene_28.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "cámara inteligente",
+            "raw": "9|cámara inteligente"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07X6C9RMF\\scenes_v2\\B07X6C9RMF_v2_scene_06.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Cámara de seguridad",
+            "raw": "8|Cámara de seguridad"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07X6C9RMF\\scenes_v2\\B07X6C9RMF_v2_scene_17.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Cámara inteligente",
+            "raw": "8|Cámara inteligente"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07X6C9RMF\\scenes_v2\\B07X6C9RMF_v2_scene_09.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "cámara interior",
+            "raw": "5|cámara interior"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07X6C9RMF\\scenes_v2\\B07X6C9RMF_v2_scene_26.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "producto pequeño",
+            "raw": "5|producto pequeño"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07X6C9RMF\\scenes_v2\\B07X6C9RMF_v2_scene_44.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "cámara interior",
+            "raw": "5|cámara interior"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07X6C9RMF\\scenes_v2\\B07X6C9RMF_v2_scene_46.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "producto pequeño",
+            "raw": "5|producto pequeño"
+          }
+        ],
+        "features": [
+          "Monitor the inside of your home day and night with our 1080P HD indoor plug-in smart security camera with motion detection and two-way audio.",
+          "See, hear, and speak to people and pets in your home from your smartphone with Blink Mini’s live view and two-way audio.",
+          "Get alerts on your smartphone whenever motion is detected or customize motion detection zones so you can see what matters most.",
+          "Use Mini as an indoor plug-in chime for Blink Video Doorbell. Hear a real-time alert from Mini when someone presses your Video Doorbell.",
+          "Choose to save and share clips with a free 30-day trial of the Blink Subscription Plan or locally with the Sync Module 2 (sold separately)."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Tile Pro",
+        "productId": "B0D636MDW7",
+        "productName": "Tile Pro",
+        "filename": "B0D636MDW7.mp4",
+        "asin": "B0D636MDW7",
+        "clipDuration": 60.03,
+        "estimatedAudioSeconds": 60,
+        "framework": "enfoque_caracteristica",
+        "narracionSegments": null,
+        "content": [
+          "Nuestro rastreador más poderoso, el Tile Pro, es una maravilla tecnológica que garantiza la localización de tus objetos perdidos gracias a su avanzada tecnología sin igual. Mantener tus pertenencias seguras y siempre localizables nunca fue tan sencillo.",
+          "Su precio actual en Amazon ronda los... 35 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Tile Pro"
+        ],
+        "duration": 25,
+        "precio": "$43",
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0D636MDW7_combined.mp4",
+        "productPhoto": "https://m.media-amazon.com/images/I/7135NhJXdYL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D636MDW7\\scenes_v1\\B0D636MDW7_scene_05.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D636MDW7\\scenes_v2\\B0D636MDW7_v2_scene_01.mp4",
+            "type": "video",
+            "score": 10,
+            "tag": "Tile Pro",
+            "raw": "10|Tile Pro"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D636MDW7\\scenes_v2\\B0D636MDW7_v2_scene_05.mp4",
+            "type": "video",
+            "score": 10,
+            "tag": "interacción real",
+            "raw": "10|interacción real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D636MDW7\\scenes_v2\\B0D636MDW7_v2_scene_06.mp4",
+            "type": "video",
+            "score": 10,
+            "tag": "interacción real",
+            "raw": "10|interacción real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D636MDW7\\scenes_v2\\B0D636MDW7_v2_scene_07.mp4",
+            "type": "video",
+            "score": 10,
+            "tag": "interacción real",
+            "raw": "10|interacción real"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D636MDW7\\scenes_v2\\B0D636MDW7_v2_scene_02.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D636MDW7\\scenes_v2\\B0D636MDW7_v2_scene_03.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D636MDW7\\scenes_v3\\B0D636MDW7_v3_scene_02.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D636MDW7\\scenes_v3\\B0D636MDW7_v3_scene_03.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Localizador Bluetooth",
+            "raw": "9|Localizador Bluetooth"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D636MDW7\\scenes_v3\\B0D636MDW7_v3_scene_07.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D636MDW7\\scenes_v3\\B0D636MDW7_v3_scene_06.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "localizador Bluetooth",
+            "raw": "9|localizador Bluetooth"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D636MDW7\\scenes_v3\\B0D636MDW7_v3_scene_05.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Localizador Bluetooth",
+            "raw": "8|Localizador Bluetooth"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0D636MDW7\\scenes_v3\\B0D636MDW7_v3_scene_04.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "Teddy Bear",
+            "raw": "5|Teddy Bear"
+          }
+        ],
+        "features": [
+          "OUR MOST POWERFUL TRACKER: What you love, located. Pro protects lost or stolen stuff—all from the same app you use to keep your people and pets safe. Attach Tile Pro to keys, golf bags, and more",
+          "STAY SAFE WITH SOS: Keep stuff safe, and people and pets protected. Discreetly trigger an SOS to keep your loved ones safe in any situation",
+          "FIND YOUR THINGS: Ring your misplaced Tile, or track it down in the free app",
+          "FIND YOUR PHONE: Phone hiding under a cushion? Use your Tile to make it ring — even when silenced",
+          "USE WITH LIFE360: Track everything—and everyone you love—a top family connection and safety app. Add your Tiles to see all you love on one map"
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Pen Recorder Zoom",
+        "productId": "B0DLWP9DBF",
+        "productName": "Pen Recorder Zoom",
+        "filename": "B0DLWP9DBF.mp4",
+        "asin": "B0DLWP9DBF",
+        "clipDuration": 59.93,
+        "estimatedAudioSeconds": null,
+        "framework": "beneficio_oculto",
+        "narracionSegments": null,
+        "content": [
+          "-Invisible- y eficiente, este auricular tiene hasta 8 horas de batería para quienes buscan discreción total.",
+          ""
+        ],
+        "visuals": [
+          "Product image: Pen Recorder Zoom"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0DLWP9DBF_combined.mp4",
+        "precio": "$36",
+        "productPhoto": "https://m.media-amazon.com/images/I/61JyI9vHVlL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DLWP9DBF\\scenes_v1\\B0DLWP9DBF_scene_01.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DLWP9DBF\\scenes_v2\\B0DLWP9DBF_v2_scene_03.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "producto pequeño",
+            "raw": "5|producto pequeño"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DLWP9DBF\\scenes_v3\\B0DLWP9DBF_v3_scene_01.mp4",
+            "type": "video",
+            "score": 10,
+            "tag": "grabadora digital",
+            "raw": "10|grabadora digital"
+          }
+        ],
+        "features": [
+          "64GB Memory Capacity & Long Battery Life - The digital voice recorder comes with a 64GB TF card that can store up to 776 hours of recording files (192kbps). Designed with external memory slot, this recorder supports expandable memory to meet your daily needs. 270mAh rechargeable battery can be charged for 1.5 hours and supports up to 15 hours of continuous recording & 30 hours of headphone playback. ZIPCIDE recording device is a professional recording device that can fully satisfy all your recording needs",
+          "Professional Voice Quality - With AI + DSP chip & intelligent digital noise reduction, this audio recorder will automatic adjustment to accept sound waves to filter and attenuate environmental noise. Combined with a dynamic noise-cancelling microphone that captures clear audio to give you clear sound Quality",
+          "Voice Activated Recording - Upgraded digital recorder, When voice-activated recording is turned on, the voice activated recorder will automatically start recording when surrounding sound decibel changes (Factory default is off, need to connect your computer and setting VOR functio)",
+          "Easy to Use & Headphone Listening - This recorder device supports one click recording and saving, long press the button on the top of the recorder for three seconds to start recording and long press again for three seconds to save. The tape recorder comes with wired headphones, you can use headphones to listen to recordings directly on the device, and supports to select previous/next track for basic playback and volume control. In addition, each recording files is timestamped, making it easy to find the file. It's an easy-to-use recorder that also doubles as a music player and a 64GB USB drive",
+          "Great Gift - This digital recorder allows writing while recording, which makes it a perfect gift for students, lawyers, business people, teachers, etc. This audio recorder is ideal for recording meetings, memos, lectures, interviews, etc. Set Contents"
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Wyze Cam V3",
+        "productId": "B0DTNKLF1K",
+        "productName": "Wyze Cam V3",
+        "filename": "B0DTNKLF1K.mp4",
+        "asin": "B0DTNKLF1K",
+        "clipDuration": 60.03,
+        "estimatedAudioSeconds": 60,
+        "framework": "comparacion_precio",
+        "narracionSegments": null,
+        "content": [
+          "La Wyze Cam V3 es una cámara de seguridad que ofrece detección de movimiento y sonido, con grabación continua 24/7. Su diseño resistente al agua permite instalarla tanto en interiores como exteriores, y su visión nocturna en color la hace ideal para cualquier entorno.",
+          "Su precio actual en Amazon ronda los 37 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Wyze Cam V3"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0DTNKLF1K_combined.mp4",
+        "precio": "$37",
+        "productPhoto": "https://m.media-amazon.com/images/I/51cwElicOhL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DTNKLF1K\\scenes_v1\\B0DTNKLF1K_scene_11.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DTNKLF1K\\scenes_v1\\B0DTNKLF1K_scene_06.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DTNKLF1K\\scenes_v1\\B0DTNKLF1K_scene_16.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Interacción cámara",
+            "raw": "9|Interacción cámara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DTNKLF1K\\scenes_v1\\B0DTNKLF1K_scene_25.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Cámara de seguridad",
+            "raw": "8|Cámara de seguridad"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0DTNKLF1K\\scenes_v3\\B0DTNKLF1K_v3_scene_02.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          }
+        ],
+        "features": [
+          "Motion & Sound Detection: Wyze Cam sends an alert to your phone when baby is crying. 24/7 Continuous video recording with a Wyze micro SD card (sold separately) lets you monitor your home security throughout the night easily.",
+          "Indoor/Outdoor: Wyze Cam v3 is a wired video camera with an IP65 rating so you can confidently install it outside in the rain or inside in the baby room. (Only work with 2.4GHz WiFi)",
+          "2-Way Talk: Wyze Cam now comes with simultaneous 2-way communication. Let your baby hear the sound of your voice no matter where you are.",
+          "Color Night Vision: An all-new Starlight Sensor records night time video in full, vivid color. The Starlight Sensor can see full color in environments up to 25x darker than traditional video cameras and the new f/1.6 aperture captures 2x more light.",
+          "Works with Alexa and Google Assistant: Use your voice to view Wyze Cam's live stream on any Alexa or Google Assistant device with a screen. You can say things like “Alexa, show me the living room” or “Ok Google, show the baby' room.”"
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Keqiang Spy Ear",
+        "productId": "B071XCC8FX",
+        "productName": "Keqiang Spy Ear",
+        "filename": "B071XCC8FX.mp4",
+        "asin": "B071XCC8FX",
+        "clipDuration": 59.76,
+        "estimatedAudioSeconds": 60,
+        "framework": "dato_numerico",
+        "narracionSegments": null,
+        "content": [
+          "El Keqiang Spy Ear es un audífono invisible con duración de batería de hasta 8 horas. Compatible con dispositivos Android, su diseño discreto no requiere baterías para el Neckloop, ideal para lugares tranquilos.",
+          "Su precio actual en Amazon ronda los 45 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Keqiang Spy Ear"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B071XCC8FX_combined.mp4",
+        "precio": "$45",
+        "productPhoto": "https://m.media-amazon.com/images/I/41wY9asPUrL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B071XCC8FX\\scenes_v1\\B071XCC8FX_scene_01.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "audífono invisible",
+            "raw": "8|audífono invisible"
+          }
+        ],
+        "features": [
+          "Standard version of CIC invisible earpiece, battery life about 8 hours, compared to other brands of earpiece, it has longer time.",
+          "Include 3.5-3.5mm adapter, 35 inchs long fine cable with external MIC and clip, compatible with Android phones, tablets, Kindle, eReaders, etc",
+          "Its wire Neckloop does not use batteries, work in quiet place such as home and library.",
+          "Disclaimer: You must use a certified SR416SW battery to ensure sufficient battery capacity. If you use poor battery, we do not guarantee continuous working time for more than 8 hours."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Vandlion Voice Recorder",
+        "productId": "B07HMFMWGG",
+        "productName": "Vandlion Voice Recorder",
+        "filename": "B07HMFMWGG.mp4",
+        "asin": "B07HMFMWGG",
+        "clipDuration": 60.03,
+        "estimatedAudioSeconds": 60,
+        "framework": "experiencia_sensorial",
+        "narracionSegments": null,
+        "content": [
+          "El Vandlion Voice Recorder permite grabar con alta calidad gracias a su reducción de ruido. Con un simple botón puedes iniciar o detener la grabación. Su función activada por voz ahorra tiempo de grabación y su reproducción fácil lo hace muy práctico.",
+          "Su precio actual en Amazon ronda los 50 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Vandlion Voice Recorder"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07HMFMWGG_combined.mp4",
+        "precio": "$50",
+        "productPhoto": "https://m.media-amazon.com/images/I/51pv2lcKTlS.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07HMFMWGG\\scenes_v1\\B07HMFMWGG_scene_01.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Grabadora digital",
+            "raw": "9|Grabadora digital"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07HMFMWGG\\scenes_v2\\B07HMFMWGG_v2_scene_02.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Grabadora digital",
+            "raw": "9|Grabadora digital"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07HMFMWGG\\scenes_v2\\B07HMFMWGG_v2_scene_03.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Grabadora digital",
+            "raw": "9|Grabadora digital"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07HMFMWGG\\scenes_v2\\B07HMFMWGG_v2_scene_01.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Interacción clara",
+            "raw": "9|Interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07HMFMWGG\\scenes_v2\\B07HMFMWGG_v2_scene_04.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Grabadora digital",
+            "raw": "9|Grabadora digital"
+          }
+        ],
+        "features": [
+          "【Simple Operation】- switch on your voice recorder, one button for recording. press the \"REC\", start the recording, press \"STOP\", end the recording, press “PLAY”, listen what you just recorded, and then Press A-B, select your important section to repeat. Easy to playback with inner powerful speaker, support external sound speaker playback, let you enjoy superior recording quality.",
+          "【Clear Voice Record】- high quality recording with noise redution, you will get super clear recorded voice, the sensitive microphone help you to catch speaker's words in an interview, lectures, meetings.",
+          "【Voice Activated Recording】- automatic voice reduction function, it starts recording when sound is detected or turn to standby state, saving recording time and reduce power consumption.",
+          "【 Player Function】- this voice recorder can be used as an music player, you could enjoy the music after your tired study, meeting and so on. Also can function as a detachable data storage device.you can take along your favorite pictures and documents whenever you go.Simply cut-and-paste or drag-and -drop files to or from it via USB connection, the player will appear as a removeable drive in Windows.",
+          "【High quality and long time】 uses DSP noise reduction technology to filter out environmental noise, has high-quality recording, 【1536kbps】to restore the real scene. It can continuously record for more than 30 hours and play for 7 hours."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Arcshell UHF Radio",
+        "productId": "B077HWNSYD",
+        "productName": "Arcshell UHF Radio",
+        "filename": "B077HWNSYD.mp4",
+        "asin": "B077HWNSYD",
+        "clipDuration": 60.03,
+        "estimatedAudioSeconds": null,
+        "framework": "problema_solucion",
+        "narracionSegments": null,
+        "content": [
+          "'La Arcshell UHF Radio ofrece operación manos libres gracias a su sistema VOX, ideal para actividades al aire libre como ciclismo o senderismo. Con radios recargables y un auricular incluido, es perfecta para profesionales y aventureros.",
+          ""
+        ],
+        "visuals": [
+          "Product image: Arcshell UHF Radio"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B077HWNSYD_combined.mp4",
+        "precio": "$29",
+        "productPhoto": "https://m.media-amazon.com/images/I/91QtVjskQ5L.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B077HWNSYD\\scenes_v1\\B077HWNSYD_scene_02.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "funcionalidades visibles",
+            "raw": "9|funcionalidades visibles"
+          }
+        ],
+        "features": [
+          "Hands-Free Freedom: Say goodbye to button pressing and Unleash the Power of Multi-Tasking with VOX (Voice Activated Operation). VOX allows you to work, play, or engage in any activity while staying connected. Whether you're climbing mountains, bicycling, motorcycling, organizing events, or coordinating projects, VOX lets you communicate without missing a beat",
+          "Professional radio in various situation, such as construction sites between contractors, supervisors, and workers; manufacturing plants, industrial hall, warehouse, transportation adn logistics industry, hotel staff, event planners, restaurant teams, and security personnel, retail stores, concerts, conferences, trade shows, sporting events, hospitals, healthcare centers, education institutions, hikers, campers, airsoft, bicycling, motorcycling, film and TV production, stage, and photography",
+          "Rechargeable walkie-talkies: Save money in the long run with rechargeable walkie-talkies. No more purchasing disposable batteries that drain your wallet. Simply recharge your devices and keep them ready for action. You can charge your walkie walkies with our charging base or with the USB Type-C port on the walkie talkies. It lasts around 8 to 96 hours on a single charge depending on how much you transmit",
+          "Earpiece with mic included: each radio comes with a single-earbud style earpiece(foam piece included). The earpiece has its own built-in microphone and a Push-to-Talk button; earpiece plug is K-type of 3.5mm plug and 2.5mm plug;when you plug in the earpiece,all sound goes to the earpiece and the radio speaker is silent",
+          "Ready to use right out of the box: simply turn them on and start communicating without the need for any additional programming or configuration; user-friendly and easy to operate for all ages. Push-to-Talk button is on the left side of the radio; built-in mic and built-in speaker are on the front of the radio. Loud an crystal-clear sound quality with noise cancelling feature by adjusting the squelch level"
+        ]
+      }
+    ],
+    "totalDuration": 175
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      null
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "3:25",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "gadgets",
+    "espas",
+    "pelcula",
+    "amazon"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 7 Gadgets Espías de Película en Amazon",
+      "angle": "Top 7 Gadgets Espías de Película en Amazon",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 7,
+      "introScript": "¿Una cámara que cabe en un tornillo? ¿Un dispositivo que te alerta si alguien merodea en tu casa? Prepárate para descubrir los gadgets más insólitos que parecen sacados directamente de una película de espías. Perfectos para vigilar, proteger y sorprender.",
+      "keywords": [
+        "gadgets",
+        "espas",
+        "pelcula",
+        "amazon"
+      ],
+      "estimatedViews": 5819,
+      "bestPublishTime": "2026-05-29T20:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Blink Mini Camara",
+          "searchTermEn": "Blink Mini indoor camera",
+          "id": "B07X6C9RMF",
+          "filename": "B07X6C9RMF.mp4"
+        },
+        {
+          "nombre": "Tile Pro Rastreador",
+          "searchTermEn": "Tile Pro Bluetooth tracker",
+          "id": "B0D636MDW7",
+          "filename": "B0D636MDW7.mp4"
+        },
+        {
+          "nombre": "Pen Recorder Zoom",
+          "searchTermEn": "Zoom audio recorder pen",
+          "id": "B0DLWP9DBF",
+          "filename": "B0DLWP9DBF.mp4"
+        },
+        {
+          "nombre": "Wyze Cam V3",
+          "searchTermEn": "Wyze Cam V3 indoor camera",
+          "id": "B0DTNKLF1K",
+          "filename": "B0DTNKLF1K.mp4"
+        },
+        {
+          "nombre": "Keqiang Spy Ear",
+          "searchTermEn": "Keqiang audio spy ear",
+          "id": "B071XCC8FX",
+          "filename": "B071XCC8FX.mp4"
+        },
+        {
+          "nombre": "Vandlion Voice Recorder",
+          "searchTermEn": "Vandlion mini voice recorder",
+          "id": "B07HMFMWGG",
+          "filename": "B07HMFMWGG.mp4"
+        },
+        {
+          "nombre": "Arcshell UHF Radio",
+          "searchTermEn": "Arcshell two-way radio",
+          "id": "B077HWNSYD",
+          "filename": "B077HWNSYD.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-05-25T19:18:01.138Z",
+      "_requestedCount": 7,
+      "_adaptedCount": 7,
+      "introProductsOrder": [
+        {
+          "nombre": "Blink Mini Camara",
+          "id": "B07X6C9RMF",
+          "filename": "B07X6C9RMF_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07X6C9RMF_combined.mp4"
+        },
+        {
+          "nombre": "Tile Pro Rastreador",
+          "id": "B0D636MDW7",
+          "filename": "B0D636MDW7_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0D636MDW7_combined.mp4"
+        },
+        {
+          "nombre": "Keqiang Spy Ear",
+          "id": "B071XCC8FX",
+          "filename": "B071XCC8FX_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B071XCC8FX_combined.mp4"
+        },
+        {
+          "nombre": "Wyze Cam V3",
+          "id": "B0DTNKLF1K",
+          "filename": "B0DTNKLF1K_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0DTNKLF1K_combined.mp4"
+        },
+        {
+          "nombre": "Pen Recorder Zoom",
+          "id": "B0DLWP9DBF",
+          "filename": "B0DLWP9DBF_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0DLWP9DBF_combined.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1779738146237_nhf02i"
+    },
+    "generatedAt": "2026-05-25T19:43:11.896Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Blink Mini Camara",
+        "searchTermEn": "Blink Mini indoor camera",
+        "id": "B07X6C9RMF",
+        "filename": "B07X6C9RMF.mp4"
+      },
+      {
+        "nombre": "Tile Pro Rastreador",
+        "searchTermEn": "Tile Pro Bluetooth tracker",
+        "id": "B0D636MDW7",
+        "filename": "B0D636MDW7.mp4"
+      },
+      {
+        "nombre": "Pen Recorder Zoom",
+        "searchTermEn": "Zoom audio recorder pen",
+        "id": "B0DLWP9DBF",
+        "filename": "B0DLWP9DBF.mp4"
+      },
+      {
+        "nombre": "Wyze Cam V3",
+        "searchTermEn": "Wyze Cam V3 indoor camera",
+        "id": "B0DTNKLF1K",
+        "filename": "B0DTNKLF1K.mp4"
+      },
+      {
+        "nombre": "Keqiang Spy Ear",
+        "searchTermEn": "Keqiang audio spy ear",
+        "id": "B071XCC8FX",
+        "filename": "B071XCC8FX.mp4"
+      },
+      {
+        "nombre": "Vandlion Voice Recorder",
+        "searchTermEn": "Vandlion mini voice recorder",
+        "id": "B07HMFMWGG",
+        "filename": "B07HMFMWGG.mp4"
+      },
+      {
+        "nombre": "Arcshell UHF Radio",
+        "searchTermEn": "Arcshell two-way radio",
+        "id": "B077HWNSYD",
+        "filename": "B077HWNSYD.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 7 Gadgets Espías de Película en Amazon\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\nIncreíblemente versátil. Altamente preciso. Silenciosamente potente. Absolutamente fiable. Secretamente versátil.\n\n[0:10-0:15] INTRODUCTION\nSuscríbete. Los links están en el primer comentario.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] BLINK MINI CAMARA\nPreocupado por la seguridad de tu hogar al salir? La Blink Mini Camara resuelve esto fácilmente con su vigilancia HD constante y detección de movimiento. Ahora puedes ver y escuchar todo desde tu smartphone, asegurando el bienestar de tus seres queridos.\nSu precio actual en Amazon ronda los... 15 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Blink Mini Camara]\n\n[0:25] TILE PRO\nNuestro rastreador más poderoso, el Tile Pro, es una maravilla tecnológica que garantiza la localización de tus objetos perdidos gracias a su avanzada tecnología sin igual. Mantener tus pertenencias seguras y siempre localizables nunca fue tan sencillo.\nSu precio actual en Amazon ronda los... 35 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Tile Pro]\n\n[0:25] PEN RECORDER ZOOM\n-Invisible- y eficiente, este auricular tiene hasta 8 horas de batería para quienes buscan discreción total.\n\n\n[VISUALS: Product image: Pen Recorder Zoom]\n\n[0:25] WYZE CAM V3\nLa Wyze Cam V3 es una cámara de seguridad que ofrece detección de movimiento y sonido, con grabación continua 24/7. Su diseño resistente al agua permite instalarla tanto en interiores como exteriores, y su visión nocturna en color la hace ideal para cualquier entorno.\nSu precio actual en Amazon ronda los 37 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Wyze Cam V3]\n\n[0:25] KEQIANG SPY EAR\nEl Keqiang Spy Ear es un audífono invisible con duración de batería de hasta 8 horas. Compatible con dispositivos Android, su diseño discreto no requiere baterías para el Neckloop, ideal para lugares tranquilos.\nSu precio actual en Amazon ronda los 45 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Keqiang Spy Ear]\n\n[0:25] VANDLION VOICE RECORDER\nEl Vandlion Voice Recorder permite grabar con alta calidad gracias a su reducción de ruido. Con un simple botón puedes iniciar o detener la grabación. Su función activada por voz ahorra tiempo de grabación y su reproducción fácil lo hace muy práctico.\nSu precio actual en Amazon ronda los 50 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Vandlion Voice Recorder]\n\n[0:25] ARCSHELL UHF RADIO\n'La Arcshell UHF Radio ofrece operación manos libres gracias a su sistema VOX, ideal para actividades al aire libre como ciclismo o senderismo. Con radios recargables y un auricular incluido, es perfecta para profesionales y aventureros.\n\n\n[VISUALS: Product image: Arcshell UHF Radio]\n\n[10 seconds] CONCLUSION\nundefined\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 3:25\nTONE: engaging\nPACING: quick\nKEYWORDS: gadgets, espas, pelcula, amazon\n"
+}

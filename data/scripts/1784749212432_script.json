@@ -1,0 +1,134 @@
+{
+  "title": "Top 1 Herramienta Innovadora para el Césped de Tu Casa",
+  "hook": {
+    "type": "statement",
+    "text": "",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "25s-35s"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "Worx Landroid M",
+        "productId": "B0GN8KK8XW",
+        "productName": "Worx Landroid M",
+        "filename": "B0GN8KK8XW.mp4",
+        "asin": "B0GN8KK8XW",
+        "videoDuration": 113.9818,
+        "estimatedAudioSeconds": 33,
+        "framework": "beneficio_oculto",
+        "narracionSegments": null,
+        "content": [
+          "¿Imaginaste un corte de césped inteligente? Descubre Worx Landroid M. Precisión RTK en la nube, sin antenas ni costos extras. Su tecnología Vision AI mapea tu jardín; traza caminos perfectos y bordes precisos desde el primer encendido. Esquiva obstáculos con potencia neuronal... ¡diez billones de operaciones por segundo! Controla zonas infinitas y personaliza rutas; todo... en la palma de tu mano. Incluso en sombra, su navegación se mantiene estable; gracias a V-SLAM.",
+          "Su precio actual ronda los ochocientos dólares. Link en comentarios."
+        ],
+        "visuals": [
+          "Product image: Worx Landroid M"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0GN8KK8XW.mp4",
+        "precio": "$800",
+        "productPhoto": "https://m.media-amazon.com/images/I/71toUHW6iAL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [],
+        "features": [
+          "Precisión RTK a nivel de centímetros en la nube: el cortacésped robótico Vision Cloud utiliza tecnología RTK de grado comercial proporcionada directamente desde la nube, ¡sin necesidad de instalación de antena local y, sobre todo, sin costos adicionales en la nube!",
+          "\"\"\"Mapeo Automático que Cubre Más: Vision AI permite que este cortacésped robótico entienda cualquier forma de césped y tipos de límites, mapeando automáticamente tu jardín con caminos suaves, un seguimiento de bordes más cercano y una cobertura más completa desde el primer día.\"\"\"",
+          "\"\"\"Evitación de Obstáculos con IA: Vision AI no solo reconoce objetos, sino que los entiende. Impulsado por una red neuronal bien entrenada y una potencia de procesamiento de hasta 10 billones de operaciones por segundo, el robot cortacésped WORX responde de manera inteligente para mantener el corte suave, seguro y sin interrupciones.\"\"\"",
+          "Control Remoto de Corte de Césped Infinite Zone: Gestiona zonas de corte ilimitadas con caminos personalizados, define áreas prohibidas, edita tu mapa y monitorea tu cortacésped a control remoto en cualquier momento, todo bajo control al alcance de tu mano.",
+          "Navegación confiable incluso en la sombra: RTK Cloud ofrece una precisión a nivel de centímetros. En áreas sombreadas o parcialmente cubiertas, la fusión de sensores basada en V-SLAM con Vision AI toma el control de manera fluida, manteniendo una navegación precisa."
+        ]
+      }
+    ],
+    "totalDuration": 40
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      ""
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "1:10",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "herramienta",
+    "innovadora",
+    "para",
+    "csped",
+    "casa"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 1 Herramienta Innovadora para el Césped de Tu Casa",
+      "angle": "Top 1 Herramienta Innovadora para el Césped de Tu Casa",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 1,
+      "introScript": "¿Te imaginas cuidar tu césped sin mover un dedo? ¿Un dispositivo que corta la hierba de manera inteligente y automática? Hoy descubrirás una herramienta que hace justo eso y que está revolucionando la forma en que mantenemos nuestros jardines. Una innovación tan avanzada que hará que tu jardín siempre luzca perfecto sin esfuerzo. ¡Prepárate para conocer la tecnología que cambiará tu manera de cuidar el césped de tu casa!",
+      "keywords": [
+        "herramienta",
+        "innovadora",
+        "para",
+        "csped",
+        "casa"
+      ],
+      "estimatedViews": 4767,
+      "bestPublishTime": "2026-07-28T19:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "Worx Landroid M",
+          "searchTermEn": "Worx Landroid M robotic mower",
+          "id": "B0GN8KK8XW",
+          "filename": "B0GN8KK8XW.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-07-22T19:36:57.129Z",
+      "_requestedCount": 1,
+      "_adaptedCount": 1,
+      "introProductsOrder": [
+        {
+          "nombre": "Worx Landroid M",
+          "id": "B0GN8KK8XW",
+          "filename": "B0GN8KK8XW.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0GN8KK8XW.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1784749188300_vj93bm"
+    },
+    "generatedAt": "2026-07-22T19:39:56.554Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "Worx Landroid M",
+        "searchTermEn": "Worx Landroid M robotic mower",
+        "id": "B0GN8KK8XW",
+        "filename": "B0GN8KK8XW.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 1 Herramienta Innovadora para el Césped de Tu Casa\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\n\n\n[25s-35s] INTRODUCTION\n\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] WORX LANDROID M\n¿Imaginaste un corte de césped inteligente? Descubre Worx Landroid M. Precisión RTK en la nube, sin antenas ni costos extras. Su tecnología Vision AI mapea tu jardín; traza caminos perfectos y bordes precisos desde el primer encendido. Esquiva obstáculos con potencia neuronal... ¡diez billones de operaciones por segundo! Controla zonas infinitas y personaliza rutas; todo... en la palma de tu mano. Incluso en sombra, su navegación se mantiene estable; gracias a V-SLAM.\nSu precio actual ronda los ochocientos dólares. Link en comentarios.\n\n[VISUALS: Product image: Worx Landroid M]\n\n[10 seconds] CONCLUSION\n\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 1:10\nTONE: engaging\nPACING: quick\nKEYWORDS: herramienta, innovadora, para, csped, casa\n"
+}

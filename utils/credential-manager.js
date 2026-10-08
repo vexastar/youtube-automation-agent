@@ -32,6 +32,37 @@ class CredentialManager {
     } catch (error) {
       this.credentials = {};
     }
+    // Environment variables always take priority over stored credentials.
+    // This prevents stale/cached keys in credentials.json from being used.
+    this._applyEnvOverrides();
+  }
+
+  _applyEnvOverrides() {
+    require('dotenv').config();
+    if (process.env.OPENAI_API_KEY) {
+      if (!this.credentials.openai) this.credentials.openai = {};
+      this.credentials.openai.apiKey = process.env.OPENAI_API_KEY;
+    }
+    if (process.env.GOOGLE_GEN_AI_KEY || process.env.GEMINI_API_KEY) {
+      if (!this.credentials.gemini) this.credentials.gemini = {};
+      this.credentials.gemini.apiKey = process.env.GOOGLE_GEN_AI_KEY || process.env.GEMINI_API_KEY;
+    }
+    if (process.env.ELEVENLABS_API_KEY) {
+      if (!this.credentials.elevenLabs) this.credentials.elevenLabs = {};
+      this.credentials.elevenLabs.apiKey = process.env.ELEVENLABS_API_KEY;
+    }
+    if (process.env.ELEVENLABS_VOICE_ID) {
+      if (!this.credentials.elevenLabs) this.credentials.elevenLabs = {};
+      this.credentials.elevenLabs.voiceId = process.env.ELEVENLABS_VOICE_ID;
+    }
+    if (process.env.AZURE_SPEECH_KEY) {
+      if (!this.credentials.azureSpeech) this.credentials.azureSpeech = {};
+      this.credentials.azureSpeech.subscriptionKey = process.env.AZURE_SPEECH_KEY;
+    }
+    if (process.env.AZURE_SPEECH_REGION) {
+      if (!this.credentials.azureSpeech) this.credentials.azureSpeech = {};
+      this.credentials.azureSpeech.region = process.env.AZURE_SPEECH_REGION;
+    }
   }
 
   async loadTokens() {

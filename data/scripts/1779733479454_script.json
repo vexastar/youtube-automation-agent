@@ -1,0 +1,778 @@
+{
+  "title": "Top 5 Robots Humanoides Sorprendentes en Amazon",
+  "hook": {
+    "type": "statement",
+    "text": "Sorprendentemente interactivo, este robot construye y programa. Sorprendentemente inteligente, este robot responde a tus preguntas.",
+    "duration": "0:00-0:10"
+  },
+  "introduction": {
+    "greeting": "Suscríbete y encuentra los links de compra en el primer comentario. Empezamos.",
+    "topicIntro": "",
+    "valueProposition": "",
+    "credibility": "",
+    "duration": "0:10-0:15"
+  },
+  "mainContent": {
+    "sections": [
+      {
+        "type": "content",
+        "title": "UBTECH Alpha 1 Pro",
+        "productId": "B071FKTTF7",
+        "productName": "UBTECH Alpha 1 Pro",
+        "filename": "B071FKTTF7.mp4",
+        "asin": "B071FKTTF7",
+        "clipDuration": 60.03,
+        "estimatedAudioSeconds": 62,
+        "framework": "experiencia_sensorial",
+        "narracionSegments": null,
+        "content": [
+          "Imagínate construyendo el futuro con el UBTECH Alpha 1 Pro. Este kit educativo incluye todo lo necesario para crear tus propios robots como el GrabberBot o DigBot, usando la codificación Blockly para navegar y recoger objetos. La función PRP te permite grabar, reproducir e inventar acciones nuevas, haciendo de cada interacción una experiencia sensorial única. Conviértete en ingeniero mientras te diviertes y aprendes.",
+          "Su precio actual en Amazon ronda los... 17 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: UBTECH Alpha 1 Pro"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B071FKTTF7_combined.mp4",
+        "precio": "$17",
+        "productPhoto": "https://m.media-amazon.com/images/I/618nNsEqdDL.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B071FKTTF7\\scenes_v1\\B071FKTTF7_scene_01.mp4",
+            "type": "video",
+            "score": 10,
+            "tag": "robots interactivos",
+            "raw": "10|robots interactivos"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B071FKTTF7\\scenes_v1\\B071FKTTF7_scene_06.mp4",
+            "type": "video",
+            "score": 10,
+            "tag": "robot interactivo",
+            "raw": "10|robot interactivo"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B071FKTTF7\\scenes_v1\\B071FKTTF7_scene_02.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "robot interactivo",
+            "raw": "9|robot interactivo"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B071FKTTF7\\scenes_v1\\B071FKTTF7_scene_03.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "robot interactivo",
+            "raw": "9|robot interactivo"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B071FKTTF7\\scenes_v1\\B071FKTTF7_scene_04.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "robot interactivo",
+            "raw": "9|robot interactivo"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B071FKTTF7\\scenes_v1\\B071FKTTF7_scene_05.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "robot interactivo",
+            "raw": "9|robot interactivo"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B071FKTTF7\\scenes_v2\\B071FKTTF7_v2_scene_10.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B071FKTTF7\\scenes_v2\\B071FKTTF7_v2_scene_08.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "robot interactivo",
+            "raw": "9|robot interactivo"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B071FKTTF7\\scenes_v2\\B071FKTTF7_v2_scene_11.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B071FKTTF7\\scenes_v2\\B071FKTTF7_v2_scene_13.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción robot",
+            "raw": "9|interacción robot"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B071FKTTF7\\scenes_v2\\B071FKTTF7_v2_scene_04.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "robot reconocible",
+            "raw": "8|robot reconocible"
+          }
+        ],
+        "features": [
+          "Introducing buildable, codable, interactive robots from UBTECH Robotics.",
+          "In this kit, you’ll find everything you need to build GrabberBot or DigBot – or build your very own JIMU Robot creation.",
+          "Learn hands-on engineering by programming JIMU robots to navigate obstacles, pick-up objects, and more using Blockly code.",
+          "Program JIMU robots by creating entirely new, custom actions with the PRP (Pose, Record, Play) function.",
+          "Includes 357 snap-together parts, 1 infrared sensor, 1 LED, 4 smooth motion robotic servo motors, power adapter, and quick start guide."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Miko 3 Robot Educativo",
+        "productId": "B0FDWCGJS8",
+        "productName": "Miko 3 Robot Educativo",
+        "filename": "B0FDWCGJS8.mp4",
+        "asin": "B0FDWCGJS8",
+        "clipDuration": 60.03,
+        "estimatedAudioSeconds": 60,
+        "framework": "problema_solucion",
+        "narracionSegments": null,
+        "content": [
+          "¿Tus hijos pierden interés rápido? El Miko 3 Robot Educativo es la solución perfecta. Con sus tarjetas de dibujo temáticas, no solo enseña a dibujar, sino que también promueve la creatividad y fortalece sus habilidades motoras. Y con música incorporada, hace que cada trazo sea divertido y atractivo.",
+          "Su precio actual en Amazon ronda los... 40 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Miko 3 Robot Educativo"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0FDWCGJS8_combined.mp4",
+        "precio": "$40",
+        "productPhoto": "https://m.media-amazon.com/images/I/71cxQAHzeML.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FDWCGJS8\\scenes_v1\\B0FDWCGJS8_scene_06.mp4",
+            "type": "video",
+            "score": 10,
+            "tag": "Robot dibujante",
+            "raw": "10|Robot dibujante"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FDWCGJS8\\scenes_v1\\B0FDWCGJS8_scene_08.mp4",
+            "type": "video",
+            "score": 10,
+            "tag": "Robot de dibujo",
+            "raw": "10|Robot de dibujo"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FDWCGJS8\\scenes_v1\\B0FDWCGJS8_scene_12.mp4",
+            "type": "video",
+            "score": 10,
+            "tag": "Robot de dibujo",
+            "raw": "10|Robot de dibujo"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FDWCGJS8\\scenes_v1\\B0FDWCGJS8_scene_13.mp4",
+            "type": "video",
+            "score": 10,
+            "tag": "Robot de dibujo",
+            "raw": "10|Robot de dibujo"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FDWCGJS8\\scenes_v1\\B0FDWCGJS8_scene_04.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Robot de dibujo",
+            "raw": "9|Robot de dibujo"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FDWCGJS8\\scenes_v1\\B0FDWCGJS8_scene_03.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Robot de dibujo",
+            "raw": "9|Robot de dibujo"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FDWCGJS8\\scenes_v1\\B0FDWCGJS8_scene_07.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Robot dibujante",
+            "raw": "9|Robot dibujante"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FDWCGJS8\\scenes_v1\\B0FDWCGJS8_scene_11.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Robot de dibujo",
+            "raw": "9|Robot de dibujo"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FDWCGJS8\\scenes_v1\\B0FDWCGJS8_scene_10.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Robot de dibujo",
+            "raw": "9|Robot de dibujo"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FDWCGJS8\\scenes_v1\\B0FDWCGJS8_scene_02.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Niño dibujando",
+            "raw": "8|Niño dibujando"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FDWCGJS8\\scenes_v1\\B0FDWCGJS8_scene_05.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "niño jugando",
+            "raw": "5|niño jugando"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FDWCGJS8\\scenes_v1\\B0FDWCGJS8_scene_14.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "dibujos coloridos",
+            "raw": "5|dibujos coloridos"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FDWCGJS8\\scenes_v2\\B0FDWCGJS8_v2_scene_01.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Robot dibujo",
+            "raw": "9|Robot dibujo"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0FDWCGJS8\\scenes_v3\\B0FDWCGJS8_v3_scene_02.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Robot dibujante",
+            "raw": "9|Robot dibujante"
+          }
+        ],
+        "features": [
+          "🎨 Enlightenment Drawing Robot: The Drawing Robot is designed to inspire early learning and creativity in children.Spark a love for art and discovery with our Montessori-inspired drawing robot! It encourages hands-on play while building fine motor skills, problem-solving, and creative confidence. Children not only learn to draw but also build cognitive and artistic skills in a fun and educational way.",
+          "📚 100 Drawing Cards Explore, Learn & Create: The Drawing Robot comes with 100 drawing cards and covering 5 subjects packed with kid-friendly themes like animals, nature, food, and everyday objects! Each card includes simple step-by-step instructions that help young artists gain confidence, artistic expression, and make learning fun.",
+          "🖍️ Fun Musical Drawing Buddy: The Drawing Robot serves as a fun drawing companion, featuring built-in music that makes the drawing experience more enjoyable. This drawing machine Keeping kids engaged with cheerful background music! This creative companion boosts focus and hand-eye coordination as children follow step-by-step instructions.",
+          "🎁 The Perfect Gift for Young Artists:Ideal gift for kids.Ideal for birthdays, Christmas, or just because! This drawing robot combines fun, education, and creativity, making it a must-have for parents looking to inspire their children’s artistic abilities.",
+          "📦 Complete Set for Creative Fun: The Drawing Robot set includes everything your child needs to start creating:Get started right away! The set comes with: 1 drawing robot, 100 drawing cards, 12 markers, 4 drawing pens, 1 reusable drawing board, and a Type-C cable. No extra supplies needed!"
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Sphero BOLT",
+        "productId": "B07DLM5DL7",
+        "productName": "Sphero BOLT",
+        "filename": "B07DLM5DL7.mp4",
+        "asin": "B07DLM5DL7",
+        "clipDuration": 60.03,
+        "estimatedAudioSeconds": null,
+        "framework": "enfoque_caracteristica",
+        "narracionSegments": null,
+        "content": [
+          "-Domina- la programación con Sphero BOLT y su matriz LED programable. Con sensores avanzados para demostrar cómo los sistemas toman decisiones basadas en datos, es ideal para aprender lógica y creatividad al mismo tiempo.",
+          "-Su precio actual en Amazon ronda los... 155 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Sphero BOLT"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07DLM5DL7_combined.mp4",
+        "precio": "$155",
+        "productPhoto": "https://m.media-amazon.com/images/I/61yW6uCmi5L.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07DLM5DL7\\scenes_v1\\B07DLM5DL7_scene_22.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Sphero BOLT",
+            "raw": "9|Sphero BOLT"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07DLM5DL7\\scenes_v2\\B07DLM5DL7_v2_scene_08.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07DLM5DL7\\scenes_v2\\B07DLM5DL7_v2_scene_04.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "robot programable",
+            "raw": "9|robot programable"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07DLM5DL7\\scenes_v2\\B07DLM5DL7_v2_scene_02.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "robot en acción",
+            "raw": "9|robot en acción"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07DLM5DL7\\scenes_v2\\B07DLM5DL7_v2_scene_14.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "robots en acción",
+            "raw": "9|robots en acción"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07DLM5DL7\\scenes_v2\\B07DLM5DL7_v2_scene_11.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "clase de codificación",
+            "raw": "5|clase de codificación"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07DLM5DL7\\scenes_v3\\B07DLM5DL7_v3_scene_06.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07DLM5DL7\\scenes_v3\\B07DLM5DL7_v3_scene_10.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07DLM5DL7\\scenes_v3\\B07DLM5DL7_v3_scene_12.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción clara",
+            "raw": "9|interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07DLM5DL7\\scenes_v3\\B07DLM5DL7_v3_scene_28.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción niños",
+            "raw": "9|interacción niños"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07DLM5DL7\\scenes_v3\\B07DLM5DL7_v3_scene_32.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción robot",
+            "raw": "9|interacción robot"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07DLM5DL7\\scenes_v3\\B07DLM5DL7_v3_scene_39.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción robot",
+            "raw": "9|interacción robot"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07DLM5DL7\\scenes_v3\\B07DLM5DL7_v3_scene_46.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "robot programable",
+            "raw": "8|robot programable"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07DLM5DL7\\scenes_v3\\B07DLM5DL7_v3_scene_07.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "niños interactuando",
+            "raw": "5|niños interactuando"
+          }
+        ],
+        "features": [
+          "MORE THAN JUST A ROBOT: Sphero BOLT turns coding into creativity. Drive, play, and program your robot to explore logic, sensors, and data. Hands-on, safe, and fun for students and lifelong learners alike.",
+          "ADVANCED SENSORS & LED MATRIX: Equipped with programmable sensors and a dynamic LED matrix that can display movement, messages, and data in real time. BOLT helps students visualize their code and explore how systems use inputs and outputs to make decisions.",
+          "CODE 3 WAYS: Use the Sphero Edu app to code BOLT through Draw, Blocks, or Text (Python & JavaScript). Explore projects that connect coding to real-world concepts like pattern recognition and problem solving.",
+          "BUILT TO LEARN & PLAY: Durable, waterproof design with inductive charging and 4+ hours of play. Program BOLT’s movement, lights, and LED matrix animations, and use sensors to detect light, direction, and speed for hands-on, creative learning."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "Anki Vector",
+        "productId": "B07G3ZNK4Y",
+        "productName": "Anki Vector",
+        "filename": "B07G3ZNK4Y.mp4",
+        "asin": "B07G3ZNK4Y",
+        "clipDuration": 60.03,
+        "estimatedAudioSeconds": 60,
+        "framework": "beneficio_oculto",
+        "narracionSegments": null,
+        "content": [
+          "Descubre a Anki Vector, el robot impulsado por inteligencia artificial totalmente autónomo que navega y reconoce caras con naturalidad. Ahora conectado a ChatGPT, ofrece conversaciones inteligentes en varios idiomas. Su cámara HD y sensores avanzados garantizan reconocimiento facial y detección de obstáculos en tiempo real.",
+          "Su precio actual en Amazon ronda los... 200 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: Anki Vector"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07G3ZNK4Y_combined.mp4",
+        "precio": "$200",
+        "productPhoto": "https://m.media-amazon.com/images/I/71bIxyJiH6L.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07G3ZNK4Y\\scenes_v1\\B07G3ZNK4Y_scene_06.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Interacción clara",
+            "raw": "9|Interacción clara"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07G3ZNK4Y\\scenes_v1\\B07G3ZNK4Y_scene_16.mp4",
+            "type": "video",
+            "score": 8,
+            "tag": "Robot autónomo",
+            "raw": "8|Robot autónomo"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07G3ZNK4Y\\scenes_v1\\B07G3ZNK4Y_scene_04.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "robot pequeño",
+            "raw": "5|robot pequeño"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07G3ZNK4Y\\scenes_v1\\B07G3ZNK4Y_scene_02.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "Vector y teléfono",
+            "raw": "5|Vector y teléfono"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07G3ZNK4Y\\scenes_v1\\B07G3ZNK4Y_scene_01.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "producto pequeño",
+            "raw": "5|producto pequeño"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07G3ZNK4Y\\scenes_v1\\B07G3ZNK4Y_scene_05.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "interacción parcial",
+            "raw": "5|interacción parcial"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07G3ZNK4Y\\scenes_v1\\B07G3ZNK4Y_scene_07.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "conexión Vector",
+            "raw": "5|conexión Vector"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07G3ZNK4Y\\scenes_v1\\B07G3ZNK4Y_scene_09.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "interacción móvil",
+            "raw": "5|interacción móvil"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B07G3ZNK4Y\\scenes_v1\\B07G3ZNK4Y_scene_08.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "conexión WiFi",
+            "raw": "5|conexión WiFi"
+          }
+        ],
+        "features": [
+          "AI-Powered & Fully Autonomous: Vector navigates, recognizes faces, and reacts to his surroundings with lifelike independence — no remote control required.",
+          "Now Connected to ChatGPT (subscription required): Experience a new level of conversation! With ChatGPT integration, Vector can answer complex questions, hold meaningful chats, and offer more natural and intelligent responses.",
+          "Multilingual Support: Vector can now understand and speak in multiple languages, making him the perfect smart companion for global households and language learners. Vector can chat in English, Spanish, French, German, and more! Say “Hey Vector.”",
+          "Smart Camera & Sensors: Built with an HD camera and advanced sensors for real-time mapping, facial recognition, and obstacle detection.",
+          "Expressive Personality: Watch Vector come to life with animated eyes, emotions, and playful reactions that evolve as you interact with him."
+        ]
+      },
+      {
+        "type": "content",
+        "title": "ClicBot Robot Kit",
+        "productId": "B0919F9CKS",
+        "productName": "ClicBot Robot Kit",
+        "filename": "B0919F9CKS.mp4",
+        "asin": "B0919F9CKS",
+        "clipDuration": 60.03,
+        "estimatedAudioSeconds": 60,
+        "framework": "comparacion_precio",
+        "narracionSegments": null,
+        "content": [
+          "El ClicBot Robot Kit es un increíble juguete educativo que enseña a los niños a codificar mientras juegan. Con programas de aprendizaje autodidacta, sensores avanzados y módulos expandibles, fomenta la creatividad y la interacción con más de 24 casos prácticos para dominar Scratch y Python.",
+          "Su precio actual en Amazon ronda los... 140 dólares. ¡Link en el primer comentario!"
+        ],
+        "visuals": [
+          "Product image: ClicBot Robot Kit"
+        ],
+        "duration": 25,
+        "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B0919F9CKS_combined.mp4",
+        "precio": "$140",
+        "productPhoto": "https://m.media-amazon.com/images/I/71IpHsE8R7L.jpg",
+        "assets": {
+          "images": [],
+          "videos": []
+        },
+        "scoredAssets": [
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0919F9CKS\\scenes_v1\\B0919F9CKS_scene_05.mp4",
+            "type": "video",
+            "score": 10,
+            "tag": "mBot2 robot",
+            "raw": "10|mBot2 robot"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0919F9CKS\\scenes_v1\\B0919F9CKS_scene_02.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "interacción robot",
+            "raw": "9|interacción robot"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0919F9CKS\\scenes_v1\\B0919F9CKS_scene_01.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "robot interactivo",
+            "raw": "9|robot interactivo"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0919F9CKS\\scenes_v1\\B0919F9CKS_scene_04.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "robot interactivo",
+            "raw": "9|robot interactivo"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0919F9CKS\\scenes_v1\\B0919F9CKS_scene_06.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "robot interactivo",
+            "raw": "9|robot interactivo"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0919F9CKS\\scenes_v1\\B0919F9CKS_scene_03.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "programación mBot2",
+            "raw": "5|programación mBot2"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0919F9CKS\\scenes_v2\\B0919F9CKS_v2_scene_01.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "robot interactivo",
+            "raw": "9|robot interactivo"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0919F9CKS\\scenes_v2\\B0919F9CKS_v2_scene_02.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "mBot2 interactivo",
+            "raw": "9|mBot2 interactivo"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0919F9CKS\\scenes_v2\\B0919F9CKS_v2_scene_03.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "mBot2 interactivo",
+            "raw": "9|mBot2 interactivo"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0919F9CKS\\scenes_v2\\B0919F9CKS_v2_scene_04.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "robot interactivo",
+            "raw": "9|robot interactivo"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0919F9CKS\\scenes_v2\\B0919F9CKS_v2_scene_05.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "Robot interactivo",
+            "raw": "9|Robot interactivo"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0919F9CKS\\scenes_v2\\B0919F9CKS_v2_scene_07.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "robot interactivo",
+            "raw": "9|robot interactivo"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0919F9CKS\\scenes_v2\\B0919F9CKS_v2_scene_08.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "robots interactivos",
+            "raw": "9|robots interactivos"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0919F9CKS\\scenes_v2\\B0919F9CKS_v2_scene_11.mp4",
+            "type": "video",
+            "score": 9,
+            "tag": "robot interactivo",
+            "raw": "9|robot interactivo"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0919F9CKS\\scenes_v2\\B0919F9CKS_v2_scene_06.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "brazo robótico",
+            "raw": "5|brazo robótico"
+          },
+          {
+            "path": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\product_assets\\B0919F9CKS\\scenes_v2\\B0919F9CKS_v2_scene_12.mp4",
+            "type": "video",
+            "score": 5,
+            "tag": "robots decorativos",
+            "raw": "5|robots decorativos"
+          }
+        ],
+        "features": [
+          "Learn Through Play: Kids can ask mBot2 about the weather, make it sing, change the lights to make it move, or flip it over to watch it get grumpy! There are endless fun interactive features to explore with this smart coding robot for kids ages 8-12. (Coding guides included.)",
+          "Easy to Use: Build mBot2 robotics kit from scratch following step-by-step guide. Play the STEM toys mBot2 with 8+ modes (Drive, Draw and Run, Musician, Voice Control, Code, Build, WIFI and etc.) through APP and Use blocks to code without taking care of syntax. Enjoy up to 5 hours of playtime on a single charge and switch between Bluetooth, USB and WIFI control ways. Use mBot2 robot kit anytime and anywhere.",
+          "Coding Learning Path: Program mBot2 with 4 coding project cards and see it moves the way you wants! (No coding experience needed before). Learn 24+ cases and 8+ courses to master Scratch and Python programming, robotics, computer science, game development and data science. With ever-evolving curriculums and lifelong free programming software (with more than 16 million satisfied users), create your own unique STEM robot and projects.",
+          "The Best in Its Class: Designed from Makeblock's mBuild platform, mBot2 coding robot comes with 10+ advanced sensors (allowing for line-following, obstacle avoidance, color identification and etc.) and expandable with 30+ modules, all supporting Internet of Things (IoT) learning. For classroom use, the WIFI module allows multiple mBot2 to complete tasks together and sharing the same programming at the same time.",
+          "Great Gift for Kids: Simple structure, kids can easily build a robot toy for 8-12 years old kids in 30 minutes. The robot kit can help kids learn more about robotics components and toy mechanical design. Great robot assembly kit gift for graduation, birthday, Christmas, Children's Day or family entertainment time. If you have any questions while using this robotics kit for kids ages 8-12 and up, please feel free to contact us. We will reply to you as soon as possible."
+        ]
+      }
+    ],
+    "totalDuration": 125
+  },
+  "conclusion": {
+    "type": "conclusion",
+    "title": "Outro",
+    "recap": [
+      null
+    ],
+    "finalThought": "",
+    "duration": "10 seconds"
+  },
+  "callToAction": {
+    "type": "call_to_action",
+    "subscribe": "¡Suscríbete para más tops!",
+    "like": "Dale like si descubriste algo nuevo.",
+    "comment": "¿Cuál fue tu favorito? Déjalo en los comentarios.",
+    "nextVideo": "",
+    "duration": "10 seconds"
+  },
+  "duration": "2:35",
+  "tone": "engaging",
+  "pacing": "quick",
+  "keywords": [
+    "robots",
+    "humanoides",
+    "sorprendentes",
+    "amazon"
+  ],
+  "metadata": {
+    "strategy": {
+      "topic": "Top 5 Robots Humanoides Sorprendentes en Amazon",
+      "angle": "Top 5 Robots Humanoides Sorprendentes en Amazon",
+      "targetAudience": "Compradores de gadgets, curiosos de tecnología, amantes de productos virales",
+      "contentType": "List",
+      "numProductos": 5,
+      "introScript": "¿Sabías que ya puedes tener un robot humanoide en casa? Estamos hablando de robots que interactúan como humanos y algunos hasta enseñan a programar. Hoy te muestro cinco robots asombrosos que nunca habrías imaginado encontrar en Amazon. No te los querrás perder.",
+      "keywords": [
+        "robots",
+        "humanoides",
+        "sorprendentes",
+        "amazon"
+      ],
+      "estimatedViews": 5592,
+      "bestPublishTime": "2026-05-29T20:00:00.000Z",
+      "competitorAnalysis": [],
+      "productos": [
+        {
+          "nombre": "UBTECH Alpha 1 Pro",
+          "searchTermEn": "UBTECH Alpha 1 Pro robot",
+          "id": "B071FKTTF7",
+          "filename": "B071FKTTF7.mp4"
+        },
+        {
+          "nombre": "Miko 3 Robot Educativo",
+          "searchTermEn": "Miko 3 educational robot",
+          "id": "B0FDWCGJS8",
+          "filename": "B0FDWCGJS8.mp4"
+        },
+        {
+          "nombre": "Sphero BOLT",
+          "searchTermEn": "Sphero BOLT robot",
+          "id": "B07DLM5DL7",
+          "filename": "B07DLM5DL7.mp4"
+        },
+        {
+          "nombre": "Anki Vector",
+          "searchTermEn": "Anki Vector robot",
+          "id": "B07G3ZNK4Y",
+          "filename": "B07G3ZNK4Y.mp4"
+        },
+        {
+          "nombre": "ClicBot Robot Kit",
+          "searchTermEn": "ClicBot robot kit",
+          "id": "B0919F9CKS",
+          "filename": "B0919F9CKS.mp4"
+        }
+      ],
+      "_sourceFile": "api",
+      "createdAt": "2026-05-25T18:01:43.171Z",
+      "_requestedCount": 5,
+      "_adaptedCount": 5,
+      "introProductsOrder": [
+        {
+          "nombre": "UBTECH Alpha 1 Pro",
+          "id": "B071FKTTF7",
+          "filename": "B071FKTTF7_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B071FKTTF7_combined.mp4"
+        },
+        {
+          "nombre": "Anki Vector",
+          "id": "B07G3ZNK4Y",
+          "filename": "B07G3ZNK4Y_combined.mp4",
+          "videoPath": "C:\\PROYECTOS\\youtube-automation-agent\\uploads\\B07G3ZNK4Y_combined.mp4"
+        }
+      ],
+      "_scriptNonce": "nonce_1779733365994_4qqfp5"
+    },
+    "generatedAt": "2026-05-25T18:24:04.190Z",
+    "version": "2.0-listicle",
+    "productos": [
+      {
+        "nombre": "UBTECH Alpha 1 Pro",
+        "searchTermEn": "UBTECH Alpha 1 Pro robot",
+        "id": "B071FKTTF7",
+        "filename": "B071FKTTF7.mp4"
+      },
+      {
+        "nombre": "Miko 3 Robot Educativo",
+        "searchTermEn": "Miko 3 educational robot",
+        "id": "B0FDWCGJS8",
+        "filename": "B0FDWCGJS8.mp4"
+      },
+      {
+        "nombre": "Sphero BOLT",
+        "searchTermEn": "Sphero BOLT robot",
+        "id": "B07DLM5DL7",
+        "filename": "B07DLM5DL7.mp4"
+      },
+      {
+        "nombre": "Anki Vector",
+        "searchTermEn": "Anki Vector robot",
+        "id": "B07G3ZNK4Y",
+        "filename": "B07G3ZNK4Y.mp4"
+      },
+      {
+        "nombre": "ClicBot Robot Kit",
+        "searchTermEn": "ClicBot robot kit",
+        "id": "B0919F9CKS",
+        "filename": "B0919F9CKS.mp4"
+      }
+    ]
+  },
+  "fullScript": "TITLE: Top 5 Robots Humanoides Sorprendentes en Amazon\n\n══════════════════════════════════════════════════\n\n[0:00-0:10] HOOK\nSorprendentemente interactivo, este robot construye y programa. Sorprendentemente inteligente, este robot responde a tus preguntas.\n\n[0:10-0:15] INTRODUCTION\nSuscríbete y encuentra los links de compra en el primer comentario. Empezamos.\n\n\n\n\nMAIN CONTENT\n──────────────────────────────\n\n[0:25] UBTECH ALPHA 1 PRO\nImagínate construyendo el futuro con el UBTECH Alpha 1 Pro. Este kit educativo incluye todo lo necesario para crear tus propios robots como el GrabberBot o DigBot, usando la codificación Blockly para navegar y recoger objetos. La función PRP te permite grabar, reproducir e inventar acciones nuevas, haciendo de cada interacción una experiencia sensorial única. Conviértete en ingeniero mientras te diviertes y aprendes.\nSu precio actual en Amazon ronda los... 17 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: UBTECH Alpha 1 Pro]\n\n[0:25] MIKO 3 ROBOT EDUCATIVO\n¿Tus hijos pierden interés rápido? El Miko 3 Robot Educativo es la solución perfecta. Con sus tarjetas de dibujo temáticas, no solo enseña a dibujar, sino que también promueve la creatividad y fortalece sus habilidades motoras. Y con música incorporada, hace que cada trazo sea divertido y atractivo.\nSu precio actual en Amazon ronda los... 40 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Miko 3 Robot Educativo]\n\n[0:25] SPHERO BOLT\n-Domina- la programación con Sphero BOLT y su matriz LED programable. Con sensores avanzados para demostrar cómo los sistemas toman decisiones basadas en datos, es ideal para aprender lógica y creatividad al mismo tiempo.\n-Su precio actual en Amazon ronda los... 155 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Sphero BOLT]\n\n[0:25] ANKI VECTOR\nDescubre a Anki Vector, el robot impulsado por inteligencia artificial totalmente autónomo que navega y reconoce caras con naturalidad. Ahora conectado a ChatGPT, ofrece conversaciones inteligentes en varios idiomas. Su cámara HD y sensores avanzados garantizan reconocimiento facial y detección de obstáculos en tiempo real.\nSu precio actual en Amazon ronda los... 200 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: Anki Vector]\n\n[0:25] CLICBOT ROBOT KIT\nEl ClicBot Robot Kit es un increíble juguete educativo que enseña a los niños a codificar mientras juegan. Con programas de aprendizaje autodidacta, sensores avanzados y módulos expandibles, fomenta la creatividad y la interacción con más de 24 casos prácticos para dominar Scratch y Python.\nSu precio actual en Amazon ronda los... 140 dólares. ¡Link en el primer comentario!\n\n[VISUALS: Product image: ClicBot Robot Kit]\n\n[10 seconds] CONCLUSION\nundefined\n\n\n\n[10 seconds] CALL TO ACTION\n¡Suscríbete para más tops!\nDale like si descubriste algo nuevo.\n¿Cuál fue tu favorito? Déjalo en los comentarios.\n\n\n══════════════════════════════════════════════════\nESTIMATED DURATION: 2:35\nTONE: engaging\nPACING: quick\nKEYWORDS: robots, humanoides, sorprendentes, amazon\n"
+}

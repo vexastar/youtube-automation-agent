@@ -11,6 +11,40 @@ const ffmpeg = require('fluent-ffmpeg');
 const { Logger } = require('./logger');
 const { matchSegmentsToAssets } = require('./asset-narration-matcher');
 
+// ========================================================
+// 🤖 SIMULADOR LOCAL (Redirige tráfico de OpenAI a Qwen)
+// ========================================================
+class LocalOllamaClient {
+  constructor() {
+    this.audio = { speech: { create: async () => { throw new Error('Ollama no soporta TTS directo, se usará Kokoro.'); } } };
+    this.chat = {
+      completions: {
+        create: async (params) => {
+          const model = process.env.OLLAMA_MODEL || 'qwen2.5:7b';
+          const isJson = params.response_format?.type === 'json_object';
+          
+          // Escudo: Si el código envía una imagen (Vision), Qwen 2.5 texto no lo soporta. 
+          // Devolvemos el centro perfecto (0.5) para que el video siga renderizando sin fallar.
+          const hasImage = params.messages.some(m => Array.isArray(m.content) && m.content.some(c => c.type === 'image_url'));
+          if (hasImage) {
+            return { choices: [{ message: { content: '{"center_x_percentage": 0.5}' } }] };
+          }
+
+          const payload = {
+            model: model,
+            messages: params.messages,
+            stream: false,
+            format: isJson ? 'json' : undefined,
+            options: { temperature: params.temperature || 0.8 }
+          };
+          
+          const res = await axios.post(`${process.env.OLLAMA_HOST || 'http://localhost:11434'}/api/chat`, payload);
+          return { choices: [{ message: { content: res.data.message.content } }] };
+        }
+      }
+    };
+  }
+}
 if (!process.env.FONTCONFIG_FILE) {
   process.env.FONTCONFIG_FILE = path.resolve(__dirname, '..', 'config', 'fonts.conf').replace(/\\/g, '/');
 }
@@ -30,15 +64,20 @@ class AIVideoGenerator {
   constructor(credentials) {
     this.logger = new Logger('AIVideoGenerator');
     
-    const openaiKey = credentials.openai?.apiKey || process.env.OPENAI_API_KEY;
-    const replicateKey = credentials.replicate?.apiKey || process.env.REPLICATE_API_KEY;
-    
-    if (openaiKey) {
-      this.openai = new OpenAI({ apiKey: openaiKey });
-      this.logger.info('OpenAI service initialized');
+const useLocalAI = process.env.USE_LOCAL_AI === 'true';
+    if (useLocalAI) {
+      this.logger.info('🎚️ USE_LOCAL_AI=true -> Conectando Qwen 2.5 local como motor principal');
+      this.openai = new LocalOllamaClient();
     } else {
-      this.logger.warn('OpenAI API key not found - AI features will be simulated');
+      const openaiKey = credentials.openai?.apiKey || process.env.OPENAI_API_KEY;
+      if (openaiKey) {
+        this.openai = new OpenAI({ apiKey: openaiKey });
+        this.logger.info('☁️ OpenAI service initialized (Modo Nube/Respaldo)');
+      } else {
+        this.logger.warn('OpenAI API key not found - AI features will be simulated');
+      }
     }
+    const replicateKey = credentials.replicate?.apiKey || process.env.REPLICATE_API_KEY;
     
     if (replicateKey) {
       this.replicate = new Replicate({ auth: replicateKey });
@@ -167,11 +206,63 @@ _sanitizeScriptForTTS(text) {
       .trim();
   }
 
+async generateKokoroTTS(text, outputPath) {
+    this.logger.info(`🤖 Generando audio 100% local con Kokoro TTS...`);
+    try {
+      // Limpieza exhaustiva para evitar romper Python
+      const safeText = text.replace(/\\/g, '\\\\').replace(/"/g, '\\"').replace(/\$/g, '\\$').replace(/'/g, "\\'");
+      const pythonPath = '/home/ubuntu/kokoro_tts/venv/bin/python';
+      const kokoroDir = '/home/ubuntu/kokoro_tts';
+      
+      const pythonScript = `
+import sys
+import soundfile as sf
+sys.path.append("${kokoroDir}")
+from kokoro_onnx import Kokoro
+
+text = """${safeText}"""
+output_path = "${outputPath}"
+
+try:
+    kokoro = Kokoro("${kokoroDir}/kokoro-v1.0.onnx", "${kokoroDir}/voices-v1.0.bin")
+    muestras, frecuencia = kokoro.create(text, voice="af_bella", speed=1.0, lang="en-us")
+    sf.write(output_path, muestras, frecuencia)
+except Exception as e:
+    print(f"ERROR: {str(e)}")
+    sys.exit(1)
+`;
+      const tempScriptPath = path.join(__dirname, '..', 'temp', `kokoro_temp_${Date.now()}.py`);
+      await fs.writeFile(tempScriptPath, pythonScript);
+
+      const util = require('util');
+      const execPromise = util.promisify(require('child_process').exec);
+      await execPromise(`${pythonPath} ${tempScriptPath}`);
+      
+      if (fsSync.existsSync(tempScriptPath)) fsSync.unlinkSync(tempScriptPath);
+      
+      return { audioPath: outputPath, wordTimestamps: [] };
+    } catch (error) {
+      this.logger.error(`❌ Error en Kokoro TTS: ${error.message}`);
+      throw error;
+    }
+  }
+
   async generateTTSAudio(text, outputPath, toneVariant = null, targetDuration = null) {
     this.logger.info('Generating TTS audio...');
     const cleanText = this._sanitizeScriptForTTS(text);
     const toneSettings = this._getToneTTSSettings(toneVariant);
 
+    // 🎚️ Lógica del Interruptor
+    if (process.env.USE_LOCAL_AI === 'true') {
+      try {
+        return await this.generateKokoroTTS(cleanText, outputPath);
+      } catch (error) {
+        this.logger.warn('Kokoro falló — generando silencio de respaldo...');
+        return await this._generateSilenceAudioWithSimulatedTimestamps(cleanText, outputPath);
+      }
+    }
+
+    // Lógica Original (ElevenLabs / OpenAI)
     if (this.ttsProvider === 'elevenlabs') {
       if (!this.elevenLabsApiKeyValid || !this.elevenLabsVoiceId) {
         this.logger.warn(`TTS_PROVIDER=elevenlabs faltante. Fallback OpenAI TTS...`);

@@ -2,6 +2,34 @@ const OpenAI = require('openai');
 const fs = require('fs');
 const path = require('path');
 const { Logger } = require('../utils/logger');
+const axios = require('axios');
+
+// ========================================================
+// 🤖 SIMULADOR LOCAL (Redirige tráfico de OpenAI a Qwen)
+// ========================================================
+class LocalOllamaClient {
+  constructor() {
+    this.chat = {
+      completions: {
+        create: async (params) => {
+          const model = process.env.OLLAMA_MODEL || 'qwen2.5:7b';
+          const isJson = params.response_format?.type === 'json_object';
+          
+          const payload = {
+            model: model, // Esto sobrescribe automáticamente cualquier 'gpt-4o' del código
+            messages: params.messages,
+            stream: false,
+            format: isJson ? 'json' : undefined,
+            options: { temperature: params.temperature || 0.8 }
+          };
+          
+          const res = await axios.post(`${process.env.OLLAMA_HOST || 'http://localhost:11434'}/api/chat`, payload);
+          return { choices: [{ message: { content: res.data.message.content } }] };
+        }
+      }
+    };
+  }
+}
 
 // ═══ AUDIO DURATIONS (segundos) ═══
 // INTRO: 25-35 segundos (hook + presentación de productos)
@@ -47,11 +75,17 @@ class ScriptWriterAgent {
     this.logger = new Logger('ScriptWriter');
     this.templates = this.loadTemplates();
 
-    // Initialize OpenAI
+// Inicializar IA (Local vs Nube)
     const creds = credentials.credentials || credentials;
-    const apiKey = creds.openai?.apiKey || process.env.OPENAI_API_KEY;
-    if (apiKey) {
-      this.openai = new OpenAI({ apiKey });
+    if (process.env.USE_LOCAL_AI === 'true') {
+      this.logger.info('🎚️ USE_LOCAL_AI=true -> Conectando Qwen 2.5 local (Script Writer)');
+      this.openai = new LocalOllamaClient();
+    } else {
+      const apiKey = creds.openai?.apiKey || process.env.OPENAI_API_KEY;
+      if (apiKey) {
+        this.openai = new OpenAI({ apiKey });
+        this.logger.info('☁️ OpenAI service initialized (Respaldo en la nube)');
+      }
     }
   }
 

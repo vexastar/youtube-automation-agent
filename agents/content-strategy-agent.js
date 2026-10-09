@@ -12,7 +12,32 @@ const PER_PRODUCT_DURATION_DEFAULT = parseInt(process.env.PER_PRODUCT_DURATION_D
 const INTRO_DURATION_MIN = parseInt(process.env.INTRO_DURATION_MIN || '25', 10);
 const INTRO_DURATION_MAX = parseInt(process.env.INTRO_DURATION_MAX || '30', 10);
 const INTRO_DURATION_AVG = Math.round((INTRO_DURATION_MIN + INTRO_DURATION_MAX) / 2);
-
+// ========================================================
+// 🤖 SIMULADOR LOCAL (Redirige tráfico de OpenAI a Qwen)
+// ========================================================
+class LocalOllamaClient {
+  constructor() {
+    this.chat = {
+      completions: {
+        create: async (params) => {
+          const model = process.env.OLLAMA_MODEL || 'qwen2.5:7b';
+          const isJson = params.response_format?.type === 'json_object';
+          
+          const payload = {
+            model: model,
+            messages: params.messages,
+            stream: false,
+            format: isJson ? 'json' : undefined,
+            options: { temperature: params.temperature || 0.8 }
+          };
+          
+          const res = await axios.post(`${process.env.OLLAMA_HOST || 'http://localhost:11434'}/api/chat`, payload);
+          return { choices: [{ message: { content: res.data.message.content } }] };
+        }
+      }
+    };
+  }
+}
 class ContentStrategyAgent {
   constructor(db, credentials) {
     this.db = db;
@@ -22,11 +47,17 @@ class ContentStrategyAgent {
     this.competitorData = [];
     this.contentCalendar = [];
 
-    // Initialize OpenAI
+// Inicializar IA (Local vs Nube)
     const creds = credentials.credentials || credentials;
-    const apiKey = creds.openai?.apiKey || process.env.OPENAI_API_KEY;
-    if (apiKey) {
-      this.openai = new OpenAI({ apiKey });
+    if (process.env.USE_LOCAL_AI === 'true') {
+      this.logger.info('🎚️ USE_LOCAL_AI=true -> Conectando Qwen 2.5 local (Content Strategy)');
+      this.openai = new LocalOllamaClient();
+    } else {
+      const apiKey = creds.openai?.apiKey || process.env.OPENAI_API_KEY;
+      if (apiKey) {
+        this.openai = new OpenAI({ apiKey });
+        this.logger.info('☁️ OpenAI service initialized (Respaldo en la nube)');
+      }
     }
   }
 

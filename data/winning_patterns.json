@@ -2,7 +2,7 @@
   "topCategories": [
     {
       "category": "28",
-      "frequency": 313
+      "frequency": 315
     },
     {
       "category": "22",
@@ -15,6 +15,16 @@
   ],
   "avgEngagement": {},
   "topPerformers": [
+    {
+      "productName": "SofaBaton X2 Control Remoto Universal con",
+      "category": 28,
+      "publishDate": "2026-10-08T23:06:10.575Z"
+    },
+    {
+      "productName": "Govee Glide Y RGBIC Luces de",
+      "category": 28,
+      "publishDate": "2026-10-08T23:06:10.572Z"
+    },
     {
       "productName": "SVANTTO Lápiz Traductor",
       "category": 28,
@@ -54,18 +64,8 @@
       "productName": "MOFT Soporte Plegable para Laptop Mesa",
       "category": 22,
       "publishDate": "2026-10-06T23:29:06.645Z"
-    },
-    {
-      "productName": "Ooni Koda 16 Horno de Pizza",
-      "category": 22,
-      "publishDate": "2026-10-06T23:29:06.642Z"
-    },
-    {
-      "productName": "Ekster Parliament Wallet",
-      "category": 22,
-      "publishDate": "2026-10-06T23:29:06.639Z"
     }
   ],
-  "lastUpdated": "2026-10-07T01:07:13.735Z",
-  "totalProductsPublished": 391
+  "lastUpdated": "2026-10-08T23:06:10.583Z",
+  "totalProductsPublished": 393
 }

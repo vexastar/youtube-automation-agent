@@ -12,6 +12,15 @@ const { Logger } = require('./logger');
 const { matchSegmentsToAssets } = require('./asset-narration-matcher');
 
 // ========================================================
+// 🔠 GESTIÓN DE FUENTES MULTI-PLATAFORMA (Windows / Linux)
+// ========================================================
+const IS_WINDOWS = process.platform === 'win32';
+const FONT_BOLD = IS_WINDOWS ? 'C\\\\:/Windows/Fonts/ariblk.ttf' : '/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf';
+const FONT_REGULAR = IS_WINDOWS ? 'C\\\\:/Windows/Fonts/arial.ttf' : '/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf';
+const FONT_BOLD_ALT = IS_WINDOWS ? 'C\\\\:/Windows/Fonts/arialbd.ttf' : '/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf';
+const FONT_EMOJI = IS_WINDOWS ? 'C\\\\:/Windows/Fonts/seguiemj.ttf' : '/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf';
+
+// ========================================================
 // 🤖 SIMULADOR LOCAL (Redirige tráfico de OpenAI a Qwen)
 // ========================================================
 class LocalOllamaClient {
@@ -101,14 +110,19 @@ const useLocalAI = process.env.USE_LOCAL_AI === 'true';
     this.lowerThirdFont = this._detectFont();
   }
 
-  _detectFont() {
-    const candidates = [
+_detectFont() {
+    const candidates = IS_WINDOWS ? [
       'C:/Windows/Fonts/ariblk.ttf',
       'C:/Windows/Fonts/arial.ttf'
+    ] : [
+      '/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf',
+      '/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf'
     ];
+    
     for (const f of candidates) {
       if (fsSync.existsSync(f)) {
-        return f.replace(/:/g, '\\:');
+        // En Windows, FFmpeg exige escapar los dos puntos (C\:)
+        return IS_WINDOWS ? f.replace(/:/g, '\\:') : f;
       }
     }
     return null;
@@ -225,7 +239,7 @@ output_path = "${outputPath}"
 
 try:
     kokoro = Kokoro("${kokoroDir}/kokoro-v1.0.onnx", "${kokoroDir}/voices-v1.0.bin")
-    muestras, frecuencia = kokoro.create(text, voice="af_bella", speed=1.0, lang="en-us")
+    muestras, frecuencia = kokoro.create(text, voice="Mi_voz_clonada", speed=1.0, lang="e")
     sf.write(output_path, muestras, frecuencia)
 except Exception as e:
     print(f"ERROR: {str(e)}")
@@ -1050,7 +1064,7 @@ _applyAllLowerThirds(inputPath, outputPath, productsMeta) {
               // Mantenemos tus textos estáticos originales de diseño (¿CONOCIAS ESTO? y TECH FINDS AMAZON)
               this.logger.info(`[IntroShort] Aplicando diseño y fondo desenfocado al clip ${clipIndex + 1}...`);
               const tempVertClip = path.join(tempDir, `${productionId}_vert_intro_${clipIndex}.mp4`);
-              const filterComplex = `[0:v]fps=30,scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,scale=270:480,boxblur=10:10,scale=1080:1920,colorchannelmixer=rr=0.6:gg=0.6:bb=0.6[bg];[0:v]fps=30,scale=1500:-1[fg];[bg][fg]overlay=(W-w)/2:(H-h)/2,drawtext=fontfile='C\\:/Windows/Fonts/ariblk.ttf':text='¿CONOCIAS ESTO?':fontcolor=white:bordercolor=#198038:borderw=5:fontsize=75:x=(W-text_w)/2:y=300,drawtext=fontfile='C\\:/Windows/Fonts/arial.ttf':text='TECH FINDS AMAZON':fontcolor=white:alpha=0.6:fontsize=35:x=(W-text_w)/2:y=H-500,setsar=1,format=yuv420p[v]`;
+              const filterComplex = `[0:v]fps=30,scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,scale=270:480,boxblur=10:10,scale=1080:1920,colorchannelmixer=rr=0.6:gg=0.6:bb=0.6[bg];[0:v]fps=30,scale=1500:-1[fg];[bg][fg]overlay=(W-w)/2:(H-h)/2,drawtext=fontfile='${FONT_BOLD}':text='¿CONOCIAS ESTO?':fontcolor=white:bordercolor=#198038:borderw=5:fontsize=75:x=(W-text_w)/2:y=300,drawtext=fontfile='C\\:/Windows/Fonts/arial.ttf':text='TECH FINDS AMAZON':fontcolor=white:alpha=0.6:fontsize=35:x=(W-text_w)/2:y=H-500,setsar=1,format=yuv420p[v]`;
 
               await new Promise((res, rej) => {
                 ffmpeg(tempRawClip)
@@ -1094,7 +1108,7 @@ _applyAllLowerThirds(inputPath, outputPath, productsMeta) {
           const fallbackPath = path.join(tempDir, `${productionId}_vert_fallback.mp4`);
           await new Promise((res, rej) => {
             ffmpeg(sourceVideoPath)
-              .complexFilter([`[0:v]fps=30,scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,scale=270:480,boxblur=10:10,scale=1080:1920,colorchannelmixer=rr=0.6:gg=0.6:bb=0.6[bg];[0:v]fps=30,scale=1500:-1[fg];[bg][fg]overlay=(W-w)/2:(H-h)/2,drawtext=fontfile='C\\:/Windows/Fonts/ariblk.ttf':text='¿CONOCIAS ESTO?':fontcolor=white:bordercolor=#198038:borderw=5:fontsize=75:x=(W-text_w)/2:y=300,drawtext=fontfile='C\\:/Windows/Fonts/arial.ttf':text='TECH FINDS AMAZON':fontcolor=white:alpha=0.6:fontsize=35:x=(W-text_w)/2:y=H-500,setsar=1,format=yuv420p[v]`])
+              .complexFilter([`[0:v]fps=30,scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,scale=270:480,boxblur=10:10,scale=1080:1920,colorchannelmixer=rr=0.6:gg=0.6:bb=0.6[bg];[0:v]fps=30,scale=1500:-1[fg];[bg][fg]overlay=(W-w)/2:(H-h)/2,drawtext=fontfile='${FONT_BOLD}':text='¿CONOCIAS ESTO?':fontcolor=white:bordercolor=#198038:borderw=5:fontsize=75:x=(W-text_w)/2:y=300,drawtext=fontfile='C\\:/Windows/Fonts/arial.ttf':text='TECH FINDS AMAZON':fontcolor=white:alpha=0.6:fontsize=35:x=(W-text_w)/2:y=H-500,setsar=1,format=yuv420p[v]`])
               .outputOptions(['-map', '[v]', '-c:v', 'libx264', '-preset', 'fast', '-crf', '20', '-an'])
               .output(fallbackPath)
               .on('error', rej)
@@ -1409,7 +1423,7 @@ const bgmVolume = parseFloat(process.env.BGM_VOLUME || '0.15'); // Ajustado para
         const verticalClips = [];
 
         // 2. Filtro con fondo desenfocado optimizado, zoom y textos configurados
-        const filterComplex = `[0:v]fps=30,scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,scale=270:480,boxblur=10:10,scale=1080:1920,colorchannelmixer=rr=0.6:gg=0.6:bb=0.6[bg];[0:v]fps=30,scale=1500:-1[fg];[bg][fg]overlay=(W-w)/2:(H-h)/2,drawtext=fontfile='C\\:/Windows/Fonts/ariblk.ttf':text='¿CONOCIAS ESTO?':fontcolor=white:bordercolor=#198038:borderw=5:fontsize=75:x=(W-text_w)/2:y=300,drawtext=fontfile='C\\:/Windows/Fonts/arial.ttf':text='TECH FINDS AMAZON':fontcolor=white:alpha=0.6:fontsize=35:x=(W-text_w)/2:y=H-500,setsar=1,format=yuv420p[v]`;
+        const filterComplex = `[0:v]fps=30,scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,scale=270:480,boxblur=10:10,scale=1080:1920,colorchannelmixer=rr=0.6:gg=0.6:bb=0.6[bg];[0:v]fps=30,scale=1500:-1[fg];[bg][fg]overlay=(W-w)/2:(H-h)/2,drawtext=fontfile='C\\:/Windows/Fonts/ariblk.ttf':text='¿CONOCIAS ESTO?':fontcolor=white:bordercolor=#198038:borderw=5:fontsize=75:x=(W-text_w)/2:y=300,drawtext=fontfile='${FONT_REGULAR}':text='TECH FINDS AMAZON':fontcolor=white:alpha=0.6:fontsize=35:x=(W-text_w)/2:y=H-500,setsar=1,format=yuv420p[v]`;
 
         // 3. Extraer fragmentos aleatorios (2 a 4 segundos) del video original
         while (accumulatedDuration < targetVideoDuration) {
@@ -1701,7 +1715,7 @@ const bgmVolume = parseFloat(process.env.BGM_VOLUME || '0.15'); // Ajustado para
           const labelText = `${productNumber}. ${cleanTitle}`;
 
           const filterComplex = `[0:v]fps=30,scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,scale=270:480,boxblur=10:10,scale=1080:1920,colorchannelmixer=rr=0.6:gg=0.6:bb=0.6[bg];[0:v]fps=30,scale=1500:-1[fg];[bg][fg]overlay=(W-w)/2:(H-h)/2,` +
-          `drawtext=fontfile='C\\:/Windows/Fonts/arialbd.ttf':text='  ${labelText}  ':fontcolor=black:box=1:boxcolor=white@0.95:boxborderw=14:fontsize=45:x=(W-text_w)/2:y=180,setsar=1,format=yuv420p[v]`;
+          `drawtext=fontfile='${FONT_BOLD_ALT}':text='  ${labelText}  ':fontcolor=black:box=1:boxcolor=white@0.95:boxborderw=14:fontsize=45:x=(W-text_w)/2:y=180,setsar=1,format=yuv420p[v]`;
 
           await new Promise((res, rej) => {
             ffmpeg(vPath).inputOptions(['-ss', startOffset.toFixed(3), '-t', clipDur.toFixed(3)])
@@ -1748,7 +1762,7 @@ const bgmVolume = parseFloat(process.env.BGM_VOLUME || '0.15'); // Ajustado para
 
         await new Promise((res, rej) => {
           ffmpeg().input(rawMontagePath).input(finalAudioPath)
-            .complexFilter([`[0:v]drawtext=fontfile='C\\:/Windows/Fonts/seguiemj.ttf':text='👇 VIDEO COMPLETO AQUÍ 👇':fontcolor=white:box=1:boxcolor=black@0.6:boxborderw=15:fontsize=65:x=(W-text_w)/2:y=H-280:enable='gte(t,${emojiStart.toFixed(2)})'[vout]`])
+            .complexFilter([`[0:v]drawtext=fontfile='${FONT_EMOJI}':text='👇 VIDEO COMPLETO AQUÍ 👇':fontcolor=white:box=1:boxcolor=black@0.6:boxborderw=15:fontsize=65:x=(W-text_w)/2:y=H-280:enable='gte(t,${emojiStart.toFixed(2)})'[vout]`])
             .outputOptions(['-map', '[vout]', '-map', '1:a', '-c:v', 'libx264', '-preset', 'fast', '-crf', '20', '-c:a', 'aac', '-b:a', '192k', '-shortest', '-y'])
             .output(outputPath).on('end', res).on('error', rej).run();
         });

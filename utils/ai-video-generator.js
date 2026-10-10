@@ -239,7 +239,7 @@ output_path = "${outputPath}"
 
 try:
     kokoro = Kokoro("${kokoroDir}/kokoro-v1.0.onnx", "${kokoroDir}/voices-v1.0.bin")
-    muestras, frecuencia = kokoro.create(text, voice="Mi_voz_clonada", speed=1.0, lang="es")
+    muestras, frecuencia = kokoro.create(text, voice="em_alex", speed=1.0, lang="es")
     sf.write(output_path, muestras, frecuencia)
 except Exception as e:
     print(f"ERROR: {str(e)}")

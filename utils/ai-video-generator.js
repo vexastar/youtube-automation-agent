@@ -1423,7 +1423,7 @@ const bgmVolume = parseFloat(process.env.BGM_VOLUME || '0.15'); // Ajustado para
         const verticalClips = [];
 
         // 2. Filtro con fondo desenfocado optimizado, zoom y textos configurados
-        const filterComplex = `[0:v]fps=30,scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,scale=270:480,boxblur=10:10,scale=1080:1920,fontfile='${FONT_BOLD}'colorchannelmixer=rr=0.6:gg=0.6:bb=0.6[bg];[0:v]fps=30,scale=1500:-1[fg];[bg][fg]overlay=(W-w)/2:(H-h)/2,drawtext=fontfile='':text='¿CONOCIAS ESTO?':fontcolor=white:bordercolor=#198038:borderw=5:fontsize=75:x=(W-text_w)/2:y=300,drawtext=fontfile='${FONT_REGULAR}':text='TECH FINDS AMAZON':fontcolor=white:alpha=0.6:fontsize=35:x=(W-text_w)/2:y=H-500,setsar=1,format=yuv420p[v]`;
+        const filterComplex = `[0:v]fps=30,scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,scale=270:480,boxblur=10:10,scale=1080:1920,fontfile='${FONT_BOLD}',colorchannelmixer=rr=0.6:gg=0.6:bb=0.6[bg];[0:v]fps=30,scale=1500:-1[fg];[bg][fg]overlay=(W-w)/2:(H-h)/2,drawtext=fontfile='${FONT_BOLD}':text='¿CONOCIAS ESTO?':fontcolor=white:bordercolor=#198038:borderw=5:fontsize=75:x=(W-text_w)/2:y=300,drawtext=fontfile='${FONT_REGULAR}':text='TECH FINDS AMAZON':fontcolor=white:alpha=0.6:fontsize=35:x=(W-text_w)/2:y=H-500,setsar=1,format=yuv420p[v]`;
 
         // 3. Extraer fragmentos aleatorios (2 a 4 segundos) del video original
         while (accumulatedDuration < targetVideoDuration) {

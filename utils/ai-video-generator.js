@@ -662,7 +662,7 @@ async _buildSilentIntro(videoPaths, outputPath, targetDuration, firstProductVide
     await fs.unlink(rawMontage).catch(() => {});
   }
   async _createPlaceholderVideo(outputPath, title = 'Placeholder', duration = 30) {
-    const fontfile = "C\\:/Windows/Fonts/arial.ttf";
+    const fontfile = FONT_REGULAR;
     const cmd = `ffmpeg -y -f lavfi -i color=size=1920x1080:color=black -t ${duration} -vf "drawtext=fontfile='${fontfile}':text='${title}':fontcolor=white:fontsize=56:x=(w-text_w)/2:y=(h-text_h)/2" -c:v libx264 -pix_fmt yuv420p -r 30 "${outputPath}"`;
     await execAsync(cmd);
     return outputPath;
@@ -1064,7 +1064,7 @@ _applyAllLowerThirds(inputPath, outputPath, productsMeta) {
               // Mantenemos tus textos estáticos originales de diseño (¿CONOCIAS ESTO? y TECH FINDS AMAZON)
               this.logger.info(`[IntroShort] Aplicando diseño y fondo desenfocado al clip ${clipIndex + 1}...`);
               const tempVertClip = path.join(tempDir, `${productionId}_vert_intro_${clipIndex}.mp4`);
-              const filterComplex = `[0:v]fps=30,scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,scale=270:480,boxblur=10:10,scale=1080:1920,colorchannelmixer=rr=0.6:gg=0.6:bb=0.6[bg];[0:v]fps=30,scale=1500:-1[fg];[bg][fg]overlay=(W-w)/2:(H-h)/2,drawtext=fontfile='${FONT_BOLD}':text='¿CONOCIAS ESTO?':fontcolor=white:bordercolor=#198038:borderw=5:fontsize=75:x=(W-text_w)/2:y=300,drawtext=fontfile='C\\:/Windows/Fonts/arial.ttf':text='TECH FINDS AMAZON':fontcolor=white:alpha=0.6:fontsize=35:x=(W-text_w)/2:y=H-500,setsar=1,format=yuv420p[v]`;
+              const filterComplex = `[0:v]fps=30,scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,scale=270:480,boxblur=10:10,scale=1080:1920,colorchannelmixer=rr=0.6:gg=0.6:bb=0.6[bg];[0:v]fps=30,scale=1500:-1[fg];[bg][fg]overlay=(W-w)/2:(H-h)/2,drawtext=fontfile='${FONT_BOLD}':text='¿CONOCIAS ESTO?':fontcolor=white:bordercolor=#198038:borderw=5:fontsize=75:x=(W-text_w)/2:y=300,drawtext=fontfile='${FONT_REGULAR}':text='TECH FINDS AMAZON':fontcolor=white:alpha=0.6:fontsize=35:x=(W-text_w)/2:y=H-500,setsar=1,format=yuv420p[v]`;
 
               await new Promise((res, rej) => {
                 ffmpeg(tempRawClip)
@@ -1162,7 +1162,7 @@ _applyAllLowerThirds(inputPath, outputPath, productsMeta) {
           .inputOptions(['-stream_loop', '-1'])
           .input(finalAudioPath)
           .complexFilter([
-            `[0:v]drawtext=fontfile='C\\:/Windows/Fonts/seguiemj.ttf':text='👇 VIDEO COMPLETO AQUÍ 👇':fontcolor=white:box=1:boxcolor=black@0.6:boxborderw=15:fontsize=65:x=(W-text_w)/2:y=H-400:enable='gte(t,${emojiStart.toFixed(2)})'[vout]`
+            `[0:v]drawtext=fontfile='${FONT_EMOJI}':text='👇 VIDEO COMPLETO AQUÍ 👇':fontcolor=white:box=1:boxcolor=black@0.6:boxborderw=15:fontsize=65:x=(W-text_w)/2:y=H-400:enable='gte(t,${emojiStart.toFixed(2)})'[vout]`
           ])
           .outputOptions([
             '-map', '[vout]',
@@ -1423,7 +1423,7 @@ const bgmVolume = parseFloat(process.env.BGM_VOLUME || '0.15'); // Ajustado para
         const verticalClips = [];
 
         // 2. Filtro con fondo desenfocado optimizado, zoom y textos configurados
-        const filterComplex = `[0:v]fps=30,scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,scale=270:480,boxblur=10:10,scale=1080:1920,colorchannelmixer=rr=0.6:gg=0.6:bb=0.6[bg];[0:v]fps=30,scale=1500:-1[fg];[bg][fg]overlay=(W-w)/2:(H-h)/2,drawtext=fontfile='C\\:/Windows/Fonts/ariblk.ttf':text='¿CONOCIAS ESTO?':fontcolor=white:bordercolor=#198038:borderw=5:fontsize=75:x=(W-text_w)/2:y=300,drawtext=fontfile='${FONT_REGULAR}':text='TECH FINDS AMAZON':fontcolor=white:alpha=0.6:fontsize=35:x=(W-text_w)/2:y=H-500,setsar=1,format=yuv420p[v]`;
+        const filterComplex = `[0:v]fps=30,scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,scale=270:480,boxblur=10:10,scale=1080:1920,fontfile='${FONT_BOLD}'colorchannelmixer=rr=0.6:gg=0.6:bb=0.6[bg];[0:v]fps=30,scale=1500:-1[fg];[bg][fg]overlay=(W-w)/2:(H-h)/2,drawtext=fontfile='':text='¿CONOCIAS ESTO?':fontcolor=white:bordercolor=#198038:borderw=5:fontsize=75:x=(W-text_w)/2:y=300,drawtext=fontfile='${FONT_REGULAR}':text='TECH FINDS AMAZON':fontcolor=white:alpha=0.6:fontsize=35:x=(W-text_w)/2:y=H-500,setsar=1,format=yuv420p[v]`;
 
         // 3. Extraer fragmentos aleatorios (2 a 4 segundos) del video original
         while (accumulatedDuration < targetVideoDuration) {
@@ -1529,7 +1529,7 @@ const bgmVolume = parseFloat(process.env.BGM_VOLUME || '0.15'); // Ajustado para
             .input(finalAudioPath)
             .complexFilter([
               // Usamos Segoe UI Emoji (nativa de Windows) para la mano apuntando
-              `[0:v]drawtext=fontfile='C\\:/Windows/Fonts/seguiemj.ttf':text='👇 VIDEO COMPLETO 👇':fontcolor=white:box=1:boxcolor=black@0.6:boxborderw=15:fontsize=65:x=(W-text_w)/2:y=H-400:enable='gte(t,${emojiStart.toFixed(2)})'[vout]`
+              `[0:v]drawtext=fontfile='${FONT_EMOJI}':text='👇 VIDEO COMPLETO 👇':fontcolor=white:box=1:boxcolor=black@0.6:boxborderw=15:fontsize=65:x=(W-text_w)/2:y=H-400:enable='gte(t,${emojiStart.toFixed(2)})'[vout]`
             ])
             .outputOptions([
               '-map', '[vout]',
@@ -1683,8 +1683,8 @@ const bgmVolume = parseFloat(process.env.BGM_VOLUME || '0.15'); // Ajustado para
         
         // Banner principal usa los textos dinámicos seleccionados arriba
         const introFilter = `[0:v]fps=30,scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,scale=270:480,boxblur=10:10,scale=1080:1920,colorchannelmixer=rr=0.6:gg=0.6:bb=0.6[bg];[0:v]fps=30,scale=1500:-1[fg];[bg][fg]overlay=(W-w)/2:(H-h)/2,` +
-        `drawtext=fontfile='C\\:/Windows/Fonts/ariblk.ttf':text='${selectedHook.line1}':fontcolor=white:box=1:boxcolor=black@0.8:boxborderw=12:fontsize=55:x=(W-text_w)/2:y=180,` +
-        `drawtext=fontfile='C\\:/Windows/Fonts/arial.ttf':text='${selectedHook.line2}':fontcolor=white:box=1:boxcolor=black@0.8:boxborderw=8:fontsize=32:x=(W-text_w)/2:y=260,setsar=1,format=yuv420p[v]`;
+        `drawtext=fontfile='${FONT_BOLD}':text='${selectedHook.line1}':fontcolor=white:box=1:boxcolor=black@0.8:boxborderw=12:fontsize=55:x=(W-text_w)/2:y=180,` +
+        `drawtext=fontfile='${FONT_REGULAR}':text='${selectedHook.line2}':fontcolor=white:box=1:boxcolor=black@0.8:boxborderw=8:fontsize=32:x=(W-text_w)/2:y=260,setsar=1,format=yuv420p[v]`;
 
         await new Promise((res, rej) => {
           const srcDur = 10; // Valor seguro temporal

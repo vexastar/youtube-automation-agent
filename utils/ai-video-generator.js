@@ -1157,12 +1157,14 @@ _applyAllLowerThirds(inputPath, outputPath, productsMeta) {
         const finalAudioDur = await this._getMediaDuration(finalAudioPath).catch(() => 30);
         const emojiStart = Math.max(0, finalAudioDur - 5);
 
-        const cmd = ffmpeg()
+const cmd = ffmpeg()
           .input(effectiveSource)
           .inputOptions(['-stream_loop', '-1'])
           .input(finalAudioPath)
           .complexFilter([
-            `[0:v]drawtext=fontfile='${FONT_EMOJI}':text='👇 VIDEO COMPLETO AQUÍ 👇':fontcolor=white:box=1:boxcolor=black@0.6:boxborderw=15:fontsize=65:x=(W-text_w)/2:y=H-400:enable='gte(t,${emojiStart.toFixed(2)})'[vout]`
+            // Parpadeo suave en los últimos 5 segundos usando una onda seno (sin).
+            // Aparece si el seno es > 0 (parpadea aprox. cada 0.5s)
+            `[0:v]drawtext=fontfile='${FONT_BOLD}':text='V I D E O  C O M P L E T O  A Q U I':fontcolor=white:box=1:boxcolor=black@0.6:boxborderw=15:fontsize=55:x=(W-text_w)/2:y=H-400:enable='and(gte(t,${emojiStart.toFixed(2)}),gt(sin(t*8),0))'[vout]`
           ])
           .outputOptions([
             '-map', '[vout]',
@@ -1524,12 +1526,11 @@ const bgmVolume = parseFloat(process.env.BGM_VOLUME || '0.15'); // Ajustado para
           const finalAudioDur = await this._getMediaDuration(finalAudioPath).catch(() => 15);
           const emojiStart = Math.max(0, finalAudioDur - 5);
 
-          const cmd = ffmpeg()
+const cmd = ffmpeg()
             .input(effectiveSource)
             .input(finalAudioPath)
             .complexFilter([
-              // Usamos Segoe UI Emoji (nativa de Windows) para la mano apuntando
-              `[0:v]drawtext=fontfile='${FONT_EMOJI}':text='👇 VIDEO COMPLETO 👇':fontcolor=white:box=1:boxcolor=black@0.6:boxborderw=15:fontsize=65:x=(W-text_w)/2:y=H-400:enable='gte(t,${emojiStart.toFixed(2)})'[vout]`
+              `[0:v]drawtext=fontfile='${FONT_BOLD}':text='V I D E O  C O M P L E T O  A Q U I':fontcolor=white:box=1:boxcolor=black@0.6:boxborderw=15:fontsize=55:x=(W-text_w)/2:y=H-400:enable='and(gte(t,${emojiStart.toFixed(2)}),gt(sin(t*8),0))'[vout]`
             ])
             .outputOptions([
               '-map', '[vout]',
@@ -1540,6 +1541,7 @@ const bgmVolume = parseFloat(process.env.BGM_VOLUME || '0.15'); // Ajustado para
               '-y'
             ])
             .output(outputPath);
+
           // 👆 FIN INYECCIÓN 👆
 
           cmd.on('end', async () => {
@@ -1760,9 +1762,11 @@ const bgmVolume = parseFloat(process.env.BGM_VOLUME || '0.15'); // Ajustado para
 
         const emojiStart = Math.max(0, totalVideoDur - 5);
 
-        await new Promise((res, rej) => {
+await new Promise((res, rej) => {
           ffmpeg().input(rawMontagePath).input(finalAudioPath)
-            .complexFilter([`[0:v]drawtext=fontfile='${FONT_EMOJI}':text='👇 VIDEO COMPLETO AQUÍ 👇':fontcolor=white:box=1:boxcolor=black@0.6:boxborderw=15:fontsize=65:x=(W-text_w)/2:y=H-280:enable='gte(t,${emojiStart.toFixed(2)})'[vout]`])
+            .complexFilter([
+              `[0:v]drawtext=fontfile='${FONT_BOLD}':text='V I D E O  C O M P L E T O  A Q U I':fontcolor=white:box=1:boxcolor=black@0.6:boxborderw=15:fontsize=55:x=(W-text_w)/2:y=H-280:enable='and(gte(t,${emojiStart.toFixed(2)}),gt(sin(t*8),0))'[vout]`
+            ])
             .outputOptions(['-map', '[vout]', '-map', '1:a', '-c:v', 'libx264', '-preset', 'fast', '-crf', '20', '-c:a', 'aac', '-b:a', '192k', '-shortest', '-y'])
             .output(outputPath).on('end', res).on('error', rej).run();
         });

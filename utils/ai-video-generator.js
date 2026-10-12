@@ -18,7 +18,7 @@ const IS_WINDOWS = process.platform === 'win32';
 const FONT_BOLD = IS_WINDOWS ? 'C\\\\:/Windows/Fonts/ariblk.ttf' : '/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf';
 const FONT_REGULAR = IS_WINDOWS ? 'C\\\\:/Windows/Fonts/arial.ttf' : '/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf';
 const FONT_BOLD_ALT = IS_WINDOWS ? 'C\\\\:/Windows/Fonts/arialbd.ttf' : '/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf';
-const FONT_EMOJI = IS_WINDOWS ? 'C\\\\:/Windows/Fonts/seguiemj.ttf' : '/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf';
+const FONT_EMOJI = IS_WINDOWS ? 'C\\\\:/Windows/Fonts/seguiemj.ttf' : '/usr/share/fonts/truetype/noto/NotoEmoji-Regular.ttf';
 
 // ========================================================
 // 🤖 SIMULADOR LOCAL (Redirige tráfico de OpenAI a Qwen)
@@ -1162,8 +1162,7 @@ const cmd = ffmpeg()
           .inputOptions(['-stream_loop', '-1'])
           .input(finalAudioPath)
           .complexFilter([
-            // Multiplicamos (*) las condiciones para que FFmpeg las valide correctamente
-            `[0:v]drawtext=fontfile='${FONT_BOLD}':text='V I D E O  C O M P L E T O  A Q U I':fontcolor=white:box=1:boxcolor=black@0.6:boxborderw=15:fontsize=55:x=(W-text_w)/2:y=H-400:enable='gte(t\\,${emojiStart.toFixed(2)})*gt(sin(t*8)\\,0)'[vout]`
+            `[0:v]drawtext=fontfile='${FONT_EMOJI}':text='👇':fontcolor=#FFCC00:box=1:boxcolor=black@0.6:boxborderw=20:fontsize=120:x=(W-text_w)/2:y=H-400:enable='gte(t\\,${emojiStart.toFixed(2)})*gt(sin(t*8)\\,0)'[vout]`
           ])
           .outputOptions([
             '-map', '[vout]',
@@ -1529,7 +1528,7 @@ const cmd = ffmpeg()
             .input(effectiveSource)
             .input(finalAudioPath)
             .complexFilter([
-              `[0:v]drawtext=fontfile='${FONT_BOLD}':text='V I D E O  C O M P L E T O  A Q U I':fontcolor=white:box=1:boxcolor=black@0.6:boxborderw=15:fontsize=55:x=(W-text_w)/2:y=H-400:enable='gte(t\\,${emojiStart.toFixed(2)})*gt(sin(t*8)\\,0)'[vout]`
+              `[0:v]drawtext=fontfile='${FONT_EMOJI}':text='👇':fontcolor=#FFCC00:box=1:boxcolor=black@0.6:boxborderw=20:fontsize=120:x=(W-text_w)/2:y=H-400:enable='gte(t\\,${emojiStart.toFixed(2)})*gt(sin(t*8)\\,0)'[vout]`
             ])
             .outputOptions([
               '-map', '[vout]',
@@ -1764,7 +1763,7 @@ const cmd = ffmpeg()
 await new Promise((res, rej) => {
           ffmpeg().input(rawMontagePath).input(finalAudioPath)
             .complexFilter([
-              `[0:v]drawtext=fontfile='${FONT_BOLD}':text='V I D E O  C O M P L E T O  A Q U I':fontcolor=white:box=1:boxcolor=black@0.6:boxborderw=15:fontsize=55:x=(W-text_w)/2:y=H-280:enable='gte(t\\,${emojiStart.toFixed(2)})*gt(sin(t*8)\\,0)'[vout]`
+              `[0:v]drawtext=fontfile='${FONT_EMOJI}':text='👇':fontcolor=#FFCC00:box=1:boxcolor=black@0.6:boxborderw=20:fontsize=120:x=(W-text_w)/2:y=H-400:enable='gte(t\\,${emojiStart.toFixed(2)})*gt(sin(t*8)\\,0)'[vout]`
             ])
             .outputOptions(['-map', '[vout]', '-map', '1:a', '-c:v', 'libx264', '-preset', 'fast', '-crf', '20', '-c:a', 'aac', '-b:a', '192k', '-shortest', '-y'])
             .output(outputPath).on('end', res).on('error', rej).run();

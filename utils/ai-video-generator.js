@@ -18,7 +18,7 @@ const IS_WINDOWS = process.platform === 'win32';
 const FONT_BOLD = IS_WINDOWS ? 'C\\\\:/Windows/Fonts/ariblk.ttf' : '/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf';
 const FONT_REGULAR = IS_WINDOWS ? 'C\\\\:/Windows/Fonts/arial.ttf' : '/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf';
 const FONT_BOLD_ALT = IS_WINDOWS ? 'C\\\\:/Windows/Fonts/arialbd.ttf' : '/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf';
-const FONT_EMOJI = IS_WINDOWS ? 'C\\\\:/Windows/Fonts/seguiemj.ttf' : '/usr/share/fonts/truetype/noto/NotoEmoji-Regular.ttf';
+const FONT_EMOJI = IS_WINDOWS ? 'C\\\\:/Windows/Fonts/seguiemj.ttf' : '/home/ubuntu/youtube-automation-agent/OpenSansEmoji.ttf';
 
 // ========================================================
 // 🤖 SIMULADOR LOCAL (Redirige tráfico de OpenAI a Qwen)

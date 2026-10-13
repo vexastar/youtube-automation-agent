@@ -168,7 +168,12 @@ _detectFont() {
         max_tokens: 150
       });
       
-      const dynamicMap = JSON.parse(response.choices[0].message.content);
+      let rawContent = response.choices[0].message.content;
+// Limpiar posibles bloques de código de markdown
+if (rawContent.startsWith('```')) {
+  rawContent = rawContent.replace(/^```(json)?/, '').replace(/```$/, '').trim();
+}
+const dynamicMap = JSON.parse(rawContent);
       if (Object.keys(dynamicMap).length > 0) {
         this.logger.info(`[Agente Fonético] Reglas dinámicas aprendidas: ${JSON.stringify(dynamicMap)}`);
       }
@@ -227,6 +232,7 @@ async _sanitizeScriptForTTS(text) {
       [/\bsetup\b/gi,          'se-tap'],
       [/\bHexClad\b/gi,        'jex-clad'],
       [/\bCouchmaster\b/gi,    'Cauch-máster'],
+      [/\bUnicLife\b/gi,       'Iú-nic-laif'],
       [/\bCycon\b/gi,          'Sáicon']
     ];
 

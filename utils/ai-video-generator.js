@@ -160,7 +160,7 @@ _detectFont() {
         messages: [
           {
             role: 'system',
-            content: 'Eres un experto en fonética. Encuentra marcas tecnológicas o palabras en inglés en el texto. Devuelve ÚNICAMENTE un JSON con la palabra original como clave y su pronunciación silábica en español como valor. Ejemplo: {"smartphone": "esmart-fon", "Apple": "á-pol"}. Si no hay, devuelve {}.'
+            content: 'Eres un experto en fonética inglés-español. Encuentra marcas tecnológicas o anglicismos en el texto. Devuelve ÚNICAMENTE un JSON con la palabra en inglés como clave y su fonética escrita en español como valor (ejemplo: {"finds": "fainds", "wireless": "uaíre-les", "gaming": "guéiming", "smart": "esmart"}). NO incluyas "Tech Finds Amazon" ni marcas que ya se lean bien en español. Si no hay términos que corregir, devuelve {}.'
           },
           { role: 'user', content: text }
         ],
@@ -194,6 +194,8 @@ async _sanitizeScriptForTTS(text) {
       [/\blinks\b/gi,          'enlaces'],
       [/enlace superior/gi,    'primer enlace'],
       [/enlace anclado/gi,     'primer enlace'],
+      [/\blike\b/gi,           'laik'],
+      [/\blikes\b/gi,          'laiks'],
       [/\bapp\b/gi,            'ap'],
       [/\bsmartphone\b/gi,     'esmart-fon'],
       [/\bSmartwatch\b/gi,     'esmart-uach'],
@@ -230,24 +232,23 @@ async _sanitizeScriptForTTS(text) {
 
     let result = text;
 
-    // 1. Destruir basura tipográfica (Seguridad para Kokoro)
+// 1. Limpieza tipográfica
     result = result.replace(/[\u{1F300}-\u{1F6FF}\u{2600}-\u{26FF}\u{2700}-\u{27BF}\u{1F900}-\u{1F9FF}\u{1FA70}-\u{1FAFF}]/gu, '');
     result = result.replace(/[™®©³²¼½¾♦•▪►]/g, '');
     result = result.replace(/&/g, 'y');
 
-    // 2. MAGIA DINÁMICA: Aplica lo que descubrió el Agente Fonético
-    // (Si el agente falló, dynamicMap será {}, por lo que este bloque no hará nada)
+    // 2. APLICAR PRIMERO EL DICCIONARIO FIJO (Protege el nombre del canal y marcas clave)
+    for (const [regex, replacement] of pronunciationMap) {
+      result = result.replace(regex, replacement);
+    }
+
+    // 3. APLICAR REGLAS DINÁMICAS (Solo para palabras nuevas que no estaban en la lista fija)
     const dynamicMap = await this._getDynamicPronunciations(result);
     for (const [word, phonetic] of Object.entries(dynamicMap)) {
-      if(word && phonetic) {
+      if (word && phonetic) {
         const regex = new RegExp(`\\b${word}\\b`, 'gi');
         result = result.replace(regex, phonetic);
       }
-    }
-
-    // 3. APLICAR EL DICCIONARIO FIJO (Este siempre gana y corrige a la IA si se equivocó)
-    for (const [regex, replacement] of pronunciationMap) {
-      result = result.replace(regex, replacement);
     }
     
     // 4. Limpiar acotaciones sobrantes

@@ -148,41 +148,63 @@ _detectFont() {
     return out;
   }
 
-_sanitizeScriptForTTS(text) {
+  async _getDynamicPronunciations(text) {
+    if (!this.openai) return {};
+    try {
+      this.logger.info(`[Agente Fonético] Analizando texto en busca de marcas desconocidas...`);
+      
+      // Al usar this.openai, tu código redirige a Qwen 2.5 local (si USE_LOCAL_AI=true) o a OpenAI en la nube
+      const response = await this.openai.chat.completions.create({
+        model: 'gpt-4o',
+        response_format: { type: "json_object" },
+        messages: [
+          {
+            role: 'system',
+            content: 'Eres un experto en fonética. Encuentra marcas tecnológicas o palabras en inglés en el texto. Devuelve ÚNICAMENTE un JSON con la palabra original como clave y su pronunciación silábica en español como valor. Ejemplo: {"smartphone": "esmart-fon", "Apple": "á-pol"}. Si no hay, devuelve {}.'
+          },
+          { role: 'user', content: text }
+        ],
+        temperature: 0.1,
+        max_tokens: 150
+      });
+      
+      const dynamicMap = JSON.parse(response.choices[0].message.content);
+      if (Object.keys(dynamicMap).length > 0) {
+        this.logger.info(`[Agente Fonético] Reglas dinámicas aprendidas: ${JSON.stringify(dynamicMap)}`);
+      }
+      return dynamicMap;
+
+    } catch (e) {
+      // 🔥 ESCUDO DE SEGURIDAD 🔥
+      // Si Qwen falla, se desconecta o hay un timeout, entramos aquí.
+      // El bot NO colapsa, simplemente devuelve {} y pasa al diccionario fijo.
+      this.logger.warn(`[Agente Fonético] Error en motor dinámico (${e.message}). Usando solo diccionario fijo...`);
+      return {};
+    }
+  }
+
+async _sanitizeScriptForTTS(text) {
     const pronunciationMap = [
-      // Marcas y términos de tu canal
+      // Diccionario Fijo (Este siempre es tu respaldo seguro)
       [/\bTech Finds Amazon\b/gi, 'Tek Fainds Ámazon'],
       [/\bAmazon\b/gi,         'Ámazon'],
       [/\bgadget\b/gi,         'gádyet'],
       [/\bgadgets\b/gi,        'gádyets'],
-      
-      // 🔥 Traducción obligatoria para evitar tartamudeos 🔥
       [/\blink\b/gi,           'enlace'],
       [/\blinks\b/gi,          'enlaces'],
       [/enlace superior/gi,    'primer enlace'],
       [/enlace anclado/gi,     'primer enlace'],
-      
-      // Términos técnicos generales
       [/\bapp\b/gi,            'ap'],
       [/\bsmartphone\b/gi,     'esmart-fon'],
       [/\bSmartwatch\b/gi,     'esmart-uach'],
       [/\bsoftware\b/gi,       'sóf-uer'],
       [/\bhardware\b/gi,       'jár-uer'],
-      
-      // 🔥 Correcciones específicas Couchmaster 🔥
-      [/\bCouchmaster\b/gi,    'Cauch-máster'],
-      [/\bCycon³/gi,           'Sáicon 3'],
-      [/\bCycon3\b/gi,         'Sáicon 3'],
-      [/\bCycon\b/gi,          'Sáicon'],
-      [/\bHorizonlight\b/gi,   'Joráison Lait'],
-
-      // Términos técnicos existentes y nuevos
       [/\bPhilips Hue\b/gi,    'Fílips Hiu'],
       [/\bsous vide\b/gi,      'su-vid'],
       [/\bsmart home\b/gi,     'hogar inteligente'],
       [/\bfast charging\b/gi,  'carga rápida'],
       [/\btouchscreen\b/gi,    'pantalla táctil'],
-      [/\bwireless\b/gi,       'inalámbrico'],
+      [/\bwireless\b/gi,       'uaíre-les'],
       [/\bstreaming\b/gi,      'stríming'],
       [/\bLogitech\b/gi,       'Lo-yi-tek'],
       [/\bGoPro\b/gi,          'Go-Pro'],
@@ -198,18 +220,37 @@ _sanitizeScriptForTTS(text) {
       [/\bHDMI\b/g,            'ache-de-eme-i'],
       [/\bUSB\b/g,             'u-ese-be'],
       [/\bRGB\b/g,             'erre-ge-be'],
-      [/\bdisplay\b/gi,        'pantalla']
+      [/\bdisplay\b/gi,        'pantalla'],
+      [/\bDashcam\b/gi,        'dash-cam'],
+      [/\bsetup\b/gi,          'se-tap'],
+      [/\bHexClad\b/gi,        'jex-clad'],
+      [/\bCouchmaster\b/gi,    'Cauch-máster'],
+      [/\bCycon\b/gi,          'Sáicon']
     ];
 
     let result = text;
-// 🛡️ ESCUDO PREVENTIVO: Destruir basura tipográfica antes del mapeo
-    // 1. Elimina todos los Emojis
+
+    // 1. Destruir basura tipográfica (Seguridad para Kokoro)
     result = result.replace(/[\u{1F300}-\u{1F6FF}\u{2600}-\u{26FF}\u{2700}-\u{27BF}\u{1F900}-\u{1F9FF}\u{1FA70}-\u{1FAFF}]/gu, '');
-    // 2. Elimina símbolos matemáticos, marcas comerciales y viñetas extrañas
     result = result.replace(/[™®©³²¼½¾♦•▪►]/g, '');
-    // 3. Reemplaza el ampersand por la letra "y"
     result = result.replace(/&/g, 'y');
+
+    // 2. MAGIA DINÁMICA: Aplica lo que descubrió el Agente Fonético
+    // (Si el agente falló, dynamicMap será {}, por lo que este bloque no hará nada)
+    const dynamicMap = await this._getDynamicPronunciations(result);
+    for (const [word, phonetic] of Object.entries(dynamicMap)) {
+      if(word && phonetic) {
+        const regex = new RegExp(`\\b${word}\\b`, 'gi');
+        result = result.replace(regex, phonetic);
+      }
+    }
+
+    // 3. APLICAR EL DICCIONARIO FIJO (Este siempre gana y corrige a la IA si se equivocó)
+    for (const [regex, replacement] of pronunciationMap) {
+      result = result.replace(regex, replacement);
+    }
     
+    // 4. Limpiar acotaciones sobrantes
     return result
       .replace(/(Section|Sección)\s*\d+[:\.\-]?/gi, '')
       .replace(/(Número|Number)\s*\d+[:\.\-]?/gi, '')
@@ -263,7 +304,7 @@ except Exception as e:
 
   async generateTTSAudio(text, outputPath, toneVariant = null, targetDuration = null) {
     this.logger.info('Generating TTS audio...');
-    const cleanText = this._sanitizeScriptForTTS(text);
+    const cleanText = await this._sanitizeScriptForTTS(text);
     const toneSettings = this._getToneTTSSettings(toneVariant);
 
     // 🎚️ Lógica del Interruptor

@@ -259,7 +259,7 @@ async runDailyContentGeneration() {
       }
 
       // Optimize publishing times
-      await this.agents.publishing.optimizePublishTimes();
+    // await this.agents.publishing.optimizePublishTimes();
       
       // Generate strategy insights
       const insights = await this.generateWeeklyInsights(weeklyAnalytics);

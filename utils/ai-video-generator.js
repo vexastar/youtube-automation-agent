@@ -233,7 +233,23 @@ async _sanitizeScriptForTTS(text) {
       [/\bHexClad\b/gi,        'jex-clad'],
       [/\bCouchmaster\b/gi,    'Cauch-máster'],
       [/\bUnicLife\b/gi,       'Iú-nic-laif'],
-      [/\bCycon\b/gi,          'Sáicon']
+      [/\bCycon\b/gi,          'Sáicon'],
+      // --- MARCAS DEL VIDEO ACTUAL ---
+      [/\bInstant Pot\b/gi,    'Ínstant Pot'],
+      [/\bUltimate\b/gi,       'Últimet'],
+      [/\bINKBIRD\b/gi,        'Ínk-berd'],
+      [/\bNinja Kitchen System\b/gi, 'Ninya Kíchen Sístem'],
+      [/\bBlendSense\b/gi,     'Blend-sens'],
+
+      // --- TÉRMINOS TÉCNICOS Y MEDIDAS (¡Muy importante para Amazon!) ---
+      [/(\d+)W\b/gi,           '$1 vatios'],           // Convierte "1000W" en "1000 vatios"
+      [/(\d+)V\b/gi,           '$1 voltios'],          // Convierte "220V" en "220 voltios"
+      [/(\d+)mAh\b/gi,         '$1 miliamperios'],     // Convierte "5000mAh" en "5000 miliamperios"
+      [/\bQT\b/gi,             'cuartos de galón'],    // Convierte la capacidad "QT"
+      [/°C\b/gi,               ' grados centígrados'],
+      [/°F\b/gi,               ' grados fahrenheit'],
+      [/\bC\/F\b/gi,           'centígrados o fahrenheit'],
+      [/\bplus o minus\b/gi,   'más o menos']         // Corrige el error de spanglish de Qwen
     ];
 
     let result = text;

@@ -463,11 +463,16 @@ class ProductHunterAgent {
     } catch (e) { return null; }
   }
 
-  // 🔥 AQUÍ OCURRE LA MAGIA DEL ANTI-BUCLE 🔥
+// 🔥 AQUÍ OCURRE LA MAGIA DEL ANTI-BUCLE SUPER-PERSISTENTE 🔥
   async _huntViaApi(productsArray) {
-    const results = new Array(productsArray.length);
+    const targetCount = productsArray.length;
+    const validResults = [];
+    const queryQueue = [...productsArray];
+    let masterAttempt = 0;
+    // Límite de seguridad: Hasta 4 intentos de reemplazo por cada producto solicitado
+    const MAX_MASTER_ATTEMPTS = targetCount * 4; 
 
-    // 1. CARGAMOS LA MEMORIA HISTÓRICA PARA SABER QUÉ PRODUCTOS DEBEMOS DESTRUIR
+    // 1. CARGAMOS LA MEMORIA HISTÓRICA PARA SABER QUÉ PRODUCTOS DESCARTAR
     let usedHistory = [];
     try {
       const histPath = path.resolve(__dirname, '..', 'data', 'used_products_history.json');
@@ -477,7 +482,6 @@ class ProductHunterAgent {
     const usedAsins = new Set(usedHistory.map(h => h.asin || h.productId).filter(Boolean));
     const usedNames = usedHistory.map(h => (h.productName || h.title || '').toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '').trim()).filter(Boolean);
 
-    // Filtro difuso para detectar nombres engañosos
     const isNameSimilar = (newName) => {
       if (!newName) return false;
       const normNew = newName.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '').trim();
@@ -487,7 +491,6 @@ class ProductHunterAgent {
       return false;
     };
 
-    // 2. MATRIZ DE BÚSQUEDA PROFUNDA (Cazando fuera de la Página 1)
     const DEEP_SEARCH_NICHES = [
       'smart home', 'kitchen gadgets', 'office desk setup', 'car accessories',
       'travel tech', 'pet gadgets', 'gaming setup', 'outdoor tech', 'fitness gadgets',
@@ -497,8 +500,11 @@ class ProductHunterAgent {
       'survival gear', 'desk accessories', 'laptop accessories', 'edc gear'
     ];
 
-    for (let i = 0; i < productsArray.length; i++) {
-      const raw = productsArray[i];
+    // 2. CICLO PERSISTENTE (WHILE) HASTA LLENAR LA CUOTA EXACTA
+    while (validResults.length < targetCount && queryQueue.length > 0 && masterAttempt < MAX_MASTER_ATTEMPTS) {
+      masterAttempt++;
+      const raw = queryQueue.shift(); // Saca el primer producto de la fila
+      
       let nombre = typeof raw === 'string' ? raw : (raw.nombre || raw.searchTermEn || '');
       let searchQuery = typeof raw === 'string' ? raw : (raw.searchTermEn || raw.nombre || '');
       
@@ -506,67 +512,62 @@ class ProductHunterAgent {
         searchQuery = nombre;
       }
 
-      // INYECCIÓN DE NICHO: Si la búsqueda es muy genérica, metemos la matriz profunda
       if (searchQuery.toLowerCase().includes('gadget') || searchQuery.toLowerCase().includes('finds') || searchQuery.toLowerCase() === 'tech') {
          const randomNiche = DEEP_SEARCH_NICHES[Math.floor(Math.random() * DEEP_SEARCH_NICHES.length)];
          searchQuery = `${searchQuery} ${randomNiche}`;
          this.logger.log(`[Agente Cazador]   Inyectando nicho profundo: "${searchQuery}"`);
       }
 
-      this.logger.log(`\n[Agente Cazador] [${i + 1}/${productsArray.length}] Buscando: "${searchQuery}"`);
+      this.logger.log(`\n[Agente Cazador] 🎯 [Meta: ${validResults.length}/${targetCount}] Buscando: "${searchQuery}" (Intento global ${masterAttempt}/${MAX_MASTER_ATTEMPTS})`);
 
-// FUNCIÓN DE PAGINACIÓN ALEATORIA Y MEMORIA
       const fetchCandidates = async (queryToUse) => {
         let found = [];
-        let page = Math.floor(Math.random() * 5) + 1; // 🎲 Lanza el dado: Empieza entre la pág 1 y 5
+        let page = Math.floor(Math.random() * 5) + 1; 
         
-        for(let attempt = 0; attempt < 10; attempt++) {
-           if(found.length >= 10) break; // Traer hasta 10 candidatos
-           this.logger.log(`[Agente Cazador]   Explorando Amazon Página ${page} para "${queryToUse}" (Intento ${attempt + 1}/10)...`);
+        // Reducido a 5 intentos por página para fallar rápido y pedir otro producto
+        for(let attempt = 0; attempt < 5; attempt++) { 
+           if(found.length >= 10) break;
+           this.logger.log(`[Agente Cazador]   Explorando Amazon Página ${page} para "${queryToUse}"...`);
            let rawCandidates = await this._withRetry429(() => this._searchProduct(queryToUse, page));
            
            if (rawCandidates) {
               for(const c of rawCandidates) {
-                 // ESCUDO DE MEMORIA 1: ASIN
-                 if (usedAsins.has(c.asin)) {
-                    this.logger.log(`[Agente Cazador]   [MEMORIA] ASIN ${c.asin} ya fue usado. Descartado.`);
-                    continue; // Pasa al siguiente, nunca lo descarga
-                 }
+                 if (usedAsins.has(c.asin)) continue;
                  found.push(c);
               }
            }
-           page += Math.floor(Math.random() * 3) + 1; // 🦘 Salta 1, 2 o 3 páginas más adentro
+           page += Math.floor(Math.random() * 2) + 1; 
            await this._sleep(DELAY_BETWEEN_REQUESTS_MS);
         }
         return found;
       };
 
-      // 3. OBTENER CANDIDATOS PASANDO EL ESCUDO
       let candidates = await fetchCandidates(searchQuery);
 
       if (!candidates || candidates.length === 0) {
         const fallbackQuery = `${searchQuery} Kickstarter`;
-        this.logger.log(`[Agente Cazador]   Sin resultados nuevos, reintentando con modificador: "${fallbackQuery}"`);
+        this.logger.log(`[Agente Cazador]   Sin resultados, reintentando con modificador: "${fallbackQuery}"`);
         candidates = await fetchCandidates(fallbackQuery);
       }
 
+      // Función auxiliar para descartar el producto actual y pedir uno nuevo a la IA
+      const handleFailureAndReplace = async () => {
+         this.logger.warn(`[Agente Cazador]   ⚠ Búsqueda fallida/Sin video para "${searchQuery}". Solicitando reemplazo a la IA...`);
+         const allKnown = [...validResults, ...queryQueue].map(p => typeof p === 'string' ? p : (p.searchTermEn || p.nombre || ''));
+         const replacement = await this._requestProductReplacement(nombre, searchQuery, allKnown);
+         if (replacement) {
+           this.logger.log(`[Agente Cazador]   ➕ Nuevo producto encolado: "${replacement.searchTermEn}"`);
+           queryQueue.push(replacement); // Lo enviamos al final de la cola para buscarlo luego
+         }
+      };
+
       if (!candidates || candidates.length === 0) {
-        this.logger.warn(`[Agente Cazador]   ⚠ Sin resultados limpios para "${searchQuery}" — solicitando reemplazo a GPT...`);
-        const replacement = await this._requestProductReplacement(nombre, searchQuery, productsArray);
-        if (replacement) {
-          nombre = replacement.nombre;
-          searchQuery = replacement.searchTermEn;
-          candidates = await fetchCandidates(searchQuery);
-        }
-        if (!candidates || candidates.length === 0) {
-          results[i] = { producto: nombre, precio: 'Revisa el enlace', videoPath: null, skipReason: 'NO_NEW_PRODUCTS' };
-          continue;
-        }
+        await handleFailureAndReplace();
+        continue; 
       }
 
       const topCandidates = candidates.slice(0, 10);
       let videoPath = null;
-      let winnerVideoPaths = [];
       let precio = 'Revisa el enlace';
       let fallbackPhoto = null;
       let winnerAsin = null;
@@ -583,18 +584,16 @@ class ProductHunterAgent {
           const precioDetalle = detail.precio || precioBusqueda || null;
           if (precioDetalle && precio === 'Revisa el enlace') precio = precioDetalle;
 
-          // ESCUDO DE MEMORIA 2: NOMBRE SIMILAR
           if (detail.productTitle && isNameSimilar(detail.productTitle)) {
-             this.logger.warn(`[Agente Cazador]   [MEMORIA] El producto "${detail.productTitle.substring(0,40)}..." es muy similar a uno ya publicado. Destruido.`);
-             continue; // Pasa al siguiente candidato
+             this.logger.warn(`[Agente Cazador]   [MEMORIA] Producto similar ya publicado. Saltando...`);
+             continue;
           }
 
           if (detail.productTitle && !this._isProductRelevant(detail.productTitle, searchQuery)) {
-            continue; // Irrelevante textualmente
+            continue; 
           }
 
           if (!winnerDetail) winnerDetail = detail;
-
           if (!detail.videoUrl) continue;
 
           let urlsToDownload = (detail.videoUrls && detail.videoUrls.length > 0 ? detail.videoUrls : [detail.videoUrl]).slice(0, 1);
@@ -610,20 +609,21 @@ class ProductHunterAgent {
           }
           if (downloadedPaths.length > 0) {
             videoPath = downloadedPaths[0];
-            winnerVideoPaths = downloadedPaths;
             winnerAsin = asin;
             winnerDetail = detail;
-            break; // ¡Candidato ganador con video y que nunca se ha usado!
+            break; 
           }
         } catch (detailErr) {}
       }
 
       if (!videoPath) {
-        results[i] = { producto: nombre, precio, videoPath: null, skipReason: 'NO_VIDEO_FOUND' };
+        await handleFailureAndReplace();
         continue;
       }
 
-      results[i] = {
+      // ¡Encontramos un ganador! Lo guardamos y el while seguirá hasta cumplir la meta.
+      this.logger.log(`[Agente Cazador]   ✅ ¡Éxito! Producto cazado: ASIN ${winnerAsin}`);
+      validResults.push({
         producto: await this._translateTextIfNeeded(nombre, 'es'),
         precio,
         videoPath,
@@ -634,9 +634,15 @@ class ProductHunterAgent {
         productTitle: await this._translateTextIfNeeded(winnerDetail.productTitle, 'es'),
         brand: winnerDetail.brand,
         features: await Promise.all((winnerDetail.features || []).map(f => this._translateTextIfNeeded(f, 'es')))
-      };
+      });
     }
-    return results;
+
+    // Si después de explotar todos los intentos no logramos la meta, rellenamos con nulos para no romper el proceso de video
+    while (validResults.length < targetCount) {
+       validResults.push({ producto: 'Producto no encontrado', precio: 'Revisa el enlace', videoPath: null, skipReason: 'MAX_ATTEMPTS_REACHED' });
+    }
+
+    return validResults;
   }
 
   async _huntViaLocal(productsArray, localDb, catalog) {

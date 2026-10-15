@@ -249,7 +249,17 @@ async _sanitizeScriptForTTS(text) {
       [/°C\b/gi,               ' grados centígrados'],
       [/°F\b/gi,               ' grados fahrenheit'],
       [/\bC\/F\b/gi,           'centígrados o fahrenheit'],
-      [/\bplus o minus\b/gi,   'más o menos']         // Corrige el error de spanglish de Qwen
+      [/\bplus o minus\b/gi,   'más o menos'],         // Corrige el error de spanglish de Qwen
+      
+      // Limpieza de números grandes con coma o punto anglosajón
+      [/(\d+)[,.]000/gi,       '$1 mil'],              // 20,000 -> 20 mil | 31,000 -> 31 mil
+      [/\b(\d+)000\b/gi,       '$1 mil'],              // 20000 -> 20 mil
+      
+      // Correcciones del video analizado
+      [/\bWhite\b/gi,          'Blanco'],
+      [/\bHX\d+\b/gi,          ''],                    // Elimina códigos de modelo impronunciables
+      [/\bLED\b/gi,            'led'],
+      [/\bLEDs\b/gi,           'luces led']
     ];
 
     let result = text;

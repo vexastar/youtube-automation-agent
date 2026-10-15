@@ -676,23 +676,26 @@ messages: [
         ]
       });
 
-      const content = response.choices[0].message.content;
+const content = response.choices[0].message.content;
       let parsed = JSON.parse(content);
 
-      const narracionText = (parsed.narracion || '').trim();
-      const ctaText = (parsed.sales_cta || `Disponible en Amazon por ${precio}. Link en comentarios.`).trim();
-      const totalWords = narracionText.split(/\s+/).length + ctaText.split(/\s+/).length;
+      // Limpieza de formato numérico anglosajón para evitar "20,000" -> "20 coma 000"
+      let narracionText = (parsed.narracion || '').trim();
+      narracionText = narracionText.replace(/(\d+),(\d{3})/g, '$1$2'); // 20,000 -> 20000
+
+      const totalWords = narracionText.split(/\s+/).filter(Boolean).length;
       const estimatedSeconds = Math.ceil(totalWords / 2.5);
 
       return {
         asin, video_file, title,
         narracion: narracionText,
-        sales_cta: ctaText,
+        sales_cta: '', // Vaciado absoluto para no duplicar audio
         escenas_visuales: parsed.escenas_visuales || [],
         duracion_estimada_segundos: estimatedSeconds,
         word_count: totalWords,
         metadata: { framework: marco_narrativo_obligatorio, validated: true }
       };
+
     } catch (error) {
       logger.error(`[IterativeGen] ❌ Error generando ${title}: ${error.message}`);
       return {
@@ -1202,7 +1205,7 @@ messages: [
         this.logger.warn(`Mapeo posicional: producto ${i} título GPT "${s.title}" ≠ productLines[${i}] "${pl.nombreReal}" → se fuerza nombre correcto`);
       }
 
-      return {
+return {
         type: 'content',
         title: pl.nombreReal || s.title,
         productId: pl.id || (hunt && hunt.asin) || `prod_${i}`,
@@ -1214,8 +1217,7 @@ messages: [
         framework: pl.framework ? pl.framework.id : null,
         narracionSegments: Array.isArray(s.narracion_segments) ? s.narracion_segments : null,
         content: [
-          s.narracion,
-          s.sales_cta
+          s.narracion // UN SOLO BLOQUE DE AUDIO: Cero repetición de precio/enlace
         ],
         visuals: [`Product image: ${pl.nombreReal || s.title}`],
         duration: 25
@@ -1348,41 +1350,24 @@ messages: [
       this.logger.warn(`[Rotador] No se pudo leer el tracker: ${e.message}`);
     }
 
-    const hookStyles = [
+const hookStyles = [
       {
-        nombre: "Estilo Curador Honesto (Anti-Relleno)",
-        reglas: '1. AUTORIDAD: Inicia mencionando que "después de analizar decenas de artículos" llegaste a esta selección definitiva de productos. 2. PROMESA ANTI-BS: Enfatiza de forma directa que en este video "no hay exageraciones ni relleno, solo utilidad real". 3. ENLACES: Indica claramente que los links están en el primer comentario. 4. DISPARADOR: "Comencemos" o "Empezamos".'
+        nombre: "Curiosidad Directa",
+        reglas: '1. Inicia con una afirmación intrigante sobre cómo estos gadgets resuelven problemas diarios. 2. Menciona la categoría general de los productos reales sin decir marcas. 3. Recuerda rápido que los links están en el primer comentario. 4. Cierra con "Comencemos".'
       },
       {
-        nombre: "Estilo Solución Directa (Promesa de Nicho)",
-        reglas: '1. IDENTIFICACIÓN: Arranca hablándole directo a quien quiere mejorar su vida con "accesorios que de verdad sean útiles". Menciona 1 o 2 de los productos. 2. BENEFICIOS RÁPIDOS: Promete resolver "esos pequeños problemas que aparecen cuando menos lo esperas". 3. EXPECTATIVA: Menciona que hay opciones económicas y herramientas inteligentes. 4. ENLACES Y DISPARADOR: Recuerda los links en el primer comentario y cierra con "Prepárate".'
+        nombre: "Utilidad Inmediata",
+        reglas: '1. Plantea cómo mejorar tu rutina diaria con herramientas que realmente valen la pena. 2. Cero rodeos ni frases de teletienda. 3. Avisa que los links quedan en el primer comentario. 4. Cierra con "Empecemos".'
       },
       {
-        nombre: "Estilo Híbrido Pragmático",
-        reglas: '1. EL FILTRO: Abre diciendo que seleccionaste los mejores productos capaces de hacer tu día a día más cómodo y organizado. 2. LA GARANTÍA: Asegura que son inventos que "probablemente querrás tener desde el momento en que los veas". 3. ENLACES: Menciona rápidamente que la lista de links está en el primer comentario. 4. DISPARADOR: Cierra con un tono seguro: "Aquí vamos".'
-      },
-      {
-        nombre: "Estilo EzeTech (Acción Directa)",
-        reglas: '1. MICRO-TEASER: Inicia de golpe mencionando 1 o 2 productos y el problema que resuelven. 2. PROMESA: Genera intriga sobre el resto del video. 3. ENLACES: Menciona que están en el primer comentario. 4. DISPARADOR: "Suscríbete, empecemos".'
-      },
-      {
-        nombre: "Estilo Storytelling (Misterio)",
-        reglas: '1. EL SECRETO: Abre diciendo que hay un mercado oculto de productos que nadie conoce. 2. REVELACIÓN: Menciona 1 o 2 productos de la lista como el "santo grial". 3. ENLACES: Di que revelaste los links en el primer comentario. 4. DISPARADOR: "Dale play".'
-      },
-      {
-        nombre: "Estilo Estadístico (Shock)",
-        reglas: '1. DATO CHOQUEANTE: Inventa un porcentaje creíble sobre cuánto tiempo/dinero pierde la gente por no tener 1 o 2 productos de la lista. 2. SOLUCIÓN: Preséntalos. 3. ENLACES: Avisa que los dejaste en el primer comentario. 4. DISPARADOR: "Mira esto".'
-      },
-      {
-        nombre: "Estilo Agresivo (Anticonsumismo)",
-        reglas: '1. ADVERTENCIA: Inicia diciendo "No compres nada en Amazon hasta ver esto". 2. JUSTIFICACIÓN: Menciona 1 o 2 productos de la lista que realmente valen la pena. 3. ENLACES: Recuerda que los verdaderos links están en el primer comentario. 4. DISPARADOR: "Vamos".'
+        nombre: "Impacto Rápido",
+        reglas: '1. Abre destacando la innovación práctica de los artículos de hoy. 2. Genera expectativa sobre el último gadget de la lista. 3. Enlaces en el primer comentario. 4. Cierra con "Vamos a verlos".'
       }
     ];
 
     const outroStyles = [
-      'Cierre Agresivo: Pregunta de forma enérgica cuál fue su favorito, exige el like y recuerda los links en el primer comentario.',
-      'Cierre Misterioso: Agradece por llegar hasta aquí, di que el próximo top será aún más loco, y recuerda los links en el primer comentario.',
-      'Cierre Desafiante: Reta a la audiencia a encontrar mejores productos que estos, pide suscripción y recuerda los links en el primer comentario.'
+      'Pregunta de forma rápida cuál de estos gadgets fue su favorito, pide que dejen su like y recuerda que los links están en el primer comentario.',
+      'Agradece por ver el video, invita a suscribirse para no perderse el próximo top y recuerda los links en el primer comentario.'
     ];
 
     const nextHookIndex = (lastHookIndex + 1) % hookStyles.length;
@@ -1402,40 +1387,39 @@ messages: [
 
     try {
       const nombresList = sections.map(s => s.productName).join(', ');
-      this.logger.info(`🧠 Solicitando a GPT-4o. Estilo elegido: ${selectedHook.nombre}...`);
+      this.logger.info(`🧠 Solicitando a Qwen/GPT. Estilo: ${selectedHook.nombre}...`);
       
       const gptResponse = await this.openai.chat.completions.create({
         model: 'gpt-4o',
-        temperature: 1.2,
-        max_tokens: 250,
+        temperature: 0.8,
+        max_tokens: 220,
         response_format: { type: 'json_object' },
-messages: [
+        messages: [
           {
             role: 'system',
             content: [
-              'Eres un guionista camaleónico experto en retención para YouTube.',
-              'Tu objetivo es escribir una INTRO y un OUTRO para un top de productos.',
+              'Eres un guionista de YouTube para el canal Tech Finds.',
+              'Tu tarea es escribir una INTRODUCCIÓN corta (30-40 palabras) y un CIERRE (15-20 palabras) para un top de productos.',
               '',
-              `🔥 REGLAS ESTRICTAS PARA LA INTRO (40-55 palabras):`,
-              `DEBES utilizar obligatoriamente este formato narrativo: ${selectedHook.reglas}`,
-              '- NUNCA uses la palabra "Hola", "Bienvenidos", ni saludes.',
-              '- PROHIBICIÓN CRÍTICA DE SPOILERS: Tienes ESTRICTAMENTE PROHIBIDO mencionar cualquier nombre propio, marca, modelo o empresa (ej. prohibido decir "Ozlo", "Sony", "Apple").',
-              '- En lugar de nombres, usa descripciones de misterio que generen curiosidad extrema (ej. "unos auriculares que...", "un dispositivo capaz de...").',
+              `REGLAS PARA LA INTRODUCCIÓN:`,
+              `- Estilo obligatorio: ${selectedHook.reglas}`,
+              `- PROHIBIDO decir "Hola", "Bienvenidos", o frases corporativas como "tras analizar decenas de artículos".`,
+              `- PROHIBICIÓN ABSOLUTA DE ALUCINAR GADGETS: Basa tu texto EXCLUSIVAMENTE en el tipo de productos reales de la lista proporcionada. Si la lista contiene un altavoz y un cepillo, NO hables de auriculares, relojes ni cosas inexistentes.`,
+              `- No digas los nombres de las marcas exactas para mantener la intriga, pero SÍ describe sus funciones reales.`,
               '',
-              `🔥 REGLAS ESTRICTAS PARA EL OUTRO (15-20 palabras):`,
-              `DEBES utilizar obligatoriamente este estilo: ${selectedOutro}`,
+              `REGLAS PARA EL CIERRE:`,
+              `- Estilo obligatorio: ${selectedOutro}`,
               '',
-              'Devuelve ÚNICAMENTE este JSON:',
+              'Responde ÚNICAMENTE en este formato JSON:',
               '{',
               '  "intro": "...",',
               '  "outro": "..."',
-              '}',
-              `IMPORTANTE: El año actual es ${currentYear}. Si decides incluir un año en los títulos, descripciones o guiones, DEBE ser estrictamente ${currentYear}. Tienes absolutamente prohibido utilizar cualquier año anterior a ${currentYear}.`
+              '}'
             ].join('\n')
           },
           {
             role: 'user',
-            content: `Aplica el estilo solicitado inspirándote en los problemas que resuelven estos productos, pero CUMPLIENDO LA REGLA DE NO MENCIONAR SUS NOMBRES REALES EN ABSOLUTO: ${nombresList}.`
+            content: `Crea la intro y outro basándote ÚNICAMENTE en las funciones de estos productos reales: ${nombresList}.`
           }
         ]
       });

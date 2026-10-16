@@ -259,7 +259,25 @@ async _sanitizeScriptForTTS(text) {
       [/\bWhite\b/gi,          'Blanco'],
       [/\bHX\d+\b/gi,          ''],                    // Elimina códigos de modelo impronunciables
       [/\bLED\b/gi,            'led'],
-      [/\bLEDs\b/gi,           'luces led']
+      [/\bLEDs\b/gi,           'luces led'],
+
+      // Unidades acústicas y técnicas nuevas
+      [/(\d+)\s*dB\b/gi,       '$1 decibelios'],       // 50 dB -> 50 decibelios
+      
+      // Anglicismos comunes del canal para que Kokoro suene 100% fluido
+      [/\bgadgets\b/gi,        'gádyets'],             // Evita que diga "gad-je-tes"
+      [/\bgadget\b/gi,         'gádyet'],              // Evita que diga "gad-jet"
+      [/\blike\b/gi,           'me gusta'],            // Evita que diga "la-ik" robótico
+      [/\bclosets\b/gi,        'armarios'],            // Fluidez en español
+      [/\bcloset\b/gi,         'armario'],
+      [/byte\b/gi,             'bait'],                // Topabyte -> Topabait
+      
+      // Corrección de errores ortográficos comunes de Qwen 7B
+      [/\bpulserra\b/gi,       'pulsera'],
+      [/\bsila\b/gi,           'silla'],
+      
+      // Limpieza de mayúsculas accidentales a mitad de palabra (ej. "boLSA" -> "bolsa")
+      [/\b([a-záéíóúñ]+)([A-ZÁÉÍÓÚÑ]+[a-záéíóúñA-ZÁÉÍÓÚÑ]*)\b/g, (match) => match.toLowerCase()],
     ];
 
     let result = text;

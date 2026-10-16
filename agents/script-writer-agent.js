@@ -618,10 +618,10 @@ async _generateProductNarrationIterative(productData, channelName, language, log
     try {
       logger.info(`[IterativeGen] Generando narración para: "${title}" (${asin})`);
       
-      const response = await this.openai.chat.completions.create({
-        model: 'gpt-4o',
-        temperature: 1.1, // Ligeramente más alto para mayor creatividad
-        frequency_penalty: 0.6, // Penaliza la repetición de frases
+const response = await this.openai.chat.completions.create({
+  model: 'gpt-4o',
+  temperature: 0.7, // Temperatura controlada para evitar errores ortográficos en Qwen 7B
+  frequency_penalty: 0.5, // Penaliza la repetición de frases
         max_tokens: 350,
         response_format: { type: 'json_object' },
 messages: [
@@ -682,6 +682,8 @@ const content = response.choices[0].message.content;
       // Limpieza de formato numérico anglosajón para evitar "20,000" -> "20 coma 000"
       let narracionText = (parsed.narracion || '').trim();
       narracionText = narracionText.replace(/(\d+),(\d{3})/g, '$1$2'); // 20,000 -> 20000
+      // Evita que palabras mal escritas como "boLSA" se deletreen como siglas
+      narracionText = narracionText.replace(/\b([a-záéíóúñ]+)([A-ZÁÉÍÓÚÑ]+)\b/g, (m) => m.toLowerCase());
 
       const totalWords = narracionText.split(/\s+/).filter(Boolean).length;
       const estimatedSeconds = Math.ceil(totalWords / 2.5);
@@ -774,27 +776,27 @@ const content = response.choices[0].message.content;
     // Offset aleatorio + rotación garantiza variación entre videos y entre productos.
     const FRAMEWORKS = [
       { id: 'problema_solucion',      label: 'PROBLEMA → SOLUCIÓN',
-        desc: 'Abre con un problema cotidiano y frustrante; revela el producto como la solución directa. Ej: "¿Cansado de cables enredados? Este cargador..."' },
+        desc: 'Abre con un problema cotidiano y frustrante; revela el producto como la solución directa. ' },
       { id: 'enfoque_caracteristica', label: 'ENFOQUE EN LA CARACTERÍSTICA',
-        desc: 'Abre con la característica técnica más impresionante (material, potencia, tamaño). Ej: "Construido en aluminio aeronáutico, este soporte..."' },
+        desc: 'Abre con la característica técnica más impresionante (material, potencia, tamaño). ' },
       { id: 'beneficio_oculto',       label: 'BENEFICIO OCULTO',
-        desc: 'Abre revelando un uso no obvio o un secreto poco conocido del producto. Ej: "Lo que nadie te dice de esta lámpara es que..."' },
+        desc: 'Abre revelando un uso no obvio o un secreto poco conocido del producto. ' },
       { id: 'comparacion_precio',     label: 'COMPARACIÓN DE PRECIO',
-        desc: 'Contrasta el precio con lo que parece valer. Ej: "Parece de doscientos dólares. Cuesta cuarenta."' },
+        desc: 'Contrasta el precio con lo que parece valer. ' },
       { id: 'dato_numerico',          label: 'DATO NUMÉRICO DE IMPACTO',
-        desc: 'Abre con una cifra o estadística sorprendente. Ej: "Tres millones de unidades vendidas en doce meses."' },
+        desc: 'Abre con una cifra o estadística sorprendente. ' },
       { id: 'experiencia_sensorial',  label: 'EXPERIENCIA SENSORIAL',
-        desc: 'Describe la sensación de usarlo por primera vez. Ej: "La primera vez que lo enciendes, no puedes creer que cuesta tan poco."' }
+        desc: 'Describe la sensación de usarlo por primera vez. ' }
     ];
     const frameworkOffset = Math.floor(Math.random() * FRAMEWORKS.length);
 
     // ── ESTILO DE HOOK: rotación entre 4 estilos de apertura visual ──
-    const HOOK_STYLES = [
-      { id: 'accion_directa',   desc: 'Cada oración arranca con un verbo en presente. Ej: "Corta en segundos. Sella al instante. Purifica sin químicos."' },
-      { id: 'pregunta_corta',   desc: 'Cada oración es una pregunta retórica de máximo 5 palabras. Ej: "¿En segundos? ¿Sin esfuerzo? ¿A ese precio?"' },
-      { id: 'adjetivo_impacto', desc: 'Cada oración abre con un adjetivo chocante. Ej: "Imposiblemente rápido. Increíblemente pequeño. Ridículamente barato."' },
-      { id: 'telegrama',        desc: 'Frases telegráficas sin artículo, máximo 4 palabras cada una. Ej: "Corte perfecto. Sellado hermético. Pureza total."' }
-    ];
+const HOOK_STYLES = [
+  { id: 'accion_directa',   desc: 'Inicia la primera oración destacando el beneficio principal de forma directa y natural, usando verbos dinámicos.' },
+  { id: 'pregunta_casual',  desc: 'Abre con una pregunta conversacional corta sobre una situación cotidiana relacionada con el producto.' },
+  { id: 'impacto_utilidad', desc: 'Comienza resaltando por qué el diseño o material de este artículo lo hace tan práctico en el día a día.' },
+  { id: 'contraste_valor',  desc: 'Arranca contrastando lo incómodo que es no tener esta herramienta frente a la comodidad que brinda.' }
+];
     const hookStyle = HOOK_STYLES[Math.floor(Math.random() * HOOK_STYLES.length)];
 
     // ── TONO DEL VIDEO: 4 registros narrativos alternos ──

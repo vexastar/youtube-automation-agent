@@ -54,7 +54,7 @@ const INTRO_DURATION_AVG = Math.round((INTRO_DURATION_MIN + INTRO_DURATION_MAX) 
 
 // ═══ WORD RATE CONSTANTS ═══
 const WORDS_PER_SECOND = 2.5;  // TTS rate
-const CTA_RESERVE = 12;        // Palabras para CTA
+const CTA_RESERVE = 0;         // 0 porque el cierre ya está integrado en la narración
 
 // ═══ DERIVED WORD COUNTS ═══
 const INTRO_MIN_WORDS = Math.ceil(INTRO_AUDIO_MIN * WORDS_PER_SECOND);   // 62
@@ -633,7 +633,7 @@ messages: [
               '',
               '🔥 REGLAS ESTRICTAS DE ESTILO Y TONO (MODO YOUTUBER VIRAL):',
               '1. PROHIBIDO usar formatos de teletienda o clichés como "suele ser un problema", "es un dilema", "la solución definitiva", "hola a todos", "bienvenidos a otro video" o "en conclusión".',
-              '2. Habla de forma coloquial, directa y de tú a tú al espectador. Suena humano, emocionante y dinámico.',
+              '2. PRESENTACIÓN CASUAL (10-15 palabras): Menciona qué es el producto de forma natural en español. PROHIBIDO leer el título crudo de Amazon si suena robótico (ej: NUNCA escribas "El 2PACK Gran Puerta Reemplazo", escribe "Este paquete de dos puertas para mascotas").',
               '3. Concéntrate en lo increíble o útil del producto de forma casual, no leas especificaciones aburridas.',
               '4. NUNCA repitas la misma estructura para iniciar dos productos. Usa transiciones frescas (ej: "Pero ojo con este...", "Cambiando totalmente de tema...", "Este siguiente gadget me dejó sin palabras...", "Si odias hacer X, vas a amar esto...").',
               '5. Escribe EXCLUSIVAMENTE el texto hablado. Cero emojis, cero acotaciones como [Muestra el producto] o [Intro].',
@@ -1088,18 +1088,15 @@ const HOOK_STYLES = [
         this.logger.warn(`Reordenamiento parcial (${reordered.length}/${productLines.length}), manteniendo orden original de GPT.`);
       }
 
-      // ═══ ENFORCE WORD BUDGET (defensivo): truncar narracion si excede max_palabras ═══
-      // Si GPT ignoró el límite, recortamos para no romper la sincronización AV.
+// ═══ ENFORCE WORD BUDGET (Seguro: nunca corta una oración a la mitad) ═══
       for (let i = 0; i < parsed.productos.length; i++) {
         const pl = productLines[i];
         if (!pl || !pl.maxNarrationWords) continue;
-        const words = (parsed.productos[i].narracion || '').trim().split(/\s+/).filter(Boolean);
-        if (words.length > pl.maxNarrationWords) {
-          const truncated = words.slice(0, pl.maxNarrationWords).join(' ');
-          // Reasegurar punto final
-          const final = /[.!?]$/.test(truncated) ? truncated : truncated + '.';
-          this.logger.warn(`AV-sync: narracion[${i}] tenía ${words.length} palabras (máx ${pl.maxNarrationWords}) → truncada`);
-          parsed.productos[i].narracion = final;
+        const text = (parsed.productos[i].narracion || '').trim();
+        const words = text.split(/\s+/).filter(Boolean);
+        // Solo advertimos en el log sin mutilar la última oración del precio
+        if (words.length > pl.maxNarrationWords + 15) {
+          this.logger.warn(`AV-sync: narracion[${i}] tiene ${words.length} palabras (objetivo máx ${pl.maxNarrationWords}), se mantiene íntegra para no cortar el cierre.`);
         }
       }
     }

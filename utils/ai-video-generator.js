@@ -189,94 +189,101 @@ const dynamicMap = JSON.parse(rawContent);
   }
 
 async _sanitizeScriptForTTS(text) {
-    const pronunciationMap = [
-      // Diccionario Fijo (Este siempre es tu respaldo seguro)
+   const pronunciationMap = [
+      // 1. Diccionario Base del Canal y Anglicismos Generales
       [/\bTech Finds Amazon\b/gi, 'Tek Fainds Ámazon'],
-      [/\bAmazon\b/gi,         'Ámazon'],
-      [/\bgadget\b/gi,         'gádyet'],
-      [/\bgadgets\b/gi,        'gádyets'],
-      [/\blink\b/gi,           'enlace'],
-      [/\blinks\b/gi,          'enlaces'],
-      [/enlace superior/gi,    'primer enlace'],
-      [/enlace anclado/gi,     'primer enlace'],
-      [/\blike\b/gi,           'laik'],
-      [/\blikes\b/gi,          'laiks'],
-      [/\bapp\b/gi,            'ap'],
-      [/\bsmartphone\b/gi,     'esmart-fon'],
-      [/\bSmartwatch\b/gi,     'esmart-uach'],
-      [/\bsoftware\b/gi,       'sóf-uer'],
-      [/\bhardware\b/gi,       'jár-uer'],
-      [/\bPhilips Hue\b/gi,    'Fílips Hiu'],
-      [/\bsous vide\b/gi,      'su-vid'],
-      [/\bsmart home\b/gi,     'hogar inteligente'],
-      [/\bfast charging\b/gi,  'carga rápida'],
-      [/\btouchscreen\b/gi,    'pantalla táctil'],
-      [/\bwireless\b/gi,       'uaíre-les'],
-      [/\bstreaming\b/gi,      'stríming'],
-      [/\bLogitech\b/gi,       'Lo-yi-tek'],
-      [/\bGoPro\b/gi,          'Go-Pro'],
-      [/\biPhone\b/gi,         'ai-fon'],
-      [/\biPad\b/gi,           'ai-pad'],
-      [/\bMacBook\b/gi,        'mac-buk'],
-      [/\bAirPods\b/gi,        'er-pods'],
-      [/\bYouTube\b/gi,        'Iú-tub'],
-      [/\bAnova\b/gi,          'á-no-va'],
-      [/\bWi-Fi\b/gi,          'wai-fai'],
-      [/\bWiFi\b/gi,           'wai-fai'],
-      [/\bBluetooth\b/gi,      'blu-tus'],
-      [/\bHDMI\b/g,            'ache-de-eme-i'],
-      [/\bUSB\b/g,             'u-ese-be'],
-      [/\bRGB\b/g,             'erre-ge-be'],
-      [/\bdisplay\b/gi,        'pantalla'],
-      [/\bDashcam\b/gi,        'dash-cam'],
-      [/\bsetup\b/gi,          'se-tap'],
-      [/\bHexClad\b/gi,        'jex-clad'],
-      [/\bCouchmaster\b/gi,    'Cauch-máster'],
-      [/\bUnicLife\b/gi,       'Iú-nic-laif'],
-      [/\bCycon\b/gi,          'Sáicon'],
-      // --- MARCAS DEL VIDEO ACTUAL ---
-      [/\bInstant Pot\b/gi,    'Ínstant Pot'],
-      [/\bUltimate\b/gi,       'Últimet'],
-      [/\bINKBIRD\b/gi,        'Ínk-berd'],
+      [/\bTech Finds Global\b/gi, 'Tek Fainds Glóbal'],
+      [/\bAmazon\b/gi,            'Ámazon'],
+      [/\bgadgets\b/gi,           'gádyets'],
+      [/\bgadget\b/gi,            'gádyet'],
+      [/\blinks\b/gi,             'enlaces'],
+      [/\blink\b/gi,              'enlace'],
+      [/enlace superior/gi,       'primer enlace'],
+      [/enlace anclado/gi,        'primer enlace'],
+      [/\blikes\b/gi,             'me gusta'],
+      [/\blike\b/gi,              'me gusta'],          // Reemplaza el antiguo 'laik'
+      [/\bapp\b/gi,               'ap'],
+      [/\bsmartphone\b/gi,        'esmart-fon'],
+      [/\bsmartwatch\b/gi,        'esmart-uach'],
+      [/\bsoftware\b/gi,          'sóf-uer'],
+      [/\bhardware\b/gi,          'jár-uer'],
+      [/\bsous vide\b/gi,         'su-vid'],
+      [/\bsmart home\b/gi,        'hogar inteligente'],
+      [/\bfast charging\b/gi,     'carga rápida'],
+      [/\btouchscreen\b/gi,       'pantalla táctil'],
+      [/\bwireless\b/gi,          'uaíre-les'],
+      [/\bstreaming\b/gi,         'striming'],
+      [/\bdisplay\b/gi,           'pantalla'],
+      [/\bDashcam\b/gi,           'dash-cam'],
+      [/\bsetup\b/gi,             'se-tap'],
+      [/\bclosets\b/gi,           'armarios'],
+      [/\bcloset\b/gi,            'armario'],
+      [/\b(\d+)\s*-?\s*Pack\b/gi, 'paquete de $1'],     // "2PACK" -> "paquete de 2"
+
+      // 2. Conectividad, Resoluciones de Video e IA
+      [/\bWi-?Fi\b/gi,            'waifai'],            // Unificado sin guion para fluidez
+      [/\bwai-?wai\b/gi,          'waifai'],            // Corrige alucinación "wai-wai"
+      [/\bBluetooth\b/gi,         'blu-tus'],
+      [/\bHDMI\b/g,               'ache-de-eme-i'],
+      [/\bUSB\b/g,                'u-ese-be'],
+      [/\bRGB\b/g,                'erre-ge-be'],
+      [/\bFull\s*HD\b/gi,         'Ful Hache De'],      // Evita que diga "fuy hache de"
+      [/\b1080p\s*HD\b/gi,        'mil ochenta pe de alta definición'],
+      [/\b1080p\b/gi,             'mil ochenta pe'],
+      [/(\d+)\.(\d+)\s*K\b/gi,    '$1 punto $2 ka'],    // 2.5K -> 2 punto 5 ka
+      [/\bAI\b/g,                 'inteligencia artificial'],
+      [/\bIA\b/g,                 'inteligencia artificial'],
+      [/\bLEDs\b/gi,              'luces led'],
+      [/\bLED\b/gi,               'led'],
+
+      // 3. Marcas Frecuentes
+      [/\bPhilips Hue\b/gi,       'Fílips Hiu'],
+      [/\bLogitech\b/gi,          'Lo-yi-tek'],
+      [/\bGoPro\b/gi,             'Go-Pro'],
+      [/\biPhone\b/gi,            'ai-fon'],
+      [/\biPad\b/gi,              'ai-pad'],
+      [/\bMacBook\b/gi,           'mac-buk'],
+      [/\bAirPods\b/gi,           'er-pods'],
+      [/\bYouTube\b/gi,           'Iú-tub'],
+      [/\bAnova\b/gi,             'á-no-va'],
+      [/\bHexClad\b/gi,           'jex-clad'],
+      [/\bCouchmaster\b/gi,       'Cauch-máster'],
+      [/\bUnicLife\b/gi,          'Iú-nic-laif'],
+      [/\bCycon\b/gi,             'Sáicon'],
+      [/\bInstant Pot\b/gi,       'Ínstant Pot'],
+      [/\bUltimate\b/gi,          'Últimet'],
+      [/\bINKBIRD\b/gi,           'Ínk-berd'],
       [/\bNinja Kitchen System\b/gi, 'Ninya Kíchen Sístem'],
-      [/\bBlendSense\b/gi,     'Blend-sens'],
+      [/\bBlendSense\b/gi,        'Blend-sens'],
+      [/\bPETKIT\b/gi,            'Pet Kit'],
+      [/\bSensforge\b/gi,         'Sens-forch'],
+      [/byte\b/gi,                'bait'],              // Topabyte -> Topabait
+      [/\bWhite\b/gi,             'Blanco'],
+      [/\bHX\d+\b/gi,             ''],                  // Elimina códigos de modelo
 
-      // --- TÉRMINOS TÉCNICOS Y MEDIDAS (¡Muy importante para Amazon!) ---
-      [/(\d+)W\b/gi,           '$1 vatios'],           // Convierte "1000W" en "1000 vatios"
-      [/(\d+)V\b/gi,           '$1 voltios'],          // Convierte "220V" en "220 voltios"
-      [/(\d+)mAh\b/gi,         '$1 miliamperios'],     // Convierte "5000mAh" en "5000 miliamperios"
-      [/\bQT\b/gi,             'cuartos de galón'],    // Convierte la capacidad "QT"
-      [/°C\b/gi,               ' grados centígrados'],
-      [/°F\b/gi,               ' grados fahrenheit'],
-      [/\bC\/F\b/gi,           'centígrados o fahrenheit'],
-      [/\bplus o minus\b/gi,   'más o menos'],         // Corrige el error de spanglish de Qwen
-      
-      // Limpieza de números grandes con coma o punto anglosajón
-      [/(\d+)[,.]000/gi,       '$1 mil'],              // 20,000 -> 20 mil | 31,000 -> 31 mil
-      [/\b(\d+)000\b/gi,       '$1 mil'],              // 20000 -> 20 mil
-      
-      // Correcciones del video analizado
-      [/\bWhite\b/gi,          'Blanco'],
-      [/\bHX\d+\b/gi,          ''],                    // Elimina códigos de modelo impronunciables
-      [/\bLED\b/gi,            'led'],
-      [/\bLEDs\b/gi,           'luces led'],
+      // 4. Unidades Técnicas y Medidas de Amazon
+      [/(\d+)\s*W\b/gi,           '$1 vatios'],
+      [/(\d+)\s*V\b/gi,           '$1 voltios'],
+      [/(\d+)\s*mAh\b/gi,         '$1 miliamperios'],
+      [/(\d+)\s*dB\b/gi,          '$1 decibelios'],
+      [/\bQT\b/gi,                'cuartos de galón'],
+      [/°C\b/gi,                  ' grados centígrados'],
+      [/°F\b/gi,                  ' grados fahrenheit'],
+      [/\bC\/F\b/gi,              'centígrados o fahrenheit'],
+      [/\bplus o minus\b/gi,      'más o menos'],
 
-      // Unidades acústicas y técnicas nuevas
-      [/(\d+)\s*dB\b/gi,       '$1 decibelios'],       // 50 dB -> 50 decibelios
-      
-      // Anglicismos comunes del canal para que Kokoro suene 100% fluido
-      [/\bgadgets\b/gi,        'gádyets'],             // Evita que diga "gad-je-tes"
-      [/\bgadget\b/gi,         'gádyet'],              // Evita que diga "gad-jet"
-      [/\blike\b/gi,           'me gusta'],            // Evita que diga "la-ik" robótico
-      [/\bclosets\b/gi,        'armarios'],            // Fluidez en español
-      [/\bcloset\b/gi,         'armario'],
-      [/byte\b/gi,             'bait'],                // Topabyte -> Topabait
-      
-      // Corrección de errores ortográficos comunes de Qwen 7B
-      [/\bpulserra\b/gi,       'pulsera'],
-      [/\bsila\b/gi,           'silla'],
-      
-      // Limpieza de mayúsculas accidentales a mitad de palabra (ej. "boLSA" -> "bolsa")
+      // 5. Números Grandes Anglosajones
+      [/(\d+)[,.]000/gi,          '$1 mil'],            // 20,000 -> 20 mil
+      [/\b(\d+)000\b/gi,          '$1 mil'],            // 20000 -> 20 mil
+
+      // 6. Parches Ortográficos y de Palabras Cortadas (Qwen 7B)
+      [/\bDemás,/g,               'Además,'],           // Restaura la "A" en "Además,"
+      [/\bomanos\b/gi,            'humanos'],
+      [/\bfalsas alarma\b/gi,     'falsas alarmas'],
+      [/\bpulserra\b/gi,          'pulsera'],
+      [/\bsila\b/gi,              'silla'],
+
+      // 7. Limpieza de mayúsculas accidentales a mitad de palabra (ej. "boLSA" -> "bolsa")
       [/\b([a-záéíóúñ]+)([A-ZÁÉÍÓÚÑ]+[a-záéíóúñA-ZÁÉÍÓÚÑ]*)\b/g, (match) => match.toLowerCase()],
     ];
 

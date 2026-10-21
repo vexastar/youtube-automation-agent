@@ -41,14 +41,11 @@ class PublishingSchedulingAgent {
     }
   }
 
-async scheduleContent(productionData, videoType = 'long') {
+  async scheduleContent(productionData, videoType = 'long') {
     try {
       const contentType = videoType === 'short' ? 'Shorts Verticales Múltiples' : 'Video Largo (16:9)';
       this.logger.info(`Scheduling content: ${productionData.id} [Tipo: ${contentType}]`);
       
-      // ══════════════════════════════════════════════════════════
-      // LÓGICA PARA EL VIDEO LARGO HORIZONTAL
-      // ══════════════════════════════════════════════════════════
       if (videoType === 'long') {
         const videoPath = productionData.assets.finalVideo?.path || null;
         if (!videoPath) throw new Error('No long video available for scheduling');
@@ -77,14 +74,10 @@ async scheduleContent(productionData, videoType = 'long') {
         this.logger.info(`✅ Video Largo programado para: ${scheduleEntry.publishTime}`);
         return scheduleEntry;
 
-      // ══════════════════════════════════════════════════════════
-      // LÓGICA PARA PUBLICAR TODOS LOS SHORTS VERTICALES GENERADOS
-      // ══════════════════════════════════════════════════════════
       } else if (videoType === 'short') {
         const scheduledEntries = [];
         let basePublishTime = new Date(productionData.scheduledPublishTime);
 
-        // 1. Programar el TEASER SHORT (+4 horas de diferencia para traccionar tráfico)
         if (productionData.assets.shortVideos?.teaser?.path) {
           let teaserTime = new Date(basePublishTime);
           teaserTime.setHours(teaserTime.getHours() + 4);
@@ -112,7 +105,6 @@ async scheduleContent(productionData, videoType = 'long') {
           this.logger.info(`✅ Teaser Short programado para: ${teaserEntry.publishTime}`);
         }
 
-        // 2. Programar el INTRO SHORT (+8 horas de diferencia para un segundo pico de alcance)
         if (productionData.assets.shortVideos?.intro?.path) {
           let introTime = new Date(basePublishTime);
           introTime.setHours(introTime.getHours() + 8);
@@ -145,7 +137,6 @@ async scheduleContent(productionData, videoType = 'long') {
         }
 
         this.publishQueue.sort((a, b) => new Date(a.publishTime) - new Date(b.publishTime));
-        // Retornamos el array completo de lo que se programó
         return scheduledEntries; 
       }
     } catch (error) {
@@ -158,7 +149,6 @@ async scheduleContent(productionData, videoType = 'long') {
     try {
       this.logger.info(`Publishing content requested for: ${contentId}`);
       
-      // Buscar todas las entradas en la cola que coincidan con el ID base o sus variantes (teaser/intro)
       const entriesToPublish = this.publishQueue.filter(entry => 
         entry.productionId === contentId || 
         entry.id === contentId ||
@@ -172,14 +162,11 @@ async scheduleContent(productionData, videoType = 'long') {
       
       const results = [];
       
-      // Procesar y publicar cada video encontrado secuencialmente
       for (const scheduleEntry of entriesToPublish) {
         this.logger.info(`[Publishing] Subiendo a YouTube la entrada: ${scheduleEntry.productionId}`);
         
-        // Upload video to YouTube (Aplica estado "No Listado" por defecto)
         const uploadResult = await this.uploadToYouTube(scheduleEntry);
         
-        // Update database
         scheduleEntry.status = 'published';
         scheduleEntry.publishedAt = new Date().toISOString();
         scheduleEntry.youtubeId = uploadResult.id;
@@ -187,14 +174,12 @@ async scheduleContent(productionData, videoType = 'long') {
         
         await this.db.updateScheduleEntry(scheduleEntry);
         
-        // Remove exactly this entry from queue
         this.publishQueue = this.publishQueue.filter(entry => entry.productionId !== scheduleEntry.productionId);
         
         this.logger.success(`Content published: ${scheduleEntry.youtubeUrl}`);
         results.push(scheduleEntry);
       }
       
-      // Retornar objeto si es uno solo (compatibilidad) o array si son múltiples
       return results.length === 1 ? results[0] : results;
       
     } catch (error) {
@@ -207,14 +192,11 @@ async scheduleContent(productionData, videoType = 'long') {
     const { metadata } = scheduleEntry;
     const videoPath = metadata.video.path;
 
-    // ═══ DETECTAR TIPO DE CONTENIDO ═══
-    // Si la ruta incluye '_short', es un Short vertical. Aplicar metadata optimizada.
     const isShort = videoPath.toLowerCase().includes('_short');
     
     this.logger.info(`[Publishing] Detectado: ${isShort ? 'SHORT VERTICAL' : 'VIDEO LARGO'}`);
     this.logger.info(`[Publishing] Ruta: ${videoPath}`);
 
-    // ═══ PREPARAR METADATA ESPECÍFICA POR TIPO ═══
     const videoMetadata = isShort 
       ? this._prepareShortMetadata(scheduleEntry, metadata)
       : this._prepareLongVideoMetadata(scheduleEntry, metadata);
@@ -233,7 +215,6 @@ async scheduleContent(productionData, videoType = 'long') {
     this.logger.info(`[Publishing] ║ Tags: ${videoMetadata.snippet.tags.join(', ').substring(0, 51).padEnd(52)}║`);
     this.logger.info(`[Publishing] ╚════════════════════════════════════════════════════════╝`);
     
-// ═══ MOTOR DE SUBIDA REANUDABLE ANTI-CORTES ═══
     const videoUpload = await this._robustChunkedUpload(videoPath, videoMetadata, isShort ? '[Short]' : '[Video]');
     
     const videoId = videoUpload.data.id;
@@ -241,27 +222,22 @@ async scheduleContent(productionData, videoType = 'long') {
     this.logger.info(`[YouTube Agent] ${contentType} subido exitosamente como NO LISTADO. Listo para revisión manual.`);
     this.logger.info(`Video ID: ${videoId}`);
     
-    // ═══ UPLOAD THUMBNAIL (SOLO PARA VIDEOS LARGOS) ═══
     if (!isShort) {
       if (metadata.thumbnail && metadata.thumbnail.path) {
         try {
           this.logger.info(`[Thumbnail] Inicializando carga de miniatura...`);
-          this.logger.info(`[Thumbnail] Ruta: ${metadata.thumbnail.path}`);
           await this.uploadThumbnail(videoId, metadata.thumbnail.path);
           this.logger.success(`[Thumbnail] ✅ Miniatura subida exitosamente`);
         } catch (thumbErr) {
           this.logger.warn(`[Thumbnail] ⚠️ Error al subir miniatura: ${thumbErr.message}`);
-          this.logger.warn(`[Thumbnail] El video está publicado pero sin miniatura personalizada.`);
         }
       } else {
         this.logger.warn(`[Thumbnail] ⚠️ No hay miniatura disponible en metadata.thumbnail`);
-        this.logger.warn(`[Thumbnail] Usando miniatura por defecto de YouTube.`);
       }
     } else {
       this.logger.info(`[Thumbnail] ⏭️  Short detectado — usando frame del video como miniatura.`);
     }
     
-    // Upload captions
     if (metadata.captions && metadata.captions.path) {
       await this.uploadCaptions(videoId, metadata.captions.path);
     }
@@ -269,39 +245,13 @@ async scheduleContent(productionData, videoType = 'long') {
     return videoUpload.data;
   }
 
-  /**
-   * Prepara metadata optimizada para YouTube Shorts (9:16 vertical).
-   * Sigue las mejores prácticas del algoritmo vertical: titulo con #Shorts,
-   * descripción MINIMALISTA con enlace afiliado en línea 3-4 para máxima visibilidad móvil,
-   * tags para búsqueda vertical.
-   * 
-   * ESTRUCTURA DE DESCRIPCIÓN (Móvil-Optimizada):
-   * Línea 1: [Primera oración del gancho]
-   * Línea 2: 👇 Consíguelo aquí:
-   * Línea 3: [Enlace de Afiliado] ← Visible en preview
-   * Línea 4: [Hashtags]
-   */
   _prepareShortMetadata(scheduleEntry, metadata) {
-    const baseTitle = metadata.seo.title || scheduleEntry.title;
-    
-    // ═══ TÍTULO DE ALTO IMPACTO: Generar dinámicamente ═══
-    // Usa la función helper para plantillas de CTR optimizado
+    const baseTitle = metadata.seo?.title || scheduleEntry?.title || '';
     let shortsTitle = this._generateImpactShortTitle(baseTitle);
-    
-    // Asegurar que no excede 100 caracteres (YouTube max)
-    if (shortsTitle.length > 100) {
-      shortsTitle = shortsTitle.substring(0, 97) + '...';
-    }
+    if (shortsTitle.length > 100) shortsTitle = shortsTitle.substring(0, 97) + '...';
 
-    // ═══ DESCRIPCIÓN OPTIMIZADA: Enlace afiliado + Link al video principal ═══
-    // Estructura compacta: [Primera oración] → [CTA] → [Enlace] → [Promo Video] → [Hashtags]
-    // CRÍTICO: El enlace afiliado debe aparecer en líneas 2-3 para máxima visibilidad en móviles
-    let shortsDescription = '';
-    
-    // ═══ EXTRAER PRIMERA ORACIÓN (hasta el primer punto) ═══
-    const fullDescription = metadata.seo.description || '';
+    const fullDescription = metadata.seo?.description || '';
     let firstSentence = 'Descubre este increíble gadget';
-    
     if (fullDescription && fullDescription.length > 0) {
       const firstPeriod = fullDescription.indexOf('.');
       if (firstPeriod !== -1) {
@@ -312,46 +262,27 @@ async scheduleContent(productionData, videoType = 'long') {
         } else {
           const words = fullDescription.split(/\s+/);
           firstSentence = words.slice(0, Math.min(3, words.length)).join(' ').trim();
-          if (!firstSentence.endsWith('.')) {
-            firstSentence += '.';
-          }
+          if (!firstSentence.endsWith('.')) firstSentence += '.';
         }
       }
     }
     
-    // Línea 1: Hook/Primera oración
-    shortsDescription += `${firstSentence}\n`;
-    
-    // Línea 2: Call-to-action con emoji
-    shortsDescription += `👇 Consíguelo en Amazon:\n`;
-    
-    // Línea 3: Enlace afiliado (PRIORITARIO - visible inmediatamente en móviles)
-    if (metadata.seo.affiliateLink) {
-      shortsDescription += `${metadata.seo.affiliateLink}\n`;
-    } else {
-      shortsDescription += `https://amazon.com\n`;
-    }
-    
-    // Línea 4: Enlace al video principal
-    shortsDescription += `\n🎬 Ver análisis COMPLETO en nuestro video principal\n`;
-    shortsDescription += `📺 Suscríbete para más gadgets tech\n`;
-    
-    // Línea 5: Hashtags para SEO vertical
-    shortsDescription += `\n#Shorts #techfinds #amazonfinds #gadgets #technologia #amazonfavorites`;
+    let shortsDescription = `${firstSentence}\n👇 Consíguelo en Amazon:\n`;
+    shortsDescription += (metadata.seo?.affiliateLink || 'https://amazon.com') + '\n';
+    shortsDescription += `\n🎬 Ver análisis COMPLETO en nuestro video principal\n📺 Suscríbete para más gadgets tech\n\n#Shorts #techfinds #amazonfinds #gadgets #tecnologia #amazonfavorites`;
 
-    // ═══ TAGS (ETIQUETAS): Optimizadas para Shorts ═══
-    const shortsTags = [
-      'Shorts',
-      'amazon finds',
-      'tech gadgets',
-      'mejores gadgets',
-      'tecnologia',
-      'gadgets amazon',
-      'tech review'
-    ]
-      .filter(tag => tag && typeof tag === 'string' && tag.trim().length > 0)
-      .map(tag => String(tag).substring(0, 30))
-      .slice(0, 500);
+    const shortsTags = ['Shorts', 'amazon finds', 'tech gadgets', 'mejores gadgets', 'tecnologia', 'gadgets amazon', 'tech review'].slice(0, 500);
+
+    const randomEmoji = ['😱', '🤯', '🔥', '⚡', '🚀'][Math.floor(Math.random() * 5)];
+    const baseTitleEn = metadata.seo?.title_en ? metadata.seo.title_en.substring(0, 50) : 'Awesome Tech Gadgets';
+    const baseTitlePt = metadata.seo?.title_pt ? metadata.seo.title_pt.substring(0, 50) : 'Gadgets Incríveis';
+
+    const shortTitleEn = `${baseTitleEn} ${randomEmoji} #shorts`.substring(0, 100);
+    const shortTitlePt = `${baseTitlePt} ${randomEmoji} #shorts`.substring(0, 100);
+
+    const link = metadata.seo?.affiliateLink || 'https://amazon.com';
+    const shortDescEn = `${baseTitleEn}\n👇 Get it on Amazon:\n${link}\n\n🎬 Watch the FULL video on our channel!\n#shorts #techfinds #amazonfinds`;
+    const shortDescPt = `${baseTitlePt}\n👇 Compre na Amazon:\n${link}\n\n🎬 Assista ao vídeo COMPLETO no nosso canal!\n#shorts #techfinds #amazonfinds`;
 
     return {
       snippet: {
@@ -361,6 +292,10 @@ async scheduleContent(productionData, videoType = 'long') {
         categoryId: String(metadata.seo?.metadata?.category || '28'),
         defaultLanguage: 'es',
         defaultAudioLanguage: 'es'
+      },
+      localizations: {
+        en: { title: shortTitleEn, description: shortDescEn },
+        pt: { title: shortTitlePt, description: shortDescPt }
       },
       status: {
         privacyStatus: process.env.DEFAULT_PRIVACY_STATUS || 'unlisted',
@@ -372,31 +307,13 @@ async scheduleContent(productionData, videoType = 'long') {
     };
   }
 
-  /**
-   * Genera títulos de impacto ultra-cortos para Shorts (<60 caracteres).
-   * Formato: "El MEJOR [Producto] 😱 #shorts #tech"
-   * Estos títulos optimizan CTR en formato vertical.
-   * 
-   * @private
-   */
   _generateImpactShortTitle(baseTitle) {
-    // Eliminar prefijos comunes como "Top X", "Mejor", etc.
-    let cleanTitle = baseTitle
-      .replace(/^Top\s+\d+\s*[:\-]?\s*/i, '')
-      .replace(/^Mejor\s+/i, '')
-      .replace(/^Los\s+/i, '')
-      .trim();
+    let cleanTitle = baseTitle.replace(/^Top\s+\d+\s*[:\-]?\s*/i, '').replace(/^Mejor\s+/i, '').replace(/^Los\s+/i, '').trim();
+    if (cleanTitle.length > 30) cleanTitle = cleanTitle.substring(0, 27) + '...';
     
-    // Si es muy largo, acortar
-    if (cleanTitle.length > 30) {
-      cleanTitle = cleanTitle.substring(0, 27) + '...';
-    }
-    
-    // Elegir emoji de impacto aleatorio
     const impactEmojis = ['😱', '🤯', '🔥', '⚡', '💎', '🚀', '🎯', '✨'];
     const randomEmoji = impactEmojis[Math.floor(Math.random() * impactEmojis.length)];
     
-    // Plantillas variadas para impacto
     const templates = [
       `${cleanTitle} ${randomEmoji} #shorts`,
       `El MEJOR ${cleanTitle} ${randomEmoji}`,
@@ -405,62 +322,25 @@ async scheduleContent(productionData, videoType = 'long') {
       `¿Ya conoces el ${cleanTitle}? ${randomEmoji}`
     ];
     
-    // Seleccionar plantilla aleatoria
-    const selectedTemplate = templates[Math.floor(Math.random() * templates.length)];
-    
-    return selectedTemplate;
+    return templates[Math.floor(Math.random() * templates.length)];
   }
 
-  /**
-   * Prepara metadata estándar para videos largos (16:9 horizontal).
-   * Estructura tradicional: título, descripción expandida, tags variados.
-   */
-_prepareLongVideoMetadata(scheduleEntry, metadata) {
+  _prepareLongVideoMetadata(scheduleEntry, metadata) {
     const cleanText = (str, maxLen) => String(str || '').replace(/[<>]/g, '').trim().substring(0, maxLen);
 
-    // Validar campos requeridos en español
     const title = cleanText(metadata.seo?.title || scheduleEntry?.title || 'Nuevo Video', 100);
     const description = cleanText(metadata.seo?.description || 'Descubrimiento de gadgets increíbles', 5000);
-    const categoryId = String(metadata.seo?.metadata?.category || '28'); // 28 = Science & Technology
+    const categoryId = String(metadata.seo?.metadata?.category || '28'); 
     
-    // Tags: validar que todos sean strings válidos
-    const tags = (Array.isArray(metadata.seo?.tags) ? metadata.seo.tags : ['tech', 'gadgets'])
+    const tags = (Array.isArray(metadata.seo?.tags) ? metadata.seo.tags : ['tech', 'gadgets', 'amazon'])
       .filter(tag => tag && typeof tag === 'string' && tag.trim().length > 0)
-      .map(tag => String(tag).replace(/[<>]/g, '').substring(0, 30))  // Max 30 caracteres por tag
+      .map(tag => String(tag).replace(/[<>]/g, '').substring(0, 30))
       .slice(0, 500);
 
-    // Extraer traducciones desde seoData (con soporte directo, localizations o llmOutput)
-    const titleEn = cleanText(
-      metadata.seo?.title_en ||
-      metadata.seo?.localizations?.en?.title ||
-      metadata.seo?.llmOutput?.title_en ||
-      'Top Must-Have Tech Gadgets You Need To See',
-      100
-    );
-
-    const descEn = cleanText(
-      metadata.seo?.description_en ||
-      metadata.seo?.localizations?.en?.description ||
-      metadata.seo?.llmOutput?.description_en ||
-      `${description}\n\n🔗 Find all product links in the pinned comment below!`,
-      5000
-    );
-
-    const titlePt = cleanText(
-      metadata.seo?.title_pt ||
-      metadata.seo?.localizations?.pt?.title ||
-      metadata.seo?.llmOutput?.title_pt ||
-      'Top Gadgets Tecnológicos Incríveis Que Você Precisa Ver',
-      100
-    );
-
-    const descPt = cleanText(
-      metadata.seo?.description_pt ||
-      metadata.seo?.localizations?.pt?.description ||
-      metadata.seo?.llmOutput?.description_pt ||
-      `${description}\n\n🔗 Encontre todos os links dos produtos no primeiro comentário fixado!`,
-      5000
-    );
+    const titleEn = cleanText(metadata.seo?.title_en || metadata.seo?.localizations?.en?.title || metadata.seo?.llmOutput?.title_en || 'Top Must-Have Tech Gadgets You Need To See', 100);
+    const descEn = cleanText(metadata.seo?.description_en || metadata.seo?.localizations?.en?.description || metadata.seo?.llmOutput?.description_en || `${description}\n\n🔗 Find all product links in the pinned comment below!`, 5000);
+    const titlePt = cleanText(metadata.seo?.title_pt || metadata.seo?.localizations?.pt?.title || metadata.seo?.llmOutput?.title_pt || 'Top Gadgets Tecnológicos Incríveis Que Você Precisa Ver', 100);
+    const descPt = cleanText(metadata.seo?.description_pt || metadata.seo?.localizations?.pt?.description || metadata.seo?.llmOutput?.description_pt || `${description}\n\n🔗 Encontre todos os links dos produtos no primeiro comentário fixado!`, 5000);
 
     return {
       snippet: {
@@ -472,14 +352,8 @@ _prepareLongVideoMetadata(scheduleEntry, metadata) {
         defaultAudioLanguage: 'es'
       },
       localizations: {
-        en: {
-          title: titleEn,
-          description: descEn
-        },
-        pt: {
-          title: titlePt,
-          description: descPt
-        }
+        en: { title: titleEn, description: descEn },
+        pt: { title: titlePt, description: descPt }
       },
       status: {
         privacyStatus: process.env.DEFAULT_PRIVACY_STATUS || 'unlisted',
@@ -491,20 +365,10 @@ _prepareLongVideoMetadata(scheduleEntry, metadata) {
     };
   }
 
-  /**
-   * Genera un título dinámico con plantillas de alto CTR.
-   * Ejemplos: 
-   * - "[X] Gadgets de Amazon que NO Sabías que Necesitabas 🤯"
-   * - "[X] Gadgets Tecnológicos que Cambiarán tu Setup ⚡"
-   * 
-   * @private
-   */
   _generateDynamicTitle(baseTitle, seo) {
-    // Extraer número del título si existe (ej: "Top 5" → 5)
     const numberMatch = baseTitle.match(/\b(Top|top|TOP)\s+(\d+)/i);
     const topNumber = numberMatch ? numberMatch[2] : '';
     
-    // Plantillas de alto CTR disponibles
     const templates = [
       `[${topNumber}] Gadgets de Amazon que NO Sabías que Necesitabas 🤯`,
       `[${topNumber}] Gadgets Tecnológicos que Cambiarán tu Setup ⚡`,
@@ -516,154 +380,78 @@ _prepareLongVideoMetadata(scheduleEntry, metadata) {
       `[${topNumber}] Los Gadgets Más Buscados de Amazon Este Año ⭐`
     ];
     
-    // Seleccionar una plantilla aleatoria (o basada en hash del contenido)
     const contentHash = baseTitle.split('').reduce((a, b) => {
       a = ((a << 5) - a) + b.charCodeAt(0);
       return a & a;
     }, 0);
     const selectedTemplate = templates[Math.abs(contentHash) % templates.length];
     
-    // Limitar a 100 caracteres (máximo de YouTube)
-    const finalTitle = selectedTemplate.length > 100 
-      ? selectedTemplate.substring(0, 97) + '...'
-      : selectedTemplate;
-    
-    return finalTitle;
+    return selectedTemplate.length > 100 ? selectedTemplate.substring(0, 97) + '...' : selectedTemplate;
   }
 
-  /**
-   * Genera capítulos automáticos basados en duración de cada clip.
-   * Retorna array de { timestamp: "MM:SS", title: "Nombre del Producto" }
-   * 
-   * @private
-   */
   _generateChapters(script) {
-    const chapters = [];
-    
-    // Siempre empezar con Intro
-    chapters.push({
-      timestamp: '00:00',
-      title: 'Intro'
-    });
-    
-    if (!script || !script.mainContent || !script.mainContent.sections) {
-      return chapters;
-    }
+    const chapters = [{ timestamp: '00:00', title: 'Intro' }];
+    if (!script || !script.mainContent || !script.mainContent.sections) return chapters;
     
     const sections = script.mainContent.sections;
-    const INTRO_DURATION = 30;  // Intro es ~30 segundos
-    let currentTime = INTRO_DURATION;  // Comenzar después del intro
+    let currentTime = 30;  
     
-    // Iterar sobre cada sección/producto
     sections.forEach((section, idx) => {
       const productName = section.productName || section.title || `Producto ${idx + 1}`;
+      const clipDuration = section.videoDuration || 30;  
       
-      // Usar videoDuration del script o fallback a duración estándar
-      const clipDuration = section.videoDuration || 30;  // En segundos
-      
-      // Convertir tiempo actual (segundos) a formato MM:SS
       const minutes = Math.floor(currentTime / 60);
       const seconds = Math.floor(currentTime % 60);
       const timestamp = `${String(minutes).padStart(2, '0')}:${String(seconds).padStart(2, '0')}`;
       
-      chapters.push({
-        timestamp: timestamp,
-        title: productName
-      });
-      
-      // Sumar duración del clip para el siguiente capítulo
+      chapters.push({ timestamp: timestamp, title: productName });
       currentTime += clipDuration;
     });
     
     return chapters;
   }
 
-  /**
-   * Construye la descripción del video incluyendo capítulos y enlaces.
-   * Formato:
-   * - Descripción original
-   * - [Capítulos automáticos]
-   * - [Enlaces de afiliado]
-   * - [Hashtags]
-   * 
-   * @private
-   */
   _buildDescriptionWithChapters(originalDescription, chapters, affiliateLink) {
     let description = originalDescription || 'Descubre los mejores gadgets de Amazon.';
+    description += '\n\n' + '═'.repeat(50) + '\n📌 CAPÍTULOS DEL VIDEO\n' + '═'.repeat(50) + '\n';
     
-    // Agregar separador visual
-    description += '\n\n' + '═'.repeat(50) + '\n';
-    description += '📌 CAPÍTULOS DEL VIDEO\n';
-    description += '═'.repeat(50) + '\n';
-    
-    // Agregar cada capítulo con timestamp
     chapters.forEach(chapter => {
       description += `${chapter.timestamp} - ${chapter.title}\n`;
     });
     
-    // Agregar sección de enlaces
-    description += '\n' + '═'.repeat(50) + '\n';
-    description += '🔗 ENLACES Y RECURSOS\n';
-    description += '═'.repeat(50) + '\n';
+    description += '\n' + '═'.repeat(50) + '\n🔗 ENLACES Y RECURSOS\n' + '═'.repeat(50) + '\n';
+    if (affiliateLink) description += `Todos los enlaces de compra:\n${affiliateLink}\n\n`;
     
-    if (affiliateLink) {
-      description += `Todos los enlaces de compra:\n${affiliateLink}\n\n`;
-    }
-    
-    // Agregar CTA para suscripción
-    description += `👉 Suscríbete para más gadgets tech\n`;
-    description += `👉 Visita nuestro canal de TikTok/Instagram para versiones cortas\n\n`;
-    
-    // Agregar hashtags de SEO
+    description += `👉 Suscríbete para más gadgets tech\n👉 Visita nuestro canal de TikTok/Instagram para versiones cortas\n\n`;
     description += '#gadgets #amazon #amazonfinds #tech #technologia #gadgetstecnologicos #productostech #recomendaciones #viral';
     
     return description;
   }
 
   async getVideoStream(videoPath) {
-    // In a real implementation, this would return a file stream
-    // For now, we'll simulate it
-    return JSON.stringify({
-      message: 'Video stream would be provided here',
-      path: videoPath,
-      timestamp: new Date().toISOString()
-    });
+    return JSON.stringify({ message: 'Video stream would be provided here', path: videoPath, timestamp: new Date().toISOString() });
   }
 
   async uploadThumbnail(videoId, thumbnailPath) {
     try {
-      // ═══ VALIDAR QUE EXISTE EL ARCHIVO ═══
       const exists = fsSync.existsSync(thumbnailPath);
-      if (!exists) {
-        throw new Error(`Thumbnail file not found at: ${thumbnailPath}`);
-      }
-      
+      if (!exists) throw new Error(`Thumbnail file not found at: ${thumbnailPath}`);
       const stats = fsSync.statSync(thumbnailPath);
-      if (stats.size === 0) {
-        throw new Error(`Thumbnail file is empty: ${thumbnailPath}`);
-      }
-      
-      this.logger.info(`[Thumbnail] Leyendo archivo: ${thumbnailPath} (${(stats.size / 1024).toFixed(2)} KB)`);
+      if (stats.size === 0) throw new Error(`Thumbnail file is empty: ${thumbnailPath}`);
       
       const thumbnailBuffer = await fs.readFile(thumbnailPath);
-      
-      this.logger.info(`[Thumbnail] Subiendo miniatura a YouTube para video ID: ${videoId}...`);
-      
       await this.youtube.thumbnails.set({
         videoId: videoId,
-        media: {
-          body: thumbnailBuffer
-        }
+        media: { body: thumbnailBuffer }
       });
-      
       this.logger.info(`[Thumbnail] ✅ Thumbnail uploaded for video: ${videoId}`);
     } catch (error) {
       this.logger.error(`[Thumbnail] ❌ Failed to upload thumbnail: ${error.message}`);
-      throw error; // Re-throw para que el caller sepa que falló
+      throw error;
     }
   }
 
-async uploadCaptions(videoId, captionsPath) {
+  async uploadCaptions(videoId, captionsPath) {
     try {
       const captionsContent = await fs.readFile(captionsPath, 'utf8');
       
@@ -677,9 +465,7 @@ async uploadCaptions(videoId, captionsPath) {
             isDraft: false
           }
         },
-        media: {
-          body: captionsContent
-        }
+        media: { body: captionsContent }
       });
       
       this.logger.info(`Captions uploaded for video: ${videoId}`);
@@ -690,11 +476,9 @@ async uploadCaptions(videoId, captionsPath) {
 
   async processPublishQueue() {
     this.logger.info('Processing publish queue...');
-    
     const now = new Date();
     const readyToPublish = this.publishQueue.filter(entry => {
-      const publishTime = new Date(entry.publishTime);
-      return publishTime <= now && entry.status === 'scheduled';
+      return new Date(entry.publishTime) <= now && entry.status === 'scheduled';
     });
     
     for (const entry of readyToPublish) {
@@ -703,34 +487,29 @@ async uploadCaptions(videoId, captionsPath) {
         this.logger.info(`Auto-published: ${entry.title}`);
       } catch (error) {
         this.logger.error(`Failed to auto-publish ${entry.title}:`, error);
-        // Mark as failed but don't stop processing other items
         entry.status = 'failed';
         entry.error = error.message;
         await this.db.updateScheduleEntry(entry);
       }
     }
-    
     return readyToPublish.length;
   }
 
   async getUpcomingSchedule(days = 7) {
     const now = new Date();
     const endDate = new Date(now.getTime() + (days * 24 * 60 * 60 * 1000));
-    
     return this.publishQueue
       .filter(entry => {
-        const publishTime = new Date(entry.publishTime);
-        return publishTime >= now && publishTime <= endDate;
+        const pTime = new Date(entry.publishTime);
+        return pTime >= now && pTime <= endDate;
       })
       .sort((a, b) => new Date(a.publishTime) - new Date(b.publishTime));
   }
 
   async optimizePublishTimes() {
-    // Analyze channel analytics to find optimal publish times
     const analytics = await this.getChannelAnalytics();
     const optimalTimes = this.calculateOptimalTimes(analytics);
     
-    // Update scheduled content with better times
     for (const entry of this.publishQueue) {
       if (entry.status === 'scheduled') {
         const currentTime = new Date(entry.publishTime);
@@ -747,39 +526,23 @@ async uploadCaptions(videoId, captionsPath) {
 
   async getChannelAnalytics() {
     try {
-      // Get channel analytics for the last 30 days
-      const endDate = new Date();
-      const startDate = new Date(endDate.getTime() - (30 * 24 * 60 * 60 * 1000));
-      
-      const response = await this.youtube.channels.list({
-        part: 'statistics',
-        mine: true
-      });
-      
-      // In a full implementation, you'd use YouTube Analytics API
-      // For now, we'll return simulated data
+      const response = await this.youtube.channels.list({ part: 'statistics', mine: true });
       return {
         totalViews: response.data.items[0]?.statistics?.viewCount || 0,
         subscribers: response.data.items[0]?.statistics?.subscriberCount || 0,
         videos: response.data.items[0]?.statistics?.videoCount || 0,
-        optimalDays: ['Tuesday', 'Wednesday', 'Thursday'], // Most active days
-        optimalHours: [14, 15, 16, 20] // Most active hours
+        optimalDays: ['Tuesday', 'Wednesday', 'Thursday'],
+        optimalHours: [14, 15, 16, 20]
       };
     } catch (error) {
-      this.logger.error('Failed to get channel analytics:', error);
-      return {
-        optimalDays: ['Tuesday', 'Wednesday', 'Thursday'],
-        optimalHours: [14, 15, 16]
-      };
+      return { optimalDays: ['Tuesday', 'Wednesday', 'Thursday'], optimalHours: [14, 15, 16] };
     }
   }
 
   calculateOptimalTimes(analytics) {
-    const { optimalDays, optimalHours } = analytics;
-    
     return {
-      bestDays: optimalDays,
-      bestHours: optimalHours,
+      bestDays: analytics.optimalDays,
+      bestHours: analytics.optimalHours,
       worstDays: ['Monday', 'Friday'],
       worstHours: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 22, 23]
     };
@@ -789,26 +552,18 @@ async uploadCaptions(videoId, captionsPath) {
     const currentDay = currentTime.toLocaleDateString('en-US', { weekday: 'long' });
     const currentHour = currentTime.getHours();
     
-    // If current time is already optimal, return null
-    if (optimalTimes.bestDays.includes(currentDay) && 
-        optimalTimes.bestHours.includes(currentHour)) {
+    if (optimalTimes.bestDays.includes(currentDay) && optimalTimes.bestHours.includes(currentHour)) {
       return null;
     }
     
-    // Find the next optimal time
     const nextOptimalTime = new Date(currentTime);
-    
-    // Try to find an optimal hour on the same day
     for (const hour of optimalTimes.bestHours) {
       if (hour > currentHour) {
         nextOptimalTime.setHours(hour, 0, 0, 0);
-        if (optimalTimes.bestDays.includes(currentDay)) {
-          return nextOptimalTime;
-        }
+        if (optimalTimes.bestDays.includes(currentDay)) return nextOptimalTime;
       }
     }
     
-    // Find next optimal day
     for (let i = 1; i <= 7; i++) {
       const testDate = new Date(currentTime.getTime() + (i * 24 * 60 * 60 * 1000));
       const testDay = testDate.toLocaleDateString('en-US', { weekday: 'long' });
@@ -818,12 +573,11 @@ async uploadCaptions(videoId, captionsPath) {
         return testDate;
       }
     }
-    
-    return null; // No better time found
+    return null; 
   }
 
   async createPublishingReport() {
-    const report = {
+    return {
       queueStatus: {
         total: this.publishQueue.length,
         scheduled: this.publishQueue.filter(e => e.status === 'scheduled').length,
@@ -832,57 +586,38 @@ async uploadCaptions(videoId, captionsPath) {
       },
       upcomingPublications: await this.getUpcomingSchedule(7),
       recentPublications: this.publishQueue
-        .filter(e => e.status === 'published' && 
-                new Date(e.publishedAt) > new Date(Date.now() - 7 * 24 * 60 * 60 * 1000))
+        .filter(e => e.status === 'published' && new Date(e.publishedAt) > new Date(Date.now() - 7 * 24 * 60 * 60 * 1000))
         .sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt)),
       performance: await this.getPublishingPerformance(),
       generatedAt: new Date().toISOString()
     };
-    
-    return report;
   }
 
   async getPublishingPerformance() {
     const published = this.publishQueue.filter(e => e.status === 'published');
+    if (published.length === 0) return { totalPublished: 0, averageScheduleAccuracy: 0, publishingFrequency: 0 };
     
-    if (published.length === 0) {
-      return {
-        totalPublished: 0,
-        averageScheduleAccuracy: 0,
-        publishingFrequency: 0
-      };
-    }
-    
-    // Calculate schedule accuracy
     let totalDelay = 0;
     let accuratePublishes = 0;
     
     published.forEach(entry => {
-      const scheduledTime = new Date(entry.publishTime);
-      const actualTime = new Date(entry.publishedAt);
-      const delay = Math.abs(actualTime - scheduledTime) / (1000 * 60); // minutes
-      
+      const delay = Math.abs(new Date(entry.publishedAt) - new Date(entry.publishTime)) / (1000 * 60);
       totalDelay += delay;
-      if (delay <= 5) accuratePublishes++; // Within 5 minutes is considered accurate
+      if (delay <= 5) accuratePublishes++; 
     });
-    
-    const averageDelay = totalDelay / published.length;
-    const accuracyRate = (accuratePublishes / published.length) * 100;
     
     return {
       totalPublished: published.length,
-      averageScheduleAccuracy: `${accuracyRate.toFixed(1)}%`,
-      averageDelay: `${averageDelay.toFixed(1)} minutes`,
+      averageScheduleAccuracy: `${((accuratePublishes / published.length) * 100).toFixed(1)}%`,
+      averageDelay: `${(totalDelay / published.length).toFixed(1)} minutes`,
       publishingFrequency: this.calculatePublishingFrequency(published)
     };
   }
 
   calculatePublishingFrequency(published) {
     if (published.length < 2) return 'Insufficient data';
-    
     const dates = published.map(p => new Date(p.publishedAt)).sort((a, b) => a - b);
-    const totalDays = (dates[dates.length - 1] - dates[0]) / (1000 * 60 * 60 * 24);
-    const frequency = published.length / totalDays;
+    const frequency = published.length / ((dates[dates.length - 1] - dates[0]) / (1000 * 60 * 60 * 24));
     
     if (frequency >= 1) return `${frequency.toFixed(1)} videos per day`;
     if (frequency >= 0.14) return `${(frequency * 7).toFixed(1)} videos per week`;
@@ -890,20 +625,12 @@ async uploadCaptions(videoId, captionsPath) {
   }
 
   async emergencyPublish(contentId, delayMinutes = 0) {
-    // For urgent publishing needs
     this.logger.info(`Emergency publish requested: ${contentId}`);
-    
-    const entry = this.publishQueue.find(e => 
-      e.productionId === contentId || e.id === contentId
-    );
-    
-    if (!entry) {
-      throw new Error(`Content not found: ${contentId}`);
-    }
+    const entry = this.publishQueue.find(e => e.productionId === contentId || e.id === contentId);
+    if (!entry) throw new Error(`Content not found: ${contentId}`);
     
     if (delayMinutes > 0) {
-      const newPublishTime = new Date(Date.now() + (delayMinutes * 60 * 1000));
-      entry.publishTime = newPublishTime.toISOString();
+      entry.publishTime = new Date(Date.now() + (delayMinutes * 60 * 1000)).toISOString();
       await this.db.updateScheduleEntry(entry);
       this.logger.info(`Emergency scheduled for: ${entry.publishTime}`);
       return entry;
@@ -913,153 +640,61 @@ async uploadCaptions(videoId, captionsPath) {
   }
 
   async pauseScheduledContent(contentId) {
-    const entry = this.publishQueue.find(e => 
-      e.productionId === contentId || e.id === contentId
-    );
-    
-    if (!entry) {
-      throw new Error(`Content not found: ${contentId}`);
-    }
-    
+    const entry = this.publishQueue.find(e => e.productionId === contentId || e.id === contentId);
+    if (!entry) throw new Error(`Content not found: ${contentId}`);
     entry.status = 'paused';
     await this.db.updateScheduleEntry(entry);
-    
-    this.logger.info(`Content paused: ${entry.title}`);
     return entry;
   }
 
   async resumeScheduledContent(contentId, newPublishTime = null) {
-    const entry = this.publishQueue.find(e => 
-      e.productionId === contentId || e.id === contentId
-    );
-    
-    if (!entry) {
-      throw new Error(`Content not found: ${contentId}`);
-    }
-    
+    const entry = this.publishQueue.find(e => e.productionId === contentId || e.id === contentId);
+    if (!entry) throw new Error(`Content not found: ${contentId}`);
     entry.status = 'scheduled';
-    if (newPublishTime) {
-      entry.publishTime = new Date(newPublishTime).toISOString();
-    }
-    
+    if (newPublishTime) entry.publishTime = new Date(newPublishTime).toISOString();
     await this.db.updateScheduleEntry(entry);
-    
-    this.logger.info(`Content resumed: ${entry.title}`);
     return entry;
   }
 
-  /**
-   * Publica un SHORT individual de producto directamente a YouTube como "Unlisted"
-   * para revisión manual sin publicación automática.
-   * 
-   * @param {Object} productShortData - { productId, productName, path, ... }
-   * @param {Object} generalMetadata - { seo, captions, ... } del contenido general
-   * @returns {Promise<Object>} Resultado de la subida (videoId, webUrl, etc)
-   */
-/**
-   * Publica un SHORT individual de producto directamente a YouTube como "Unlisted"
-   * para revisión manual sin publicación automática.
-   */
   async publishProductShort(productShortData, generalMetadata = {}) {
     try {
       const { productId, productName, path: videoPath } = productShortData;
-      
-      if (!videoPath || !fsSync.existsSync(videoPath)) {
-        throw new Error(`Product short video not found: ${videoPath}`);
-      }
+      if (!videoPath || !fsSync.existsSync(videoPath)) throw new Error(`Product short video not found: ${videoPath}`);
       
       this.logger.info(`[ProductShort] Subiendo: "${productName}" (${productId})`);
-      this.logger.info(`[ProductShort] Ruta: ${videoPath}`);
-      
-      // ═══ GENERAR METADATA ESPECÍFICA PARA PRODUCT SHORTMETADATA ═══
-      const metadata = this._prepareProductShortMetadata(
-        productName,
-        generalMetadata
-      );
-      
-// ═══ SUBIR VIDEO A YOUTUBE (SHORTS) CON REINTENTOS ═══
-      this.logger.info(`[ProductShort] Iniciando carga en YouTube...`);
+      const metadata = this._prepareProductShortMetadata(productName, generalMetadata);
       
       const videoUpload = await this._robustChunkedUpload(videoPath, metadata, '[ProductShort]');
-      
       const videoId = videoUpload.data.id;
-      const webUrl = `https://www.youtube.com/watch?v=${videoId}`;
       
       this.logger.success(`[ProductShort] ✅ "${productName}" publicado como UNLISTED`);
-      this.logger.info(`[ProductShort] Video ID: ${videoId}`);
-      this.logger.info(`[ProductShort] URL: ${webUrl}`);
-      
-      return {
-        videoId,
-        webUrl,
-        productId,
-        productName,
-        uploadedAt: new Date().toISOString()
-      };
+      return { videoId, webUrl: `https://www.youtube.com/watch?v=${videoId}`, productId, productName, uploadedAt: new Date().toISOString() };
       
     } catch (error) {
-      // Detallar el tipo de error para debugging
-      const errorMessage = error.response?.data?.error?.message || error.message;
       const errorCode = error.response?.data?.error?.code || 'UNKNOWN';
-      
       this.logger.error(`[ProductShort] ❌ Error: ${errorCode}`);
-      this.logger.error(`[ProductShort] Detalle: ${errorMessage}`);
-      
-      throw {
-        productId: productShortData.productId,
-        productName: productShortData.productName,
-        errorCode,
-        errorMessage,
-        originalError: error
-      };
+      throw { productId: productShortData.productId, productName: productShortData.productName, errorCode, errorMessage: error.message, originalError: error };
     }
   }
-    
-  /**
-   * Prepara metadata optimizada para Product Shorts (9:16 vertical, sin lista).
-   * Estructura:
-   * - Título: "{Nombre del Producto} #shorts #tecnologia"
-   * - Descripción: Breve + CTA + Hashtags
-   * - privacyStatus: process.env.DEFAULT_PRIVACY_STATUS
-   * - Tags: Para búsqueda dentro de YouTube
-   * 
-   * @private
-   */
-/**
-   * Prepara metadata optimizada para Product Shorts (9:16 vertical, sin lista).
-   */
+
   _prepareProductShortMetadata(productName, generalMetadata = {}) {
-    // ═══ TÍTULO ULTRA-CORTO: Máximo 60 caracteres para impacto ═══
     let productDisplayName = productName;
-    if (productDisplayName.length > 30) {
-      productDisplayName = productDisplayName.substring(0, 27) + '...';
-    }
+    if (productDisplayName.length > 30) productDisplayName = productDisplayName.substring(0, 27) + '...';
     
-    // Elegir emoji aleatorio de impacto
     const impactEmojis = ['😱', '🤯', '🔥', '⚡', '💎', '🚀'];
     const randomEmoji = impactEmojis[Math.floor(Math.random() * impactEmojis.length)];
-    
     const title = `El MEJOR ${productDisplayName} ${randomEmoji} #shorts #tech`;
-    
-    // Asegurar que no exceda 100 caracteres
     const finalTitle = title.length > 100 ? title.substring(0, 97) + '...' : title;
     
-    // ═══ DESCRIPCIÓN: Estructura móvil-first ═══
-    const description = 
-      `✨ Descubre por qué todos quieren este producto.\n` +
-      `\n` +
-      `👇 Consíguelo en Amazon:\n` +
-      `${generalMetadata.affiliateUrl || 'https://amazon.com'}\n` +
-      `\n` +
-      `🎬 Ver análisis completo en el video principal (link en bio)\n` +
-      `\n` +
-      `#shorts #gadgets #amazon #tecnologia #techfinds`;
+    const link = generalMetadata.affiliateUrl || 'https://amazon.com';
+    const description = `✨ Descubre por qué todos quieren este producto.\n\n👇 Consíguelo en Amazon:\n${link}\n\n🎬 Ver análisis completo en el video principal (link en bio)\n\n#shorts #gadgets #amazon #tecnologia #techfinds`;
+    const tags = ['shorts', 'gadgets', 'tecnologia', 'tech', 'amazon', 'amazonfinds', 'techfinds', 'review'];
     
-    // ═══ TAGS: Optimizados para descubrimiento vertical ═══
-    const tags = [
-      'shorts', 'gadgets', 'tecnologia', 'tech', 'amazon', 'amazonfinds', 'techfinds', 'review'
-    ];
-    
+    const titleEn = `The BEST ${productDisplayName} ${randomEmoji} #shorts`.substring(0, 100);
+    const titlePt = `O MELHOR ${productDisplayName} ${randomEmoji} #shorts`.substring(0, 100);
+    const descEn = `✨ Discover why everyone wants this.\n\n👇 Get it on Amazon:\n${link}\n\n🎬 Watch full review on our main channel!\n#shorts #techfinds #gadgets`;
+    const descPt = `✨ Descubra por que todos querem isso.\n\n👇 Compre na Amazon:\n${link}\n\n🎬 Assista à análise completa no canal principal!\n#shorts #techfinds #gadgets`;
+
     return {
       snippet: {
         title: finalTitle,
@@ -1069,14 +704,17 @@ async uploadCaptions(videoId, captionsPath) {
         defaultLanguage: generalMetadata.language || 'es',
         defaultAudioLanguage: generalMetadata.language || 'es'
       },
+      localizations: {
+        en: { title: titleEn, description: descEn },
+        pt: { title: titlePt, description: descPt }
+      },
       status: {
-      privacyStatus: process.env.DEFAULT_PRIVACY_STATUS || 'unlisted',
+        privacyStatus: process.env.DEFAULT_PRIVACY_STATUS || 'unlisted',
         selfDeclaredMadeForKids: false
       }
     };
   }
 
-// ═══ MOTOR DE SUBIDA REANUDABLE ANTI-CORTES (VERSIÓN DEFINITIVA) ═══
   async _robustChunkedUpload(videoPath, metadata, logPrefix) {
     const fileSize = fsSync.statSync(videoPath).size;
     this.logger.info(`${logPrefix} Iniciando subida fragmentada. Tamaño real: ${(fileSize / (1024 * 1024)).toFixed(2)} MB`);
@@ -1088,19 +726,13 @@ async uploadCaptions(videoId, captionsPath) {
     const axios = require('axios');
     const https = require('https');
 
-    // APAGAMOS keepAlive: Fuerza a Node.js a crear una conexión fresca cada vez.
-    // Esto evita los ECONNRESET causados por routers que matan sockets inactivos.
-    const httpsAgent = new https.Agent({
-      keepAlive: false 
-    });
-
+    const httpsAgent = new https.Agent({ keepAlive: false });
     const axiosClient = axios.create({
       httpsAgent: httpsAgent,
       maxContentLength: Infinity,
       maxBodyLength: Infinity
     });
 
-// 1. ABRIR SESIÓN ÚNICA EN YOUTUBE
     const parts = metadata.localizations ? 'snippet,status,localizations' : 'snippet,status';
     let uploadUrl;
     let sessionAttempt = 1;
@@ -1115,7 +747,7 @@ async uploadCaptions(videoId, captionsPath) {
               'Content-Type': 'application/json',
               'X-Upload-Content-Length': fileSize.toString(),
               'X-Upload-Content-Type': 'video/mp4',
-              'Connection': 'close' // Instruye al router a cerrar limpio
+              'Connection': 'close'
             },
             timeout: 60000 
           }
@@ -1124,16 +756,12 @@ async uploadCaptions(videoId, captionsPath) {
       } catch (err) {
         this.logger.warn(`${logPrefix} Fallo inicio de sesión (Intento ${sessionAttempt}/3): ${err.message}`);
         sessionAttempt++;
-        if (sessionAttempt > 3) {
-          throw new Error(`Fallo al solicitar espacio en YouTube: ${err.response?.data?.error?.message || err.message}`);
-        }
+        if (sessionAttempt > 3) throw new Error(`Fallo al solicitar espacio en YouTube: ${err.message}`);
         await new Promise(r => setTimeout(r, 10000)); 
       }
     }
     
-    // 2. CORTAR Y EMPUJAR
-    const minChunk = 262144; // Mínimo absoluto de Google (256 KB)
-    // Reducimos el tamaño por defecto si no hay variable .env para evadir bloqueos rápidos
+    const minChunk = 262144;
     const envChunk = process.env.YOUTUBE_CHUNK_SIZE_MB ? parseFloat(process.env.YOUTUBE_CHUNK_SIZE_MB) : 0.5; 
     const targetSize = envChunk * 1024 * 1024;
     const chunkSize = Math.max(minChunk, Math.floor(targetSize / minChunk) * minChunk);
@@ -1154,7 +782,7 @@ async uploadCaptions(videoId, captionsPath) {
 
         while (!success && chunkAttempt <= 5) {
           try {
-            this.logger.info(`${logPrefix} Subiendo paquete ${((end/fileSize)*100).toFixed(0)}% (Intento interno ${chunkAttempt}/5)...`);
+            this.logger.info(`${logPrefix} Subiendo paquete ${((end/fileSize)*100).toFixed(0)}%...`);
             
             const chunkRes = await axiosClient.put(uploadUrl, buffer, {
               headers: {
@@ -1167,27 +795,15 @@ async uploadCaptions(videoId, captionsPath) {
               validateStatus: (status) => status === 308 || status === 200 || status === 201
             });
 
-            if (chunkRes.status === 308) {
+            if (chunkRes.status === 308 || chunkRes.status === 200 || chunkRes.status === 201) {
               success = true;
-            } else if (chunkRes.status === 200 || chunkRes.status === 201) {
-              success = true;
-              videoData = chunkRes.data;
+              if (chunkRes.status !== 308) videoData = chunkRes.data;
             }
           } catch (err) {
-            const errorMsg = err.response?.data?.error?.message || err.message || 'Error de socket local';
-            this.logger.warn(`${logPrefix} Corte de red detectado: ${errorMsg}.`);
-            
-            // 3. RECUPERACIÓN INTELIGENTE (CORREGIDA)
+            this.logger.warn(`${logPrefix} Corte de red. Sincronizando...`);
             try {
-              this.logger.info(`${logPrefix} Sincronizando estado con YouTube tras el corte...`);
-              
-              // CRÍTICO: Se pasa un string vacío '' y se declara Content-Length: 0 explícitamente
               const statusRes = await axiosClient.put(uploadUrl, '', {
-                headers: {
-                  'Content-Range': `bytes */${fileSize}`,
-                  'Content-Length': '0',
-                  'Connection': 'close'
-                },
+                headers: { 'Content-Range': `bytes */${fileSize}`, 'Content-Length': '0', 'Connection': 'close' },
                 timeout: 30000,
                 validateStatus: (status) => status === 308 || status === 200 || status === 201
               });
@@ -1196,34 +812,26 @@ async uploadCaptions(videoId, captionsPath) {
                 const rangeMatch = statusRes.headers.range.match(/bytes=0-(\d+)/);
                 if (rangeMatch && rangeMatch[1]) {
                   const serverBytes = parseInt(rangeMatch[1], 10) + 1;
-                  // Si el servidor guardó la misma cantidad o más de bytes, ajustamos y avanzamos
                   if (serverBytes >= uploadedBytes) {
                     uploadedBytes = serverBytes;
-                    this.logger.info(`${logPrefix} Sincronización exitosa. Reanudando desde byte ${serverBytes}...`);
-                    break; // Rompe el loop de reintentos actual para recalcular el siguiente chunk
+                    break; 
                   }
                 }
               }
-            } catch (syncErr) {
-              const syncMsg = syncErr.response?.data?.error?.message || syncErr.message || 'Sin respuesta del servidor';
-              this.logger.warn(`${logPrefix} Fallo al sincronizar estado: ${syncMsg}`);
-            }
-
+            } catch (syncErr) { }
+            
             chunkAttempt++;
-            if (chunkAttempt > 5) throw new Error(`Conexión perdida definitivamente tras 5 intentos.`);
-            // Aumentamos el tiempo de espera a 15s para dar tiempo al router de liberar puertos atascados
+            if (chunkAttempt > 5) throw new Error(`Conexión perdida definitivamente.`);
             await new Promise(r => setTimeout(r, 5000)); 
           }
         }
-        if (success) {
-          uploadedBytes = end;
-        }
+        if (success) uploadedBytes = end;
       }
     } finally {
       fsSync.closeSync(fd);
     }
-
     return { data: videoData };
   }
 }
+
 module.exports = { PublishingSchedulingAgent };

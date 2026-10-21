@@ -223,7 +223,13 @@ async scheduleContent(productionData, videoType = 'long') {
     this.logger.info(`[Publishing] ║              METADATA PREPARADA PARA YOUTUBE            ║`);
     this.logger.info(`[Publishing] ╠════════════════════════════════════════════════════════╣`);
     this.logger.info(`[Publishing] ║ Tipo: ${isShort ? 'SHORT (9:16)' : 'VIDEO LARGO (16:9)'.padEnd(42)}║`);
-    this.logger.info(`[Publishing] ║ Título: ${videoMetadata.snippet.title.substring(0, 48).padEnd(49)}║`);
+    this.logger.info(`[Publishing] ║ Título (ES): ${videoMetadata.snippet.title.substring(0, 41).padEnd(42)}║`);
+    if (videoMetadata.localizations?.en?.title) {
+      this.logger.info(`[Publishing] ║ Título (EN): ${videoMetadata.localizations.en.title.substring(0, 41).padEnd(42)}║`);
+    }
+    if (videoMetadata.localizations?.pt?.title) {
+      this.logger.info(`[Publishing] ║ Título (PT): ${videoMetadata.localizations.pt.title.substring(0, 41).padEnd(42)}║`);
+    }
     this.logger.info(`[Publishing] ║ Tags: ${videoMetadata.snippet.tags.join(', ').substring(0, 51).padEnd(52)}║`);
     this.logger.info(`[Publishing] ╚════════════════════════════════════════════════════════╝`);
     
@@ -353,7 +359,8 @@ async scheduleContent(productionData, videoType = 'long') {
         description: shortsDescription,
         tags: shortsTags,
         categoryId: String(metadata.seo?.metadata?.category || '28'),
-        defaultLanguage: 'es'
+        defaultLanguage: 'es',
+        defaultAudioLanguage: 'es'
       },
       status: {
         privacyStatus: process.env.DEFAULT_PRIVACY_STATUS || 'unlisted',
@@ -408,17 +415,52 @@ async scheduleContent(productionData, videoType = 'long') {
    * Prepara metadata estándar para videos largos (16:9 horizontal).
    * Estructura tradicional: título, descripción expandida, tags variados.
    */
-  _prepareLongVideoMetadata(scheduleEntry, metadata) {
-    // Validar campos requeridos
-    const title = String(metadata.seo?.title || scheduleEntry?.title || 'Nuevo Video').substring(0, 100);
-    const description = String(metadata.seo?.description || 'Descubrimiento de gadgets increíbles').substring(0, 5000);
+_prepareLongVideoMetadata(scheduleEntry, metadata) {
+    const cleanText = (str, maxLen) => String(str || '').replace(/[<>]/g, '').trim().substring(0, maxLen);
+
+    // Validar campos requeridos en español
+    const title = cleanText(metadata.seo?.title || scheduleEntry?.title || 'Nuevo Video', 100);
+    const description = cleanText(metadata.seo?.description || 'Descubrimiento de gadgets increíbles', 5000);
     const categoryId = String(metadata.seo?.metadata?.category || '28'); // 28 = Science & Technology
     
     // Tags: validar que todos sean strings válidos
-    const tags = (Array.isArray(metadata.seo?.tags) ? metadata.seo.tags : ['tech', 'gadgets', 'amazon'])
+    const tags = (Array.isArray(metadata.seo?.tags) ? metadata.seo.tags : ['tech', 'gadgets'])
       .filter(tag => tag && typeof tag === 'string' && tag.trim().length > 0)
-      .map(tag => String(tag).substring(0, 30))  // Max 30 caracteres por tag
-      .slice(0, 500);  // Max 500 tags
+      .map(tag => String(tag).replace(/[<>]/g, '').substring(0, 30))  // Max 30 caracteres por tag
+      .slice(0, 500);
+
+    // Extraer traducciones desde seoData (con soporte directo, localizations o llmOutput)
+    const titleEn = cleanText(
+      metadata.seo?.title_en ||
+      metadata.seo?.localizations?.en?.title ||
+      metadata.seo?.llmOutput?.title_en ||
+      'Top Must-Have Tech Gadgets You Need To See',
+      100
+    );
+
+    const descEn = cleanText(
+      metadata.seo?.description_en ||
+      metadata.seo?.localizations?.en?.description ||
+      metadata.seo?.llmOutput?.description_en ||
+      `${description}\n\n🔗 Find all product links in the pinned comment below!`,
+      5000
+    );
+
+    const titlePt = cleanText(
+      metadata.seo?.title_pt ||
+      metadata.seo?.localizations?.pt?.title ||
+      metadata.seo?.llmOutput?.title_pt ||
+      'Top Gadgets Tecnológicos Incríveis Que Você Precisa Ver',
+      100
+    );
+
+    const descPt = cleanText(
+      metadata.seo?.description_pt ||
+      metadata.seo?.localizations?.pt?.description ||
+      metadata.seo?.llmOutput?.description_pt ||
+      `${description}\n\n🔗 Encontre todos os links dos produtos no primeiro comentário fixado!`,
+      5000
+    );
 
     return {
       snippet: {
@@ -426,7 +468,18 @@ async scheduleContent(productionData, videoType = 'long') {
         description: description,
         tags: tags,
         categoryId: categoryId,
-        defaultLanguage: 'es'
+        defaultLanguage: 'es',
+        defaultAudioLanguage: 'es'
+      },
+      localizations: {
+        en: {
+          title: titleEn,
+          description: descEn
+        },
+        pt: {
+          title: titlePt,
+          description: descPt
+        }
       },
       status: {
         privacyStatus: process.env.DEFAULT_PRIVACY_STATUS || 'unlisted',
@@ -610,7 +663,7 @@ async scheduleContent(productionData, videoType = 'long') {
     }
   }
 
-  async uploadCaptions(videoId, captionsPath) {
+async uploadCaptions(videoId, captionsPath) {
     try {
       const captionsContent = await fs.readFile(captionsPath, 'utf8');
       
@@ -619,8 +672,8 @@ async scheduleContent(productionData, videoType = 'long') {
         requestBody: {
           snippet: {
             videoId: videoId,
-            language: 'en',
-            name: 'English Captions',
+            language: 'es',
+            name: 'Español',
             isDraft: false
           }
         },
@@ -1047,13 +1100,14 @@ async scheduleContent(productionData, videoType = 'long') {
       maxBodyLength: Infinity
     });
 
-    // 1. ABRIR SESIÓN ÚNICA EN YOUTUBE
+// 1. ABRIR SESIÓN ÚNICA EN YOUTUBE
+    const parts = metadata.localizations ? 'snippet,status,localizations' : 'snippet,status';
     let uploadUrl;
     let sessionAttempt = 1;
     while (!uploadUrl && sessionAttempt <= 3) {
       try {
         const initRes = await axiosClient.post(
-          'https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status',
+          `https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=${parts}`,
           metadata,
           {
             headers: {

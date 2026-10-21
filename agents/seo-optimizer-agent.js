@@ -53,7 +53,7 @@ class SEOOptimizerAgent {
       const hashtags = await this.generateHashtags(strategy);
       const niche = this.identifyNiche(strategy);
 
-      // ── Llamar al LLM con contrato estricto ──
+// ── Llamar al LLM con contrato estricto ──
       let llmResult = null;
       if (this.openai) {
         try {
@@ -64,30 +64,49 @@ class SEOOptimizerAgent {
       }
 
       // ── Fallback heurístico si LLM no disponible ──
-      let title, description, tags;
+      let title, description, tags, title_en, description_en, title_pt, description_pt;
       if (llmResult) {
         title = llmResult.titulo_seleccionado;
         description = llmResult.descripcion_optimizada;
         tags = llmResult.tags;
+        title_en = llmResult.title_en || '';
+        description_en = llmResult.description_en || '';
+        title_pt = llmResult.title_pt || '';
+        description_pt = llmResult.description_pt || '';
       } else {
         title = await this.optimizeTitle(script.title, strategy);
         description = await this.generateDescription(script, strategy);
         tags = await this.generateTags(script, strategy);
+        title_en = 'Top Must-Have Tech Gadgets You Need To See';
+        description_en = description;
+        title_pt = 'Top Gadgets Tecnológicos Incríveis Que Você Precisa Ver';
+        description_pt = description;
       }
 
       // ── Saneamientos defensivos sobre la salida del LLM ──
       title = this._enforceTitleLimit(title, 65);
+      title_en = this._enforceTitleLimit(title_en || title, 65);
+      title_pt = this._enforceTitleLimit(title_pt || title, 65);
       tags = this._enforceTagLimits(tags);
 
-      // ── Garantizar que la lista de afiliados+timestamps esté presente ──
-      // Si el LLM la omitió o cambió el formato, la inyectamos.
-      description = this._ensureAffiliateListInDescription(description, productsData);
+      // ── Garantizar que la lista de afiliados+timestamps esté presente en los 3 idiomas ──
+      description = this._ensureAffiliateListInDescription(description, productsData, '🛒 PRODUCTOS DEL VIDEO:');
+      description_en = this._ensureAffiliateListInDescription(description_en || description, productsData, '🛒 PRODUCTS IN THIS VIDEO:');
+      description_pt = this._ensureAffiliateListInDescription(description_pt || description, productsData, '🛒 PRODUTOS DO VÍDEO:');
 
       const seoScore = await this.calculateSEOScore(title, description, tags);
 
       const seoData = {
         title,
         description,
+        title_en,
+        description_en,
+        title_pt,
+        description_pt,
+        localizations: {
+          en: { title: title_en, description: description_en },
+          pt: { title: title_pt, description: description_pt }
+        },
         tags,
         hashtags,
         chapters,
@@ -100,13 +119,12 @@ class SEOOptimizerAgent {
           language: process.env.CONTENT_LANGUAGE || 'es',
           category: this.selectCategory(strategy)
         },
-        // Salida cruda del LLM, útil para debugging y para publishing-scheduling-agent
         llmOutput: llmResult || null,
         createdAt: new Date().toISOString()
       };
 
       await this.db.saveSEOData(seoData);
-      this.logger.info(`SEO optimization complete. Score: ${seoScore}/100 — Title (${title.length}c): "${title}"`);
+      this.logger.info(`SEO optimization complete. Score: ${seoScore}/100 — Title (${title.length}c): "${title}" | EN: "${title_en}"`);
       return seoData;
     } catch (error) {
       this.logger.error('Failed to optimize SEO:', error);
@@ -160,9 +178,9 @@ class SEOOptimizerAgent {
    * Llama a GPT-4o con el System Prompt CTR-first y obtiene JSON estricto:
    *   { titulo_seleccionado, descripcion_optimizada, tags }
    */
-  async _generateSEOWithLLM(strategy, productsData, niche) {
+async _generateSEOWithLLM(strategy, productsData, niche) {
     const year = new Date().getFullYear();
-    const channelName = process.env.CHANNEL_NAME || 'Tech Finds Amazon';
+    const channelName = (process.env.CHANNEL_NAME || 'Tech Finds Global').replace(/amazon/gi, 'Global');
     const language = process.env.CONTENT_LANGUAGE || 'es';
 
     // Lista exacta de líneas de afiliado que el LLM DEBE incluir literalmente.
@@ -176,47 +194,62 @@ class SEOOptimizerAgent {
       `NO escribes como una IA: tu copia es punzante, emocional y humana.`,
       '',
       '╔══════════════════════════════════════════════════════════════╗',
-      '║  REGLA 1 — TÍTULOS PARA CTR (3 OPCIONES)                    ║',
+      '║  REGLA 1 — TÍTULOS PARA CTR (3 OPCIONES)                     ║',
       '║  Genera 3 títulos. Cada uno DEBE:                            ║',
       '║   • Tener MÁXIMO 65 caracteres (cuenta los espacios).        ║',
       '║   • Incluir un gancho emocional fuerte. Ejemplos válidos:    ║',
-      '║     "Brutales", "Prohibidos", "Imprescindibles", "Locos",   ║',
-      '║     "Increíbles", "Salvajes", "Adictivos", "Insanos".       ║',
+      '║     "Brutales", "Prohibidos", "Imprescindibles", "Locos",    ║',
+      '║     "Increíbles", "Salvajes", "Adictivos", "Insanos".        ║',
       `║   • Mencionar el nicho (${niche}/gadgets/tech) y el año ${year}. ║`,
-      '║   • Sonar humano. NUNCA empezar con "Descubre los..." ni    ║',
-      '║     "Top 10 mejores...". Variar la apertura.                ║',
+      '║   • Sonar humano. NUNCA empezar con "Descubre los..." ni     ║',
+      '║     "Top 10 mejores...". Variar la apertura.                 ║',
       '║  Después elige el MEJOR de los 3 como "titulo_seleccionado". ║',
       '╠══════════════════════════════════════════════════════════════╣',
-      '║  REGLA 2 — DESCRIPCIÓN EN FORMATO EMBUDO                    ║',
-      '║  Las PRIMERAS 2 LÍNEAS son lo único visible en búsqueda.    ║',
-      '║  Línea 1-2: párrafo denso en LSI keywords resumiendo los    ║',
-      '║  gadgets, mencionando "bienvenidos a tech finds amazon"    ║',
-      '║  de forma natural (autoridad de marca).                     ║',
-      '║  Después un párrafo expandido con keywords semánticas.      ║',
+      '║  REGLA 2 — DESCRIPCIÓN EN FORMATO EMBUDO                     ║',
+      '║  Las PRIMERAS 2 LÍNEAS son lo único visible en búsqueda.     ║',
+      '║  Línea 1-2: párrafo denso en LSI keywords resumiendo los     ║',
+      '║  gadgets, mencionando "Bienvenidos a Tech Finds Global"      ║',
+      '║  de forma natural (autoridad de marca).                      ║',
+      '║  Después un párrafo expandido con keywords semánticas.       ║',
       '╠══════════════════════════════════════════════════════════════╣',
-      '║  REGLA 3 — TIMESTAMPS + AFILIADOS (FORMATO LITERAL)         ║',
+      '║  REGLA 3 — TIMESTAMPS + AFILIADOS (FORMATO LITERAL)          ║',
       '║  En el cuerpo, incluye una sección titulada                  ║',
       '║  "🛒 PRODUCTOS DEL VIDEO:" seguida de UNA LÍNEA POR PRODUCTO ║',
-      '║  con este formato EXACTO (copia textual, NO inventes):      ║',
-      '║    [Timestamp] - [Nombre Corto y Atractivo] 👉 [Link]       ║',
+      '║  con este formato EXACTO (copia textual, NO inventes):       ║',
+      '║    [Timestamp] - [Nombre Corto y Atractivo] 👉 [Link]        ║',
       '║  Te entrego las líneas ya armadas en "afiliados_obligatorios"║',
-      '║  Debes copiarlas TAL CUAL, en el mismo orden, sin alterar   ║',
+      '║  Debes copiarlas TAL CUAL, en el mismo orden, sin alterar    ║',
       '║  ASINs, URLs ni timestamps.                                  ║',
       '╠══════════════════════════════════════════════════════════════╣',
-      '║  REGLA 4 — TAGS (15-20 EN 3 NIVELES)                        ║',
-      '║   Nivel A — Amplias (3-5):  ej. "tecnologia", "gadgets"     ║',
+      '║  REGLA 4 — TAGS (15-20 EN 3 NIVELES)                         ║',
+      '║   Nivel A — Amplias (3-5):  ej. "tecnologia", "gadgets"      ║',
       '║   Nivel B — Específicas (5-8): ej. "smart home", "accesorios escritorio" ║',
-      '║   Nivel C — Intención de compra (5-7): ej. "mejores gadgets║',
-      '║              baratos en amazon", "comprar gadgets 2026"     ║',
-      '║  Devuelve el array combinado en "tags" (15-20 strings).     ║',
-      '║  Sin "#" delante. Sin duplicados. Total ≤ 500 caracteres.   ║',
+      '║   Nivel C — Intención de compra (5-7): ej. "mejores gadgets  ║',
+      '║              baratos", "comprar gadgets 2026"                ║',
+      '║  Devuelve el array combinado en "tags" (15-20 strings).      ║',
+      '║  Sin "#" delante. Sin duplicados. Total ≤ 500 caracteres.    ║',
+      '╠══════════════════════════════════════════════════════════════╣',
+      '║  REGLA 5 — LOCALIZACIÓN MULTILINGÜE (INGLÉS Y PORTUGUÉS)     ║',
+      '║  Traduce de forma persuasiva y optimizada para SEO el        ║',
+      '║  "titulo_seleccionado" y la "descripcion_optimizada":        ║',
+      '║   • Inglés: guarda en "title_en" (≤65 chars) y               ║',
+      '║     "description_en".                                        ║',
+      '║   • Portugués: guarda en "title_pt" (≤65 chars) y            ║',
+      '║     "description_pt".                                        ║',
+      '║   • En las descripciones traducidas, traduce también los     ║',
+      '║     nombres de los productos, pero mantén intactos los       ║',
+      '║     timestamps, los saltos de línea y las URLs de afiliado.  ║',
       '╚══════════════════════════════════════════════════════════════╝',
       '',
-      'REGLA 5 — SALIDA ESTRICTA EN JSON (sin texto extra):',
+      'REGLA 6 — SALIDA ESTRICTA EN JSON (sin texto extra):',
       '{',
       '  "titulos_candidatos": ["...", "...", "..."],',
       '  "titulo_seleccionado": "El mejor título elegido (≤65 caracteres)",',
       '  "descripcion_optimizada": "Texto completo del embudo con timestamps y links...",',
+      '  "title_en": "Best translated title in English (≤65 chars)",',
+      '  "description_en": "Full translated funnel description in English with timestamps and links...",',
+      '  "title_pt": "Melhor título traduzido em português (≤65 chars)",',
+      '  "description_pt": "Descrição completa traduzida em português com timestamps e links...",',
       '  "tags": ["tag1", "tag2", "..."]',
       '}',
       'PROHIBIDO incluir cualquier campo fuera de este JSON.',
@@ -228,7 +261,7 @@ class SEOOptimizerAgent {
       `Tema del video: ${strategy.topic}`,
       `Nicho identificado: ${niche}`,
       `Año actual: ${year}`,
-      `Audiencia objetivo: ${strategy.targetAudience || 'consumidores de tech en LATAM y España'}`,
+      `Audiencia objetivo: ${strategy.targetAudience || 'consumidores globales de tecnología'}`,
       `Keywords semilla: ${(strategy.keywords || []).slice(0, 10).join(', ')}`,
       '',
       'PRODUCTOS DEL VIDEO (orden cronológico, con timestamps reales):',
@@ -239,8 +272,7 @@ class SEOOptimizerAgent {
         asin: p.asin
       })), null, 2),
       '',
-      'AFILIADOS OBLIGATORIOS — copia estas líneas LITERALMENTE en el cuerpo de la descripción,',
-      'bajo el encabezado "🛒 PRODUCTOS DEL VIDEO:", en este mismo orden, sin alterar nada:',
+      'AFILIADOS OBLIGATORIOS — copia estas líneas LITERALMENTE en el cuerpo de la descripción (y traduce los nombres manteniendo links y timestamps en description_en y description_pt):',
       ...affiliateLines.map(l => `    ${l}`),
       '',
       'Genera el JSON ahora.'
@@ -272,7 +304,6 @@ class SEOOptimizerAgent {
     if (!title) return '';
     let t = String(title).trim();
     if (t.length <= maxChars) return t;
-    // Truncar respetando palabras
     t = t.substring(0, maxChars);
     const lastSpace = t.lastIndexOf(' ');
     if (lastSpace > maxChars * 0.7) t = t.substring(0, lastSpace);
@@ -281,7 +312,6 @@ class SEOOptimizerAgent {
 
   _enforceTagLimits(tags) {
     if (!Array.isArray(tags)) return [];
-    // Quitar "#", trim, dedupe (case-insensitive), límite 500 chars total
     const seen = new Set();
     const cleaned = [];
     for (let raw of tags) {
@@ -303,11 +333,7 @@ class SEOOptimizerAgent {
     return final;
   }
 
-  /**
-   * Si el LLM omitió la lista de afiliados o cambió ASINs/URLs, la añadimos al final.
-   * La detección es laxa: basta con que aparezca el primer ASIN.
-   */
-  _ensureAffiliateListInDescription(description, productsData) {
+  _ensureAffiliateListInDescription(description, productsData, headerText = '🛒 PRODUCTOS DEL VIDEO:') {
     if (!description) description = '';
     const validAffiliates = productsData.filter(p => p.affiliateUrl);
     if (validAffiliates.length === 0) return description;
@@ -316,10 +342,10 @@ class SEOOptimizerAgent {
     const alreadyPresent = firstAsin && description.includes(firstAsin);
     if (alreadyPresent) return description;
 
-    this.logger.warn('Lista de afiliados ausente en descripción del LLM — inyectando bloque al final.');
+    this.logger.warn(`Lista de afiliados ausente en descripción (${headerText}) — inyectando bloque al final.`);
     const block = [
       '',
-      '🛒 PRODUCTOS DEL VIDEO:',
+      headerText,
       ...validAffiliates.map(p => `${p.timestamp} - ${p.name} 👉 ${p.affiliateUrl}`),
       ''
     ].join('\n');

@@ -282,6 +282,21 @@ async _sanitizeScriptForTTS(text) {
       [/\bfalsas alarma\b/gi,     'falsas alarmas'],
       [/\bpulserra\b/gi,          'pulsera'],
       [/\bsila\b/gi,              'silla'],
+      // Nuevas correcciones auditadas del último video
+      [/\b(\d+)\s*-?\s*Pack\s+de\b/gi, 'paquete de $1'],         // Evita "paquete de 2 de..."
+      [/\bgafas inteligentes\s+(AI|IA|inteligencia artificial)\b/gi, 'gafas con inteligencia artificial'],
+      [/\bIntroduzco (los|las|el|la)\b/gi, 'Te presento $1'],    // Corrige traducción literal de "Introducing"
+      [/\b21\s+(luces|pares|piezas|horas|días)\b/gi, 'veintiún $1'], // Corrige "veintiuno luces"
+      [/\bMagSafe\b/gi,                'Mag-seif'],              // Evita que diga "Mag-sa-fe"
+      [/\bGalaxy Note\b/gi,            'Gálaxi Nout'],           // Evita que diga "no-te"
+      [/(\d+)\s*MP\b/gi,               '$1 megapíxeles'],        // 8MP -> 8 megapíxeles
+      [/(\d+)\s*fps\b/gi,              '$1 cuadros por segundo'],// 30fps -> 30 cuadros por segundo
+      [/\bHD\b/g,                      'de alta definición'],    // Evita que diga "eish-de"
+      [/\bvlogging\b/gi,               'vlogs'],                 // Evita que diga "blog-jing"
+      [/\bRFID\b/gi,                   'erre-efe-i-de'],         // Evita que diga "errefid"
+      [/\b(NRR|SNR)\b/g,               ''],                      // Elimina siglas industriales de ruido
+      [/\bVOISEN\b/gi,                 'Vóisen'],                // Evita que diga "uasai en"
+      [/\bzlata\b/gi,                  ''],                      // Limpia código extraño en lámpara
 
       // 7. Limpieza de mayúsculas accidentales a mitad de palabra (ej. "boLSA" -> "bolsa")
       [/\b([a-záéíóúñ]+)([A-ZÁÉÍÓÚÑ]+[a-záéíóúñA-ZÁÉÍÓÚÑ]*)\b/g, (match) => match.toLowerCase()],

@@ -618,13 +618,18 @@ async _generateProductNarrationIterative(productData, channelName, language, log
     try {
       logger.info(`[IterativeGen] Generando narración para: "${title}" (${asin})`);
       
-const response = await this.openai.chat.completions.create({
-  model: 'gpt-4o',
-  temperature: 0.7, // Temperatura controlada para evitar errores ortográficos en Qwen 7B
-  frequency_penalty: 0.5, // Penaliza la repetición de frases
+      // Recortamos características excesivamente largas para evitar que Qwen copie párrafos enteros del fabricante
+      const featuresLimpias = (caracteristicas_principales || [])
+        .slice(0, 4)
+        .map(f => String(f).substring(0, 140));
+
+      const response = await this.openai.chat.completions.create({
+        model: 'gpt-4o',
+        temperature: 0.7, // Temperatura controlada para evitar errores ortográficos en Qwen 7B
+        frequency_penalty: 0.5, // Penaliza la repetición de frases
         max_tokens: 350,
         response_format: { type: 'json_object' },
-messages: [
+        messages: [
           {
             role: 'system',
             content: [
@@ -632,34 +637,34 @@ messages: [
               `Idioma: ${language}. Optimiza para síntesis de voz profesional (TTS).`,
               '',
               '🔥 REGLAS ESTRICTAS DE ESTILO Y TONO (MODO YOUTUBER VIRAL):',
-              '1. PROHIBIDO usar formatos de teletienda o clichés como "suele ser un problema", "es un dilema", "la solución definitiva", "hola a todos", "bienvenidos a otro video" o "en conclusión".',
-              '2. PRESENTACIÓN CASUAL (10-15 palabras): Menciona qué es el producto de forma natural en español. PROHIBIDO leer el título crudo de Amazon si suena robótico (ej: NUNCA escribas "El 2PACK Gran Puerta Reemplazo", escribe "Este paquete de dos puertas para mascotas").',
-              '3. Concéntrate en lo increíble o útil del producto de forma casual, no leas especificaciones aburridas.',
-              '4. NUNCA repitas la misma estructura para iniciar dos productos. Usa transiciones frescas (ej: "Pero ojo con este...", "Cambiando totalmente de tema...", "Este siguiente gadget me dejó sin palabras...", "Si odias hacer X, vas a amar esto...").',
-              '5. Escribe EXCLUSIVAMENTE el texto hablado. Cero emojis, cero acotaciones como [Muestra el producto] o [Intro].',
-              '6. Usa oraciones cortas y contundentes para mantener un ritmo rápido que retenga a la audiencia.',
+              '1. PROHIBIDO usar formatos de teletienda, primera persona como fabricante ("nuestra marca", "nuestra billetera", "introduzco") o clichés de introducción.',
+              '2. PRESENTACIÓN CASUAL (10-12 palabras): Menciona qué es el artículo usando su nombre genérico sencillo en español (por ejemplo: esta billetera delgada, estos tapones para oídos, este protector de pantalla). PROHIBIDO leer el título crudo de catálogo o códigos de modelo.',
+              '3. Habla siempre en segunda persona ("te permite", "puedes") destacando por qué es útil de forma casual, sin leer certificaciones aburridas ni siglas industriales.',
+              '4. NUNCA repitas la misma estructura para iniciar dos productos. Alterna entre preguntas directas y situaciones cotidianas reales.',
+              '5. Escribe EXCLUSIVAMENTE el texto hablado. Cero emojis, cero acotaciones.',
+              '6. EXTENSIÓN CONTROLADA: El texto completo debe tener entre 50 y 65 palabras en total para que nunca supere la duración del video.',
               '',
-              'ESTRUCTURA DE NARRACIÓN ÚNICA (4 a 5 oraciones TOTALES):',
-              'Redacta un solo texto fluido que siga este flujo:',
-              '1. GANCHO DINÁMICO (15-20 palabras): Inicia directo al grano con un gancho humano o una situación real sin clichés. NO menciones el producto aún.',
-              '2. PRESENTACIÓN CASUAL (10-15 palabras): Nombra el producto como si se lo mostraras a un amigo.',
-              '3. EL SECRETO/LA MAGIA (20-30 palabras): Menciona 3 o 4 datos técnicos, pero traducidos a beneficio real y coloquial.',
-              '4. EL REMATE FINAL (10-15 palabras): Termina la narración mencionando casualmente el precio aproximado y sugiriendo revisar el enlace (ej: "Lo consigues por unos [Precio] en el primer comentario" o "Por [Precio] tienes el enlace abajo"). ¡NO REPITAS EL PRECIO MÁS DE UNA VEZ!',
+              'ESTRUCTURA DE NARRACIÓN ÚNICA (4 oraciones TOTALES):',
+              'Redacta un solo párrafo fluido que siga este orden:',
+              '1. GANCHO DINÁMICO (12-15 palabras): Inicia directo al grano con una situación cotidiana real. NO menciones el producto aún.',
+              '2. PRESENTACIÓN CASUAL (10-12 palabras): Nombra el tipo de producto en español natural como si se lo mostraras a un amigo.',
+              '3. EL SECRETO/LA MAGIA (20-25 palabras): Resume sus 2 mejores ventajas traducidas a beneficio práctico en el día a día.',
+              '4. EL REMATE FINAL (10-12 palabras): Termina la última oración diciendo el precio aproximado y que el enlace está en el primer comentario. ¡NO REPITAS EL PRECIO MÁS DE UNA VEZ Y PROHIBIDO AGREGAR FRASES DESPUÉS DE "PRIMER COMENTARIO"!',
               '',
               'PROHIBICIONES ABSOLUTAS PARA EL TTS (KOKORO):',
               '- ❌ Símbolo "$" (escribe SIEMPRE la palabra "dólares").',
               '- ❌ REPETIR EL NOMBRE DEL PRODUCTO: Menciónalo SOLO UNA VEZ. Luego usa pronombres.',
               '- DESTRUYE símbolos impronunciables: Elimina ™, ®, ©, ³, ², +, &, /.',
-              '- Escribe TODAS las siglas técnicas como palabras (ej. no escribas "W", escribe "vatios". No escribas "mAh", escribe "miliamperios").',
+              '- Escribe TODAS las siglas técnicas como palabras completas en español.',
               '',
               `Marco narrativo base: ${marco_narrativo_obligatorio}`,
               `Estilo de gancho: ${hook_style.desc}`,
               '',
               'Responde ÚNICAMENTE en JSON:',
               '{',
-              '  "narracion": "<texto completo combinando los pasos 1 al 4, optimizado para TTS>",',
+              '  "narracion": "<texto completo combinando los pasos 1 al 4, máximo 65 palabras>",',
               '  "word_count": <número exacto de palabras>,',
-              '  "sales_cta": "",', // Dejamos esto vacío para que el código de ensamblaje lo ignore sin romperse
+              '  "sales_cta": "",',
               '  "escenas_visuales": ["prompt visual 1"]',
               '}'
             ].join('\n')
@@ -669,14 +674,14 @@ messages: [
             content: [
               `Producto: ${title}`,
               `Precio: ${precio}`,
-              `Características: ${caracteristicas_principales.join('; ')}`,
-              `Genera la reseña completa, fluida y sin repetir información. El precio solo debe mencionarse una vez al final.`
+              `Características: ${featuresLimpias.join('; ')}`,
+              `Genera la reseña completa de 50 a 65 palabras en español natural. El precio (${precio}) solo debe mencionarse una vez en la oración final junto con "en el primer comentario".`
             ].join('\n')
           }
         ]
       });
 
-const content = response.choices[0].message.content;
+      const content = response.choices[0].message.content;
       let parsed = JSON.parse(content);
 
       // Limpieza de formato numérico anglosajón para evitar "20,000" -> "20 coma 000"
@@ -684,6 +689,8 @@ const content = response.choices[0].message.content;
       narracionText = narracionText.replace(/(\d+),(\d{3})/g, '$1$2'); // 20,000 -> 20000
       // Evita que palabras mal escritas como "boLSA" se deletreen como siglas
       narracionText = narracionText.replace(/\b([a-záéíóúñ]+)([A-ZÁÉÍÓÚÑ]+)\b/g, (m) => m.toLowerCase());
+      // Si Qwen agregó alguna frase suelta después de "primer comentario." (como "Vamos a echar un vistazo"), la cortamos limpio:
+      narracionText = narracionText.replace(/(primer comentario\.).*$/i, '$1');
 
       const totalWords = narracionText.split(/\s+/).filter(Boolean).length;
       const estimatedSeconds = Math.ceil(totalWords / 2.5);
@@ -708,7 +715,6 @@ const content = response.choices[0].message.content;
       };
     }
   }
-
   /**
    * Generate a Top N listicle script using GPT-4o.
    * Each product gets its own section with a mandatory sales CTA.
